@@ -6,7 +6,7 @@ cd "$(dirname "$0")/.."
 
 HEADERS=$(cat <<EOF
 { \
-    "Content-Security-Policy": "default-src 'none'; frame-ancestors 'none'", \
+    "Content-Security-Policy": "default-src 'self' d3js.org; font-src fonts.googleapis.com; style-src use.fontawesome.com; frame-ancestors 'none'", \
     "Strict-Transport-Security": "max-age=63072000", \
     "X-Content-Type-Options": "nosniff" \
 }
