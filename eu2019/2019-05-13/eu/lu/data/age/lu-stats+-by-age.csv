@@ -1,0 +1,8 @@
+country_code_filter	country_name_filter	age_code	age_label	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+LU	Luxembourg	13_17	13-17	437	153	422126	117277	2486	67
+LU	Luxembourg	18_24	18-24	2705	645	4819031	1602142	25021	2296
+LU	Luxembourg	25_34	25-34	3135	725	5012959	1731051	27065	2605
+LU	Luxembourg	35_44	35-44	3065	713	3057660	1020671	17546	1436
+LU	Luxembourg	45_54	45-54	2907	682	2130339	677850	12454	833
+LU	Luxembourg	55_64	55-64	2342	631	1262852	374907	8104	386
+LU	Luxembourg	65_	65+	2084	558	644027	188761	4092	182

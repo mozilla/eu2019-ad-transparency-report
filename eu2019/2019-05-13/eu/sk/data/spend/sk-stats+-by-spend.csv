@@ -1,0 +1,7 @@
+country_code_filter	country_name_filter	spend_code	spend_label	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+SK	Slovakia	0_50	0 - 50	5539	724	48482995	12287688	406138	125
+SK	Slovakia	50_100	50 - 100	5668	684	499211	140562	3144	344
+SK	Slovakia	100_1k	100 - 1k	1143	309	40497559	16423108	185467	48342
+SK	Slovakia	1k_5k	1k - 5k	104	37	12447670	5902191	78265	15762
+SK	Slovakia	5k_10k	5k - 10k	6	5	9702	4851	260	64
+SK	Slovakia	10k_50k	10k - 50k	1	1	6818	3409	303	60

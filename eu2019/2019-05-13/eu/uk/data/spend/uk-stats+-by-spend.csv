@@ -1,0 +1,8 @@
+country_code_filter	country_name_filter	spend_code	spend_label	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+UK	United Kingdom	0_50	0 - 50	47960	4945	213271885	51517897	3652973	296
+UK	United Kingdom	50_100	50 - 100	48171	4872	48827453	12157756	799114	6020
+UK	United Kingdom	100_1k	100 - 1k	50187	4061	381313428	127609274	3762346	685192
+UK	United Kingdom	1k_5k	1k - 5k	1064	185	186129659	83684988	1946925	554550
+UK	United Kingdom	5k_10k	5k - 10k	371	72	52657883	23669860	715507	158819
+UK	United Kingdom	10k_50k	10k - 50k	23	10	15025657	7349680	230264	100856
+UK	United Kingdom	50k_100k	50k - 100k	1	1	339972	169986	19670	3934
