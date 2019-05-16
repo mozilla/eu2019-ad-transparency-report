@@ -4,14 +4,12 @@ set -o errexit -o pipefail -o nounset
 
 cd "$(dirname "$0")/.."
 
-pwd
-exit
-
 HEADERS=$(cat <<EOF
 "Content-Security-Policy": "default-src 'none'; frame-ancestors 'none'", \
 "Strict-Transport-Security": "max-age=63072000", \
 "X-Content-Type-Options": "nosniff"
-EOF)
+EOF
+)
 
 aws s3 sync \
     --delete \
