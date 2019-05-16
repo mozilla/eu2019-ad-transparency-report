@@ -5,9 +5,11 @@ set -o errexit -o pipefail -o nounset
 cd "$(dirname "$0")/.."
 
 HEADERS=$(cat <<EOF
-"Content-Security-Policy": "default-src 'none'; frame-ancestors 'none'", \
-"Strict-Transport-Security": "max-age=63072000", \
-"X-Content-Type-Options": "nosniff"
+{ \
+    "Content-Security-Policy": "default-src 'none'; frame-ancestors 'none'", \
+    "Strict-Transport-Security": "max-age=63072000", \
+    "X-Content-Type-Options": "nosniff" \
+}
 EOF
 )
 
