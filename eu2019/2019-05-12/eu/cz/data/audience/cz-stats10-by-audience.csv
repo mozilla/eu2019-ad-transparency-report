@@ -1,0 +1,11 @@
+country_code_filter	country_name_filter	audience_code	audience_label	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+CZ	Czechia	m25_34	male (25-34)	4865	900	14552773	5257035	58231	13470
+CZ	Czechia	m18_24	male (18-24)	4417	806	11997526	4439984	43874	11874
+CZ	Czechia	m35_44	male (35-44)	5078	882	8983022	3010950	37201	8486
+CZ	Czechia	f18_24	female (18-24)	4470	816	8710822	3331453	27913	8340
+CZ	Czechia	f25_34	female (25-34)	5131	907	7929367	2837978	29270	6935
+CZ	Czechia	m45_54	male (45-54)	4598	842	5333933	1742279	22519	5367
+CZ	Czechia	f35_44	female (35-44)	5059	890	5183451	1816569	20699	4926
+CZ	Czechia	f45_54	female (45-54)	4656	845	3840648	1289807	15615	3860
+CZ	Czechia	f55_64	female (55-64)	3916	775	3142337	983573	13501	3318
+CZ	Czechia	m55_64	male (55-64)	3912	775	2765917	838627	11198	2696

@@ -1,0 +1,9 @@
+country_code_filter	country_name_filter	impression_code	impression_label	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+CZ	Czechia	0_1k	0 - 1k	2072	252	1743192	0	14973	739
+CZ	Czechia	1k_5k	1k - 5k	1573	391	5215201	1043249	29390	5084
+CZ	Czechia	5k_10k	5k - 10k	709	269	3836950	1918667	24129	6084
+CZ	Czechia	10k_50k	10k - 50k	1333	372	28683387	5736792	81135	17755
+CZ	Czechia	50k_100k	50k - 100k	331	150	9483787	4741941	32585	10008
+CZ	Czechia	100k_200k	100k - 200k	208	91	8431619	4215830	33574	8800
+CZ	Czechia	200k_500k	200k - 500k	172	77	13551220	5420499	47903	12288
+CZ	Czechia	500k_1m	500k - 1m	70	36	9638835	4819422	44618	14999

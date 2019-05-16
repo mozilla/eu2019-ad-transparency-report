@@ -1,0 +1,11 @@
+country_code_filter	country_name_filter	audience_code	audience_label	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+EE	Estonia	m25_34	male (25-34)	1968	497	2396542	861042	13625	1950
+EE	Estonia	f25_34	female (25-34)	2115	507	2349838	891021	12831	1934
+EE	Estonia	f18_24	female (18-24)	1922	462	2046151	760345	10423	1379
+EE	Estonia	m18_24	male (18-24)	1799	451	1863963	664781	10196	1354
+EE	Estonia	f35_44	female (35-44)	2080	497	1777865	646487	10513	1490
+EE	Estonia	m35_44	male (35-44)	1936	489	1507914	531837	9069	1207
+EE	Estonia	f45_54	female (45-54)	1981	471	1318680	462747	7978	967
+EE	Estonia	f55_64	female (55-64)	1470	437	1029788	348699	5918	496
+EE	Estonia	m45_54	male (45-54)	1830	460	882015	299386	5367	624
+EE	Estonia	f65_	female (65+)	1315	388	708667	233937	4203	320
