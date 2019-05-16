@@ -1,0 +1,9 @@
+country_code_filter	country_name_filter	impression_code	impression_label	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+LT	Lithuania	0_1k	0 - 1k	373	152	144416	0	14121	0
+LT	Lithuania	1k_5k	1k - 5k	655	253	1151614	230368	22585	13
+LT	Lithuania	5k_10k	5k - 10k	375	178	1284986	642557	12638	10
+LT	Lithuania	10k_50k	10k - 50k	869	274	12754332	2550917	30402	1330
+LT	Lithuania	50k_100k	50k - 100k	259	112	5461757	2730905	18677	3361
+LT	Lithuania	100k_200k	100k - 200k	188	78	5857694	2928862	13557	2898
+LT	Lithuania	200k_500k	200k - 500k	145	57	10172180	4068880	31243	8503
+LT	Lithuania	500k_1m	500k - 1m	67	40	5686356	2843181	15998	4221

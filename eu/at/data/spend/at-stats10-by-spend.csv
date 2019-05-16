@@ -1,0 +1,5 @@
+country_code_filter	country_name_filter	spend_code	spend_label	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+AT	Austria	0_1k	0 - 1k	11414	1449	137470450	45054845	1243568	143065
+AT	Austria	1k_5k	1k - 5k	164	52	22591011	9736417	267578	53803
+AT	Austria	5k_10k	5k - 10k	12	7	2518976	1209025	30519	15144
+AT	Austria	10k_50k	10k - 50k	1	1	12194	6097	542	108

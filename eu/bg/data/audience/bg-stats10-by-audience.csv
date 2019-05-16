@@ -1,0 +1,11 @@
+country_code_filter	country_name_filter	audience_code	audience_label	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+BG	Bulgaria	m18_24	male (18-24)	2193	637	4290703	1728872	13417	1984
+BG	Bulgaria	m25_34	male (25-34)	2418	699	3918613	1462538	14527	2244
+BG	Bulgaria	f18_24	female (18-24)	2293	644	2754522	1142568	8824	1338
+BG	Bulgaria	m35_44	male (35-44)	2394	688	2701670	958470	9630	1181
+BG	Bulgaria	m45_54	male (45-54)	2336	654	2506195	875976	8647	826
+BG	Bulgaria	f55_64	female (55-64)	2010	616	2198973	772249	8534	713
+BG	Bulgaria	f45_54	female (45-54)	2470	668	1921074	699437	6822	740
+BG	Bulgaria	f25_34	female (25-34)	2554	711	1864102	724323	7531	1138
+BG	Bulgaria	m55_64	male (55-64)	1948	607	1772901	603583	6599	415
+BG	Bulgaria	f35_44	female (35-44)	2517	691	1518973	562576	5926	784
