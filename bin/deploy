@@ -1,0 +1,22 @@
+#!/bin/bash
+
+set -o errexit -o pipefail -o nounset
+
+cd "$(dirname "$0")/.."
+
+pwd
+exit
+
+HEADERS=$(cat <<EOF
+"Content-Security-Policy": "default-src 'none'; frame-ancestors 'none'", \
+"Strict-Transport-Security": "max-age=63072000", \
+"X-Content-Type-Options": "nosniff"
+EOF)
+
+aws s3 sync \
+    --delete \
+    --cache-control "max-age=300" \
+    --metadata "$HEADERS" \
+    --metadata-directive "REPLACE" \
+    --acl "public-read" \
+    www/ "s3://${DEPLOY_BUCKET}/"
