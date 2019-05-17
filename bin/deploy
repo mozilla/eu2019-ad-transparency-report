@@ -1,0 +1,26 @@
+#!/bin/bash
+
+set -o errexit -o pipefail -o nounset
+
+cd "$(dirname "$0")/.."
+
+HEADERS=$(cat <<EOF
+{ \
+    "Content-Security-Policy": "default-src 'none'; connect-src 'self'; font-src https://fonts.gstatic.com https://use.fontawesome.com; img-src 'self'; script-src 'self' 'unsafe-eval' https://d3js.org/d3.v5.js; style-src 'unsafe-inline' https://fonts.googleapis.com/ https://use.fontawesome.com/releases/v5.8.2/css/", \
+    "Strict-Transport-Security": "max-age=63072000", \
+    "X-Content-Type-Options": "nosniff" \
+}
+EOF
+)
+
+SYNC_OPTIONS=(
+    --delete
+    --cache-control "max-age=300"
+    --metadata "$HEADERS"
+    --metadata-directive "REPLACE"
+    --acl "public-read"
+)
+
+aws s3 sync \
+    "${SYNC_OPTIONS[@]}" \
+    www/ "s3://${DEPLOY_BUCKET}/"
