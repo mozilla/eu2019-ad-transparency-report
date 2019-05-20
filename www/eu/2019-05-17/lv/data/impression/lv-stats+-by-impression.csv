@@ -1,0 +1,9 @@
+impression_code	impression_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+0_1k	0 - 1k	LV	Latvia	302	141	108544	0	10516	0
+1k_5k	1k - 5k	LV	Latvia	575	227	839619	167957	16305	4
+5k_10k	5k - 10k	LV	Latvia	311	168	802483	401281	7869	3
+10k_50k	10k - 50k	LV	Latvia	811	270	10083246	2016689	29747	2463
+50k_100k	50k - 100k	LV	Latvia	258	108	5289263	2644658	16396	2834
+100k_200k	100k - 200k	LV	Latvia	186	74	4521418	2260720	11676	2719
+200k_500k	200k - 500k	LV	Latvia	140	62	2999048	1199621	13976	3166
+500k_1m	500k - 1m	LV	Latvia	60	34	252037	126019	1297	309

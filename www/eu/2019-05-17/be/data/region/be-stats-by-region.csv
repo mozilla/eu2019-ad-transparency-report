@@ -1,0 +1,4 @@
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+brussels	Brussels	BE	Belgium	9239	1720	30588137	10207126	283600	44273
+flemish_region	Flemish Region	BE	Belgium	11462	1890	258304917	100603119	1772702	344023
+wallonia	Wallonia	BE	Belgium	7916	1673	52900252	19573715	378181	62793

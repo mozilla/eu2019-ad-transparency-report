@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	PT	Portugal	4667	1242	27977087	11048451	92007	13023
+m	male	PT	Portugal	4175	1189	27764133	11192969	97052	15692
+u	unknown	PT	Portugal	3804	1092	220229	86109	936	151

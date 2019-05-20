@@ -1,0 +1,8 @@
+age_code	age_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+13_17	13-17	SI	Slovenia	362	134	250546	90976	858	18
+18_24	18-24	SI	Slovenia	2599	611	6598554	2448952	32394	4267
+25_34	25-34	SI	Slovenia	2905	688	5928030	2172103	30869	3954
+35_44	35-44	SI	Slovenia	2812	674	4509307	1596858	23668	2928
+45_54	45-54	SI	Slovenia	2700	648	3057502	1030068	16700	1686
+55_64	55-64	SI	Slovenia	2136	600	2151790	659816	13790	674
+65_	65+	SI	Slovenia	1883	528	1279072	398139	9200	383

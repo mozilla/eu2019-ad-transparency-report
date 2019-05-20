@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	FR	France	14141	3390	149916779	58040781	1253886	201760
+m	male	FR	France	13423	3250	131464902	51912049	1038636	183567
+u	unknown	FR	France	11838	3079	2616761	956779	24662	3555

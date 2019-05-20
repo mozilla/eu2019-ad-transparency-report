@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	SE	Sweden	11820	2017	114955825	39090392	993061	246482
+m	male	SE	Sweden	10972	1959	98332544	33643731	847422	210269
+u	unknown	SE	Sweden	9973	1864	2782066	937464	22997	5561

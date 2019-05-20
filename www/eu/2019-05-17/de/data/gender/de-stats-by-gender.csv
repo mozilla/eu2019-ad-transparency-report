@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	DE	Germany	38405	4495	217723772	68341987	2406202	200069
+m	male	DE	Germany	37196	4405	279379421	89902858	3095330	294478
+u	unknown	DE	Germany	24439	4016	2012076	653142	22293	2346

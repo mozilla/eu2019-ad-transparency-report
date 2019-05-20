@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	HU	Hungary	6203	1625	103779634	42405521	235687	79879
+m	male	HU	Hungary	6031	1605	117860612	48599931	276008	92013
+u	unknown	HU	Hungary	5154	1230	376466	150962	1139	315

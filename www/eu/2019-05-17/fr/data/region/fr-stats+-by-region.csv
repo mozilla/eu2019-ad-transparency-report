@@ -1,0 +1,23 @@
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+alsace	Alsace	FR	France	8581	1801	1072915	417383	12284	1929
+aquitaine	Aquitaine	FR	France	8948	1843	1458026	497883	17154	1743
+auvergne	Auvergne	FR	France	7589	1598	655403	207369	8626	1356
+basse_normandie	Basse-Normandie	FR	France	7754	1611	421321	170655	5383	899
+bourgogne	Bourgogne	FR	France	7881	1616	640396	220449	10526	916
+bretagne	Bretagne	FR	France	8570	1755	2285000	784954	25589	5046
+centre	Centre	FR	France	8363	1745	1302329	494903	16290	2843
+champagne_ardenne	Champagne-Ardenne	FR	France	7794	1631	600033	227422	6864	982
+corse	Corse	FR	France	6493	1369	145881	36244	1341	19
+franche_comte	Franche-Comté	FR	France	7529	1569	384997	131469	6147	505
+haute_normandie	Haute-Normandie	FR	France	8192	1713	611939	216631	7331	535
+languedoc_roussillon	Languedoc-Roussillon	FR	France	8799	1792	2375322	778435	28279	3496
+limousin	Limousin	FR	France	7096	1488	1387680	521795	14453	2630
+lorraine	Lorraine	FR	France	8554	1780	3138806	1153437	36770	5944
+midi_pyrenees	Midi-Pyrénées	FR	France	8800	1804	2184423	725297	18765	2179
+nord_pas_de_calais	Nord-Pas-de-Calais	FR	France	9168	1917	4347636	1683935	42490	7025
+pays_de_la_loire	Pays de la Loire	FR	France	8632	1791	1961231	724601	24917	3137
+picardie	Picardie	FR	France	8097	1702	2090719	776463	27425	4413
+poitou_charentes	Poitou-Charentes	FR	France	7933	1642	705013	285860	11152	2018
+provence_alpes_cote_dazur	Provence-Alpes-Côte d'Azur	FR	France	9609	2023	5027970	1747712	47739	5064
+rhone_alpes	Rhône-Alpes	FR	France	9585	2010	8640542	3238666	91561	13653
+ile_de_france	Île-de-France	FR	France	11032	2489	23115026	8240594	235684	35518

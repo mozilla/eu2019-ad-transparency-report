@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	CZ	Czechia	7219	1017	42652443	14871600	165651	41681
+m	male	CZ	Czechia	7120	1013	60438644	20797677	247423	60251
+u	unknown	CZ	Czechia	5690	934	408297	140763	1733	424

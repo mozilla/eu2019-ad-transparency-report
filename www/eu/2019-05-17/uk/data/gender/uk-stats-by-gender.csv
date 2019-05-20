@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	UK	United Kingdom	53245	5268	456799412	156976196	5735477	790431
+m	male	UK	United Kingdom	52410	5176	463143608	157811894	5633461	754840
+u	unknown	UK	United Kingdom	43653	4870	12304556	4149589	162448	22614

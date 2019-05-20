@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	AT	Austria	12548	1486	86910156	30091743	815104	113353
+m	male	AT	Austria	12213	1451	111444943	38212043	1052150	152153
+u	unknown	AT	Austria	9837	1340	938527	315834	9222	1249

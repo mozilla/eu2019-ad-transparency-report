@@ -1,0 +1,401 @@
+location_code	location_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+england_UK	England, United Kingdom	52979	4925	806875314	275599979	10093260	1368593
+flemish_region_BE	Flemish Region, Belgium	11462	1890	280089313	109011269	1915047	369797
+andalusia_ES	Andalusia, Spain	10284	1412	111925236	43157680	699077	104664
+nordrhein_westfalen_DE	Nordrhein-Westfalen, Germany	28285	2431	110041879	35242327	1111643	107177
+attica_region_EL	Attica (region), Greece	7063	1232	110005653	41206965	426259	48097
+cataluna_ES	Cataluña, Spain	10184	1514	109713911	43277298	672334	110588
+vienna_AT	Vienna, Austria	9295	1189	91396286	32130411	803629	125146
+lombardia_IT	Lombardia, Italy	11960	2993	77946196	28438028	412680	46284
+wallonia_BE	Wallonia, Belgium	7916	1673	76487045	28878767	521329	89747
+comunidad_valenciana_ES	Comunidad Valenciana, Spain	9821	1329	76436904	29781534	441626	72783
+comunidad_de_madrid_ES	Comunidad de Madrid, Spain	9205	1377	71370582	28605637	433878	73423
+baden_wurttemberg_DE	Baden-Württemberg, Germany	28263	2359	69541546	22052033	790351	65641
+bayern_DE	Bayern, Germany	27083	2321	63227041	21539282	684321	70575
+ile_de_france_FR	Île-de-France, France	11032	2489	60754333	23150114	513031	83283
+lazio_IT	Lazio, Italy	10649	2653	58104452	21112830	298788	33939
+brussels_BE	Brussels, Belgium	9239	1720	57696842	20740991	448537	74504
+scotland_UK	Scotland, United Kingdom	21027	2302	57303673	20176975	637075	95046
+budapest_HU	Budapest, Hungary	4520	928	54288278	22102696	137837	43208
+bucharest_RO	Bucharest, Romania	4759	957	53660793	22331402	123101	28472
+wales_UK	Wales, United Kingdom	23494	2386	51304483	17405661	601399	84327
+campania_IT	Campania, Italy	9926	2373	50946302	18904271	241594	27861
+stockholm_county_SE	Stockholm County, Sweden	8908	1335	49601784	16979793	404733	100146
+piedmont_IT	Piedmont, Italy	10873	2598	46922494	16871345	252377	30022
+capital_region_of_denmark_DK	Capital Region of Denmark, Denmark	8208	1232	44949583	13956261	434053	100835
+central_macedonia_EL	Central Macedonia, Greece	5799	1046	44469805	16531368	162086	15802
+niedersachsen_DE	Niedersachsen, Germany	26168	2076	43424648	13543315	461572	37842
+sicilia_IT	Sicilia, Italy	9287	2272	43128687	16272273	200495	24043
+masovian_voivodeship_PL	Masovian Voivodeship, Poland	5598	1217	43058585	15651633	158490	32411
+emilia_romagna_IT	Emilia-Romagna, Italy	10843	2676	42253817	15066636	248423	23363
+hessen_DE	Hessen, Germany	26080	2115	39173014	12500585	423356	39219
+veneto_IT	Veneto, Italy	10222	2564	38739515	13803549	205282	20292
+berlin_DE	Berlin, Germany	24812	2159	36487791	11872546	409971	45567
+islas_canarias_ES	Islas Canarias, Spain	7888	1203	36216748	13341758	205700	27620
+central_denmark_region_DK	Central Denmark Region, Denmark	7681	1044	35445470	10930851	329583	78567
+puglia_IT	Puglia, Italy	9558	2314	34993439	12812683	169768	18550
+tuscany_IT	Tuscany, Italy	10024	2530	34635740	12313974	197806	19055
+vastra_gotaland_county_SE	Västra Götaland County, Sweden	8287	1192	34184088	11605328	300533	73949
+central_region_MT	Central Region, Malta	4802	830	33443532	11375510	192904	15696
+uusimaa_FI	Uusimaa, Finland	5158	943	32927588	11185939	340131	52841
+upper_austria_AT	Upper Austria, Austria	8702	921	32118760	10117523	366186	36757
+galicia_ES	Galicia, Spain	7953	1088	31602979	11729896	232688	27463
+zuid_holland_NL	Zuid-Holland, Netherlands	5624	1137	31168880	12428288	252110	51545
+rheinland_pfalz_DE	Rheinland-Pfalz, Germany	25795	2121	30348485	9141323	384214	27123
+rhone_alpes_FR	Rhône-Alpes, France	9585	2010	30336257	11904013	250117	40892
+region_of_southern_denmark_DK	Region of Southern Denmark, Denmark	7625	1026	29500193	9044606	276656	62664
+castilla_y_leon_ES	Castilla y Leon, Spain	9684	1086	28432712	10242586	271467	24953
+aragon_ES	Aragón, Spain	12756	1040	26771030	7397907	664779	13377
+noord_holland_NL	Noord-Holland, Netherlands	5723	1164	26104900	10077435	228508	45479
+skane_county_SE	Skåne County, Sweden	8075	1179	26080403	8980881	223536	55440
+prague_CZ	Prague, Czechia	6215	767	25373477	8576759	106476	25703
+provence_alpes_cote_dazur_FR	Provence-Alpes-Côte d'Azur, France	9609	2023	24403146	9408219	193154	29523
+silesian_voivodeship_PL	Silesian Voivodeship, Poland	4622	1089	23693886	8431710	66442	12672
+dublin_IE	Dublin, Ireland	4223	1050	22748299	8592744	145150	20753
+hamburg_DE	Hamburg, Germany	23957	1906	21651787	6881019	264618	24463
+castilla_la_mancha_ES	Castilla-La Mancha, Spain	8297	1061	21151395	8124357	150438	18936
+bratislava_region_SK	Bratislava Region, Slovakia	6326	704	21097730	7166367	141526	16805
+styria_AT	Styria, Austria	7181	907	20176946	7090310	178834	28191
+kosice_region_SK	Košice Region, Slovakia	6146	627	19723210	6689958	123726	12041
+luxembourg_district_LU	Luxembourg District, Luxembourg	3434	739	19520355	6509232	112681	12351
+presov_SK	Presov, Slovakia	5384	592	19336984	6810376	102851	12634
+cluj_county_RO	Cluj County, Romania	4198	830	19209662	7833650	54463	11446
+nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	9168	1917	18704036	7488226	143209	25602
+pest_county_HU	Pest County, Hungary	3772	795	18498256	7619891	44138	15090
+pais_vasco_ES	País Vasco, Spain	6295	1072	18468095	6933181	128958	18456
+sachsen_DE	Sachsen, Germany	23374	1850	18116002	5694459	219203	18621
+balearic_islands_ES	Balearic Islands, Spain	7141	1081	18018749	6371710	112687	14212
+south_eastern_region_MT	South Eastern Region, Malta	3626	518	17989314	6093589	95923	8083
+zealand_region_DK	Zealand Region, Denmark	7074	972	17709796	5463033	165734	39519
+gelderland_NL	Gelderland, Netherlands	5030	976	17619450	7002112	137385	27215
+north_brabant_NL	North Brabant, Netherlands	5349	1051	17333288	6960765	142711	29318
+eastern_macedonia_and_thrace_EL	Eastern Macedonia and Thrace, Greece	4690	841	17048975	6072568	56981	4942
+lower_austria_AT	Lower Austria, Austria	7875	931	16924381	5826963	183075	22992
+region_of_murcia_ES	Region of Murcia, Spain	7138	1077	16901586	6271830	104068	13897
+calabria_IT	Calabria, Italy	8891	2105	16868640	6326828	78468	9191
+northern_ireland_UK	Northern Ireland, United Kingdom	16311	2007	16772108	5755069	200568	19918
+greater_poland_voivodeship_PL	Greater Poland Voivodeship, Poland	4455	1056	16568703	6254180	45596	9003
+crete_EL	Crete, Greece	4852	884	16427517	6189342	55709	5586
+zagreb_HR	Zagreb, Croatia	2816	678	16096224	5881269	53163	6041
+western_greece_EL	Western Greece, Greece	4898	876	16063735	5848830	63950	4889
+vilnius_county_LT	Vilnius County, Lithuania	2846	619	15760928	5567760	69453	7501
+nitra_region_SK	Nitra Region, Slovakia	5900	623	15731677	5350051	116868	9135
+north_denmark_region_DK	North Denmark Region, Denmark	6524	882	15692556	4876922	145606	34438
+liguria_IT	Liguria, Italy	9433	2229	15549925	5498225	84103	8603
+lisbon_district_PT	Lisbon District, Portugal	3577	1085	15469581	6096781	59089	9144
+zilina_region_SK	Žilina Region, Slovakia	5225	561	15398051	5394876	89722	10693
+sofia_city_province_BG	Sofia City Province, Bulgaria	2757	706	15271992	5667923	55654	7092
+iasi_county_RO	Iași County, Romania	3859	786	15211924	6114064	31199	6707
+extremadura_ES	Extremadura, Spain	6465	945	15118011	5671465	103557	11668
+thessaly_EL	Thessaly, Greece	4880	884	15050048	5650948	54399	5003
+south_moravian_region_CZ	South Moravian Region, Czechia	5825	676	14906473	5103420	59491	14655
+lesser_poland_voivodeship_PL	Lesser Poland Voivodeship, Poland	4573	1098	14667514	5463610	45081	8374
+lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	4464	1095	14468505	5361671	45477	8536
+banska_bystrica_region_SK	Banská Bystrica Region, Slovakia	5899	599	14349325	4931279	93997	8687
+trnava_region_SK	Trnava Region, Slovakia	5943	599	14233329	4864216	103919	8894
+schleswig_holstein_DE	Schleswig-Holstein, Germany	22835	1754	14223210	4380785	155716	12449
+borsod_abauj_zemplen_county_HU	Borsod-Abaúj-Zemplén County, Hungary	3442	675	14183514	5874901	30319	10594
+principality_of_asturias_ES	Principality of Asturias, Spain	6862	971	14091270	5615997	86721	13908
+timis_county_RO	Timiș County, Romania	3966	817	13987513	5821704	30358	6550
+aquitaine_FR	Aquitaine, France	8948	1843	13660751	5348989	107210	17164
+lublin_voivodeship_PL	Lublin Voivodeship, Poland	3921	913	13588525	5102805	34928	6803
+kurzeme_region_LV	Kurzeme Region, Latvia	2452	608	13435075	4806001	56042	6805
+lodz_voivodeship_PL	Łódź Voivodeship, Poland	4280	1001	13347212	4776975	36313	6622
+mures_county_RO	Mureș County, Romania	3735	739	13114331	5248150	23348	4801
+pays_de_la_loire_FR	Pays de la Loire, France	8632	1791	13104502	5203107	102053	16518
+pomeranian_voivodeship_PL	Pomeranian Voivodeship, Poland	4197	1003	13006155	4649404	39341	7909
+languedoc_roussillon_FR	Languedoc-Roussillon, France	8799	1792	12966490	4949201	108112	16962
+dolj_county_RO	Dolj County, Romania	3498	702	12923363	5369329	25201	6112
+midi_pyrenees_FR	Midi-Pyrénées, France	8800	1804	12869383	4980598	97113	15525
+marche_IT	Marche, Italy	8983	2162	12856462	4638405	69143	6722
+constanta_county_RO	Constanța County, Romania	3747	753	12760212	5146593	30104	6109
+sardinia_IT	Sardinia, Italy	8450	2029	12759099	4817027	61770	7350
+bretagne_FR	Bretagne, France	8570	1755	12722698	4976265	97946	17378
+lefkosa_district_CY	Lefkoşa District, Cyprus	1884	441	12623810	4190571	53456	4451
+tyrol_AT	Tyrol, Austria	6578	888	12597958	4369969	111164	16396
+kuyavian_pomeranian_voivodeship_PL	Kuyavian-Pomeranian Voivodeship, Poland	4010	946	12544053	4543781	36562	7384
+bihor_county_RO	Bihor County, Romania	3728	739	12470484	4992146	23986	5006
+trencin_region_SK	Trenčín Region, Slovakia	5269	560	12170569	4287057	72390	8684
+harju_county_EE	Harju County, Estonia	2306	519	12145457	4452705	67411	10059
+thuringen_DE	Thüringen, Germany	21646	1705	11561852	3537170	135351	10358
+brasov_county_RO	Brașov County, Romania	3789	759	11549516	4741569	21976	4891
+galati_county_RO	Galați County, Romania	3547	727	11512007	4835050	28468	6551
+lorraine_FR	Lorraine, France	8554	1780	11469566	4544845	99648	18354
+szabolcs_szatmar_bereg_county_HU	Szabolcs-Szatmár-Bereg County, Hungary	3250	651	11243142	4704666	23967	8436
+bacs_kiskun_county_HU	Bács-Kiskun County, Hungary	3375	666	11144018	4564048	24718	8410
+prahova_county_RO	Prahova County, Romania	3544	722	11142042	4721817	22644	4978
+hajdu_bihar_county_HU	Hajdú-Bihar County, Hungary	3473	676	11101622	4639569	24661	8588
+southern_aegean_EL	Southern Aegean, Greece	4700	864	10895936	3751222	36693	3392
+abruzzo_IT	Abruzzo, Italy	8829	2079	10840684	3993970	57054	5944
+saxony_anhalt_DE	Saxony-Anhalt, Germany	21321	1668	10629576	3157782	122307	9876
+umbria_IT	Umbria, Italy	8651	2101	10478954	3567996	61057	5115
+ostergotland_county_SE	Östergötland County, Sweden	6939	939	10437740	3593199	91152	22367
+peloponnese_region_EL	Peloponnese (region), Greece	4713	857	10427167	3689818	43279	3220
+porto_district_PT	Porto District, Portugal	3147	955	10329820	4172578	33777	5053
+moravian_silesian_region_CZ	Moravian-Silesian Region, Czechia	5330	606	10138223	3531869	39270	9937
+limburg_NL	Limburg, Netherlands	4972	996	10068123	3859129	78221	15280
+suceava_county_RO	Suceava County, Romania	3405	710	10019957	4318987	19215	4248
+bacau_county_RO	Bacău County, Romania	3550	713	9965142	4096911	19716	4357
+csongrad_county_HU	Csongrád County, Hungary	3451	667	9862018	4100976	22483	7661
+southwest_finland_FI	Southwest Finland, Finland	4237	728	9858712	3410188	108822	14515
+arad_county_RO	Arad County, Romania	3644	739	9810312	4015326	21788	4706
+gyor_moson_sopron_county_HU	Győr-Moson-Sopron County, Hungary	3608	694	9764876	4022004	22291	7539
+kaunas_county_LT	Kaunas County, Lithuania	2585	551	9709107	3675587	42234	4896
+utrecht_NL	Utrecht, Netherlands	4771	947	9662220	3771137	80818	16078
+maramures_county_RO	Maramureș County, Romania	3548	728	9492609	3836178	19430	4113
+saarland_DE	Saarland, Germany	21003	1615	9482382	2851189	104476	9723
+centre_FR	Centre, France	8363	1745	9444809	3740706	78399	14298
+epirus_region_EL	Epirus (region), Greece	4603	840	9414347	3243634	34978	2850
+arges_county_RO	Argeș County, Romania	3402	698	9355533	4036427	18513	4163
+friuli_venezia_giulia_IT	Friuli-Venezia Giulia, Italy	8910	2134	9325501	3433450	54380	5716
+overijssel_NL	Overijssel, Netherlands	4476	859	9291435	3751478	74929	14833
+salzburg_AT	Salzburg, Austria	6485	836	9233222	3257493	82648	12579
+fejer_county_HU	Fejér County, Hungary	3397	635	9175052	3784337	20911	7247
+hunedoara_county_RO	Hunedoara County, Romania	3430	701	9172324	3849542	18498	4119
+bremen_DE	Bremen, Germany	21167	1603	9163093	2708700	114336	7146
+picardie_FR	Picardie, France	8097	1702	9067407	3574721	82001	14950
+central_greece_region_EL	Central Greece (region), Greece	5112	898	9030607	3314024	36624	3097
+pirkanmaa_FI	Pirkanmaa, Finland	3504	647	8889786	3087749	88469	13733
+jasz_nagykun_szolnok_county_HU	Jász-Nagykun-Szolnok County, Hungary	3163	604	8842114	3649337	18913	6581
+uppsala_county_SE	Uppsala County, Sweden	7187	957	8668610	2808429	70555	17369
+carinthia_AT	Carinthia, Austria	6079	769	8621783	3035442	78135	12702
+west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	3957	942	8603735	3043456	27988	5205
+alsace_FR	Alsace, France	8581	1801	8582017	3463349	69141	12996
+harghita_county_RO	Harghita County, Romania	3405	656	8456516	3001125	12300	2323
+baranya_county_HU	Baranya County, Hungary	3405	633	8334584	3396678	19194	6431
+trentino_alto_adige_IT	Trentino-Alto Adige, Italy	8471	2108	8183476	2868904	47148	4801
+sibiu_county_RO	Sibiu County, Romania	3644	707	8174334	3392650	16326	3409
+bekes_county_HU	Békés County, Hungary	3174	606	8142369	3297649	17483	5903
+central_slovenia_statistical_region_SI	Central Slovenia Statistical Region, Slovenia	2566	550	7818139	2811016	43013	4803
+alba_county_RO	Alba County, Romania	3458	693	7711072	3239778	15120	3218
+varmland_county_SE	Värmland County, Sweden	6482	854	7500568	2475025	65009	16747
+veszprem_county_HU	Veszprém County, Hungary	3235	622	7473090	3009546	17075	5771
+central_bohemian_region_CZ	Central Bohemian Region, Czechia	5257	574	7403123	2581614	29493	7433
+haute_normandie_FR	Haute-Normandie, France	8192	1713	7291343	2884418	56717	9165
+warmian_masurian_voivodeship_PL	Warmian-Masurian Voivodeship, Poland	3683	853	7092706	2489133	17495	3710
+podkarpackie_voivodeship_PL	Podkarpackie Voivodeship, Poland	3659	884	6991542	2663519	18516	3566
+norrbotten_county_SE	Norrbotten County, Sweden	6605	863	6982593	2402456	65720	16293
+buzau_county_RO	Buzău County, Romania	3213	654	6920764	3009107	13603	3172
+orebro_county_SE	Örebro County, Sweden	6505	855	6904390	2335205	61383	14380
+dalarna_county_SE	Dalarna County, Sweden	6449	861	6872582	2321879	58868	14562
+vaslui_county_RO	Vaslui County, Romania	3127	640	6846028	2681022	12677	2632
+komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	3323	619	6834072	2857827	16059	5526
+usti_nad_labem_region_CZ	Ústí nad Labem Region, Czechia	4745	573	6775400	2422822	27470	6814
+neamt_county_RO	Neamț County, Romania	3283	675	6764079	2919514	13714	3015
+somogy_county_HU	Somogy County, Hungary	3188	596	6752508	2696602	14478	5040
+gorj_county_RO	Gorj County, Romania	3074	635	6729942	2807234	12711	2855
+jonkoping_county_SE	Jönköping County, Sweden	6672	884	6695184	2321681	57224	14384
+northern_ostrobothnia_FI	Northern Ostrobothnia, Finland	3191	545	6663907	2312208	66151	9031
+heves_county_HU	Heves County, Hungary	3136	611	6643596	2714551	14402	5012
+basilicata_IT	Basilicata, Italy	8014	1874	6619040	2439120	30198	3084
+poitou_charentes_FR	Poitou-Charentes, France	7933	1642	6563900	2637159	53649	10018
+vasterbotten_county_SE	Västerbotten County, Sweden	6620	865	6483482	2179383	59635	15135
+satu_mare_county_RO	Satu Mare County, Romania	3396	672	6450011	2562229	11636	2524
+dambovita_county_RO	Dâmbovița County, Romania	3170	663	6345912	2716089	11957	2699
+galway_IE	Galway, Ireland	3111	740	6304250	2236357	42104	6610
+limassol_district_CY	Limassol District, Cyprus	1708	404	6250026	1954807	27752	2548
+mecklenburg_vorpommern_DE	Mecklenburg-Vorpommern, Germany	19891	1583	6229528	1940540	71458	5166
+navarra_ES	Navarra, Spain	6584	888	6221462	2307833	49991	6449
+groningen_NL	Groningen, Netherlands	4314	810	6122037	2400980	50674	10045
+gavleborg_county_SE	Gävleborg County, Sweden	6485	860	6117205	2140595	53647	12943
+sodermanland_county_SE	Södermanland County, Sweden	6748	908	6086918	2098267	53050	13658
+bourgogne_FR	Bourgogne, France	7881	1616	6009161	2370160	52476	8882
+zala_county_HU	Zala County, Hungary	3126	578	5924851	2426438	13227	4602
+western_macedonia_EL	Western Macedonia, Greece	4230	760	5885656	2218697	20287	2169
+klaipeda_county_LT	Klaipėda County, Lithuania	2253	471	5864415	2156448	26727	2600
+vasternorrland_county_SE	Västernorrland County, Sweden	6276	816	5860615	2023886	56275	14367
+county_cork_IE	County Cork, Ireland	3228	806	5822175	2283415	39282	5792
+brandenburg_DE	Brandenburg, Germany	20159	1670	5813439	1854931	70926	5940
+vas_county_HU	Vas County, Hungary	3144	583	5789273	2336136	13072	4376
+halland_county_SE	Halland County, Sweden	6739	894	5788051	1965423	51495	13127
+botosani_county_RO	Botoșani County, Romania	3166	651	5762636	2486558	11073	2419
+champagne_ardenne_FR	Champagne-Ardenne, France	7794	1631	5688418	2280090	45632	8146
+caras_severin_county_RO	Caraș-Severin County, Romania	3258	671	5652936	2315852	10805	2229
+split_dalmatia_county_HR	Split-Dalmatia County, Croatia	2400	593	5647075	2104368	17422	1879
+vastmanland_county_SE	Västmanland County, Sweden	6508	865	5619935	1923943	49413	12146
+braila_county_RO	Brăila County, Romania	3212	650	5614492	2414029	11280	2538
+cantabria_ES	Cantabria, Spain	6216	893	5591716	2035163	44165	5798
+friesland_NL	Friesland, Netherlands	4054	757	5540545	2217960	43754	8595
+olomouc_region_CZ	Olomouc Region, Czechia	4775	555	5528987	1947676	21625	5381
+bistrita_nasaud_county_RO	Bistrița-Năsăud County, Romania	3304	645	5473154	2197106	10074	2150
+plzen_region_CZ	Plzeň Region, Czechia	5031	543	5380332	1869715	21363	5079
+semigallia_LV	Semigallia, Latvia	1941	468	5325731	1865666	23936	2195
+basse_normandie_FR	Basse-Normandie, France	7754	1611	5275237	2114072	41187	7158
+covasna_county_RO	Covasna County, Romania	3279	641	5218508	1992839	8040	1679
+valcea_county_RO	Vâlcea County, Romania	3107	662	5190624	2243421	10953	2412
+podlaskie_voivodeship_PL	Podlaskie Voivodeship, Poland	3575	841	5125561	1880448	13207	2663
+auvergne_FR	Auvergne, France	7589	1598	5092167	1977369	43518	7761
+vorarlberg_AT	Vorarlberg, Austria	5712	752	5091438	1776122	45759	7968
+olt_county_RO	Olt County, Romania	2990	624	5050898	2211510	9567	2181
+braga_district_PT	Braga District, Portugal	2748	872	5041466	2059240	15557	2333
+gozo_MT	Gozo, Malta	3272	419	4996625	1642576	27785	2255
+zlin_region_CZ	Zlín Region, Czechia	4990	531	4991747	1687278	19128	4776
+south_bohemian_region_CZ	South Bohemian Region, Czechia	4681	525	4974310	1752509	20487	5038
+siauliai_county_LT	Šiauliai County, Lithuania	2056	454	4917285	1939187	17484	2284
+kalmar_county_SE	Kalmar County, Sweden	6338	822	4898554	1653273	41181	10041
+swietokrzyskie_voivodeship_PL	Świętokrzyskie Voivodeship, Poland	3564	808	4788668	1748500	13606	2694
+ostrobothnia_region_FI	Ostrobothnia (region), Finland	3076	541	4714959	1498504	46238	5079
+salaj_county_RO	Sălaj County, Romania	3263	640	4648193	1792637	9603	1898
+hradec_kralove_region_CZ	Hradec Králové Region, Czechia	4664	524	4645352	1612850	17289	4379
+la_rioja_ES	La Rioja, Spain	6027	940	4553121	1497204	38583	2980
+vrancea_county_RO	Vrancea County, Romania	3100	639	4538111	1922101	9852	2124
+plovdiv_province_BG	Plovdiv Province, Bulgaria	2148	576	4537683	1771181	12850	1731
+franche_comte_FR	Franche-Comté, France	7529	1569	4485906	1778515	36564	6298
+mehedinti_county_RO	Mehedinți County, Romania	3022	625	4452158	1844712	8688	1864
+tolna_county_HU	Tolna County, Hungary	2988	542	4438008	1847734	9888	3481
+lubusz_voivodeship_PL	Lubusz Voivodeship, Poland	3615	882	4422488	1594553	13479	2712
+central_finland_FI	Central Finland, Finland	3045	529	4409283	1479638	45260	6259
+osijek_baranja_county_HR	Osijek-Baranja County, Croatia	2246	547	4203907	1568481	13455	1387
+istria_county_HR	Istria County, Croatia	2264	524	4122700	1358164	14745	1627
+drenthe_NL	Drenthe, Netherlands	3896	727	4104093	1655470	32999	6354
+northern_aegean_EL	Northern Aegean, Greece	4281	783	4088557	1540531	14514	1543
+tartu_county_EE	Tartu County, Estonia	1874	389	4049443	1503744	21180	3290
+primorje_gorski_kotar_county_HR	Primorje-Gorski Kotar County, Croatia	2352	565	4010771	1421300	12454	1320
+pardubice_region_CZ	Pardubice Region, Czechia	4504	495	3985232	1422366	15649	3919
+ionian_islands_region_EL	Ionian Islands (region), Greece	4422	828	3954254	1466976	13515	1493
+drava_statistical_region_SI	Drava Statistical Region, Slovenia	2181	459	3901335	1376503	19996	2281
+limousin_FR	Limousin, France	7096	1488	3856502	1504424	33300	5987
+donegal_IE	Donegal, Ireland	2602	652	3817038	1347085	24085	3733
+larnaca_district_CY	Larnaca District, Cyprus	1558	356	3678342	1149598	17007	1417
+ialomita_county_RO	Ialomița County, Romania	2985	632	3648541	1539694	6603	1515
+aveiro_district_PT	Aveiro District, Portugal	2624	808	3613325	1481380	10793	1755
+vidzeme_LV	Vidzeme, Latvia	1824	436	3597225	1262670	16648	1458
+vysocina_region_CZ	Vysočina Region, Czechia	4465	485	3596971	1272014	13849	3490
+panevezys_county_LT	Panevėžys County, Lithuania	1982	413	3594494	1387206	17127	1638
+nograd_county_HU	Nógrád County, Hungary	2860	531	3581460	1510819	7710	2705
+setubal_district_PT	Setúbal District, Portugal	2790	877	3536052	1388459	12067	1769
+opole_voivodeship_PL	Opole Voivodeship, Poland	3679	855	3463847	1225968	10104	1853
+kronoberg_county_SE	Kronoberg County, Sweden	6289	821	3454107	1185010	29606	7394
+teleorman_county_RO	Teleorman County, Romania	2900	591	3452814	1476698	6692	1470
+pohjois_savo_FI	Pohjois-Savo, Finland	2804	497	3431545	1219053	33530	4786
+jamtland_county_SE	Jämtland County, Sweden	5971	770	3401114	1154920	31587	8396
+lapland_finland_FI	Lapland (Finland), Finland	2856	520	3361627	1144354	35448	4186
+varna_province_BG	Varna Province, Bulgaria	2101	569	3335199	1282110	9968	1240
+liberec_region_CZ	Liberec Region, Czechia	4514	496	3321096	1181060	13208	3298
+blekinge_county_SE	Blekinge County, Sweden	6082	786	3206178	1107206	28131	6870
+burgenland_AT	Burgenland, Austria	5736	694	3132840	1015381	27044	4022
+calarasi_county_RO	Călărași County, Romania	2926	615	3068030	1325823	5723	1316
+satakunta_FI	Satakunta, Finland	2750	503	3065628	1074020	30715	4239
+famagusta_district_CY	Famagusta District, Cyprus	1566	352	3003828	1017451	11556	1028
+coimbra_district_PT	Coimbra District, Portugal	2653	821	2952847	1173586	9347	1475
+flevoland_NL	Flevoland, Netherlands	4028	770	2928342	1164649	24426	4691
+ilfov_county_RO	Ilfov County, Romania	2865	591	2912721	1256684	5863	1614
+paijat_hame_FI	Päijät-Häme, Finland	2810	518	2900575	1001703	27534	4035
+zeeland_NL	Zeeland, Netherlands	4150	803	2873537	1138338	23070	4475
+southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2596	479	2871820	1021122	30623	4015
+savinja_statistical_region_SI	Savinja Statistical Region, Slovenia	2011	408	2763062	963915	14484	1518
+faro_district_PT	Faro District, Portugal	2939	885	2699479	1066602	10161	1430
+kildare_IE	Kildare, Ireland	2818	700	2649150	963192	16159	2240
+kymenlaakso_FI	Kymenlaakso, Finland	2691	483	2626216	918181	23542	3660
+tulcea_county_RO	Tulcea County, Romania	2940	602	2624910	1099836	5238	1155
+paphos_district_CY	Paphos District, Cyprus	1501	346	2599915	842087	11944	1117
+burgas_province_BG	Burgas Province, Bulgaria	1979	548	2565480	972461	6961	828
+telsiai_county_LT	Telšiai County, Lithuania	1765	379	2547385	1008219	8340	1128
+alytus_county_LT	Alytus County, Lithuania	1832	370	2541536	959316	8344	1034
+limerick_IE	Limerick, Ireland	2687	712	2527207	987829	16980	2462
+latgale_LV	Latgale, Latvia	1648	394	2523980	877960	11107	1039
+county_louth_IE	County Louth, Ireland	2705	668	2504972	897023	15600	2273
+karlovy_vary_region_CZ	Karlovy Vary Region, Czechia	4565	474	2478659	848086	10003	2449
+tavastia_proper_FI	Tavastia Proper, Finland	2785	511	2387908	828384	24354	3386
+marijampole_county_LT	Marijampolė County, Lithuania	1820	369	2342498	936865	7466	1023
+county_mayo_IE	County Mayo, Ireland	2517	600	2328753	823082	16530	2902
+leiria_district_PT	Leiria District, Portugal	2580	805	2321936	924923	7567	1230
+molise_IT	Molise, Italy	7551	1772	2299691	858937	11712	1358
+etela_savo_FI	Etelä-Savo, Finland	2577	454	2229098	764696	21325	2915
+north_karelia_FI	North Karelia, Finland	2667	454	2210901	781799	21839	2992
+santarem_district_PT	Santarém District, Portugal	2493	811	2145157	836191	7049	1000
+county_meath_IE	County Meath, Ireland	2668	664	2122980	765573	13100	1906
+giurgiu_county_RO	Giurgiu County, Romania	2859	593	2038862	832717	4136	757
+blagoevgrad_province_BG	Blagoevgrad Province, Bulgaria	1856	529	2005928	791963	5948	701
+vukovar_srijem_county_HR	Vukovar-Srijem County, Croatia	1924	451	1961643	742268	5933	619
+stara_zagora_province_BG	Stara Zagora Province, Bulgaria	1830	496	1948627	779986	5220	702
+south_karelia_FI	South Karelia, Finland	2552	446	1935839	667017	17918	2701
+utena_county_LT	Utena County, Lithuania	1821	366	1898347	716706	6304	766
+kerry_IE	Kerry, Ireland	2354	613	1887452	735632	14024	2349
+brod_posavina_county_HR	Brod-Posavina County, Croatia	1914	452	1871801	691057	5606	557
+varazdin_county_HR	Varaždin County, Croatia	2032	454	1857516	705556	6583	632
+zadar_county_HR	Zadar County, Croatia	2087	500	1847517	700253	5361	630
+diekirch_district_LU	Diekirch District, Luxembourg	2288	456	1842255	610994	11170	1077
+upper_carniola_statistical_region_SI	Upper Carniola Statistical Region, Slovenia	2005	409	1785107	630883	8957	1052
+parnu_county_EE	Pärnu County, Estonia	1446	281	1773402	647334	10068	1396
+viseu_district_PT	Viseu District, Portugal	2445	747	1724652	694079	5276	768
+sisak_moslavina_county_HR	Sisak-Moslavina County, Croatia	1887	427	1652834	615925	4805	518
+corse_FR	Corse, France	6493	1369	1651397	631038	13098	2011
+taurage_county_LT	Tauragė County, Lithuania	1624	333	1629717	643157	5240	706
+zagreb_county_HR	Zagreb County, Croatia	1984	441	1625426	605852	4896	518
+wexford_IE	Wexford, Ireland	2456	645	1595474	638714	10613	1788
+county_westmeath_IE	County Westmeath, Ireland	2414	606	1586548	546251	10081	1631
+dubrovnik_neretva_county_HR	Dubrovnik-Neretva County, Croatia	2071	496	1491985	525079	5309	448
+cavan_IE	Cavan, Ireland	2234	566	1481263	546104	10340	1891
+ruse_province_BG	Ruse Province, Bulgaria	1783	493	1455066	565750	4790	532
+pleven_province_BG	Pleven Province, Bulgaria	1734	495	1453404	580739	4022	507
+county_tipperary_IE	County Tipperary, Ireland	2459	645	1431164	554291	8856	1390
+southeast_slovenia_statistical_region_SI	Southeast Slovenia Statistical Region, Slovenia	1844	368	1420890	495620	7082	844
+waterford_IE	Waterford, Ireland	2475	644	1410530	533327	9209	1336
+veliko_tarnovo_province_BG	Veliko Tarnovo Province, Bulgaria	1781	491	1400926	557692	3965	509
+pazardzhik_province_BG	Pazardzhik Province, Bulgaria	1681	462	1379255	544394	3505	464
+sligo_IE	Sligo, Ireland	2246	546	1358319	449098	11694	1329
+medimurje_county_HR	Međimurje County, Croatia	1878	435	1323329	515936	4423	452
+wicklow_IE	Wicklow, Ireland	2528	650	1306112	505753	7701	1119
+coastal_karst_statistical_region_SI	Coastal–Karst Statistical Region, Slovenia	2010	414	1274956	440844	6950	713
+karlovac_county_HR	Karlovac County, Croatia	1881	435	1270014	474966	3668	406
+laane_viru_county_EE	Lääne-Viru County, Estonia	1244	232	1246857	424458	6986	733
+haskovo_province_BG	Haskovo Province, Bulgaria	1698	474	1246824	487772	3302	410
+bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1797	412	1233683	462328	3712	379
+gotland_county_SE	Gotland County, Sweden	5510	687	1226333	415799	10736	2589
+viana_do_castelo_district_PT	Viana do Castelo District, Portugal	2647	753	1217756	491950	3787	554
+county_clare_IE	County Clare, Ireland	2337	598	1209678	414802	7367	1016
+ida_viru_county_EE	Ida-Viru County, Estonia	1311	269	1205623	418865	6741	763
+central_ostrobothnia_FI	Central Ostrobothnia, Finland	2370	419	1200681	415139	12166	1488
+goriska_statistical_region_SI	Goriška Statistical Region, Slovenia	1929	387	1180012	406840	7258	633
+mura_statistical_region_SI	Mura Statistical Region, Slovenia	1844	360	1132303	403061	6028	670
+kyrenia_district_CY	Kyrenia District, Cyprus	1202	312	1132102	434048	3488	351
+koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1814	405	1103245	426809	3276	371
+aland_islands_FI	Åland Islands, Finland	2211	407	1091831	355289	8251	1366
+kainuu_FI	Kainuu, Finland	2171	378	1081097	342257	15479	1230
+county_monaghan_IE	County Monaghan, Ireland	2036	526	1072046	388382	8512	1426
+sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1880	420	1063063	391705	3430	355
+kilkenny_IE	Kilkenny, Ireland	2214	563	1048723	371817	6086	743
+sliven_province_BG	Sliven Province, Bulgaria	1581	446	1021295	409234	2923	349
+grevenmacher_district_LU	Grevenmacher District, Luxembourg	2113	424	1019693	333796	6544	595
+castelo_branco_district_PT	Castelo Branco District, Portugal	2250	713	1018231	403204	3261	482
+vila_real_district_PT	Vila Real District, Portugal	2165	669	1011861	389962	3397	432
+sofia_province_BG	Sofia Province, Bulgaria	1621	438	998997	399148	2667	385
+virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1699	376	986541	367635	2977	294
+aosta_valley_IT	Aosta Valley, Italy	6904	1648	983745	351868	4871	542
+viljandi_county_EE	Viljandi County, Estonia	1254	236	947563	340774	6150	644
+evora_district_PT	Évora District, Portugal	2280	718	946668	379444	2895	516
+krapina_zagorje_county_HR	Krapina-Zagorje County, Croatia	1771	388	896975	337119	2734	279
+vratsa_province_BG	Vratsa Province, Bulgaria	1530	427	891823	357443	2773	295
+carinthia_statistical_region_SI	Carinthia Statistical Region, Slovenia	1686	318	869061	298290	4864	455
+carlow_IE	Carlow, Ireland	2068	561	815983	305501	4681	710
+pozega_slavonia_county_HR	Požega-Slavonia County, Croatia	1687	371	806011	304595	2411	244
+yambol_province_BG	Yambol Province, Bulgaria	1491	406	785315	301259	2397	242
+county_offaly_IE	County Offaly, Ireland	1965	540	767533	289897	4885	645
+county_laois_IE	County Laois, Ireland	2037	559	754671	283647	5282	636
+pernik_province_BG	Pernik Province, Bulgaria	1581	430	754520	294782	2125	298
+lower_sava_statistical_region_SI	Lower Sava Statistical Region, Slovenia	1674	311	733637	257609	3854	423
+beja_district_PT	Beja District, Portugal	2142	684	731896	291989	2377	364
+roscommon_IE	Roscommon, Ireland	1899	502	647729	237561	4099	669
+voru_county_EE	Võru County, Estonia	1100	207	641894	225486	3506	416
+lovech_province_BG	Lovech Province, Bulgaria	1481	407	632848	251132	1692	212
+montana_province_BG	Montana Province, Bulgaria	1496	398	624285	248533	1925	215
+guarda_district_PT	Guarda District, Portugal	2021	664	600773	237961	1792	271
+portalegre_district_PT	Portalegre District, Portugal	2191	669	599940	239192	1795	283
+kyustendil_province_BG	Kyustendil Province, Bulgaria	1525	412	579496	230352	1598	204
+jarva_county_EE	Järva County, Estonia	1086	193	538940	194275	3606	338
+smolyan_province_BG	Smolyan Province, Bulgaria	1505	412	528010	211227	1276	179
+county_longford_IE	County Longford, Ireland	1813	493	526401	193028	3371	511
+county_leitrim_IE	County Leitrim, Ireland	1819	474	507336	179975	2979	440
+lika_senj_county_HR	Lika-Senj County, Croatia	1530	338	506458	182582	1366	142
+saare_county_EE	Saare County, Estonia	1024	190	486332	182743	2612	373
+littoral_inner_carniola_statistical_region_SI	Littoral–Inner Carniola Statistical Region, Slovenia	1564	285	462302	159324	2667	270
+vidin_province_BG	Vidin Province, Bulgaria	1426	387	460721	182581	1239	159
+central_sava_statistical_region_SI	Central Sava Statistical Region, Slovenia	1563	280	433995	153006	2325	245
+rapla_county_EE	Rapla County, Estonia	1017	197	424130	156434	2662	312
+laane_county_EE	Lääne County, Estonia	1035	192	392202	145339	2283	276
+valga_county_EE	Valga County, Estonia	978	185	387030	140146	2077	279
+jogeva_county_EE	Jõgeva County, Estonia	993	170	376273	136107	2116	262
+polva_county_EE	Põlva County, Estonia	925	168	363206	126391	2009	229
+hiiu_county_EE	Hiiu County, Estonia	689	132	117168	42985	580	84
+riga_planning_region_LV	Riga Planning Region, Latvia	211	60	13651	4649	52	2

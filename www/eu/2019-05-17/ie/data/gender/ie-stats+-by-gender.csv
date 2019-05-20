@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	IE	Ireland	5236	1233	36339455	13592713	238074	35701
+m	male	IE	Ireland	4837	1197	33317959	12270309	216717	32037
+u	unknown	IE	Ireland	4492	1121	574385	207067	3988	575

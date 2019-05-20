@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	FI	Finland	7492	1278	54974709	19086482	542939	78399
+m	male	FI	Finland	7017	1242	41643175	13999259	442746	62365
+u	unknown	FI	Finland	6108	1176	1241125	421505	12115	1702

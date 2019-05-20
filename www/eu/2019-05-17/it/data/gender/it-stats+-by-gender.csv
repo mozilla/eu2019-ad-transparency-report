@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	IT	Italy	20490	5278	243712564	89699225	1280044	144827
+m	male	IT	Italy	19875	5181	289193477	104133853	1498676	156030
+u	unknown	IT	Italy	17023	4724	1529843	557254	8406	988

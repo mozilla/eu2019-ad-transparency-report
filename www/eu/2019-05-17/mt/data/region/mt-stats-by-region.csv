@@ -1,0 +1,4 @@
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+central_region	Central Region	MT	Malta	4802	830	19284104	6517245	115372	8476
+gozo	Gozo	MT	Malta	3272	419	1139698	349205	7188	624
+south_eastern_region	South Eastern Region	MT	Malta	3626	518	6068114	2037473	32207	2632
