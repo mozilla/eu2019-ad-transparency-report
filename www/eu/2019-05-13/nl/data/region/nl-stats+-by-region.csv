@@ -1,0 +1,13 @@
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+drenthe	Drenthe	NL	Netherlands	3520	686	202943	77054	2306	173
+flevoland	Flevoland	NL	Netherlands	3625	717	143730	47277	1526	81
+friesland	Friesland	NL	Netherlands	3676	719	451282	159898	3768	307
+gelderland	Gelderland	NL	Netherlands	4560	926	4112457	1533363	29202	4639
+groningen	Groningen	NL	Netherlands	3907	767	400408	135536	4321	620
+limburg	Limburg	NL	Netherlands	4463	937	1643890	530823	12588	1818
+noord_holland	Noord-Holland	NL	Netherlands	5152	1101	5129778	1772838	52450	7264
+north_brabant	North Brabant	NL	Netherlands	4814	995	2582779	994817	22885	4134
+overijssel	Overijssel	NL	Netherlands	4085	814	761456	284193	7931	878
+utrecht	Utrecht	NL	Netherlands	4322	891	1103625	388843	10002	1271
+zeeland	Zeeland	NL	Netherlands	3717	753	150463	48515	1431	78
+zuid_holland	Zuid-Holland	NL	Netherlands	5090	1069	6993311	2658938	59396	10265

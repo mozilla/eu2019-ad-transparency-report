@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	HR	Croatia	2854	728	19177551	7140215	63958	7295
+m	male	HR	Croatia	2681	715	21413809	7664335	75566	7598
+u	unknown	HR	Croatia	2527	671	311591	115463	1121	125

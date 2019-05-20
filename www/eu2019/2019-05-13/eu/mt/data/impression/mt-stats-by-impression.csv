@@ -1,9 +1,0 @@
-country_code_filter	country_name_filter	impression_code	impression_label	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-MT	Malta	0_1k	0 - 1k	624	191	190622	0	18526	2
-MT	Malta	1k_5k	1k - 5k	1277	287	3725710	745291	73406	10
-MT	Malta	5k_10k	5k - 10k	711	214	4277568	2138998	42119	17
-MT	Malta	10k_50k	10k - 50k	1070	308	18602851	3720644	49172	3164
-MT	Malta	50k_100k	50k - 100k	311	137	6885552	3442810	30270	5910
-MT	Malta	100k_200k	100k - 200k	190	90	5300149	2650087	12809	2581
-MT	Malta	200k_500k	200k - 500k	156	85	5526006	2210407	24026	6403
-MT	Malta	500k_1m	500k - 1m	63	39	1333214	666608	6695	1385

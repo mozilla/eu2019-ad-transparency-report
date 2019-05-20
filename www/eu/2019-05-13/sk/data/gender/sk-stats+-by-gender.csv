@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	SK	Slovakia	6010	802	47434206	16219427	317060	29292
+m	male	SK	Slovakia	5559	788	54135666	18417715	354053	35133
+u	unknown	SK	Slovakia	4604	742	374100	124674	2465	276

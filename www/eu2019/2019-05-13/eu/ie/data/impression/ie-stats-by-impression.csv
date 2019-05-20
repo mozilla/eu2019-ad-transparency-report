@@ -1,9 +1,0 @@
-country_code_filter	country_name_filter	impression_code	impression_label	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-IE	Ireland	0_1k	0 - 1k	1127	383	346989	0	33670	0
-IE	Ireland	1k_5k	1k - 5k	1237	490	2480001	496099	48812	6
-IE	Ireland	5k_10k	5k - 10k	610	329	2669962	1335114	26907	160
-IE	Ireland	10k_50k	10k - 50k	1094	376	16696095	3339285	67994	9081
-IE	Ireland	50k_100k	50k - 100k	310	150	5898463	2949261	26526	5905
-IE	Ireland	100k_200k	100k - 200k	210	93	7960794	3980417	43335	14126
-IE	Ireland	200k_500k	200k - 500k	172	73	9799960	3919992	72415	15574
-IE	Ireland	500k_1m	500k - 1m	71	39	9557447	4778728	47925	9680

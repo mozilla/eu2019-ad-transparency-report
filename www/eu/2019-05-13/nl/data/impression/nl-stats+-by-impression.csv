@@ -1,0 +1,9 @@
+impression_code	impression_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+0_1k	0 - 1k	NL	Netherlands	1774	522	933353	0	90344	11
+1k_5k	1k - 5k	NL	Netherlands	1699	663	3928327	785822	76711	151
+5k_10k	5k - 10k	NL	Netherlands	825	436	3503127	1751738	39256	1202
+10k_50k	10k - 50k	NL	Netherlands	1592	535	25157222	5031545	166839	29978
+50k_100k	50k - 100k	NL	Netherlands	470	204	14552914	7276529	101361	30909
+100k_200k	100k - 200k	NL	Netherlands	303	128	17755036	8877562	145242	39062
+200k_500k	200k - 500k	NL	Netherlands	226	104	31484821	12593953	238085	58049
+500k_1m	500k - 1m	NL	Netherlands	79	46	19607184	9803602	96378	22837
