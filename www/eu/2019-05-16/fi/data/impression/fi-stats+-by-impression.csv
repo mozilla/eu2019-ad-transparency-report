@@ -1,0 +1,9 @@
+impression_code	impression_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+0_1k	0 - 1k	FI	Finland	2210	465	1872860	0	184356	9
+1k_5k	1k - 5k	FI	Finland	2037	634	7762328	1552776	154691	582
+5k_10k	5k - 10k	FI	Finland	747	333	4979328	2489913	66068	4440
+10k_50k	10k - 50k	FI	Finland	1331	431	33019760	6604084	228420	44211
+50k_100k	50k - 100k	FI	Finland	344	151	10128246	5064173	64297	20016
+100k_200k	100k - 200k	FI	Finland	218	95	9163278	4581662	60473	15467
+200k_500k	200k - 500k	FI	Finland	171	75	9730083	3892041	64461	18091
+500k_1m	500k - 1m	FI	Finland	77	40	15156831	7578423	88126	30290

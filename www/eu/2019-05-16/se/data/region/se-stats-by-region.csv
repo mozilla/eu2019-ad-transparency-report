@@ -1,0 +1,22 @@
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+blekinge_county	Blekinge County	SE	Sweden	5765	763	242683	61879	2514	458
+dalarna_county	Dalarna County	SE	Sweden	6131	836	1115367	291305	9364	2199
+gotland_county	Gotland County	SE	Sweden	5217	667	105715	20833	1132	184
+gavleborg_county	Gävleborg County	SE	Sweden	6167	838	711902	217442	6004	952
+halland_county	Halland County	SE	Sweden	6387	869	1073731	311679	10295	2779
+jamtland_county	Jämtland County	SE	Sweden	5659	748	517149	134080	5594	1835
+jonkoping_county	Jönköping County	SE	Sweden	6344	862	787246	209553	7446	1831
+kalmar_county	Kalmar County	SE	Sweden	6011	801	742360	197850	6274	1277
+kronoberg_county	Kronoberg County	SE	Sweden	5957	799	290652	65421	2806	621
+norrbotten_county	Norrbotten County	SE	Sweden	6278	843	1026507	317037	8981	2097
+skane_county	Skåne County	SE	Sweden	7715	1154	5726436	1722309	52502	12195
+stockholm_county	Stockholm County	SE	Sweden	8507	1301	21154130	6847521	161957	39196
+sodermanland_county	Södermanland County	SE	Sweden	6418	884	985349	275467	8261	2390
+uppsala_county	Uppsala County	SE	Sweden	6830	933	2096270	519951	14093	3378
+varmland_county	Värmland County	SE	Sweden	6163	832	2102991	564765	17505	4744
+vasterbotten_county	Västerbotten County	SE	Sweden	6291	840	1127957	304028	10704	2803
+vasternorrland_county	Västernorrland County	SE	Sweden	5950	790	536743	164300	5669	1574
+vastmanland_county	Västmanland County	SE	Sweden	6191	841	727289	170298	6697	1398
+vastra_gotaland_county	Västra Götaland County	SE	Sweden	7890	1159	9110759	2713329	86329	20112
+orebro_county	Örebro County	SE	Sweden	6181	832	1383976	380589	13267	2134
+ostergotland_county	Östergötland County	SE	Sweden	6614	918	2234927	637394	18868	4113

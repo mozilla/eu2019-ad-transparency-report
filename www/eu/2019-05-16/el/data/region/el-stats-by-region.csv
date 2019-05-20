@@ -1,0 +1,14 @@
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+attica_region	Attica (region)	EL	Greece	6784	1211	62684783	22434150	268607	26362
+central_greece_region	Central Greece (region)	EL	Greece	4921	881	1325583	384840	9717	298
+central_macedonia	Central Macedonia	EL	Greece	5599	1031	16239877	5514576	72218	4040
+crete	Crete	EL	Greece	4689	870	5147082	1743281	21775	1052
+eastern_macedonia_and_thrace	Eastern Macedonia and Thrace	EL	Greece	4526	831	5967552	1871549	23711	817
+epirus_region	Epirus (region)	EL	Greece	4438	828	3022269	777623	13738	388
+ionian_islands_region	Ionian Islands (region)	EL	Greece	4261	816	337741	85635	1408	45
+northern_aegean	Northern Aegean	EL	Greece	4125	771	484312	138796	2757	65
+peloponnese_region	Peloponnese (region)	EL	Greece	4547	845	2605531	716145	16397	217
+southern_aegean	Southern Aegean	EL	Greece	4527	853	5167967	1497086	17383	951
+thessaly	Thessaly	EL	Greece	4711	874	3379021	1140970	16969	585
+western_greece	Western Greece	EL	Greece	4717	863	4391104	1382643	24993	450
+western_macedonia	Western Macedonia	EL	Greece	4077	746	651408	210867	3426	171

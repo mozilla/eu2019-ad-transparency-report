@@ -1,0 +1,9 @@
+impression_code	impression_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+0_1k	0 - 1k	SK	Slovakia	2035	241	1799228	0	177386	1
+1k_5k	1k - 5k	SK	Slovakia	1815	349	6895206	1379317	136244	5
+5k_10k	5k - 10k	SK	Slovakia	962	261	7062854	3531780	71732	509
+10k_50k	10k - 50k	SK	Slovakia	1647	396	48430707	9686335	179907	21475
+50k_100k	50k - 100k	SK	Slovakia	395	164	15516475	7758315	62304	13432
+100k_200k	100k - 200k	SK	Slovakia	249	104	13508660	6754363	52762	17463
+200k_500k	200k - 500k	SK	Slovakia	178	83	17781335	7112548	60410	17305
+500k_1m	500k - 1m	SK	Slovakia	79	42	13414817	6707415	58496	12252

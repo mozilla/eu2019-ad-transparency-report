@@ -1,0 +1,7 @@
+spend_code	spend_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+0_50	0 - 50	BE	Belgium	10515	2109	88525412	22455804	691784	174
+50_100	50 - 100	BE	Belgium	10680	2083	1905042	621336	11421	1659
+100_1k	100 - 1k	BE	Belgium	3016	611	199034732	80951914	1016692	277857
+1k_5k	1k - 5k	BE	Belgium	322	84	97229696	43213953	932218	186970
+5k_10k	5k - 10k	BE	Belgium	13	10	2148925	1073852	22086	10824
+10k_50k	10k - 50k	BE	Belgium	2	2	1022449	511225	50998	10199

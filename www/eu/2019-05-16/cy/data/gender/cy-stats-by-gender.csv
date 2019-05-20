@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	CY	Cyprus	2041	481	10881765	3642822	46747	4590
+m	male	CY	Cyprus	1958	462	16114425	5176797	69162	5488
+u	unknown	CY	Cyprus	1883	444	194999	64188	845	67

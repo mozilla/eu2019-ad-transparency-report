@@ -1,0 +1,17 @@
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+baden_wurttemberg	Baden-Württemberg	DE	Germany	27297	2307	27901036	7850770	355467	18158
+bayern	Bayern	DE	Germany	26073	2274	15989959	5065515	193215	15554
+berlin	Berlin	DE	Germany	23980	2112	12213171	3638392	154870	14708
+brandenburg	Brandenburg	DE	Germany	19346	1627	1134015	273901	22484	594
+bremen	Bremen	DE	Germany	20384	1568	4013896	961537	63467	1503
+hamburg	Hamburg	DE	Germany	22986	1868	5728965	1536349	91759	6038
+hessen	Hessen	DE	Germany	25219	2079	11269714	3073889	128712	7327
+mecklenburg_vorpommern	Mecklenburg-Vorpommern	DE	Germany	19065	1548	1809461	433959	28874	565
+niedersachsen	Niedersachsen	DE	Germany	25048	2028	14820086	3894660	148505	6847
+nordrhein_westfalen	Nordrhein-Westfalen	DE	Germany	27200	2383	45778218	13386838	435619	34229
+rheinland_pfalz	Rheinland-Pfalz	DE	Germany	24947	2072	10973889	2697223	178047	5491
+saarland	Saarland	DE	Germany	20242	1577	4160146	1099288	46903	3980
+sachsen	Sachsen	DE	Germany	22550	1812	5578625	1438164	90615	4682
+saxony_anhalt	Saxony-Anhalt	DE	Germany	20403	1629	3453176	822752	45445	2676
+schleswig_holstein	Schleswig-Holstein	DE	Germany	22004	1717	5044130	1282804	62875	2285
+thuringen	Thüringen	DE	Germany	20805	1669	4085289	1002225	57843	2307

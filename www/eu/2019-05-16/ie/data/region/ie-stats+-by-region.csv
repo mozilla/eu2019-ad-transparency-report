@@ -1,0 +1,27 @@
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+carlow	Carlow	IE	Ireland	2013	556	153994	37453	820	14
+cavan	Cavan	IE	Ireland	2171	564	411367	161565	3067	651
+county_clare	County Clare	IE	Ireland	2283	595	385023	87376	2133	123
+county_cork	County Cork	IE	Ireland	3152	794	1643725	554383	13932	1280
+county_laois	County Laois	IE	Ireland	1981	552	132809	32556	1620	12
+county_leitrim	County Leitrim	IE	Ireland	1756	466	22931	8831	213	8
+county_longford	County Longford	IE	Ireland	1757	487	25422	6560	379	15
+county_louth	County Louth	IE	Ireland	2634	656	425705	120205	3048	271
+county_mayo	County Mayo	IE	Ireland	2444	595	471708	147521	5259	795
+county_meath	County Meath	IE	Ireland	2595	653	363607	98577	2274	125
+county_monaghan	County Monaghan	IE	Ireland	1981	518	145347	54041	2338	391
+county_offaly	County Offaly	IE	Ireland	1904	531	79233	26508	893	13
+county_tipperary	County Tipperary	IE	Ireland	2400	639	256674	74015	1423	56
+county_westmeath	County Westmeath	IE	Ireland	2350	599	243379	57397	1886	261
+donegal	Donegal	IE	Ireland	2532	643	1230650	385502	10141	1312
+dublin	Dublin	IE	Ireland	4111	1037	10973224	3864407	73685	8057
+galway	Galway	IE	Ireland	3035	732	2148253	686780	17761	2407
+kerry	Kerry	IE	Ireland	2302	606	750554	281191	6824	1085
+kildare	Kildare	IE	Ireland	2733	690	472695	130291	3545	154
+kilkenny	Kilkenny	IE	Ireland	2157	559	353148	88796	1980	15
+limerick	Limerick	IE	Ireland	2626	705	552681	168749	4452	200
+roscommon	Roscommon	IE	Ireland	1834	497	31911	11659	307	20
+sligo	Sligo	IE	Ireland	2184	542	363530	90874	6187	378
+waterford	Waterford	IE	Ireland	2419	638	274091	75179	1911	56
+wexford	Wexford	IE	Ireland	2398	638	336947	120166	2994	401
+wicklow	Wicklow	IE	Ireland	2451	644	348934	117032	1891	135

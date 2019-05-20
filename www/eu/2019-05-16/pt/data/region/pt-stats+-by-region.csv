@@ -1,0 +1,18 @@
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+aveiro_district	Aveiro District	PT	Portugal	2578	795	444351	190095	1292	185
+beja_district	Beja District	PT	Portugal	2091	672	14756	4491	143	3
+braga_district	Braga District	PT	Portugal	2694	857	415370	168570	1996	141
+castelo_branco_district	Castelo Branco District	PT	Portugal	2203	701	31642	11847	245	5
+coimbra_district	Coimbra District	PT	Portugal	2605	809	191544	64706	626	52
+faro_district	Faro District	PT	Portugal	2887	873	200803	64437	1820	41
+guarda_district	Guarda District	PT	Portugal	1971	650	6702	2356	21	1
+leiria_district	Leiria District	PT	Portugal	2530	792	128826	39514	565	36
+lisbon_district	Lisbon District	PT	Portugal	3520	1069	3745373	1360868	17867	2007
+portalegre_district	Portalegre District	PT	Portugal	2143	657	6960	2516	21	2
+porto_district	Porto District	PT	Portugal	3095	943	1725271	674848	7151	573
+santarem_district	Santarém District	PT	Portugal	2446	798	172151	45237	856	24
+setubal_district	Setúbal District	PT	Portugal	2737	862	332676	105267	1662	74
+viana_do_castelo_district	Viana do Castelo District	PT	Portugal	2597	738	38382	12411	362	7
+vila_real_district	Vila Real District	PT	Portugal	2120	656	83365	18497	505	4
+viseu_district	Viseu District	PT	Portugal	2396	733	62013	22636	419	16
+evora_district	Évora District	PT	Portugal	2234	707	19133	6814	62	11

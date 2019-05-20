@@ -1,0 +1,8 @@
+age_code	age_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+13_17	13-17	LT	Lithuania	303	114	299198	122523	891	112
+18_24	18-24	LT	Lithuania	2515	612	11080566	4233813	42249	5959
+25_34	25-34	LT	Lithuania	2901	687	9534245	3509756	40004	5230
+35_44	35-44	LT	Lithuania	2884	673	9121806	3594049	30505	4294
+45_54	45-54	LT	Lithuania	2780	645	7573149	2896917	25871	3090
+55_64	55-64	LT	Lithuania	2115	597	5602995	2008636	20313	1547
+65_	65+	LT	Lithuania	1835	524	2547732	881435	10396	698
