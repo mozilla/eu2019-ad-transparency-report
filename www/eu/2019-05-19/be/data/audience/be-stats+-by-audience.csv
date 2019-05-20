@@ -1,0 +1,22 @@
+audience_code	audience_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+m18_24	male (18-24)	BE	Belgium	523	127	1336433	439710	21966	2151
+f18_24	female (18-24)	BE	Belgium	520	129	1167559	361393	15893	1291
+m25_34	male (25-34)	BE	Belgium	347	132	1056108	388759	11083	1974
+m35_44	male (35-44)	BE	Belgium	347	132	805343	294907	8795	1581
+f25_34	female (25-34)	BE	Belgium	350	135	756566	262243	6308	1019
+m45_54	male (45-54)	BE	Belgium	333	128	688418	250765	7968	1402
+f35_44	female (35-44)	BE	Belgium	352	135	581532	200755	5421	903
+f45_54	female (45-54)	BE	Belgium	336	132	578125	204007	5878	1045
+f55_64	female (55-64)	BE	Belgium	308	127	529560	180689	5585	928
+m55_64	male (55-64)	BE	Belgium	305	123	487759	172402	5750	984
+f65_	female (65+)	BE	Belgium	292	121	332108	111032	3756	583
+m65_	male (65+)	BE	Belgium	290	117	280145	97399	3381	544
+f13_17	female (13-17)	BE	Belgium	192	16	138245	39650	1446	13
+m13_17	male (13-17)	BE	Belgium	192	16	82409	24164	1253	30
+u35_44	unknown (35-44)	BE	Belgium	247	102	10579	3473	105	15
+u25_34	unknown (25-34)	BE	Belgium	241	99	9363	2958	90	11
+u45_54	unknown (45-54)	BE	Belgium	220	88	6329	2093	68	9
+u55_64	unknown (55-64)	BE	Belgium	174	80	3963	1314	40	6
+u18_24	unknown (18-24)	BE	Belgium	235	81	3525	963	55	2
+u65_	unknown (65+)	BE	Belgium	152	73	2755	868	27	4
+u13_17	unknown (13-17)	BE	Belgium	34	8	356	101	5	0

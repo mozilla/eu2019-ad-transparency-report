@@ -1,0 +1,21 @@
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+abruzzo	Abruzzo	IT	Italy	156	77	33765	7574	938	4
+aosta_valley	Aosta Valley	IT	Italy	146	65	5354	879	184	0
+basilicata	Basilicata	IT	Italy	134	69	9811	2495	153	1
+calabria	Calabria	IT	Italy	161	75	82106	21163	460	10
+campania	Campania	IT	Italy	172	79	535096	150140	2868	66
+emilia_romagna	Emilia-Romagna	IT	Italy	260	105	1180676	371665	11447	217
+friuli_venezia_giulia	Friuli-Venezia Giulia	IT	Italy	150	65	262811	60704	1483	1
+lazio	Lazio	IT	Italy	220	91	915806	327054	6460	331
+liguria	Liguria	IT	Italy	190	80	186007	48315	1690	16
+lombardia	Lombardia	IT	Italy	270	106	1511021	466904	11051	524
+marche	Marche	IT	Italy	163	77	70366	16384	1392	1
+molise	Molise	IT	Italy	132	65	6361	1400	105	0
+piedmont	Piedmont	IT	Italy	290	106	805393	215947	10970	265
+puglia	Puglia	IT	Italy	167	74	128123	43380	1685	38
+sardinia	Sardinia	IT	Italy	141	56	37106	8617	734	2
+sicilia	Sicilia	IT	Italy	171	60	610068	168675	5421	184
+trentino_alto_adige	Trentino-Alto Adige	IT	Italy	162	69	313495	75610	1701	0
+tuscany	Tuscany	IT	Italy	220	90	434023	100440	7519	28
+umbria	Umbria	IT	Italy	165	84	157325	32858	1561	0
+veneto	Veneto	IT	Italy	223	93	932804	275051	7292	222

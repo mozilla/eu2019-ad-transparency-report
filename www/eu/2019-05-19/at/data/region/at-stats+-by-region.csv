@@ -1,0 +1,10 @@
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+burgenland	Burgenland	AT	Austria	105	41	3474	689	120	3
+carinthia	Carinthia	AT	Austria	93	36	33150	14233	376	12
+lower_austria	Lower Austria	AT	Austria	124	41	84429	20374	1759	27
+salzburg	Salzburg	AT	Austria	92	37	64043	14564	376	14
+styria	Styria	AT	Austria	119	41	112563	30625	2122	88
+tyrol	Tyrol	AT	Austria	100	39	90577	21463	829	23
+upper_austria	Upper Austria	AT	Austria	112	41	196479	57210	1080	58
+vienna	Vienna	AT	Austria	116	38	1338806	525547	13793	2402
+vorarlberg	Vorarlberg	AT	Austria	91	35	6274	1657	226	5

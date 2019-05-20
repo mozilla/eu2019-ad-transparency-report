@@ -1,0 +1,22 @@
+audience_code	audience_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+m25_34	male (25-34)	IT	Italy	875	318	1718582	566738	11433	399
+m18_24	male (18-24)	IT	Italy	821	301	1501217	477882	9060	333
+m45_54	male (45-54)	IT	Italy	858	319	1425121	448844	11675	379
+m35_44	male (35-44)	IT	Italy	874	318	1367803	451903	10203	344
+m55_64	male (55-64)	IT	Italy	827	316	1295204	396455	10854	344
+f55_64	female (55-64)	IT	Italy	833	319	1230791	382043	10008	358
+f65_	female (65+)	IT	Italy	775	302	1039424	326939	8508	334
+f45_54	female (45-54)	IT	Italy	863	320	1012794	309455	8550	272
+f18_24	female (18-24)	IT	Italy	809	302	1011924	313063	5424	189
+m65_	male (65+)	IT	Italy	773	299	983070	302154	8243	290
+f25_34	female (25-34)	IT	Italy	858	317	748371	236478	4978	165
+f35_44	female (35-44)	IT	Italy	870	319	712171	227379	5680	198
+m13_17	male (13-17)	IT	Italy	51	35	138455	62421	215	17
+f13_17	female (13-17)	IT	Italy	52	34	63395	24639	122	8
+u35_44	unknown (35-44)	IT	Italy	466	219	7940	2643	65	2
+u25_34	unknown (25-34)	IT	Italy	380	182	6025	1957	37	1
+u45_54	unknown (45-54)	IT	Italy	407	193	5016	1584	44	1
+u55_64	unknown (55-64)	IT	Italy	335	169	3213	955	33	0
+u65_	unknown (65+)	IT	Italy	284	148	2929	874	27	0
+u18_24	unknown (18-24)	IT	Italy	212	117	2492	762	12	0
+u13_17	unknown (13-17)	IT	Italy	16	11	323	135	0	0

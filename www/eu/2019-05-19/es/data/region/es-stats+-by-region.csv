@@ -1,0 +1,18 @@
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+andalusia	Andalusia	ES	Spain	65	25	322051	113414	2374	112
+aragon	Aragón	ES	Spain	1152	22	1403270	131134	108740	101
+balearic_islands	Balearic Islands	ES	Spain	52	19	169208	36253	997	1
+cantabria	Cantabria	ES	Spain	42	14	622	241	1	0
+castilla_y_leon	Castilla y Leon	ES	Spain	80	22	236628	56902	1589	203
+castilla_la_mancha	Castilla-La Mancha	ES	Spain	92	23	229398	58765	1522	3
+cataluna	Cataluña	ES	Spain	126	37	634670	194642	6975	451
+comunidad_valenciana	Comunidad Valenciana	ES	Spain	141	26	389777	102304	6573	28
+comunidad_de_madrid	Comunidad de Madrid	ES	Spain	109	35	838815	281822	11447	1038
+extremadura	Extremadura	ES	Spain	50	17	83008	17265	690	1
+galicia	Galicia	ES	Spain	60	20	183417	47574	1617	6
+islas_canarias	Islas Canarias	ES	Spain	42	14	18428	6198	124	4
+la_rioja	La Rioja	ES	Spain	42	16	148	58	0	0
+navarra	Navarra	ES	Spain	85	18	16315	4797	270	0
+pais_vasco	País Vasco	ES	Spain	67	23	310362	106385	2880	101
+principality_of_asturias	Principality of Asturias	ES	Spain	84	19	168410	35923	4465	101
+region_of_murcia	Region of Murcia	ES	Spain	91	24	536554	118341	5152	102

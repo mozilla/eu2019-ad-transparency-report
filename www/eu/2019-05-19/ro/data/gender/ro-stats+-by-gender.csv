@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	RO	Romania	186	81	3069808	1114599	6216	1272
+m	male	RO	Romania	181	81	3486060	1226802	6779	1390
+u	unknown	RO	Romania	143	72	7780	2739	17	3

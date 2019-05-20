@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	SI	Slovenia	71	20	136005	31533	2226	1
+m	male	SI	Slovenia	71	20	222624	52152	3698	1
+u	unknown	SI	Slovenia	66	19	2349	524	32	0

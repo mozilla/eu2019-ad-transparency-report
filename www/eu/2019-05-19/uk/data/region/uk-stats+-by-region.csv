@@ -1,0 +1,5 @@
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+england	England	UK	United Kingdom	1243	100	13748558	5148174	181645	17456
+northern_ireland	Northern Ireland	UK	United Kingdom	302	35	101988	20653	726	121
+scotland	Scotland	UK	United Kingdom	541	39	314014	62679	10237	188
+wales	Wales	UK	United Kingdom	751	52	179296	42685	6097	246

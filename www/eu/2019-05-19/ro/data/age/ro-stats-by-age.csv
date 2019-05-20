@@ -1,0 +1,8 @@
+age_code	age_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+13_17	13-17	RO	Romania	22	10	35911	9808	82	9
+18_24	18-24	RO	Romania	158	74	1015892	372620	1825	345
+25_34	25-34	RO	Romania	173	79	1560259	577998	2876	579
+35_44	35-44	RO	Romania	179	80	1421288	504941	2682	526
+45_54	45-54	RO	Romania	170	79	1248066	436733	2574	529
+55_64	55-64	RO	Romania	156	73	839353	289260	1935	430
+65_	65+	RO	Romania	136	64	442877	152778	1036	245
