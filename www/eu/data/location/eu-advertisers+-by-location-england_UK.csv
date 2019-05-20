@@ -1,26 +1,26 @@
-location_code_filter	location_name_filter	advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-england_UK	England, United Kingdom	People's Vote UK	People's Vote	748608695327755	Facebook	3479	1	92262264	31809134	1207911	215044
-england_UK	England, United Kingdom	Britain's Future	Britain's Future	1625300137516491	Facebook	4162	1	74188459	22788210	893937	118971
-england_UK	England, United Kingdom	Liberal Democrats	the Liberal Democrats	5883973269	Facebook	3597	1	47117232	16198087	651409	87123
-england_UK	England, United Kingdom	Conservatives	The Conservative Party	8807334278	Facebook	2222	1	42178727	16286797	487606	66750
-england_UK	England, United Kingdom	The Labour Party	The Labour Party	25749647410	Facebook	658	1	36215549	14628479	299221	65211
-england_UK	England, United Kingdom	Best For Britain	Best for Britain	1863944713844924	Facebook	840	1	34807340	14696102	435089	101084
-england_UK	England, United Kingdom	Friends of the Earth	Friends of the Earth	110861655604080	Facebook	2377	1	33591446	11707732	383030	41126
-england_UK	England, United Kingdom	38 Degrees	38 Degrees	200006375787	Facebook	638	1	21759666	7914023	147903	21806
-england_UK	England, United Kingdom	We are the 52%	We are the 52%	466744973727718	Facebook	278	1	20435328	7532124	57854	7831
-england_UK	England, United Kingdom	The Brexit Party	The Brexit Party	230416667843105	Facebook	109	1	13343450	6236508	196270	55397
-england_UK	England, United Kingdom	Change UK - The Independent Group	Change UK - The Independent Group	395151614382309	Facebook	732	1	11472377	4339699	180811	35050
-england_UK	England, United Kingdom	Kialo		729627343834501	Facebook	338	1	11303113	4559588	110471	29012
-england_UK	England, United Kingdom	Ben Houchen - Tees Valley Mayor	Ben Houchen	1934566156780439	Facebook	150	1	8996078	3187460	63721	13405
-england_UK	England, United Kingdom	Right To Vote	Right to Vote	408236463256774	Facebook	319	1	8364224	2121483	70058	10987
-england_UK	England, United Kingdom	Greenpeace UK	Greenpeace UK 	9250349228	Facebook	143	1	5973700	2231319	44360	9078
-england_UK	England, United Kingdom	London Labour Party	The London Labour Party 	474613052643462	Facebook	89	1	5264976	1958984	49336	10668
-england_UK	England, United Kingdom	UK government	UK government	408582579294175	Facebook	15	1	5218706	2275638	62168	19026
-england_UK	England, United Kingdom	School Cuts	National Education Union	871798409656672	Facebook	157	1	4623875	1101881	45530	6907
-england_UK	England, United Kingdom	Scientists for EU	Scientists for EU	642444842524195	Facebook	62	1	4379110	1474049	31348	5494
-england_UK	England, United Kingdom	Andy Street	The Conservative Party	625464517632792	Facebook	635	1	4235026	1226355	81521	2313
-england_UK	England, United Kingdom	Amnesty International UK		7624294394	Facebook	92	1	4204719	1815500	38372	12368
-england_UK	England, United Kingdom	TheArticle	TheArticle	607840469632004	Facebook	27	1	4196408	1827015	34483	8532
-england_UK	England, United Kingdom	Electoral Commission UK	The Electoral Commission	841894835830532	Facebook	7	1	3991671	1795434	34682	6915
-england_UK	England, United Kingdom	The Week UK	The Week	177855115588808	Facebook	141	1	3909711	1415061	37325	6810
-england_UK	England, United Kingdom	London Gov	the Greater London Authority	713179875369048	Facebook	43	1	3823592	1673041	36721	7284
+advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+Green Party of England and Wales	The Green Party of England and Wales	20995300784	Facebook	england_UK	England, United Kingdom	21	1	5115979	2325000	16523	4860
+Remain United	Centrum Campaign Ltd	388121018451293	Facebook	england_UK	England, United Kingdom	28	1	1938469	723033	7692	1759
+Conservatives	The Conservative Party	8807334278	Facebook	england_UK	England, United Kingdom	728	1	1708574	276804	77851	223
+The Labour Party	The Labour Party	25749647410	Facebook	england_UK	England, United Kingdom	10	1	1329723	585548	10520	3283
+European Parliament	European Parliament	178362315106	Facebook	england_UK	England, United Kingdom	3	1	970350	472998	13335	5458
+Liberal Democrats	the Liberal Democrats	5883973269	Facebook	england_UK	England, United Kingdom	209	1	812615	198272	23864	0
+Change UK - The Independent Group	Change UK - The Independent Group	395151614382309	Facebook	england_UK	England, United Kingdom	21	1	766672	322151	15005	3022
+People's Vote UK	People's Vote	748608695327755	Facebook	england_UK	England, United Kingdom	15	1	289121	86775	2927	379
+GMB Union	GMB Union	103295786760891	Facebook	england_UK	England, United Kingdom	5	1	254995	81000	572	0
+West Midlands Conservatives	West Midlands Conservatives	223025417884693	Facebook	england_UK	England, United Kingdom	1	1	199991	99996	577	115
+38 Degrees	38 Degrees	200006375787	Facebook	england_UK	England, United Kingdom	7	1	140374	38952	738	0
+South West Green Party	The Green Party of England and Wales	244490049076873	Facebook	england_UK	England, United Kingdom	15	1	114381	33498	1699	0
+Scientists for EU	Scientists for EU	642444842524195	Facebook	england_UK	England, United Kingdom	1	1	82899	41450	478	95
+West Midlands Labour	The Labour Party	1243222025739706	Facebook	england_UK	England, United Kingdom	4	1	69554	16891	455	0
+School Cuts	National Education Union	871798409656672	Facebook	england_UK	England, United Kingdom	7	1	61758	11953	778	0
+Eastern Region Green Party	Eastern Region Green Party 	1635570190048987	Facebook	england_UK	England, United Kingdom	2	1	59884	14972	690	115
+Tom Watson	The Labour Party. Promoted by Tom Watson on behalf of Tom Watson	470873686267967	Facebook	england_UK	England, United Kingdom	5	1	52825	10565	459	0
+Global Justice Now	Global Justice Now	6707857033	Facebook	england_UK	England, United Kingdom	1	1	49999	10000	114	0
+Vote For Your Future	Vote For Your Future	2026046207505845	Facebook	england_UK	England, United Kingdom	1	1	49999	10000	577	115
+Pledge for the Future	Pledge for the Future	266157764008126	Facebook	england_UK	England, United Kingdom	12	1	47988	9000	1374	0
+London Green Party	London Green Party	175350485880358	Facebook	england_UK	England, United Kingdom	9	1	44991	9000	1031	0
+Global Optimism	Global Optimism	2062802910474026	Facebook	england_UK	England, United Kingdom	1	1	41768	8353	95	0
+Alex Salmond	Slainte Media	136191876445102	Facebook	england_UK	England, United Kingdom	1	1	36530	7306	83	0
+InFacts	InFacts	678120165658753	Facebook	england_UK	England, United Kingdom	2	1	35770	6994	171	0
+Renew	Renew  Party	1923371311278106	Facebook	england_UK	England, United Kingdom	6	1	21994	4000	687	0

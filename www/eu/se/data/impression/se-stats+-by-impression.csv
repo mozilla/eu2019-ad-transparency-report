@@ -1,9 +1,7 @@
-country_code_filter	country_name_filter	impression_code	impression_label	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-SE	Sweden	0_1k	0 - 1k	3156	794	2482598	0	44151	2455
-SE	Sweden	1k_5k	1k - 5k	3346	959	12963746	2593267	123802	26653
-SE	Sweden	5k_10k	5k - 10k	1410	508	10616872	5308966	134866	37785
-SE	Sweden	10k_50k	10k - 50k	2357	590	74154496	14831195	545839	126851
-SE	Sweden	50k_100k	50k - 100k	511	194	20691032	10345619	185729	63423
-SE	Sweden	100k_200k	100k - 200k	299	111	21785109	10892609	268876	63907
-SE	Sweden	200k_500k	200k - 500k	211	91	28554362	11421767	223072	49559
-SE	Sweden	500k_1m	500k - 1m	84	48	16511291	8255654	93049	30100
+impression_code	impression_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+0_1k	0 - 1k	SE	Sweden	116	71	115884	0	1322	64
+1k_5k	1k - 5k	SE	Sweden	83	49	404928	81001	3946	1055
+5k_10k	5k - 10k	SE	Sweden	21	15	180062	90040	3610	889
+10k_50k	10k - 50k	SE	Sweden	19	10	800773	160157	5186	1203
+50k_100k	50k - 100k	SE	Sweden	4	3	300056	150029	1887	655
+100k_200k	100k - 200k	SE	Sweden	5	4	402167	201084	9265	1853

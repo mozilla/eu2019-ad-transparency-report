@@ -1,26 +1,26 @@
-gender_code_filter	gender_label_filter	advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-f	female	European Parliament		178362315106	Facebook	1798	1	124948406	55771598	617637	154803
-f	female	Podemos	Unidas Podemos	269212336568846	Facebook	332	1	57414309	25477666	341903	87922
-f	female	Partido Popular	Partido Popular	72249031214	Facebook	3639	1	55293200	18244577	426359	37410
-f	female	Ciudadanos	Ciudadanos	74078667754	Facebook	5257	1	48778712	15023670	465234	37839
-f	female	People's Vote UK	People's Vote	748608695327755	Facebook	3500	1	48477134	16806740	626950	113577
-f	female	Britain's Future	Britain's Future	1625300137516491	Facebook	4475	1	34929282	10779069	432754	60769
-f	female	European Greens		141366725876424	Facebook	266	1	31009925	13726214	183938	45222
-f	female	Liberal Democrats	the Liberal Democrats	5883973269	Facebook	2220	1	27778477	9421456	383358	50973
-f	female	Best For Britain	Best for Britain	1863944713844924	Facebook	865	1	26176049	11197740	312688	74005
-f	female	SPD	SPD	47930567748	Facebook	6746	1	25321145	6882526	563021	23019
-f	female	Friends of the Earth	Friends of the Earth	110861655604080	Facebook	2377	1	25077287	8546341	301597	31158
-f	female	sp.a	sp.a	57253967150	Facebook	449	1	23633015	9531319	116756	24988
-f	female	The Labour Party	The Labour Party	25749647410	Facebook	651	1	20872027	8492636	166997	37011
-f	female	Greenpeace France		39435457457	Facebook	130	1	20339385	9339253	108651	24563
-f	female	CDU	CDU	78502295414	Facebook	3170	1	19610479	4709937	174052	4243
-f	female	Conservatives	The Conservative Party	8807334278	Facebook	1893	1	19515049	7559836	224380	29985
-f	female	Alianța 2020 USR PLUS	Uniunea Salvați România - USR	621574984950400	Facebook	229	1	19364420	8714410	47206	10630
-f	female	România în primul rând	Future Innovation	770704223323599	Facebook	94	1	17023994	7444972	17522	4421
-f	female	Partidul Social Democrat	Partidul Social Democrat	291177524360702	Facebook	95	1	16903337	7770914	41873	11255
-f	female	PSOE	PSOE	189318235003	Facebook	335	1	16617152	6617924	49462	9150
-f	female	Kialo		729627343834501	Facebook	815	1	16559588	6601870	110503	27293
-f	female	FDP	FDP	21289227249	Facebook	1806	1	15999394	4840782	128010	7987
-f	female	38 Degrees	38 Degrees	200006375787	Facebook	646	1	13737188	5032378	91913	13271
-f	female	Médecins du Monde France		265420476920	Facebook	2102	1	13641620	4343414	221412	18603
-f	female	Rädda Barnen		72659261793	Facebook	403	1	13591529	4549188	123781	31030
+advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	gender_code_filter	gender_label_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+CDU	CDU	78502295414	Facebook	f	female	4997	1	6934339	1218339	253310	0
+European Parliament	European Parliament	178362315106	Facebook	f	female	39	1	5440495	2359066	29248	8168
+Gouvernement	Gouvernement	392341217527576	Facebook	f	female	30	1	2466805	984932	4294	1003
+Green Party of England and Wales	The Green Party of England and Wales	20995300784	Facebook	f	female	21	1	2291372	1045928	7938	2376
+Remain United	Centrum Campaign Ltd	388121018451293	Facebook	f	female	28	1	1986021	748849	7423	1953
+Fidesz	Fidesz	9844779306	Facebook	f	female	18	1	1634345	746943	7625	3383
+FDP	FDP	21289227249	Facebook	f	female	577	1	1392219	232643	40005	51
+BÜNDNIS 90/DIE GRÜNEN	BÜNDNIS 90/DIE GRÜNEN	47217143218	Facebook	f	female	847	1	1337850	226398	50292	104
+Avaaz	Avaaz	8340223883	Facebook	f	female	10	1	1307157	515563	2152	569
+Momentum Mozgalom	Momentum Mozgalom	592204747588011	Facebook	f	female	65	1	1029215	394642	2611	852
+The Labour Party	The Labour Party	25749647410	Facebook	f	female	10	1	945062	416476	7413	2296
+Conservatives	The Conservative Party	8807334278	Facebook	f	female	730	1	867028	139702	39570	88
+Massimiliano Santini	Massimiliano Ghelfi	389585871653842	Facebook	f	female	37	1	807191	291957	2422	177
+CSU (Christlich-Soziale Union)	CSU (Christlich-Soziale Union)	81386795687	Facebook	f	female	3	1	761107	304624	7609	1518
+Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	f	female	6	1	760837	313978	2548	503
+Alianța 2020 USR PLUS	Alianța 2020 USR PLUS	621574984950400	Facebook	f	female	5	1	741502	311551	1719	377
+INBOX	New Digital Media	369693523475596	Facebook	f	female	15	1	698344	305225	876	73
+Wiosna Biedronia	KW Wiosna Roberta Biedronia	2246647628925721	Facebook	f	female	4	1	698263	284662	2335	921
+Prawo i Sprawiedliwość	Komitet Wyborczy Prawo i Sprawiedliwość	157458232131	Facebook	f	female	5	1	655863	278400	1338	267
+PSOE Aragón	PSOE Aragón	170970449608409	Facebook	f	female	621	1	653664	8546	61389	0
+Vlaams Belang	Vlaams Belang	56605856504	Facebook	f	female	9	1	651039	315628	8561	3121
+Det Konservative Folkeparti	Det Konservative Folkeparti	39233495912	Facebook	f	female	36	1	593451	132119	7652	1535
+Beate Meinl-Reisinger	NEOS	243225039137708	Facebook	f	female	3	1	555464	277732	2963	705
+Liberal Democrats	the Liberal Democrats	5883973269	Facebook	f	female	241	1	497874	111147	14802	0
+CDH - Centre Démocrate Humaniste	CDH - Centre Démocrate Humaniste	189649407806135	Facebook	f	female	34	1	488715	144636	1811	0

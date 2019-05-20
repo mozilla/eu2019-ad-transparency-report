@@ -1,11 +1,11 @@
-country_code_filter	country_name_filter	region_code	region_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-LT	Lithuania	vilnius_county	Vilnius County	2552	606	5419494	1699428	24043	1882
-LT	Lithuania	kaunas_county	Kaunas County	2292	537	1884072	655787	8897	737
-LT	Lithuania	klaipeda_county	Klaipėda County	2030	459	981383	292494	4334	225
-LT	Lithuania	siauliai_county	Šiauliai County	1876	440	565684	215806	3050	203
-LT	Lithuania	panevezys_county	Panevėžys County	1768	403	348204	118557	977	103
-LT	Lithuania	alytus_county	Alytus County	1632	358	229335	70720	748	43
-LT	Lithuania	utena_county	Utena County	1611	354	225233	60724	676	24
-LT	Lithuania	marijampole_county	Marijampolė County	1626	359	210401	91398	614	42
-LT	Lithuania	telsiai_county	Telšiai County	1628	371	174384	66773	936	54
-LT	Lithuania	taurage_county	Tauragė County	1490	324	74098	29859	295	21
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+alytus_county	Alytus County	LT	Lithuania	23	12	53857	11215	107	0
+kaunas_county	Kaunas County	LT	Lithuania	30	14	84254	19979	332	13
+klaipeda_county	Klaipėda County	LT	Lithuania	30	13	13903	3283	228	4
+marijampole_county	Marijampolė County	LT	Lithuania	22	12	53180	11075	106	0
+panevezys_county	Panevėžys County	LT	Lithuania	27	13	6125	1545	23	1
+taurage_county	Tauragė County	LT	Lithuania	21	12	1862	586	4	0
+telsiai_county	Telšiai County	LT	Lithuania	24	12	11703	4958	80	0
+utena_county	Utena County	LT	Lithuania	22	12	6885	1601	103	0
+vilnius_county	Vilnius County	LT	Lithuania	31	14	63500	16145	463	36
+siauliai_county	Šiauliai County	LT	Lithuania	32	13	28490	6310	441	3

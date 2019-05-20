@@ -1,9 +1,8 @@
-country_code_filter	country_name_filter	impression_code	impression_label	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-ES	Spain	0_1k	0 - 1k	11813	756	10986710	0	1086982	0
-ES	Spain	1k_5k	1k - 5k	6385	940	27976118	5596342	552399	121
-ES	Spain	5k_10k	5k - 10k	2410	571	19958275	9980135	201939	1283
-ES	Spain	10k_50k	10k - 50k	3761	734	140532394	28107040	541025	66574
-ES	Spain	50k_100k	50k - 100k	924	262	61909105	30954862	281054	62220
-ES	Spain	100k_200k	100k - 200k	587	179	76266781	38133581	277985	87892
-ES	Spain	200k_500k	200k - 500k	453	143	135633328	54253439	674155	162204
-ES	Spain	500k_1m	500k - 1m	176	65	109637609	54818859	615793	155341
+impression_code	impression_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+0_1k	0 - 1k	ES	Spain	1255	64	1253745	0	124245	0
+1k_5k	1k - 5k	ES	Spain	156	55	774722	154975	15342	0
+5k_10k	5k - 10k	ES	Spain	48	30	461565	230805	4569	0
+10k_50k	10k - 50k	ES	Spain	51	27	2363985	472806	8680	999
+50k_100k	50k - 100k	ES	Spain	6	6	503728	251866	2098	399
+100k_200k	100k - 200k	ES	Spain	6	5	631190	315596	1574	315
+200k_500k	200k - 500k	ES	Spain	7	3	3499988	1399998	8992	2399

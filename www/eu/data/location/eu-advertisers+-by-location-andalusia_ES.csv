@@ -1,26 +1,26 @@
-location_code_filter	location_name_filter	advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-andalusia_ES	Andalusia, Spain	Podemos	Unidas Podemos	269212336568846	Facebook	248	1	25335420	11207379	149856	39148
-andalusia_ES	Andalusia, Spain	Ciudadanos	Ciudadanos	74078667754	Facebook	1363	1	22238153	6636612	181049	13136
-andalusia_ES	Andalusia, Spain	Partido Popular	Partido Popular	72249031214	Facebook	1257	1	15272971	5372972	109835	13354
-andalusia_ES	Andalusia, Spain	PSOE	PSOE	189318235003	Facebook	334	1	7871508	3182968	22570	4128
-andalusia_ES	Andalusia, Spain	European Parliament		178362315106	Facebook	84	1	3211852	1454313	11510	2468
-andalusia_ES	Andalusia, Spain	Un país moderno	Unidas Podemos	577723459314066	Facebook	58	1	3117750	1380247	17032	3585
-andalusia_ES	Andalusia, Spain	PACMA - Partido Animalista	PACMA - Partido Animalista	72181181684	Facebook	72	1	2058336	887740	4585	850
-andalusia_ES	Andalusia, Spain	Greenpeace España	Greenpeace España	133044800622	Facebook	175	1	1673680	615206	5621	721
-andalusia_ES	Andalusia, Spain	Save the Children España	Save the Children España	57845333112	Facebook	18	1	1392204	663411	6403	1435
-andalusia_ES	Andalusia, Spain	Apodemia		115927088504184	Facebook	22	1	1391499	617175	657	35
-andalusia_ES	Andalusia, Spain	Fundación Anesvad	Jose Manuel Bran Garcia	131231529742	Facebook	233	1	1082719	415651	8142	1514
-andalusia_ES	Andalusia, Spain	España Ciudadana		349800235527721	Facebook	18	1	940080	413372	4713	1113
-andalusia_ES	Andalusia, Spain	Ayuda LGTB		315021912539118	Facebook	51	1	924017	384650	5849	1169
-andalusia_ES	Andalusia, Spain	Izquierda Unida	Izquierda Unida	74858103866	Facebook	14	1	858051	360877	3678	1099
-andalusia_ES	Andalusia, Spain	Partido Socialista Europeo		442423976113917	Facebook	33	1	767098	333251	1510	151
-andalusia_ES	Andalusia, Spain	Kialo		729627343834501	Facebook	372	1	766910	301799	4006	986
-andalusia_ES	Andalusia, Spain	Paco de la Torre	Paco de la Torre	121766447903661	Facebook	4	1	759996	315000	1596	300
-andalusia_ES	Andalusia, Spain	Respeto LGTB		2315084548728652	Facebook	293	1	698400	250672	7725	334
-andalusia_ES	Andalusia, Spain	Partido Por un Mundo más Justo · M+J	Partido Por un Mundo más Justo · M+J	147468905314265	Facebook	12	1	685397	316243	4751	892
-andalusia_ES	Andalusia, Spain	Pablo Iglesias	Unidas Podemos	414809308591481	Facebook	4	1	667257	333629	23765	4753
-andalusia_ES	Andalusia, Spain	Ingredientes que Suman		586540488142205	Facebook	13	1	641091	294722	1620	357
-andalusia_ES	Andalusia, Spain	Alberto Garzón Espinosa	Izquierda Unida	180609005365213	Facebook	12	1	628093	270806	5121	1276
-andalusia_ES	Andalusia, Spain	Avaaz	Avaaz	8340223883	Facebook	14	1	621199	291918	2491	491
-andalusia_ES	Andalusia, Spain	Stop Cambio Climático		124967441456981	Facebook	32	1	549923	230893	1661	296
-andalusia_ES	Andalusia, Spain	ACNUR Comite español		94118672764	Facebook	37	1	547795	224585	2702	431
+advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+Avaaz	Avaaz	8340223883	Facebook	andalusia_ES	Andalusia, Spain	9	1	627351	246886	999	257
+Reacciona y Actúa	Actúa 	1916676245053161	Facebook	andalusia_ES	Andalusia, Spain	15	1	136439	38959	448	0
+European Parliament	European Parliament	178362315106	Facebook	andalusia_ES	Andalusia, Spain	1	1	124537	49815	248	124
+PACMA - Partido Animalista	PACMA - Partido Animalista	72181181684	Facebook	andalusia_ES	Andalusia, Spain	2	1	64199	28977	154	26
+Ahora Repúblicas	Esquerra Republicana de Catalunya	578942235869606	Facebook	andalusia_ES	Andalusia, Spain	1	1	46885	23443	116	23
+Markel Olano	EAJ-PNV	898191063533170	Facebook	andalusia_ES	Andalusia, Spain	1	1	27668	13834	138	27
+Instituto Internacional de Derecho y Medio Ambiente (IIDMA)	Laura Fernández Dobarro	219220477095	Facebook	andalusia_ES	Andalusia, Spain	2	1	23158	4631	45	0
+Málaga Ahora	Málaga Ahora	781552348595473	Facebook	andalusia_ES	Andalusia, Spain	4	1	19996	4000	396	0
+Partido Por un Mundo más Justo · M+J	Partido Por un Mundo más Justo · M+J	147468905314265	Facebook	andalusia_ES	Andalusia, Spain	1	1	15392	3078	30	0
+Agrupación Municipal PSOE Huelva	Agrupación Municipal PSOE Huelva	372909479493645	Facebook	andalusia_ES	Andalusia, Spain	4	1	11996	2000	396	0
+Compromís	Compromís	194053080624605	Facebook	andalusia_ES	Andalusia, Spain	1	1	11668	2333	116	23
+Populares Ayamonte	Javier Aparicio	313897392129299	Facebook	andalusia_ES	Andalusia, Spain	1	1	9999	5000	99	0
+Rosa Galindo Málaga Ahora	Málaga Ahora	283962895855799	Facebook	andalusia_ES	Andalusia, Spain	2	1	5998	1000	198	0
+Psoe de Montoro	Psoe Montoro	298791370226491	Facebook	andalusia_ES	Andalusia, Spain	5	1	4995	0	495	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	andalusia_ES	Andalusia, Spain	1	1	3583	1791	8	1
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	andalusia_ES	Andalusia, Spain	4	1	3266	953	7	0
+European Commission	European Commission	107898832590939	Facebook	andalusia_ES	Andalusia, Spain	2	1	2751	1375	6	1
+IU Aragón	IU Aragón	178663732095	Facebook	andalusia_ES	Andalusia, Spain	1	1	1500	300	29	0
+PP Aljaraque	Javier Aparicio	777735922339731	Facebook	andalusia_ES	Andalusia, Spain	1	1	999	0	99	0
+Algeciras "Por y Para"		651685141921384	Facebook	andalusia_ES	Andalusia, Spain	1	1	999	0	99	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	andalusia_ES	Andalusia, Spain	2	1	568	144	1	0
+VOX España		467127060059387	Facebook	andalusia_ES	Andalusia, Spain	1	1	332	0	32	0
+PSOE Extremadura	PSOE Extremadura	187170858138979	Facebook	andalusia_ES	Andalusia, Spain	1	1	188	37	3	0
+Partido Socialista de la Región de Murcia (PSRM-PSOE)	Partido Socialista de la Región de Murcia 	154616807805	Facebook	andalusia_ES	Andalusia, Spain	1	1	137	27	0	0
+Zaragoza en Común	Zaragoza en Común	1404651893174804	Facebook	andalusia_ES	Andalusia, Spain	1	1	12	0	1	0

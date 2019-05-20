@@ -1,13 +1,13 @@
-country_code_filter	country_name_filter	region_code	region_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-NL	Netherlands	zuid_holland	Zuid-Holland	5268	1090	7396378	2818442	61976	10691
-NL	Netherlands	noord_holland	Noord-Holland	5346	1120	5451122	1894520	56015	7579
-NL	Netherlands	gelderland	Gelderland	4743	942	4222857	1574809	31143	4887
-NL	Netherlands	north_brabant	North Brabant	5003	1016	2698255	1043256	23789	4295
-NL	Netherlands	limburg	Limburg	4661	959	2009082	625085	13862	1878
-NL	Netherlands	utrecht	Utrecht	4483	907	1171450	408306	10911	1369
-NL	Netherlands	overijssel	Overijssel	4223	828	794765	298154	8177	928
-NL	Netherlands	groningen	Groningen	4054	783	468347	151883	4989	751
-NL	Netherlands	friesland	Friesland	3809	730	463393	164867	3874	327
-NL	Netherlands	drenthe	Drenthe	3640	697	209008	79627	2354	183
-NL	Netherlands	zeeland	Zeeland	3864	766	153159	49628	1452	82
-NL	Netherlands	flevoland	Flevoland	3764	732	147161	48621	1553	86
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+drenthe	Drenthe	NL	Netherlands	53	19	3420	1326	18	2
+flevoland	Flevoland	NL	Netherlands	54	18	5035	1131	32	0
+friesland	Friesland	NL	Netherlands	56	20	5894	1783	125	3
+gelderland	Gelderland	NL	Netherlands	60	20	38404	12965	212	22
+groningen	Groningen	NL	Netherlands	51	18	4022	1551	24	2
+limburg	Limburg	NL	Netherlands	69	27	24046	6706	366	7
+noord_holland	Noord-Holland	NL	Netherlands	72	24	115328	30012	1463	140
+north_brabant	North Brabant	NL	Netherlands	77	32	34734	14241	246	31
+overijssel	Overijssel	NL	Netherlands	59	19	19492	5924	194	8
+utrecht	Utrecht	NL	Netherlands	62	22	13623	3346	257	5
+zeeland	Zeeland	NL	Netherlands	62	26	7151	1660	108	0
+zuid_holland	Zuid-Holland	NL	Netherlands	68	27	105138	35019	1315	72

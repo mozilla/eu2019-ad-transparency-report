@@ -1,27 +1,27 @@
-country_code_filter	country_name_filter	region_code	region_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-IE	Ireland	dublin	Dublin	3998	1017	9646461	3437046	65542	7091
-IE	Ireland	galway	Galway	2950	716	2015000	639025	16418	2162
-IE	Ireland	county_cork	County Cork	3074	779	1488393	511611	13208	1249
-IE	Ireland	donegal	Donegal	2464	630	1198676	372820	9937	1295
-IE	Ireland	kerry	Kerry	2243	593	747858	280096	6793	1083
-IE	Ireland	limerick	Limerick	2560	689	528149	158746	3981	193
-IE	Ireland	kildare	Kildare	2650	673	457957	125495	3437	139
-IE	Ireland	county_louth	County Louth	2565	642	415976	117003	2999	259
-IE	Ireland	county_mayo	County Mayo	2372	581	405497	132544	4891	788
-IE	Ireland	cavan	Cavan	2115	551	369574	156051	3058	649
-IE	Ireland	sligo	Sligo	2120	530	352510	84621	6264	376
-IE	Ireland	kilkenny	Kilkenny	2102	545	344226	86312	1869	14
-IE	Ireland	county_clare	County Clare	2215	578	339100	80953	2019	122
-IE	Ireland	wexford	Wexford	2335	623	325734	115782	2702	333
-IE	Ireland	county_meath	County Meath	2517	636	295111	81231	1987	118
-IE	Ireland	wicklow	Wicklow	2380	628	287042	73096	1866	131
-IE	Ireland	waterford	Waterford	2358	622	271686	74531	1855	53
-IE	Ireland	county_tipperary	County Tipperary	2339	624	254323	73364	1363	52
-IE	Ireland	county_westmeath	County Westmeath	2285	581	194365	50199	1765	258
-IE	Ireland	county_monaghan	County Monaghan	1928	509	138650	52592	2230	390
-IE	Ireland	county_laois	County Laois	1930	541	127053	31007	1497	11
-IE	Ireland	carlow	Carlow	1964	544	100201	25994	710	13
-IE	Ireland	county_offaly	County Offaly	1853	516	74526	24883	879	12
-IE	Ireland	roscommon	Roscommon	1776	484	28670	10721	265	19
-IE	Ireland	county_longford	County Longford	1705	473	24619	6331	389	14
-IE	Ireland	county_leitrim	County Leitrim	1703	453	21300	8398	190	7
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+carlow	Carlow	IE	Ireland	22	14	11168	5250	123	0
+cavan	Cavan	IE	Ireland	26	15	602	197	5	0
+county_clare	County Clare	IE	Ireland	35	16	3775	920	120	0
+county_cork	County Cork	IE	Ireland	49	21	82081	20327	1098	106
+county_laois	County Laois	IE	Ireland	23	15	6555	1144	201	0
+county_leitrim	County Leitrim	IE	Ireland	28	14	277	118	2	0
+county_longford	County Longford	IE	Ireland	28	15	227	47	7	0
+county_louth	County Louth	IE	Ireland	29	15	1833	603	14	0
+county_mayo	County Mayo	IE	Ireland	42	19	5292	2356	32	4
+county_meath	County Meath	IE	Ireland	36	21	3311	401	208	0
+county_monaghan	County Monaghan	IE	Ireland	25	14	439	168	3	0
+county_offaly	County Offaly	IE	Ireland	27	17	1684	146	113	0
+county_tipperary	County Tipperary	IE	Ireland	39	18	7025	1411	140	3
+county_westmeath	County Westmeath	IE	Ireland	36	20	969	278	14	0
+donegal	Donegal	IE	Ireland	34	19	62290	13563	342	3
+dublin	Dublin	IE	Ireland	62	28	681811	222054	5421	821
+galway	Galway	IE	Ireland	61	25	48923	15392	936	20
+kerry	Kerry	IE	Ireland	28	16	8091	1464	250	0
+kildare	Kildare	IE	Ireland	39	21	18028	6594	308	0
+kilkenny	Kilkenny	IE	Ireland	24	14	4008	241	303	1
+limerick	Limerick	IE	Ireland	49	18	10700	2939	135	4
+roscommon	Roscommon	IE	Ireland	33	17	557	200	11	0
+sligo	Sligo	IE	Ireland	32	16	16111	6490	206	0
+waterford	Waterford	IE	Ireland	39	16	5773	1061	145	3
+wexford	Wexford	IE	Ireland	22	14	4905	1128	26	3
+wicklow	Wicklow	IE	Ireland	27	16	1404	368	9	1

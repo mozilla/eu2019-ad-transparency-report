@@ -1,0 +1,4 @@
+advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	impression_code_filter	impression_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+Fidesz	Fidesz	9844779306	Facebook	200k_500k	200k - 500k	HU	Hungary	2	1	999998	400000	3095	1238
+Jobbik Magyarországért Mozgalom	Országgyűlés Hivatala Jobbik Frakció	287770891404	Facebook	200k_500k	200k - 500k	HU	Hungary	1	1	499999	200000	619	309
+Gyöngyösi Márton	Országgyűlés Hivatala Jobbik Frakció	781030738624077	Facebook	200k_500k	200k - 500k	HU	Hungary	1	1	499998	199999	619	309

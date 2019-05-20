@@ -1,26 +1,26 @@
-location_code_filter	location_name_filter	advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-basilicata_IT	Basilicata, Italy	Matteo Salvini	Lega - Salvini Premier	252306033154	Facebook	21	1	552555	270666	1362	289
-basilicata_IT	Basilicata, Italy	Silvio Berlusconi	Silvio Berlusconi	116716651695782	Facebook	346	1	392113	163846	1657	319
-basilicata_IT	Basilicata, Italy	Francesco Galtieri	Francesco Galtieri	176134109106348	Facebook	8	1	347249	173224	1275	215
-basilicata_IT	Basilicata, Italy	Partito Democratico		77034286895	Facebook	126	1	276226	122188	913	212
-basilicata_IT	Basilicata, Italy	La Basilicata Possibile - Tramutoli Presidente		275659613337674	Facebook	5	1	214865	75971	894	100
-basilicata_IT	Basilicata, Italy	European Parliament		178362315106	Facebook	177	1	152858	65901	452	87
-basilicata_IT	Basilicata, Italy	Save the Children Italia		46590675335	Facebook	46	1	128233	57426	546	146
-basilicata_IT	Basilicata, Italy	Forza Italia		172265396249029	Facebook	15	1	117785	36327	695	75
-basilicata_IT	Basilicata, Italy	Dipartimento per le politiche giovanili e il servizio civile universale – Presidenza del Consiglio dei Ministri	Dipartimento per le politiche giovanili e il servizio civile universale – Presidenza del Consiglio dei Ministri	353868374653514	Facebook	44	1	107765	46116	193	37
-basilicata_IT	Basilicata, Italy	WeWorld Onlus		299584710061488	Facebook	262	1	100209	38264	580	67
-basilicata_IT	Basilicata, Italy	Tiziana De Palo candidata M5S		2017928958511723	Facebook	2	1	99998	20000	187	0
-basilicata_IT	Basilicata, Italy	Antonio Mattia M5S		478239819319197	Facebook	2	1	99998	20000	198	0
-basilicata_IT	Basilicata, Italy	Giosi Ferrandino	Giosi Ferrandino	141856142632410	Facebook	52	1	89148	26439	292	12
-basilicata_IT	Basilicata, Italy	Elena Gentile	Elena Gentile	1426435657576038	Facebook	36	1	76186	27293	174	0
-basilicata_IT	Basilicata, Italy	Greenpeace Italia	Greenpeace Italia	35346524498	Facebook	79	1	74184	30490	174	33
-basilicata_IT	Basilicata, Italy	Pasquale Cariello		582920181886790	Facebook	3	1	69981	19992	296	0
-basilicata_IT	Basilicata, Italy	Fratelli d'Italia	Fratelli d'Italia	355710427861591	Facebook	58	1	62405	25988	311	84
-basilicata_IT	Basilicata, Italy	Basilicata24		164575363610080	Facebook	2	1	59998	15000	198	0
-basilicata_IT	Basilicata, Italy	Carlo Trerotola		2010435719257666	Facebook	3	1	59997	12000	297	0
-basilicata_IT	Basilicata, Italy	Francesco Piro		1741020712666403	Facebook	3	1	58319	13660	270	0
-basilicata_IT	Basilicata, Italy	Alessandra D'Angella		337096617013293	Facebook	3	1	55383	11027	133	0
-basilicata_IT	Basilicata, Italy	Tommaso Coviello		407395446674646	Facebook	2	1	54998	11000	176	0
-basilicata_IT	Basilicata, Italy	Partito del Socialismo Europeo	Partito del Socialismo Europeo	1891926127734235	Facebook	43	1	52490	18048	111	5
-basilicata_IT	Basilicata, Italy	Andrea Cozzolino		1449151341981719	Facebook	11	1	51671	19939	148	35
-basilicata_IT	Basilicata, Italy	Forza Civica - Matera		440702353032534	Facebook	1	1	49999	10000	99	0
+advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+Caterina Cerroni	Caterina Cerroni	1618719834925589	Facebook	basilicata_IT	Basilicata, Italy	3	1	14931	6662	60	11
+Caio Mussolini	Caio Mussolini	2393234914229651	Facebook	basilicata_IT	Basilicata, Italy	1	1	10305	5152	25	5
+Matteo Salvini	Lega - Salvini Premier	252306033154	Facebook	basilicata_IT	Basilicata, Italy	1	1	8873	4437	4	0
+Carmine Spiaggia	Carmine Spiaggia	425820797979047	Facebook	basilicata_IT	Basilicata, Italy	1	1	7446	3723	18	3
+European Commission	European Commission	107898832590939	Facebook	basilicata_IT	Basilicata, Italy	3	1	6896	2812	7	1
+Lorenzo Cesa	Lorenzo Cesa	538632706513878	Facebook	basilicata_IT	Basilicata, Italy	8	1	5051	993	106	0
+Nadia Sgro	Nadia Sgro	276613263243127	Facebook	basilicata_IT	Basilicata, Italy	1	1	4999	1000	99	0
+Giorgia Meloni	Fratelli d'Italia	38919827644	Facebook	basilicata_IT	Basilicata, Italy	5	1	3830	1460	16	2
+Valeria Di Nino - Candidata M5S Elezioni Europee - Sud	Valeria Di Nino	346634905977977	Facebook	basilicata_IT	Basilicata, Italy	1	1	3116	623	6	0
+Giuseppe Cossalter	Giuseppe Cossalter	1981132658773307	Facebook	basilicata_IT	Basilicata, Italy	3	1	2834	566	7	0
+Luciano Nobili	Luciano Nobili	406187203142799	Facebook	basilicata_IT	Basilicata, Italy	5	1	2694	563	5	0
+Giosi Ferrandino	Giosi Ferrandino	141856142632410	Facebook	basilicata_IT	Basilicata, Italy	2	1	2619	523	8	0
+LEALI per Lagonegro	Nicola Giampietro	612616479163218	Facebook	basilicata_IT	Basilicata, Italy	1	1	2532	506	50	0
+Andrea Cozzolino	Andrea Cozzolino	1449151341981719	Facebook	basilicata_IT	Basilicata, Italy	2	1	2117	533	7	0
+Pina Picierno	SocialCom	212896992084952	Facebook	basilicata_IT	Basilicata, Italy	10	1	1387	253	37	0
+Aldo Patriciello	Aldo Patriciello	40645773554	Facebook	basilicata_IT	Basilicata, Italy	1	1	1368	273	2	0
+Deputati PD	Deputati PD	104652392900508	Facebook	basilicata_IT	Basilicata, Italy	3	1	1094	253	3	0
+Fratelli d'Italia	Fratelli d'Italia	355710427861591	Facebook	basilicata_IT	Basilicata, Italy	1	1	1021	510	5	1
+Matteo Renzi	Matteo Renzi	113335124914	Facebook	basilicata_IT	Basilicata, Italy	2	1	944	188	1	0
+MoVimento 5 Stelle	MoVimento 5 Stelle	174457180812	Facebook	basilicata_IT	Basilicata, Italy	1	1	793	158	1	0
+Elena Gentile	Elena Gentile	1426435657576038	Facebook	basilicata_IT	Basilicata, Italy	2	1	739	326	8	0
+Alessandro Fusacchia	Alessandro Fusacchia	1045017942325647	Facebook	basilicata_IT	Basilicata, Italy	2	1	650	130	7	1
+Avaaz	Avaaz	8340223883	Facebook	basilicata_IT	Basilicata, Italy	1	1	552	276	0	0
+Stato Moderno Solidale SMS	Silvana Arbia	328435687818104	Facebook	basilicata_IT	Basilicata, Italy	4	1	504	85	16	0
+Geri Ballo	Gerarta Ballo	2261381937462680	Facebook	basilicata_IT	Basilicata, Italy	4	1	490	71	20	0

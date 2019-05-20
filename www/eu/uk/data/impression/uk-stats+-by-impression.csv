@@ -1,9 +1,9 @@
-country_code_filter	country_name_filter	impression_code	impression_label	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-UK	United Kingdom	0_1k	0 - 1k	23092	2693	21718546	0	2472302	29
-UK	United Kingdom	1k_5k	1k - 5k	16767	2914	78711012	15745351	1848165	13512
-UK	United Kingdom	5k_10k	5k - 10k	5479	1447	49851349	24928167	778907	53252
-UK	United Kingdom	10k_50k	10k - 50k	7474	1394	320865331	64174349	2467106	458355
-UK	United Kingdom	50k_100k	50k - 100k	1583	410	127252225	63626748	1066337	307980
-UK	United Kingdom	100k_200k	100k - 200k	692	209	105943130	52971829	983168	262169
-UK	United Kingdom	200k_500k	200k - 500k	412	148	140572124	56228962	1166283	274955
-UK	United Kingdom	500k_1m	500k - 1m	117	60	69027229	34513649	539506	169924
+impression_code	impression_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+0_1k	0 - 1k	UK	United Kingdom	845	66	844154	0	96804	0
+1k_5k	1k - 5k	UK	United Kingdom	322	40	1609678	322000	36888	0
+5k_10k	5k - 10k	UK	United Kingdom	70	22	699929	350000	8482	115
+10k_50k	10k - 50k	UK	United Kingdom	58	25	2849945	570000	16324	3045
+50k_100k	50k - 100k	UK	United Kingdom	17	8	1699983	850000	14932	3661
+100k_200k	100k - 200k	UK	United Kingdom	10	4	1999989	999999	17924	4628
+200k_500k	200k - 500k	UK	United Kingdom	7	3	3499993	1400000	12142	4165
+500k_1m	500k - 1m	UK	United Kingdom	3	2	2999993	1499998	16939	6735

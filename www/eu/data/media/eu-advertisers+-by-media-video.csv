@@ -1,26 +1,26 @@
-media_code_filter	media_label_filter	advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-video	Video	CDU Christlich Demokratische Union		AR68737343799951360	Google	381	1	3810000	0	19050	0
-video	Video	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N  ZIELONI		AR489880258930016256	Google	92	1	3080000	240000	4600	0
-video	Video	Liberal Alliance		AR183859784640888832	Google	80	1	800000	0	4000	0
-video	Video	ENTUSIASMO Y MUCHO VALOR, S.L.U.		AR433345570053029888	Google	21	1	750000	60000	1050	0
-video	Video	Barcelona en Comú		AR342176264901099520	Google	42	1	420000	0	2100	0
-video	Video	Venstres Landsorganisation		AR283015942256984064	Google	38	1	380000	0	1900	0
-video	Video	EVOLVEDREAMSOFT SRL		AR495298652231696384	Google	7	1	250000	20000	350	0
-video	Video	Sloboda a Solidarita		AR242125929453715456	Google	20	1	200000	0	1000	0
-video	Video	Open VLD		AR350212320510607360	Google	20	1	200000	0	1000	0
-video	Video	Párbeszéd Magyarországért		AR567356246269624320	Google	10	1	190000	10000	500	0
-video	Video	COALICION CANARIA		AR489541609348661248	Google	18	1	180000	0	900	0
-video	Video	Flamesite s.r.o.		AR522320249995919360	Google	18	1	180000	0	900	0
-video	Video	Sozialdemokratische Partei Österreichs (SPÖ)		AR520910676089110528	Google	17	1	170000	0	850	0
-video	Video	KW Prawo i Sprawiedliwość		AR32708546780987392	Google	16	1	160000	0	800	0
-video	Video	Avante Comunicación SL		AR486291452976955392	Google	14	1	140000	0	700	0
-video	Video	Tampereen Vihreät ry		AR4096230569279488	Google	13	1	130000	0	650	0
-video	Video	Suomen Keskusta r.p.		AR441112520191639552	Google	12	1	120000	0	600	0
-video	Video	NEA DEMOKRATIA		AR351183464155840512	Google	2	1	110000	10000	100	0
-video	Video	Fianna Fáil		AR101183107301900288	Google	10	1	100000	0	500	0
-video	Video	Future Innovation SRL		AR474748779908562944	Google	1	1	100000	10000	50	0
-video	Video	Socialdemokratiet i Region Midtjylland		AR258908874940088320	Google	9	1	90000	0	450	0
-video	Video	Sloboda a Solidarita ( SaS )		AR185084640594231296	Google	6	1	60000	0	300	0
-video	Video	Socialdemokratiet		AR237678679797268480	Google	6	1	60000	0	300	0
-video	Video	Cink, s.r.o.		AR361287976015101952	Google	5	1	50000	0	250	0
-video	Video	Suomen Sosialidemokraattinen Puolue - Finlands Socialdemokratiska  Parti r.p.		AR525570406367625216	Google	5	1	50000	0	250	0
+advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	media_code_filter	media_label_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+Ciudadanos - Partido de la Ciudadanía		AR309397624253841408	Google	video	Video	42	1	141810000	14180000	729050	41900
+Future Innovation SRL		AR474748779908562944	Google	video	Video	23	1	111200000	11120000	335550	6050
+CDU Christlich Demokratische Union		AR68737343799951360	Google	video	Video	4980	1	75810000	2890000	562650	34850
+Nieuw-Vlaamse Alliantie		AR417822664892088320	Google	video	Video	15	1	39300000	3930000	421000	36100
+Partidul Uniunea Salvati Romania		AR150822483883196416	Google	video	Video	5	1	31100000	3110000	90550	1550
+ENTUSIASMO Y MUCHO VALOR, S.L.U.		AR433345570053029888	Google	video	Video	110	1	23150000	2300000	237650	6000
+COALICION ELECTORAL UNIDAS PODEMOS		AR21167248102129664	Google	video	Video	5	1	22010000	2200000	90550	1550
+SOCIALDEMOKRATIET		AR271193993235136512	Google	video	Video	45	1	20970000	2090000	698300	12300
+Suomen Keskusta r.p.		AR441112520191639552	Google	video	Video	32	1	18950000	1880000	304700	5400
+Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N  ZIELONI		AR489880258930016256	Google	video	Video	132	1	17700000	1690000	12450	650
+Sozialdemokratische Partei Österreichs (SPÖ)		AR520910676089110528	Google	video	Video	51	1	15720000	1550000	486250	8500
+NEA DEMOKRATIA		AR351183464155840512	Google	video	Video	8	1	14210000	1420000	62100	1200
+Freiheitliche Partei Österreich		AR333020356698701824	Google	video	Video	5	1	13100000	1310000	121000	31100
+Liberal Alliance		AR183859784640888832	Google	video	Video	153	1	10440000	940000	209850	5500
+Venstres Landsorganisation		AR283015942256984064	Google	video	Video	81	1	9000000	850000	433250	8100
+Fondation Populaire		AR320938922932699136	Google	video	Video	21	1	7320000	730000	67700	1750
+Open Vld		AR369049153717665792	Google	video	Video	14	1	6800000	680000	66000	1600
+Suomen Sosialidemokraattinen Puolue - Finlands Socialdemokratiska  Parti r.p.		AR525570406367625216	Google	video	Video	17	1	6560000	650000	153300	2800
+SPOLU - občianska demokracia		AR194838133366325248	Google	video	Video	12	1	6330000	630000	63200	1300
+OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO)		AR392996516970627072	Google	video	Video	8	1	6110000	610000	92050	1700
+COALICION CANARIA		AR489541609348661248	Google	video	Video	26	1	4580000	440000	33950	800
+Perussuomalaiset r.p., Sannfinländarna r.p.		AR535217521389731840	Google	video	Video	9	1	4500000	450000	93000	1800
+EVOLVEDREAMSOFT SRL		AR495298652231696384	Google	video	Video	17	1	3950000	390000	34400	900
+DOPRAVA		AR56197688563073024	Google	video	Video	6	1	3120000	310000	90600	1550
+Alternativet		AR198061076825243648	Google	video	Video	5	1	3110000	310000	120050	2000

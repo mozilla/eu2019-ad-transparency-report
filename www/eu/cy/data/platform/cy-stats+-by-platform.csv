@@ -1,2 +1,2 @@
-country_code_filter	country_name_filter	platform_code	platform_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-CY	Cyprus	f	Facebook	1988	489	26018242	8584732	111175	10113
+platform_code	platform_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	Facebook	CY	Cyprus	32	18	557181	156346	2736	12

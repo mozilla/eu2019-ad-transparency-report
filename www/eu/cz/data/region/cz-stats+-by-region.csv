@@ -1,15 +1,15 @@
-country_code_filter	country_name_filter	region_code	region_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-CZ	Czechia	prague	Prague	5743	741	8482329	2594666	32597	7495
-CZ	Czechia	south_moravian_region	South Moravian Region	5367	656	3373580	1034794	12348	3008
-CZ	Czechia	moravian_silesian_region	Moravian-Silesian Region	4922	589	1477479	454153	4831	1178
-CZ	Czechia	central_bohemian_region	Central Bohemian Region	4838	555	897390	267913	2853	658
-CZ	Czechia	zlin_region	Zlín Region	4572	511	646419	171368	2050	506
-CZ	Czechia	plzen_region	Plzeň Region	4612	527	643202	173652	2629	534
-CZ	Czechia	hradec_kralove_region	Hradec Králové Region	4270	501	628672	167710	1265	317
-CZ	Czechia	usti_nad_labem_region	Ústí nad Labem Region	4365	549	602123	199028	2717	601
-CZ	Czechia	olomouc_region	Olomouc Region	4385	538	575558	160402	2282	525
-CZ	Czechia	south_bohemian_region	South Bohemian Region	4275	504	464760	130152	2105	439
-CZ	Czechia	vysocina_region	Vysočina Region	4074	467	280186	84495	1027	240
-CZ	Czechia	pardubice_region	Pardubice Region	4132	473	270505	84620	976	235
-CZ	Czechia	liberec_region	Liberec Region	4133	475	224000	66367	866	201
-CZ	Czechia	karlovy_vary_region	Karlovy Vary Region	4168	454	196146	53228	806	195
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+central_bohemian_region	Central Bohemian Region	CZ	Czechia	87	26	9119	1887	25	3
+hradec_kralove_region	Hradec Králové Region	CZ	Czechia	77	27	2781	741	10	2
+karlovy_vary_region	Karlovy Vary Region	CZ	Czechia	69	24	1816	229	7	0
+liberec_region	Liberec Region	CZ	Czechia	59	26	1997	534	5	1
+moravian_silesian_region	Moravian-Silesian Region	CZ	Czechia	98	30	17335	4086	70	16
+olomouc_region	Olomouc Region	CZ	Czechia	119	28	14023	3439	55	14
+pardubice_region	Pardubice Region	CZ	Czechia	76	27	1754	484	6	1
+plzen_region	Plzeň Region	CZ	Czechia	85	27	4378	1124	12	2
+prague	Prague	CZ	Czechia	74	31	125271	39387	419	111
+south_bohemian_region	South Bohemian Region	CZ	Czechia	74	26	4280	674	16	1
+south_moravian_region	South Moravian Region	CZ	Czechia	131	33	109613	23891	584	134
+vysocina_region	Vysočina Region	CZ	Czechia	81	27	2229	367	8	1
+zlin_region	Zlín Region	CZ	Czechia	118	29	10995	2508	41	8
+usti_nad_labem_region	Ústí nad Labem Region	CZ	Czechia	75	25	5101	1745	19	4

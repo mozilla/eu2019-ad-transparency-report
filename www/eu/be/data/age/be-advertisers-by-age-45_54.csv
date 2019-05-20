@@ -1,1001 +1,133 @@
-age_code_filter	age_label_filter	country_code_filter	country_name_filter	advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-45_54	45-54	BE	Belgium	sp.a	sp.a	57253967150	Facebook	272	1	6231638	2468638	28952	6665
-45_54	45-54	BE	Belgium	N-VA	Nieuw-Vlaamse Alliantie	334361224413	Facebook	104	1	3895249	1601976	11626	2855
-45_54	45-54	BE	Belgium	Vlaams Belang	Vlaams Belang	56605856504	Facebook	66	1	3887451	1795256	27164	5971
-45_54	45-54	BE	Belgium	Tom Van Grieken	Vlaams Belang	584806884924010	Facebook	103	1	3654370	1562690	33024	7769
-45_54	45-54	BE	Belgium	Open Vld	Open Vld	53668151866	Facebook	337	1	1846960	682596	14169	2667
-45_54	45-54	BE	Belgium	European Parliament		178362315106	Facebook	113	1	1709590	718824	13269	2885
-45_54	45-54	BE	Belgium	CDH - Centre Démocrate Humaniste	CDH - Centre Démocrate Humaniste	189649407806135	Facebook	96	1	1626548	758604	6725	1404
-45_54	45-54	BE	Belgium	Groen	Groen	84920854319	Facebook	153	1	1215123	429279	6642	867
-45_54	45-54	BE	Belgium	Sign for my Future		1345513882259768	Facebook	73	1	1202803	515374	8396	1999
-45_54	45-54	BE	Belgium	Peter Mertens	PVDA	236485149843971	Facebook	421	1	1157574	338955	13518	1494
-45_54	45-54	BE	Belgium	John Crombez	sp.a	264131406977201	Facebook	77	1	1143456	450956	7477	1472
-45_54	45-54	BE	Belgium	Facebook Brussels	Facebook	287739491272583	Facebook	16	1	916256	394454	8898	2301
-45_54	45-54	BE	Belgium	Vlaams Belang Brussel	Vlaams Belang	499682940133305	Facebook	76	1	880645	337490	15737	3504
-45_54	45-54	BE	Belgium	VB - nos gens d'abord	Vlaams Belang	816130908786112	Facebook	128	1	871761	306720	10068	2299
-45_54	45-54	BE	Belgium	Parti Populaire - Le Peuple	Parti Populaire - Le Peuple	482811111771571	Facebook	14	1	727500	303417	3115	1081
-45_54	45-54	BE	Belgium	DéFI	DéFI	173518112695794	Facebook	149	1	613095	143754	3976	484
-45_54	45-54	BE	Belgium	Parti Socialiste (PS)	Parti Socialiste (PS)	518402351504731	Facebook	86	1	477740	156547	3842	730
-45_54	45-54	BE	Belgium	Wacky Politicians	Ladbrokes Belgium	325449998160769	Facebook	87	1	443640	176818	1105	61
-45_54	45-54	BE	Belgium	Kialo		729627343834501	Facebook	352	1	390105	154425	2938	657
-45_54	45-54	BE	Belgium	Tout sur le nucléaire / Alles over kernenergie		585236024850280	Facebook	13	1	385046	156292	1974	487
-45_54	45-54	BE	Belgium	Mutualité chrétienne (MC)	Mutualité chrétienne (MC)	180233078762668	Facebook	44	1	377860	106991	1791	258
-45_54	45-54	BE	Belgium	CD&V	CD&V	52997544531	Facebook	85	1	354193	104116	2756	310
-45_54	45-54	BE	Belgium	Maurits Vande Reyde	Vande Reyde Maurits Jozef	1797427180478228	Facebook	80	1	252893	68135	1823	88
-45_54	45-54	BE	Belgium	Jan Jambon	Nieuw-Vlaamse Alliantie	60317812912	Facebook	5	1	244018	101703	2088	500
-45_54	45-54	BE	Belgium	Greenpeace Belgium		73232790238	Facebook	72	1	219086	76340	2141	253
-45_54	45-54	BE	Belgium	European Greens	European Greens	141366725876424	Facebook	18	1	187272	78588	1177	269
-45_54	45-54	BE	Belgium	CD&V Limburg	CD&V Limburg	495564387205601	Facebook	23	1	175925	41130	1431	254
-45_54	45-54	BE	Belgium	Bart De Wever		24079407056	Facebook	2	1	175288	70115	1752	350
-45_54	45-54	BE	Belgium	Johan Van Overtveldt		275607285891320	Facebook	14	1	172792	68898	1407	294
-45_54	45-54	BE	Belgium	Marc Lejeune - 3ème au CDH à la Région	Marc Jean-Marie P Lejeune	1115141181990895	Facebook	151	1	172589	34179	3143	32
-45_54	45-54	BE	Belgium	MR - Mouvement Réformateur	MR - Mouvement Réformateur	236330169511	Facebook	25	1	168657	49756	1315	188
-45_54	45-54	BE	Belgium	Brecht Warnez	Warnez Brecht Luc T	998887823550443	Facebook	144	1	167863	46875	2272	13
-45_54	45-54	BE	Belgium	Kathleen Van Brempt	Kathleen Van Brempt	206193139504506	Facebook	100	1	167300	37043	2229	114
-45_54	45-54	BE	Belgium	Joris Vandenbroucke	Vandenbroucke Joris Jeroen J	984867054996076	Facebook	15	1	160972	60399	642	96
-45_54	45-54	BE	Belgium	Party of European Socialists	Party of European Socialists	148097975226385	Facebook	79	1	147271	40740	571	22
-45_54	45-54	BE	Belgium	UNICEF Belgium	UNICEF Belgium	60589646095	Facebook	17	1	145476	58807	904	163
-45_54	45-54	BE	Belgium	sp.a West-Vlaanderen	sp.a West-Vlaanderen	269157793205215	Facebook	29	1	138998	57558	670	115
-45_54	45-54	BE	Belgium	Conner Rousseau	Conner Rousseau	942750852588816	Facebook	25	1	138343	29748	1280	283
-45_54	45-54	BE	Belgium	MBRC		1853495178284518	Facebook	26	1	129092	30156	1071	129
-45_54	45-54	BE	Belgium	EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	47	1	127951	50281	640	122
-45_54	45-54	BE	Belgium	Shopwala Europe		393367314768104	Facebook	12	1	124900	42293	1153	292
-45_54	45-54	BE	Belgium	Kim De Witte	PVDA	315662412174661	Facebook	12	1	116835	30221	1072	206
-45_54	45-54	BE	Belgium	Marie Arena		109149719130331	Facebook	20	1	109355	34303	379	14
-45_54	45-54	BE	Belgium	Solvari België		118790941561498	Facebook	6	1	109175	39733	1113	213
-45_54	45-54	BE	Belgium	FullUp		160098407696881	Facebook	68	1	107710	27338	2189	78
-45_54	45-54	BE	Belgium	Gelijke kansen - Egalité des chances		1757055917947545	Facebook	25	1	103585	27967	1129	0
-45_54	45-54	BE	Belgium	Sander Loones	Nieuw-Vlaamse Alliantie	575160279283539	Facebook	15	1	95285	24602	754	187
-45_54	45-54	BE	Belgium	Michael Freilich - 5de plaats Kamer		609777409464271	Facebook	11	1	89343	24610	764	137
-45_54	45-54	BE	Belgium	Le racisme, vous valez mieux que ça		1858720887787052	Facebook	5	1	87394	35209	298	85
-45_54	45-54	BE	Belgium	Manu Diericx	Diericx Manu Romain C	311729416012864	Facebook	13	1	82742	30836	343	31
-45_54	45-54	BE	Belgium	ALDE Party – Liberals and Democrats for Europe		262681199589	Facebook	82	1	80699	24959	432	57
-45_54	45-54	BE	Belgium	Theo Francken		483497581789280	Facebook	7	1	80188	31556	487	94
-45_54	45-54	BE	Belgium	ExxonMobil		925007000949719	Facebook	26	1	79742	17197	642	92
-45_54	45-54	BE	Belgium	Cheops		1114045328715740	Facebook	2	1	78864	33728	222	111
-45_54	45-54	BE	Belgium	WWF-Belgium	WWF-Belgium	110844205773	Facebook	25	1	72689	26683	462	25
-45_54	45-54	BE	Belgium	Hendrik Bogaert	Bogaert Hendrik Frank	277636928983663	Facebook	51	1	70660	13996	1266	73
-45_54	45-54	BE	Belgium	Zuhal Demir	Nieuw-Vlaamse Alliantie	453932394796444	Facebook	11	1	70418	21281	268	18
-45_54	45-54	BE	Belgium	Thuisverpleging		372390586890911	Facebook	8	1	70243	30081	91	8
-45_54	45-54	BE	Belgium	Linda Lauwers -  18de plaats Kamer N-VA	Meeus Yannick	700417286687969	Facebook	38	1	69701	25270	904	0
-45_54	45-54	BE	Belgium	Vincent De Wolf	Vincent Gilles De Wolf	399983396831282	Facebook	11	1	69074	14339	433	31
-45_54	45-54	BE	Belgium	PTB	PTB	53838654385	Facebook	7	1	67453	32486	295	37
-45_54	45-54	BE	Belgium	Geert Bourgeois	Nieuw-Vlaamse Alliantie	649429725077632	Facebook	11	1	66723	23179	658	216
-45_54	45-54	BE	Belgium	L'OCCITANE en Provence		161197393938517	Facebook	5	1	65588	26149	242	97
-45_54	45-54	BE	Belgium	Smart Solutions Qualified people for you		401154619963846	Facebook	3	1	64728	32340	1014	247
-45_54	45-54	BE	Belgium	Christian Leysen	Christian Leysen	403864600161608	Facebook	13	1	63668	23029	1273	235
-45_54	45-54	BE	Belgium	Meyrem Almaci	Meyrem Almaci	1943402032590802	Facebook	11	1	62089	19503	385	49
-45_54	45-54	BE	Belgium	Koen Geens	CD&V	294055357407926	Facebook	36	1	59419	17232	622	13
-45_54	45-54	BE	Belgium	ProDG	ProDG	89846075866	Facebook	36	1	58711	17068	773	33
-45_54	45-54	BE	Belgium	Sabine de Bethune		254157758598438	Facebook	12	1	57782	19681	301	44
-45_54	45-54	BE	Belgium	Kris Peeters	Kris Peeters	192181027566488	Facebook	13	1	57342	16465	369	49
-45_54	45-54	BE	Belgium	sp.a Limburg	sp.a Limburg	885074558184212	Facebook	22	1	57260	18263	526	17
-45_54	45-54	BE	Belgium	Jan Cornillie		980619838787000	Facebook	22	1	56988	21171	453	41
-45_54	45-54	BE	Belgium	Hans Maes		1181238155301995	Facebook	27	1	55967	14174	478	51
-45_54	45-54	BE	Belgium	Unis pour les Droits Humains		1642871805813802	Facebook	17	1	53031	18896	76	0
-45_54	45-54	BE	Belgium	Fight For €14 - NL		296330127745778	Facebook	22	1	52588	14260	288	0
-45_54	45-54	BE	Belgium	Maggie De Block	Maggie De Block	1410219772556421	Facebook	21	1	51678	14811	562	15
-45_54	45-54	BE	Belgium	Hugues Bayet	Julien Fanuel 	538840262914740	Facebook	7	1	50958	14048	153	12
-45_54	45-54	BE	Belgium	Anja Vanrobaeys	Vanrobaeys Anja Maurits	795798820785493	Facebook	32	1	49326	12035	778	49
-45_54	45-54	BE	Belgium	Europe Direct Brussels		772075022808345	Facebook	1	1	48922	24461	122	24
-45_54	45-54	BE	Belgium	Vluchtelingenwerk Vlaanderen		81497097451	Facebook	7	1	47080	17445	66	0
-45_54	45-54	BE	Belgium	CSP Ostbelgien	CSP Ostbelgien	119271231424655	Facebook	32	1	46847	11279	583	0
-45_54	45-54	BE	Belgium	Bricks and Leisure Real Estate		955345507873817	Facebook	2	1	44720	8944	269	45
-45_54	45-54	BE	Belgium	Jean-Jacques Flahaux		486153524822322	Facebook	4	1	44148	13505	362	72
-45_54	45-54	BE	Belgium	USR Diaspora	USR Diaspora	1793510380925494	Facebook	5	1	43178	18983	193	38
-45_54	45-54	BE	Belgium	CDH liste à la Chambre province de Liège		268478507423505	Facebook	2	1	43128	21564	223	41
-45_54	45-54	BE	Belgium	Anneleen Van Bossuyt		1375436739430055	Facebook	4	1	42495	13441	269	95
-45_54	45-54	BE	Belgium	Le Lombard		49864931287	Facebook	2	1	41911	20955	131	26
-45_54	45-54	BE	Belgium	Ralph Packet		2009966045768110	Facebook	14	1	41661	11691	270	15
-45_54	45-54	BE	Belgium	Vivant   Ostbelgien	Vivant Ostbelgien	1440393739538888	Facebook	11	1	40522	8491	273	15
-45_54	45-54	BE	Belgium	Elias Kartout	Nieuw-Vlaamse Alliantie	2593268540690171	Facebook	4	1	40428	15110	237	45
-45_54	45-54	BE	Belgium	Peter Van Kemseke	Van Kemseke Peter Leo S	397455370285369	Facebook	9	1	40186	11981	281	0
-45_54	45-54	BE	Belgium	Bond Beter Leefmilieu		143447890251	Facebook	6	1	39894	7979	91	0
-45_54	45-54	BE	Belgium	CD&V Brussel	CD&V Brussel	650865328369779	Facebook	25	1	39601	10211	636	0
-45_54	45-54	BE	Belgium	Koen Van den Heuvel	Koen Van den Heuvel	1953990651532264	Facebook	33	1	39446	11435	585	0
-45_54	45-54	BE	Belgium	Elio Di Rupo	Parti Socialiste (PS)	16301530829	Facebook	5	1	39202	8409	92	0
-45_54	45-54	BE	Belgium	Wouter Beke	Wouter Beke	311935738907850	Facebook	13	1	39164	12595	264	0
-45_54	45-54	BE	Belgium	UNHCR Belgium		948453825344452	Facebook	1	1	38354	15341	383	76
-45_54	45-54	BE	Belgium	GAIA - Global Action in the Interest of Animals		208140805905898	Facebook	1	1	37626	18813	93	18
-45_54	45-54	BE	Belgium	Lode Ceyssens	Lode Ceyssens	690224427744073	Facebook	7	1	37222	10527	142	10
-45_54	45-54	BE	Belgium	Bert Maertens	N-VA	230657213955622	Facebook	14	1	37040	10190	263	22
-45_54	45-54	BE	Belgium	ABVV-Metaal		736539056400845	Facebook	3	1	35029	13623	47	0
-45_54	45-54	BE	Belgium	Cieltje Van Achter-pagina	Nieuw-Vlaamse Alliantie	187309815219219	Facebook	4	1	34705	12403	201	34
-45_54	45-54	BE	Belgium	N-VA Brugge	Nieuw-Vlaamse Alliantie	103746756361685	Facebook	5	1	33568	9771	206	33
-45_54	45-54	BE	Belgium	Listes Destexhe	Listes Destexhe	983524558703058	Facebook	4	1	33374	13240	251	42
-45_54	45-54	BE	Belgium	Jos D'Haese	PVDA	1397002987227704	Facebook	22	1	33347	6676	607	48
-45_54	45-54	BE	Belgium	Pritty Kaur		413843202368855	Facebook	21	1	32829	10307	181	19
-45_54	45-54	BE	Belgium	JONG CD&V	JONG CD&V	638247042856542	Facebook	7	1	32466	6493	87	5
-45_54	45-54	BE	Belgium	Oxford Academic (Oxford University Press)		188890111132385	Facebook	6	1	32269	12956	362	81
-45_54	45-54	BE	Belgium	L'affaire climat	Affaire Climat asbl	874181082603060	Facebook	14	1	32207	9609	261	0
-45_54	45-54	BE	Belgium	Eclairelavie		475156612973063	Facebook	30	1	31934	10847	397	79
-45_54	45-54	BE	Belgium	Peter Van Rompuy	CD&V	257794051588457	Facebook	19	1	31356	14877	360	0
-45_54	45-54	BE	Belgium	Sarah Smeyers	N-VA	95712061024	Facebook	6	1	30965	7328	179	18
-45_54	45-54	BE	Belgium	Kristof Hendrickx		125105154858140	Facebook	1	1	30763	15381	153	76
-45_54	45-54	BE	Belgium	Gérald vanderlin	Gerald Vanderlin	2225854367682548	Facebook	7	1	29983	5956	199	17
-45_54	45-54	BE	Belgium	Maxime Hardy	Maxime Marc C Hardy	1160832417389494	Facebook	8	1	29854	6910	184	12
-45_54	45-54	BE	Belgium	Ilse Van Eetvelde politiek	Ilse Van Eetvelde politiek	620289881717694	Facebook	12	1	28775	7964	286	0
-45_54	45-54	BE	Belgium	David Bouillon		279916929543457	Facebook	1	1	28653	14327	142	28
-45_54	45-54	BE	Belgium	Peter Van Hecke		414570162644130	Facebook	4	1	28648	5729	225	42
-45_54	45-54	BE	Belgium	The Bamboo Brush Society		1152885191422950	Facebook	41	1	28606	9897	211	28
-45_54	45-54	BE	Belgium	FGTB Construction		174309193235171	Facebook	2	1	28605	5721	56	0
-45_54	45-54	BE	Belgium	Brusol		522389238191177	Facebook	3	1	28366	5673	283	56
-45_54	45-54	BE	Belgium	Jean de Bethune		425691141175605	Facebook	2	1	28031	12143	66	10
-45_54	45-54	BE	Belgium	FGTB Nettoyage		254275311677180	Facebook	2	1	26914	5383	53	0
-45_54	45-54	BE	Belgium	Lanjri Nahima	Lanjri Nahima	160499887883548	Facebook	33	1	26901	7928	628	0
-45_54	45-54	BE	Belgium	Wouter Vermeersch	Vlaams Belang	1819099895078637	Facebook	12	1	26748	7703	219	0
-45_54	45-54	BE	Belgium	350.org		12185972707	Facebook	32	1	26603	6981	199	22
-45_54	45-54	BE	Belgium	Brecht Vermeulen	Nieuw-Vlaamse Alliantie	167165610745178	Facebook	5	1	26585	5837	66	0
-45_54	45-54	BE	Belgium	An Capoen	Nieuw-Vlaamse Alliantie	128105340557056	Facebook	4	1	26346	5269	139	18
-45_54	45-54	BE	Belgium	Démo B - Vers la démocratie 2.0		103956496455231	Facebook	11	1	26044	5850	181	0
-45_54	45-54	BE	Belgium	Kristien Van Vaerenbergh-pagina	Nieuw-Vlaamse Alliantie	404666830363654	Facebook	3	1	25924	5184	122	17
-45_54	45-54	BE	Belgium	Sven Gatz	Gatz Sven Peter A	100947845480	Facebook	26	1	25828	8155	441	0
-45_54	45-54	BE	Belgium	Eneco Belgium		155682534507894	Facebook	17	1	25651	6523	321	11
-45_54	45-54	BE	Belgium	Kristof Calvo	Kristof Calvo	345099982367937	Facebook	5	1	25468	6514	150	15
-45_54	45-54	BE	Belgium	Assita Kanko	Nieuw-Vlaamse Alliantie	150977208365420	Facebook	3	1	25463	5092	206	38
-45_54	45-54	BE	Belgium	Sauvez le square Riga		1401418253310928	Facebook	26	1	25180	7135	452	0
-45_54	45-54	BE	Belgium	Socialists and Democrats Group in the European Parliament		127925800618165	Facebook	53	1	25075	9381	136	18
-45_54	45-54	BE	Belgium	N-VA Limburg	Nieuw-Vlaamse Alliantie	1599226510296139	Facebook	4	1	24328	4865	207	35
-45_54	45-54	BE	Belgium	Ecolo	Ecolo	38296327361	Facebook	13	1	24256	5436	199	0
-45_54	45-54	BE	Belgium	Simon Lejeune	Lejuene Simon Paul F	1721305591241017	Facebook	13	1	24216	6111	199	0
-45_54	45-54	BE	Belgium	Jurgen Vanlerberghe	Vanlerberghe Jurgen Maurits P	1664229433634791	Facebook	5	1	23390	4678	184	22
-45_54	45-54	BE	Belgium	Mouvement Nation	Mouvement NATION	1602667783297798	Facebook	3	1	23364	5270	62	0
-45_54	45-54	BE	Belgium	Santesano		316620582266150	Facebook	2	1	23094	9871	186	87
-45_54	45-54	BE	Belgium	Europahuis Ryckevelde	Ryckevelde vzw	119449038070827	Facebook	5	1	23011	4602	86	10
-45_54	45-54	BE	Belgium	NN		765223566868464	Facebook	6	1	22619	4958	252	39
-45_54	45-54	BE	Belgium	one brussels	one.brussels	244157445635331	Facebook	5	1	22503	4500	178	26
-45_54	45-54	BE	Belgium	Amelie Pans		339831539409950	Facebook	12	1	22493	5037	218	0
-45_54	45-54	BE	Belgium	Karin Brouwers	Karin Francisca Brouwers	862762280563277	Facebook	7	1	22234	5877	249	34
-45_54	45-54	BE	Belgium	Ben Weyts	Nieuw-Vlaamse Alliantie	133467219125	Facebook	4	1	22177	5767	220	35
-45_54	45-54	BE	Belgium	Helga Stevens		213362252188490	Facebook	13	1	22144	6437	227	0
-45_54	45-54	BE	Belgium	Olivier Destrebecq		16300398301	Facebook	4	1	21740	4585	226	41
-45_54	45-54	BE	Belgium	Mediaplanet Stories		452253761911595	Facebook	1	1	21597	10798	107	21
-45_54	45-54	BE	Belgium	PVDA Limburg	PVDA	828918810501252	Facebook	3	1	21407	4234	234	42
-45_54	45-54	BE	Belgium	Sander Vandecapelle	Vandecapelle Sander 	288654088488077	Facebook	8	1	21106	5973	233	25
-45_54	45-54	BE	Belgium	Kim Alloo	Alloo Kim	2165082146846340	Facebook	28	1	20879	4497	465	18
-45_54	45-54	BE	Belgium	SP Ostbelgien	SP Ostbelgien	183856108612877	Facebook	5	1	20779	4719	88	8
-45_54	45-54	BE	Belgium	Campus protestant		2019076568379648	Facebook	12	1	20543	8093	106	20
-45_54	45-54	BE	Belgium	European Public Health Alliance		163892267038764	Facebook	1	1	20176	4035	201	40
-45_54	45-54	BE	Belgium	Veerle Baeyens		1402339926704301	Facebook	2	1	20164	4032	39	0
-45_54	45-54	BE	Belgium	Frédérique Ries		121508211203759	Facebook	2	1	20146	4029	39	0
-45_54	45-54	BE	Belgium	Gijs Degrande	N-VA	2343399459056104	Facebook	4	1	19731	4402	66	0
-45_54	45-54	BE	Belgium	deSingel Internationale Kunstcampus		141104110670	Facebook	7	1	19626	5243	155	0
-45_54	45-54	BE	Belgium	Tout va bien - officiel		1853789618247333	Facebook	4	1	19586	3717	153	0
-45_54	45-54	BE	Belgium	Be.One	Abou Jahjah Dyab	203646696858225	Facebook	23	1	19556	4343	392	0
-45_54	45-54	BE	Belgium	Danielle Godderis T'Jonck	N-VA	239999043457805	Facebook	4	1	19242	3819	52	0
-45_54	45-54	BE	Belgium	Europe Together		140105536131109	Facebook	3	1	18884	9152	108	17
-45_54	45-54	BE	Belgium	Klang der Solidarität		385076005313967	Facebook	12	1	18791	8549	77	5
-45_54	45-54	BE	Belgium	Aymeric DE LAMOTTE		841559215859811	Facebook	4	1	18632	4234	132	16
-45_54	45-54	BE	Belgium	Steven Vandeput	Nieuw-Vlaamse Alliantie	983442595060481	Facebook	4	1	18623	3724	131	22
-45_54	45-54	BE	Belgium	Luminus Energie		489234547798334	Facebook	2	1	18243	3648	207	31
-45_54	45-54	BE	Belgium	Karl Vanlouwe	Nieuw-Vlaamse Alliantie	442565332850618	Facebook	2	1	17833	7069	70	11
-45_54	45-54	BE	Belgium	Halal en danger		2115131348600358	Facebook	2	1	17722	7039	70	11
-45_54	45-54	BE	Belgium	Andries Gryffroy	N-VA	277891335706685	Facebook	5	1	17652	4450	78	0
-45_54	45-54	BE	Belgium	Valerie Van Peel	Nieuw-Vlaamse Alliantie	1447842658809820	Facebook	2	1	17641	3528	176	35
-45_54	45-54	BE	Belgium	Méline Rovillard	Rovillard Méline Christianne G	174537099930913	Facebook	3	1	17442	3488	179	33
-45_54	45-54	BE	Belgium	Laïcité Brabant wallon		682207655258109	Facebook	1	1	17358	3471	34	0
-45_54	45-54	BE	Belgium	TScheldt		682842165445702	Facebook	5	1	17301	4474	103	10
-45_54	45-54	BE	Belgium	Tomas Roggeman		583612691972550	Facebook	4	1	17295	3459	192	30
-45_54	45-54	BE	Belgium	Axel Ronse	N-VA	2375576969141695	Facebook	3	1	17248	5630	56	7
-45_54	45-54	BE	Belgium	Bert Wollants	Wollants Bert	122123487813722	Facebook	8	1	17028	4322	118	0
-45_54	45-54	BE	Belgium	Willy Segers	Nieuw-Vlaamse Alliantie	172565137927	Facebook	2	1	16727	8131	127	16
-45_54	45-54	BE	Belgium	SOS Villages d'Enfants Belgique		112931942124523	Facebook	1	1	16626	8313	82	16
-45_54	45-54	BE	Belgium	PSAnderlues		197214344323855	Facebook	4	1	16624	4466	85	0
-45_54	45-54	BE	Belgium	Katrien Houtmeyers	Nieuw-Vlaamse Alliantie	176955806294532	Facebook	2	1	16510	8255	90	14
-45_54	45-54	BE	Belgium	Fight For €14 - FR		973260466217500	Facebook	2	1	16490	8245	87	15
-45_54	45-54	BE	Belgium	La vérité sur l’Arabie Saoudite		2209014842757280	Facebook	12	1	16456	5638	66	0
-45_54	45-54	BE	Belgium	AEOLOS_Ath		318621038528269	Facebook	4	1	16413	5066	79	0
-45_54	45-54	BE	Belgium	National Geographic		106750996025532	Facebook	5	1	16250	8125	43	8
-45_54	45-54	BE	Belgium	GRIP - Kom op voor inclusie		1024656630910224	Facebook	3	1	16247	3224	96	13
-45_54	45-54	BE	Belgium	Alexander De Croo		228307843991539	Facebook	1	1	16169	3233	32	0
-45_54	45-54	BE	Belgium	Jesuit Refugee Service Europe - JRS	JRS Europe	1568112950115984	Facebook	7	1	16168	3636	147	21
-45_54	45-54	BE	Belgium	Philippe Muyters	Nieuw-Vlaamse Alliantie	197625717055207	Facebook	5	1	16157	4624	121	13
-45_54	45-54	BE	Belgium	European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	1	1	16103	8052	80	16
-45_54	45-54	BE	Belgium	TOWA - Transparency for Organic Wine Association		423471171178460	Facebook	4	1	16009	3357	40	0
-45_54	45-54	BE	Belgium	Peter De Roover		1661453500556261	Facebook	2	1	16008	3201	31	0
-45_54	45-54	BE	Belgium	Bikezac - By Cobags		292443537522136	Facebook	1	1	15583	6233	41	20
-45_54	45-54	BE	Belgium	Ahmed Laaouej		672031322849835	Facebook	4	1	15445	3804	177	21
-45_54	45-54	BE	Belgium	Bolero		294363184095880	Facebook	3	1	15324	3007	191	27
-45_54	45-54	BE	Belgium	Alain Destexhe	Alain Robert O.Destexhe	222804197775919	Facebook	2	1	15263	3768	152	25
-45_54	45-54	BE	Belgium	Yoleen Van Camp		533686686730041	Facebook	6	1	15100	4160	106	0
-45_54	45-54	BE	Belgium	Democracy Alive		277008469606499	Facebook	4	1	15069	2984	105	15
-45_54	45-54	BE	Belgium	Lara Thommès - 20e sur liste PS à la Région bruxelloise	Lara Julie M.Thommes	2176100615739401	Facebook	2	1	15032	3006	101	18
-45_54	45-54	BE	Belgium	sp.a Vlaams-Brabant	sp.a	299844037256	Facebook	3	1	14517	2862	48	0
-45_54	45-54	BE	Belgium	vdk bank		185648231502494	Facebook	2	1	14364	6232	59	11
-45_54	45-54	BE	Belgium	Aide aux Personnes Déplacées asbl		245059042736134	Facebook	3	1	14247	3462	60	0
-45_54	45-54	BE	Belgium	Issam Benali	Benali Issam	92011327952	Facebook	7	1	14093	2760	211	18
-45_54	45-54	BE	Belgium	Vins de Bordeaux		167654119328	Facebook	1	1	14050	2810	27	0
-45_54	45-54	BE	Belgium	Bart Callaert	Callaert Bart Eduard M	2334802816594579	Facebook	6	1	13946	2789	87	0
-45_54	45-54	BE	Belgium	sp.a Gent	sp.a Gent	145214795544742	Facebook	6	1	13917	2752	180	21
-45_54	45-54	BE	Belgium	It's Canada Time - itscanadatime		974459525936546	Facebook	5	1	13855	2740	68	22
-45_54	45-54	BE	Belgium	AXA Belgium		156044451121576	Facebook	1	1	13824	2764	137	27
-45_54	45-54	BE	Belgium	N-VA Kontich-Waarloos	N-VA Kontich-Waarloos	238162356301946	Facebook	1	1	13766	6883	68	13
-45_54	45-54	BE	Belgium	Darya Safai		1803761789672954	Facebook	2	1	13753	6802	82	13
-45_54	45-54	BE	Belgium	Ecolo Ostbelgien	Ecolo Ostbelgien	321847415140	Facebook	11	1	13709	3269	168	0
-45_54	45-54	BE	Belgium	Gautier CALOMNE		82157651986	Facebook	2	1	13665	2733	136	27
-45_54	45-54	BE	Belgium	Chroniques Du Golfe		2196850910357980	Facebook	23	1	13631	4898	49	0
-45_54	45-54	BE	Belgium	Vrouw & Maatschappij - CD&V politica	Vrouw & Maatschappij	268844173157989	Facebook	12	1	13602	3859	129	0
-45_54	45-54	BE	Belgium	Thierry Gilson	Thierry Gilson	445076859592979	Facebook	1	1	13411	6705	66	13
-45_54	45-54	BE	Belgium	Mathias Vanden Borre	Nieuw-Vlaamse Alliantie	2192130777730978	Facebook	2	1	13362	6398	30	0
-45_54	45-54	BE	Belgium	Tilt		169065407139584	Facebook	1	1	13291	6645	132	66
-45_54	45-54	BE	Belgium	Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	2	1	13195	2639	93	16
-45_54	45-54	BE	Belgium	Matthieu Daele - Ecolo		1425316804418663	Facebook	12	1	13148	3657	226	0
-45_54	45-54	BE	Belgium	Transition Energétique		753069428230726	Facebook	1	1	13111	2622	130	26
-45_54	45-54	BE	Belgium	DLV		228707560536007	Facebook	1	1	13045	2609	25	0
-45_54	45-54	BE	Belgium	The Belgian Pride		348580571827433	Facebook	2	1	13036	2607	130	26
-45_54	45-54	BE	Belgium	Dirk de Kort	De Kort Dirk Elisabeth A	1992757407624580	Facebook	4	1	13027	3564	98	0
-45_54	45-54	BE	Belgium	Cindy Franssen.		404939213355109	Facebook	6	1	13018	2604	126	0
-45_54	45-54	BE	Belgium	CNCD-11.11.11		118510721519982	Facebook	3	1	12988	2899	29	0
-45_54	45-54	BE	Belgium	VMware		6975960973	Facebook	3	1	12946	6473	35	7
-45_54	45-54	BE	Belgium	Mark Demesmaeker MEP		1708090762537736	Facebook	3	1	12782	3631	47	0
-45_54	45-54	BE	Belgium	Parti Populaire Charleroi		224028051371148	Facebook	2	1	12685	2537	41	0
-45_54	45-54	BE	Belgium	Georges Balon Perin, Erasmus kandidaat bij GROEN		820663108311661	Facebook	8	1	12631	5585	149	0
-45_54	45-54	BE	Belgium	ABVV		188590271170028	Facebook	1	1	12566	6283	62	12
-45_54	45-54	BE	Belgium	The Palestine Institute for Public Diplomacy		158233651450504	Facebook	2	1	12439	6220	27	5
-45_54	45-54	BE	Belgium	Benjamin Dalle	Benjamin Dalle	232597487340084	Facebook	16	1	12413	2748	248	11
-45_54	45-54	BE	Belgium	Sofian El Sayd - 61e sur la liste régionale du PS bruxellois		1951525111537961	Facebook	4	1	12339	3955	31	3
-45_54	45-54	BE	Belgium	Lieselotte Thys	Thys Lieselotte	1060715860647129	Facebook	4	1	12176	2424	65	8
-45_54	45-54	BE	Belgium	N-VA Kortrijk	Nieuw-Vlaamse Alliantie	362996563734991	Facebook	4	1	12151	2928	138	17
-45_54	45-54	BE	Belgium	Bavo De Mol	De Mol Bavo Johannes X	231465544211675	Facebook	8	1	11872	4607	177	0
-45_54	45-54	BE	Belgium	Johan Vande Lanotte	Johan Vande Lanotte	326674124027240	Facebook	9	1	11813	4905	167	0
-45_54	45-54	BE	Belgium	BePax		229203850426658	Facebook	3	1	11800	2972	54	0
-45_54	45-54	BE	Belgium	Hilde Vautmans		1121251937901508	Facebook	6	1	11762	2387	74	0
-45_54	45-54	BE	Belgium	Ecolo Mons-Borinage / Hauts-Pays	Bravin Geoffrey 	235500823177113	Facebook	9	1	11555	3530	192	0
-45_54	45-54	BE	Belgium	Olivier Henry		301228727222198	Facebook	2	1	11545	2975	40	0
-45_54	45-54	BE	Belgium	Achille Junior Vandyck		473094542730885	Facebook	3	1	11490	3326	49	0
-45_54	45-54	BE	Belgium	Latifa Gahouchi		559667107408100	Facebook	1	1	11472	2294	22	0
-45_54	45-54	BE	Belgium	Orry Van de Wauwer		100752223802681	Facebook	5	1	11423	2344	65	6
-45_54	45-54	BE	Belgium	Listes Destexhe Hainaut Centre	Steeve Guille	316290852397341	Facebook	2	1	11408	2251	37	0
-45_54	45-54	BE	Belgium	Vossaert Michaël		237845390282626	Facebook	3	1	11279	2930	62	0
-45_54	45-54	BE	Belgium	Pro Bruxsel		43144395107	Facebook	2	1	11258	2802	99	16
-45_54	45-54	BE	Belgium	Les Wallons ne manquent pas d'air		559852030865205	Facebook	2	1	11186	2237	58	0
-45_54	45-54	BE	Belgium	Groen Brussel		144986545155	Facebook	4	1	11108	2943	71	8
-45_54	45-54	BE	Belgium	Régionales Ecolo Namur et Dinant-Philippeville		584761158238212	Facebook	1	1	11071	2214	21	0
-45_54	45-54	BE	Belgium	Stefaan Vercamer		767608903251471	Facebook	1	1	11028	2205	21	0
-45_54	45-54	BE	Belgium	FGTB Gardiennage		1498177693625569	Facebook	1	1	11012	2202	21	0
-45_54	45-54	BE	Belgium	N-VA Genk	Nieuw-Vlaamse Alliantie	182914008446995	Facebook	1	1	11008	2201	21	0
-45_54	45-54	BE	Belgium	Rise for Climate Belgium: Citizen Mobilization to save Humanity		458512257969541	Facebook	2	1	10997	5311	64	10
-45_54	45-54	BE	Belgium	Ine Tombeur	Tombeur Ine	120236914663605	Facebook	9	1	10985	2112	251	0
-45_54	45-54	BE	Belgium	Sophie De Wit	Nieuw-Vlaamse Alliantie	165796101293	Facebook	2	1	10971	2194	95	18
-45_54	45-54	BE	Belgium	Virginie Gonzalez		441282799329243	Facebook	1	1	10930	2186	19	0
-45_54	45-54	BE	Belgium	Rita Gantois	N-VA	306815242860827	Facebook	5	1	10890	2562	127	15
-45_54	45-54	BE	Belgium	NewB		146272022205358	Facebook	5	1	10882	3306	66	0
-45_54	45-54	BE	Belgium	BBC Industries		1327564743933888	Facebook	1	1	10869	2173	21	0
-45_54	45-54	BE	Belgium	Òmnium International		2177632682563843	Facebook	41	1	10789	3818	119	13
-45_54	45-54	BE	Belgium	Aaron Ooms		127953044627536	Facebook	5	1	10663	2504	71	0
-45_54	45-54	BE	Belgium	Gwendolyn Rutten	Gwendolyn Rutten	149158155084	Facebook	1	1	10658	5329	53	10
-45_54	45-54	BE	Belgium	We Amplify		186008238755917	Facebook	5	1	10589	2117	20	0
-45_54	45-54	BE	Belgium	Piet De Bruyn	Nieuw-Vlaamse Alliantie	152343835431692	Facebook	3	1	10584	2539	45	0
-45_54	45-54	BE	Belgium	Nadia Sminate	Nieuw-Vlaamse Alliantie	223932588102815	Facebook	3	1	10535	2628	119	17
-45_54	45-54	BE	Belgium	Le Monde		14892757589	Facebook	34	1	10525	3866	25	2
-45_54	45-54	BE	Belgium	Humble Household		1746853745395190	Facebook	40	1	10518	4211	78	16
-45_54	45-54	BE	Belgium	Open Vld Schoten		400453376667970	Facebook	1	1	10460	2092	104	20
-45_54	45-54	BE	Belgium	Groen Antwerpen	Groen Antwerpen	189169954496226	Facebook	3	1	10430	1992	145	19
-45_54	45-54	BE	Belgium	Chris Janssens		2169582779959649	Facebook	1	1	10419	2083	103	20
-45_54	45-54	BE	Belgium	N-VA Middelkerke	Goethaels Anthony Robert	845073135535759	Facebook	1	1	10362	2072	103	20
-45_54	45-54	BE	Belgium	Positive Money Europe		454544301251419	Facebook	4	1	10242	2506	52	2
-45_54	45-54	BE	Belgium	Vera Jans		543240579353490	Facebook	1	1	10184	2036	20	0
-45_54	45-54	BE	Belgium	Maaike De Vreese	N-VA	231015551179409	Facebook	1	1	10111	2022	20	0
-45_54	45-54	BE	Belgium	Allessia Claes	Nieuw-Vlaamse Alliantie	606388719448095	Facebook	2	1	10079	2426	30	0
-45_54	45-54	BE	Belgium	Bart Smans, 17e plaats N-VA Vlaams Parlement	N-VA	800585406798122	Facebook	17	1	10042	2227	255	0
-45_54	45-54	BE	Belgium	Mark Demesmaeker	Nieuw-Vlaamse Alliantie	397796871009992	Facebook	2	1	10036	3157	50	0
-45_54	45-54	BE	Belgium	David Bouillon Conseiller Communal Indépendant		292854978277832	Facebook	1	1	10016	2003	99	20
-45_54	45-54	BE	Belgium	Fédération Ps Verviers		758680967523010	Facebook	1	1	9914	1982	17	0
-45_54	45-54	BE	Belgium	Steven Kindt	Kindt Steven Karel A	934178266778547	Facebook	3	1	9879	4138	45	6
-45_54	45-54	BE	Belgium	Charles Kaisin		1373021049422742	Facebook	1	1	9870	1974	19	0
-45_54	45-54	BE	Belgium	Ecolo Beauvechain	Locale Ecolo de Beauvechain	489383807747688	Facebook	1	1	9815	1963	97	19
-45_54	45-54	BE	Belgium	Paul Cordy	Nieuw-Vlaamse Alliantie	650813488672073	Facebook	3	1	9764	2633	37	0
-45_54	45-54	BE	Belgium	Rik Daems		135504466493706	Facebook	1	1	9744	1949	19	0
-45_54	45-54	BE	Belgium	La Ferme Nos Pilifs		108117725920737	Facebook	1	1	9729	1945	97	19
-45_54	45-54	BE	Belgium	GRACQ		140919230419	Facebook	1	1	9684	1936	19	0
-45_54	45-54	BE	Belgium	Vlaams Belang Bilzen	Vlaams Belang	1796765513978532	Facebook	3	1	9655	1877	58	0
-45_54	45-54	BE	Belgium	Tom Bogman	Tom Bogman	329170017640552	Facebook	10	1	9627	2602	205	0
-45_54	45-54	BE	Belgium	Fédération Belge Banques Alimentaires/Belgische Federatie Voedselbanken		594057430716211	Facebook	1	1	9561	1912	18	0
-45_54	45-54	BE	Belgium	Auslandsgruppe Europa der FDP		1698130847081167	Facebook	1	1	9471	1894	18	0
-45_54	45-54	BE	Belgium	Régionale ECOLO Bruxelles	Régionale Ecolo Bruxelles	136555119816983	Facebook	3	1	9468	2157	40	0
-45_54	45-54	BE	Belgium	Weekplanner - Structuur en planning oplossingen voor schoolgaande kinderen		336729963116870	Facebook	2	1	9434	1886	55	0
-45_54	45-54	BE	Belgium	Conseil Consultatif de la communauté marocaine à Mons		569315516884797	Facebook	3	1	9297	1796	43	0
-45_54	45-54	BE	Belgium	N-VA Ronse	Vandekerkhove David	166525380128528	Facebook	1	1	9261	1852	18	0
-45_54	45-54	BE	Belgium	Koen Daniëls	N-VA	711452742279820	Facebook	1	1	9249	1850	92	18
-45_54	45-54	BE	Belgium	Optimiste pour Bruxelles	Matias Jordi Rasero-Ramirez	570826640096148	Facebook	18	1	9242	2257	228	0
-45_54	45-54	BE	Belgium	HART BOVEN HARD		1531569170390942	Facebook	1	1	9229	1845	18	0
-45_54	45-54	BE	Belgium	Ecolo Régionale de Liège		204666342955430	Facebook	1	1	9172	1834	18	0
-45_54	45-54	BE	Belgium	N-VA HeistopdenBerg		821251041256391	Facebook	2	1	9116	2424	33	0
-45_54	45-54	BE	Belgium	Gwenaëlle Grovonius Députée PS, 2ème à la Région pour Namur	Géraldine Christine C. Georges	852013494856695	Facebook	7	1	9097	3556	122	0
-45_54	45-54	BE	Belgium	Annick Ponthier		432902790582244	Facebook	1	1	9085	1817	17	0
-45_54	45-54	BE	Belgium	ETUC		129041250601685	Facebook	2	1	9084	1822	90	18
-45_54	45-54	BE	Belgium	Sophie Wilmès		494853240530488	Facebook	1	1	8904	1780	17	0
-45_54	45-54	BE	Belgium	Keyware		408144719228455	Facebook	1	1	8763	1752	87	17
-45_54	45-54	BE	Belgium	Les Congolais Debout		1405739032827831	Facebook	5	1	8685	3271	36	2
-45_54	45-54	BE	Belgium	Melissa Depraetere		2101118869952701	Facebook	1	1	8673	1734	17	0
-45_54	45-54	BE	Belgium	Wouter Raskin	Nieuw-Vlaams Alliantie 	524807561225921	Facebook	3	1	8640	2197	42	0
-45_54	45-54	BE	Belgium	GCR Stone - Gembloux		720334768006135	Facebook	1	1	8570	1714	16	0
-45_54	45-54	BE	Belgium	Perrine Marchal	Perrine Nathalie G.Marchal	1816421541797483	Facebook	1	1	8525	1705	16	0
-45_54	45-54	BE	Belgium	KissPlanet		581298388990286	Facebook	1	1	8501	1700	16	0
-45_54	45-54	BE	Belgium	Amnesty International Belgique francophone		88984475432	Facebook	1	1	8431	1686	16	0
-45_54	45-54	BE	Belgium	B19		522461384438687	Facebook	1	1	8349	1669	16	0
-45_54	45-54	BE	Belgium	Bea Diallo		379230975548013	Facebook	1	1	8337	1667	16	0
-45_54	45-54	BE	Belgium	VITO		185864998164157	Facebook	2	1	8212	1642	27	0
-45_54	45-54	BE	Belgium	Dyab Abou Jahjah	Abou Jahjah Dyab	650597568382274	Facebook	16	1	8195	1367	270	0
-45_54	45-54	BE	Belgium	N-VA Roeselare	Nieuw-Vlaamse Alliantie	168411579894593	Facebook	1	1	8195	1639	16	0
-45_54	45-54	BE	Belgium	Vlaams Belang Vlaams-Brabant	Raekelboom Luk Milles H	481216585230510	Facebook	1	1	8165	1633	81	16
-45_54	45-54	BE	Belgium	Vlaams Belang West-Vlaanderen		759865230747904	Facebook	1	1	8103	1620	80	16
-45_54	45-54	BE	Belgium	Karine Lalieux		1520851034620904	Facebook	3	1	8081	1616	43	0
-45_54	45-54	BE	Belgium	Little Step		546966742329623	Facebook	2	1	8063	1612	30	0
-45_54	45-54	BE	Belgium	Elke Sleurs	N-VA	571227032971640	Facebook	1	1	8045	1609	80	16
-45_54	45-54	BE	Belgium	La maison du bambou		363210450932797	Facebook	1	1	8022	1604	80	16
-45_54	45-54	BE	Belgium	Association pour la Promotion de la Francophonie en Flandre		1084185458418223	Facebook	10	1	8015	2717	121	0
-45_54	45-54	BE	Belgium	Annick Lambrecht	Lambrecht Annick Jacques M	2229481170658339	Facebook	9	1	7948	2445	129	0
-45_54	45-54	BE	Belgium	LIFE		167060196653670	Facebook	46	1	7908	1656	47	0
-45_54	45-54	BE	Belgium	Wilfried Vandaele	N-VA	134830590539925	Facebook	1	1	7830	1566	78	15
-45_54	45-54	BE	Belgium	BonneGueule		140324089470	Facebook	4	1	7822	3786	37	7
-45_54	45-54	BE	Belgium	Paul Van Miert	Nieuw-Vlaamse Alliantie	328159867371520	Facebook	1	1	7764	1552	77	15
-45_54	45-54	BE	Belgium	François Lamy - MR	François Jacques A. Lamy	1070950206436656	Facebook	8	1	7744	1456	190	0
-45_54	45-54	BE	Belgium	Groen West-Vlaanderen	Sabels Jordy	2498060896894670	Facebook	3	1	7613	1522	92	11
-45_54	45-54	BE	Belgium	Brussels		114885670293	Facebook	2	1	7592	1518	15	0
-45_54	45-54	BE	Belgium	Civil Liberties Union for Europe		1424938757739868	Facebook	2	1	7570	1514	15	0
-45_54	45-54	BE	Belgium	Liesbeth Homans	Nieuw-Vlaamse Alliantie	269377643529899	Facebook	1	1	7521	1504	14	0
-45_54	45-54	BE	Belgium	Quora in het Nederlands		493283431176120	Facebook	4	1	7462	1429	92	12
-45_54	45-54	BE	Belgium	Walk for the Climate		245744322763539	Facebook	2	1	7423	1484	14	0
-45_54	45-54	BE	Belgium	Guardian Weekly		64525551258	Facebook	12	1	7396	3241	41	7
-45_54	45-54	BE	Belgium	Adalia asbl		1512777045608656	Facebook	1	1	7393	1478	14	0
-45_54	45-54	BE	Belgium	10 Waste Challenge		863509567341205	Facebook	6	1	7354	1382	72	0
-45_54	45-54	BE	Belgium	Martin Maréchal - 6e Suppléant PS Bruxelles à la Chambre		372918879915830	Facebook	1	1	7322	1464	14	0
-45_54	45-54	BE	Belgium	Nous voulons des coquelicots Belgique		996402860560375	Facebook	1	1	7318	1463	14	0
-45_54	45-54	BE	Belgium	Commission Européenne en Belgique / Europese Commissie in Belgie	Commission Européenne en Belgique / Europese Commissie in Belgie	295165170561769	Facebook	2	1	7301	1422	32	0
-45_54	45-54	BE	Belgium	Salsa Rica Dance Company		727875134045965	Facebook	2	1	7297	2534	24	4
-45_54	45-54	BE	Belgium	Réseau pour la Justice Fiscale		247558685304862	Facebook	1	1	7296	1459	14	0
-45_54	45-54	BE	Belgium	Les Investisseurs		322380674836313	Facebook	3	1	7225	3557	66	31
-45_54	45-54	BE	Belgium	sp.a Hemiksem - Waa zien H geire	Talboom Rodney	189913087722338	Facebook	3	1	7080	1339	104	13
-45_54	45-54	BE	Belgium	Centre d'Action Laïque		176170955780752	Facebook	2	1	7077	1383	29	0
-45_54	45-54	BE	Belgium	Greens/EFA in the European Parliament		150527751674751	Facebook	19	1	7057	1898	39	5
-45_54	45-54	BE	Belgium	Touche pas à ma planète		2174582836142717	Facebook	39	1	7017	1302	163	7
-45_54	45-54	BE	Belgium	Mister Genius Liege		143640509489836	Facebook	7	1	6965	1304	173	0
-45_54	45-54	BE	Belgium	Kathleen Krekels		1718651388404701	Facebook	1	1	6942	1388	13	0
-45_54	45-54	BE	Belgium	Ecogreen		2207467306235731	Facebook	4	1	6942	2824	61	14
-45_54	45-54	BE	Belgium	Electionsipcf2019		229674763869516	Facebook	1	1	6843	1368	13	0
-45_54	45-54	BE	Belgium	Leen Dierick	D'hauwer Pieter	279936192533387	Facebook	2	1	6801	1360	25	0
-45_54	45-54	BE	Belgium	Ecoholic		306115860212111	Facebook	1	1	6791	1358	60	12
-45_54	45-54	BE	Belgium	Ecobio OBD		250081085939529	Facebook	4	1	6778	2613	84	12
-45_54	45-54	BE	Belgium	Sweco Belgium		370829863001865	Facebook	7	1	6712	1237	88	0
-45_54	45-54	BE	Belgium	Beweging.net Antwerpen		1258116807535538	Facebook	7	1	6704	1341	132	0
-45_54	45-54	BE	Belgium	Ik ben PRO		305618513615029	Facebook	7	1	6703	2945	148	14
-45_54	45-54	BE	Belgium	Franc Bogovic	Bogovic Franc Mathijs J	517272151683918	Facebook	12	1	6691	1313	142	0
-45_54	45-54	BE	Belgium	Medina Expo Belgium		448924871880808	Facebook	1	1	6665	1333	13	0
-45_54	45-54	BE	Belgium	Annabel Tavernier	Nieuw-Vlaamse Alliantie	329027807799398	Facebook	1	1	6608	1321	65	13
-45_54	45-54	BE	Belgium	Festival SERIES MANIA		205811186435754	Facebook	1	1	6509	1301	64	13
-45_54	45-54	BE	Belgium	Stéphanie Heng	Théry Alexandre J Bourgoignie	340587286371062	Facebook	3	1	6500	1265	36	0
-45_54	45-54	BE	Belgium	Alexandra D'Archambeau	D'Archambeau Alexandra Sylvie O	213637018831903	Facebook	12	1	6482	2046	104	0
-45_54	45-54	BE	Belgium	Etienne Dujardin		1981582235230721	Facebook	1	1	6432	1286	12	0
-45_54	45-54	BE	Belgium	Vlaams Belang Kortrijk	Vlaams Belang	1657893191169110	Facebook	17	1	6394	1449	215	0
-45_54	45-54	BE	Belgium	89 Initiative		343987799145715	Facebook	1	1	6382	1276	14	0
-45_54	45-54	BE	Belgium	Coppieters Foundation		173883257164	Facebook	1	1	6354	1270	63	12
-45_54	45-54	BE	Belgium	Claude Moniquet	Claude André A Moniquet	1021310417915887	Facebook	3	1	6257	3128	61	0
-45_54	45-54	BE	Belgium	MR Koekelberg soutien à Lucas Ducarme et Philippe Pivin	Lucas Denis E Ducarme	1706672722902391	Facebook	1	1	6242	1248	62	12
-45_54	45-54	BE	Belgium	Groen district Antwerpen	Groen district Antwerpen	498554120412	Facebook	11	1	6209	1127	168	0
-45_54	45-54	BE	Belgium	Council of the European Union		147547541961576	Facebook	3	1	6185	1237	41	7
-45_54	45-54	BE	Belgium	GoodPlanet Belgium		133865216689469	Facebook	1	1	6118	1223	61	12
-45_54	45-54	BE	Belgium	Jan Spooren	Nieuw-Vlaamse Alliantie	222858057892237	Facebook	1	1	6052	1210	11	0
-45_54	45-54	BE	Belgium	Cowboy		124367788234189	Facebook	1	1	5979	2989	149	29
-45_54	45-54	BE	Belgium	Laura Van Eeckhout	Van Eeckhout Laura Karin	2007508699375704	Facebook	1	1	5973	1194	11	0
-45_54	45-54	BE	Belgium	The King of Books		1162291227121962	Facebook	1	1	5955	1191	11	0
-45_54	45-54	BE	Belgium	Waidmannsheil, Hét magazine voor de gepassioneerde grofwildjagers		166616950047709	Facebook	1	1	5942	1188	11	0
-45_54	45-54	BE	Belgium	Florida Invest		1757174107834441	Facebook	6	1	5917	1183	12	0
-45_54	45-54	BE	Belgium	Nekisi		2210586769194254	Facebook	9	1	5898	1125	38	0
-45_54	45-54	BE	Belgium	Julia Reda		1444482109146991	Facebook	2	1	5788	1158	57	11
-45_54	45-54	BE	Belgium	Beci Brussels		408119956043956	Facebook	6	1	5786	1492	142	0
-45_54	45-54	BE	Belgium	Sébastien Doutreloup	Sébastien Camille C.Doutreloup	2605782112772045	Facebook	6	1	5758	2011	127	0
-45_54	45-54	BE	Belgium	Brigitte Grouwels		478482175573284	Facebook	1	1	5701	1140	11	0
-45_54	45-54	BE	Belgium	CD&V Erpe-Mere	Van Vaerenbergh Johan August G	287188131471344	Facebook	6	1	5659	1683	101	0
-45_54	45-54	BE	Belgium	Grand-Feu.be		154332665214361	Facebook	1	1	5654	1130	9	0
-45_54	45-54	BE	Belgium	Leila Agic	Leila Agic	229313714293949	Facebook	11	1	5552	1315	187	0
-45_54	45-54	BE	Belgium	Croix-Rouge de Belgique		209210135757984	Facebook	1	1	5525	2762	27	5
-45_54	45-54	BE	Belgium	The Lemon Spoon		1610249445854901	Facebook	1	1	5482	1096	10	0
-45_54	45-54	BE	Belgium	Pégase, la page de l’expatriation et des Français à  l’étranger		111021508957258	Facebook	3	1	5404	2151	13	5
-45_54	45-54	BE	Belgium	N-VA Groot Aalst	Nieuw-Vlaamse Alliantie	274961409207861	Facebook	1	1	5402	1080	10	0
-45_54	45-54	BE	Belgium	Lucien Rigaux - 67e PS à la Région de Bruxelles-Capitale	Lucien Rigaux	697600227298160	Facebook	10	1	5300	1294	115	0
-45_54	45-54	BE	Belgium	Uni- Presse		432468573435743	Facebook	2	1	5283	2482	12	2
-45_54	45-54	BE	Belgium	Junge Mitte	Junge Mitte	1567710236826303	Facebook	6	1	5257	1482	89	0
-45_54	45-54	BE	Belgium	Onur Akpinar		186066368636045	Facebook	4	1	5240	1857	119	0
-45_54	45-54	BE	Belgium	ALDE CoR - Liberals and Democrats in the European Committee of the Regions		1033827283344362	Facebook	2	1	5202	2266	21	4
-45_54	45-54	BE	Belgium	Camping Clair Matin		597267320442961	Facebook	2	1	5170	1021	16	0
-45_54	45-54	BE	Belgium	Groen Vlaams-Brabant	Groen Vlaams-Brabant	60637191219	Facebook	7	1	5136	995	114	0
-45_54	45-54	BE	Belgium	Sensoa		149353871767039	Facebook	1	1	5000	1000	49	10
-45_54	45-54	BE	Belgium	Yèlèma Production		181190698574126	Facebook	2	1	4993	2497	49	0
-45_54	45-54	BE	Belgium	Petra De Sutter		372776579930604	Facebook	4	1	4883	1994	60	3
-45_54	45-54	BE	Belgium	Yngvild Ingels	Nieuw-Vlaamse Alliantie	585897671936036	Facebook	2	1	4851	1543	24	0
-45_54	45-54	BE	Belgium	Moniteur Automobile		148722088488665	Facebook	19	1	4819	360	334	0
-45_54	45-54	BE	Belgium	Visa-To-Canada		268597857144191	Facebook	2	1	4745	1360	25	5
-45_54	45-54	BE	Belgium	PFF	Gregor Friedrich E Freches	75534801064	Facebook	7	1	4721	884	117	0
-45_54	45-54	BE	Belgium	Alumni Ingénieurs Louvain		313346604297	Facebook	1	1	4648	929	9	0
-45_54	45-54	BE	Belgium	Joren Vermeersch		2403107196584717	Facebook	3	1	4639	1658	67	0
-45_54	45-54	BE	Belgium	Dopper		149978658404973	Facebook	1	1	4597	919	9	0
-45_54	45-54	BE	Belgium	The Law Firm of Marcelle Poirier		237508319624271	Facebook	1	1	4559	911	40	8
-45_54	45-54	BE	Belgium	Little Green Dots		1315737615215929	Facebook	6	1	4548	1436	72	0
-45_54	45-54	BE	Belgium	innocent - Belgium		126078767477436	Facebook	4	1	4517	2110	63	0
-45_54	45-54	BE	Belgium	Chroniques de la Wallonie communiste		436281157179926	Facebook	1	1	4449	889	8	0
-45_54	45-54	BE	Belgium	Freya Perdaens	Nieuw-Vlaamse Alliantie	1411253522462277	Facebook	3	1	4406	2203	43	0
-45_54	45-54	BE	Belgium	Willem-Frederik Schiltz		607196916040605	Facebook	3	1	4401	1991	50	0
-45_54	45-54	BE	Belgium	Babeyes		1015654268572910	Facebook	4	1	4392	970	22	0
-45_54	45-54	BE	Belgium	Frédérique Moors		180402262302950	Facebook	3	1	4385	919	9	0
-45_54	45-54	BE	Belgium	Feel Slovenia		144098725952	Facebook	6	1	4385	1410	119	0
-45_54	45-54	BE	Belgium	Sien Vandevelde	Vandevelde Sien Natalie S	1716420288443469	Facebook	9	1	4311	482	235	0
-45_54	45-54	BE	Belgium	The Compost Bag Company		239889083156219	Facebook	9	1	4251	850	84	0
-45_54	45-54	BE	Belgium	EPP Group in the European Parliament		291699857688	Facebook	5	1	4250	867	42	8
-45_54	45-54	BE	Belgium	Vive l'Europe		348179586023286	Facebook	11	1	4235	1513	64	0
-45_54	45-54	BE	Belgium	Safia Karima		926337250910134	Facebook	4	1	4227	1373	66	0
-45_54	45-54	BE	Belgium	Les Glorieuses		146011089076620	Facebook	5	1	4224	844	15	0
-45_54	45-54	BE	Belgium	Michiel Vandewalle		623661894685605	Facebook	6	1	4187	827	64	0
-45_54	45-54	BE	Belgium	Equality Festival Courcelles		1820149114951431	Facebook	6	1	4140	1029	60	3
-45_54	45-54	BE	Belgium	Justice et Paix		1425199314381122	Facebook	4	1	4123	1800	49	0
-45_54	45-54	BE	Belgium	Justine Hollevoet	Justine Liliane Hollevoet 	314364712376727	Facebook	3	1	4092	1736	50	0
-45_54	45-54	BE	Belgium	World Transformation Movement		372125409639	Facebook	12	1	4051	924	38	5
-45_54	45-54	BE	Belgium	Stalen Rietje		2378708185693776	Facebook	6	1	4030	713	116	0
-45_54	45-54	BE	Belgium	Jacko Sound bvba		935818869788845	Facebook	1	1	4011	802	40	8
-45_54	45-54	BE	Belgium	Volt Europa		1739550549695812	Facebook	2	1	4009	812	8	0
-45_54	45-54	BE	Belgium	ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ	ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ	82362291274	Facebook	5	1	3998	1706	29	5
-45_54	45-54	BE	Belgium	La Montre Traceur GPS		2351537601739254	Facebook	4	1	3971	999	43	5
-45_54	45-54	BE	Belgium	KVG-groep		11409589118	Facebook	2	1	3946	1973	39	0
-45_54	45-54	BE	Belgium	EURACTIV		15299247059	Facebook	6	1	3923	781	23	0
-45_54	45-54	BE	Belgium	Autoclassic.be		370625653320965	Facebook	9	1	3909	0	387	0
-45_54	45-54	BE	Belgium	Banque mondiale		155174084508744	Facebook	72	1	3907	777	38	0
-45_54	45-54	BE	Belgium	γυρίζουμε		278308089460720	Facebook	7	1	3860	1518	28	6
-45_54	45-54	BE	Belgium	Mouvement Présence et Action Culturelles	Mouvement Présence et Action Culturelles	958710644172240	Facebook	3	1	3854	1927	38	0
-45_54	45-54	BE	Belgium	Oceonics		277859882973746	Facebook	4	1	3852	744	20	0
-45_54	45-54	BE	Belgium	Julien Vandenhoucke	Vandenhoucke Julien Serge M	772643609793854	Facebook	4	1	3843	1089	65	0
-45_54	45-54	BE	Belgium	Ebem		310353242487385	Facebook	2	1	3814	1537	49	0
-45_54	45-54	BE	Belgium	EESC - European Economic and Social Committee	EESC - European Economic and Social Committee	144709575593854	Facebook	3	1	3779	1734	42	0
-45_54	45-54	BE	Belgium	Ambiance-Bouddha		1823805464566989	Facebook	9	1	3766	982	53	3
-45_54	45-54	BE	Belgium	Klimaatzaak		1493008137629540	Facebook	1	1	3601	1801	35	0
-45_54	45-54	BE	Belgium	WE Government		452079255532669	Facebook	3	1	3589	717	20	0
-45_54	45-54	BE	Belgium	Lassé de subir		1967354620180059	Facebook	7	1	3576	690	80	0
-45_54	45-54	BE	Belgium	Catharina Rinzema		2114625695290780	Facebook	1	1	3559	711	7	0
-45_54	45-54	BE	Belgium	SP Gadgets		187715058059847	Facebook	2	1	3491	698	28	5
-45_54	45-54	BE	Belgium	Yasmine Kherbache	Sp.a Antwerpen	189145821274552	Facebook	3	1	3447	1346	60	0
-45_54	45-54	BE	Belgium	Lorin Parys	Nieuw-Vlaamse Alliantie	699243700236299	Facebook	3	1	3418	1475	41	0
-45_54	45-54	BE	Belgium			0	Facebook	7	1	3386	230	217	0
-45_54	45-54	BE	Belgium	Marc Loewenstein	Marco Loewenstein	664636000270959	Facebook	5	1	3352	1026	87	0
-45_54	45-54	BE	Belgium	Jong N-VA Regio Waregem	De Waele Glen	242316996585154	Facebook	5	1	3349	645	76	0
-45_54	45-54	BE	Belgium	Shopwala EU		568665486988540	Facebook	2	1	3346	669	58	0
-45_54	45-54	BE	Belgium	IN-Gent vzw		383544188499146	Facebook	1	1	3346	1673	33	0
-45_54	45-54	BE	Belgium	Jean-Marc Delizée		150031105667091	Facebook	3	1	3342	668	66	0
-45_54	45-54	BE	Belgium	Thomas Geuens	Geuens Thomas	1800565136675003	Facebook	6	1	3326	542	114	0
-45_54	45-54	BE	Belgium	CB Concept SPRL		247898132238762	Facebook	1	1	3311	1656	32	0
-45_54	45-54	BE	Belgium	Cathy Collard 3em suppléante à la chambre		1664268480384060	Facebook	6	1	3278	495	128	0
-45_54	45-54	BE	Belgium	Ecolo Virton	Ecolo	284372185008763	Facebook	2	1	3260	1291	43	0
-45_54	45-54	BE	Belgium	FT Content Solutions		1220981994590364	Facebook	7	1	3247	759	10	0
-45_54	45-54	BE	Belgium	Fatima Abbach	Fatima Abbach	1721280034665554	Facebook	2	1	3235	1213	45	0
-45_54	45-54	BE	Belgium	Dr. Ayça KAYA		312328182783290	Facebook	1	1	3196	1598	15	3
-45_54	45-54	BE	Belgium	Consommateur-malin.net		189858344977098	Facebook	4	1	3182	502	116	0
-45_54	45-54	BE	Belgium	Alexandra Philippe - DéFI	Alexandra Philippe	2134095363490260	Facebook	3	1	3181	1225	56	0
-45_54	45-54	BE	Belgium	Valérie De Bue	Valérie De Bue	261617251408	Facebook	2	1	3176	635	62	0
-45_54	45-54	BE	Belgium	PVDA West-Vlaanderen	PVDA	1661103980836335	Facebook	6	1	3160	632	62	0
-45_54	45-54	BE	Belgium	Wholesome Culture		1664959567149320	Facebook	7	1	3152	1382	6	1
-45_54	45-54	BE	Belgium	PS Braine-le-Comte		170647819693707	Facebook	3	1	3138	627	62	0
-45_54	45-54	BE	Belgium	Gadgets-d'eve		378428919630169	Facebook	1	1	3130	1565	27	0
-45_54	45-54	BE	Belgium	N-VA Waas	Nieuw-Vlaamse Alliantie	1617858095113008	Facebook	10	1	3125	583	78	0
-45_54	45-54	BE	Belgium	Filef Nuova Emigrazione - Belgio		614768311990403	Facebook	3	1	3122	624	61	0
-45_54	45-54	BE	Belgium	N-VA Temse	N-VA Temse	157739524296696	Facebook	5	1	3112	1028	60	0
-45_54	45-54	BE	Belgium	Dries Couckuyt		234793994081500	Facebook	2	1	3078	1236	40	0
-45_54	45-54	BE	Belgium	Ecolo au coeur du changement - Province de Liège	Ecolo - province de Liège 	580163825784309	Facebook	4	1	3052	578	73	0
-45_54	45-54	BE	Belgium	Kim Aluwé	Aluwé Kim Lilianna M	266386214287406	Facebook	5	1	3046	566	77	0
-45_54	45-54	BE	Belgium	Maxim Veys		2141077652780131	Facebook	2	1	3035	1264	38	0
-45_54	45-54	BE	Belgium	Québec International		463810574128051	Facebook	4	1	3019	1023	18	2
-45_54	45-54	BE	Belgium	Alexander Binon	N-VA Oud-Heverlee	573104879470554	Facebook	3	1	2963	1032	44	0
-45_54	45-54	BE	Belgium	Jean-Claude Marcourt - Officiel		214672635464	Facebook	2	1	2908	1131	39	0
-45_54	45-54	BE	Belgium	HongFei Cultures		282130295139702	Facebook	1	1	2907	581	5	0
-45_54	45-54	BE	Belgium	Eurometropolitan e-Campus		348027071896944	Facebook	2	1	2889	1347	46	0
-45_54	45-54	BE	Belgium	PVDA Mechelen	PVDA	173757289363980	Facebook	3	1	2849	570	56	0
-45_54	45-54	BE	Belgium	Women in Tech.Brussels		335459306919067	Facebook	2	1	2848	569	5	0
-45_54	45-54	BE	Belgium	Gaia		182073298490036	Facebook	6	1	2844	1354	25	10
-45_54	45-54	BE	Belgium	Proud of Our Pride		400548670511219	Facebook	52	1	2842	625	20	0
-45_54	45-54	BE	Belgium	Sihame El Kaouakibi		595882667132447	Facebook	4	1	2779	1183	64	0
-45_54	45-54	BE	Belgium	Afrika-innovation		225570141351956	Facebook	1	1	2778	555	55	0
-45_54	45-54	BE	Belgium	Matthias Mazur		578694572243499	Facebook	6	1	2763	552	38	6
-45_54	45-54	BE	Belgium	Candice Vanhecke	Abou Jahjah Dyab	583228032160687	Facebook	6	1	2759	457	92	0
-45_54	45-54	BE	Belgium	Jean-Luc Papy		1719608998322344	Facebook	5	1	2716	443	93	0
-45_54	45-54	BE	Belgium	Faye Van Impe		529592387474876	Facebook	2	1	2712	1083	35	0
-45_54	45-54	BE	Belgium	Femmes et Société asbl		1437676399589440	Facebook	1	1	2690	1345	26	0
-45_54	45-54	BE	Belgium	VitaliBox		553738721659180	Facebook	17	1	2686	782	80	0
-45_54	45-54	BE	Belgium	Jan Seynhaeve	Vandendriessche Vincent Olivier J	1753517451373120	Facebook	8	1	2668	503	64	0
-45_54	45-54	BE	Belgium	Centre bruxellois d'action interculturelle (CBAI)		192636267445552	Facebook	2	1	2653	1101	33	0
-45_54	45-54	BE	Belgium	Maison de la Laïcité Andenne		942548119113599	Facebook	1	1	2637	1318	26	0
-45_54	45-54	BE	Belgium	Jong N-VA Dilbeek		2014249938817958	Facebook	1	1	2636	527	5	0
-45_54	45-54	BE	Belgium	Matthias Diependaele	Nieuw-Vlaamse Alliantie	543319679114946	Facebook	2	1	2635	500	18	0
-45_54	45-54	BE	Belgium	GAVE VESTE VZW		1636450376635493	Facebook	1	1	2633	1316	26	0
-45_54	45-54	BE	Belgium	European Centre for Romanian Unity		130970050940986	Facebook	3	1	2609	521	51	0
-45_54	45-54	BE	Belgium	De vernieuwers		1830473390578456	Facebook	1	1	2596	1298	25	0
-45_54	45-54	BE	Belgium	VoteWatch Europe		355087424564148	Facebook	5	1	2589	1142	5	1
-45_54	45-54	BE	Belgium	3Evolvia		294149214646816	Facebook	16	1	2586	454	89	0
-45_54	45-54	BE	Belgium	Heidi Van Gaever	Van Gaever Adelheid Fabiola E	242905366574089	Facebook	3	1	2584	827	40	0
-45_54	45-54	BE	Belgium	Jan Van Camp	Van Camp Jan Emiel G	240346493197462	Facebook	3	1	2572	514	50	0
-45_54	45-54	BE	Belgium	Bedazzle		319826451756550	Facebook	3	1	2566	462	71	0
-45_54	45-54	BE	Belgium	Kito Mbiango�		368778037279110	Facebook	1	1	2564	512	4	0
-45_54	45-54	BE	Belgium	Awacer Tv		338347453659143	Facebook	3	1	2543	1122	26	0
-45_54	45-54	BE	Belgium	PRTG Network Monitor		142261582465552	Facebook	5	1	2515	907	20	3
-45_54	45-54	BE	Belgium	Grands parents pour le climat Belgique		1387946014842141	Facebook	5	1	2512	363	104	0
-45_54	45-54	BE	Belgium	An Christiaens	Christiaens An Liliane B	427409014327861	Facebook	2	1	2489	1244	24	0
-45_54	45-54	BE	Belgium	Rachid Azaoum	Rachid Azaoum	1016780215187655	Facebook	3	1	2479	861	92	0
-45_54	45-54	BE	Belgium	Debating Europe	Debating Europe	132011730204757	Facebook	6	1	2471	437	71	0
-45_54	45-54	BE	Belgium	Agora.Brussels		187607388601520	Facebook	2	1	2467	493	15	0
-45_54	45-54	BE	Belgium	La Trompette Philadelphienne		1574246796218348	Facebook	5	1	2457	551	11	1
-45_54	45-54	BE	Belgium	Les Grenades - RTBF	Les Grenades - RTBF	1010298882498268	Facebook	2	1	2444	948	33	0
-45_54	45-54	BE	Belgium	Anne Lambelin		331360213704247	Facebook	1	1	2440	1220	24	0
-45_54	45-54	BE	Belgium	Catalonia Alert		1954446921478290	Facebook	3	1	2433	475	30	4
-45_54	45-54	BE	Belgium	ATAA Foundation		2039469612804034	Facebook	2	1	2427	705	9	0
-45_54	45-54	BE	Belgium	Sigefroid Van Haelst		426942467817318	Facebook	1	1	2422	484	4	0
-45_54	45-54	BE	Belgium	Maryam Jamshid		245016762713020	Facebook	3	1	2420	765	63	0
-45_54	45-54	BE	Belgium	Hulencourt Festival		126781430666318	Facebook	1	1	2408	1204	23	0
-45_54	45-54	BE	Belgium	Eco Heating		202302506453396	Facebook	3	1	2406	481	47	0
-45_54	45-54	BE	Belgium	Maison de la Francité		900010173370071	Facebook	2	1	2404	884	34	0
-45_54	45-54	BE	Belgium	Coach  physique et mental pour femmes qui ont besoin de se défendre		436620430426993	Facebook	1	1	2368	473	4	0
-45_54	45-54	BE	Belgium	EPO Uitgeverij		188878211146183	Facebook	2	1	2367	941	31	0
-45_54	45-54	BE	Belgium	Asbl Succès		146507658743006	Facebook	1	1	2356	1178	23	0
-45_54	45-54	BE	Belgium	angelinachan		632691657152667	Facebook	1	1	2353	470	4	0
-45_54	45-54	BE	Belgium	Rotary Club Brugge Zuid		527574393935117	Facebook	1	1	2346	1173	23	0
-45_54	45-54	BE	Belgium	All Equal		1993289087558486	Facebook	3	1	2329	812	34	0
-45_54	45-54	BE	Belgium	Le Cercle Pol Vandromme		512190462299627	Facebook	1	1	2314	1157	22	0
-45_54	45-54	BE	Belgium	Gocar.be		185887798105437	Facebook	13	1	2297	0	227	0
-45_54	45-54	BE	Belgium	Emin Ozkara		467415843751253	Facebook	4	1	2292	471	52	0
-45_54	45-54	BE	Belgium	N-VA Turnhout	Nieuw-Vlaamse Alliantie	150932761651575	Facebook	1	1	2285	1142	22	0
-45_54	45-54	BE	Belgium	Christian Ferdinand - tête de liste DÉFI Braine-l’Alleud		2139488749417271	Facebook	3	1	2285	415	61	0
-45_54	45-54	BE	Belgium	Ellen Samyn		257052808520617	Facebook	3	1	2278	423	57	0
-45_54	45-54	BE	Belgium	Groen Tienen	Groen Tienen	172627916131316	Facebook	1	1	2274	1137	22	0
-45_54	45-54	BE	Belgium	Opaline Meunier		1003984536437712	Facebook	4	1	2274	377	75	0
-45_54	45-54	BE	Belgium	Parti Populaire Mouscron		362126580806077	Facebook	2	1	2242	448	44	0
-45_54	45-54	BE	Belgium	Dirk Rochtus, plaats 27 voor het Vlaams Parlement, Provincie Antwerpen		381494492700046	Facebook	4	1	2231	672	52	0
-45_54	45-54	BE	Belgium	Groen Lebbeke		579893498817499	Facebook	2	1	2229	446	41	0
-45_54	45-54	BE	Belgium	Julien Vertenueil	Julien Vertenueil	2284676965104185	Facebook	2	1	2211	836	30	0
-45_54	45-54	BE	Belgium	Tom Dewandelaere	Tom Dewandelaere	808383386025450	Facebook	1	1	2209	1104	21	0
-45_54	45-54	BE	Belgium	BRITA België		500803896616806	Facebook	2	1	2201	852	30	0
-45_54	45-54	BE	Belgium	Marché de Quartier-s		2060577797290792	Facebook	1	1	2163	1081	21	0
-45_54	45-54	BE	Belgium	Collectif féministe Kahina		1627657827279331	Facebook	5	1	2161	344	77	0
-45_54	45-54	BE	Belgium	De Schakelaar		615731348538299	Facebook	2	1	2156	431	42	0
-45_54	45-54	BE	Belgium	Deborah Nyst art events		1403346269807337	Facebook	1	1	2154	1077	21	0
-45_54	45-54	BE	Belgium	Candidate Raquel Gomes David	Gomes David Raquel	364123120866777	Facebook	1	1	2151	1075	21	0
-45_54	45-54	BE	Belgium	Géopolis - Centre du photojournalisme		115004405875793	Facebook	3	1	2148	429	41	0
-45_54	45-54	BE	Belgium	PTB Région Bruxelles-Capitale /  PVDA Brussels Hoofdstedelijk Gewest		162499363939852	Facebook	1	1	2141	1070	21	0
-45_54	45-54	BE	Belgium	Socks For Climate	Van De Velde Arthur V	342842996575193	Facebook	7	1	2127	487	72	0
-45_54	45-54	BE	Belgium	US Embassy Brussels		39878083109	Facebook	1	1	2104	1052	20	0
-45_54	45-54	BE	Belgium	Manuela Van Werde	Nieuw-Vlaamse Alliantie	1450791131808117	Facebook	1	1	2099	1049	20	0
-45_54	45-54	BE	Belgium	Filip Brusselmans		209799696641499	Facebook	2	1	2093	933	24	0
-45_54	45-54	BE	Belgium	Annie Mokto		285680708188774	Facebook	3	1	2075	415	41	0
-45_54	45-54	BE	Belgium	Agentschap Innoveren & Ondernemen		234120763597078	Facebook	2	1	2069	813	27	0
-45_54	45-54	BE	Belgium	Installatie360		833101103502238	Facebook	1	1	2069	1034	20	0
-45_54	45-54	BE	Belgium	Cats & Dogs		624493880913581	Facebook	1	1	2065	1032	20	0
-45_54	45-54	BE	Belgium	N-VA Katelijne & Waver	N-VA Sint-Katelijne-Waver	289744314420894	Facebook	1	1	2063	1031	20	0
-45_54	45-54	BE	Belgium	Adri & Zoon Yerseke B.V.		104393749685848	Facebook	1	1	2053	410	4	0
-45_54	45-54	BE	Belgium	Ecolo Braine Le Comte	Ecolo Braine-le-Comte	775758055853342	Facebook	6	1	2046	222	114	0
-45_54	45-54	BE	Belgium	WI - Wallonie Insoumise Ans		794996100689563	Facebook	2	1	2045	409	40	0
-45_54	45-54	BE	Belgium	Hallo politici		1700873790185503	Facebook	2	1	2039	806	27	0
-45_54	45-54	BE	Belgium	Villers en Transition		384691241727023	Facebook	1	1	2032	1016	20	0
-45_54	45-54	BE	Belgium	MarketsCube		294693984421347	Facebook	4	1	2022	282	78	0
-45_54	45-54	BE	Belgium	Geoffrey Van Hecke		1757220271074342	Facebook	2	1	2021	826	26	0
-45_54	45-54	BE	Belgium	Gilles Verstraeten	Nieuw-Vlaamse Alliantie	2151512408274426	Facebook	2	1	2018	1009	19	0
-45_54	45-54	BE	Belgium	J'Aime Ma Ménopause		1351245284998394	Facebook	2	1	2013	402	39	0
-45_54	45-54	BE	Belgium	Daan De Veuster	De Veuster Daan Jozef D	1753693034925883	Facebook	2	1	2012	402	39	0
-45_54	45-54	BE	Belgium	David Vandekerkhove		746747445701947	Facebook	1	1	2010	1005	19	0
-45_54	45-54	BE	Belgium	De Beleefhoek - Koffie & Klets vzw		958236627700857	Facebook	6	1	2001	205	116	0
-45_54	45-54	BE	Belgium	Bart Lindelauf		736329586750863	Facebook	1	1	1992	996	19	0
-45_54	45-54	BE	Belgium	dansmonplacard.fr		742487389469132	Facebook	22	1	1990	256	85	0
-45_54	45-54	BE	Belgium	Lieve Maes	Nieuw-Vlaamse Aliiantie	287293904752254	Facebook	1	1	1978	395	39	0
-45_54	45-54	BE	Belgium	riskmethods		709334272544030	Facebook	1	1	1977	395	3	0
-45_54	45-54	BE	Belgium	Rechten als vader		865221830165257	Facebook	1	1	1967	393	38	0
-45_54	45-54	BE	Belgium	Stad Harelbeke		177644559004052	Facebook	2	1	1964	919	30	0
-45_54	45-54	BE	Belgium	Henna Virkkunen	Henna Virkkunen	120537424633927	Facebook	1	1	1956	978	17	0
-45_54	45-54	BE	Belgium	N-VA Overijse	Van San Jeroen Edward C	149066685171508	Facebook	1	1	1956	978	19	0
-45_54	45-54	BE	Belgium	Les Liens qui Libèrent		101706183211005	Facebook	1	1	1953	390	3	0
-45_54	45-54	BE	Belgium	Vlaams Belang Sint-Niklaas		288442248561938	Facebook	1	1	1948	974	19	0
-45_54	45-54	BE	Belgium	vincent Demonty		893067110891179	Facebook	1	1	1942	971	19	0
-45_54	45-54	BE	Belgium	Culture Prime		1839998372756212	Facebook	1	1	1941	970	9	1
-45_54	45-54	BE	Belgium	Maurella Carbone		407963336426584	Facebook	1	1	1939	969	19	0
-45_54	45-54	BE	Belgium	Jos Lantmeeters	Nieuw-Vlaamse Alliantie	2253398908319094	Facebook	2	1	1919	383	38	0
-45_54	45-54	BE	Belgium	Energie Info Wallonie		1506170256343392	Facebook	1	1	1917	958	18	0
-45_54	45-54	BE	Belgium	Caroline De Meerleer		278233629764740	Facebook	1	1	1916	958	18	0
-45_54	45-54	BE	Belgium	Ibiza Farm		1629229957352206	Facebook	5	1	1909	797	3	0
-45_54	45-54	BE	Belgium	Fightfortheclimate	Antoine Valéry J.Baert	433019927455006	Facebook	1	1	1904	380	3	0
-45_54	45-54	BE	Belgium	Jong VLD	Jong VLD	274353765974285	Facebook	1	1	1889	377	3	0
-45_54	45-54	BE	Belgium	SAM Le Réseau des Aidants		538212306571287	Facebook	1	1	1888	944	18	0
-45_54	45-54	BE	Belgium	Etopia		103993246355647	Facebook	1	1	1877	938	18	0
-45_54	45-54	BE	Belgium	Steven Arrazola de Oñate		578017509235623	Facebook	2	1	1877	375	37	0
-45_54	45-54	BE	Belgium	Inez De Coninck-pagina	Nieuw-Vlaamse Alliantie	371610010117710	Facebook	1	1	1869	934	18	0
-45_54	45-54	BE	Belgium	Kenan Akyil		268876507340385	Facebook	2	1	1869	923	20	0
-45_54	45-54	BE	Belgium	Groen Kempen		299649160140079	Facebook	2	1	1854	371	36	0
-45_54	45-54	BE	Belgium	Partenariat Sud		136948123069867	Facebook	1	1	1848	924	18	0
-45_54	45-54	BE	Belgium	Thomas Van Hoof		126652437478042	Facebook	5	1	1847	222	94	0
-45_54	45-54	BE	Belgium	Youth For Climate RSL		2007652679528954	Facebook	2	1	1839	726	24	0
-45_54	45-54	BE	Belgium	CD&V Zele		902818493070167	Facebook	1	1	1835	917	18	0
-45_54	45-54	BE	Belgium	Tussen Vrijheid en Geluk		209380365793017	Facebook	4	1	1829	366	36	0
-45_54	45-54	BE	Belgium	François De Smet		576069462821364	Facebook	1	1	1799	899	17	0
-45_54	45-54	BE	Belgium	Ben Segers - Antwerpen		467059900446915	Facebook	1	1	1798	899	17	0
-45_54	45-54	BE	Belgium	N-VA Hasselt	Nieuw-Vlaamse Alliantie	131167466986260	Facebook	1	1	1796	898	17	0
-45_54	45-54	BE	Belgium	Mjs Flemalle		201905843666746	Facebook	3	1	1789	308	54	0
-45_54	45-54	BE	Belgium	Promark France		1663616840564297	Facebook	2	1	1788	483	7	0
-45_54	45-54	BE	Belgium	Collectif des Enseignants de Religions de l'enseignement officiel		1662456197363603	Facebook	1	1	1776	888	17	0
-45_54	45-54	BE	Belgium	Ohey Ecolo & Citoyens		263278453754645	Facebook	1	1	1772	886	17	0
-45_54	45-54	BE	Belgium	Arc-en-Ciel Wallonie		257991607550653	Facebook	1	1	1762	881	17	0
-45_54	45-54	BE	Belgium	International Rescue Committee		73970658023	Facebook	1	1	1752	876	15	0
-45_54	45-54	BE	Belgium	Sammy Mahdi	Mahdi Sammy	1947077568914353	Facebook	3	1	1749	349	34	0
-45_54	45-54	BE	Belgium	PS Mons-Borinage		132596773464688	Facebook	1	1	1749	874	17	0
-45_54	45-54	BE	Belgium	Game of Sultans		185311195624361	Facebook	7	1	1749	762	36	8
-45_54	45-54	BE	Belgium	Centre d'Études du Développement Durable de l'IGEAT-ULB CEDD		1482350395366976	Facebook	3	1	1741	870	10	2
-45_54	45-54	BE	Belgium	PVDA Antwerpen		241932369235970	Facebook	1	1	1712	856	16	0
-45_54	45-54	BE	Belgium	WeCircular		733687417019547	Facebook	2	1	1706	341	33	0
-45_54	45-54	BE	Belgium	Evans Drumheads France		674783479551146	Facebook	2	1	1700	340	8	0
-45_54	45-54	BE	Belgium	PS de Huy		349328821762595	Facebook	1	1	1695	847	16	0
-45_54	45-54	BE	Belgium	sp.a Tienen		220374644640746	Facebook	2	1	1681	288	52	0
-45_54	45-54	BE	Belgium	EuropeRemembers_FR		1034555166755630	Facebook	1	1	1676	335	16	3
-45_54	45-54	BE	Belgium	Eda Öztürk	Ozturk Eda	256652841853645	Facebook	4	1	1673	213	81	0
-45_54	45-54	BE	Belgium	Peuls Debout		322598628391331	Facebook	1	1	1671	334	3	0
-45_54	45-54	BE	Belgium	Paul Biss		57570784383	Facebook	1	1	1663	332	32	0
-45_54	45-54	BE	Belgium	HuisvandeMens Halle		130530167077057	Facebook	1	1	1661	830	16	0
-45_54	45-54	BE	Belgium	Wouter De Vriendt	Sabels Jordy	2148775248546904	Facebook	2	1	1658	331	32	0
-45_54	45-54	BE	Belgium	CD&V Ravels	Andriessen Nic	107574269395562	Facebook	1	1	1654	827	16	0
-45_54	45-54	BE	Belgium	Comité international de la Croix-Rouge		540364216018969	Facebook	1	1	1644	822	0	0
-45_54	45-54	BE	Belgium	N-VA Stad Antwerpen	Nieuw-Vlaamse Alliantie	379749768826697	Facebook	1	1	1638	819	16	0
-45_54	45-54	BE	Belgium	Democracy International		179304508751847	Facebook	2	1	1638	327	32	0
-45_54	45-54	BE	Belgium	Ecofusion		611063025664570	Facebook	1	1	1633	326	32	0
-45_54	45-54	BE	Belgium	Aimen Horch		2251600744900372	Facebook	2	1	1633	326	32	0
-45_54	45-54	BE	Belgium	Georges-Louis Bouchez		341174129258800	Facebook	2	1	1630	326	32	0
-45_54	45-54	BE	Belgium	Action Damien		121822074551891	Facebook	2	1	1627	325	32	0
-45_54	45-54	BE	Belgium	Pologize Fashion		274227073497806	Facebook	1	1	1623	811	14	7
-45_54	45-54	BE	Belgium	Stad Mechelen		119457121413101	Facebook	1	1	1622	811	16	0
-45_54	45-54	BE	Belgium	Mieke Schauvliege		580909235603988	Facebook	1	1	1617	809	16	0
-45_54	45-54	BE	Belgium	Unia		169945623038344	Facebook	1	1	1616	808	16	0
-45_54	45-54	BE	Belgium	Swing connects		1866553176803805	Facebook	5	1	1613	234	66	0
-45_54	45-54	BE	Belgium	Je Fais Ce que Je dis  et C'est ce qui fera la différence .		893798967476733	Facebook	2	1	1606	271	51	0
-45_54	45-54	BE	Belgium	Radical Pantry		531069674026158	Facebook	19	1	1599	339	9	0
-45_54	45-54	BE	Belgium	Femmes actives en réseau - f.a.r		469208646469054	Facebook	2	1	1597	319	31	0
-45_54	45-54	BE	Belgium	Fédération des Etudiants Libéraux		6520274567	Facebook	1	1	1595	319	31	0
-45_54	45-54	BE	Belgium	Pfizer Belgique Luxembourg		174580985921902	Facebook	1	1	1595	797	15	0
-45_54	45-54	BE	Belgium	Special Forces Group Belgium		382691308488833	Facebook	1	1	1590	318	2	0
-45_54	45-54	BE	Belgium	Core Restaurant Bruxelles		220993862141555	Facebook	1	1	1589	317	31	0
-45_54	45-54	BE	Belgium	Centre Vidéo De Bruxelles		100424240297782	Facebook	3	1	1582	645	41	0
-45_54	45-54	BE	Belgium	Jeremie Vaneeckhout	Sabels Jordy	1373626132778895	Facebook	2	1	1578	604	21	0
-45_54	45-54	BE	Belgium	Toitmat		112247246106896	Facebook	1	1	1570	314	31	0
-45_54	45-54	BE	Belgium	Steenrock		960413374053338	Facebook	1	1	1569	785	15	0
-45_54	45-54	BE	Belgium	Make Your Own Choice	Ferdinand Henry Y Van Der Gracht De Rommerswael	147419065870024	Facebook	4	1	1566	568	30	0
-45_54	45-54	BE	Belgium	Marleen Kauffmann	Kauffmann Marleen Johanna	282401575604281	Facebook	1	1	1552	776	15	0
-45_54	45-54	BE	Belgium	Ami Horowitz		42597808880	Facebook	3	1	1552	331	13	2
-45_54	45-54	BE	Belgium	Nathalie Muylle	Nathalie Muylle	1230985333669070	Facebook	3	1	1550	295	36	0
-45_54	45-54	BE	Belgium	C.A.I. - Centre d'Action Interculturelle		104518289643641	Facebook	1	1	1548	774	15	0
-45_54	45-54	BE	Belgium	Woodbrass		39488239955	Facebook	1	1	1544	308	15	3
-45_54	45-54	BE	Belgium	Gazeta Wyborcza		63563473556	Facebook	14	1	1521	295	4	0
-45_54	45-54	BE	Belgium	Equilibre des énergies		154645694605913	Facebook	1	1	1520	304	15	3
-45_54	45-54	BE	Belgium	Nawal Ben Hamou		1679805302238979	Facebook	1	1	1515	303	30	0
-45_54	45-54	BE	Belgium	Greenway Gent		187680727943222	Facebook	1	1	1504	300	29	0
-45_54	45-54	BE	Belgium	Bewel VZW		850996701724977	Facebook	1	1	1479	295	29	0
-45_54	45-54	BE	Belgium	Scoutshirts		1805046789751195	Facebook	5	1	1478	577	22	0
-45_54	45-54	BE	Belgium	Mamakis		193632804541995	Facebook	4	1	1459	635	14	0
-45_54	45-54	BE	Belgium	Nathalie Gilson		98338800358	Facebook	2	1	1458	291	28	0
-45_54	45-54	BE	Belgium	Les ateliers Ô Naturel		1823905801242495	Facebook	3	1	1458	291	28	0
-45_54	45-54	BE	Belgium	Health and Environment Alliance (HEAL)	The Health and Environment Alliance (HEAL)	208410145872548	Facebook	2	1	1453	290	28	0
-45_54	45-54	BE	Belgium	Office de la Naissance et de l'Enfance - ONE		1011269122226871	Facebook	1	1	1451	725	14	0
-45_54	45-54	BE	Belgium	Web Summit		294067420659309	Facebook	7	1	1440	521	27	5
-45_54	45-54	BE	Belgium	HSBB		665461030163516	Facebook	2	1	1430	643	26	0
-45_54	45-54	BE	Belgium	Edmund Stoffels		236209673780454	Facebook	2	1	1429	265	36	0
-45_54	45-54	BE	Belgium	Ensemble Pour Herstal	Norbert Jean N Weytjens	1758096321151168	Facebook	2	1	1424	255	39	0
-45_54	45-54	BE	Belgium	Belvilla		102689673106543	Facebook	7	1	1423	0	141	0
-45_54	45-54	BE	Belgium	David Davis		110086563163154	Facebook	24	1	1401	280	11	0
-45_54	45-54	BE	Belgium	Tous Carolos		281071619387829	Facebook	2	1	1400	280	27	0
-45_54	45-54	BE	Belgium	Christophe Calis		2396791870539800	Facebook	4	1	1395	147	79	0
-45_54	45-54	BE	Belgium	Pascal Masarotti		427056964497572	Facebook	1	1	1392	278	27	0
-45_54	45-54	BE	Belgium	Pieter De Crem		795215224016947	Facebook	2	1	1379	241	40	0
-45_54	45-54	BE	Belgium	Jo Vandeurzen	De Wulf Jens Leo J	330696130322935	Facebook	1	1	1372	686	13	0
-45_54	45-54	BE	Belgium	Pieter Marechal		199568797322680	Facebook	1	1	1350	675	13	0
-45_54	45-54	BE	Belgium	La Voix est Libre		228831061251660	Facebook	1	1	1340	268	26	0
-45_54	45-54	BE	Belgium	Less Saves The Planet		222697015050981	Facebook	2	1	1338	425	2	0
-45_54	45-54	BE	Belgium	NIESR		90639614591	Facebook	2	1	1334	625	23	0
-45_54	45-54	BE	Belgium	Thomas Wellens	Wellens Thomas	444370912980803	Facebook	5	1	1332	135	78	0
-45_54	45-54	BE	Belgium	La Libelle		766130173557711	Facebook	3	1	1325	0	131	0
-45_54	45-54	BE	Belgium	Ecolo Court-Saint-Etienne		271699126277396	Facebook	1	1	1321	264	23	0
-45_54	45-54	BE	Belgium	MINI Bilia-Emond Arlon		442922535768981	Facebook	1	1	1298	259	25	0
-45_54	45-54	BE	Belgium	Più Europa Bruxelles "In Europa"		865691316931492	Facebook	1	1	1297	648	12	0
-45_54	45-54	BE	Belgium	Bodhi		180826405278	Facebook	1	1	1291	645	12	0
-45_54	45-54	BE	Belgium	Tineke Van hooland		1532684023435325	Facebook	2	1	1289	540	31	0
-45_54	45-54	BE	Belgium	Happy-vrac		382976022168595	Facebook	1	1	1286	257	25	0
-45_54	45-54	BE	Belgium	Damien Thiery		153642371362130	Facebook	2	1	1281	256	25	0
-45_54	45-54	BE	Belgium	Technopolis		156577567699904	Facebook	1	1	1271	635	1	0
-45_54	45-54	BE	Belgium	Ecolo Durbuy		1296272377072952	Facebook	1	1	1257	251	24	0
-45_54	45-54	BE	Belgium	Jimmy Koppen		2269528713104353	Facebook	1	1	1253	250	24	0
-45_54	45-54	BE	Belgium	GroenPlus		130349730380	Facebook	2	1	1251	428	18	0
-45_54	45-54	BE	Belgium	Drimee Germany		678265145905178	Facebook	1	1	1251	625	5	1
-45_54	45-54	BE	Belgium	Cncd - 11.11.11  Bruxelles		831541136932974	Facebook	1	1	1242	621	10	0
-45_54	45-54	BE	Belgium	Marie Nagy		1422614191312240	Facebook	1	1	1238	247	24	0
-45_54	45-54	BE	Belgium	Foire de Libramont		188294511201100	Facebook	1	1	1233	616	12	0
-45_54	45-54	BE	Belgium	Alexander Mertens		885371334989863	Facebook	1	1	1226	245	24	0
-45_54	45-54	BE	Belgium	Zeynep Balci		441953183221978	Facebook	1	1	1222	244	24	0
-45_54	45-54	BE	Belgium	Steve & Els - campagne 2019		261941004685486	Facebook	1	1	1213	242	24	0
-45_54	45-54	BE	Belgium	Soonfeed		214615931960850	Facebook	7	1	1212	244	23	0
-45_54	45-54	BE	Belgium	Coconut Bowls		451945511677873	Facebook	67	1	1210	322	8	0
-45_54	45-54	BE	Belgium	Gert Poppe		203273320277456	Facebook	1	1	1209	604	11	0
-45_54	45-54	BE	Belgium	Cedrole		2056196017998413	Facebook	1	1	1204	240	21	0
-45_54	45-54	BE	Belgium	sp.a Dendermonde	sp.a Dendermonde	243740739113286	Facebook	1	1	1198	239	23	0
-45_54	45-54	BE	Belgium	CERI - Coordination des Enseignants de Religion Islamique		893173940743785	Facebook	2	1	1198	239	23	0
-45_54	45-54	BE	Belgium	37 ºC		1841873049391990	Facebook	1	1	1190	238	10	2
-45_54	45-54	BE	Belgium	Cdenv Anzegem		396367260493440	Facebook	2	1	1188	205	36	0
-45_54	45-54	BE	Belgium	La lutte contre toutes les formes de harcèlement et de discrimination		189192111991335	Facebook	1	1	1187	593	11	0
-45_54	45-54	BE	Belgium	PajoPower		110375035653012	Facebook	2	1	1185	200	38	0
-45_54	45-54	BE	Belgium	Pia Desmet		397622117693139	Facebook	2	1	1184	378	18	0
-45_54	45-54	BE	Belgium	De Aanstokerij		112550468786107	Facebook	2	1	1184	236	23	0
-45_54	45-54	BE	Belgium	Burgerplatform.Gent		1952743984797308	Facebook	2	1	1183	208	34	0
-45_54	45-54	BE	Belgium	Canada-Europe		1071598359708953	Facebook	1	1	1173	234	20	0
-45_54	45-54	BE	Belgium	Event4Biz		571361099914337	Facebook	1	1	1160	232	22	0
-45_54	45-54	BE	Belgium	Pela Case		119283008140727	Facebook	14	1	1158	392	2	0
-45_54	45-54	BE	Belgium	Comme Avant		816074091903635	Facebook	1	1	1154	577	11	5
-45_54	45-54	BE	Belgium	Incredible Oasis		266043087264434	Facebook	1	1	1150	230	22	0
-45_54	45-54	BE	Belgium	Neen, geen mega moskee in Hasselt		484928445187236	Facebook	3	1	1149	120	66	0
-45_54	45-54	BE	Belgium	Gilles Foret		172029539986110	Facebook	2	1	1147	229	22	0
-45_54	45-54	BE	Belgium	Tine Soens	Tine Joselyne Soens	1778402815798036	Facebook	2	1	1147	229	22	0
-45_54	45-54	BE	Belgium	Upbility.fr		1671932236393052	Facebook	1	1	1146	229	2	0
-45_54	45-54	BE	Belgium	ABVV West-Vlaanderen		361238384034677	Facebook	1	1	1146	229	22	0
-45_54	45-54	BE	Belgium	Jeanne Magazine		1431517403731316	Facebook	1	1	1144	572	1	0
-45_54	45-54	BE	Belgium	Dominique Piton		334627377087903	Facebook	2	1	1137	194	35	0
-45_54	45-54	BE	Belgium	Davidsfonds Hoegaarden		127761998050230	Facebook	1	1	1133	226	22	0
-45_54	45-54	BE	Belgium	KoopjeTrends		320663351897554	Facebook	8	1	1130	149	52	0
-45_54	45-54	BE	Belgium	ACOD Limburg		880006905441714	Facebook	1	1	1119	224	22	0
-45_54	45-54	BE	Belgium	Gregory Lucas		233531184091095	Facebook	1	1	1119	224	22	0
-45_54	45-54	BE	Belgium	Koksijde Vooruit		1965658216782889	Facebook	2	1	1114	184	37	0
-45_54	45-54	BE	Belgium	Jean Lefebvre		244855445617475	Facebook	1	1	1110	222	21	0
-45_54	45-54	BE	Belgium	Jeroen Vermeiren		923445164391905	Facebook	1	1	1110	222	21	0
-45_54	45-54	BE	Belgium	Familles du Monde asbl		768490986530666	Facebook	2	1	1100	220	21	0
-45_54	45-54	BE	Belgium	Miséricorde pour l'Humanité France		596904657000107	Facebook	7	1	1096	376	8	1
-45_54	45-54	BE	Belgium	Europeana.eu		10261403667	Facebook	2	1	1096	445	1	0
-45_54	45-54	BE	Belgium	Cécile Jodogne		812728452152024	Facebook	1	1	1095	219	21	0
-45_54	45-54	BE	Belgium	Lovius Advocaten		1875297266062548	Facebook	1	1	1094	218	21	0
-45_54	45-54	BE	Belgium	ExpoRomania		404000123492439	Facebook	2	1	1091	545	10	0
-45_54	45-54	BE	Belgium	Evi Robert voor Europa		277540613176324	Facebook	4	1	1090	178	37	0
-45_54	45-54	BE	Belgium	Vlaams Belang Leuven		311324832291184	Facebook	1	1	1088	217	21	0
-45_54	45-54	BE	Belgium	TV Populaire		380582856088978	Facebook	11	1	1083	187	22	0
-45_54	45-54	BE	Belgium	sp.a oost-vlaanderen		543987882348921	Facebook	1	1	1082	216	19	0
-45_54	45-54	BE	Belgium	Vautmans Hilde		2415125145187731	Facebook	2	1	1080	175	37	0
-45_54	45-54	BE	Belgium	Adeline Blancquaert		756809214718304	Facebook	1	1	1078	215	21	0
-45_54	45-54	BE	Belgium	EPP Group in the European Committee of the Regions		200559876664896	Facebook	3	1	1073	214	10	2
-45_54	45-54	BE	Belgium	MasterClass		687589164666184	Facebook	3	1	1072	536	4	0
-45_54	45-54	BE	Belgium	CD&V Lier-Koningshooikt	Penen Maxime	550301101647461	Facebook	2	1	1070	214	21	0
-45_54	45-54	BE	Belgium	Rendez-vous culturels in Belgium		130444604030025	Facebook	2	1	1062	186	31	0
-45_54	45-54	BE	Belgium	Youth 4 climate Aalst		2102462819861828	Facebook	1	1	1060	530	9	0
-45_54	45-54	BE	Belgium	Delphine Chabbert, candidate d'ouverture, 4e à Bruxelles #touteslesfamilles	Delphine Chabbert	989742204557872	Facebook	1	1	1059	212	20	0
-45_54	45-54	BE	Belgium	Ma Louloute		1785920768332910	Facebook	1	1	1057	211	2	0
-45_54	45-54	BE	Belgium	Jan Moons N-VA		253695775195717	Facebook	3	1	1049	146	46	0
-45_54	45-54	BE	Belgium	Platinum Car-Wash		119245815420213	Facebook	2	1	1046	168	37	0
-45_54	45-54	BE	Belgium	Peter Persyn	Van San Jeroen Edward C	374328916307415	Facebook	1	1	1044	208	20	0
-45_54	45-54	BE	Belgium	Maxime DAYE		1379710762295495	Facebook	1	1	1040	208	20	0
-45_54	45-54	BE	Belgium	Les Journées Imagine		758564571197612	Facebook	1	1	1039	207	20	0
-45_54	45-54	BE	Belgium	Toon De Bock		416875575718845	Facebook	1	1	1032	206	20	0
-45_54	45-54	BE	Belgium	Caroline Dupont - 8e candidate à la chambre		1130594393778826	Facebook	1	1	1031	206	20	0
-45_54	45-54	BE	Belgium	Luc in Geraardsbergen		1649181968484592	Facebook	1	1	1027	205	20	0
-45_54	45-54	BE	Belgium	Caritas International.be		318423514835874	Facebook	2	1	1026	166	35	0
-45_54	45-54	BE	Belgium	Open VLD Lommel		141484842646810	Facebook	1	1	1018	203	20	0
-45_54	45-54	BE	Belgium	La Ligue de l'Enseignement et de l'Education permanente		400719310011289	Facebook	2	1	1015	203	20	0
-45_54	45-54	BE	Belgium	Albinisme: Née blanche de parents noirs		586296814844544	Facebook	2	1	1014	196	22	0
-45_54	45-54	BE	Belgium	Audrey Henry	Audrey Henry	502988170105713	Facebook	1	1	1010	202	20	0
-45_54	45-54	BE	Belgium	De andere kant Van het verhaal		256632041401290	Facebook	1	1	1009	201	19	0
-45_54	45-54	BE	Belgium	Sébastien Dewailly	Sébastien Dewailly	347034845930735	Facebook	1	1	1008	201	19	0
-45_54	45-54	BE	Belgium	Zeger Debyser-pagina	Debyser Zeger Marie J	202937930480361	Facebook	3	1	1005	134	46	0
-45_54	45-54	BE	Belgium	WonderFul Women - Le Réseau des Femmes porteuses de projets		491619827570953	Facebook	1	1	1003	200	19	0
-45_54	45-54	BE	Belgium	Comité de soutien "Lionel Pistone"  - élections 2019		2652972174718380	Facebook	1	1	999	200	17	0
-45_54	45-54	BE	Belgium	Els Verté	Verté Elsje Martine	421879891957030	Facebook	1	1	999	0	99	0
-45_54	45-54	BE	Belgium	Vrouwenraad		353049508109330	Facebook	1	1	997	199	19	0
-45_54	45-54	BE	Belgium	Politique Revue de Débats		420865441397076	Facebook	1	1	994	198	19	0
-45_54	45-54	BE	Belgium	Mariposa		50140848310	Facebook	2	1	990	164	33	0
-45_54	45-54	BE	Belgium	European Public Service Unions (EPSU)		210131205692325	Facebook	1	1	989	197	19	0
-45_54	45-54	BE	Belgium	GAîA		389280808172899	Facebook	3	1	985	491	1	0
-45_54	45-54	BE	Belgium	Çavaria		96380798126	Facebook	1	1	979	489	9	0
-45_54	45-54	BE	Belgium	La Peuplade		154905371257195	Facebook	1	1	976	488	32	6
-45_54	45-54	BE	Belgium	Open Vld Brussel		1589760981258549	Facebook	4	1	976	181	24	0
-45_54	45-54	BE	Belgium	I Love Crowdfunding Projects		112683756154005	Facebook	5	1	969	259	7	1
-45_54	45-54	BE	Belgium	sp.a Izegem	Justine Liliane Hollevoet 	600655766687497	Facebook	1	1	963	192	19	0
-45_54	45-54	BE	Belgium	Inventio		1505754236345896	Facebook	1	1	963	481	9	0
-45_54	45-54	BE	Belgium	Haydi Tatile		2107340192658838	Facebook	2	1	956	191	1	0
-45_54	45-54	BE	Belgium	Charlis Pictures		347330332733686	Facebook	1	1	955	191	18	0
-45_54	45-54	BE	Belgium	A-Law International Law Firm		1545065972470728	Facebook	1	1	953	190	18	0
-45_54	45-54	BE	Belgium	Uitpers: Webzine voor Internationale Politiek		222604112140	Facebook	1	1	952	190	18	0
-45_54	45-54	BE	Belgium	Natalie Eggermont	PVDA	415595709204858	Facebook	1	1	948	189	18	0
-45_54	45-54	BE	Belgium	Mademoiselle Collard		377210635633560	Facebook	1	1	948	189	18	0
-45_54	45-54	BE	Belgium	Clara Calis		1047512478740212	Facebook	1	1	940	188	18	0
-45_54	45-54	BE	Belgium	CD&V Hamont-Achel		197386423639978	Facebook	1	1	938	187	18	0
-45_54	45-54	BE	Belgium	Sofie Van Wesemael-pagina		2081743795475713	Facebook	1	1	932	186	18	0
-45_54	45-54	BE	Belgium	Français de Belgique-adfe		707407859382435	Facebook	1	1	932	186	18	0
-45_54	45-54	BE	Belgium	Emergency Medical School		1661652170764001	Facebook	1	1	931	465	9	0
-45_54	45-54	BE	Belgium	Ecolo Villers-la-Ville		487177894793966	Facebook	1	1	918	183	18	0
-45_54	45-54	BE	Belgium	ВОЛЯ - Българските Родолюбци		317433685633688	Facebook	1	1	914	182	1	0
-45_54	45-54	BE	Belgium	GUE/NGL		164355333623231	Facebook	4	1	914	202	10	0
-45_54	45-54	BE	Belgium	Jonathan de Patoul - DéFI	Jonathan Daniël S de Patoul	2069381119775596	Facebook	1	1	910	182	18	0
-45_54	45-54	BE	Belgium	éditions markus haller		74203385744	Facebook	2	1	908	181	1	0
-45_54	45-54	BE	Belgium	Oxygène - Hamois		405725843286574	Facebook	1	1	900	180	17	0
-45_54	45-54	BE	Belgium	eToro		193863317737	Facebook	16	1	899	389	3	0
-45_54	45-54	BE	Belgium	Transparencia		1100531570030618	Facebook	1	1	896	179	17	0
-45_54	45-54	BE	Belgium	Dominic Tholen. CD&V Zonhoven	Tholen Dominic Louis P	449347242139552	Facebook	1	1	893	178	17	0
-45_54	45-54	BE	Belgium	0eurobanknotes.eu		637562769972549	Facebook	1	1	891	446	8	0
-45_54	45-54	BE	Belgium	Ecolo Groen Saint-Josse Sint Joost		308091105878113	Facebook	1	1	890	178	17	0
-45_54	45-54	BE	Belgium	Hicham El Mzairh		39050546817	Facebook	1	1	890	178	17	0
-45_54	45-54	BE	Belgium	Créasport-Paradise		656035397918165	Facebook	1	1	883	176	17	0
-45_54	45-54	BE	Belgium	The Little Sticker		348269919047509	Facebook	1	1	880	176	17	0
-45_54	45-54	BE	Belgium	"L'Homme Qui Parle Avec Les Plantes"		153849954625182	Facebook	1	1	879	175	17	0
-45_54	45-54	BE	Belgium	Magalie Verstraelen		478865082572412	Facebook	2	1	877	153	26	0
-45_54	45-54	BE	Belgium	misterb&b		206250622847748	Facebook	5	1	875	109	33	0
-45_54	45-54	BE	Belgium	LANG		300117257365907	Facebook	4	1	872	170	4	0
-45_54	45-54	BE	Belgium	Overijse2002	Van San Jeroen Edward C	298591964119	Facebook	1	1	871	174	17	0
-45_54	45-54	BE	Belgium	Charmed Aroma		260189510813687	Facebook	2	1	870	174	1	0
-45_54	45-54	BE	Belgium	Schoenen Torfs		144050788941735	Facebook	1	1	864	172	17	0
-45_54	45-54	BE	Belgium	Renaud Deveen		404705109632909	Facebook	1	1	864	172	17	0
-45_54	45-54	BE	Belgium	Olivier Coppens	Olivier Coppens	2086435664734819	Facebook	1	1	861	172	17	0
-45_54	45-54	BE	Belgium	Refresh Brussels		785452454831272	Facebook	1	1	858	429	8	0
-45_54	45-54	BE	Belgium	Home.Made.Collection		1411162358989023	Facebook	2	1	855	155	23	0
-45_54	45-54	BE	Belgium	La baraka Asbl		404453696424420	Facebook	1	1	854	171	15	0
-45_54	45-54	BE	Belgium	Hasina Christen, FemininCoaching		1766108480283418	Facebook	2	1	853	334	10	0
-45_54	45-54	BE	Belgium	Casa Nicaragua		1604423549808759	Facebook	1	1	851	170	16	0
-45_54	45-54	BE	Belgium	Annick Laloux-Ruelle		630009867450719	Facebook	2	1	850	137	29	0
-45_54	45-54	BE	Belgium	Zonnepanelen-stroom.be		305897270248915	Facebook	3	1	849	0	84	0
-45_54	45-54	BE	Belgium	EditionsMassot		721002178068757	Facebook	2	1	849	167	3	0
-45_54	45-54	BE	Belgium	De Dagmoed		542457896147033	Facebook	1	1	849	170	16	0
-45_54	45-54	BE	Belgium	South African Travellers		458373850849695	Facebook	1	1	846	169	1	0
-45_54	45-54	BE	Belgium	Outspot		116185713188	Facebook	3	1	846	0	83	0
-45_54	45-54	BE	Belgium	Simon De Boeck - 1e schepen Gooik	De Boeck Simon	781750292026149	Facebook	1	1	845	169	16	0
-45_54	45-54	BE	Belgium	Rupture & Renouveau		352667488928885	Facebook	1	1	845	169	16	0
-45_54	45-54	BE	Belgium	Guido Vaganee		391476725004619	Facebook	1	1	844	168	14	0
-45_54	45-54	BE	Belgium	SD Worx		1655757894448108	Facebook	1	1	843	421	9	0
-45_54	45-54	BE	Belgium	Yéléna Matuziak		2320272804871937	Facebook	2	1	842	135	29	0
-45_54	45-54	BE	Belgium	Luc Mathues - CDH		1203644643128988	Facebook	1	1	840	168	16	0
-45_54	45-54	BE	Belgium	Frank Vroonen	Vroonen Frank Gert H	372220956948780	Facebook	1	1	835	167	16	0
-45_54	45-54	BE	Belgium	ACOD		436150076422757	Facebook	1	1	828	165	16	0
-45_54	45-54	BE	Belgium	Enicorp service		1885446301567412	Facebook	1	1	826	165	14	0
-45_54	45-54	BE	Belgium	Bruno Berrendorf Parti Populaire Verviers		2152919811404296	Facebook	1	1	825	165	16	0
-45_54	45-54	BE	Belgium	Burgers tegen terreur		569267593231204	Facebook	1	1	825	165	14	0
-45_54	45-54	BE	Belgium	Burger Opinie		378236285913266	Facebook	2	1	821	411	8	0
-45_54	45-54	BE	Belgium	N-VA Anzegem		168627889875291	Facebook	1	1	818	163	16	0
-45_54	45-54	BE	Belgium	FontBundles.net		1653056048283270	Facebook	3	1	818	341	3	0
-45_54	45-54	BE	Belgium	Bram Heylen	Heylen Bram	812636525751167	Facebook	1	1	814	162	16	0
-45_54	45-54	BE	Belgium	Sarah M.		541715842956056	Facebook	1	1	813	162	16	0
-45_54	45-54	BE	Belgium	De Liberalisten		193566098045383	Facebook	5	1	812	101	40	0
-45_54	45-54	BE	Belgium	MONA Mpembele		1866947956712564	Facebook	1	1	806	161	15	0
-45_54	45-54	BE	Belgium	Roel Van Elsacker	Van Elsacker Roel	755735138160727	Facebook	1	1	805	161	15	0
-45_54	45-54	BE	Belgium	Michaël Loriaux		821202844881093	Facebook	1	1	805	161	15	0
-45_54	45-54	BE	Belgium	Climate News Hub	EU News	1640153586244243	Facebook	1	1	802	160	1	0
-45_54	45-54	BE	Belgium	Alana Alastair		260182614922220	Facebook	15	1	802	106	37	0
-45_54	45-54	BE	Belgium	VIER VOETERS		110540418715	Facebook	9	1	801	278	13	0
-45_54	45-54	BE	Belgium	Art. Without Borders		524265131108843	Facebook	1	1	801	160	15	0
-45_54	45-54	BE	Belgium	Ditjon Kraja - Election 2019		306781353351999	Facebook	1	1	800	160	15	0
-45_54	45-54	BE	Belgium	Cercle du Libre Examen de l'ULB		438578839595737	Facebook	1	1	799	399	7	0
-45_54	45-54	BE	Belgium	Valérie Glatigny	MR	387721968487506	Facebook	1	1	798	159	15	0
-45_54	45-54	BE	Belgium	Grootouders voor het Klimaat Be		2070094243041414	Facebook	2	1	798	132	26	0
-45_54	45-54	BE	Belgium	Jan De Volder		250105722223585	Facebook	1	1	789	157	15	0
-45_54	45-54	BE	Belgium	Viva Salud		196475773296	Facebook	1	1	789	157	15	0
-45_54	45-54	BE	Belgium	Els Ampe		476508605702861	Facebook	1	1	772	154	15	0
-45_54	45-54	BE	Belgium	Ecolo Luxembourg	Ecolo	265430440298543	Facebook	1	1	771	154	15	0
-45_54	45-54	BE	Belgium	Wibio		403603269665787	Facebook	1	1	769	153	15	0
-45_54	45-54	BE	Belgium	Angarde		468640369948298	Facebook	4	1	762	210	13	0
-45_54	45-54	BE	Belgium	sp.a Torhout		633104893482476	Facebook	2	1	756	140	19	0
-45_54	45-54	BE	Belgium	Gabriel Persoons		2267840976823744	Facebook	1	1	753	150	14	0
-45_54	45-54	BE	Belgium	Are you R Dutch		318421238756288	Facebook	3	1	751	134	21	0
-45_54	45-54	BE	Belgium	Eco et Moi		249837975886193	Facebook	9	1	750	130	22	0
-45_54	45-54	BE	Belgium	Glenn Ennekens		1895078240801973	Facebook	1	1	748	149	14	0
-45_54	45-54	BE	Belgium	Vlaams Belang Noord-Limburg		1616405871795502	Facebook	1	1	742	148	14	0
-45_54	45-54	BE	Belgium	Volt België		1620310611353628	Facebook	2	1	735	338	12	0
-45_54	45-54	BE	Belgium	Groen Edegem		132812442651	Facebook	1	1	734	146	14	0
-45_54	45-54	BE	Belgium	Aubry Meyers - Défi Liège		480986099012384	Facebook	1	1	731	146	14	0
-45_54	45-54	BE	Belgium	José Manuel Fernandes		255056481315205	Facebook	1	1	729	364	7	0
-45_54	45-54	BE	Belgium	Mons en Mieux		108452529925989	Facebook	1	1	728	145	14	0
-45_54	45-54	BE	Belgium	La Tourkana Asbl		272980486175101	Facebook	1	1	723	144	14	0
-45_54	45-54	BE	Belgium	A Solution to Plastic Pollution - First International Online Summit		1098001547034272	Facebook	12	1	719	265	5	0
-45_54	45-54	BE	Belgium	Anani Sossou Officiel		1839264332826510	Facebook	1	1	718	359	7	0
-45_54	45-54	BE	Belgium	Lava Revue		1655631108076352	Facebook	2	1	712	142	14	0
-45_54	45-54	BE	Belgium	Vlaams belang Aalst		1655957894503403	Facebook	1	1	711	142	14	0
-45_54	45-54	BE	Belgium	Patrick Prévot		445466155584975	Facebook	1	1	709	141	14	0
-45_54	45-54	BE	Belgium	European Free Alliance	European Free Alliance	46708306425	Facebook	1	1	708	141	14	0
-45_54	45-54	BE	Belgium	Tom Vandendriessche		603811736730421	Facebook	3	1	707	126	17	0
-45_54	45-54	BE	Belgium	André YINDA YINDA - Turquoise		355973298354745	Facebook	3	1	699	0	69	0
-45_54	45-54	BE	Belgium	Femmes de droit		362348900835067	Facebook	1	1	698	139	13	0
-45_54	45-54	BE	Belgium	Gbevile- Enfants De La Vie Asbl		755659637920123	Facebook	2	1	697	114	21	0
-45_54	45-54	BE	Belgium	Andy Pieters		1896823800416784	Facebook	1	1	697	139	13	0
-45_54	45-54	BE	Belgium	Jelle Lauwereys		521684468358129	Facebook	1	1	688	137	13	0
-45_54	45-54	BE	Belgium	Fizz		1505230006462152	Facebook	1	1	686	343	6	0
-45_54	45-54	BE	Belgium	Selexion		155470237817906	Facebook	1	1	684	136	13	0
-45_54	45-54	BE	Belgium	desiRED - Digital Strategy Agency	desiRED Digital Strategy Agency	1712512312399812	Facebook	1	1	682	341	6	0
-45_54	45-54	BE	Belgium	Basmah		137973986840264	Facebook	20	1	663	142	5	0
-45_54	45-54	BE	Belgium	EURASHE		146286552151990	Facebook	1	1	663	132	11	0
-45_54	45-54	BE	Belgium	The Handbag Spa		112991265381435	Facebook	2	1	655	131	15	0
-45_54	45-54	BE	Belgium	Olivier Gasia		340323292718967	Facebook	1	1	650	130	12	0
-45_54	45-54	BE	Belgium	The Barn Bio Market - Etterbeek		1767703483548430	Facebook	1	1	648	129	12	0
-45_54	45-54	BE	Belgium	Greenway Leuven		251439738233911	Facebook	1	1	647	129	12	0
-45_54	45-54	BE	Belgium	World Jewish Congress		130945114804	Facebook	1	1	645	322	1	0
-45_54	45-54	BE	Belgium	Jessie Angel		101801076663588	Facebook	1	1	644	128	12	0
-45_54	45-54	BE	Belgium	Groen Herent		117902231630072	Facebook	1	1	642	128	12	0
-45_54	45-54	BE	Belgium	Sam Voeten	Voeten Sam	529123987163459	Facebook	3	1	639	235	14	0
-45_54	45-54	BE	Belgium	Proriott		3097198860306172	Facebook	2	1	638	165	5	0
-45_54	45-54	BE	Belgium	So Sweet Planet - Droits humains, Culture, Environnement		364981533564314	Facebook	2	1	636	127	2	0
-45_54	45-54	BE	Belgium	European Young Leaders - EYL40		227054030686626	Facebook	2	1	634	126	1	0
-45_54	45-54	BE	Belgium	Manu Douette		727590607265719	Facebook	1	1	630	126	12	0
-45_54	45-54	BE	Belgium	L'atelier Nature		2152842461398035	Facebook	2	1	630	94	25	0
-45_54	45-54	BE	Belgium	Margot Desmet		253943212160826	Facebook	1	1	628	125	12	0
-45_54	45-54	BE	Belgium	Full Circle Ideas		1403057059936243	Facebook	1	1	626	125	12	0
-45_54	45-54	BE	Belgium	Benjamin.Roumache		660791757672633	Facebook	2	1	623	101	21	0
-45_54	45-54	BE	Belgium	Zero Waste Vlaanderen		1753620627997912	Facebook	1	1	619	123	12	0
-45_54	45-54	BE	Belgium	Olivier Chastel	MR - Mouvement Réformateur	36858143935	Facebook	1	1	616	308	6	0
-45_54	45-54	BE	Belgium	Norm		304094226922809	Facebook	1	1	603	120	11	0
-45_54	45-54	BE	Belgium	Magik? vzw		105011479556726	Facebook	1	1	601	120	11	0
-45_54	45-54	BE	Belgium	Matthew Hussey		525275707491504	Facebook	8	1	596	241	5	1
-45_54	45-54	BE	Belgium	Erebunishop	Gevorgyan Armen	379144266143377	Facebook	1	1	593	118	11	0
-45_54	45-54	BE	Belgium	Robrecht Bothuyne	D'hauwer Pieter	365185737579327	Facebook	1	1	592	118	11	0
-45_54	45-54	BE	Belgium	VZWGent4Humanity refugee support.		1622449304739556	Facebook	1	1	589	117	11	0
-45_54	45-54	BE	Belgium	CO2LOGIC		235231106388	Facebook	1	1	582	116	11	0
-45_54	45-54	BE	Belgium	ISNAT asbl		1758988670981113	Facebook	3	1	580	0	57	0
-45_54	45-54	BE	Belgium	Raoul Boucke		1378051212479416	Facebook	1	1	579	115	11	0
-45_54	45-54	BE	Belgium	Groen Huldenberg		301300999905726	Facebook	1	1	579	115	11	0
-45_54	45-54	BE	Belgium	Les Députés les Lobbys et les Truands		411935312720641	Facebook	1	1	578	289	5	0
-45_54	45-54	BE	Belgium	Écologie pour tous		291135058269641	Facebook	7	1	577	79	25	0
-45_54	45-54	BE	Belgium	Amanaty		169818833637810	Facebook	4	1	576	113	5	0
-45_54	45-54	BE	Belgium	Talking Europe		316028505828375	Facebook	3	1	573	280	2	0
-45_54	45-54	BE	Belgium	Jo Leinen		290293517710818	Facebook	3	1	566	113	11	0
-45_54	45-54	BE	Belgium	Anna Maria Corazza Bildt		69490331421	Facebook	1	1	563	281	5	2
-45_54	45-54	BE	Belgium	Femke Verleye		1764114113698208	Facebook	1	1	561	112	11	0
-45_54	45-54	BE	Belgium	Polis		953676661312241	Facebook	3	1	558	0	55	0
-45_54	45-54	BE	Belgium	Clémentine Barzin		175743819727736	Facebook	1	1	558	111	11	0
-45_54	45-54	BE	Belgium	THE OVAL OFFICE		287894111248664	Facebook	1	1	547	109	10	0
-45_54	45-54	BE	Belgium	Tom De Meester		409051602452966	Facebook	1	1	542	271	5	0
-45_54	45-54	BE	Belgium	Jonge Socialisten		301866806586975	Facebook	1	1	540	108	10	0
-45_54	45-54	BE	Belgium	Qu'est-ce qu'on fait ?		404397306402564	Facebook	1	1	540	108	1	0
-45_54	45-54	BE	Belgium	Anne Dedry	Groen	560441334046098	Facebook	1	1	533	106	10	0
-45_54	45-54	BE	Belgium	5Pillars	5 Pillars	490858150969676	Facebook	2	1	529	264	7	2
-45_54	45-54	BE	Belgium	Deutschland.de		31292782350	Facebook	10	1	521	104	9	0
-45_54	45-54	BE	Belgium	Scandinavian Enviro Systems		327110574829848	Facebook	7	1	521	211	0	0
-45_54	45-54	BE	Belgium	Le Hors Humain		196064127074013	Facebook	2	1	518	103	10	0
-45_54	45-54	BE	Belgium	Nature Index		145327659223282	Facebook	11	1	515	153	1	0
-45_54	45-54	BE	Belgium	Sustainable Family		189090575022311	Facebook	1	1	513	102	10	0
-45_54	45-54	BE	Belgium	Monaco Tribune		561536140964487	Facebook	1	1	511	102	0	0
-45_54	45-54	BE	Belgium	Imagine 1080 #		119622665399132	Facebook	1	1	506	101	10	0
-45_54	45-54	BE	Belgium	Arab Cartoon Festival مهرجان الكاريكاتير العربي		190681991324614	Facebook	1	1	503	100	9	0
-45_54	45-54	BE	Belgium	Madeau		895207380657167	Facebook	1	1	497	99	9	0
-45_54	45-54	BE	Belgium	KitchenHugs		132754006826352	Facebook	3	1	497	68	22	0
-45_54	45-54	BE	Belgium	Berlin Beer Week		789641531111955	Facebook	3	1	495	99	0	0
-45_54	45-54	BE	Belgium	Feminn		1831978070233335	Facebook	3	1	494	236	5	0
-45_54	45-54	BE	Belgium	Solvay Digital Society		384469715258601	Facebook	1	1	494	98	9	0
-45_54	45-54	BE	Belgium	Wim's opinie over binnen-en buitenlandse politiek		505945162914922	Facebook	2	1	490	0	48	0
-45_54	45-54	BE	Belgium	Subpod		839183619577851	Facebook	4	1	484	96	0	0
-45_54	45-54	BE	Belgium	Studio Fiftyfifty		723330234477381	Facebook	1	1	484	96	8	0
-45_54	45-54	BE	Belgium	Jessika Soors	Groen	258782685014199	Facebook	1	1	483	96	9	0
-45_54	45-54	BE	Belgium	Minister Harald Mollers		1869992013240347	Facebook	3	1	483	35	33	0
-45_54	45-54	BE	Belgium	Betrouwbare financiering		647508225700909	Facebook	1	1	483	96	8	0
-45_54	45-54	BE	Belgium	Secours Protestant		280287032073205	Facebook	1	1	479	239	4	0
-45_54	45-54	BE	Belgium	IPPF European Network		1639235713010069	Facebook	1	1	475	95	9	0
-45_54	45-54	BE	Belgium	Jasper Baeyens	Baeyens Jasper	1052517274922436	Facebook	1	1	472	94	9	0
-45_54	45-54	BE	Belgium	N-VA Hooglede Gits		536655126395508	Facebook	2	1	469	0	46	0
-45_54	45-54	BE	Belgium	Boite À Pandore		679569228824815	Facebook	1	1	469	93	9	0
-45_54	45-54	BE	Belgium	Dries van Hecke		246951996024690	Facebook	1	1	469	94	9	0
-45_54	45-54	BE	Belgium	Fjällräven Belgium		405574896861332	Facebook	2	1	465	0	53	0
-45_54	45-54	BE	Belgium	HK		133379014397	Facebook	1	1	463	92	0	0
-45_54	45-54	BE	Belgium	Freaking Natural		2168005026626582	Facebook	1	1	462	92	9	0
-45_54	45-54	BE	Belgium	Anita Pannebakker D66		581269312322294	Facebook	2	1	459	32	32	0
-45_54	45-54	BE	Belgium	Foodpowerr		625107021262384	Facebook	2	1	458	91	4	0
-45_54	45-54	BE	Belgium	Fast Visa		324980794221392	Facebook	3	1	457	228	4	0
-45_54	45-54	BE	Belgium	Miapetra Kumpula-Natri	Euroopassa Suomen tähden  / Miapetra Kumpula-Natri	922311201130062	Facebook	1	1	445	89	3	0
-45_54	45-54	BE	Belgium	صوت الجالية العراقية		1193611344026074	Facebook	1	1	439	87	8	0
-45_54	45-54	BE	Belgium	Alexandre Del Valle		210163002528350	Facebook	1	1	434	86	8	0
-45_54	45-54	BE	Belgium	Futureproofed		135169209885911	Facebook	1	1	434	86	8	0
-45_54	45-54	BE	Belgium	WNeedTools		209089213361388	Facebook	4	1	431	79	21	0
-45_54	45-54	BE	Belgium	Journée internationale contre l'homophobie et la transphobie		321171737911787	Facebook	1	1	431	215	2	0
-45_54	45-54	BE	Belgium	On t’aime la terre		705312676523295	Facebook	3	1	428	67	15	0
-45_54	45-54	BE	Belgium	Vadim Rotari		516538278845787	Facebook	3	1	426	92	1	0
-45_54	45-54	BE	Belgium	Open Society Roma Initiatives		369567809754486	Facebook	1	1	425	85	0	0
-45_54	45-54	BE	Belgium	HuNeeds		448538928899046	Facebook	1	1	425	85	7	0
-45_54	45-54	BE	Belgium	Editions Tallandier		427148584027333	Facebook	1	1	420	210	4	0
-45_54	45-54	BE	Belgium	ISDEF Expo		256740924454183	Facebook	1	1	415	83	1	0
-45_54	45-54	BE	Belgium	Hoagard		331529506998997	Facebook	19	1	414	88	0	0
-45_54	45-54	BE	Belgium	The Good Lobby		1420129598280317	Facebook	8	1	413	98	1	0
-45_54	45-54	BE	Belgium	Le Courrier d'Europe centrale		387639116472	Facebook	4	1	413	82	1	0
-45_54	45-54	BE	Belgium	Bamboow		404966726950708	Facebook	1	1	404	202	4	0
-45_54	45-54	BE	Belgium	Collision Conf		205093963028353	Facebook	7	1	402	129	4	0
-45_54	45-54	BE	Belgium	Timothy Rowies	Rowies Timothy	230172250986880	Facebook	1	1	401	200	3	0
-45_54	45-54	BE	Belgium	Nelissen Verzekeringen		1478635138847739	Facebook	1	1	399	0	39	0
-45_54	45-54	BE	Belgium	Attentia		262990180445505	Facebook	1	1	399	0	35	0
-45_54	45-54	BE	Belgium	Ecolo Chaudfontaine	Thelen Lionel Willy	1615520988700439	Facebook	2	1	398	0	39	0
-45_54	45-54	BE	Belgium	Cafécitoyen		194927071110390	Facebook	1	1	395	79	7	0
-45_54	45-54	BE	Belgium	Bethea-Dervaux Nathalie		2235428246700966	Facebook	1	1	393	78	7	0
-45_54	45-54	BE	Belgium	Eddy Van de Walle		1785382688426015	Facebook	2	1	391	0	38	0
-45_54	45-54	BE	Belgium	Clone Evolution		1345821958781389	Facebook	1	1	386	154	6	3
-45_54	45-54	BE	Belgium	Regards protestants		454207341304040	Facebook	4	1	384	52	17	0
-45_54	45-54	BE	Belgium	Inner Engineering		360920523934075	Facebook	1	1	382	76	0	0
-45_54	45-54	BE	Belgium	I love Mortsel	Vllazeria  Amarildo	331619486900252	Facebook	2	1	381	0	37	0
-45_54	45-54	BE	Belgium	PVDA Cultuur		1754196194702906	Facebook	1	1	380	76	7	0
-45_54	45-54	BE	Belgium	Wake Up Europe	The Wake Up Foundation	837779036265612	Facebook	1	1	378	75	0	0
+advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	age_code_filter	age_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+Vlaams Belang	Vlaams Belang	56605856504	Facebook	45_54	45-54	BE	Belgium	9	1	245540	122407	3173	1221
+Tom Van Grieken	Vlaams Belang	584806884924010	Facebook	45_54	45-54	BE	Belgium	5	1	156134	64649	2288	448
+Open Vld	Open Vld	53668151866	Facebook	45_54	45-54	BE	Belgium	29	1	147612	48776	1113	159
+Parti Populaire - Le Peuple	Parti Populaire - Le Peuple	482811111771571	Facebook	45_54	45-54	BE	Belgium	3	1	130764	50536	1258	244
+CDH - Centre Démocrate Humaniste	CDH - Centre Démocrate Humaniste	189649407806135	Facebook	45_54	45-54	BE	Belgium	34	1	82563	22933	611	0
+Peter Mertens	PVDA	236485149843971	Facebook	45_54	45-54	BE	Belgium	7	1	58955	26078	278	50
+Barbara Pas	Vlaams Belang	365242667182267	Facebook	45_54	45-54	BE	Belgium	1	1	32860	16430	164	82
+CDH liste à la Chambre province de Liège	CDH - Centre Démocrate Humaniste	268478507423505	Facebook	45_54	45-54	BE	Belgium	4	1	30316	6063	89	0
+CD&V	CD&V	52997544531	Facebook	45_54	45-54	BE	Belgium	5	1	27256	9120	178	21
+PS Région bruxelloise	PS Région bruxelloise	279112515484034	Facebook	45_54	45-54	BE	Belgium	8	1	24598	5861	344	37
+sp.a	sp.a	57253967150	Facebook	45_54	45-54	BE	Belgium	3	1	23080	8391	83	12
+Maggie De Block	Maggie De Block	1410219772556421	Facebook	45_54	45-54	BE	Belgium	24	1	20024	4327	449	0
+John Crombez	sp.a	264131406977201	Facebook	45_54	45-54	BE	Belgium	3	1	19437	3887	89	12
+European Parliament	European Parliament	178362315106	Facebook	45_54	45-54	BE	Belgium	2	1	17915	3583	178	35
+Peter Van Kemseke	Van Kemseke Peter Leo S	397455370285369	Facebook	45_54	45-54	BE	Belgium	2	1	16427	3285	163	32
+Greenpeace Belgium	Greenpeace Belgium	73232790238	Facebook	45_54	45-54	BE	Belgium	4	1	14490	2898	52	0
+Geert Bourgeois	Nieuw-Vlaamse Alliantie	649429725077632	Facebook	45_54	45-54	BE	Belgium	1	1	12457	6228	62	12
+Parti Socialiste (PS)	Parti Socialiste (PS)	518402351504731	Facebook	45_54	45-54	BE	Belgium	2	1	12221	2444	34	0
+Frédéric Daerden	Frédéric Charles R Daerden	341897923206486	Facebook	45_54	45-54	BE	Belgium	2	1	12114	2422	135	21
+Kim De Witte	PVDA	315662412174661	Facebook	45_54	45-54	BE	Belgium	2	1	10759	2151	120	18
+Ecolo Hainaut	Ecolo Hainaut	121653681195914	Facebook	45_54	45-54	BE	Belgium	2	1	10194	2452	31	0
+Lise Vandecasteele	PVDA	2433030616715564	Facebook	45_54	45-54	BE	Belgium	1	1	10001	2000	19	0
+Gwendolyn Rutten	Gwendolyn Rutten	149158155084	Facebook	45_54	45-54	BE	Belgium	23	1	9692	1330	343	0
+Lynn Wesenbeek - Lijstduwer Open Vld Europa	Arendsoog	280977886188439	Facebook	45_54	45-54	BE	Belgium	1	1	9347	1869	93	18
+CD&V Oostkamp	CD&V Oostkamp	2062142307347631	Facebook	45_54	45-54	BE	Belgium	1	1	9127	4563	45	9
+Yannick de Wilde d'Estmael	Yannick de Wilde d'Estmael 	2194262913922415	Facebook	45_54	45-54	BE	Belgium	1	1	9049	1809	17	0
+Jos D'Haese	PVDA	1397002987227704	Facebook	45_54	45-54	BE	Belgium	3	1	8668	1733	38	0
+Aaron Ooms	Ooms Aaron Maria W	127953044627536	Facebook	45_54	45-54	BE	Belgium	1	1	8040	1608	15	0
+PTB	PTB	53838654385	Facebook	45_54	45-54	BE	Belgium	1	1	7105	1421	70	14
+sp.a West-Vlaanderen	sp.a West-Vlaanderen	269157793205215	Facebook	45_54	45-54	BE	Belgium	1	1	6944	1389	13	0
+BirdLife Europe and Central Asia	BirdLife Europe and Central Asia	174656216277326	Facebook	45_54	45-54	BE	Belgium	1	1	5198	1039	10	0
+Hendrik Bogaert	Bogaert Hendrik Frank	277636928983663	Facebook	45_54	45-54	BE	Belgium	6	1	3556	645	96	0
+Lode Ceyssens	Lode Ceyssens	690224427744073	Facebook	45_54	45-54	BE	Belgium	2	1	2761	530	15	0
+Christian Leysen	Christian Leysen	403864600161608	Facebook	45_54	45-54	BE	Belgium	2	1	2612	1115	32	0
+Hans Maes	Maes Hans Bert	1181238155301995	Facebook	45_54	45-54	BE	Belgium	1	1	2542	1271	25	0
+Jurgen Vanlerberghe	Vanlerberghe Jurgen Maurits P	1664229433634791	Facebook	45_54	45-54	BE	Belgium	2	1	2343	945	30	0
+Wouter Beke	Wouter Beke	311935738907850	Facebook	45_54	45-54	BE	Belgium	1	1	2268	1134	22	0
+Simon Lejeune	Lejuene Simon Paul F	1721305591241017	Facebook	45_54	45-54	BE	Belgium	4	1	2206	422	51	0
+Rudi Vervoort		75793785999	Facebook	45_54	45-54	BE	Belgium	2	1	2013	928	33	0
+Jos Lantmeeters	Nieuw-Vlaamse Alliantie	2253398908319094	Facebook	45_54	45-54	BE	Belgium	1	1	2002	1001	19	0
+Gautier CALOMNE	Gautier Calomne	82157651986	Facebook	45_54	45-54	BE	Belgium	1	1	1906	953	18	0
+Jean-Claude Marcourt - Officiel	Gael René Lambinon	214672635464	Facebook	45_54	45-54	BE	Belgium	1	1	1864	932	18	0
+Steven Vandeput	Nieuw-Vlaamse Alliantie	983442595060481	Facebook	45_54	45-54	BE	Belgium	1	1	1858	929	18	0
+Brecht Warnez	Warnez Brecht Luc T	998887823550443	Facebook	45_54	45-54	BE	Belgium	2	1	1773	354	35	0
+Sébastien de Jonge	De Jonge Sébastien Edouard	370249413831637	Facebook	45_54	45-54	BE	Belgium	1	1	1715	343	17	3
+one brussels	one.brussels	244157445635331	Facebook	45_54	45-54	BE	Belgium	1	1	1700	340	33	0
+Bart Smans, 17e plaats N-VA Vlaams Parlement	N-VA	800585406798122	Facebook	45_54	45-54	BE	Belgium	1	1	1672	836	16	0
+Conner Rousseau	Conner Rousseau	942750852588816	Facebook	45_54	45-54	BE	Belgium	2	1	1671	835	16	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	45_54	45-54	BE	Belgium	1	1	1649	824	4	0
+Hicham El Mzairh	Hicham El Mzairh	39050546817	Facebook	45_54	45-54	BE	Belgium	2	1	1620	721	31	0
+Wouter Vermeersch	Vlaams Belang	1819099895078637	Facebook	45_54	45-54	BE	Belgium	3	1	1499	641	31	0
+Ecolo Mons-Borinage / Hauts-Pays	Bravin Geoffrey 	235500823177113	Facebook	45_54	45-54	BE	Belgium	1	1	1492	298	29	0
+Koen Van den Heuvel	Koen Van den Heuvel	1953990651532264	Facebook	45_54	45-54	BE	Belgium	3	1	1485	276	37	0
+Joris Vandenbroucke	Vandenbroucke Joris Jeroen J	984867054996076	Facebook	45_54	45-54	BE	Belgium	1	1	1354	271	26	0
+Cindy Franssen.	Franssen Cindy	404939213355109	Facebook	45_54	45-54	BE	Belgium	5	1	1267	0	125	0
+Vlaams Belang Brussel	Vlaams Belang	499682940133305	Facebook	45_54	45-54	BE	Belgium	1	1	1245	622	12	0
+Ine Tombeur	Tombeur Ine	120236914663605	Facebook	45_54	45-54	BE	Belgium	1	1	1215	243	24	0
+ProDG	ProDG	89846075866	Facebook	45_54	45-54	BE	Belgium	2	1	1212	211	36	0
+Benoît Dispa	Benoit Bruno E.Dispa	738567722908916	Facebook	45_54	45-54	BE	Belgium	3	1	1121	0	111	0
+Rachid Azaoum	Rachid Azaoum	1016780215187655	Facebook	45_54	45-54	BE	Belgium	1	1	1070	535	10	0
+Orry Van de Wauwer	Orry Van de Wauwer	100752223802681	Facebook	45_54	45-54	BE	Belgium	1	1	1059	529	10	0
+Pascal Smet	one.brussels	148221008918941	Facebook	45_54	45-54	BE	Belgium	1	1	1014	202	20	0
+Vrouw & Maatschappij - CD&V politica	Vrouw & Maatschappij	268844173157989	Facebook	45_54	45-54	BE	Belgium	1	1	1010	202	20	0
+Daan De Veuster	De Veuster Daan Jozef D	1753693034925883	Facebook	45_54	45-54	BE	Belgium	1	1	979	195	19	0
+Heidi Van Gaever	Van Gaever Adelheid Fabiola E	242905366574089	Facebook	45_54	45-54	BE	Belgium	1	1	967	193	19	0
+Ecolo Ostbelgien	Ecolo Ostbelgien	321847415140	Facebook	45_54	45-54	BE	Belgium	1	1	958	191	18	0
+N-VA Temse	N-VA Temse	157739524296696	Facebook	45_54	45-54	BE	Belgium	1	1	940	188	18	0
+Peter Gysbrechts	Neys Tom	363197027117917	Facebook	45_54	45-54	BE	Belgium	1	1	922	184	18	0
+Alain Mertes	Vivant Ostbelgien	168912413949537	Facebook	45_54	45-54	BE	Belgium	1	1	892	178	17	0
+Zuhal Demir	Nieuw-Vlaamse Alliantie	453932394796444	Facebook	45_54	45-54	BE	Belgium	1	1	890	178	17	0
+Michelle Ginée	Ginee Michelle	1059190017557242	Facebook	45_54	45-54	BE	Belgium	1	1	874	174	17	0
+PVDA West-Vlaanderen	PVDA	1661103980836335	Facebook	45_54	45-54	BE	Belgium	1	1	797	159	15	0
+European Commission	European Commission	107898832590939	Facebook	45_54	45-54	BE	Belgium	2	1	768	384	1	0
+Kim Alloo	Alloo Kim	2165082146846340	Facebook	45_54	45-54	BE	Belgium	2	1	747	124	24	0
+N-VA Mechelen	Nieuw-Vlaamse Alliantie	250836601610919	Facebook	45_54	45-54	BE	Belgium	1	1	741	148	14	0
+Vlaams Belang Bilzen	Vlaams Belang	1796765513978532	Facebook	45_54	45-54	BE	Belgium	1	1	740	148	14	0
+Be.One	Abou Jahjah Dyab	203646696858225	Facebook	45_54	45-54	BE	Belgium	1	1	738	147	14	0
+Charis Kamoen	Kamoen Charis Oswald M	207387513240677	Facebook	45_54	45-54	BE	Belgium	1	1	678	135	13	0
+Det Radikale Venstre i Bruxelles	Espelund Morten	146464325502929	Facebook	45_54	45-54	BE	Belgium	1	1	664	132	13	0
+Els Van Hoof-pagina	Van Hoof Els Walter H	315278555648437	Facebook	45_54	45-54	BE	Belgium	1	1	635	127	12	0
+Danielle Godderis T'Jonck	N-VA	239999043457805	Facebook	45_54	45-54	BE	Belgium	1	1	634	126	12	0
+Enio Cucurachi	Cucurachi Enio Antonio	2196293330408303	Facebook	45_54	45-54	BE	Belgium	1	1	623	124	12	0
+sp.a Gent	sp.a Gent	145214795544742	Facebook	45_54	45-54	BE	Belgium	3	1	622	0	61	0
+Sébastien Doutreloup	Sébastien Camille C.Doutreloup	2605782112772045	Facebook	45_54	45-54	BE	Belgium	1	1	607	121	12	0
+Vlaams Belang Kortrijk	Vlaams Belang	1657893191169110	Facebook	45_54	45-54	BE	Belgium	3	1	594	0	58	0
+Steven Matheï	CD&V	118068899059774	Facebook	45_54	45-54	BE	Belgium	3	1	572	0	56	0
+Jonathan de Patoul - DéFI	Jonathan Daniël S de Patoul	2069381119775596	Facebook	45_54	45-54	BE	Belgium	4	1	532	0	52	0
+Alain Destexhe	Alain Robert O.Destexhe	222804197775919	Facebook	45_54	45-54	BE	Belgium	1	1	497	99	9	0
+Evi Van Camp	Van Camp Evi	1758937624358952	Facebook	45_54	45-54	BE	Belgium	1	1	485	97	9	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	45_54	45-54	BE	Belgium	4	1	483	143	1	0
+Gijs Degrande	N-VA	2343399459056104	Facebook	45_54	45-54	BE	Belgium	1	1	480	96	9	0
+De Beleefhoek - Koffie & Klets vzw	Desmet Emmelien	958236627700857	Facebook	45_54	45-54	BE	Belgium	1	1	385	0	38	0
+Maurits Vande Reyde	Vande Reyde Maurits Jozef	1797427180478228	Facebook	45_54	45-54	BE	Belgium	2	1	371	0	36	0
+Groen	Groen	84920854319	Facebook	45_54	45-54	BE	Belgium	2	1	363	0	35	0
+Optimiste pour Bruxelles	MR - Mouvement Réformateur	570826640096148	Facebook	45_54	45-54	BE	Belgium	2	1	360	0	35	0
+Lucien Rigaux - 67e PS à la Région de Bruxelles-Capitale	Lucien Rigaux	697600227298160	Facebook	45_54	45-54	BE	Belgium	1	1	354	177	3	0
+Dyab Abou Jahjah	Abou Jahjah Dyab	650597568382274	Facebook	45_54	45-54	BE	Belgium	2	1	345	60	10	0
+Grégory Vidal	Grégory Vidal	347251118652585	Facebook	45_54	45-54	BE	Belgium	2	1	344	0	34	0
+CD&V Brussel	CD&V Brussel	650865328369779	Facebook	45_54	45-54	BE	Belgium	1	1	298	0	29	0
+Vincent De Wolf	Vincent Gilles De Wolf	399983396831282	Facebook	45_54	45-54	BE	Belgium	1	1	273	0	27	0
+CDU Brüssel-Belgien	CDU-Auslandsverband Brüssel-Belgien	498837460204117	Facebook	45_54	45-54	BE	Belgium	3	1	258	0	25	0
+N-VA Mol	N-VA Mol	293016180727875	Facebook	45_54	45-54	BE	Belgium	1	1	241	0	23	0
+Natalie Eggermont	PVDA	415595709204858	Facebook	45_54	45-54	BE	Belgium	1	1	240	0	23	0
+Vlaams Belang Jabbeke	Vlaams Belang Jabbeke	400158513505219	Facebook	45_54	45-54	BE	Belgium	1	1	235	0	23	0
+Sien Vandevelde	Vandevelde Sien Natalie S	1716420288443469	Facebook	45_54	45-54	BE	Belgium	1	1	230	0	22	0
+Marcela Valkova	Valkova Marcela	810377005974686	Facebook	45_54	45-54	BE	Belgium	1	1	211	0	20	0
+Bram Heylen	Heylen Bram	812636525751167	Facebook	45_54	45-54	BE	Belgium	1	1	206	0	20	0
+CD&V Limburg	CD&V Limburg	495564387205601	Facebook	45_54	45-54	BE	Belgium	1	1	203	0	20	0
+Evi Robert voor Europa	Robert Evi Melanie	277540613176324	Facebook	45_54	45-54	BE	Belgium	1	1	201	0	19	0
+Marc Loewenstein	Marco Loewenstein	664636000270959	Facebook	45_54	45-54	BE	Belgium	1	1	196	0	19	0
+Didrik - 48e candidat à la Région de Bruxelles	Didrik de Schaetzen	349509471801299	Facebook	45_54	45-54	BE	Belgium	1	1	190	0	18	0
+Jelmen Haaze	Haaze Jelmen Ed T	628369674250461	Facebook	45_54	45-54	BE	Belgium	1	1	187	0	18	0
+Koen Geens	CD&V	294055357407926	Facebook	45_54	45-54	BE	Belgium	2	1	185	0	18	0
+Nicolas Stilmant - 2e effectif - liste Chambre	Nicolas Stilmant	371323650128015	Facebook	45_54	45-54	BE	Belgium	1	1	182	0	18	0
+CD&V Ravels	Andriessen Nic	107574269395562	Facebook	45_54	45-54	BE	Belgium	1	1	180	0	17	0
+Paul Cordy	Nieuw-Vlaamse Alliantie	650813488672073	Facebook	45_54	45-54	BE	Belgium	1	1	175	0	17	0
+Jong N-VA Regio Waregem	De Waele Glen	242316996585154	Facebook	45_54	45-54	BE	Belgium	1	1	175	0	17	0
+Yasmine Kherbache - volksvertegenwoordiger	Sp.a Antwerpen	189145821274552	Facebook	45_54	45-54	BE	Belgium	1	1	174	0	17	0
+Stijn De Roo	De Roo Stijn Emiel E	251722678703408	Facebook	45_54	45-54	BE	Belgium	1	1	158	0	15	0
+Sébastien Dewailly	Sébastien Dewailly	347034845930735	Facebook	45_54	45-54	BE	Belgium	1	1	148	0	14	0
+Ecolo au coeur du changement - Province de Liège	Ecolo - province de Liège 	580163825784309	Facebook	45_54	45-54	BE	Belgium	1	1	145	0	14	0
+Jan De Volder	CD&V	250105722223585	Facebook	45_54	45-54	BE	Belgium	1	1	138	0	13	0
+Christophe Calis	Calis Christophe Koenraad R.	2396791870539800	Facebook	45_54	45-54	BE	Belgium	1	1	127	0	12	0
+Mathieu Bihet	Mathieu BIHET	189423617853111	Facebook	45_54	45-54	BE	Belgium	1	1	110	0	10	0
+Kim Aluwé	Aluwé Kim Lilianna M	266386214287406	Facebook	45_54	45-54	BE	Belgium	1	1	105	0	10	0
+Thomas Wellens	Wellens Thomas	444370912980803	Facebook	45_54	45-54	BE	Belgium	1	1	105	0	10	0
+Pieter-Jan Verhoye	Verhoye Pieter-Jan	300513937202082	Facebook	45_54	45-54	BE	Belgium	1	1	94	0	9	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	45_54	45-54	BE	Belgium	2	1	83	19	0	0
+Groen West-Vlaanderen	Sabels Jordy	2498060896894670	Facebook	45_54	45-54	BE	Belgium	2	1	75	0	7	0
+Jeroen Lenaers	Jeroen Lenaers	316960281776479	Facebook	45_54	45-54	BE	Belgium	2	1	38	7	0	0
+Vlaams Belang Jongeren	Vlaams Belang Jongeren	203903005659	Facebook	45_54	45-54	BE	Belgium	1	1	2	0	0	0
+LSAP	Lëtzebuerger Sozialistesch Aarbechterpartei	47216059667	Facebook	45_54	45-54	BE	Belgium	1	1	2	0	0	0

@@ -1,26 +1,26 @@
-location_code_filter	location_name_filter	advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-emilia_romagna_IT	Emilia-Romagna, Italy	Silvio Berlusconi	Silvio Berlusconi	116716651695782	Facebook	386	1	2073160	847436	10216	1927
-emilia_romagna_IT	Emilia-Romagna, Italy	Partito Democratico		77034286895	Facebook	179	1	1931184	849923	7883	1815
-emilia_romagna_IT	Emilia-Romagna, Italy	Matteo Salvini	Lega - Salvini Premier	252306033154	Facebook	25	1	1656730	734913	7461	1730
-emilia_romagna_IT	Emilia-Romagna, Italy	European Parliament		178362315106	Facebook	181	1	1036909	441321	3304	570
-emilia_romagna_IT	Emilia-Romagna, Italy	Greenpeace Italia	Greenpeace Italia	35346524498	Facebook	88	1	1031258	428236	3050	588
-emilia_romagna_IT	Emilia-Romagna, Italy	Francesca Puglisi	Francesca Puglisi	196965250328047	Facebook	37	1	997239	419490	1859	39
-emilia_romagna_IT	Emilia-Romagna, Italy	Save the Children Italia		46590675335	Facebook	48	1	964730	426440	3881	1052
-emilia_romagna_IT	Emilia-Romagna, Italy	Matteo Gazzini	Matteo Gazzini	204493693449796	Facebook	55	1	926538	257785	5188	704
-emilia_romagna_IT	Emilia-Romagna, Italy	European Greens		141366725876424	Facebook	38	1	756868	344318	3462	830
-emilia_romagna_IT	Emilia-Romagna, Italy	Kialo		729627343834501	Facebook	377	1	687881	277889	3543	826
-emilia_romagna_IT	Emilia-Romagna, Italy	WeWorld Onlus		299584710061488	Facebook	318	1	663224	254093	4082	532
-emilia_romagna_IT	Emilia-Romagna, Italy	Antonio Silvio Calò	Antonio Silvio Calò	740380199679755	Facebook	26	1	592629	213171	2834	475
-emilia_romagna_IT	Emilia-Romagna, Italy	Dipartimento per le politiche giovanili e il servizio civile universale – Presidenza del Consiglio dei Ministri	Dipartimento per le politiche giovanili e il servizio civile universale – Presidenza del Consiglio dei Ministri	353868374653514	Facebook	46	1	542413	241761	1082	316
-emilia_romagna_IT	Emilia-Romagna, Italy	Cécile  Kyenge Kashetu	Cécile  Kyenge Kashetu	191585464317302	Facebook	14	1	461554	171695	1357	273
-emilia_romagna_IT	Emilia-Romagna, Italy	Medici Senza Frontiere		65737832194	Facebook	25	1	442427	185606	1749	576
-emilia_romagna_IT	Emilia-Romagna, Italy	CAF Mab Copagri		623562751374487	Facebook	11	1	434032	127904	1868	196
-emilia_romagna_IT	Emilia-Romagna, Italy	Fratelli d'Italia	Fratelli d'Italia	355710427861591	Facebook	89	1	419840	170982	2263	547
-emilia_romagna_IT	Emilia-Romagna, Italy	Ufficio d'informazione in Italia del Parlamento europeo		143544514130	Facebook	24	1	419556	173149	636	66
-emilia_romagna_IT	Emilia-Romagna, Italy	Gian Carlo Muzzarelli per Modena	Gian Carlo Muzzarelli per Modena	647691558631437	Facebook	5	1	404995	201000	2095	400
-emilia_romagna_IT	Emilia-Romagna, Italy	Sergio Berlato	Sergio Berlato	227284747464295	Facebook	8	1	379579	142929	1920	347
-emilia_romagna_IT	Emilia-Romagna, Italy	Giorgia Meloni	Fratelli d'Italia	38919827644	Facebook	42	1	346064	141087	914	252
-emilia_romagna_IT	Emilia-Romagna, Italy	Aldo Modonesi	Comitato Elettorale Aldo Modonesi Sindaco	300621720600910	Facebook	8	1	339904	70824	748	0
-emilia_romagna_IT	Emilia-Romagna, Italy	Luca Vecchi	Comitato Elettorale Luca Vecchi 2024	245475858955495	Facebook	46	1	336736	78041	4822	94
-emilia_romagna_IT	Emilia-Romagna, Italy	Rosanna Conte	Rosanna Conte - Candidata della Lega	1035757379850845	Facebook	33	1	329936	67465	1694	0
-emilia_romagna_IT	Emilia-Romagna, Italy	Gabriele Padovani	Andrea Liverani	1559045154349568	Facebook	24	1	316663	76838	1990	0
+advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+Massimiliano Santini	Massimiliano Ghelfi	389585871653842	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	14	1	780809	313572	1948	238
+Luca Vecchi	Comitato Elettorale Luca Vecchi 2024	245475858955495	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	19	1	86707	17512	1766	0
+Matteo Salvini	Lega - Salvini Premier	252306033154	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	1	1	74845	37423	37	7
+Paolo De Castro	Paolo De Castro	441907505922632	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	4	1	60996	12000	396	0
+Achille Variati	Achille Variati	478212418874107	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	3	1	60835	12167	157	0
+Gian Carlo Muzzarelli per Modena	Gian Carlo Muzzarelli per Modena	647691558631437	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	1	1	49999	10000	99	0
+Alberto Bova - Candidato Sindaco	Comitato Elettorale Alberto Bova	146020142780997	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	3	1	47282	9146	244	0
+Francesca Puglisi	Francesca Puglisi	196965250328047	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	1	1	39783	19891	39	0
+Isabella De Monte	Walter Godina - Mandatario Elettorale di Isabella De Monte	152661171597544	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	6	1	38296	10124	256	0
+European Commission	European Commission	107898832590939	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	3	1	34706	14483	43	8
+Giorgia Meloni	Fratelli d'Italia	38919827644	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	5	1	32537	12897	118	20
+PD Castelfranco Emilia	Partito Democratico Castelfranco Emilia	504963402964897	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	10	1	21990	3000	990	0
+Furio Honsell	Davide Bressan	534334929944459	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	1	1	21396	4279	42	0
+Roberto Battiston in Europa	Corrado Denaro	1088184664716532	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	1	1	20804	4160	41	0
+Paolo Borchia	Paolo Borchia	577383699442272	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	1	1	19559	3911	38	0
+Alessandra Guatteri	Matteo Olivieri	452246258212300	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	5	1	17439	3488	345	0
+Luciano Nobili	Luciano Nobili	406187203142799	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	5	1	16352	3502	38	0
+Cécile  Kyenge Kashetu	Cécile  Kyenge Kashetu	191585464317302	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	5	1	12692	3685	285	0
+Roberta Rigon	Roberta Rigon 	152060405498608	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	2	1	10998	5000	198	0
+Deputati PD	Deputati PD	104652392900508	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	4	1	10570	3059	45	0
+Gian Franco Uni	Gian Franco Uni	393361681500975	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	2	1	9998	2000	198	0
+Roberta Fusari Sindaca	Comitato elettorale Roberta Fusari Sindaca	1021093474737387	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	1	1	9596	4798	95	0
+Rosanna Conte	Rosanna Conte - Candidata della Lega	1035757379850845	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	8	1	9146	1479	320	0
+Avaaz	Avaaz	8340223883	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	1	1	8804	4402	8	0
+Lista Civica "ProgettiAmo Savignano"	Enrico Tagliavini	2111477435580468	Facebook	emilia_romagna_IT	Emilia-Romagna, Italy	4	1	7996	1000	396	0

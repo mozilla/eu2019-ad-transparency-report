@@ -1,26 +1,26 @@
-audience_code_filter	audience_label_filter	advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-u35_44	unknown (35-44)	People's Vote UK	People's Vote	748608695327755	Facebook	2852	1	402157	144442	5741	1078
-u35_44	unknown (35-44)	European Parliament		178362315106	Facebook	1107	1	350844	156840	2173	552
-u35_44	unknown (35-44)	Kialo		729627343834501	Facebook	787	1	293068	116563	2122	532
-u35_44	unknown (35-44)	Friends of the Earth	Friends of the Earth	110861655604080	Facebook	1923	1	267816	93395	3169	326
-u35_44	unknown (35-44)	Podemos	Unidas Podemos	269212336568846	Facebook	281	1	213644	95977	1327	351
-u35_44	unknown (35-44)	Britain's Future	Britain's Future	1625300137516491	Facebook	3483	1	179519	55890	2119	304
-u35_44	unknown (35-44)	Ciudadanos	Ciudadanos	74078667754	Facebook	2887	1	164116	49792	1731	118
-u35_44	unknown (35-44)	European Greens		141366725876424	Facebook	246	1	154466	68061	1061	271
-u35_44	unknown (35-44)	Best For Britain	Best for Britain	1863944713844924	Facebook	556	1	111122	47410	1407	349
-u35_44	unknown (35-44)	The Labour Party	The Labour Party	25749647410	Facebook	505	1	100686	40337	843	170
-u35_44	unknown (35-44)	Médecins du Monde France		265420476920	Facebook	1157	1	99954	32139	1593	139
-u35_44	unknown (35-44)	Conservatives	The Conservative Party	8807334278	Facebook	890	1	96459	36997	1089	158
-u35_44	unknown (35-44)	Greenpeace France		39435457457	Facebook	114	1	91666	41084	440	101
-u35_44	unknown (35-44)	Sosialidemokraatit SDP		108945982480217	Facebook	280	1	86448	33615	539	124
-u35_44	unknown (35-44)	Plan International Sverige		382243262003	Facebook	304	1	76500	25286	630	151
-u35_44	unknown (35-44)	Partido Popular	Partido Popular	72249031214	Facebook	725	1	75038	31935	424	78
-u35_44	unknown (35-44)	38 Degrees	38 Degrees	200006375787	Facebook	612	1	70802	25807	495	73
-u35_44	unknown (35-44)	Liberal Democrats	the Liberal Democrats	5883973269	Facebook	431	1	62515	22579	740	138
-u35_44	unknown (35-44)	Giorgos Patoulis	Georgios Patoulis	668804566601196	Facebook	127	1	54307	22667	204	42
-u35_44	unknown (35-44)	Change UK - The Independent Group	Change UK - The Independent Group	395151614382309	Facebook	436	1	53106	20305	908	178
-u35_44	unknown (35-44)	Kyriakos Mitsotakis		34848567724	Facebook	101	1	52047	22012	112	22
-u35_44	unknown (35-44)	sp.a	sp.a	57253967150	Facebook	302	1	50978	20910	209	50
-u35_44	unknown (35-44)	Greenpeace España	Greenpeace España	133044800622	Facebook	174	1	49819	17968	179	23
-u35_44	unknown (35-44)	Venstre, Danmarks Liberale Parti	Venstre, Danmarks Liberale Parti	21465928829	Facebook	313	1	39603	14587	300	73
-u35_44	unknown (35-44)	EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	178	1	38472	14827	121	23
+advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+Green Party of England and Wales	The Green Party of England and Wales	20995300784	Facebook	u35_44	unknown (35-44)	17	1	20143	9326	69	19
+European Parliament	European Parliament	178362315106	Facebook	u35_44	unknown (35-44)	37	1	18386	8141	103	31
+Gouvernement	Gouvernement	392341217527576	Facebook	u35_44	unknown (35-44)	10	1	10370	4452	31	7
+CDU	CDU	78502295414	Facebook	u35_44	unknown (35-44)	1424	1	7453	1399	250	0
+The Labour Party	The Labour Party	25749647410	Facebook	u35_44	unknown (35-44)	10	1	5434	2428	42	12
+Avaaz	Avaaz	8340223883	Facebook	u35_44	unknown (35-44)	10	1	5232	2043	10	2
+INBOX	New Digital Media	369693523475596	Facebook	u35_44	unknown (35-44)	15	1	5075	2183	7	0
+Conservatives	The Conservative Party	8807334278	Facebook	u35_44	unknown (35-44)	309	1	4517	777	175	0
+Change UK - The Independent Group	Change UK - The Independent Group	395151614382309	Facebook	u35_44	unknown (35-44)	15	1	3650	1613	73	15
+BÜNDNIS 90/DIE GRÜNEN	BÜNDNIS 90/DIE GRÜNEN	47217143218	Facebook	u35_44	unknown (35-44)	319	1	3148	627	82	0
+Liberal Democrats	the Liberal Democrats	5883973269	Facebook	u35_44	unknown (35-44)	166	1	2960	683	107	0
+Det Konservative Folkeparti	Det Konservative Folkeparti	39233495912	Facebook	u35_44	unknown (35-44)	23	1	2347	560	29	5
+Beate Meinl-Reisinger	NEOS	243225039137708	Facebook	u35_44	unknown (35-44)	3	1	2097	1049	11	2
+Momentum Mozgalom	Momentum Mozgalom	592204747588011	Facebook	u35_44	unknown (35-44)	51	1	1929	759	4	1
+Moderaterna	Moderaterna	7719591155	Facebook	u35_44	unknown (35-44)	16	1	1804	772	25	5
+Ομάδα Μνήμης	In Progress	230319800467420	Facebook	u35_44	unknown (35-44)	1	1	1702	681	3	1
+Podemos Comunidad de Madrid	Unidas Podemos Izquierda Unida Madrid en Pie	261762710669900	Facebook	u35_44	unknown (35-44)	1	1	1613	645	16	3
+FDP	FDP	21289227249	Facebook	u35_44	unknown (35-44)	107	1	1556	282	32	0
+Οι Έλληνες	In Progress	2273336566260671	Facebook	u35_44	unknown (35-44)	2	1	1552	671	4	2
+Liberalerna Stockholm	Liberalerna Stockholm	682180208473039	Facebook	u35_44	unknown (35-44)	5	1	1544	308	2	1
+Γιώργος Καμίνης	Georgios Kaminis	186974508081005	Facebook	u35_44	unknown (35-44)	5	1	1520	541	5	1
+Νάσος Ηλιόπουλος	Athanasios Iliopoulos	1535215766758773	Facebook	u35_44	unknown (35-44)	7	1	1491	297	3	0
+Kostas Dervos	Kostas Dervos	1970779819866623	Facebook	u35_44	unknown (35-44)	11	1	1489	452	2	0
+Ρένα Δούρου	Ρένα Δούρου	225197477683663	Facebook	u35_44	unknown (35-44)	36	1	1436	314	12	0
+Cruel	In Progress	1949870255322243	Facebook	u35_44	unknown (35-44)	1	1	1396	558	2	1

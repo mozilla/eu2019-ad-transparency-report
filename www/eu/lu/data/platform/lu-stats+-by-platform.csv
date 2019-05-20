@@ -1,2 +1,2 @@
-country_code_filter	country_name_filter	platform_code	platform_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-LU	Luxembourg	f	Facebook	3401	770	19250553	6473193	111451	10494
+platform_code	platform_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	Facebook	LU	Luxembourg	36	18	250822	58867	2479	1

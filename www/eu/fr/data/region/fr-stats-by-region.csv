@@ -1,23 +1,23 @@
-country_code_filter	country_name_filter	region_code	region_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-FR	France	ile_de_france	Île-de-France	10559	2364	21571910	7711573	224524	33885
-FR	France	rhone_alpes	Rhône-Alpes	9189	1912	8064354	2966843	87752	13155
-FR	France	provence_alpes_cote_dazur	Provence-Alpes-Côte d'Azur	9208	1922	4608108	1545862	44961	4638
-FR	France	nord_pas_de_calais	Nord-Pas-de-Calais	8748	1814	4090100	1571976	41283	6851
-FR	France	lorraine	Lorraine	8164	1689	3009279	1121138	36093	5832
-FR	France	languedoc_roussillon	Languedoc-Roussillon	8430	1708	2252639	745816	27100	3455
-FR	France	bretagne	Bretagne	8218	1668	2207408	751341	25122	4997
-FR	France	midi_pyrenees	Midi-Pyrénées	8432	1719	2075336	695536	17597	1916
-FR	France	picardie	Picardie	7723	1615	1876635	671015	22479	3426
-FR	France	pays_de_la_loire	Pays de la Loire	8257	1700	1758234	637651	23012	2985
-FR	France	aquitaine	Aquitaine	8576	1760	1392510	474815	16424	1679
-FR	France	limousin	Limousin	6765	1410	1384769	520680	14439	2627
-FR	France	centre	Centre	8003	1659	1280152	485304	16232	2826
-FR	France	alsace	Alsace	8189	1707	1029784	402158	11770	1919
-FR	France	poitou_charentes	Poitou-Charentes	7602	1566	688399	279602	11077	2002
-FR	France	auvergne	Auvergne	7249	1520	638185	202210	8405	1351
-FR	France	champagne_ardenne	Champagne-Ardenne	7450	1553	591134	223622	6832	977
-FR	France	bourgogne	Bourgogne	7543	1534	589181	198928	10170	910
-FR	France	haute_normandie	Haute-Normandie	7837	1625	534245	179134	6921	471
-FR	France	basse_normandie	Basse-Normandie	7417	1532	388806	157058	5033	884
-FR	France	franche_comte	Franche-Comté	7192	1490	360309	119477	6110	502
-FR	France	corse	Corse	6184	1300	145147	36019	1327	19
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+alsace	Alsace	FR	France	42	9	6816	2881	18	4
+aquitaine	Aquitaine	FR	France	47	11	18660	7874	45	9
+auvergne	Auvergne	FR	France	39	8	3221	1296	16	1
+basse_normandie	Basse-Normandie	FR	France	41	9	4294	1774	8	1
+bourgogne	Bourgogne	FR	France	40	8	4434	1847	9	2
+bretagne	Bretagne	FR	France	40	8	18683	7796	37	7
+centre	Centre	FR	France	44	11	10470	4362	25	4
+champagne_ardenne	Champagne-Ardenne	FR	France	41	9	4265	1765	8	1
+corse	Corse	FR	France	39	8	635	251	1	0
+franche_comte	Franche-Comté	FR	France	39	8	2500	1037	5	1
+haute_normandie	Haute-Normandie	FR	France	42	10	8220	3365	23	3
+languedoc_roussillon	Languedoc-Roussillon	FR	France	41	9	13084	5482	33	7
+limousin	Limousin	FR	France	38	7	909	379	1	0
+lorraine	Lorraine	FR	France	47	12	12598	5206	28	6
+midi_pyrenees	Midi-Pyrénées	FR	France	42	9	10457	4446	26	5
+nord_pas_de_calais	Nord-Pas-de-Calais	FR	France	48	14	54221	22507	112	23
+pays_de_la_loire	Pays de la Loire	FR	France	41	9	19151	8054	41	9
+picardie	Picardie	FR	France	42	10	9141	3765	17	3
+poitou_charentes	Poitou-Charentes	FR	France	40	8	5358	2239	11	2
+provence_alpes_cote_dazur	Provence-Alpes-Côte d'Azur	FR	France	43	10	40477	17007	117	24
+rhone_alpes	Rhône-Alpes	FR	France	43	10	67696	28286	201	33
+ile_de_france	Île-de-France	FR	France	44	11	194904	79373	668	107

@@ -1,26 +1,26 @@
-audience_code_filter	audience_label_filter	advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-u55_64	unknown (55-64)	Britain's Future	Britain's Future	1625300137516491	Facebook	3617	1	333709	97574	4008	575
-u55_64	unknown (55-64)	People's Vote UK	People's Vote	748608695327755	Facebook	2679	1	224567	75881	4072	708
-u55_64	unknown (55-64)	38 Degrees	38 Degrees	200006375787	Facebook	619	1	117362	41908	816	117
-u55_64	unknown (55-64)	Best For Britain	Best for Britain	1863944713844924	Facebook	567	1	112770	47330	1660	395
-u55_64	unknown (55-64)	Friends of the Earth	Friends of the Earth	110861655604080	Facebook	1709	1	102977	32834	1576	142
-u55_64	unknown (55-64)	We are the 52%	We are the 52%	466744973727718	Facebook	277	1	97512	35474	278	36
-u55_64	unknown (55-64)	The Labour Party	The Labour Party	25749647410	Facebook	541	1	91780	35529	864	176
-u55_64	unknown (55-64)	Conservatives	The Conservative Party	8807334278	Facebook	725	1	77869	29680	1167	153
-u55_64	unknown (55-64)	Change UK - The Independent Group	Change UK - The Independent Group	395151614382309	Facebook	527	1	64480	22926	1339	234
-u55_64	unknown (55-64)	The Brexit Party	The Brexit Party	230416667843105	Facebook	86	1	51668	24358	738	216
-u55_64	unknown (55-64)	Liberal Democrats	the Liberal Democrats	5883973269	Facebook	400	1	47000	16253	855	120
-u55_64	unknown (55-64)	Médecins du Monde France		265420476920	Facebook	872	1	40558	12737	649	61
-u55_64	unknown (55-64)	European Parliament		178362315106	Facebook	639	1	34317	14261	230	49
-u55_64	unknown (55-64)	Right To Vote	Right to Vote	408236463256774	Facebook	342	1	32771	8102	285	38
-u55_64	unknown (55-64)	Ciudadanos	Ciudadanos	74078667754	Facebook	1919	1	32586	9974	334	26
-u55_64	unknown (55-64)	Sosialidemokraatit SDP		108945982480217	Facebook	245	1	31138	12395	190	41
-u55_64	unknown (55-64)	Greenpeace France		39435457457	Facebook	104	1	30795	13906	157	37
-u55_64	unknown (55-64)	Plan International Sverige		382243262003	Facebook	298	1	30164	9582	266	63
-u55_64	unknown (55-64)	Ben Houchen - Tees Valley Mayor	Ben Houchen	1934566156780439	Facebook	127	1	27806	9770	195	40
-u55_64	unknown (55-64)	Podemos	Unidas Podemos	269212336568846	Facebook	204	1	27114	12286	181	48
-u55_64	unknown (55-64)	Scientists for EU	Scientists for EU	642444842524195	Facebook	59	1	21696	6976	144	24
-u55_64	unknown (55-64)	Amnesty International UK		7624294394	Facebook	78	1	18118	7777	183	57
-u55_64	unknown (55-64)	Oxfam Great Britain	Oxfam GB	7214031395	Facebook	67	1	16588	5849	263	55
-u55_64	unknown (55-64)	Venstre, Danmarks Liberale Parti	Venstre, Danmarks Liberale Parti	21465928829	Facebook	272	1	14868	5072	105	29
-u55_64	unknown (55-64)	TheArticle	TheArticle	607840469632004	Facebook	25	1	14759	6501	196	43
+advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+European Parliament	European Parliament	178362315106	Facebook	u55_64	unknown (55-64)	39	1	9719	4367	72	21
+Conservatives	The Conservative Party	8807334278	Facebook	u55_64	unknown (55-64)	493	1	9187	1178	552	1
+Green Party of England and Wales	The Green Party of England and Wales	20995300784	Facebook	u55_64	unknown (55-64)	16	1	5875	2678	20	6
+Change UK - The Independent Group	Change UK - The Independent Group	395151614382309	Facebook	u55_64	unknown (55-64)	16	1	3356	1430	63	13
+The Labour Party	The Labour Party	25749647410	Facebook	u55_64	unknown (55-64)	10	1	2821	1212	25	7
+Gouvernement	Gouvernement	392341217527576	Facebook	u55_64	unknown (55-64)	20	1	1845	603	4	0
+Det Konservative Folkeparti	Det Konservative Folkeparti	39233495912	Facebook	u55_64	unknown (55-64)	24	1	1744	424	21	4
+Moderaterna	Moderaterna	7719591155	Facebook	u55_64	unknown (55-64)	16	1	1726	764	23	6
+Liberal Democrats	the Liberal Democrats	5883973269	Facebook	u55_64	unknown (55-64)	134	1	1445	293	60	0
+CDU	CDU	78502295414	Facebook	u55_64	unknown (55-64)	353	1	1236	232	41	0
+Avaaz	Avaaz	8340223883	Facebook	u55_64	unknown (55-64)	10	1	844	329	1	0
+38 Degrees	38 Degrees	200006375787	Facebook	u55_64	unknown (55-64)	7	1	681	178	3	0
+People's Vote UK	People's Vote	748608695327755	Facebook	u55_64	unknown (55-64)	12	1	671	169	7	1
+Mette Abildgaard	Mette Abildgaard	309867232515766	Facebook	u55_64	unknown (55-64)	13	1	641	154	4	1
+Parti Populaire - Le Peuple	Parti Populaire - Le Peuple	482811111771571	Facebook	u55_64	unknown (55-64)	2	1	595	228	5	1
+CSU (Christlich-Soziale Union)	CSU (Christlich-Soziale Union)	81386795687	Facebook	u55_64	unknown (55-64)	2	1	578	231	5	1
+Socialdemokratiet	Socialdemokratiet	41459763029	Facebook	u55_64	unknown (55-64)	9	1	571	131	4	1
+Fidesz	Fidesz	9844779306	Facebook	u55_64	unknown (55-64)	17	1	507	235	2	1
+Vlaams Belang	Vlaams Belang	56605856504	Facebook	u55_64	unknown (55-64)	4	1	483	241	6	2
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	u55_64	unknown (55-64)	1	1	432	216	1	0
+Momentum Mozgalom	Momentum Mozgalom	592204747588011	Facebook	u55_64	unknown (55-64)	28	1	415	141	1	0
+Scientists for EU	Scientists for EU	642444842524195	Facebook	u55_64	unknown (55-64)	1	1	372	186	2	0
+Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	u55_64	unknown (55-64)	8	1	366	108	6	1
+Open Vld	Open Vld	53668151866	Facebook	u55_64	unknown (55-64)	25	1	350	108	3	0
+Tom Van Grieken	Vlaams Belang	584806884924010	Facebook	u55_64	unknown (55-64)	4	1	345	145	5	1

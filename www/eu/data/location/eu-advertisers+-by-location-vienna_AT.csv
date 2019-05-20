@@ -1,26 +1,26 @@
-location_code_filter	location_name_filter	advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-vienna_AT	Vienna, Austria	SPÖ	SPÖ	77393060080	Facebook	725	1	11884134	4066549	88059	13047
-vienna_AT	Vienna, Austria	Harald Vilimsky		547597092025909	Facebook	176	1	6702819	2845291	64227	14836
-vienna_AT	Vienna, Austria	Andreas Schieder	SPÖ	290881691011354	Facebook	168	1	5388915	1751220	46006	8991
-vienna_AT	Vienna, Austria	European Parliament		178362315106	Facebook	114	1	4451104	1865534	42262	11361
-vienna_AT	Vienna, Austria	kontrast.at	kontrast.at	1079650008770485	Facebook	112	1	4405585	1757903	23774	7445
-vienna_AT	Vienna, Austria	Claudia Gamon	NEOS	447992848717452	Facebook	176	1	4396104	1562682	24346	4815
-vienna_AT	Vienna, Austria	Die Grünen	Die Grünen	21759893033	Facebook	115	1	4120375	1361430	30531	6590
-vienna_AT	Vienna, Austria	Stadt Wien	Stadt Wien	110971788921077	Facebook	50	1	3473950	1239000	17450	2900
-vienna_AT	Vienna, Austria	Greenpeace Österreich	Greenpeace Österreich	32984679070	Facebook	597	1	2480171	721828	30236	776
-vienna_AT	Vienna, Austria	HC Strache	FPÖ	74865038590	Facebook	75	1	2405354	999899	14418	3875
-vienna_AT	Vienna, Austria	Karoline Edtstadler	Salzburger Volkspartei	1580540041983231	Facebook	272	1	2309404	522027	28484	2408
-vienna_AT	Vienna, Austria	Europäisches Parlament Österreich		124468054313069	Facebook	35	1	2274296	952021	8631	3031
-vienna_AT	Vienna, Austria	European Greens		141366725876424	Facebook	41	1	2185385	958871	14898	3882
-vienna_AT	Vienna, Austria	Othmar Karas	Volkspartei	395638503864459	Facebook	453	1	1625067	341414	45349	1689
-vienna_AT	Vienna, Austria	Europäische Kommission - Vertretung in Österreich		187626534620326	Facebook	18	1	1372945	564714	2078	303
-vienna_AT	Vienna, Austria	Johann Gudenus		104145976305577	Facebook	53	1	1310673	512817	7474	1095
-vienna_AT	Vienna, Austria	Julia Herr	Sozialistische Jugend Österreich	345172509462824	Facebook	23	1	1062546	403679	11677	3146
-vienna_AT	Vienna, Austria	Dominik Nepp	FPÖ-Wien	135953609780627	Facebook	22	1	1013859	406881	5989	1763
-vienna_AT	Vienna, Austria	FPÖ-Wien		146097669338683	Facebook	1	1	999999	500000	4999	1000
-vienna_AT	Vienna, Austria	Kialo		729627343834501	Facebook	350	1	649646	227350	4333	1065
-vienna_AT	Vienna, Austria	Pamela Rendi-Wagner	SPÖ-Parlamentsklub	1673371229636129	Facebook	73	1	603930	153724	3869	53
-vienna_AT	Vienna, Austria	Wirtschaftskammer		125946327466544	Facebook	164	1	599966	150623	9228	338
-vienna_AT	Vienna, Austria	FPÖ	FPÖ	169051073236170	Facebook	13	1	590717	262177	4659	1149
-vienna_AT	Vienna, Austria	GRAS - Grüne & Alternative Student_innen	GRAS - Grüne & Alternative Student_innen	79935247286	Facebook	38	1	530930	140675	5506	777
-vienna_AT	Vienna, Austria	Sozialdemokratischer Wirtschaftsverband Wien		217664835989	Facebook	22	1	519450	111558	5719	928
+advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+SPÖ	SPÖ	77393060080	Facebook	vienna_AT	Vienna, Austria	25	1	591417	233171	7945	1467
+Beate Meinl-Reisinger	NEOS	243225039137708	Facebook	vienna_AT	Vienna, Austria	3	1	507461	253731	2785	707
+Werner Kogler	Die Grünen	133612666671985	Facebook	vienna_AT	Vienna, Austria	2	1	345899	132984	3457	691
+Harald Vilimsky	FPÖ	547597092025909	Facebook	vienna_AT	Vienna, Austria	4	1	242480	86162	438	73
+NR KLUB JETZT	NR KLUB JETZT	833013456857401	Facebook	vienna_AT	Vienna, Austria	12	1	114589	24938	710	39
+European Parliament	European Parliament	178362315106	Facebook	vienna_AT	Vienna, Austria	1	1	105028	52514	262	52
+Andreas Schieder	SPÖ	290881691011354	Facebook	vienna_AT	Vienna, Austria	3	1	57271	27008	685	261
+Claudia Gamon	NEOS	447992848717452	Facebook	vienna_AT	Vienna, Austria	2	1	50308	10061	502	100
+FSG - Fraktion Sozialdemokratischer GewerkschafterInnen	GewerkschafterInnen in der SPÖ	364093897023468	Facebook	vienna_AT	Vienna, Austria	4	1	39587	9285	265	0
+KPÖ PLUS	KPÖ PLUS	849742871847407	Facebook	vienna_AT	Vienna, Austria	1	1	37697	7539	376	75
+Alma Zadic	NR KLUB JETZT	1891626681100935	Facebook	vienna_AT	Vienna, Austria	9	1	33901	7550	481	0
+Peter Pilz	NR KLUB JETZT	127399223970566	Facebook	vienna_AT	Vienna, Austria	3	1	29635	7654	317	43
+kontrast.at	kontrast.at	1079650008770485	Facebook	vienna_AT	Vienna, Austria	1	1	27682	5536	54	0
+Wirtschaftskammer	Wirtschaftskammer	125946327466544	Facebook	vienna_AT	Vienna, Austria	1	1	24407	4881	48	0
+Wilfried Haslauer	Salzburger Volkspartei	49835536470	Facebook	vienna_AT	Vienna, Austria	1	1	23206	4641	231	46
+GRAS - Grüne & Alternative Student_innen	GRAS - Grüne & Alternative Student_innen	79935247286	Facebook	vienna_AT	Vienna, Austria	1	1	22115	4423	43	0
+1Europa	Peter Glawischnig	320389701908367	Facebook	vienna_AT	Vienna, Austria	2	1	6628	1325	131	0
+Sebastian Bohrn Mena	Tierschutzvolksbegehren	1583324305255890	Facebook	vienna_AT	Vienna, Austria	5	1	6165	956	231	0
+Die Grünen	Die Grünen	21759893033	Facebook	vienna_AT	Vienna, Austria	2	1	6130	1226	121	0
+Die Grünen Wien	Die Grünen Wien	88676876113	Facebook	vienna_AT	Vienna, Austria	1	1	4999	1000	99	0
+Markus Ornig	NEOS Wien	1604393142995063	Facebook	vienna_AT	Vienna, Austria	1	1	4999	1000	99	0
+Partei der Arbeit	Partei der Arbeit	298693416922933	Facebook	vienna_AT	Vienna, Austria	1	1	4656	931	92	0
+Europäisches Parlament Österreich	Europäisches Parlament Österreich	124468054313069	Facebook	vienna_AT	Vienna, Austria	1	1	4353	2176	43	0
+Alex Bernhuber	Niederösterreichischer Bauernbund	382872055842390	Facebook	vienna_AT	Vienna, Austria	1	1	4052	2026	40	0
+Steffi Krisper	Stephanie Krisper	170392456839307	Facebook	vienna_AT	Vienna, Austria	2	1	3155	520	106	0

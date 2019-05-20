@@ -1,26 +1,10 @@
-location_code_filter	location_name_filter	advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-alsace_FR	Alsace, France	Greenpeace France		39435457457	Facebook	122	1	869353	392540	4411	1016
-alsace_FR	Alsace, France	European Parliament		178362315106	Facebook	66	1	528980	245448	2882	630
-alsace_FR	Alsace, France	France Soleil		1928798227141536	Facebook	3	1	492007	246000	6049	2460
-alsace_FR	Alsace, France	Agence Isolation Pour Tous		568528630290119	Facebook	19	1	289817	116349	3002	648
-alsace_FR	Alsace, France	Les Energies du Soleil		1684031805239401	Facebook	13	1	247017	108216	2839	824
-alsace_FR	Alsace, France	Médecins du Monde France		265420476920	Facebook	705	1	218666	72170	3145	242
-alsace_FR	Alsace, France	Pompes à Chaleur		464568377211278	Facebook	10	1	183386	90995	3173	715
-alsace_FR	Alsace, France	Parlement européen en France	Parlement européen en France	279757933824	Facebook	36	1	167244	67028	523	139
-alsace_FR	Alsace, France	Le HCR, l'Agence des Nations Unies pour les Réfugiés		112542522148670	Facebook	56	1	136375	55812	614	134
-alsace_FR	Alsace, France	Collectif : Féministes contre le cyberharcèlement		1026099724099181	Facebook	92	1	127230	47843	321	8
-alsace_FR	Alsace, France	La Prime Énergie		336155273400553	Facebook	27	1	123634	49150	1094	246
-alsace_FR	Alsace, France	Kialo		729627343834501	Facebook	341	1	115257	47541	780	186
-alsace_FR	Alsace, France	Route Auto		252868201731333	Facebook	8	1	112314	54043	532	105
-alsace_FR	Alsace, France	Make.org	Make.org	122037308191612	Facebook	58	1	109460	46066	923	205
-alsace_FR	Alsace, France	Mon Homéo Mon Choix		1643185362449069	Facebook	28	1	108430	42880	992	208
-alsace_FR	Alsace, France	Strasbourg.eu		161360213882507	Facebook	2	1	100998	50000	198	0
-alsace_FR	Alsace, France	Ministère de l'Intérieur		103146727990	Facebook	24	1	96623	40667	496	119
-alsace_FR	Alsace, France	Atatürk et Kemaliste de France		884375161616918	Facebook	1	1	67797	33899	67	0
-alsace_FR	Alsace, France	UNICEF France		173159234432	Facebook	38	1	67675	26614	350	85
-alsace_FR	Alsace, France	Unis pour les Droits Humains		1642871805813802	Facebook	19	1	63245	26399	50	1
-alsace_FR	Alsace, France	Mon Energie Verte		252140872017180	Facebook	5	1	54287	13660	740	138
-alsace_FR	Alsace, France	Passion Cuisines		935399696559925	Facebook	2	1	50968	9994	197	0
-alsace_FR	Alsace, France	Céréal Bio & Céréal France		1636261843328359	Facebook	4	1	50647	20243	232	66
-alsace_FR	Alsace, France	Dungeon Defenders		107960282569653	Facebook	123	1	50495	21365	151	16
-alsace_FR	Alsace, France	ottmarsheimoise.fr		1600911850195288	Facebook	1	1	49878	9975	98	0
+advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+Gouvernement	Gouvernement	392341217527576	Facebook	alsace_FR	Alsace, France	30	1	169025	68606	305	74
+European Parliament	European Parliament	178362315106	Facebook	alsace_FR	Alsace, France	1	1	34923	17462	174	34
+Cogito	Cogito	2059332547662115	Facebook	alsace_FR	Alsace, France	1	1	2906	1453	2	0
+Fille Unique	Sébastien Jean-Pierre Paul Henri Gourdon	268836617151334	Facebook	alsace_FR	Alsace, France	1	1	1740	348	17	3
+VoteEuropa - France	Jules Nicolas André Bejot 	2031732090462417	Facebook	alsace_FR	Alsace, France	2	1	771	265	11	0
+European Commission	European Commission	107898832590939	Facebook	alsace_FR	Alsace, France	2	1	549	274	1	0
+Eurolapins	Pulse of Europe France	755726434768654	Facebook	alsace_FR	Alsace, France	2	1	538	213	21	3
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	alsace_FR	Alsace, France	1	1	167	83	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	alsace_FR	Alsace, France	2	1	55	11	0	0

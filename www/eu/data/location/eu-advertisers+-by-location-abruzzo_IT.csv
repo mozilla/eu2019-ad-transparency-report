@@ -1,26 +1,26 @@
-location_code_filter	location_name_filter	advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-abruzzo_IT	Abruzzo, Italy	Silvio Berlusconi	Silvio Berlusconi	116716651695782	Facebook	355	1	898169	373804	4075	735
-abruzzo_IT	Abruzzo, Italy	Partito Democratico		77034286895	Facebook	130	1	488229	214942	1751	395
-abruzzo_IT	Abruzzo, Italy	Matteo Salvini	Lega - Salvini Premier	252306033154	Facebook	19	1	380700	176199	949	230
-abruzzo_IT	Abruzzo, Italy	European Parliament		178362315106	Facebook	181	1	323539	139646	991	181
-abruzzo_IT	Abruzzo, Italy	Save the Children Italia		46590675335	Facebook	46	1	314825	140681	1348	357
-abruzzo_IT	Abruzzo, Italy	WeWorld Onlus		299584710061488	Facebook	299	1	241969	93340	1353	163
-abruzzo_IT	Abruzzo, Italy	Greenpeace Italia	Greenpeace Italia	35346524498	Facebook	82	1	234988	96897	564	110
-abruzzo_IT	Abruzzo, Italy	Dipartimento per le politiche giovanili e il servizio civile universale – Presidenza del Consiglio dei Ministri	Dipartimento per le politiche giovanili e il servizio civile universale – Presidenza del Consiglio dei Ministri	353868374653514	Facebook	44	1	219966	94790	377	73
-abruzzo_IT	Abruzzo, Italy	Kialo		729627343834501	Facebook	371	1	170549	67863	844	195
-abruzzo_IT	Abruzzo, Italy	Riconquistare l'Italia - Pescara		136681123591216	Facebook	3	1	149997	30000	297	0
-abruzzo_IT	Abruzzo, Italy	Leila Kechoud - Candidata al Parlamento europeo - 26 maggio 2019	Leila Kechoud	2247400732195775	Facebook	34	1	143145	32231	1846	0
-abruzzo_IT	Abruzzo, Italy	Ufficio d'informazione in Italia del Parlamento europeo		143544514130	Facebook	22	1	140371	56160	225	21
-abruzzo_IT	Abruzzo, Italy	Giosi Ferrandino	Giosi Ferrandino	141856142632410	Facebook	55	1	138975	46892	400	15
-abruzzo_IT	Abruzzo, Italy	Fratelli d'Italia	Fratelli d'Italia	355710427861591	Facebook	59	1	130929	54389	662	176
-abruzzo_IT	Abruzzo, Italy	Francesco Galtieri	Francesco Galtieri	176134109106348	Facebook	7	1	123688	45446	731	142
-abruzzo_IT	Abruzzo, Italy	Giorgia Meloni	Fratelli d'Italia	38919827644	Facebook	36	1	119783	48525	283	59
-abruzzo_IT	Abruzzo, Italy	Gianluca Soluzioni Green	Gianluca Di Fazio	347976379124869	Facebook	20	1	117449	28181	1788	0
-abruzzo_IT	Abruzzo, Italy	European Greens	European Greens	141366725876424	Facebook	15	1	109152	48455	571	135
-abruzzo_IT	Abruzzo, Italy	Amref Health Africa - Italia		48677844864	Facebook	102	1	89721	31218	342	15
-abruzzo_IT	Abruzzo, Italy	Ftl termocamini		470063376361272	Facebook	1	1	80204	40102	79	0
-abruzzo_IT	Abruzzo, Italy	Mescalito Film		246596022430699	Facebook	3	1	78706	18741	235	0
-abruzzo_IT	Abruzzo, Italy	Aboca		295129913955200	Facebook	56	1	78190	22077	181	0
-abruzzo_IT	Abruzzo, Italy	Coop Centro Italia		1515009958746863	Facebook	6	1	77115	32368	392	77
-abruzzo_IT	Abruzzo, Italy	Andrea Cozzolino		1449151341981719	Facebook	11	1	76478	29112	224	50
-abruzzo_IT	Abruzzo, Italy	Medici Senza Frontiere		65737832194	Facebook	25	1	76075	32053	304	95
+advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+Matteo Salvini	Lega - Salvini Premier	252306033154	Facebook	abruzzo_IT	Abruzzo, Italy	1	1	21449	10725	10	2
+Caio Mussolini	Caio Mussolini	2393234914229651	Facebook	abruzzo_IT	Abruzzo, Italy	1	1	21427	10713	53	10
+Caterina Cerroni	Caterina Cerroni	1618719834925589	Facebook	abruzzo_IT	Abruzzo, Italy	3	1	21093	8922	105	18
+Carmine Spiaggia	Carmine Spiaggia	425820797979047	Facebook	abruzzo_IT	Abruzzo, Italy	1	1	17224	8612	42	8
+European Commission	European Commission	107898832590939	Facebook	abruzzo_IT	Abruzzo, Italy	3	1	14947	6111	16	3
+Giorgia Meloni	Fratelli d'Italia	38919827644	Facebook	abruzzo_IT	Abruzzo, Italy	5	1	12077	4869	47	8
+Claudia Pagliariccio	CasaPound Italia L'Aquila	1748593245471149	Facebook	abruzzo_IT	Abruzzo, Italy	2	1	5644	1129	111	0
+Giuseppe Cossalter	Giuseppe Cossalter	1981132658773307	Facebook	abruzzo_IT	Abruzzo, Italy	3	1	5442	1088	15	0
+Luciano Nobili	Luciano Nobili	406187203142799	Facebook	abruzzo_IT	Abruzzo, Italy	5	1	5167	1092	11	0
+Luciano D'Alfonso	Luciano D'Alfonso	250369701810297	Facebook	abruzzo_IT	Abruzzo, Italy	1	1	4999	1000	99	0
+Nadia Sgro	Nadia Sgro	276613263243127	Facebook	abruzzo_IT	Abruzzo, Italy	1	1	4999	1000	99	0
+Fratelli d'Italia - Vasto	Marco Di Michele Marisi 	542099659162463	Facebook	abruzzo_IT	Abruzzo, Italy	1	1	4576	915	90	0
+Valeria Di Nino - Candidata M5S Elezioni Europee - Sud	Valeria Di Nino	346634905977977	Facebook	abruzzo_IT	Abruzzo, Italy	1	1	4555	911	9	0
+Andrea Cozzolino	Andrea Cozzolino	1449151341981719	Facebook	abruzzo_IT	Abruzzo, Italy	2	1	3691	921	12	0
+Matteo Renzi	Matteo Renzi	113335124914	Facebook	abruzzo_IT	Abruzzo, Italy	2	1	3287	657	6	0
+Giosi Ferrandino	Giosi Ferrandino	141856142632410	Facebook	abruzzo_IT	Abruzzo, Italy	2	1	3197	639	16	0
+Deputati PD	Deputati PD	104652392900508	Facebook	abruzzo_IT	Abruzzo, Italy	3	1	3165	784	10	0
+Aldo Patriciello	Aldo Patriciello	40645773554	Facebook	abruzzo_IT	Abruzzo, Italy	1	1	3097	619	6	0
+Pina Picierno	SocialCom	212896992084952	Facebook	abruzzo_IT	Abruzzo, Italy	10	1	2869	517	79	0
+Fratelli d'Italia	Fratelli d'Italia	355710427861591	Facebook	abruzzo_IT	Abruzzo, Italy	1	1	2606	1303	13	2
+Lorenzo Cesa	Lorenzo Cesa	538632706513878	Facebook	abruzzo_IT	Abruzzo, Italy	8	1	2461	474	55	0
+MoVimento 5 Stelle	MoVimento 5 Stelle	174457180812	Facebook	abruzzo_IT	Abruzzo, Italy	1	1	2355	471	4	0
+Avaaz	Avaaz	8340223883	Facebook	abruzzo_IT	Abruzzo, Italy	1	1	2000	1000	1	0
+Errico Di Tillio - Anno Zero	Errico Di Tillio	418744215339376	Facebook	abruzzo_IT	Abruzzo, Italy	2	1	1998	0	198	0
+Daniela Poggio	ROCK communications	441486766660124	Facebook	abruzzo_IT	Abruzzo, Italy	5	1	1369	244	17	0

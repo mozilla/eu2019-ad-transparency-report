@@ -1,26 +1,26 @@
-location_code_filter	location_name_filter	advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-flemish_region_BE	Flemish Region, Belgium	sp.a	sp.a	57253967150	Facebook	452	1	41761772	16762521	202649	43249
-flemish_region_BE	Flemish Region, Belgium	N-VA	Nieuw-Vlaamse Alliantie	334361224413	Facebook	131	1	30362535	12714540	99280	25808
-flemish_region_BE	Flemish Region, Belgium	Vlaams Belang	Vlaams Belang	56605856504	Facebook	74	1	28688114	13164648	196221	46949
-flemish_region_BE	Flemish Region, Belgium	Tom Van Grieken	Vlaams Belang	584806884924010	Facebook	120	1	25338940	10969078	216154	50866
-flemish_region_BE	Flemish Region, Belgium	Open Vld	Open Vld	53668151866	Facebook	358	1	13026304	4952535	89279	17236
-flemish_region_BE	Flemish Region, Belgium	European Parliament		178362315106	Facebook	157	1	8078868	3526627	54635	11687
-flemish_region_BE	Flemish Region, Belgium	Groen	Groen	84920854319	Facebook	200	1	7942730	2749293	42271	6141
-flemish_region_BE	Flemish Region, Belgium	John Crombez	sp.a	264131406977201	Facebook	92	1	7698188	3120856	46200	9598
-flemish_region_BE	Flemish Region, Belgium	Peter Mertens	PVDA	236485149843971	Facebook	581	1	7518380	2258747	89368	10146
-flemish_region_BE	Flemish Region, Belgium	Sign for my Future	Sign for my Future	1345513882259768	Facebook	105	1	4572991	1800357	47432	11053
-flemish_region_BE	Flemish Region, Belgium	Facebook Brussels	Facebook	287739491272583	Facebook	16	1	3511238	1561101	29208	7603
-flemish_region_BE	Flemish Region, Belgium	CD&V	CD&V	52997544531	Facebook	107	1	2566274	793823	18678	2498
-flemish_region_BE	Flemish Region, Belgium	IKEA	IKEA	112961202185776	Facebook	78	1	2481859	980125	9810	1585
-flemish_region_BE	Flemish Region, Belgium	European Greens		141366725876424	Facebook	69	1	2351463	973172	20263	4339
-flemish_region_BE	Flemish Region, Belgium	CDH - Centre Démocrate Humaniste	CDH - Centre Démocrate Humaniste	189649407806135	Facebook	54	1	2106318	1002943	7750	1713
-flemish_region_BE	Flemish Region, Belgium	Kialo		729627343834501	Facebook	363	1	1801110	720252	13718	3061
-flemish_region_BE	Flemish Region, Belgium	Joris Vandenbroucke	Vandenbroucke Joris Jeroen J	984867054996076	Facebook	17	1	1741043	678880	5368	1197
-flemish_region_BE	Flemish Region, Belgium	Maurits Vande Reyde	Vande Reyde Maurits Jozef	1797427180478228	Facebook	86	1	1583616	445744	11706	799
-flemish_region_BE	Flemish Region, Belgium	Kathleen Van Brempt	Kathleen Van Brempt	206193139504506	Facebook	146	1	1474571	349965	14271	486
-flemish_region_BE	Flemish Region, Belgium	Brecht Warnez	Warnez Brecht Luc T	998887823550443	Facebook	177	1	1434018	384312	17733	98
-flemish_region_BE	Flemish Region, Belgium	sp.a West-Vlaanderen	sp.a West-Vlaanderen	269157793205215	Facebook	33	1	1390982	539569	6022	980
-flemish_region_BE	Flemish Region, Belgium	Johan Van Overtveldt		275607285891320	Facebook	14	1	1140986	457000	8386	1800
-flemish_region_BE	Flemish Region, Belgium	Party of European Socialists	Party of European Socialists	148097975226385	Facebook	101	1	1133782	352333	3699	226
-flemish_region_BE	Flemish Region, Belgium	Bart De Wever		24079407056	Facebook	2	1	999998	400000	9998	2000
-flemish_region_BE	Flemish Region, Belgium	Conner Rousseau	Conner Rousseau	942750852588816	Facebook	33	1	992864	248548	8946	1695
+advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+Vlaams Belang	Vlaams Belang	56605856504	Facebook	flemish_region_BE	Flemish Region, Belgium	9	1	1610112	772371	22191	7653
+Open Vld	Open Vld	53668151866	Facebook	flemish_region_BE	Flemish Region, Belgium	28	1	774664	256602	5721	779
+Tom Van Grieken	Vlaams Belang	584806884924010	Facebook	flemish_region_BE	Flemish Region, Belgium	5	1	755995	311000	10695	2100
+Peter Mertens	PVDA	236485149843971	Facebook	flemish_region_BE	Flemish Region, Belgium	8	1	504564	221047	2738	490
+CD&V	CD&V	52997544531	Facebook	flemish_region_BE	Flemish Region, Belgium	6	1	310994	125000	1794	300
+sp.a	sp.a	57253967150	Facebook	flemish_region_BE	Flemish Region, Belgium	3	1	199997	70000	697	100
+Barbara Pas	Vlaams Belang	365242667182267	Facebook	flemish_region_BE	Flemish Region, Belgium	1	1	199650	99825	997	499
+John Crombez	sp.a	264131406977201	Facebook	flemish_region_BE	Flemish Region, Belgium	3	1	149997	30000	697	100
+Maggie De Block	Maggie De Block	1410219772556421	Facebook	flemish_region_BE	Flemish Region, Belgium	24	1	104896	22999	2368	0
+Peter Van Kemseke	Van Kemseke Peter Leo S	397455370285369	Facebook	flemish_region_BE	Flemish Region, Belgium	2	1	99998	20000	998	200
+Greenpeace Belgium	Greenpeace Belgium	73232790238	Facebook	flemish_region_BE	Flemish Region, Belgium	8	1	99250	20342	346	0
+Geert Bourgeois	Nieuw-Vlaamse Alliantie	649429725077632	Facebook	flemish_region_BE	Flemish Region, Belgium	1	1	97691	48846	487	97
+CD&V Oostkamp	CD&V Oostkamp	2062142307347631	Facebook	flemish_region_BE	Flemish Region, Belgium	1	1	97399	48700	486	97
+Gwendolyn Rutten	Gwendolyn Rutten	149158155084	Facebook	flemish_region_BE	Flemish Region, Belgium	23	1	83977	13000	2277	0
+Jos D'Haese	PVDA	1397002987227704	Facebook	flemish_region_BE	Flemish Region, Belgium	5	1	70949	16990	494	0
+BirdLife Europe and Central Asia	BirdLife Europe and Central Asia	174656216277326	Facebook	flemish_region_BE	Flemish Region, Belgium	2	1	57910	11582	114	0
+Kim De Witte	PVDA	315662412174661	Facebook	flemish_region_BE	Flemish Region, Belgium	2	1	54666	10933	594	99
+CDH - Centre Démocrate Humaniste	CDH - Centre Démocrate Humaniste	189649407806135	Facebook	flemish_region_BE	Flemish Region, Belgium	4	1	50663	10324	105	0
+Lynn Wesenbeek - Lijstduwer Open Vld Europa	Arendsoog	280977886188439	Facebook	flemish_region_BE	Flemish Region, Belgium	1	1	49999	10000	499	100
+sp.a West-Vlaanderen	sp.a West-Vlaanderen	269157793205215	Facebook	flemish_region_BE	Flemish Region, Belgium	1	1	49999	10000	99	0
+Lise Vandecasteele	PVDA	2433030616715564	Facebook	flemish_region_BE	Flemish Region, Belgium	1	1	49909	9982	98	0
+European Parliament	European Parliament	178362315106	Facebook	flemish_region_BE	Flemish Region, Belgium	2	1	49154	9831	490	98
+Aaron Ooms	Ooms Aaron Maria W	127953044627536	Facebook	flemish_region_BE	Flemish Region, Belgium	1	1	48959	9792	96	0
+Lode Ceyssens	Lode Ceyssens	690224427744073	Facebook	flemish_region_BE	Flemish Region, Belgium	2	1	48749	9550	193	0
+CDH liste à la Chambre province de Liège	CDH - Centre Démocrate Humaniste	268478507423505	Facebook	flemish_region_BE	Flemish Region, Belgium	4	1	22299	4460	51	0

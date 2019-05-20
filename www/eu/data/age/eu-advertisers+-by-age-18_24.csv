@@ -1,26 +1,26 @@
-age_code_filter	age_label_filter	advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-18_24	18-24	European Parliament		178362315106	Facebook	1278	1	106187466	47372345	473016	120367
-18_24	18-24	Kialo		729627343834501	Facebook	712	1	22639268	8834541	134063	31059
-18_24	18-24	European Greens		141366725876424	Facebook	266	1	20373872	8988836	112653	27389
-18_24	18-24	SPD	SPD	47930567748	Facebook	8185	1	19502520	5293438	421047	20174
-18_24	18-24	Podemos	Unidas Podemos	269212336568846	Facebook	256	1	16486038	7360385	83556	21191
-18_24	18-24	People's Vote UK	People's Vote	748608695327755	Facebook	3305	1	16190121	5797204	179657	33378
-18_24	18-24	European Commission		107898832590939	Facebook	69	1	12021401	5546918	47023	12355
-18_24	18-24	Liberal Democrats	the Liberal Democrats	5883973269	Facebook	3211	1	11803833	4168093	116791	17278
-18_24	18-24	sp.a	sp.a	57253967150	Facebook	224	1	11110603	4515452	48944	9861
-18_24	18-24	Best For Britain	Best for Britain	1863944713844924	Facebook	820	1	10890048	4735499	107837	26138
-18_24	18-24	CDU	CDU	78502295414	Facebook	3170	1	10873074	2591815	89786	2282
-18_24	18-24	Partido Popular	Partido Popular	72249031214	Facebook	849	1	10288679	3851643	59400	8893
-18_24	18-24	Greenpeace France		39435457457	Facebook	128	1	10003459	4634612	51581	11561
-18_24	18-24	FDP	FDP	21289227249	Facebook	2282	1	9400014	2913942	80721	4349
-18_24	18-24	EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	185	1	8353513	3348151	19091	3957
-18_24	18-24	Conservatives	The Conservative Party	8807334278	Facebook	1809	1	8032404	3017176	88065	12016
-18_24	18-24	N-VA	Nieuw-Vlaamse Alliantie	334361224413	Facebook	124	1	7966825	3327641	25552	7162
-18_24	18-24	Vlaams Belang	Vlaams Belang	56605856504	Facebook	74	1	7753438	3520218	50873	12380
-18_24	18-24	România în primul rând	Future Innovation	770704223323599	Facebook	66	1	7628480	3494811	4926	1461
-18_24	18-24	PSOE	PSOE	189318235003	Facebook	328	1	6856634	2692487	21635	3649
-18_24	18-24	Greenpeace Deutschland		22541752487	Facebook	414	1	6721747	2444229	34466	5088
-18_24	18-24	Tom Van Grieken	Vlaams Belang	584806884924010	Facebook	119	1	6395571	2780044	53634	12373
-18_24	18-24	Ciudadanos	Ciudadanos	74078667754	Facebook	3809	1	5982114	1911629	52790	4743
-18_24	18-24	Socialists and Democrats Group in the European Parliament		127925800618165	Facebook	83	1	5668933	2590378	11821	2701
-18_24	18-24	Friends of the Earth	Friends of the Earth	110861655604080	Facebook	2068	1	5530800	1923096	59376	4832
+advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	age_code_filter	age_label_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+CDU	CDU	78502295414	Facebook	18_24	18-24	4995	1	4101553	684998	160251	0
+Gouvernement	Gouvernement	392341217527576	Facebook	18_24	18-24	10	1	2492950	1055799	3673	920
+Green Party of England and Wales	The Green Party of England and Wales	20995300784	Facebook	18_24	18-24	20	1	1293906	582181	4043	1192
+Remain United	Centrum Campaign Ltd	388121018451293	Facebook	18_24	18-24	28	1	910597	336260	3432	779
+Avaaz	Avaaz	8340223883	Facebook	18_24	18-24	10	1	775659	310766	833	175
+FDP	FDP	21289227249	Facebook	18_24	18-24	837	1	772829	118606	25337	77
+BÜNDNIS 90/DIE GRÜNEN	BÜNDNIS 90/DIE GRÜNEN	47217143218	Facebook	18_24	18-24	799	1	747400	116583	30738	31
+Massimiliano Santini	Massimiliano Ghelfi	389585871653842	Facebook	18_24	18-24	36	1	711302	254087	1874	83
+Wiosna Biedronia	KW Wiosna Roberta Biedronia	2246647628925721	Facebook	18_24	18-24	4	1	644113	264902	2276	965
+European Parliament	European Parliament	178362315106	Facebook	18_24	18-24	39	1	625133	283418	5279	1885
+Momentum Mozgalom	Momentum Mozgalom	592204747588011	Facebook	18_24	18-24	63	1	601149	256549	1401	494
+Prawo i Sprawiedliwość	Komitet Wyborczy Prawo i Sprawiedliwość	157458232131	Facebook	18_24	18-24	5	1	528437	223053	1093	218
+Vlaams Belang	Vlaams Belang	56605856504	Facebook	18_24	18-24	9	1	487318	215353	7003	2111
+Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	18_24	18-24	6	1	417092	180488	1551	306
+INBOX	New Digital Media	369693523475596	Facebook	18_24	18-24	11	1	370590	163137	410	50
+Det Konservative Folkeparti	Det Konservative Folkeparti	39233495912	Facebook	18_24	18-24	20	1	362413	74301	4851	994
+Fidesz	Fidesz	9844779306	Facebook	18_24	18-24	13	1	348837	152674	1564	679
+Konfederacja KORWiN Braun Liroy Narodowcy	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1971966879776579	Facebook	18_24	18-24	19	1	343091	126525	1005	281
+Gyöngyösi Márton	Országgyűlés Hivatala Jobbik Frakció	781030738624077	Facebook	18_24	18-24	4	1	310177	133000	564	282
+Liberal Democrats	the Liberal Democrats	5883973269	Facebook	18_24	18-24	272	1	308192	69683	9275	0
+MR - Mouvement Réformateur	MR - Mouvement Réformateur	236330169511	Facebook	18_24	18-24	193	1	271293	27042	17255	0
+CDH - Centre Démocrate Humaniste	CDH - Centre Démocrate Humaniste	189649407806135	Facebook	18_24	18-24	34	1	267718	78647	640	0
+Party of the European Left	Franziska Laskowski	160598290012	Facebook	18_24	18-24	1	1	247451	98980	246	49
+Θοδωρής Ζαγοράκης / Thodoris Zagorakis	Θοδωρής Ζαγοράκης / Thodoris Zagorakis	235332330007800	Facebook	18_24	18-24	1	1	226146	90458	225	45
+Beate Meinl-Reisinger	NEOS	243225039137708	Facebook	18_24	18-24	3	1	213892	106946	1190	311

@@ -1,26 +1,26 @@
-audience_code_filter	audience_label_filter	advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-m65_	male (65+)	Britain's Future	Britain's Future	1625300137516491	Facebook	3890	1	10619155	3138169	118862	16429
-m65_	male (65+)	We are the 52%	We are the 52%	466744973727718	Facebook	278	1	4373462	1571772	12861	1660
-m65_	male (65+)	People's Vote UK	People's Vote	748608695327755	Facebook	3157	1	3329168	1070426	57143	9367
-m65_	male (65+)	Ciudadanos	Ciudadanos	74078667754	Facebook	3757	1	3096975	958412	29778	2487
-m65_	male (65+)	Silvio Berlusconi	Silvio Berlusconi	116716651695782	Facebook	383	1	3093186	1280640	14215	2727
-m65_	male (65+)	European Parliament		178362315106	Facebook	910	1	2931987	1268407	18729	4108
-m65_	male (65+)	Conservatives	The Conservative Party	8807334278	Facebook	1553	1	2648310	928093	40679	4872
-m65_	male (65+)	38 Degrees	38 Degrees	200006375787	Facebook	640	1	2448081	869874	16944	2434
-m65_	male (65+)	Liberal Democrats	the Liberal Democrats	5883973269	Facebook	2030	1	2345945	730545	47256	4424
-m65_	male (65+)	Podemos	Unidas Podemos	269212336568846	Facebook	185	1	2277359	1031595	14735	3914
-m65_	male (65+)	SPD	SPD	47930567748	Facebook	4290	1	2057356	489461	59317	2206
-m65_	male (65+)	The Labour Party	The Labour Party	25749647410	Facebook	605	1	1932808	762009	17711	3956
-m65_	male (65+)	Partito Democratico		77034286895	Facebook	168	1	1824849	797600	9296	1897
-m65_	male (65+)	Best For Britain	Best for Britain	1863944713844924	Facebook	721	1	1759575	730811	26813	6012
-m65_	male (65+)	Partidul Social Democrat	Partidul Social Democrat	291177524360702	Facebook	85	1	1746159	793621	4021	1131
-m65_	male (65+)	Vattenfall Sverige		608975645850217	Facebook	28	1	1687591	776450	21747	6052
-m65_	male (65+)	The Brexit Party	The Brexit Party	230416667843105	Facebook	107	1	1590846	755002	23934	7025
-m65_	male (65+)	Jobbik Magyarországért Mozgalom	Jobbik Magyarországért Mozgalom	287770891404	Facebook	63	1	1538786	714977	3566	1586
-m65_	male (65+)	Sosialidemokraatit SDP		108945982480217	Facebook	233	1	1311020	494169	8988	1876
-m65_	male (65+)	Change UK - The Independent Group	Change UK - The Independent Group	395151614382309	Facebook	690	1	1236844	457720	23118	4153
-m65_	male (65+)	Fidesz	Fidesz	9844779306	Facebook	89	1	1116391	530451	3822	1873
-m65_	male (65+)	Partidul Naţional Liberal	Future Innovation 	181375448581167	Facebook	121	1	1087219	453342	2047	551
-m65_	male (65+)	Tom Van Grieken	Vlaams Belang	584806884924010	Facebook	111	1	985602	423586	8443	1978
-m65_	male (65+)	ČSSD	ČSSD	111041662264882	Facebook	1381	1	964423	175182	6536	1353
-m65_	male (65+)	Matteo Salvini	Lega - Salvini Premier	252306033154	Facebook	31	1	929035	428913	2447	685
+advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+European Parliament	European Parliament	178362315106	Facebook	m65_	male (65+)	39	1	486491	212245	2982	844
+Conservatives	The Conservative Party	8807334278	Facebook	m65_	male (65+)	710	1	192836	27229	10860	23
+Fidesz	Fidesz	9844779306	Facebook	m65_	male (65+)	18	1	184442	83622	849	375
+Gouvernement	Gouvernement	392341217527576	Facebook	m65_	male (65+)	10	1	174835	44269	342	0
+CDU	CDU	78502295414	Facebook	m65_	male (65+)	3945	1	120924	21677	4326	0
+Det Konservative Folkeparti	Det Konservative Folkeparti	39233495912	Facebook	m65_	male (65+)	34	1	95786	21712	1232	250
+Moderaterna	Moderaterna	7719591155	Facebook	m65_	male (65+)	20	1	91004	34600	1197	308
+Momentum Mozgalom	Momentum Mozgalom	592204747588011	Facebook	m65_	male (65+)	54	1	87972	29496	247	74
+Avaaz	Avaaz	8340223883	Facebook	m65_	male (65+)	10	1	64989	26117	147	42
+European Commission	European Commission	107898832590939	Facebook	m65_	male (65+)	3	1	62509	25677	72	14
+Giorgia Meloni	Fratelli d'Italia	38919827644	Facebook	m65_	male (65+)	6	1	62212	25007	231	40
+Caterina Avanza	Partito Democratico - Caterina Avanza	623847078064207	Facebook	m65_	male (65+)	2	1	54559	27279	272	54
+Konfederacja KORWiN Braun Liroy Narodowcy	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1971966879776579	Facebook	m65_	male (65+)	19	1	51455	19718	171	46
+PSOE Aragón	PSOE Aragón	170970449608409	Facebook	m65_	male (65+)	129	1	51096	77	5032	0
+Vlaams Belang	Vlaams Belang	56605856504	Facebook	m65_	male (65+)	9	1	48338	24070	640	240
+Fabrizio Ghera	Fabrizio Ghera	1803487999879591	Facebook	m65_	male (65+)	10	1	46029	18936	221	30
+FDP	FDP	21289227249	Facebook	m65_	male (65+)	466	1	44252	6086	1791	7
+Parti Populaire - Le Peuple	Parti Populaire - Le Peuple	482811111771571	Facebook	m65_	male (65+)	3	1	43828	16668	407	79
+The Labour Party	The Labour Party	25749647410	Facebook	m65_	male (65+)	10	1	43079	18434	386	113
+Οι Έλληνες	In Progress	2273336566260671	Facebook	m65_	male (65+)	2	1	41966	17756	112	56
+CSU (Christlich-Soziale Union)	CSU (Christlich-Soziale Union)	81386795687	Facebook	m65_	male (65+)	2	1	39457	15800	394	78
+Matteo Salvini	Lega - Salvini Premier	252306033154	Facebook	m65_	male (65+)	1	1	37863	18932	18	3
+Jakab Péter	Országgyűlés Hivatala Jobbik Frakció	781150971947219	Facebook	m65_	male (65+)	3	1	37137	18569	105	49
+Deputati PD	Deputati PD	104652392900508	Facebook	m65_	male (65+)	5	1	35856	8378	102	0
+Achille Variati	Achille Variati	478212418874107	Facebook	m65_	male (65+)	6	1	31154	6231	80	0

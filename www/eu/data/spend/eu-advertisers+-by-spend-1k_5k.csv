@@ -1,26 +1,26 @@
-spend_code_filter	spend_label_filter	advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-1k_5k	1k - 5k	European Parliament		178362315106	Facebook	170	1	106747889	49955489	732932	157799
-1k_5k	1k - 5k	Podemos	Unidas Podemos	269212336568846	Facebook	87	1	58899913	26800000	434913	87000
-1k_5k	1k - 5k	People's Vote UK	People's Vote	748608695327755	Facebook	137	1	24697268	10848172	296449	80696
-1k_5k	1k - 5k	European Greens		141366725876424	Facebook	43	1	24299957	11100000	214957	43000
-1k_5k	1k - 5k	Vlaams Belang	Vlaams Belang	56605856504	Facebook	32	1	21799968	10200000	159968	32000
-1k_5k	1k - 5k	Partidul Social Democrat	Partidul Social Democrat	291177524360702	Facebook	62	1	20834450	9716911	44537	14581
-1k_5k	1k - 5k	Greenpeace France		39435457457	Facebook	25	1	19899975	9600000	124975	25000
-1k_5k	1k - 5k	Partido Popular	Partido Popular	72249031214	Facebook	26	1	19899974	9500000	129974	26000
-1k_5k	1k - 5k	Kialo		729627343834501	Facebook	59	1	19668793	8870784	174006	44131
-1k_5k	1k - 5k	Conservatives	The Conservative Party	8807334278	Facebook	64	1	18857049	8750830	142664	38138
-1k_5k	1k - 5k	Best For Britain	Best for Britain	1863944713844924	Facebook	79	1	18003631	8200032	197024	49287
-1k_5k	1k - 5k	Tom Van Grieken	Vlaams Belang	584806884924010	Facebook	34	1	17999966	7800000	169966	34000
-1k_5k	1k - 5k	Alianța 2020 USR PLUS	Uniunea Salvați România - USR	621574984950400	Facebook	92	1	15353677	6942915	46499	9931
-1k_5k	1k - 5k	European Commission		107898832590939	Facebook	17	1	14999983	7300000	84983	17000
-1k_5k	1k - 5k	The Labour Party	The Labour Party	25749647410	Facebook	64	1	13640587	6081963	119425	35684
-1k_5k	1k - 5k	Jobbik Magyarországért Mozgalom	Jobbik Magyarországért Mozgalom	287770891404	Facebook	22	1	12237690	5955174	34332	15899
-1k_5k	1k - 5k	Liberal Democrats	the Liberal Democrats	5883973269	Facebook	83	1	11131617	5132361	133866	44058
-1k_5k	1k - 5k	Ciudadanos	Ciudadanos	74078667754	Facebook	18	1	10099982	4500000	89982	18000
-1k_5k	1k - 5k	SPD	SPD	47930567748	Facebook	20	1	9999980	4650000	99980	20000
-1k_5k	1k - 5k	sp.a	sp.a	57253967150	Facebook	15	1	9799985	4550000	74985	15000
-1k_5k	1k - 5k	Un país moderno	Unidas Podemos	577723459314066	Facebook	13	1	8999987	4100000	64987	13000
-1k_5k	1k - 5k	Harald Vilimsky		547597092025909	Facebook	23	1	7999977	3550000	114977	23000
-1k_5k	1k - 5k	Referendum Commission		580832208630212	Facebook	11	1	7399989	3500000	54989	11000
-1k_5k	1k - 5k	The Brexit Party	The Brexit Party	230416667843105	Facebook	47	1	7054665	3371668	112621	28837
-1k_5k	1k - 5k	Sign for my Future	Sign for my Future	1345513882259768	Facebook	12	1	6399988	2800000	59988	12000
+advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	spend_code_filter	spend_label_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+Future Innovation SRL		AR474748779908562944	Google	1k_5k	1k - 5k	26	1	185014604	18501460	358003	5966
+COALICION ELECTORAL UNIDAS PODEMOS		AR21167248102129664	Google	1k_5k	1k - 5k	37	1	73161319	7316131	509467	8491
+Kansallinen Kokoomus r.p.		AR210958348219056128	Google	1k_5k	1k - 5k	21	1	53012123	5301212	289157	4819
+KOMITET WYBORCZY PRAWO I SPRAWIEDLIWOŚĆ		AR237340030215913472	Google	1k_5k	1k - 5k	8	1	36718353	3671835	110155	1835
+Freiheitliche Partei Österreich		AR333020356698701824	Google	1k_5k	1k - 5k	16	1	30063152	3006315	220310	3671
+Fratelli d'Italia Centrodestra Nazionale		AR400032566754672640	Google	1k_5k	1k - 5k	12	1	29466478	2946647	165232	2753
+Nieuw-Vlaamse Alliantie		AR417822664892088320	Google	1k_5k	1k - 5k	25	1	29195680	2919109	344234	5737
+SOCIALDEMOKRATIET		AR271193993235136512	Google	1k_5k	1k - 5k	43	1	21388441	2138844	592083	9868
+Ciudadanos - Partido de la Ciudadanía		AR309397624253841408	Google	1k_5k	1k - 5k	22	1	18359176	1835917	302926	5048
+Partidul Uniunea Salvati Romania		AR150822483883196416	Google	1k_5k	1k - 5k	6	1	14733239	1473323	82616	1376
+Det Konservative Folkeparti		AR40969452518375424	Google	1k_5k	1k - 5k	8	1	11933464	1193346	110155	1835
+HEADS, s.r.o.		AR356967719951663104	Google	1k_5k	1k - 5k	3	1	9225486	922548	41308	688
+Párbeszéd Magyarországért		AR567356246269624320	Google	1k_5k	1k - 5k	2	1	9179588	917958	27538	458
+Suomen Keskusta r.p.		AR441112520191639552	Google	1k_5k	1k - 5k	10	1	8307527	830752	137693	2294
+Sozialdemokratische Partei Österreichs (SPÖ)		AR520910676089110528	Google	1k_5k	1k - 5k	19	1	6242120	624212	261618	4360
+Alternativet		AR198061076825243648	Google	1k_5k	1k - 5k	5	1	6012630	601263	68846	1147
+Partido Animalista PACMA		AR145115193901318144	Google	1k_5k	1k - 5k	4	1	5966732	596673	55077	917
+Sotsiaaldemokraatlik Erakond		AR61981944358895616	Google	1k_5k	1k - 5k	3	1	5507753	550775	41308	688
+NEA DEMOKRATIA		AR351183464155840512	Google	1k_5k	1k - 5k	2	1	5048773	504877	27538	458
+NÁRODNÁ KOALÍCIA		AR12498698428743680	Google	1k_5k	1k - 5k	2	1	5048773	504877	27538	458
+SPD		AR456734381399080960	Google	1k_5k	1k - 5k	17	1	4084916	408491	234079	3901
+Suomen Sosialidemokraattinen Puolue - Finlands Socialdemokratiska  Parti r.p.		AR525570406367625216	Google	1k_5k	1k - 5k	11	1	3809529	380952	151463	2524
+Venstres Landsorganisation		AR283015942256984064	Google	1k_5k	1k - 5k	14	1	3121060	312106	192771	3212
+European Parliament	European Parliament	178362315106	Facebook	1k_5k	1k - 5k	5	1	3099995	1450000	24995	5000
+ENTUSIASMO Y MUCHO VALOR, S.L.U.		AR433345570053029888	Google	1k_5k	1k - 5k	7	1	2799774	279977	96385	1606
