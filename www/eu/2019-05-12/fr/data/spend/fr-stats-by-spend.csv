@@ -1,0 +1,7 @@
+spend_code	spend_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+0_50	0 - 50	FR	France	10226	2903	54669158	14220882	606336	156
+50_100	50 - 100	FR	France	10316	2841	3214152	1184919	17503	2652
+100_1k	100 - 1k	FR	France	2248	688	97151001	39200265	506316	149188
+1k_5k	1k - 5k	FR	France	285	110	73672253	33434316	684662	138258
+5k_10k	5k - 10k	FR	France	16	14	4874853	2435732	49731	24523
+10k_50k	10k - 50k	FR	France	1	1	35151	17575	1564	312

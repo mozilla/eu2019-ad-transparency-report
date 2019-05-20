@@ -1,0 +1,9 @@
+impression_code	impression_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+0_1k	0 - 1k	LU	Luxembourg	478	155	141787	0	13901	0
+1k_5k	1k - 5k	LU	Luxembourg	748	286	1060542	212151	20829	0
+5k_10k	5k - 10k	LU	Luxembourg	420	186	1454164	727154	14784	106
+10k_50k	10k - 50k	LU	Luxembourg	909	278	8062901	1612612	25434	2419
+50k_100k	50k - 100k	LU	Luxembourg	269	121	2816412	1408220	11593	2225
+100k_200k	100k - 200k	LU	Luxembourg	181	77	2600876	1300445	6759	1672
+200k_500k	200k - 500k	LU	Luxembourg	149	74	775167	310067	1825	704
+500k_1m	500k - 1m	LU	Luxembourg	59	35	198224	99112	931	278

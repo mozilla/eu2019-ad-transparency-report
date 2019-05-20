@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	EL	Greece	7450	1361	77664306	28740208	298623	29614
+m	male	EL	Greece	7202	1342	134084079	48899023	505890	46678
+u	unknown	EL	Greece	6508	1274	1191412	436718	4574	464

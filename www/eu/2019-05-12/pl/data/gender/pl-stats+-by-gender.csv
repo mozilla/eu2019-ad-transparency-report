@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	PL	Poland	7510	1662	79506194	29100158	224321	42688
+m	male	PL	Poland	7135	1610	78827643	29168372	230468	43584
+u	unknown	PL	Poland	6238	1487	473736	171027	1707	320

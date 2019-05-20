@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	LV	Latvia	2270	578	9663395	3320629	48184	5036
+m	male	LV	Latvia	2110	563	7949393	2763159	36932	4375
+u	unknown	LV	Latvia	1974	523	45021	15726	228	28

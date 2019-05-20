@@ -1,0 +1,6 @@
+spend_code	spend_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+0_50	0 - 50	CY	Cyprus	1568	411	15355170	4032062	61673	59
+50_100	50 - 100	CY	Cyprus	1558	387	176163	55751	469	24
+100_1k	100 - 1k	CY	Cyprus	363	155	4826425	2152993	18232	4335
+1k_5k	1k - 5k	CY	Cyprus	37	27	3013016	1453995	21510	4327
+5k_10k	5k - 10k	CY	Cyprus	2	2	375	187	3	1

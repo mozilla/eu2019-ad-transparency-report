@@ -1,0 +1,7 @@
+spend_code	spend_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+0_50	0 - 50	RO	Romania	4704	1186	35610608	9647351	78085	596
+50_100	50 - 100	RO	Romania	2900	819	30277484	11037976	44476	8699
+100_1k	100 - 1k	RO	Romania	2012	438	157778491	69071145	279622	75144
+1k_5k	1k - 5k	RO	Romania	365	67	72956345	33836765	212520	50958
+5k_10k	5k - 10k	RO	Romania	7	7	531453	265726	6254	1280
+10k_50k	10k - 50k	RO	Romania	2	2	492828	246414	6142	1228

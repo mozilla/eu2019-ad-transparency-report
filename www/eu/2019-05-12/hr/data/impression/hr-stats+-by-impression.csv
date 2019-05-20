@@ -1,0 +1,9 @@
+impression_code	impression_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+0_1k	0 - 1k	HR	Croatia	383	168	125215	0	11380	0
+1k_5k	1k - 5k	HR	Croatia	680	284	1257524	251555	22720	0
+5k_10k	5k - 10k	HR	Croatia	384	209	1637276	818720	15008	5
+10k_50k	10k - 50k	HR	Croatia	864	307	13653670	2730788	30169	1318
+50k_100k	50k - 100k	HR	Croatia	246	122	3946833	1973436	9460	1725
+100k_200k	100k - 200k	HR	Croatia	168	76	4861295	2430659	10604	2440
+200k_500k	200k - 500k	HR	Croatia	131	63	8753872	3501556	16550	4251
+500k_1m	500k - 1m	HR	Croatia	65	36	5967086	2983546	22894	5044

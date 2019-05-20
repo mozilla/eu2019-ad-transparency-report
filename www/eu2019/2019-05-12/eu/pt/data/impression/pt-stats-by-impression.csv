@@ -1,9 +1,0 @@
-country_code_filter	country_name_filter	impression_code	impression_label	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-PT	Portugal	0_1k	0 - 1k	855	318	179687	0	16542	0
-PT	Portugal	1k_5k	1k - 5k	984	424	1041392	208320	20068	1
-PT	Portugal	5k_10k	5k - 10k	520	282	1016815	508458	9951	17
-PT	Portugal	10k_50k	10k - 50k	1209	425	11514511	2302948	32520	2562
-PT	Portugal	50k_100k	50k - 100k	350	153	6255518	3127790	21225	4079
-PT	Portugal	100k_200k	100k - 200k	250	97	7024495	3512265	19456	4947
-PT	Portugal	200k_500k	200k - 500k	208	83	12815694	5126287	24262	7806
-PT	Portugal	500k_1m	500k - 1m	93	49	12875133	6437573	34608	8530

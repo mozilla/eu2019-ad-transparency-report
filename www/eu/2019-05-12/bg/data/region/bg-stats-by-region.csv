@@ -1,0 +1,22 @@
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+blagoevgrad_province	Blagoevgrad Province	BG	Bulgaria	1601	483	115692	32291	983	11
+burgas_province	Burgas Province	BG	Bulgaria	1704	500	223279	55630	714	17
+haskovo_province	Haskovo Province	BG	Bulgaria	1441	423	25863	8620	187	4
+kyustendil_province	Kyustendil Province	BG	Bulgaria	1282	369	6857	2346	46	1
+lovech_province	Lovech Province	BG	Bulgaria	1256	366	10303	2967	116	1
+montana_province	Montana Province	BG	Bulgaria	1261	355	10152	2928	119	1
+pazardzhik_province	Pazardzhik Province	BG	Bulgaria	1434	413	66489	17225	244	6
+pernik_province	Pernik Province	BG	Bulgaria	1336	385	11153	3840	41	4
+pleven_province	Pleven Province	BG	Bulgaria	1485	445	29943	11031	110	7
+plovdiv_province	Plovdiv Province	BG	Bulgaria	1856	523	345586	111540	1056	65
+ruse_province	Ruse Province	BG	Bulgaria	1528	442	89405	28453	987	7
+sliven_province	Sliven Province	BG	Bulgaria	1342	402	13146	4978	41	3
+smolyan_province	Smolyan Province	BG	Bulgaria	1264	366	3878	1469	10	0
+sofia_city_province	Sofia City Province	BG	Bulgaria	2405	644	4300734	1380898	21836	1925
+sofia_province	Sofia Province	BG	Bulgaria	1371	392	15136	5577	49	6
+stara_zagora_province	Stara Zagora Province	BG	Bulgaria	1569	449	47026	17684	254	13
+varna_province	Varna Province	BG	Bulgaria	1817	520	288663	81437	1109	36
+veliko_tarnovo_province	Veliko Tarnovo Province	BG	Bulgaria	1528	444	44339	19051	253	6
+vidin_province	Vidin Province	BG	Bulgaria	1209	346	3065	1103	12	0
+vratsa_province	Vratsa Province	BG	Bulgaria	1296	385	35317	14903	320	2
+yambol_province	Yambol Province	BG	Bulgaria	1259	367	57054	12612	111	1
