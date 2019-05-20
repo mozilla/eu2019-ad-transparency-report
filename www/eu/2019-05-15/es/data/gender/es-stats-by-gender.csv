@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	ES	Spain	22951	2157	335134315	126646867	2422072	303499
+m	male	ES	Spain	20000	2079	245098686	94157925	1790976	229427
+u	unknown	ES	Spain	14304	1938	2667317	1039469	18287	2712

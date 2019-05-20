@@ -1,0 +1,15 @@
+region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+central_bohemian_region	Central Bohemian Region	CZ	Czechia	4838	555	897390	267913	2853	658
+hradec_kralove_region	Hradec Králové Region	CZ	Czechia	4270	501	628672	167710	1265	317
+karlovy_vary_region	Karlovy Vary Region	CZ	Czechia	4168	454	196146	53228	806	195
+liberec_region	Liberec Region	CZ	Czechia	4133	475	224000	66367	866	201
+moravian_silesian_region	Moravian-Silesian Region	CZ	Czechia	4922	589	1477479	454153	4831	1178
+olomouc_region	Olomouc Region	CZ	Czechia	4385	538	575558	160402	2282	525
+pardubice_region	Pardubice Region	CZ	Czechia	4132	473	270505	84620	976	235
+plzen_region	Plzeň Region	CZ	Czechia	4612	527	643202	173652	2629	534
+prague	Prague	CZ	Czechia	5743	741	8482329	2594666	32597	7495
+south_bohemian_region	South Bohemian Region	CZ	Czechia	4275	504	464760	130152	2105	439
+south_moravian_region	South Moravian Region	CZ	Czechia	5367	656	3373580	1034794	12348	3008
+vysocina_region	Vysočina Region	CZ	Czechia	4074	467	280186	84495	1027	240
+zlin_region	Zlín Region	CZ	Czechia	4572	511	646419	171368	2050	506
+usti_nad_labem_region	Ústí nad Labem Region	CZ	Czechia	4365	549	602123	199028	2717	601

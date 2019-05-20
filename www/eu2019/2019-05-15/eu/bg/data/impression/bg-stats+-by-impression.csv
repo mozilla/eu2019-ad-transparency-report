@@ -1,9 +1,0 @@
-country_code_filter	country_name_filter	impression_code	impression_label	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-BG	Bulgaria	0_1k	0 - 1k	436	183	131577	0	12172	1
-BG	Bulgaria	1k_5k	1k - 5k	660	271	962495	192537	18052	0
-BG	Bulgaria	5k_10k	5k - 10k	381	214	1014907	507504	9600	12
-BG	Bulgaria	10k_50k	10k - 50k	860	304	10489011	2097844	24713	1274
-BG	Bulgaria	50k_100k	50k - 100k	231	118	3508291	1754163	9169	1528
-BG	Bulgaria	100k_200k	100k - 200k	174	79	5187592	2593808	11526	2869
-BG	Bulgaria	200k_500k	200k - 500k	132	69	8896916	3558773	22548	5744
-BG	Bulgaria	500k_1m	500k - 1m	60	40	5227938	2613972	8994	2920

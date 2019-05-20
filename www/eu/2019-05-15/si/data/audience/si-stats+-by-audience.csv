@@ -1,0 +1,22 @@
+audience_code	audience_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+m18_24	male (18-24)	SI	Slovenia	2237	556	3151126	1183646	15862	2136
+m25_34	male (25-34)	SI	Slovenia	2476	621	3053481	1107937	16143	2052
+f18_24	female (18-24)	SI	Slovenia	2345	568	2726252	1058152	12867	1920
+m35_44	male (35-44)	SI	Slovenia	2394	606	2350810	812583	12129	1445
+f25_34	female (25-34)	SI	Slovenia	2620	631	2165258	846452	11240	1640
+f35_44	female (35-44)	SI	Slovenia	2521	614	1684791	640804	8762	1251
+m45_54	male (45-54)	SI	Slovenia	2287	581	1585335	518736	8404	796
+f45_54	female (45-54)	SI	Slovenia	2424	588	1175001	421940	6261	711
+m55_64	male (55-64)	SI	Slovenia	1811	543	960990	286931	5686	249
+f55_64	female (55-64)	SI	Slovenia	1899	550	943385	303040	6091	298
+f65_	female (65+)	SI	Slovenia	1687	488	577290	186744	4203	182
+m65_	male (65+)	SI	Slovenia	1636	487	555818	171235	3699	153
+f13_17	female (13-17)	SI	Slovenia	297	114	138754	51513	469	8
+m13_17	male (13-17)	SI	Slovenia	287	109	86616	32683	320	9
+u35_44	unknown (35-44)	SI	Slovenia	2169	545	64658	23588	340	44
+u25_34	unknown (25-34)	SI	Slovenia	2202	547	60028	22247	318	40
+u45_54	unknown (45-54)	SI	Slovenia	1919	492	18177	6270	105	11
+u18_24	unknown (18-24)	SI	Slovenia	1692	440	13593	5165	67	10
+u65_	unknown (65+)	SI	Slovenia	1238	409	6074	1922	36	1
+u55_64	unknown (55-64)	SI	Slovenia	1322	434	5271	1598	35	1
+u13_17	unknown (13-17)	SI	Slovenia	193	89	464	176	1	0

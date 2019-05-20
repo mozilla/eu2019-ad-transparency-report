@@ -1,0 +1,7 @@
+spend_code	spend_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+0_50	0 - 50	BG	Bulgaria	2312	692	15354320	4406873	59401	10
+50_100	50 - 100	BG	Bulgaria	2473	676	2328160	961701	7211	1206
+100_1k	100 - 1k	BG	Bulgaria	751	245	15589987	7000363	32918	9532
+1k_5k	1k - 5k	BG	Bulgaria	69	34	2128791	940929	16702	3477
+5k_10k	5k - 10k	BG	Bulgaria	5	5	11119	5559	262	69
+10k_50k	10k - 50k	BG	Bulgaria	1	1	6351	3175	282	56
