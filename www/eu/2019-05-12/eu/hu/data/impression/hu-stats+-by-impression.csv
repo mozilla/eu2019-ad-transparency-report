@@ -1,9 +1,0 @@
-impression_code	impression_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-0_1k	0 - 1k	HU	Hungary	915	416	493262	0	8412	246
-1k_5k	1k - 5k	HU	Hungary	1377	754	4231146	846398	20308	2474
-5k_10k	5k - 10k	HU	Hungary	657	359	3332392	1666362	13203	2846
-10k_50k	10k - 50k	HU	Hungary	1456	436	33752477	6750630	84730	18756
-50k_100k	50k - 100k	HU	Hungary	442	169	20761336	10380771	54414	19781
-100k_200k	100k - 200k	HU	Hungary	363	119	38675120	19337656	92104	37733
-200k_500k	200k - 500k	HU	Hungary	218	91	40027600	16011072	72418	29185
-500k_1m	500k - 1m	HU	Hungary	99	46	33049633	16524833	70192	27191

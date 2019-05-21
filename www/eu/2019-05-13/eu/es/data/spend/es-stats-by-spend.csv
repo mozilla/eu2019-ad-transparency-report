@@ -1,7 +1,0 @@
-spend_code	spend_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-0_50	0 - 50	ES	Spain	22219	1959	175503718	43904090	1908173	176
-50_100	50 - 100	ES	Spain	22348	1895	2298645	813871	12785	1178
-100_1k	100 - 1k	ES	Spain	2788	511	237866584	102249903	934743	258284
-1k_5k	1k - 5k	ES	Spain	308	65	137525117	63219198	1002869	203145
-5k_10k	5k - 10k	ES	Spain	17	10	9140646	4570127	91721	45692
-10k_50k	10k - 50k	ES	Spain	3	2	2017856	1008929	100792	20158

@@ -1,9 +1,0 @@
-impression_code	impression_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-0_1k	0 - 1k	BE	Belgium	2474	641	1702526	0	167594	2
-1k_5k	1k - 5k	BE	Belgium	2526	861	8199004	1640128	161579	45
-5k_10k	5k - 10k	BE	Belgium	1174	546	7585379	3793069	81253	1761
-10k_50k	10k - 50k	BE	Belgium	2066	664	58210715	11642375	307348	50490
-50k_100k	50k - 100k	BE	Belgium	566	216	26645742	13323004	146513	38816
-100k_200k	100k - 200k	BE	Belgium	367	141	33233806	16616986	191173	52641
-200k_500k	200k - 500k	BE	Belgium	289	107	66262160	26504917	363743	87000
-500k_1m	500k - 1m	BE	Belgium	103	49	26485714	13242870	128379	26622

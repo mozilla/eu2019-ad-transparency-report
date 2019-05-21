@@ -1,7 +1,0 @@
-spend_code	spend_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-0_50	0 - 50	CZ	Czechia	5576	859	34136194	8831789	106810	19777
-50_100	50 - 100	CZ	Czechia	2641	670	11944109	3472479	45331	9029
-100_1k	100 - 1k	CZ	Czechia	1430	336	23577068	10369144	88722	27297
-1k_5k	1k - 5k	CZ	Czechia	137	53	10624562	5072082	64551	18395
-5k_10k	5k - 10k	CZ	Czechia	12	8	294185	146868	2535	1189
-10k_50k	10k - 50k	CZ	Czechia	1	1	8075	4037	359	71

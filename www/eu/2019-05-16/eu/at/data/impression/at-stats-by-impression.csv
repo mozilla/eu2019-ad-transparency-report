@@ -1,9 +1,0 @@
-impression_code	impression_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-0_1k	0 - 1k	AT	Austria	4494	522	3840466	0	380159	0
-1k_5k	1k - 5k	AT	Austria	3275	647	12496892	2499878	250821	929
-5k_10k	5k - 10k	AT	Austria	1365	439	9614039	4807500	111243	4064
-10k_50k	10k - 50k	AT	Austria	2353	586	69530881	13906454	433437	76116
-50k_100k	50k - 100k	AT	Austria	571	197	28005582	14002931	172050	49018
-100k_200k	100k - 200k	AT	Austria	359	134	26327019	13163575	182994	54040
-200k_500k	200k - 500k	AT	Austria	239	89	33063979	13225618	232973	54337
-500k_1m	500k - 1m	AT	Austria	82	43	7224691	3612349	43902	15904

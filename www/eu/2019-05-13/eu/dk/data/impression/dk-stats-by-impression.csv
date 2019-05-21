@@ -1,9 +1,0 @@
-impression_code	impression_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-0_1k	0 - 1k	DK	Denmark	3194	635	2777479	0	54738	999
-1k_5k	1k - 5k	DK	Denmark	2985	756	12344493	2469392	132918	24123
-5k_10k	5k - 10k	DK	Denmark	1129	421	8729681	4365277	94100	28212
-10k_50k	10k - 50k	DK	Denmark	1623	469	49246859	9849568	384994	92157
-50k_100k	50k - 100k	DK	Denmark	329	152	12191108	6095615	113574	35574
-100k_200k	100k - 200k	DK	Denmark	205	89	11057244	5528650	134182	37817
-200k_500k	200k - 500k	DK	Denmark	158	73	9349377	3739758	72342	17825
-500k_1m	500k - 1m	DK	Denmark	62	38	2240685	1120344	15124	3110

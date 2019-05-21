@@ -1,7 +1,0 @@
-spend_code	spend_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-0_50	0 - 50	IT	Italy	15697	4735	189276182	50015595	1263086	180
-50_100	50 - 100	IT	Italy	15835	4675	3992749	1445438	20551	2873
-100_1k	100 - 1k	IT	Italy	2300	607	199405695	86807211	653383	169202
-1k_5k	1k - 5k	IT	Italy	170	66	43942407	20315792	319509	64863
-5k_10k	5k - 10k	IT	Italy	9	7	1054373	526901	11116	5330
-10k_50k	10k - 50k	IT	Italy	1	1	23655	11827	1052	210

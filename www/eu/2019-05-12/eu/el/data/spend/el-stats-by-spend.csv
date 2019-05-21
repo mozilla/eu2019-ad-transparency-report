@@ -1,7 +1,0 @@
-spend_code	spend_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-0_50	0 - 50	EL	Greece	6712	1293	105059962	30017229	471814	90
-50_100	50 - 100	EL	Greece	6876	1274	1980226	756523	8185	1140
-100_1k	100 - 1k	EL	Greece	1293	338	91140749	40408828	229423	55157
-1k_5k	1k - 5k	EL	Greece	109	43	14708290	6868084	98095	20004
-5k_10k	5k - 10k	EL	Greece	8	7	32247	16123	754	201
-10k_50k	10k - 50k	EL	Greece	1	1	18323	9161	815	163

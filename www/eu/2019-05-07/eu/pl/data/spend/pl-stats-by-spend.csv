@@ -1,7 +1,0 @@
-spend_code	spend_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-0_50	0 - 50	PL	Poland	5177	1361	26114269	7166693	88146	1608
-50_100	50 - 100	PL	Poland	2753	818	16549218	4800937	40633	8026
-100_1k	100 - 1k	PL	Poland	1623	480	49814567	20631126	112861	29137
-1k_5k	1k - 5k	PL	Poland	151	55	14855068	7048858	52609	13906
-5k_10k	5k - 10k	PL	Poland	8	5	49512	24000	1362	360
-10k_50k	10k - 50k	PL	Poland	1	1	33510	16755	1491	298

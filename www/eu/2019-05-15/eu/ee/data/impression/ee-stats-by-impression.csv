@@ -1,9 +1,0 @@
-impression_code	impression_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-0_1k	0 - 1k	EE	Estonia	257	101	108767	0	10689	0
-1k_5k	1k - 5k	EE	Estonia	513	203	862822	172599	16919	1
-5k_10k	5k - 10k	EE	Estonia	306	137	1007855	503978	12741	701
-10k_50k	10k - 50k	EE	Estonia	713	232	7587655	1517561	24848	2471
-50k_100k	50k - 100k	EE	Estonia	234	98	3718983	1859510	17868	4397
-100k_200k	100k - 200k	EE	Estonia	166	70	3152826	1576421	13134	3019
-200k_500k	200k - 500k	EE	Estonia	128	60	3203314	1281328	10675	3374
-500k_1m	500k - 1m	EE	Estonia	56	35	1158595	579298	1443	326

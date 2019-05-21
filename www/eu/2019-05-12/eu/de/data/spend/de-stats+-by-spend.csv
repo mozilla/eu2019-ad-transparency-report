@@ -1,7 +1,0 @@
-spend_code	spend_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-0_50	0 - 50	DE	Germany	32627	3876	187079838	43942717	2833798	257
-50_100	50 - 100	DE	Germany	32853	3806	4007670	1417946	26146	3173
-100_1k	100 - 1k	DE	Germany	3504	906	159183870	58499050	1101904	275227
-1k_5k	1k - 5k	DE	Germany	243	98	39001109	17518230	432447	87836
-5k_10k	5k - 10k	DE	Germany	20	15	4595667	2245895	52937	25750
-10k_50k	10k - 50k	DE	Germany	1	1	74594	37297	3319	663
