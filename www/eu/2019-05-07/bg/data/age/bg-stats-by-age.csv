@@ -1,0 +1,8 @@
+age_code	age_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+13_17	13-17	BG	Bulgaria	307	106	456879	201696	887	100
+18_24	18-24	BG	Bulgaria	1960	585	5667950	2360787	16575	3011
+25_34	25-34	BG	Bulgaria	2202	652	4440291	1751666	17559	3025
+35_44	35-44	BG	Bulgaria	2182	643	2937682	1113728	11188	1684
+45_54	45-54	BG	Bulgaria	2132	615	2973845	1111623	10558	1262
+55_64	55-64	BG	Bulgaria	1685	562	2398107	888349	9501	790
+65_	65+	BG	Bulgaria	1505	499	1446186	529631	6376	491

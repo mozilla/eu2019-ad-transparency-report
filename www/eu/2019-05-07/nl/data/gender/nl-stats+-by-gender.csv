@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	NL	Netherlands	5670	1373	49450211	19087889	414959	78475
+m	male	NL	Netherlands	5282	1316	39651722	15244746	318092	57283
+u	unknown	NL	Netherlands	4646	1205	343237	124917	3159	518

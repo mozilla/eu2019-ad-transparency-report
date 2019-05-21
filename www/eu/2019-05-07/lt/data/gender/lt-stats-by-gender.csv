@@ -1,0 +1,4 @@
+gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
+f	female	LT	Lithuania	2289	565	15565268	6014814	60341	7954
+m	male	LT	Lithuania	2136	557	12783850	4768898	51003	7160
+u	unknown	LT	Lithuania	1979	523	87071	32585	404	61
