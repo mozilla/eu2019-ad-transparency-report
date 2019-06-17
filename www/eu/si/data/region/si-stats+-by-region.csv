@@ -1,13 +1,13 @@
 region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-carinthia_statistical_region	Carinthia Statistical Region	SI	Slovenia	43	14	769	167	15	0
-central_sava_statistical_region	Central Sava Statistical Region	SI	Slovenia	42	14	144	32	2	0
-central_slovenia_statistical_region	Central Slovenia Statistical Region	SI	Slovenia	47	16	27103	5643	676	0
-coastal_karst_statistical_region	Coastal–Karst Statistical Region	SI	Slovenia	59	16	1418	287	25	0
-drava_statistical_region	Drava Statistical Region	SI	Slovenia	59	15	14720	2654	409	0
-goriska_statistical_region	Goriška Statistical Region	SI	Slovenia	59	16	9347	3836	187	0
-littoral_inner_carniola_statistical_region	Littoral–Inner Carniola Statistical Region	SI	Slovenia	42	14	156	38	1	0
-lower_sava_statistical_region	Lower Sava Statistical Region	SI	Slovenia	44	14	923	203	15	0
-mura_statistical_region	Mura Statistical Region	SI	Slovenia	59	16	3066	238	216	0
-savinja_statistical_region	Savinja Statistical Region	SI	Slovenia	58	14	7187	1545	125	0
-southeast_slovenia_statistical_region	Southeast Slovenia Statistical Region	SI	Slovenia	44	14	7367	1358	214	0
-upper_carniola_statistical_region	Upper Carniola Statistical Region	SI	Slovenia	57	14	2747	675	37	0
+carinthia_statistical_region	Carinthia Statistical Region	SI	Slovenia	348	48	57746	17228	745	8
+central_sava_statistical_region	Central Sava Statistical Region	SI	Slovenia	334	45	16737	3998	47	2
+central_slovenia_statistical_region	Central Slovenia Statistical Region	SI	Slovenia	380	51	1659549	541567	10046	1099
+coastal_karst_statistical_region	Coastal–Karst Statistical Region	SI	Slovenia	411	57	96745	24751	329	22
+drava_statistical_region	Drava Statistical Region	SI	Slovenia	410	54	542019	163336	3284	191
+goriska_statistical_region	Goriška Statistical Region	SI	Slovenia	423	57	171958	49197	1210	16
+littoral_inner_carniola_statistical_region	Littoral–Inner Carniola Statistical Region	SI	Slovenia	349	51	42677	9727	201	2
+lower_sava_statistical_region	Lower Sava Statistical Region	SI	Slovenia	341	49	17435	5159	70	5
+mura_statistical_region	Mura Statistical Region	SI	Slovenia	397	54	65396	25219	519	14
+savinja_statistical_region	Savinja Statistical Region	SI	Slovenia	396	51	269301	78096	1214	92
+southeast_slovenia_statistical_region	Southeast Slovenia Statistical Region	SI	Slovenia	349	48	159807	43801	592	23
+upper_carniola_statistical_region	Upper Carniola Statistical Region	SI	Slovenia	391	47	162264	44063	587	51

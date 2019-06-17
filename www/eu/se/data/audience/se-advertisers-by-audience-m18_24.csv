@@ -1,98 +1,469 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Moderaterna	Moderaterna	7719591155	Facebook	m18_24	male (18-24)	SE	Sweden	18	1	36731	16496	430	89
-Liberalerna Stockholm	Liberalerna Stockholm	682180208473039	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	28289	5658	52	26
-Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	24176	12088	559	111
-Eric Luth	Eric Luth – Centerpartiet	757931234599499	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	19277	4631	166	33
-Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	16682	3491	50	19
-Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	13951	2790	129	25
-Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	7683	2131	144	28
-Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	m18_24	male (18-24)	SE	Sweden	7	1	4901	1257	72	16
-Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	4427	885	64	27
-Sverigedemokraterna Kalmar län	Kotanen Mika Erik	117200235024372	Facebook	m18_24	male (18-24)	SE	Sweden	13	1	4257	1068	27	4
-Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	3679	1059	29	5
-Miljöpartiet de gröna i Skåne	Miljöpartiet de gröna i Skåne	187178991394420	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	3065	1532	14	2
-Socialdemokraterna i Skåne	Socialdemokraterna i Skåne	102414309949126	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	2391	641	22	5
-Kristdemokraterna Sundsvall	Kristdemokraterna Sundsvall	1017885421625799	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	2164	358	19	3
-Moderaterna i Örebro län	Moderaterna i Örebro län	1622018661360930	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	1816	363	23	8
-Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	1771	354	11	1
-Folkstyret	Ströberg Mikael	1243789685638222	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	1375	275	12	2
-Moderaterna i Varberg	Moderaterna	665682436792792	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	1354	196	12	1
-Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	1347	0	12	0
-Socialdemokraterna i Uppsala	Socialdemokraterna i Uppsala	174949672555149	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	1274	255	11	2
-Centerstudenter Linköping	Isac Riddarsparre (Centerstudenter Linköping)	668083499965739	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	1055	211	9	1
-Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	936	325	27	6
-Moderaterna i Jönköpings Län	Moderaterna i Jönköpings län	164355807916	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	779	155	14	7
-Miljöpartiet de gröna i Örebro	Miljöpartiet de gröna i Örebro	149671858392184	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	755	0	6	0
-Centerpartiet Gotland	Ahlin Siv Eva Marie	513330082107760	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	727	145	6	1
-Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	693	0	6	0
-Socialdemokraterna i Malmö	Socialdemokraterna i Malmö	133148933394485	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	578	92	5	0
-Sverigedemokraterna Värmlands län	Grahn Mats Andreas Johnny	336384546384299	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	566	247	5	2
-Socialdemokraterna Västmanland	Socialdemokraterna Västmanland	439408222749809	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	561	62	8	2
+Valmyndigheten	Valmyndigheten	1737852076287450	Facebook	m18_24	male (18-24)	SE	Sweden	59	1	2010789	885828	11546	2822
+Miljöpartiet de gröna	Miljöpartiet de gröna	34780126150	Facebook	m18_24	male (18-24)	SE	Sweden	44	1	1497611	673649	18365	4184
+Moderaterna	Moderaterna	7719591155	Facebook	m18_24	male (18-24)	SE	Sweden	133	1	1334935	535439	18670	4548
+European Commission	European Commission	107898832590939	Facebook	m18_24	male (18-24)	SE	Sweden	26	1	910424	454556	5491	1735
+European Parliament	European Parliament	178362315106	Facebook	m18_24	male (18-24)	SE	Sweden	20	1	579804	283573	6114	2805
+SSU	SSU	45101268520	Facebook	m18_24	male (18-24)	SE	Sweden	51	1	563374	200990	8469	2026
+Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	m18_24	male (18-24)	SE	Sweden	47	1	557916	233327	7317	2026
+Centerpartiet	Centerpartiet	12690894340	Facebook	m18_24	male (18-24)	SE	Sweden	26	1	478446	216899	8076	3729
+Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	m18_24	male (18-24)	SE	Sweden	115	1	455742	166249	6570	2075
+Centerpartiets Ungdomsförbund	Centerpartiets Ungdomsförbund	110793008936879	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	436938	191224	4331	1052
+European Greens	European Greens	141366725876424	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	348484	154151	4523	1216
+Socialdemokraterna	Socialdemokraterna	8040892957	Facebook	m18_24	male (18-24)	SE	Sweden	29	1	336533	129019	8793	1946
+Grön Ungdom	Grön Ungdom	113234935374946	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	209772	97999	2790	689
+LUF Storstockholm	Emerse	321456164675366	Facebook	m18_24	male (18-24)	SE	Sweden	24	1	197180	56315	842	247
+Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	m18_24	male (18-24)	SE	Sweden	23	1	172568	56256	2287	603
+Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	m18_24	male (18-24)	SE	Sweden	40	1	142977	40887	1822	655
+Liberalerna Stockholm	Liberalerna Stockholm	682180208473039	Facebook	m18_24	male (18-24)	SE	Sweden	36	1	133077	40800	1084	244
+Vänsterpartiet Göteborg	Vänsterpartiet Göteborg	175873745789190	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	131696	51718	1489	297
+Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	m18_24	male (18-24)	SE	Sweden	26	1	114000	33595	1028	298
+Arba Kokalari	Moderaterna i Stockholms stad och län	355819811185620	Facebook	m18_24	male (18-24)	SE	Sweden	13	1	106737	21833	638	163
+Vänsterpartiet	Vänsterpartiet	323156205347	Facebook	m18_24	male (18-24)	SE	Sweden	33	1	102452	20958	777	174
+Unga Feminister	Unga Feminister	100642360004457	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	99421	24824	997	247
+Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	m18_24	male (18-24)	SE	Sweden	11	1	98036	46597	2007	487
+Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	m18_24	male (18-24)	SE	Sweden	25	1	67818	24166	558	139
+Liberalerna Västsverige	Liberalerna Västsverige	106102553268601	Facebook	m18_24	male (18-24)	SE	Sweden	7	1	66697	26285	685	252
+KDU Jönköpings län	KDU Jönköpings län	1502764403290092	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	66572	15029	828	165
+Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	m18_24	male (18-24)	SE	Sweden	23	1	63996	17056	604	176
+Karin Karlsbro - Liberalerna.	Liberalerna	559163754139097	Facebook	m18_24	male (18-24)	SE	Sweden	8	1	59634	22739	668	155
+Nya Moderaterna i Kalmar län	Hemgard Lars Peter	159513904100440	Facebook	m18_24	male (18-24)	SE	Sweden	13	1	59280	13933	707	157
+Gustav Hemming	Gustav Hemming (Centerpartiet)	722853564439941	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	56390	15392	1032	206
+Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	56039	13207	776	161
+Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	50234	12018	464	111
+Sverigedemokraterna Kalmar län	Kotanen Mika Erik	117200235024372	Facebook	m18_24	male (18-24)	SE	Sweden	17	1	47046	11106	126	52
+Liberalerna Botkyrka	Emerse	529270410491237	Facebook	m18_24	male (18-24)	SE	Sweden	58	1	46756	11112	200	27
+Feministiskt initiativ	Feministiskt initiativ	112513375470294	Facebook	m18_24	male (18-24)	SE	Sweden	7	1	45059	9707	549	109
+Liberalerna Region Uppsala	Emerse	760092737373457	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	43638	8705	228	58
+Liberalerna Stenungsund	Emerse	635481149919229	Facebook	m18_24	male (18-24)	SE	Sweden	15	1	42001	9649	194	51
+Arabiska Teatern / أرابيسكا تياترن	Arabiska Teatern / أرابيسكا تياترن	996264337099052	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	41810	20716	196	76
+Liberala ungdomsförbundet	Tilstam Emilie Josefin	108941769135355	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	40571	8042	388	77
+Sverige för UNHCR	Viva Media	643137272398136	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	39024	19447	437	87
+6F - Fackförbund i samverkan	6F - Fackförbund i samverkan	720556414800953	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	37368	7473	345	69
+Socialdemokraterna i Jönköpings län	Socialdemokraterna i Jönköpings län	390479295816	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	36933	7386	341	68
+Centerstudenter Linköping	Isac Riddarsparre (Centerstudenter Linköping)	668083499965739	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	36662	7332	221	77
+Stefan Löfven	Socialdemokraterna	329885883718979	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	36554	14621	1354	677
+Centerpartiet i Skåne	Centerpartiet i Skåne	109030109129243	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	35485	10938	538	269
+Evin Incir	Socialdemokraterna i Uppsala län	1439778006254125	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	32809	8045	292	65
+Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	m18_24	male (18-24)	SE	Sweden	15	1	32627	7223	251	73
+Eric Luth	Eric Luth – Centerpartiet	757931234599499	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	32384	6477	299	59
+Botkyrka kommun	Botkyrka kommun	313066622056883	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	30969	6886	299	65
+Emma Wiesner	Emma Wiesner (Centerpartiet)	653072158104424	Facebook	m18_24	male (18-24)	SE	Sweden	17	1	30263	6806	216	46
+Socialdemokraterna i Malmö	Socialdemokraterna i Malmö	133148933394485	Facebook	m18_24	male (18-24)	SE	Sweden	10	1	29669	6735	246	56
+Liberala studenter Stockholm	Gronkvist Agnes Mimmie Mica Bjornsdotter	597912210359600	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	29419	5884	272	54
+Socialdemokraterna Örebro kommun	Nerelius Carin Isabelle	223141487866750	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	29337	6139	284	58
+Sverigedemokraterna Värmlands län	Sverigedemokraterna Värmlands län	336384546384299	Facebook	m18_24	male (18-24)	SE	Sweden	10	1	28236	5592	343	116
+Diakonia	Diakonia	42676805259	Facebook	m18_24	male (18-24)	SE	Sweden	13	1	27920	10401	137	30
+Socialdemokraterna i Skåne	Socialdemokraterna i Skåne	102414309949126	Facebook	m18_24	male (18-24)	SE	Sweden	8	1	27771	6056	288	60
+Linköpingsmoderaterna	Moderaterna Linköping	108239705998001	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	27557	5511	170	40
+Magnus Thulin - Centerpartiet	Thulin Magnus Nils Oscar	161302754576832	Facebook	m18_24	male (18-24)	SE	Sweden	7	1	27512	6105	308	60
+Liberalerna Värmland	Liberalerna Värmland	201659616523774	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	27359	5933	97	29
+Anders Rehnberg till Europaparlamentet	Rehnberg Anders John Henry	362678667854817	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	25965	7081	515	109
+Socialdemokraterna i Stockholm	Socialdemokraterna i Stockholm	117056501654820	Facebook	m18_24	male (18-24)	SE	Sweden	12	1	25493	10841	381	128
+Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	m18_24	male (18-24)	SE	Sweden	8	1	25418	5118	235	47
+Moderaterna i Örebro län	Moderaterna i Örebro län	1622018661360930	Facebook	m18_24	male (18-24)	SE	Sweden	11	1	25326	5253	364	97
+Sveriges Kommunistiska Parti	Sveriges Kommunistiska Parti	133234606721672	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	24883	5471	230	50
+EU-kommissionen i Sverige	EU-kommissionen i Sverige	155824787799	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	24714	11709	216	98
+Miljöpartiet de gröna i Helsingborg	Miljöpartiet de gröna i Helsingborg	106956499327992	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	23499	4527	217	41
+Moderaterna i Stockholms stad och län	Moderaterna i Stockholms stad och län	118162038224731	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	22939	4588	115	30
+Skövde kommun	Skövde kommun	147868325286010	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	22723	4544	210	42
+Tomas Tobé	Moderaterna	1829725353928210	Facebook	m18_24	male (18-24)	SE	Sweden	35	1	22710	5663	360	86
+Svenskt Näringsliv	Svenskt Näringsliv	90882504375	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	22302	7520	348	69
+Jörgen Warborn EU-kandidat	Moderaterna	56002955332	Facebook	m18_24	male (18-24)	SE	Sweden	13	1	21541	4637	237	51
+Zandra Pettersson SD politiker	Pettersson Zandra Margareta	1731576980266356	Facebook	m18_24	male (18-24)	SE	Sweden	7	1	21000	4273	208	44
+Jordens Vänner / Friends of the Earth Sweden	Jordens Vänner / Friends of the Earth Sweden	207890945895422	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	20639	6119	86	21
+Miljöpartiet de gröna i Örebro	Miljöpartiet de gröna i Örebro	149671858392184	Facebook	m18_24	male (18-24)	SE	Sweden	17	1	20534	6843	670	153
+Miljöpartiet de gröna i Skåne	Miljöpartiet de gröna i Skåne	187178991394420	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	20177	4035	186	37
+Sverigedemokraterna Region Stockholm	SD Stockholm	1729304067391998	Facebook	m18_24	male (18-24)	SE	Sweden	10	1	19940	4163	192	45
+David Lega	Kristdemokraterna	251829904829983	Facebook	m18_24	male (18-24)	SE	Sweden	7	1	19700	4314	228	45
+KDU Sverige	KDU Sverige	177549278946958	Facebook	m18_24	male (18-24)	SE	Sweden	8	1	19280	6282	453	92
+LO-distriktet i Västsverige	LO-distriktet i Västsverige	213326548681872	Facebook	m18_24	male (18-24)	SE	Sweden	8	1	19120	4239	185	44
+Medborgerlig Samling	Medborgerlig Samling	189332844828330	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	18909	3782	175	35
+En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	m18_24	male (18-24)	SE	Sweden	20	1	18506	3938	156	35
+Miljöpartiet de gröna i Växjö	Miljöpartiet de gröna i Växjö	115219002018409	Facebook	m18_24	male (18-24)	SE	Sweden	10	1	18109	4898	326	73
+Fredrick Federley	Fredrick Federley	189892183097	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	17613	5431	153	42
+Moderaterna i Kävlinge	Bengtsson Patrik Mikael	108304136037279	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	17033	3402	109	25
+Socialdemokraterna i Uppsala	Socialdemokraterna i Uppsala	174949672555149	Facebook	m18_24	male (18-24)	SE	Sweden	29	1	16814	4176	241	68
+Maria Weimer	Weimer Maria Eva Margareta	467374630087356	Facebook	m18_24	male (18-24)	SE	Sweden	16	1	16614	5773	372	90
+Kristdemokraterna Helsingborg	Lindholm 	119710274891528	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	16614	3748	62	25
+Kristdemokraterna Täby	Kristdemokraterna Täby	500140550093378	Facebook	m18_24	male (18-24)	SE	Sweden	18	1	16540	4526	199	43
+Vänsterpartiet Uppsala län	Bergegardh Hans Andreas Abe	326729237396677	Facebook	m18_24	male (18-24)	SE	Sweden	10	1	16363	5354	420	86
+Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	m18_24	male (18-24)	SE	Sweden	7	1	16094	3708	203	41
+Moderaterna i Värmland	Moderaterna i Värmland	1458035847741432	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	15856	3171	146	29
+Adnan Dibrani till Bryssel	Ghafari Sebastian	1308296045984813	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	15278	3252	165	33
+Miljöpartiet Västra Götaland	Miljöpartiet Västra Götaland	835842266433861	Facebook	m18_24	male (18-24)	SE	Sweden	10	1	15046	4957	167	53
+Socialdemokraterna i Helsingborg	Socialdemokraterna Helsingborg	303070626373544	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	14127	3664	115	29
+Socialdemokraterna Kungsbacka	Strand Bo Jonas	250833255029427	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	13183	2636	122	24
+Plan International Sverige	Plan International Sverige	382243262003	Facebook	m18_24	male (18-24)	SE	Sweden	21	1	13025	4818	100	20
+Ydrenäs4EU	Ydrenas Hans Rickard	1538819782888095	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	13012	2592	120	24
+Frihet	Hayrynen Lotta Ilona	1722887348013516	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	12802	6010	201	66
+Socialdemokraterna i Borås	Socialdemokraterna i Borås	104604012928735	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	12799	2842	114	22
+Kristdemokraterna i Dalarna	Kristdemokraterna Dalarna	321670347944266	Facebook	m18_24	male (18-24)	SE	Sweden	26	1	12699	3347	322	76
+Moderaterna i Norrbotten	Moderaterna Norrbotten	195594843916366	Facebook	m18_24	male (18-24)	SE	Sweden	15	1	12168	2402	180	47
+Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	m18_24	male (18-24)	SE	Sweden	27	1	12031	1433	89	4
+Liberalerna	Liberalerna	132266740623	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	11936	3221	267	53
+Moderaterna i Järfälla	Moderaterna i Järfälla	443813509046190	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	11486	2297	171	36
+Liberalerna Malmö	Karlson Christoffer Johan	109988009048564	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	11181	2130	176	67
+Svensk Handel	Svensk Handel	120477444659925	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	11103	2882	23	4
+Jonas Sjöstedt		261331320599298	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	11002	2200	60	15
+Centerpartiet Gotland	Ahlin Siv Eva Marie	513330082107760	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	10768	2484	74	19
+Miljöpartiet de gröna i Solna	Bernhard Huber	183031871858967	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	10471	2056	100	19
+Vänsterpartiet Gävleborg	Vänsterpartiet Gävleborg	137604056369425	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	10165	2289	136	30
+Skiftet	Skiftet	100650935646	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	10151	2405	74	19
+Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	m18_24	male (18-24)	SE	Sweden	19	1	9915	2445	63	8
+IF Metall	IF Metall	108492218918	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	9747	2432	82	16
+Miljöpartiet de gröna i Kalmar	Miljöpartiet de gröna i Kalmar	700878769933437	Facebook	m18_24	male (18-24)	SE	Sweden	13	1	9684	1711	114	26
+Liberala Studenter	Heimbrand Christoffer	118645251482192	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	9584	2488	77	14
+Sverigedemokraterna Uppland	Sverigedemokraterna Uppland	479236215426943	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	9147	1829	54	13
+Liberalerna Norrköping	Liberalerna Norrköping	225505640849010	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	9134	1827	84	16
+Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	8919	1835	102	21
+Socialdemokraterna i Södertälje	Socialdemokraterna i Södertälje	114736451897793	Facebook	m18_24	male (18-24)	SE	Sweden	10	1	8535	1555	210	43
+Centerstudenter	Centerstudenter	118486018229497	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	8399	1680	77	15
+Miljöpartiet de gröna Jämtland Härjedalen	Miljöpartiet de gröna Jämtland/Härjedalen	573954772674425	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	8159	3165	264	52
+Linus Glanzelius till EU	SSU	410320602850904	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	8144	2617	89	35
+Kristdemokraterna Fyrbodal	Kristdemokraterna i VGN	1764033887144522	Facebook	m18_24	male (18-24)	SE	Sweden	20	1	8016	2048	215	56
+Sverigedemokraterna Uppsala	SD Uppsala	1649460475294700	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	7707	1541	71	14
+Socialdemokraterna Solna	Socialdemokraterna i Solna	286987014656068	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	7583	1437	76	15
+Moderaterna i Jönköpings Län	Moderaterna i Jönköpings län	164355807916	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	7548	1832	157	60
+KDU Skåne	Lindholm 	250864784955763	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	7434	2277	68	21
+Centerpartiet Västernorrland	Sjolund Anne-Li Marie	2117823355168432	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	7169	1918	61	13
+Moderaterna i Västerbotten	Moderaterna i Västerbotten	267640803634611	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	7023	1621	102	20
+Karin Wanngård	Socialdemokraterna i Stockholm	389223741094370	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	6977	1395	64	12
+Annie Lööf	Centerpartiet	118943054880945	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	6956	1662	19	9
+Moderaterna i Varberg	Moderaterna	665682436792792	Facebook	m18_24	male (18-24)	SE	Sweden	13	1	6787	1225	62	11
+Kristdemokraterna Sundsvall	Kristdemokraterna Sundsvall	1017885421625799	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	6548	2152	173	34
+Miljöpartiet de Gröna i Västerbotten	Lemontzis Sofie Olga	70208617833	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	6452	3226	298	59
+Kristdemokraterna i Nässjö	Kristdemokraterna Nässjö kommun	397392223956552	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	6244	1248	57	11
+Kryssa Mohammad Omran KD	Omran Mohammad	294934427940073	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	5730	2630	30	6
+Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	m18_24	male (18-24)	SE	Sweden	13	1	5651	2081	53	20
+Miljöpartiet Södertälje	Miljöpartiet Södertälje	181419098546246	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	5455	1268	78	19
+Liberalerna Norrmalm	Tufvesson Elsa Christina	173275532684116	Facebook	m18_24	male (18-24)	SE	Sweden	28	1	5321	478	71	14
+Moderaterna i Östergötland	Moderaterna i Östergötland	435489349877161	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	5121	2560	237	47
+Miljöpartiet de gröna i Botkyrka	Miljöpartiet de Gröna i Botkyrka	124443770929754	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	5080	1016	94	47
+Socialdemokraterna i Eskilstuna	Socialdemokraterna i Eskilstuna 	272041890388	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	5059	2529	191	38
+Centerkvinnorna	Lek Ingrid Magdalena	265585313460256	Facebook	m18_24	male (18-24)	SE	Sweden	8	1	5027	948	55	11
+Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	m18_24	male (18-24)	SE	Sweden	18	1	4860	894	57	11
+Socialdemokraterna Västmanland	Socialdemokraterna Västmanland	439408222749809	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	4622	1133	42	10
+Conny Brännberg	Brannberg Conny Ruben	656908278084235	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	4441	1497	59	28
+Liberalerna i Karlstad	Liberalerna Karlstad	108881742481938	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	4358	1851	25	5
+Centerpartiet i Uppsala län	Grew Hedda Anna Magdalena Jarta	801293393230795	Facebook	m18_24	male (18-24)	SE	Sweden	7	1	4186	1832	41	19
+SSU Uppland	SSU Uppland	314198681994215	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	4124	825	56	22
+ABF	ABF	80386149597	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	4070	2035	21	5
+Sverigedemokraterna Eskilstuna	Fredriksson Kim David	161935043870264	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	3824	746	37	8
+Liberalerna Varberg	Liberalerna Varberg	780698325379963	Facebook	m18_24	male (18-24)	SE	Sweden	8	1	3811	723	61	23
+S-studenter	Jordas John Anton Ingvar	123266647715651	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	3762	752	34	6
+Centerpartiet i Jönköpings län	Luth Eric Gunnar Johan	226810677402741	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	3712	742	34	6
+Andreas Sturesson, kommunalråd	Kristdemokraterna Jönköpings Kommun	189699774387238	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	3656	1183	93	20
+Folkstyret	Ströberg Mikael	1243789685638222	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	3570	513	32	4
+Henrik Sundström - M	Sundström Claes Henrik	180745369170	Facebook	m18_24	male (18-24)	SE	Sweden	10	1	3524	963	22	6
+Centerpartiet Uppsala Län	Grew Hedda Anna Magdalena Jarta	597947044056811	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	3473	1366	21	4
+Eva B Arnesson - KD	Eva B Arnesson - KD	297923747637590	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	3347	603	30	5
+Centerpartiet Västerbotten	Andersson Ase Amandah	281642088439	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	3310	434	62	12
+Centerpartiet i Stockholms län	Centerpartiet i Stockholms län	154533721332462	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	3280	1455	129	25
+Kristdemokraterna i Jönköpings län	Kristdemokraterna Jönköpings län	116545538368003	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	3253	1346	38	19
+Djurens parti	Eriksson Monica Maria Therese	207364469446997	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	3137	788	26	5
+SSU Norrbotten	SSU Norrbotten	109573799125007	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	2983	596	55	27
+Landskronamoderaterna	Tingstrom Emil Gustaf Eric	216527871697704	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	2906	899	32	9
+Liberalerna Örebro län	Liberalerna i Örebro län	388964421149126	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	2903	510	38	7
+Afram Yakoub	Yakuob Afram	1849562398465143	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	2864	710	26	6
+Slöseriombudsmannen	Skattebetalarna	408171019221426	Facebook	m18_24	male (18-24)	SE	Sweden	12	1	2826	1347	14	2
+Vänsterpartiet Östergötland	Ellehammar Lundstrom M J Nicklas	475427706138827	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	2785	1250	111	22
+Miljöpartiet de gröna i Katrineholm	Miljöpartiet de gröna i Katrineholm	744040148974429	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	2773	976	49	13
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	2717	1127	3	0
+Centerpartiet Västra Götaland	Centerpartiet	199121803446165	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	2710	542	17	3
+Byggnads Skåne	Sjoberg Jonas Fredrik	294444197371898	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	2697	539	24	4
+Kristdemokraterna Uppsala	Kristdemokraterna Uppsala	783969528368300	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	2692	705	54	16
+Moderaterna i Mölndal	Brown Stjarna Amanda Charlotte	125396154314182	Facebook	m18_24	male (18-24)	SE	Sweden	8	1	2603	520	60	20
+Pietro Marchesi	Marchesi Pietro Angelo Giuseppe	412659735929497	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	2492	351	49	12
+Timbro	Timbro	237146235237	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	2475	384	13	1
+Sverigedemokraterna Linköping	Sverigedemokraterna Linköping	147672065396607	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	2475	495	45	22
+Socialdemokraterna i Sollentuna	Jonsson Sven Joakim	465428396919164	Facebook	m18_24	male (18-24)	SE	Sweden	7	1	2469	480	25	5
+Socialdemokraterna på Linje 17	Socialdemokraterna på Linje 17 	174527259250554	Facebook	m18_24	male (18-24)	SE	Sweden	14	1	2427	416	22	3
+Liberalerna Kungsholmen	Johansson Maria Birgitta	1632307106990705	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	2333	421	26	5
+Centerpartiet Halland	ENEVOLDSEN SONJA ANN-KRISTIN	303963156401468	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	2312	449	28	8
+Vi-skogen	Vi-skogen	356032977210	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	2249	449	20	4
+Christoffer Nordmark	Christoffer Nordmark	2407206712838704	Facebook	m18_24	male (18-24)	SE	Sweden	8	1	2225	383	13	1
+Sverigedemokraterna Fryksdalen	Sverigedemokraterna Värmlands län	176537522685841	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	2210	1105	63	15
+Jessica Polfjärd	Moderaterna	337086006951883	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	2165	611	44	8
+Vänsterpartiet Södermalm	Vänsterpartiet Södermalm	376804565780243	Facebook	m18_24	male (18-24)	SE	Sweden	8	1	2160	870	59	15
+Miljöpartiet de gröna i Värmdö	Miljöpartiet de gröna i Värmdö	279546375195	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	2142	428	19	3
+Socialdemokraterna Gotland	Andersson Charlotte Kristina	182610765125197	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	2098	419	19	3
+Forum Syd	Forum Syd	152060917636	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	2075	927	19	8
+Moderaterna i Region Västmanland	Moderaterna Västmanland	161086337290646	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	2064	897	81	17
+Kristdemokraterna Solna	Kristdemokraterna i Solna	153194577050	Facebook	m18_24	male (18-24)	SE	Sweden	7	1	1962	389	18	3
+Yrkesdörren	ÖppnaDörren	1047016558650888	Facebook	m18_24	male (18-24)	SE	Sweden	12	1	1921	384	22	7
+Moderaterna i Gävleborg	Moderaterna Gävleborg	115148865168902	Facebook	m18_24	male (18-24)	SE	Sweden	8	1	1891	561	45	9
+Maric politik	Marić Maria Charlotta	389748451834422	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	1891	378	17	3
+Sverigedemokraterna Norrtelje	Sverigedemokraterna Norrtelje	231584306927975	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	1859	371	17	3
+Centerpartiet i Göteborg	Centerpartiet i Göteborg	116621488352172	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	1846	369	17	3
+Vänsterpartiet Dalarna	Fredholm Kajsa	154956994679599	Facebook	m18_24	male (18-24)	SE	Sweden	8	1	1825	315	24	4
+Moderaterna Kungsbacka	Moderaterna Kungsbackakretsen	121182911263997	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	1798	239	18	2
+Socialdemokraterna Värmdö - Framtidspartiet	Nygren Linda Elisabet	217897918243937	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	1762	794	52	12
+Vänsterpartiet Norrköping	Carlstein Hans Olof	534898423283520	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	1750	350	19	6
+Socialdemokraterna Blekinge	 Johansson Jan Magnus	154369674717313	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	1732	346	25	11
+Jesper Skalberg Karlsson	Skalberg Karlsson Jesper Jens J	2171970199486213	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	1727	345	15	3
+Saco	Saco	133910158381	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	1726	345	3	1
+Utvecklingsmagasinet (fd Biståndsdebatten)	Edquist Kerstin Helena	162523667123095	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	1701	340	7	0
+Liberalerna Helsingborg	Martensen Axel Erik Alfons	136883253004732	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	1641	765	51	12
+Stoppa höjningen av Sveriges EU-avgift	Fria Moderata Studentförbundet	306402583588293	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	1620	324	29	15
+Moderaterna i Salem	Kalderén Bo Lennart	1408104366115145	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	1598	277	14	2
+Liberalerna Luleå	Liberalerna Luleå	588513591196975	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	1577	523	14	4
+Operation Smile Sverige	Operation Smile Sverige	161213770567846	Facebook	m18_24	male (18-24)	SE	Sweden	29	1	1572	267	12	2
+Moderaterna i Håbo	Erling Björn Karl Gustaf	256926791030140	Facebook	m18_24	male (18-24)	SE	Sweden	11	1	1566	436	46	8
+Miljöpartiet de gröna i Landskrona	Miljöpartiet de gröna i Landskrona 	123287631044300	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	1566	783	72	14
+Socialdemokraterna Falkenberg - Hela kommunens framtidsparti	Svensson Per Johan Klas	1383867568544212	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	1547	309	21	8
+Vänsterpartiet Jönköpings län	Vänsterpartiet Jönköpings län	433323816696224	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	1509	286	16	3
+Nackamoderaterna	Nackamoderaterna	132143480932	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	1462	731	13	6
+Moderaterna i Danderyd	Smidhammar Leo	488238954615693	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	1459	213	17	4
+Socialdemokraterna i Norrbotten	Friberg Camilla Kristina	60068877157	Facebook	m18_24	male (18-24)	SE	Sweden	7	1	1343	243	13	2
+Miljöpartiet de gröna Gävle	Johansson Evelina Sofia	127624557250669	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	1332	266	2	0
+Miljöpartiet Borlänge	Miljöpartiet Borlänge	282739598890951	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	1328	231	26	9
+Vänsterpartiet Solna	Vänsterpartiet 	273249776157066	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	1318	263	12	2
+Nyheter i Västerbotten	Bergstrom Carl Erik Anton	1400334680268097	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	1291	258	11	2
+Kristdemokraterna i Sollentuna	Nyman Lars Thomas	242233339297081	Facebook	m18_24	male (18-24)	SE	Sweden	11	1	1274	216	13	2
+Vänsterpartiet Leksand	Fredholm Kajsa	348264571925203	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	1247	249	11	2
+studietid	#studietid	637235366608588	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	1226	213	11	1
+Liberalerna Västmanland	Liberalerna Västmanland	112927778743586	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	1214	242	11	2
+Kristdemokraterna i Karlstad	Kristdemokraterna i Karlstad	184527058316756	Facebook	m18_24	male (18-24)	SE	Sweden	9	1	1206	186	20	4
+Liberalerna Haninge	Liberalerna Haninge	183607788350923	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	1204	602	55	11
+Miljöpartiet de gröna region Kalmar	Miljöpartiet de gröna Kalmar län	161091964101674	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	1197	234	13	3
+Kommunistiska Partiet Karlstad	Wiklund Thomas Anders Goran	188106197905255	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	1188	237	10	2
+Socialdemokraterna Ystad	Martensson Hans Inge Marten	358016594293864	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	1181	190	10	1
+Moderaterna i Arboga	Soderland Anders Mikael	1307727569320278	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	1167	420	10	3
+Gröna Studenter	Almén Henrik Carl Olof	31779071967	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	1133	360	34	9
+Moderaterna i Växjö kommun	Moderaterna Kronoberg	262695680545557	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	1118	526	51	10
+Centerpartiet i Hällefors	Nygren Ingemar Tobias	189736311810878	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	1109	221	12	3
+Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	m18_24	male (18-24)	SE	Sweden	10	1	1108	115	5	0
+Huddingemoderaterna	Huddingemoderaterna	160210550756111	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	1100	342	25	5
+Västerbottensmedjan	Abrahamsson Markku Johannes	309711879702623	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	1097	219	10	2
+Sverigedemokraterna Östergötland	Svensson Jan Hubert	386410271448008	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	1093	546	50	10
+KD Mölndal	Karlsson Sven Anders Mattias	679052525613883	Facebook	m18_24	male (18-24)	SE	Sweden	7	1	1071	164	12	2
+Philip Botström		1580590188862575	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	1067	164	9	1
+Socialdemokraterna Halland	Socialdemokraterna	329938067056917	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	1052	526	48	9
+Kommunistiska Partiet i Halmstad	Halldin Ulf Hakan	1415814235348542	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	1038	0	9	0
+20% Klimatvarning	Arleskar Carl Albin	362163934600158	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	1023	382	31	6
+Hyresgästföreningen	Hyresgästföreningen	126567104406	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	1018	203	9	1
+Kristdemokraterna i Marks kommun	Hermansson Per-Olof Ingvar	511527222310641	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	992	198	9	1
+Semantiko	MTWABP Sweden AB	656090384536434	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	991	146	3	0
+Vänsterpartiet Jönköping	Vänsterpartiet Jönköping	169508586461	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	981	196	9	1
+Säters kommun	Säters kommun	188370061598809	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	978	195	9	1
+Liberalerna Västerås	Liberalerna Västerås	39940078116	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	976	174	17	6
+Miljöpartiet de Gröna i Sundbyberg	Miljöpartiet Sundbyberg	107104919328517	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	958	156	11	2
+LO Skåne	LO-distriktet i Skåne	196081621460	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	953	181	7	1
+Utrikespolitiska Föreningen Örebro	Utrikespolitiska Föreningen Örebro	812213475510282	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	944	189	8	1
+Liberalerna Kumla	Liberalerna i Örebro län	109612275862342	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	921	461	8	4
+Socialdemokraterna Kungälv	Kungälvs Socialdemokratiska Arbetarekommun	241319269242484	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	899	152	8	1
+Socialdemokraterna i Lund	Persson Arne Roger Sebastian	140849879424265	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	894	179	8	1
+Partiet Vändpunkt	Partiet Vändpunkt	334741620478680	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	891	308	12	6
+Liberalerna Kalmar kommun		143303167656	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	891	445	4	0
+Vänsterpartiet Falun	Vänsterpartiet Falun	274157822060	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	868	159	8	1
+Kristdemokraterna Eslöv	Estenlund Per Samuel	156298131645410	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	866	433	40	8
+Kristdemokraterna i Gagnef	Kristdemokraterna Dalarna	273483286188959	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	862	90	12	2
+Kristdemokraterna Arboga	Stenzelius Jonas Peter Mikael	1083070925184919	Facebook	m18_24	male (18-24)	SE	Sweden	7	1	857	157	7	1
+Liberalerna Sollentuna	Angressved Lars Johannes	1447781535451300	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	853	148	9	1
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	834	388	1	0
+Fredrik Brange	Norrman Brange Fredrik Oskar	1992227544209769	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	827	165	7	1
+KD Kungsbacka	KD Kungsbacka	2024157037852156	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	827	165	7	1
+Centerpartiet i Huddinge	Tomas Selin	167980936712785	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	823	125	7	1
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	m18_24	male (18-24)	SE	Sweden	23	1	813	331	2	0
+Vänsterpartiet Botkyrka	Vänsterpartiet Botkyrka	112154658794592	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	813	162	15	7
+KDU Göteborg	KDU Göteborg	337673949604125	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	808	0	7	0
+Kristdemokraterna Skaraborg	Kristdemokraterna Skaraborg	123405474354465	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	808	98	13	2
+Miljöpartiet de Gröna i Östergötland	LINDELL JENS-OLOF BERTIL	166934049354	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	789	158	7	1
+Centerpartiet i Umeå	Centerpartiet	450620155297	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	783	0	7	0
+Liberalerna Västernorrland	Karlsson Sarah Emma Viola	300741530026956	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	783	391	7	3
+Fredrik Elgh  Centerpartiet		254722685215936	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	783	156	7	1
+Centerpartiet Upplands Väsby	Magnusson Kjell Johan Sonny	1457926257795252	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	775	148	8	1
+Vänsterpartiet Fyrbodal	Vänsterpartiet Fyrbodal	154507768394620	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	769	309	26	5
+Socialdemokraterna Tidaholm	Socialdemokraterna Tidaholm	665730566798078	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	757	151	7	1
+Lina Eriksson	Lina Eriksson	273049170050654	Facebook	m18_24	male (18-24)	SE	Sweden	7	1	753	37	14	2
+Moderaterna Alingsås	Thim Jens Lennart Thomas	206273962768960	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	749	375	6	3
+Kristdemokraterna i Örebro län	Cesar Eje Alexander	430535663641398	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	713	68	17	3
+Emil Forslund - Politiker	Forslund Emil Jonathan	629056647456278	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	705	141	6	1
+Sverigedemokraterna Jönköping	Andersson Bjorn Per Mikael	918971688179392	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	677	338	31	6
+KD Sigtuna	Makris Jessica Therese	2063183643940247	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	666	111	10	2
+Kristdemokraterna på Orust	Kristdemokraterna	159407334910426	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	653	285	6	2
+Socialdemokraterna Hässleholm	Hässleholms Socialdemokratiska arbetarekommun	838924659467812	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	649	118	8	3
+Fredsövning	ABRAHAMSSON PER-OLOV	717556358417977	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	637	127	5	1
+Kristdemokraterna Västerbotten	Kristdemokraterna Västerbotten	414156238684191	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	628	105	8	1
+Miljöpartiet de gröna i Gnesta	Miljöpartiet de Gröna i Gnesta	288168764608020	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	613	122	8	3
+Liberalerna Blekinge	Liberalerna i Blekinge	337623463039217	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	594	118	11	5
+Liberala Studenter Örebro	Liberala Studenter Örebro	1453776514737275	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	590	0	5	0
+Liberalerna i Karlshamn	Liberalerna i Karlshamn	142412302620892	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	580	116	5	1
+Liberalerna Österåker	Liberalerna i Österåker	316933851779070	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	572	90	5	0
+Karin Östring Bergman / Centerpartiet	Ostring Bergman Karin Maria	95356393777	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	566	283	5	2
+Skaramoderaterna	Grönlund Plöen Anna Lotta	1757410027826711	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	559	111	5	1
+Concord Sverige	CONCORD Sverige	119628488091475	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	553	110	5	1
+Kristdemokraterna Sörmland	Tinglöf Miriam Monica Mariana	1633975010236193	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	549	186	5	1
+Centerpartiet i Solna	Centerpartiet i Solna	155999571265763	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	543	271	25	5
+Demokratibygget	Barrett Sara Helena	536156530105433	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	535	42	4	0
+Vänsterpartiet Sundbyberg	Vänsterpartiet Sundbyberg	1592860820974499	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	532	106	4	0
+Moderaterna Kronoberg	Moderaterna Kronoberg	234282713350536	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	532	106	4	0
+KD Uddevalla	Kristdemokraterna	1415631785342345	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	530	0	17	3
+Kristdemokraterna Arvika	Kristensen Daniel Zatteri Of Harbo	182675985548698	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	527	105	4	0
+Miljöpartiet de gröna i Örebro län	Miljöpartiet de gröna i Örebro län	518485684936538	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	527	105	9	4
+Olof Palme International Center	Olof Palme International Center	62185934430	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	522	261	3	1
+Moderaterna i Mellerud	Moderaterna i Mellerud	1696828960384153	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	518	31	4	0
+Socialdemokraterna i Älvsjö	Socialdemokraterna i Stockholm	776538829218458	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	516	103	4	0
+Vänsterpartiet Örebro	Vänsterpartiet Örebro kommun	297546973785228	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	513	102	9	4
+Dalarnas unika kontakt med Fredrick Federley	Persson Robert Gote	2312353715706687	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	512	101	4	0
+Vänsterpartiet Södertälje	Vänsterpartiet Södertälje	1491285471125054	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	506	101	9	4
+Kommunistiska Partiet Göteborg	Kommunistiska Partiet Göteborg	355113523668	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	491	98	4	0
+Moderaterna i Solna	Moderaterna Solna	450481758311196	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	485	57	10	3
 Liberalerna Mariestad	Bergstrom Viktor Gunnar Lexer	1450259805246166	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	483	96	4	0
-Conny Brännberg	Brannberg Conny Ruben	656908278084235	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	393	78	3	0
-LO-distriktet i Västsverige	LO-distriktet i Västsverige	213326548681872	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	383	60	3	0
-Anders Rehnberg till Europaparlamentet	Rehnberg Anders John Henry	362678667854817	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	375	0	3	0
-Miljöpartiet Västra Götaland	Miljöpartiet Västra Götaland	835842266433861	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	349	63	3	0
-Fredrick Federley	Fredrick Federley	189892183097	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	341	68	3	0
-Centerpartiet i Jönköpings län	Luth Eric Gunnar Johan	226810677402741	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	337	67	3	0
-Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	300	44	2	0
-studietid	#studietid	637235366608588	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	268	0	2	0
-KDU Sverige	KDU Sverige	177549278946958	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	235	47	2	0
-Miljöpartiet de gröna Gävle	Johansson Evelina Sofia	127624557250669	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	227	0	2	0
-Linus Lakso - MP	Miljöpartiet de gröna	1038425926323402	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	203	0	1	0
-Moderaterna i Region Västmanland	Moderaterna Västmanland	161086337290646	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	203	40	1	0
-Kristdemokraterna i Örebro län	Cesar Eje Alexander	430535663641398	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	202	0	1	0
-Miljöpartiet de gröna i Kalmar	Miljöpartiet de gröna i Kalmar	700878769933437	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	200	0	9	1
-Socialdemokraterna Värmdö - Framtidspartiet	Nygren Linda Elisabet	217897918243937	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	199	39	1	0
-LO Skåne	LO-distriktet i Skåne	196081621460	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	192	38	1	0
-European Commission	European Commission	107898832590939	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	191	95	0	0
-Eva B Arnesson - KD	Eva B Arnesson - KD	297923747637590	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	185	0	1	0
-Demokratibygget	Barrett Sara Helena	536156530105433	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	181	0	1	0
-Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	178	0	8	1
-David Lega	Kristdemokraterna	251829904829983	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	160	0	1	0
-KD Sigtuna	Makris Jessica Therese	2063183643940247	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	147	0	1	0
-Maric politik	Marić Maria Charlotta	389748451834422	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	144	0	1	0
-Vänsterpartiet Helsingborg	Mattiasson Saarinen Ingrid Kristina	732887920091032	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	142	0	1	0
-Emil Forslund - Politiker	Forslund Emil Jonathan	629056647456278	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	136	0	1	0
-Kristdemokraterna på Gotland	Kristdemokraterna på Gotland	1375539726041747	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	134	0	1	0
-Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	133	26	1	0
-En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	126	19	0	0
-EslövsModeraterna	Malmborg Rikard	1563356257213073	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	124	0	1	0
-Kommunistiska Partiet Göteborg	Kommunistiska Partiet Göteborg	355113523668	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	118	0	1	0
-Kristdemokraterna i Dalarna	Kristdemokraterna Dalarna	321670347944266	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	118	0	5	1
-Kristdemokraterna i Marks kommun	Hermansson Per-Olof Ingvar	511527222310641	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	117	0	1	0
+Moderaterna i Stenungsund	Renfors Anna Maria	488439967871997	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	481	68	4	0
+Kristdemokraterna Göteborg	Kristdemokraterna Göteborg	1139097292843761	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	452	74	4	0
+SSU Kalmar Län	SSU Kalmar län	241658249370356	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	448	0	4	0
+Kristdemokraterna Södertälje	Kristdemokraterna Södertälje	132086976967371	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	444	81	4	0
+Kristdemokraterna Vansbro	Ilar Lars André	573126923032007	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	430	86	7	3
+Socialdemokraterna i Staffanstorp	Socialdemokraterna i Skåne	119684144775996	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	417	83	3	0
+Linus Lakso - MP	Miljöpartiet de gröna	1038425926323402	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	416	0	12	2
+Ulricehamns kommun	Ulricehamns kommun	195221297179003	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	411	76	3	0
+Kristdemokraterna Jämtlands Län	Kristdemokraterna i Jämtlands län	276637759146677	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	398	45	3	0
+Socialdemokraterna Värmland	Socialdemokraterna Värmland	273755455974802	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	388	77	3	0
+Kristdemokraterna på Gotland	Kristdemokraterna på Gotland	1375539726041747	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	378	0	13	2
+Jan Björklund	Liberalerna	221193798389602	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	376	188	17	3
+Grön Omstart	Wallin Lena Maria	407812702944641	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	372	69	0	0
+Socialdemokraterna i Nyköping	Socialdemokraterna i Nyköping	109911525800180	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	371	74	3	0
+Socialdemokraterna i Kristianstad	Socialdemokraterna i Skåne	209827375704176	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	369	73	3	0
+Landsbygdspartiet oberoende	Landsbygdspartiet oberoende	1549988978561671	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	355	177	16	3
+Kristdemokraterna i Gävle	Kristdemokraterna i Gävle	850584251725329	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	351	70	3	0
+Arbetsmarknadsnytt	Arbetsmarknadsnytt	799634660143537	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	340	68	3	0
+KDMaria	Nilsson Anna Maria	250279129252623	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	332	0	3	0
+Moderaterna Skellefteå	Bergstrom Carl Erik Anton	153150404966	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	329	65	18	4
+Socialdemokraterna Grums		1417370158528344	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	329	0	3	0
+Vänsterpartiet Umeå	Sellstedt Karl Sven Andreas	237863203023150	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	324	64	2	0
+EslövsModeraterna	Malmborg Rikard	1563356257213073	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	312	0	2	0
+Liberalerna Kristianstad		150526214995429	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	309	61	2	0
+Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	306	46	4	2
+Eva Ahlin - Centerpartist	Ahlin Siv Eva Marie	334933870387484	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	303	60	2	0
+Fria Moderata Studentförbundet	Fria Moderata Studentförbundet	119885094691458	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	302	60	5	2
+Kristdemokraterna Botkyrka	Kristdemokraterna Botkyrka	650240125071536	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	296	59	5	2
+FPlus – nyhetstjänsten för företagsamma	fPlus	130927360876045	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	292	58	2	0
+Borlänge kommun	Borlänge kommun	1540851856197497	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	289	144	2	1
+Socialdemokraterna i Mark	Andersson Hakan Ulf Goran	528944283871109	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	272	47	2	0
+VadstenaModeraterna	Sjöberg Arne Lennart	560250150734818	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	271	54	2	0
+Lidingömoderaterna	Lidingömoderaterna	417744054982151	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	269	0	9	1
+Moderaterna i Skåne	Moderaterna i Skåne	336995309750321	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	269	33	4	1
+Go Climate Neutral	Go Climate Neutral	1797724450537743	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	252	126	11	2
+Kristdemokraterna Jönköpings Kommun	Kristdemokraterna Jönköpings kommun	836852369693689	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	251	50	2	0
+Vänsterpartiet Västmanland	Vänsterpartiet Västmanland	1438013249820378	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	237	47	2	0
+IOGT-NTO	IOGT-NTO	28237261288	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	233	116	10	2
+Carl Kangas - S Värmdö	Nygren Linda Elisabet	879887542403191	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	228	45	2	0
+UPF Lund - The Association of Foreign Affairs		169868329694180	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	227	0	2	0
+Centerpartiet Lidingö	Patrik Buddgård	370182686393713	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	226	45	4	2
+Kristdemokraterna i Mörbylånga kommun	Dicksson Eric Jan	459355064132583	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	220	44	2	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	m18_24	male (18-24)	SE	Sweden	5	1	213	71	0	0
+KD Region Uppsala	KD Region Uppsala	195658617439309	Facebook	m18_24	male (18-24)	SE	Sweden	6	1	207	0	1	0
+Kristdemokraterna Sotenäs	Kristdemokraterna	887339628029300	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	207	41	3	1
+Richard Brodd Liberalerna	Brodd Karl Erik Richard	223726468440460	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	204	40	18	3
+Socialdemokraterna Dalarna	Socialdemokraterna Dalarna	362970427153858	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	200	40	1	0
+SSU Jönköpings län	SSU Jönköpings län	191733034225333	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	193	0	8	1
+Axess Magasin & TV	Axess Magasin & TV	887305194662637	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	189	37	1	0
+Liberalerna Sundbyberg	Liberalerna i Sundbyberg	507299542640142	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	187	37	1	0
+Kristdemokraterna i Värmdö	Lipinska Anna Weronika	1428064517465758	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	187	0	1	0
+Sundsvallspartiet	Ammor Else	271369483068463	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	186	93	0	0
+Nya Moderaterna Karlskoga	Moderaterna i Karlskoga	164539323567730	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	185	37	1	0
+Kristdemokraterna i Tibro	Kristdemokraterna i Tibro	127956383885303	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	184	36	1	0
+Frivilliga Familjehem i Österåker		126710901300090	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	172	0	1	0
+Kommunistiska Partiet Örebro		147362478686033	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	166	0	1	0
+Torgny Jönsson	Jonsson Bjorn Torgny	972455966286401	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	166	33	2	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	159	79	0	0
+Hyresgästföreningen region Mitt	Collin Petra Jessica	799284903479521	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	156	30	1	0
+RKU – Revolutionär Kommunistisk Ungdom	Gustafsson Arvid	328797072776	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	151	0	1	0
+Kristdemokraterna i Ludvika/Smedjebacken	Kristdemokraterna i Ludvika/Smedjebacken	1766734230288122	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	150	30	1	0
+Centerpartiet Dalarna	Persson Robert Gote	300963926616	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	147	25	1	0
+Reformisterna	Reformisterna	2337692372925538	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	142	28	1	0
+Kristdemokraterna Tyresö	Kennerberg Leif Robert	268593563268202	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	137	27	1	0
+Moderaterna i Södermanland	Moderaterna	144955505526463	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	133	0	1	0
+Kommunistiska Partiet Stockholm		1572942986309050	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	131	0	1	0
+Centerpartiet Botkyrka - Grödinge	Alse Dag Lucas	439419836148910	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	129	0	1	0
+Kristdemokraterna i Tidaholm		427648701368670	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	124	0	1	0
+Caritas Sweden		119140545477108	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	117	0	1	0
+Skattebetalarnas Förening	Skattebetalarnas Förening	72832167834	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	113	56	0	0
 Georgia Ferris KD EU-Kandidat	Ferris Georgia Minnie Anna	407374246718043	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	109	0	1	0
-Zandra Pettersson SD politiker	Pettersson Zandra Margareta	1731576980266356	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	102	20	1	0
-Byggnads Skåne	Sjoberg Jonas Fredrik	294444197371898	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	102	20	0	0
-Kristdemokraterna i Gagnef	Kristdemokraterna Dalarna	273483286188959	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	97	0	0	0
-Liberalerna Österåker	Liberalerna i Österåker	316933851779070	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	96	0	0	0
-KDMaria	Nilsson Anna Maria	250279129252623	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	93	0	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	86	19	0	0
-Kristdemokraterna Göteborg	Kristdemokraterna Göteborg	1139097292843761	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	85	0	0	0
-Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	84	0	0	0
-Kristdemokraterna på Orust	Kristdemokraterna	159407334910426	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	82	0	0	0
-Adnan Dibrani till Bryssel	Ghafari Sebastian	1308296045984813	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	76	0	0	0
-Socialdemokraterna i Borås	Socialdemokraterna i Borås	104604012928735	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	76	0	0	0
-Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	71	14	0	0
-Kristdemokraterna Falkenberg	Ferris Georgia Minnie Anna	184270554952699	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	70	0	3	0
-Sverigedemokraterna Östergötland	Svensson Jan Hubert	386410271448008	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	64	0	0	0
-Kristdemokraterna Täby	Kristdemokraterna Täby	500140550093378	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	62	0	0	0
-Liberalerna Luleå	Liberalerna Luleå	588513591196975	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	62	7	0	0
-Miljöpartiet de gröna region Kalmar	Miljöpartiet de gröna Kalmar län	161091964101674	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	61	0	0	0
-Miljöpartiet de gröna i Solna	Bernhard Huber	183031871858967	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	59	0	0	0
-European Parliament	European Parliament	178362315106	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	58	29	0	0
-Moderaterna i Mölndal	Brown Stjarna Amanda Charlotte	125396154314182	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	53	10	0	0
-Kristdemokraterna Fyrbodal	Kristdemokraterna i VGN	1764033887144522	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	50	10	0	0
-Malin Forsbrand kommunalråd Vaxholm	Forsbrand Malin Kristina	298053177394356	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	44	0	0	0
-Charlotte Nordström	Nordstrom Charlotte Astrid	1470292919905819	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	44	0	0	0
-Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	43	8	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	40	12	0	0
-Kristdemokraterna Lysekil	Kristdemokraterna	347568685423907	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	39	0	0	0
-Sverigedemokraterna Norrtelje	Sverigedemokraterna Norrtelje	231584306927975	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	36	0	0	0
-Socialdemokraterna på Linje 17	Socialdemokraterna på Linje 17 	174527259250554	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	32	0	0	0
-Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	30	0	0	0
-Socialdemokraterna Dalarna	Socialdemokraterna Dalarna	362970427153858	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	27	0	0	0
-Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	19	0	0	0
-Miljöpartiet de gröna i Katrineholm	Miljöpartiet de gröna i Katrineholm	744040148974429	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	18	0	0	0
-Miljöpartiet de Gröna i Sundbyberg	Miljöpartiet Sundbyberg	107104919328517	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	15	0	0	0
-Mette Thiesen	Mette Thiesen	718327901589937	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	3	1	0	0
+Sverigedemokraterna Sotenäs		227238350776236	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	99	0	0	0
+Fredrik Holmbom		747661682030643	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	98	19	0	0
+Susanna Gideonsson	Handelsanställdas förbund	2256836864595743	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	96	19	1	0
+Stiftelsen Expo	Stiftelsen Expo	208751565805849	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	95	19	0	0
+Kristdemokraterna Lysekil	Kristdemokraterna	347568685423907	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	95	0	4	0
+Socialdemokraterna i Järfälla	Socialdemokraterna i Järfälla	125830894149167	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	94	0	4	0
+Common sense in Sweden		697826370283167	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	93	0	0	0
+Arbetarekommunen	Persson Gunnar Henrik Haakan	2053389964962411	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	92	0	0	0
+Kristdemokraterna i Åmål	Kristdemokraterna	673797989636777	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	90	0	4	0
+Anders G Johansson	Johansson Anders Gustaf Werner	357659877249	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	90	0	0	0
+Sverigedemokraterna Sjöbo		613881641983158	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	90	0	0	0
+Liberalerna Höör	Lundgren Lena Marianne	1484746431743125	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	83	0	3	0
+FUF - Föreningen för Utvecklingsfrågor	Edquist Kerstin Helena	190533360983432	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	80	0	3	0
+Vänsterpartiet Hammarö	HESSELSTEDT JAN-OLOF	348216195261594	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	76	0	0	0
+Europa Direkt Skåne		192860510041	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	74	0	0	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	71	35	0	0
+Joakim Jonsson		506344336447634	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	70	14	0	0
+Kristdemokraterna Falkenberg	Ferris Georgia Minnie Anna	184270554952699	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	69	0	3	0
+Gabriella Hammarskjöld - C	Hammarskjold Eva Gabriella	1818298128486692	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	68	0	3	0
+Moderaterna i Halland	Moderaterna	687371547986856	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	68	0	0	0
+Martin Ängeby	Angeby Martin Lennart Valdemar	354019898061233	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	65	0	3	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	62	25	0	0
+Kristdemokraterna i Ulricehamn	Kristdemokraterna i Ulricehamn	204903883423715	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	61	0	2	0
+Marie Nilsson	IF Metall	292532504512919	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	60	8	0	0
+Charlotte Nordström	Nordstrom Charlotte Astrid	1470292919905819	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	57	0	0	0
+Miljöpartiet de gröna i Västerås	Miljöpartiet de gröna i Västerås	170276156377688	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	53	0	0	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	43	21	0	0
+Kristdemokraterna Vänersborg	Nilsson Anna Maria	1436550706597391	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	41	0	0	0
+Vänsterpartiet Helsingborg	Mattiasson Saarinen Ingrid Kristina	732887920091032	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	41	0	0	0
+Kristdemokraterna Lidingö	Kristdemokraterna på Lidingö	703204236400845	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	37	0	0	0
+Global Strike For Future Kungsbacka	Borg Bjorn Gustav Emanuel Simon	2421479197884767	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	37	0	1	0
+Vänsterpartiet Sollentuna	Lindström Dira Louise Ghadir	198650703984891	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	36	0	0	0
+Folkbildarforum	Bildningsförbundet Östergötland	164688070209892	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	32	6	0	0
+The Good Show	Assur Stagliano Stefan Giuseppe	1923750267869320	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	31	0	0	0
+ABF Östergötland		146714875382706	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	30	0	0	0
+Funktionsrätt Göteborg	Green Karin Maria Johanna	392199114162215	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	27	0	1	0
+Torkild Strandberg	Howard Liselotte Caroline	773867402653937	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	24	0	0	0
+IRANDN		1535002403434216	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	24	0	0	0
+Vänsterpartiet Ystad	Brante Goran	513520638755798	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	23	0	0	0
+Mathias Lindow, kommunalråd -L- Österåker	Lindow Johan Mathias	1543451862565120	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	23	0	0	0
+Socialdemokraterna i Nynäshamn	Persson Gunnar Henrik Haakan	552680558109355	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	23	0	0	0
+Socialdemokraterna i Sjöbo	Socialdemokraterna i Skåne	1442470486024831	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	19	0	0	0
+Peter Skaarup	Dansk Folkeparti	691707047549076	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	18	3	0	0
+Socialdemokratiet	Socialdemokratiet	41459763029	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	17	3	0	0
+Sophie Løhde	Sophie Løhde	699619700116377	Facebook	m18_24	male (18-24)	SE	Sweden	11	1	15	5	0	0
+Vänsterpartiet Region Dalarna	Fredholm Kajsa	816257315147676	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	11	0	0	0
+Tobias Baudin	Kommunal	614939535271869	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	11	2	0	0
+Malin Forsbrand kommunalråd Vaxholm	Forsbrand Malin Kristina	298053177394356	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	11	0	0	0
+Mette Thiesen	Mette Thiesen	718327901589937	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	10	2	0	0
+Liberal Alliance	Liberal Alliance	106952222676974	Facebook	m18_24	male (18-24)	SE	Sweden	4	1	10	2	0	0
+Thomas Thomsen	Thomsen Thomas	155006118510945	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	10	5	0	0
+Anna Lipinska - Kristdemokraterna Värmdö	Lipinska Anna Weronika	176755019604222	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	9	0	0	0
+Free Quran Education		388655174641163	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	9	4	0	0
+Danmarks Socialdemokratiske Ungdom (DSU)	DSU	126084211821	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	6	3	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	5	1	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	5	1	0	0
+Bergur Larsson Løkke Rasmussen	Bergur Løkke Rasmussen	141378109375840	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	4	0	0	0
+Big News Buzz		125179374733697	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	3	1	0	0
+ETUC		129041250601685	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	3	0	0	0
+Morten Helveg Petersen	Morten Helveg Petersen	442403485851495	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	2	0	0	0
+CRIF		395919323779707	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	2	1	0	0
+Miikka Keränen	Keranen Miikka Markus	126768630726940	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	1	0	0	0
+VoteEuropa Danmark	Channirr Rizwana Shah	325480551446041	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	1	0	0	0
+Mette Poulsen	Poulsen Mette	1732891513391281	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	1	0	0	0
+Ruben Kidde	Ruben Kidde	113588132144811	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	1	0	0	0
+Rune Frøding	Frøding Rune	493940517678048	Facebook	m18_24	male (18-24)	SE	Sweden	3	1	1	0	0	0
+Europe Thinx		335839580440114	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	1	0	0	0
+Tokyo Weekender		134654693230171	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	1	0	0	0
+Jacob Netteberg	Netteberg Jacob	1438856909487306	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	0	0	0	0
+Anton Nilsson	Betalt av stödföreningen för Anton Nilsson	290501338278566	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	0	0	0	0
+SF Ungdom	SF Ungdom	113555862534	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	0	0	0	0
+Jacob Rosenberg	Rosenberg Jacob	804239283072976	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	0	0	0	0
+Camilla Kampmann	Kampmann Camila	1071071099585942	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	0	0	0	0
+Erik Poulsen - kandidat til Europa-Parlamentet	Erik Poulsen - kandidat til Europa-Parlamentet	203735820417737	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	0	0	0	0
+Claus Hasselmann - Folketingskandidat	Hasselmann Claus	611297145887529	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	0	0	0	0
+Janne Kaisanlahti	Kaisanlahti Janne Kalervo	309381625805373	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	0	0	0	0
+Theresa Scavenius	Theresa Scavenius	406921453049822	Facebook	m18_24	male (18-24)	SE	Sweden	2	1	0	0	0	0
+Jan E. Jørgensen	Jørgensen Jan Ejnar	329413910880676	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	0	0	0	0
+Dansk Magisterforening	Dansk Magisterforening	314676938743	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	0	0	0	0
+ITUC		20556338116	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	0	0	0	0
+Per Larsen i Folketinget	Det Konservative Folkeparti	129802704387687	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	0	0	0	0
+Eurozine		115579498521257	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	0	0	0	0
+Martin Henriksen	Dansk Folkeparti	1604502423155684	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	0	0	0	0
+Tom MacDonald		212732770186	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	0	0	0	0
+dom-i-NEEK		260052198180831	Facebook	m18_24	male (18-24)	SE	Sweden	1	1	0	0	0	0

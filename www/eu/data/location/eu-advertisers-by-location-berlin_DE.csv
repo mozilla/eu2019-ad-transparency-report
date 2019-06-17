@@ -1,60 +1,245 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-BÜNDNIS 90/DIE GRÜNEN	BÜNDNIS 90/DIE GRÜNEN	47217143218	Facebook	berlin_DE	Berlin, Germany	63	1	261738	58069	3877	0
-Berliner Stadtwerke	Berliner Stadtwerke	765844936882239	Facebook	berlin_DE	Berlin, Germany	3	1	199997	70000	1497	300
-FDP	FDP	21289227249	Facebook	berlin_DE	Berlin, Germany	355	1	111122	19387	2611	14
-Demokratie in Europa - Diem25	Demokratie in Europa - DiEM25	267443093828699	Facebook	berlin_DE	Berlin, Germany	24	1	99731	30911	915	129
-European Parliament	European Parliament	178362315106	Facebook	berlin_DE	Berlin, Germany	1	1	78414	39207	391	78
-DIE LINKE. Berlin-Mitte	Andreas Böttger	118337308237499	Facebook	berlin_DE	Berlin, Germany	6	1	44994	18000	594	0
-Party of the European Left	Franziska Laskowski	160598290012	Facebook	berlin_DE	Berlin, Germany	1	1	30021	12008	29	6
-Europäisches Parlament - Verbindungsbüro in Deutschland	Europäisches Parlament - Verbindungsbüro in Deutschland	294494163510	Facebook	berlin_DE	Berlin, Germany	2	1	27706	13853	103	41
-Verband der Chemischen Industrie e.V.	Chemie Wirtschaftsförderungs GmbH	921326477983554	Facebook	berlin_DE	Berlin, Germany	75	1	17658	1430	1267	0
-Greenpeace Deutschland	Greenpeace Deutschland	22541752487	Facebook	berlin_DE	Berlin, Germany	4	1	15161	6000	214	0
-FDP Friedrichshain-Kreuzberg	Lenhart Frank	173450889377945	Facebook	berlin_DE	Berlin, Germany	14	1	13986	0	1386	0
-Linke Kinonacht	Andreas Böttger	1419627234952559	Facebook	berlin_DE	Berlin, Germany	5	1	12995	2000	495	0
-PARTEI MENSCH UMWELT TIERSCHUTZ	PARTEI MENSCH UMWELT TIERSCHUTZ	108568039165729	Facebook	berlin_DE	Berlin, Germany	6	1	11529	2283	132	21
-MENSCHLICHE WELT	Menschliche Welt	245758938922923	Facebook	berlin_DE	Berlin, Germany	7	1	9595	2293	69	5
+BÜNDNIS 90/DIE GRÜNEN	BÜNDNIS 90/DIE GRÜNEN	47217143218	Facebook	berlin_DE	Berlin, Germany	807	1	4249071	1270741	39080	4060
+SPD	SPD	47930567748	Facebook	berlin_DE	Berlin, Germany	3706	1	1085516	293074	23996	531
+FDP	FDP	21289227249	Facebook	berlin_DE	Berlin, Germany	988	1	759138	237058	7720	400
+Berliner Stadtwerke	Berliner Stadtwerke	765844936882239	Facebook	berlin_DE	Berlin, Germany	17	1	711257	245137	5054	1285
+Demokratie in Europa - Diem25	Demokratie in Europa - DiEM25	267443093828699	Facebook	berlin_DE	Berlin, Germany	104	1	691556	244775	4542	991
+DIE LINKE	DIE LINKE	47694585682	Facebook	berlin_DE	Berlin, Germany	84	1	545659	143124	4862	251
+DIE LINKE. Berlin	DiG Berlin	156304484388194	Facebook	berlin_DE	Berlin, Germany	1	1	499996	199999	498	99
+Avaaz	Avaaz	8340223883	Facebook	berlin_DE	Berlin, Germany	24	1	390804	170752	3438	699
+DIE LINKE. Berlin-Mitte	Andreas Böttger	118337308237499	Facebook	berlin_DE	Berlin, Germany	14	1	386986	83000	1386	0
+European Parliament	European Parliament	178362315106	Facebook	berlin_DE	Berlin, Germany	13	1	342808	158620	2242	486
+Katarina Barley	SPD	1522202731410785	Facebook	berlin_DE	Berlin, Germany	765	1	341681	80368	5264	114
+Sozialdemokratische Partei Europas	Sozialdemokratische Partei Europas	338549033673221	Facebook	berlin_DE	Berlin, Germany	21	1	279777	132095	1296	248
+Thalia Buchhandlung - Thalia.de	Thalia Buchhandlung - Thalia.de	342884401877	Facebook	berlin_DE	Berlin, Germany	16	1	255560	112586	3878	874
+Bündnis 90/Die Grünen Berlin	Bündnis 90/Die Grünen Berlin	103558289679671	Facebook	berlin_DE	Berlin, Germany	18	1	253982	77000	3382	400
+SPD Berlin	SPD Berlin	134137749971478	Facebook	berlin_DE	Berlin, Germany	10	1	224236	50392	858	0
+Kialo	Kialo	729627343834501	Facebook	berlin_DE	Berlin, Germany	65	1	222135	50930	2182	428
+Bündnis 90/Die Grünen Friedrichshain-Kreuzberg	Bündnis 90/Die Grünen Xhain	112562615494117	Facebook	berlin_DE	Berlin, Germany	7	1	215930	45987	1892	300
+Nicola Beer	FDP	206866712830769	Facebook	berlin_DE	Berlin, Germany	63	1	214168	80429	2432	541
+Piratenpartei	Piratenpartei	149871337782	Facebook	berlin_DE	Berlin, Germany	4	1	201906	70381	2535	1119
+Berlin Partner für Wirtschaft und Technologie	Berlin Partner für Wirtschaft und Technologie	490874321062716	Facebook	berlin_DE	Berlin, Germany	4	1	199993	39999	1995	399
+Ökologisch-Demokratische Partei (ÖDP)	Ökologisch-Demokratische Partei (ÖDP)	120655374567	Facebook	berlin_DE	Berlin, Germany	15	1	192447	95086	549	140
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	berlin_DE	Berlin, Germany	32	1	175907	77197	1299	290
+ABOUT YOU	ABOUT YOU	689801517732186	Facebook	berlin_DE	Berlin, Germany	5	1	168870	80766	1106	268
+Die Offene Gesellschaft	die Initiative Offene Gesellschaft mit Facebook-Werbegutschrift	912255502235222	Facebook	berlin_DE	Berlin, Germany	454	1	156981	32196	3992	102
+Campact e.V.	Campact e.V.	82734241364	Facebook	berlin_DE	Berlin, Germany	6	1	143663	67969	1187	281
+Europäisches Parlament - Verbindungsbüro in Deutschland	Europäisches Parlament - Verbindungsbüro in Deutschland	294494163510	Facebook	berlin_DE	Berlin, Germany	3	1	135335	60725	1023	204
+Sven Giegold	Sven Giegold	1391306014465513	Facebook	berlin_DE	Berlin, Germany	20	1	114307	40807	1088	204
+PARTEI MENSCH UMWELT TIERSCHUTZ	PARTEI MENSCH UMWELT TIERSCHUTZ	108568039165729	Facebook	berlin_DE	Berlin, Germany	14	1	108523	44405	1060	305
+Christian Lindner	Christian Lindner	143504445664134	Facebook	berlin_DE	Berlin, Germany	7	1	104993	36000	1093	100
+European Greens	European Greens	141366725876424	Facebook	berlin_DE	Berlin, Germany	7	1	100425	48857	541	137
+Social Media Ads	Alexander Dietrich	561953460655717	Facebook	berlin_DE	Berlin, Germany	2	1	91582	18316	181	0
+Partei der Humanisten	Partei der Humanisten	499613946840551	Facebook	berlin_DE	Berlin, Germany	8	1	85776	37704	913	226
+Talking Europe	Diskutier Mit Mir e.V.	316028505828375	Facebook	berlin_DE	Berlin, Germany	6	1	79961	29423	822	160
+MENSCHLICHE WELT	Menschliche Welt	245758938922923	Facebook	berlin_DE	Berlin, Germany	24	1	79606	29929	916	213
+Greenpeace Deutschland	Greenpeace Deutschland	22541752487	Facebook	berlin_DE	Berlin, Germany	17	1	76151	23464	1025	177
+Grüner Fisher Investments	Grüner Fisher Investments	138832469593845	Facebook	berlin_DE	Berlin, Germany	172	1	73218	12898	4044	484
+Kleiner Fünf	Kleiner Fünf	1768812013390432	Facebook	berlin_DE	Berlin, Germany	4	1	73105	17621	728	126
+#NatürlichEuropa	Deutscher Naturschutzring DNR e.V.	255657841991242	Facebook	berlin_DE	Berlin, Germany	3	1	69832	34916	375	102
+Deine Würde - Eine Initiative zum 70. Jubiläum des Grundgesetzes	Deine Würde - Eine Initiative zum 70. Jubiläum des Grundgesetzes	316160725982888	Facebook	berlin_DE	Berlin, Germany	1	1	61094	30547	305	61
+CDU	CDU	78502295414	Facebook	berlin_DE	Berlin, Germany	13	1	59931	29697	350	59
+Party of the European Left	Franziska Laskowski	160598290012	Facebook	berlin_DE	Berlin, Germany	2	1	58447	23379	375	90
+Volt Deutschland	Volt Deutschland	134209407129787	Facebook	berlin_DE	Berlin, Germany	84	1	57302	12404	886	22
+Junge Liberale JuLis Berlin	Junge Liberale Berlin	190961277588195	Facebook	berlin_DE	Berlin, Germany	4	1	56996	11000	396	0
+Bündnis 90/Die Grünen Tempelhof-Schöneberg	Bündnis90/Die Grünen (Tempelhof-Schöneberg)	241204999236195	Facebook	berlin_DE	Berlin, Germany	2	1	54998	11000	598	100
+Demokratie in Bewegung	Demokratie in Bewegung	1799478453653006	Facebook	berlin_DE	Berlin, Germany	13	1	51099	15186	570	95
+WerteInitiative. jüdisch-deutsche Positionen		1906946382955447	Facebook	berlin_DE	Berlin, Germany	1	1	49234	9847	491	98
+European Free Alliance	European Free Alliance	46708306425	Facebook	berlin_DE	Berlin, Germany	4	1	48998	19552	498	98
+Junge Liberale JuLis	Junge Liberale	110976485656573	Facebook	berlin_DE	Berlin, Germany	5	1	46274	18874	649	128
+Grüne Jugend	Grüne Jugend	159474940754336	Facebook	berlin_DE	Berlin, Germany	5	1	45014	20239	238	100
+WWF Deutschland	WWF Deutschland	218786540044	Facebook	berlin_DE	Berlin, Germany	6	1	42802	18823	427	188
+Jusos in der SPD	Jusos in der SPD	40415227476	Facebook	berlin_DE	Berlin, Germany	18	1	42538	12530	394	67
+Senatsverwaltung für Kultur und Europa		247450562347746	Facebook	berlin_DE	Berlin, Germany	3	1	42436	18719	93	33
+SPD-Bundestagsfraktion	SPD-Bundestagsfraktion	144380008933707	Facebook	berlin_DE	Berlin, Germany	10	1	41835	12905	268	4
+Friedrich-Naumann-Stiftung für die Freiheit	Friedrich-Naumann-Stiftung für die Freiheit	140889782312	Facebook	berlin_DE	Berlin, Germany	12	1	38297	11152	259	33
+Neue Liberale - Die Sozialliberalen		730976676939532	Facebook	berlin_DE	Berlin, Germany	2	1	34833	13586	36	6
+Bündnis 90/Die Grünen Brandenburg	BÜNDNIS 90/DIE GRÜNEN	118849647749	Facebook	berlin_DE	Berlin, Germany	1	1	34042	6808	67	0
+Delara Burkhardt	SPD Schleswig-Holstein	260587924600836	Facebook	berlin_DE	Berlin, Germany	4	1	33915	16660	159	26
+AfD	AfD	540404695989874	Facebook	berlin_DE	Berlin, Germany	5	1	33779	16889	168	50
+Initiative Neue Soziale Marktwirtschaft (INSM)	Initiative Neue Soziale Marktwirtschaft (INSM)	121678260974	Facebook	berlin_DE	Berlin, Germany	102	1	33053	7825	723	0
+FDP Fraktion Bundestag	Fraktion der Freien Demokraten	341486659645594	Facebook	berlin_DE	Berlin, Germany	28	1	32198	6505	734	0
+Verband der Chemischen Industrie e.V.	Chemie Wirtschaftsförderungs GmbH	921326477983554	Facebook	berlin_DE	Berlin, Germany	87	1	31936	7106	1347	10
+Bundesregierung	Bundesregierung	768905426534529	Facebook	berlin_DE	Berlin, Germany	1	1	31608	12643	316	63
+DGB Bundesvorstand	Deutscher Gewerkschaftsbund (DGB)	147245511963527	Facebook	berlin_DE	Berlin, Germany	1	1	31352	12541	313	62
+FDP Friedrichshain-Kreuzberg	Lenhart Frank	173450889377945	Facebook	berlin_DE	Berlin, Germany	23	1	30977	2000	2277	0
+Europäische Kommission – Vertretung in Deutschland	Europäische Kommission – Vertretung in Deutschland	123332714357231	Facebook	berlin_DE	Berlin, Germany	13	1	29028	6574	278	48
+Familien-Partei		2314479965496560	Facebook	berlin_DE	Berlin, Germany	1	1	27225	13612	135	68
+Carolin Henseler	Carolin Nicola Henseler	201743000578232	Facebook	berlin_DE	Berlin, Germany	2	1	26822	13315	668	132
+European Commission	European Commission	107898832590939	Facebook	berlin_DE	Berlin, Germany	21	1	26808	12256	58	14
+VoteEuropa Deutschland	Verena Katharina Riedmiller	628787484249066	Facebook	berlin_DE	Berlin, Germany	3	1	26341	6137	262	46
+LiSL Deutschland	Michael Kauch	223782884301813	Facebook	berlin_DE	Berlin, Germany	6	1	26303	5704	336	61
+Tierschutz hier	Rudolf Görg 	2309063122705796	Facebook	berlin_DE	Berlin, Germany	12	1	26251	5799	171	24
+Monika Hohlmeier	Monika Hohlmeier	139065632780165	Facebook	berlin_DE	Berlin, Germany	5	1	26025	12157	117	22
+GoodJobs	GoodJobs	1004883576238809	Facebook	berlin_DE	Berlin, Germany	9	1	24547	5891	342	0
+Eko Fresh	Christoph Friedrich Brust	103824796345976	Facebook	berlin_DE	Berlin, Germany	5	1	23691	7239	194	39
+YOU.and.EU	Nordstrom Laura Helena	250361215678222	Facebook	berlin_DE	Berlin, Germany	2	1	23306	4661	46	0
+Grüne Neukölln	Georg Bonsiepe	101495919923314	Facebook	berlin_DE	Berlin, Germany	8	1	23067	4214	615	0
+Bayernpartei	Bayernpartei	78309442751	Facebook	berlin_DE	Berlin, Germany	4	1	22728	8818	266	120
+CDU Berlin	CDU Berlin	126952903983246	Facebook	berlin_DE	Berlin, Germany	4	1	21753	6948	345	0
+Diakonie Deutschland	Diakonie Deutschland	41509493347	Facebook	berlin_DE	Berlin, Germany	9	1	21329	4454	97	10
+Özlem Alev Demirel	DIE LINKE. NRW	602487899802568	Facebook	berlin_DE	Berlin, Germany	1	1	20959	10479	104	52
+Linke Kinonacht	Andreas Böttger	1419627234952559	Facebook	berlin_DE	Berlin, Germany	5	1	17995	6000	495	0
+Manuela Ripa	Manuela Magda Franca Maria Ripa	271226510199428	Facebook	berlin_DE	Berlin, Germany	7	1	16368	3239	226	70
+Humanity in Action Germany	Humanity in Action Germany	593043957430745	Facebook	berlin_DE	Berlin, Germany	1	1	15217	3043	151	30
+Klima-Allianz Deutschland	Klima-Allianz Deutschland	110521004952	Facebook	berlin_DE	Berlin, Germany	4	1	14467	6134	109	33
+Graue Panther wählen	Rudolf Görg 	2014695908579485	Facebook	berlin_DE	Berlin, Germany	10	1	14369	3964	212	36
+Demokratie in Bewegung Sachsen-Anhalt	Demokratie in Bewegung Sachsen-Anhalt	1907967889415631	Facebook	berlin_DE	Berlin, Germany	2	1	13624	6673	41	6
+Bündnis Grundeinkommen	Bündnis Grundeinkommen	548285578684618	Facebook	berlin_DE	Berlin, Germany	14	1	13399	3683	240	22
+Deutsche gegen Rassismus	BIG Partei Deutschland	2367349223545054	Facebook	berlin_DE	Berlin, Germany	10	1	13110	2622	95	0
+Arbeitgeberverband Gesamtmetall	Arbeitgeberverband Gesamtmetall	169367889785454	Facebook	berlin_DE	Berlin, Germany	32	1	11553	2225	143	0
+Change.org	Change.org e.V.	530905320274921	Facebook	berlin_DE	Berlin, Germany	3	1	11434	2286	22	0
+Robert Farle	Robert Farle	1565754943752371	Facebook	berlin_DE	Berlin, Germany	2	1	10383	2076	103	20
+Konrad-Adenauer-Stiftung	Konrad-Adenauer-Stiftung	44511549119	Facebook	berlin_DE	Berlin, Germany	5	1	10062	2012	39	0
+Bündnis 90/Die Grünen Lichtenberg	Philipp Ahrens	536915143091712	Facebook	berlin_DE	Berlin, Germany	1	1	9999	5000	99	0
+Più Europa - Berlino	Luca Donati 	371022907054776	Facebook	berlin_DE	Berlin, Germany	1	1	9999	5000	99	0
+Deutsches Kinderhilfswerk e.V.	Deutsches Kinderhilfswerk e.V.	107407945980041	Facebook	berlin_DE	Berlin, Germany	3	1	9928	1985	104	18
+Bündnis C - Christen für Deutschland	Bündnis C - Christen für Deutschland	675671552542620	Facebook	berlin_DE	Berlin, Germany	3	1	9609	1888	110	18
+FinanzAgenda	Union Investment	276690259403364	Facebook	berlin_DE	Berlin, Germany	20	1	9042	1776	188	4
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	berlin_DE	Berlin, Germany	1	1	8845	1769	88	17
 ver.di	la red	252085013582	Facebook	berlin_DE	Berlin, Germany	1	1	8480	4240	84	42
-DIE LINKE	DIE LINKE	47694585682	Facebook	berlin_DE	Berlin, Germany	4	1	5647	1369	63	8
-Junge Liberale JuLis	Junge Liberale	110976485656573	Facebook	berlin_DE	Berlin, Germany	2	1	5617	1123	56	11
-European Free Alliance	European Free Alliance	46708306425	Facebook	berlin_DE	Berlin, Germany	2	1	5293	1042	112	52
-Jusos in der SPD	Jusos in der SPD	40415227476	Facebook	berlin_DE	Berlin, Germany	2	1	5004	1001	9	0
-GoodJobs	GoodJobs	1004883576238809	Facebook	berlin_DE	Berlin, Germany	1	1	4999	1000	99	0
-Partei der Humanisten	Partei der Humanisten	499613946840551	Facebook	berlin_DE	Berlin, Germany	4	1	4710	929	26	0
-Katarina Barley	SPD	1522202731410785	Facebook	berlin_DE	Berlin, Germany	12	1	3128	564	86	0
-SPD	SPD	47930567748	Facebook	berlin_DE	Berlin, Germany	18	1	3103	380	156	0
-Monika Hohlmeier	Monika Hohlmeier	139065632780165	Facebook	berlin_DE	Berlin, Germany	1	1	3024	604	30	6
-Sven Giegold	Sven Giegold	1391306014465513	Facebook	berlin_DE	Berlin, Germany	3	1	2868	1434	28	0
-Arbeitgeberverband Gesamtmetall	Arbeitgeberverband Gesamtmetall	169367889785454	Facebook	berlin_DE	Berlin, Germany	8	1	2615	552	32	0
-Bayernpartei	Bayernpartei	78309442751	Facebook	berlin_DE	Berlin, Germany	1	1	2276	455	22	4
-SPD-Bundestagsfraktion	SPD-Bundestagsfraktion	144380008933707	Facebook	berlin_DE	Berlin, Germany	1	1	2253	450	4	0
-Arbeitnehmer und Rentner Union ARU	Peter Otto Arthur Rippler 	408239062653173	Facebook	berlin_DE	Berlin, Germany	3	1	1598	547	24	0
-FDP Fraktion Bundestag	Fraktion der Freien Demokraten	341486659645594	Facebook	berlin_DE	Berlin, Germany	4	1	1438	446	30	0
-Marie-Agnes Strack-Zimmermann	Marie-Agnes Strack-Zimmermann	782677895144628	Facebook	berlin_DE	Berlin, Germany	2	1	1251	50	103	0
-VoteEuropa Deutschland	Verena Katharina Riedmiller	628787484249066	Facebook	berlin_DE	Berlin, Germany	1	1	1185	237	23	0
-Konrad-Adenauer-Stiftung	Konrad-Adenauer-Stiftung	44511549119	Facebook	berlin_DE	Berlin, Germany	3	1	1140	228	22	0
-European Commission	European Commission	107898832590939	Facebook	berlin_DE	Berlin, Germany	2	1	1034	517	2	0
-LiSL Deutschland	Michael Kauch	223782884301813	Facebook	berlin_DE	Berlin, Germany	2	1	1028	180	30	0
-Robert Farle	Robert Farle	1565754943752371	Facebook	berlin_DE	Berlin, Germany	1	1	1001	501	9	0
-SPD Berlin	SPD Berlin	134137749971478	Facebook	berlin_DE	Berlin, Germany	1	1	999	0	99	0
-Rosa-Luxemburg-Stiftung	Rosa-Luxemburg-Stiftung	134483979119	Facebook	berlin_DE	Berlin, Germany	1	1	999	0	99	0
-Demokratie in Bewegung	Demokratie in Bewegung	1799478453653006	Facebook	berlin_DE	Berlin, Germany	1	1	606	121	12	0
-Alternative für Deutschland Mayen-Koblenz	Alternative für Deutschland Mayen-Koblenz	160882790765796	Facebook	berlin_DE	Berlin, Germany	2	1	586	97	19	0
-Bündnis Grundeinkommen	Bündnis Grundeinkommen	548285578684618	Facebook	berlin_DE	Berlin, Germany	2	1	556	94	17	0
-Adenauer Campus	Konrad-Adenauer-Stiftung	225123097665916	Facebook	berlin_DE	Berlin, Germany	8	1	531	52	31	0
-Junge Union Deutschlands	Junge Union Deutschlands	46098347293	Facebook	berlin_DE	Berlin, Germany	2	1	519	85	17	0
-Graue Panther wählen	Rudolf Görg 	2014695908579485	Facebook	berlin_DE	Berlin, Germany	1	1	440	88	8	0
-Karsten Klein	Karsten Klein	120519827980254	Facebook	berlin_DE	Berlin, Germany	1	1	377	75	7	0
-Phil Hackemann	Philip Fritz Hermann Hackemann	234193444126795	Facebook	berlin_DE	Berlin, Germany	1	1	329	65	6	0
-FDP Wahlkampf	Philippe André Westenfelder	393722064802394	Facebook	berlin_DE	Berlin, Germany	1	1	328	65	6	0
-JU-Kreisverband Deggendorf	Stefan Johann Zitzelsberger	377562525780294	Facebook	berlin_DE	Berlin, Germany	1	1	325	65	6	0
-DIE LINKE. Herne / Wanne-Eickel	Patrick Gawliczek	137962769704818	Facebook	berlin_DE	Berlin, Germany	1	1	285	0	28	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	berlin_DE	Berlin, Germany	4	1	209	52	0	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	berlin_DE	Berlin, Germany	1	1	205	103	0	0
-Europa Terra Nostra	Europa Terra Nostra e.V.	273074413028074	Facebook	berlin_DE	Berlin, Germany	1	1	176	0	17	0
-CDU	CDU	78502295414	Facebook	berlin_DE	Berlin, Germany	4	1	137	0	13	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	berlin_DE	Berlin, Germany	2	1	115	23	0	0
-Tierschutz hier	Rudolf Görg 	2309063122705796	Facebook	berlin_DE	Berlin, Germany	2	1	112	0	11	0
-Grüne im Kreis Germersheim	BÜNDNIS 90/DIE GRÜNEN KV Germerseheim	272673066211280	Facebook	berlin_DE	Berlin, Germany	1	1	104	0	10	0
-Karsten Hilse	Karsten Hilse 	358099231236311	Facebook	berlin_DE	Berlin, Germany	1	1	59	0	5	0
-Corinna Miazga	Corinna Miazga	1720472504912063	Facebook	berlin_DE	Berlin, Germany	1	1	38	0	3	0
+thyssenkrupp	thyssenkrupp	644063045675734	Facebook	berlin_DE	Berlin, Germany	1	1	8127	4063	20	4
+Bündnis 90/Die Grünen Treptow-Köpenick	Bündnis 90/Die Grünen Treptow-Köpenick	471093709629868	Facebook	berlin_DE	Berlin, Germany	4	1	7996	1000	396	0
+UNO-Flüchtlingshilfe	UNO-Flüchtlingshilfe	236934790401	Facebook	berlin_DE	Berlin, Germany	8	1	7840	1723	93	0
+Sozialistische Gleichheitspartei, IV Internationale - SGP	Helmut Wilhelm Arens	90523314133	Facebook	berlin_DE	Berlin, Germany	1	1	7669	1533	76	15
+CDU in Niedersachsen	CDU in Niedersachsen	109460782417586	Facebook	berlin_DE	Berlin, Germany	2	1	7665	3070	50	10
+Freie Wähler Bundesvereinigung	Freie Wähler Bundesvereinigung	204327886385912	Facebook	berlin_DE	Berlin, Germany	2	1	7582	3035	50	10
+enorm Magazin	GoodJobs	273110452731	Facebook	berlin_DE	Berlin, Germany	2	1	7494	1498	25	0
+Quorum	European Exchange	3138731056152846	Facebook	berlin_DE	Berlin, Germany	3	1	7217	1875	35	0
+UDO VOIGT für Deutschland in Europa	UDO VOIGT für Deutschland in Europa	598011190253742	Facebook	berlin_DE	Berlin, Germany	1	1	6898	3449	68	34
+Arbeitnehmer und Rentner Union ARU	Peter Otto Arthur Rippler 	408239062653173	Facebook	berlin_DE	Berlin, Germany	5	1	6778	1814	40	0
+Herz der Wirtschaft	Arbeitgeberverband Gesamtmetall	156977237732393	Facebook	berlin_DE	Berlin, Germany	3	1	6124	1025	200	0
+Jusos Charlottenburg-Wilmersdorf	SPD Charlottenburg-Wilmersdorf	233385923348063	Facebook	berlin_DE	Berlin, Germany	2	1	5998	1000	598	100
+Andrea Nahles	SPD	161929783920704	Facebook	berlin_DE	Berlin, Germany	2	1	5921	1184	59	11
+Lena Düpont	Lena Düpont	241903739847716	Facebook	berlin_DE	Berlin, Germany	3	1	5491	1087	112	0
+USR Diaspora	Uniunea Salvați România - USR	1793510380925494	Facebook	berlin_DE	Berlin, Germany	1	1	5151	2575	25	5
+BIG Partei Deutschland	BIG Partei Deutschland	353378298097249	Facebook	berlin_DE	Berlin, Germany	5	1	5136	1002	70	8
+CDU-Fraktion Berlin	CDU-Fraktion Berlin	119192498110884	Facebook	berlin_DE	Berlin, Germany	1	1	4999	1000	99	0
+Lars Düsterhöft	Lars Düsterhöft	1663624833888357	Facebook	berlin_DE	Berlin, Germany	1	1	4999	1000	99	0
+clubliebe e.V.		522171371291241	Facebook	berlin_DE	Berlin, Germany	1	1	4999	1000	99	0
+Simon Dennenmoser - AfD		645508692306293	Facebook	berlin_DE	Berlin, Germany	1	1	4999	1000	99	0
+Rosa-Luxemburg-Stiftung	Rosa-Luxemburg-Stiftung	134483979119	Facebook	berlin_DE	Berlin, Germany	1	1	4999	1000	99	0
+Hannah Neumann	Bündnis 90/Die Grünen Berlin-Lichtenberg	316076495487717	Facebook	berlin_DE	Berlin, Germany	2	1	4952	990	64	6
+Adenauer Campus	Konrad-Adenauer-Stiftung	225123097665916	Facebook	berlin_DE	Berlin, Germany	44	1	4894	1106	182	0
+Michael Kauch	Michael Kauch	68189497138	Facebook	berlin_DE	Berlin, Germany	5	1	4686	2016	102	11
+Thomas Sattelberger	Thomas Sattelberger	1714244788796089	Facebook	berlin_DE	Berlin, Germany	1	1	4679	935	9	0
+IG Metall	IG Metall	249296718436	Facebook	berlin_DE	Berlin, Germany	2	1	4548	1869	10	1
+Schule ohne Rassismus - Schule mit Courage Bundeskoordination	Schule ohne Rassismus - Schule mit Courage Bundeskoordination	244755398898581	Facebook	berlin_DE	Berlin, Germany	1	1	4546	909	9	0
+LOVE- Dmitry Kuzmin		1431285403818547	Facebook	berlin_DE	Berlin, Germany	1	1	4422	884	44	8
+SPD Sachsen	SPD Sachsen	50169278122	Facebook	berlin_DE	Berlin, Germany	5	1	4292	1970	48	0
+Lars Klingbeil	Lars Klingbeil	355456486093	Facebook	berlin_DE	Berlin, Germany	1	1	4240	848	84	42
+adidas Running		145629788018	Facebook	berlin_DE	Berlin, Germany	1	1	4195	839	83	0
+Marie-Agnes Strack-Zimmermann	Marie-Agnes Strack-Zimmermann	782677895144628	Facebook	berlin_DE	Berlin, Germany	3	1	4168	634	132	5
+LKS Brandenburg	Landeskoordinierungsstelle für LesBiSchwule & Trans* Belange des Landes Brandenburg	435393940553194	Facebook	berlin_DE	Berlin, Germany	1	1	4007	801	79	0
+Fridays for Future Deutschland	Together for Future e.V. 	2010920999000602	Facebook	berlin_DE	Berlin, Germany	12	1	3976	276	284	0
+FDP Bremen	FDP Bremen	152934608113175	Facebook	berlin_DE	Berlin, Germany	3	1	3967	977	67	12
+Paul Ziemiak	Paul Ziemiak	1067821176570031	Facebook	berlin_DE	Berlin, Germany	4	1	3923	911	90	30
+Reinhard Bütikofer	Reinhard Bütikofer	328884927228588	Facebook	berlin_DE	Berlin, Germany	4	1	3817	715	30	0
+Mike Mohring	CDU Weimarer Land	188677361503511	Facebook	berlin_DE	Berlin, Germany	9	1	3816	1126	41	0
+Junge Union Deutschlands	Junge Union Deutschlands	46098347293	Facebook	berlin_DE	Berlin, Germany	8	1	3705	965	95	7
+Markenverband e.V.	Markenverband e.V.	482176671952628	Facebook	berlin_DE	Berlin, Germany	10	1	3639	247	262	0
+Junges Freiburg	Junges Freiburg e.V.	244355055724023	Facebook	berlin_DE	Berlin, Germany	3	1	3536	827	18	0
+Michael Bloss	Michael Bloss	587477178350898	Facebook	berlin_DE	Berlin, Germany	2	1	3497	699	11	0
+FDP Wahlkampf	Philippe André Westenfelder	393722064802394	Facebook	berlin_DE	Berlin, Germany	2	1	3477	855	11	0
+Mehr Wirtschaft wagen	Arbeitgeberverband Gesamtmetall	1805769829749530	Facebook	berlin_DE	Berlin, Germany	8	1	3401	649	39	0
+Bundesministerium für Arbeit und Soziales	Bundesministerium für Arbeit und Soziales	108268845888673	Facebook	berlin_DE	Berlin, Germany	2	1	3315	867	11	0
+Nemetschek Stiftung	Nemetschek Stiftung	186375644742050	Facebook	berlin_DE	Berlin, Germany	2	1	3231	1288	42	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	berlin_DE	Berlin, Germany	3	1	2979	1268	6	2
+Norbert Kleinwächter		346613215704870	Facebook	berlin_DE	Berlin, Germany	1	1	2892	578	5	0
+Karsten Hilse	Karsten Hilse 	358099231236311	Facebook	berlin_DE	Berlin, Germany	4	1	2821	559	22	0
+Hannes Jaenicke	David Michel Löwe 	731404243600603	Facebook	berlin_DE	Berlin, Germany	1	1	2777	555	5	0
+Europa Terra Nostra	Europa Terra Nostra e.V.	273074413028074	Facebook	berlin_DE	Berlin, Germany	4	1	2669	471	77	0
+Diether Dehm	Diether Dehm	51091986850	Facebook	berlin_DE	Berlin, Germany	1	1	2553	1276	25	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	berlin_DE	Berlin, Germany	23	1	2543	879	10	1
+Moira Fine Jewellery		644735598990369	Facebook	berlin_DE	Berlin, Germany	1	1	2488	497	4	0
+Danke, Freihandel.	VDMA	226651401514704	Facebook	berlin_DE	Berlin, Germany	14	1	2245	567	79	0
+Karsten Klein	Karsten Klein	120519827980254	Facebook	berlin_DE	Berlin, Germany	7	1	2183	625	42	0
+AJC Berlin	AJC Berlin	282637388468069	Facebook	berlin_DE	Berlin, Germany	2	1	1893	740	73	12
+mymuesli		20393019390	Facebook	berlin_DE	Berlin, Germany	1	1	1816	363	3	0
+Johannes Vogel	Johannes Vogel	486203081469505	Facebook	berlin_DE	Berlin, Germany	6	1	1799	502	47	0
+Jo Leinen	Jo Leinen	290293517710818	Facebook	berlin_DE	Berlin, Germany	4	1	1636	327	32	0
+Udo Bullmann	Udo Bullmann	68936775929	Facebook	berlin_DE	Berlin, Germany	2	1	1589	795	15	0
+Sense Mesura		1606564102740842	Facebook	berlin_DE	Berlin, Germany	35	1	1589	0	157	0
+Phil Hackemann	Philip Fritz Hermann Hackemann	234193444126795	Facebook	berlin_DE	Berlin, Germany	5	1	1542	489	36	0
+Moritz Körner	Moritz Heimo Körner	448585188519271	Facebook	berlin_DE	Berlin, Germany	3	1	1310	49	110	0
+Freedom4press.de	Alexander Schlesiger	448953542522854	Facebook	berlin_DE	Berlin, Germany	2	1	1138	468	14	0
+A Solution to Plastic Pollution - First International Online Summit		1098001547034272	Facebook	berlin_DE	Berlin, Germany	1	1	1127	563	11	0
+Alternative für Deutschland Mayen-Koblenz	Alternative für Deutschland Mayen-Koblenz	160882790765796	Facebook	berlin_DE	Berlin, Germany	2	1	1124	512	20	0
+LSU in Niedersachsen	LSU in Niedersachsen	219610088525360	Facebook	berlin_DE	Berlin, Germany	2	1	1010	202	20	0
+SPD-Fraktion Treptow-Köpenick	SPD-Fraktion Treptow-Köpenick	324712601051697	Facebook	berlin_DE	Berlin, Germany	1	1	999	0	99	0
+Bloom		351686325472195	Facebook	berlin_DE	Berlin, Germany	1	1	999	0	99	0
+Jens Spahn	Jens Spahn	92576009043	Facebook	berlin_DE	Berlin, Germany	6	1	994	392	28	0
+Jutta Paulus	Jutta Paulus	398641690243628	Facebook	berlin_DE	Berlin, Germany	1	1	938	469	9	0
+CDU Schönefeld	CDU Gemeindeverband Schönefeld	563242443857193	Facebook	berlin_DE	Berlin, Germany	1	1	923	0	91	0
+IG BCE Jugend Nordrhein	IG BCE Landesbezirk Nordrhein	124363604315424	Facebook	berlin_DE	Berlin, Germany	1	1	911	455	45	9
+DIE LINKE. Herne / Wanne-Eickel	Patrick Gawliczek	137962769704818	Facebook	berlin_DE	Berlin, Germany	4	1	898	104	47	0
+I vote Europe		608176689275464	Facebook	berlin_DE	Berlin, Germany	2	1	890	445	8	0
+BDI - Bundesverband der Deutschen Industrie	BDI - Bundesverband der Deutschen Industrie	186206440652	Facebook	berlin_DE	Berlin, Germany	7	1	812	64	54	0
+CDU Bernau	CDU Bernau	688245224654106	Facebook	berlin_DE	Berlin, Germany	1	1	682	0	67	0
+Weunite	weunite.eu	843723189339313	Facebook	berlin_DE	Berlin, Germany	2	1	680	312	11	0
+Tiemo Wölken	Tiemo Wölken	1747943185455863	Facebook	berlin_DE	Berlin, Germany	1	1	678	339	6	0
+DEMOCRACY Deutschland	DEMOCRACY Deutschland e.V. 	1453504428281386	Facebook	berlin_DE	Berlin, Germany	1	1	676	338	6	0
+gimmemore.com		1766066203666578	Facebook	berlin_DE	Berlin, Germany	1	1	676	338	6	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	berlin_DE	Berlin, Germany	2	1	658	194	9	0
+Niklas Nienaß	Bündnis 90/Die Grünen Mecklenburg-Vorpommern	2280286458870451	Facebook	berlin_DE	Berlin, Germany	1	1	656	328	6	0
+Corinna Miazga	Corinna Miazga	1720472504912063	Facebook	berlin_DE	Berlin, Germany	3	1	650	110	20	0
+Verein Recht und Freiheit		1162229030454420	Facebook	berlin_DE	Berlin, Germany	2	1	640	106	21	0
+Maria Loheide	Diakonie Deutschland	944393298952238	Facebook	berlin_DE	Berlin, Germany	2	1	627	101	21	0
+Liberal - Konservative Reformer Regionsverband Südbaden		1255716807818192	Facebook	berlin_DE	Berlin, Germany	1	1	534	106	10	0
+Bosch Global		185652704861747	Facebook	berlin_DE	Berlin, Germany	2	1	532	106	10	0
+Marco Buschmann	Marco Buschmann	1375993365821383	Facebook	berlin_DE	Berlin, Germany	1	1	515	103	10	0
+Arndt Kohn	SPD-Unterbezirk in der Städteregion Aachen	1232732846774130	Facebook	berlin_DE	Berlin, Germany	1	1	514	102	10	0
+JU-Kreisverband Deggendorf	Stefan Johann Zitzelsberger	377562525780294	Facebook	berlin_DE	Berlin, Germany	2	1	505	101	10	0
+Service- und Kompetenzzentrum: Kommunaler Klimaschutz - SK:KK	Service- und Kompetenzzentrum: Kommunaler Klimaschutz (SK:KK) am Deutschen Institut für Urbanistik gGmbH	353503884759841	Facebook	berlin_DE	Berlin, Germany	2	1	432	56	20	0
+Partei Demokratie Direkt	Lukas Michael Knecht	289988518287493	Facebook	berlin_DE	Berlin, Germany	1	1	428	85	8	0
+BLOOMY DAYS	Fleurop.de	151936418263116	Facebook	berlin_DE	Berlin, Germany	1	1	412	82	8	0
+BFZ - Bündnis Fürstenwalder Zukunft e.V.	Bündnis Fürstenwalder Zukunft e.V.	578250582267178	Facebook	berlin_DE	Berlin, Germany	3	1	376	75	7	0
+Junge Union Kreis Altenkirchen	Justus Brühl	161397033931051	Facebook	berlin_DE	Berlin, Germany	2	1	376	62	12	0
+Deutschland Kurier		336677843601760	Facebook	berlin_DE	Berlin, Germany	1	1	365	73	7	0
+Deutsche Post	Deutsche Post	485303194814631	Facebook	berlin_DE	Berlin, Germany	1	1	355	71	7	0
+Birgit Sippel	Birgit Sippel	319398621464329	Facebook	berlin_DE	Berlin, Germany	1	1	341	68	6	0
+Beautiful underwater world		349842062556508	Facebook	berlin_DE	Berlin, Germany	1	1	335	67	5	0
+FDP Altona	Freie Demokratische Partei FDP Bezirksverband Altona	603208893090843	Facebook	berlin_DE	Berlin, Germany	1	1	313	62	6	0
+Gütersloher Verlagshaus		341789431722	Facebook	berlin_DE	Berlin, Germany	1	1	286	57	5	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	berlin_DE	Berlin, Germany	5	1	272	77	0	0
+Ausgewählt.eu		476088266069935	Facebook	berlin_DE	Berlin, Germany	1	1	270	54	5	0
+INA D		47534907213	Facebook	berlin_DE	Berlin, Germany	1	1	237	0	23	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	berlin_DE	Berlin, Germany	1	1	236	94	0	0
+Anna Deparnay-Grunenberg für Europa	BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	1819425944973592	Facebook	berlin_DE	Berlin, Germany	2	1	218	0	21	0
+Miriam Schreiber - Social Media & Digitale Kommunikation	Miriam Erika Schreiber	1589804161093513	Facebook	berlin_DE	Berlin, Germany	1	1	212	0	21	0
+Catharina Rinzema		2114625695290780	Facebook	berlin_DE	Berlin, Germany	1	1	200	40	0	0
+Phibie v. Aldebaran		447772735582107	Facebook	berlin_DE	Berlin, Germany	1	1	180	36	3	0
+Manchester City		208411345454	Facebook	berlin_DE	Berlin, Germany	1	1	173	86	0	0
+Grup Yorum Her Yerde		1593833514278594	Facebook	berlin_DE	Berlin, Germany	1	1	166	0	16	0
+Grüne Nordsachsen	Bündnis 90 die Grünen Kreisverband Nordsachsen	661587470556698	Facebook	berlin_DE	Berlin, Germany	2	1	161	0	16	0
+Big News Buzz		125179374733697	Facebook	berlin_DE	Berlin, Germany	1	1	151	76	0	0
+Ulrich Lechte	Ulrich Werner Maria Lechte	259242574566478	Facebook	berlin_DE	Berlin, Germany	1	1	137	0	13	0
+FDP Schleswig-Holstein		164131966966839	Facebook	berlin_DE	Berlin, Germany	1	1	117	0	11	0
+Grüne Augsburg	BÜNDNIS90/DIE GRÜNEN Stadtverband Augsburg	10150158634595002	Facebook	berlin_DE	Berlin, Germany	2	1	115	0	11	0
+CRIF		395919323779707	Facebook	berlin_DE	Berlin, Germany	1	1	93	46	0	0
+SPD Oranienburg	Matthias Björn Henning	151967014990793	Facebook	berlin_DE	Berlin, Germany	1	1	90	0	8	0
+Grüne im Kreis Germersheim	BÜNDNIS 90/DIE GRÜNEN KV Germerseheim	272673066211280	Facebook	berlin_DE	Berlin, Germany	1	1	90	0	8	0
+DEUTSCHLANDräumt auf - World CleanUp Day - 21. Sep. 2019	DEUTSCHLANDmacht - Let's Do It! Germany e.V.	584899344998752	Facebook	berlin_DE	Berlin, Germany	1	1	83	0	8	0
+Grüne Mainz	Bündnis 90/Die Grünen Mainz	442503965827807	Facebook	berlin_DE	Berlin, Germany	2	1	82	0	8	0
+Daniel Wald		318396151841792	Facebook	berlin_DE	Berlin, Germany	1	1	79	0	7	0
+Familien-Partei Deutschlands		449943065100732	Facebook	berlin_DE	Berlin, Germany	2	1	79	0	7	0
+Save The Seas		2203608429682203	Facebook	berlin_DE	Berlin, Germany	1	1	79	15	1	0
+Coffeenewstom		315975755506868	Facebook	berlin_DE	Berlin, Germany	1	1	73	0	7	0
+Energiewirtschaft einfach	Carsten Eckart 	2314352768828496	Facebook	berlin_DE	Berlin, Germany	1	1	73	0	7	0
+Oxford Club-Communiqué		2146712002244181	Facebook	berlin_DE	Berlin, Germany	1	1	72	0	7	0
+SPD Region Hannover	Ermana Nurkovic	110715173724	Facebook	berlin_DE	Berlin, Germany	1	1	55	0	5	0
+Free Quran Education		388655174641163	Facebook	berlin_DE	Berlin, Germany	1	1	49	24	0	0
+FDP Burgdorf-Uetze	FDP OV Burgdorf-Uetze	1931006000456181	Facebook	berlin_DE	Berlin, Germany	1	1	32	0	3	0
+ETUC		129041250601685	Facebook	berlin_DE	Berlin, Germany	1	1	31	6	0	0
+MOJIITO		125984251502	Facebook	berlin_DE	Berlin, Germany	1	1	27	0	2	0
+Gabriela Mirescu		2618888988127707	Facebook	berlin_DE	Berlin, Germany	2	1	19	9	0	0
+Ne u moje ime		138418753446889	Facebook	berlin_DE	Berlin, Germany	1	1	18	3	0	0
+SPD Bielefeld		131868470238091	Facebook	berlin_DE	Berlin, Germany	1	1	17	0	1	0
+Eurozine		115579498521257	Facebook	berlin_DE	Berlin, Germany	1	1	16	3	0	0
+G. Katsiashvili		450835425680654	Facebook	berlin_DE	Berlin, Germany	1	1	15	3	0	0
 Davide Artiko		789495278077545	Facebook	berlin_DE	Berlin, Germany	1	1	10	0	1	0
+Europe Thinx		335839580440114	Facebook	berlin_DE	Berlin, Germany	1	1	5	1	0	0
+CLAYTON		122493385103	Facebook	berlin_DE	Berlin, Germany	1	1	5	1	0	0
+Plictisescu.ro		184028071751540	Facebook	berlin_DE	Berlin, Germany	1	1	3	1	0	0
+ITUC		20556338116	Facebook	berlin_DE	Berlin, Germany	1	1	1	0	0	0
+The Years Project	The Years Project	168876449866088	Facebook	berlin_DE	Berlin, Germany	1	1	1	0	0	0

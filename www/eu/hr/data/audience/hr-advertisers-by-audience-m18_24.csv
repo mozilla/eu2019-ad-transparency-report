@@ -1,35 +1,106 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	m18_24	male (18-24)	HR	Croatia	7	1	60186	23653	118	7
-HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	m18_24	male (18-24)	HR	Croatia	9	1	39276	18648	177	17
-Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	m18_24	male (18-24)	HR	Croatia	10	1	29084	7570	110	0
-SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	8042	1608	25	0
-Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	7006	1401	13	0
-Jozo Radoš	Jozo Radoš	446717938731095	Facebook	m18_24	male (18-24)	HR	Croatia	5	1	6758	2382	99	0
-Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	5618	1123	11	0
-HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	5437	1087	10	0
-Ruža Kovačević Bilić	Hrvatska narodna stranka - liberalni demokrati (HNS)	2268602929863854	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	3074	614	6	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	m18_24	male (18-24)	HR	Croatia	4	1	2915	1410	3	0
-MOST nezavisnih lista	MOST nezavisnih lista	388550077899912	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	2249	1124	19	0
-Tomislav Stojak	Hrvatska narodna stranka - liberalni demokrati (HNS)	442201595870855	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	1888	377	37	0
-Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	m18_24	male (18-24)	HR	Croatia	15	1	1611	155	97	0
-Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	1308	261	5	0
-Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	1227	368	20	0
-Danijel Marušić	HDZ - Hrvatska demokratska zajednica	215152641879933	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	1168	233	23	0
-Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	1053	526	10	0
-Marijana Petir	Marijana Petir	1418903245032313	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	889	445	8	0
-Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	786	393	7	0
-European Commission	European Commission	107898832590939	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	649	324	1	0
-Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	610	224	8	0
-Stjepan Ribić	HDZ - Hrvatska demokratska zajednica	451335681696047	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	525	262	5	0
-Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	m18_24	male (18-24)	HR	Croatia	4	1	460	83	12	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	460	113	1	0
-European Parliament	European Parliament	178362315106	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	365	73	0	0
-Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	242	48	4	0
-Krešo Beljak	Vlahovic Mario	52929105855	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	164	32	3	0
-SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	57	0	5	0
-Sanja Radolović	Radolovic Sanja	508755779649081	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	28	0	2	0
+HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	m18_24	male (18-24)	HR	Croatia	50	1	576903	238237	2294	568
+Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	m18_24	male (18-24)	HR	Croatia	32	1	399727	165417	1181	207
+Europski parlament, Ured za informiranje u Republici Hrvatskoj	Europski parlament, Ured za informiranje u Republici Hrvatskoj	508795765833382	Facebook	m18_24	male (18-24)	HR	Croatia	18	1	243981	111854	636	83
+Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	m18_24	male (18-24)	HR	Croatia	19	1	238143	99410	661	87
+SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	m18_24	male (18-24)	HR	Croatia	13	1	205756	88237	182	0
+Model European Union Zagreb - MEUZ	Divea Studio	521874817895935	Facebook	m18_24	male (18-24)	HR	Croatia	5	1	189877	80585	235	0
+European Greens	European Greens	141366725876424	Facebook	m18_24	male (18-24)	HR	Croatia	6	1	138401	58587	427	173
+MOST nezavisnih lista	MOST nezavisnih lista	388550077899912	Facebook	m18_24	male (18-24)	HR	Croatia	12	1	114958	50103	372	64
+European Commission	European Commission	107898832590939	Facebook	m18_24	male (18-24)	HR	Croatia	22	1	110103	53005	155	47
+European Parliament	European Parliament	178362315106	Facebook	m18_24	male (18-24)	HR	Croatia	15	1	98418	46119	365	95
+Miro Bulj	MOST nezavisnih lista	1252295741481540	Facebook	m18_24	male (18-24)	HR	Croatia	8	1	95760	38010	263	41
+Joško Klisović	Klisovic Josko	1262594650584725	Facebook	m18_24	male (18-24)	HR	Croatia	16	1	94594	26861	246	0
+Slobodna Dalmacija	Slobodna Dalmacija	100267330025110	Facebook	m18_24	male (18-24)	HR	Croatia	25	1	68114	17767	214	0
+Jozo Radoš	Jozo Radoš	446717938731095	Facebook	m18_24	male (18-24)	HR	Croatia	9	1	59467	11893	164	0
+Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	m18_24	male (18-24)	HR	Croatia	10	1	54593	18805	233	37
+Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	m18_24	male (18-24)	HR	Croatia	6	1	47359	15939	176	26
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	m18_24	male (18-24)	HR	Croatia	15	1	46075	19728	79	28
+Marijana Petir	Marijana Petir	1418903245032313	Facebook	m18_24	male (18-24)	HR	Croatia	9	1	43279	13842	130	16
+Stjepan Adanić	HDZ - Hrvatska demokratska zajednica	408695383042330	Facebook	m18_24	male (18-24)	HR	Croatia	3	1	42340	18673	132	20
+Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	m18_24	male (18-24)	HR	Croatia	12	1	41174	12996	143	13
+BIOM	BIOM	138743669505642	Facebook	m18_24	male (18-24)	HR	Croatia	7	1	41067	9696	134	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	39903	19951	25	1
+Goran Pauk	HDZ - Hrvatska demokratska zajednica	581489628528785	Facebook	m18_24	male (18-24)	HR	Croatia	3	1	30191	6038	59	0
+SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	m18_24	male (18-24)	HR	Croatia	11	1	29399	11640	107	0
+Danijel Marušić	HDZ - Hrvatska demokratska zajednica	215152641879933	Facebook	m18_24	male (18-24)	HR	Croatia	4	1	25869	7715	42	0
+Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	19261	9630	37	4
+Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	m18_24	male (18-24)	HR	Croatia	18	1	18519	3819	130	0
+HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	17913	7602	22	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	17544	8772	87	17
+GLAS Građansko-liberalni savez	GLAS Građansko-liberalni savez	231052047413325	Facebook	m18_24	male (18-24)	HR	Croatia	6	1	17235	3884	92	12
+Saša Poljanec-Borić	Hrvatska socijalno liberalna stranka	1914254365351413	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	16822	8411	74	14
+Habib Tahiri	Hrvatska narodna stranka - liberalni demokrati (HNS)	750800161983664	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	16715	3343	33	0
+Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	m18_24	male (18-24)	HR	Croatia	20	1	15604	3627	239	0
+Đanino Sučić	Pametno	1778906682211240	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	15208	7604	75	15
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	m18_24	male (18-24)	HR	Croatia	9	1	14958	5868	20	4
+Stjepan Ribić	HDZ - Hrvatska demokratska zajednica	451335681696047	Facebook	m18_24	male (18-24)	HR	Croatia	4	1	12925	5428	60	8
+Unija Kvarnera	Pametno	584966128586909	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	12547	6273	31	6
+Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	10618	2123	21	0
+Nova ljevica	Možemo - politička platforma	706769699498076	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	10452	2090	20	0
+Tomislav Stojak	Hrvatska narodna stranka - liberalni demokrati (HNS)	442201595870855	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	10403	2080	33	0
+Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	m18_24	male (18-24)	HR	Croatia	5	1	10234	2142	27	0
+Krešo Beljak	Vlahovic Mario	52929105855	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	8704	3455	34	5
+Dr. sc. Tomislav Sokol	HDZ - Hrvatska demokratska zajednica	136900153422435	Facebook	m18_24	male (18-24)	HR	Croatia	3	1	8407	1651	31	0
+Ružica Vukovac		1657305064553537	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	8251	1650	16	0
+Gong	Gong	135611546456409	Facebook	m18_24	male (18-24)	HR	Croatia	3	1	7107	3417	66	0
+Zelena lista		157025101623973	Facebook	m18_24	male (18-24)	HR	Croatia	6	1	5985	2110	91	0
+Davor Škrlec	Zastupnik u Europskom parlamentu Davor Škrlec	1507744276110325	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	5788	1157	11	0
+Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	m18_24	male (18-24)	HR	Croatia	3	1	5724	1525	33	2
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	m18_24	male (18-24)	HR	Croatia	3	1	4899	2269	8	2
+Nikolina Brnjac	HDZ - Hrvatska demokratska zajednica	287054392229717	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	4504	900	24	3
+Ruža Kovačević Bilić	Hrvatska narodna stranka - liberalni demokrati (HNS)	2268602929863854	Facebook	m18_24	male (18-24)	HR	Croatia	3	1	4358	871	8	0
+Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	4206	888	9	0
+Tonino Picula	Tonino Picula	156057951248853	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	3837	767	7	0
+Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	m18_24	male (18-24)	HR	Croatia	15	1	3201	1078	52	0
+Marijana Balić	HDZ - Hrvatska demokratska zajednica	1274752085892321	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	2552	510	25	5
+Tome Anticic	Hrvatska narodna stranka - liberalni demokrati (HNS)	365723960708703	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	2023	1012	20	0
+Bulešić 4 EU	Hrvatska narodna stranka - liberalni demokrati (HNS)	2550012408361701	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	1974	394	5	0
+Sanja Radolović	Radolovic Sanja	508755779649081	Facebook	m18_24	male (18-24)	HR	Croatia	6	1	1774	496	30	0
+Davor Nađi	Nadi Davor	1640498249359280	Facebook	m18_24	male (18-24)	HR	Croatia	3	1	1583	626	21	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	1452	726	14	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	m18_24	male (18-24)	HR	Croatia	5	1	1381	484	5	0
+Diana Topčić-Rosenberg	TOPCIC-ROSENBERG DIANA	1702271996513206	Facebook	m18_24	male (18-24)	HR	Croatia	4	1	1009	226	31	0
+HNS Metković	Hrvatska narodna stranka - liberalni demokrati (HNS)	339522549467106	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	839	419	8	0
+Marina Gradišer	Demokrati	343303249641233	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	714	357	7	0
+HNS Ston	Hrvatska narodna stranka - liberalni demokrati (HNS)	1729880817265498	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	624	124	12	0
+Morana Jokić	Hrvatska narodna stranka - liberalni demokrati (HNS)	386303408627910	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	450	90	8	0
+Informativno Dokumentacijski Centar Banije I Korduna		1902779853072038	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	404	80	7	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	403	80	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	338	67	3	0
+Greenpeace Hrvatska	Greenpeace Hrvatska	359170097532754	Facebook	m18_24	male (18-24)	HR	Croatia	3	1	305	0	26	0
+Stranka hrvatskog zajedništva		944262495628175	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	247	49	4	0
+Nataša Gabričević	Hrvatska narodna stranka - liberalni demokrati (HNS)	284341509111383	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	242	48	4	0
+Europe Thinx		335839580440114	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	230	46	0	0
+Željka Markić		210218862695602	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	214	42	3	0
+HSS Hrvatska	Vlahovic Mario	236043376446622	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	157	78	1	0
+CRIF		395919323779707	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	146	73	0	0
+Ne u moje ime		138418753446889	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	121	24	0	0
+Telegram.hr		688325737947866	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	121	0	12	0
+ETUC		129041250601685	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	62	12	0	0
+Slobodni Infocentar Zagreb		1741621996163657	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	49	0	4	0
+Radnička Fronta		770459529655215	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	41	0	3	0
+Solarshop-Solar panels & Equipment		243321742824974	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	34	0	3	0
+Franc Bogovič	Slovenska ljudska stranka (SLS)	288826994603012	Facebook	m18_24	male (18-24)	HR	Croatia	8	1	33	6	0	0
 Hrvatske vijesti		286736758747850	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	18	0	1	0
+Demokratikus Koalíció	Demokratikus Koalíció	169599166463839	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	17	8	0	0
 Kulturpunkt.hr		89410579392	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	17	0	1	0
-Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	3	0	0	0
+Big News Buzz		125179374733697	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	16	8	0	0
+Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	m18_24	male (18-24)	HR	Croatia	3	1	10	4	0	0
+Danko Švorinić		1867610616838363	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	10	0	0	0
+ITUC		20556338116	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	6	0	0	0
+Eurozine		115579498521257	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	4	0	0	0
+Aleksander Jevšek	Socialni demokrati (SD)	1459898434295068	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	3	0	0	0
+MN Benito		1273446302821491	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	3	0	0	0
+Socialni demokrati (SD)	Socialni demokrati (SD)	12676777580	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	2	1	0	0
+Federica Sabbati	Federica Sabbati	834884563535291	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	1	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	m18_24	male (18-24)	HR	Croatia	2	1	1	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	0	0	0	0
+Antonio Silvio Calò	Antonio Silvio Calò	740380199679755	Facebook	m18_24	male (18-24)	HR	Croatia	3	1	0	0	0	0
+DK Nagykanizsa	Demokratikus Koalíció	704399322958470	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	0	0	0	0
 Isabella De Monte	Walter Godina - Mandatario Elettorale di Isabella De Monte	152661171597544	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	0	0	0	0
-Franc Bogovič	Slovenska ljudska stranka (SLS)	288826994603012	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	0	0	0	0
+Carla Franchini	MIRTA QUAGLIAROLI, Mandatario elettorale del candidato  Carla Franchini	686106498236150	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	0	0	0	0
+Simone Polesello per il Fvg	Simone Polesello	155754657821240	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	0	0	0	0
+Pirati	Pirati	98358327274	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	0	0	0	0
+Tom MacDonald		212732770186	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	0	0	0	0
+Hydrogene Technologies Hungary	Nagy Tamás	406305670209771	Facebook	m18_24	male (18-24)	HR	Croatia	1	1	0	0	0	0

@@ -1,36 +1,109 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Fidesz	Fidesz	9844779306	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	18	1	103302	47061	468	207
-Momentum Mozgalom	Momentum Mozgalom	592204747588011	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	36	1	43337	18816	94	30
-Gyöngyösi Márton	Országgyűlés Hivatala Jobbik Frakció	781030738624077	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	4	1	26705	11652	61	30
-Jobbik Magyarországért Mozgalom	Országgyűlés Hivatala Jobbik Frakció	287770891404	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	3	1	25126	10735	65	32
-Jakab Péter	Országgyűlés Hivatala Jobbik Frakció	781150971947219	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	3	1	17947	8973	49	23
-Cseh Katalin - Momentum	Momentum Mozgalom	682448271826776	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	13	1	9195	2287	41	8
-Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	8	1	8866	1811	30	6
-Párbeszéd Magyarországért	Párbeszéd Magyarországért	113684438795574	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	4	1	7972	2813	18	3
-Dr. Lukács László György	Országgyűlés Hivatala Jobbik Frakció	490006464353222	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	7683	3842	23	11
-Alfahír	Alfahír Hírportál	525574220799452	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	5	1	7417	1582	22	4
-European Parliament	European Parliament	178362315106	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	6408	3204	15	3
-Demokratikus Koalíció	Demokratikus Koalíció	169599166463839	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	8	1	6200	1664	22	5
-Mi Hazánk Mozgalom		620030171664750	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	3837	767	1	0
-KDNP és Frakciója	KDNP és Frakciója	230385242742	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	22	1	2364	418	6	1
-MSZP	MSZP	115388925185513	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	1806	361	5	1
+Fidesz	Fidesz	9844779306	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	119	1	839346	368725	4203	1801
+Demokratikus Koalíció	Demokratikus Koalíció	169599166463839	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	57	1	320605	96055	1760	395
+Jobbik Magyarországért Mozgalom	Jobbik Magyarországért Mozgalom	287770891404	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	23	1	305511	140410	955	439
+Momentum Mozgalom	Momentum Mozgalom	592204747588011	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	87	1	264868	104858	727	279
+Kálmán Olga Hivatalos oldala	Kálmán Olga Hivatalos oldala	1878531865537365	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	108	1	233279	92636	674	253
+MSZP	MSZP	115388925185513	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	29	1	190620	77577	558	224
+Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	40	1	140128	51551	488	185
+Partizán	Gulyás Márton Ferenc	1406386486355924	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	106	1	130085	47647	239	83
+Alfahír	Alfahír Hírportál	525574220799452	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	50	1	126202	50810	390	161
+Jakab Péter	Jobbik Magyarországért Mozgalom	781150971947219	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	9	1	112343	46666	237	105
+European Commission	European Commission	107898832590939	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	28	1	107373	51195	419	95
+Párbeszéd Magyarországért	Párbeszéd Magyarországért	113684438795574	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	24	1	101836	41512	164	58
+European Greens	European Greens	141366725876424	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	10	1	97269	44209	597	132
+European Parliament	European Parliament	178362315106	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	17	1	87977	38058	353	77
+LMP - Lehet Más a Politika	LMP - Lehet Más a Politika	47198507012	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	9	1	85617	35698	72	31
+Gyurcsány Ferenc	Demokratikus Koalíció	187301974635606	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	21	1	85248	38566	224	101
+Európai Parlament Tájékoztatási Irodája	Európai Parlament Tájékoztatási Irodája	126893087354793	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	29	1	64994	25519	74	27
+Cseh Katalin - Momentum	Momentum Mozgalom	682448271826776	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	31	1	63488	23204	175	62
+Bana Tibor	Jobbik Magyarországért Mozgalom	184890488198962	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	8	1	59574	11388	51	19
+Gyöngyösi Márton	Jobbik Magyarországért Mozgalom	781030738624077	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	9	1	56364	22125	128	57
+Schmuck Erzsébet	LMP - Lehet Más a Politika	1461534750733248	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	5	1	41390	17155	43	21
+Jobbik Ifjúsági Tagozat	Jobbik Magyarországért Mozgalom	129382163754757	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	4	1	33499	15024	83	33
+KDNP és Frakciója	KDNP és Frakciója	230385242742	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	43	1	32420	10491	54	15
+Demeter Márta	LMP - Lehet Más a Politika	1372750529476614	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	3	1	31653	14034	32	16
+PestiSracok.hu	PestiSrácok.hu	264517713636590	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	15	1	24909	5913	69	17
+Nemzeti Televízió	Alfahír Hírportál	164061553749320	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	5	1	21803	10842	39	17
+Csárdi Antal	LMP - Lehet Más a Politika	136387873164491	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	18150	7260	11	5
+Jávor Benedek	Párbeszéd Magyarországért	131797633528377	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	16	1	16906	4703	51	10
+Dr. Molnár Csaba	Demokratikus Koalíció	306318386058001	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	9	1	15984	4540	60	15
+Magyar Természetvédők Szövetsége- Föld Barátai Magyarország	Magyar Természetvédők Szövetsége- Föld Barátai Magyarország	124991704202615	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	7	1	11880	4334	26	5
+Magyar Kétfarkú Kutya Párt	Magyar Kétfarkú Kutya Párt	14792493292	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	5	1	11701	3714	12	2
+Sneider Tamás	Országgyűlés Hivatala Jobbik Frakció	329107800543535	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	4	1	11095	4469	39	18
+Dr. Lukács László György	Jobbik Magyarországért Mozgalom	490006464353222	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	3	1	9221	4218	28	13
+Semjén Zsolt	Országgyűlés Hivatala KDNP frakció	228731803847927	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	9	1	8589	2059	8	4
+888.hu	888.hu	748348838626461	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	5	1	8436	1687	17	4
+Vágó Gábor	LMP - Lehet Más a Politika	453253875264	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	7347	3673	22	11
+Indítsuk Be Magyarországot Alapítvány	Indítsuk Be Magyarországot Alapítvány	422399638586608	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	8	1	7260	2317	41	18
+Dr. Tóth Bertalan	MSZP	1425355697692924	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	5	1	7068	2545	25	8
+Alapjogokért Központ	Alapjogokért Központ	594088897289853	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	4	1	6710	1342	20	4
+Comedy Central Magyarország	Comedy Central Magyarország	287863594432	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	5964	2982	9	4
+Szabó Tímea	Párbeszéd Magyarországért	156847374371871	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	3	1	5887	1177	13	3
+Greenpeace Magyarország	Greenpeace Magyarország	35634348348	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	5	1	5450	2100	6	1
+Harrach Péter	Országgyűlés Hivatala KDNP frakció	206160682739388	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	8	1	5235	1460	15	3
+Menczer Tamás	Tamás Menczer	2074269302652716	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	3	1	5220	1044	16	3
+Bencsik János	Országgyűlés Hivatala Jobbik Frakció	931186216990824	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	4999	1000	15	3
+Kocsis Máté	Kocsis Máté	149061108240	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	7	1	4450	1180	9	2
+European Free Alliance	European Free Alliance	46708306425	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	4084	1925	22	4
+Mi Hazánk Mozgalom		620030171664750	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	3836	767	1	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	11	1	3668	1414	7	1
+Dúró Dóra	Sipos 	191946490841225	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	3638	1819	11	5
+Mága Zoltán hegedűművész		164762586881530	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	3404	680	6	1
+Stummer János	Országgyűlés Hivatala Jobbik Frakció	134984140045777	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	3325	1662	5	1
+Ökopolisz Alapítvány	Ökopolisz Alapítvány	244669668913278	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	3197	1598	9	4
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	3	1	2234	1083	2	0
+Nacsa Lőrinc	Nacsa Lőrinc	959798297495473	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	4	1	2213	442	6	1
+aHang	aHang	150836998898897	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	9	1	2132	1013	18	4
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	9	1	1927	886	3	0
+Kádár Gábor	Párbeszéd Magyarországért	734724533343964	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	3	1	1905	371	5	1
+Dr. Keresztes László Lóránt	LMP - Lehet Más a Politika	132593883577930	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	1852	370	5	1
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	3	1	1786	838	2	0
+Z. Kárpát Dániel	Jobbik Magyarországért Mozgalom	208726209161904	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	1785	353	5	1
 Dr. Szoboszlay György Csaba, közszereplő, LMP	Szoboszlay György Csaba	202727753244884	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	1777	355	5	1
-Gyurcsány Ferenc	Demokratikus Koalíció	187301974635606	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	1171	234	3	0
-Indítsuk Be Magyarországot Alapítvány	Indítsuk Be Magyarországot Alapítvány	422399638586608	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	960	192	2	0
-Semjén Zsolt	Országgyűlés Hivatala KDNP frakció	228731803847927	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	5	1	581	205	1	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	4	1	482	216	0	0
-Jávor Benedek	Párbeszéd Magyarországért	131797633528377	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	4	1	474	88	1	0
-Partizán	Gulyás Márton Ferenc	1406386486355924	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	13	1	355	0	0	0
-Harrach Péter	Országgyűlés Hivatala KDNP frakció	206160682739388	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	5	1	302	28	0	0
+K-Monitor	K-Monitor	170834092937469	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	3	1	1692	458	1	0
+ÉFOÉSZ Központ	Nati Kovács	1510195069274380	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	3	1	1655	411	8	1
+Magyar Munkáspárt	Magyar Munkáspárt	447556782025193	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	1646	329	5	1
+Political Capital (HU)	Political Capital (HU)	115230488549915	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	1626	325	5	1
+Magyar Zoltán	Országgyűlés Hivatala Jobbik Frakció	281527466391	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	1621	324	1	0
+Amnesty International Magyarország	Amnesty International Magyarország	44847086574	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	1547	309	0	0
+Momentum TizenX	Momentum Mozgalom	1992543104404776	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	1283	256	3	0
+A kiló nem százat jelent.	Antlfinger Edvárd	172924162721825	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	5	1	1127	430	11	2
+Dr. Brenner Koloman	Országgyűlés Hivatala Jobbik Frakció	180924612473518	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	731	290	1	0
+Hydrogene Technologies Hungary	Nagy Tamás	406305670209771	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	639	259	0	0
+II. kerületi Fidesz	II. Kerületi Fidesz	1936388216579939	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	538	225	1	0
+MSZP Nyíregyháza	MSZP	740771415954618	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	4	1	433	178	0	0
+Székely Sándor, a Szolidaritás országgyűlési képviselője	SZOLIDARITÁS	1560795780732708	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	3	1	379	65	1	0
+Centre for Euro-Atlantic Integration and Democracy	Centre for Euro-Atlantic Integration and Democracy	260922190745812	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	4	1	378	72	1	0
+Szanyi Tibor		212006518894490	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	373	186	0	0
+Europe Thinx		335839580440114	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	372	74	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	5	1	362	141	1	0
+Fekete-Győr András	Momentum Mozgalom	128573907819549	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	356	178	1	0
+Ádám Kósa Mep	Adam Kosa, Member of the European Parliament	237088069704442	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	337	168	1	0
+Herczeg Tamás	Nagy Sándor	292787761246129	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	284	142	0	0
 Polkorrekt		345406462731106	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	283	56	1	0
-Hydrogene Technologies Hungary	Nagy Tamás	406305670209771	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	249	40	0	0
-Kádár Gábor	Párbeszéd Magyarországért	734724533343964	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	190	38	0	0
-Kocsis Máté	Kocsis Máté	149061108240	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	188	37	0	0
-European Commission	European Commission	107898832590939	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	175	87	0	0
-Political Capital (HU)	Political Capital (HU)	115230488549915	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	150	30	0	0
-A kiló nem százat jelent.	Antlfinger Edvárd	172924162721825	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	149	29	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	79	21	0	0
-MSZP Nyíregyháza	MSZP	740771415954618	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	75	15	0	0
+SZOLIDARITÁS	SZOLIDARITÁS	256906124350468	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	272	54	0	0
+Donáth Anna Júlia	Momentum Mozgalom	294815374340858	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	225	112	0	0
+Karácsony Gergely	Párbeszéd Magyarországért	193944440638410	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	161	32	0	0
+Tégy az abortusz ellen	Karácsonyi Zoltán	200615179974476	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	156	30	0	0
+Magyar Fórum - Maďarské fórum	Simon Zsolt	522186401540084	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	4	1	147	32	0	0
+Most-Híd (Híd-Most)	Most-Híd (Híd-Most)	353195602108	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	3	1	144	72	0	0
+Promotions.hu	Promotions.hu	780542761958375	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	144	28	0	0
+CRIF		395919323779707	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	65	32	0	0
+ETUC		129041250601685	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	60	12	0	0
+Mérce		85568463466	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	49	0	4	0
+MSZP Budapest	MSZP Budapest	414715951917446	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	38	0	0	0
+Turbók János		117416418915735	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	38	0	0	0
+Györgyey János	Györgyey János	1263261490396127	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	37	0	0	0
+Privátbankár.hu	Privátbankár.hu	10150143942470099	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	30	0	0	0
 European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	20	10	0	0
-Most-Híd (Híd-Most)	Most-Híd (Híd-Most)	353195602108	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	18	9	0	0
-Magyar Közösség Pártja	Magyar Közösség Pártja	259594940734093	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	3	0	0	0
+No more bricks in the Wall		1854947667901523	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	19	0	1	0
+Zora Jaurová • Progresívne Slovensko	MPhilms o.z.	267456060571592	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	14	2	0	0
+Magyar Közösség Pártja	Magyar Közösség Pártja	259594940734093	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	13	6	0	0
+ITUC		20556338116	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	10	0	1	0
+Jaroslav Paška	Pašková Juliana	480862355305905	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	2	1	8	1	0	0
+Simon Zsolt	Simon Zsolt	281189505375741	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	6	1	0	0
+Csáky Pál		284516465058960	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	4	2	0	0
+Tárnok Balázs	Tárnok Balázs	831444983872265	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	3	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	2	0	0	0
+Tomáš Dentico, váš hlas rešpektovaný v Europarlamente	SPOLU - občianska demokracia	1172318522948253	Facebook	komarom_esztergom_county_HU	Komárom-Esztergom County, Hungary	1	1	1	0	0	0

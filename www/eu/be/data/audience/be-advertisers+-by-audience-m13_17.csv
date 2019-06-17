@@ -1,17 +1,26 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-CDH - Centre Démocrate Humaniste	CDH - Centre Démocrate Humaniste	189649407806135	Facebook	m13_17	male (13-17)	BE	Belgium	10	1	46763	16235	73	0
-MR - Mouvement Réformateur	MR - Mouvement Réformateur	236330169511	Facebook	m13_17	male (13-17)	BE	Belgium	156	1	14401	1287	1001	0
-Vlaams Belang	Vlaams Belang	56605856504	Facebook	m13_17	male (13-17)	BE	Belgium	1	1	6051	3025	60	30
-Lode Ceyssens	Lode Ceyssens	690224427744073	Facebook	m13_17	male (13-17)	BE	Belgium	1	1	5798	1159	11	0
-one brussels	one.brussels	244157445635331	Facebook	m13_17	male (13-17)	BE	Belgium	3	1	3642	932	16	0
-Comac étudiants	PTB	386211174868638	Facebook	m13_17	male (13-17)	BE	Belgium	2	1	1825	365	36	0
-Greenpeace Belgium	Greenpeace Belgium	73232790238	Facebook	m13_17	male (13-17)	BE	Belgium	4	1	1101	220	3	0
-Hicham El Mzairh	Hicham El Mzairh	39050546817	Facebook	m13_17	male (13-17)	BE	Belgium	1	1	790	395	7	0
-Simon Lejeune	Lejuene Simon Paul F	1721305591241017	Facebook	m13_17	male (13-17)	BE	Belgium	4	1	655	121	16	0
-Kim Alloo	Alloo Kim	2165082146846340	Facebook	m13_17	male (13-17)	BE	Belgium	2	1	631	114	17	0
-Steven Vandeput	Nieuw-Vlaamse Alliantie	983442595060481	Facebook	m13_17	male (13-17)	BE	Belgium	1	1	246	123	2	0
-Jos Lantmeeters	Nieuw-Vlaamse Alliantie	2253398908319094	Facebook	m13_17	male (13-17)	BE	Belgium	1	1	170	85	1	0
-N-VA Mechelen	Nieuw-Vlaamse Alliantie	250836601610919	Facebook	m13_17	male (13-17)	BE	Belgium	1	1	149	29	2	0
-European Commission	European Commission	107898832590939	Facebook	m13_17	male (13-17)	BE	Belgium	2	1	106	53	0	0
-Zuhal Demir	Nieuw-Vlaamse Alliantie	453932394796444	Facebook	m13_17	male (13-17)	BE	Belgium	1	1	57	11	1	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	m13_17	male (13-17)	BE	Belgium	2	1	18	4	0	0
+CDH - Centre Démocrate Humaniste	CDH - Centre Démocrate Humaniste	189649407806135	Facebook	m13_17	male (13-17)	BE	Belgium	10	1	168325	69226	317	149
+MR - Mouvement Réformateur	MR - Mouvement Réformateur	236330169511	Facebook	m13_17	male (13-17)	BE	Belgium	235	1	133566	32983	2326	125
+one brussels	one.brussels	244157445635331	Facebook	m13_17	male (13-17)	BE	Belgium	12	1	24377	5278	82	5
+Open Vld	Open Vld	53668151866	Facebook	m13_17	male (13-17)	BE	Belgium	3	1	24121	8684	243	47
+Delhaize	Delhaize	30102123042	Facebook	m13_17	male (13-17)	BE	Belgium	11	1	23889	9704	130	14
+European Parliament	European Parliament	178362315106	Facebook	m13_17	male (13-17)	BE	Belgium	3	1	22487	11231	112	22
+Philippe Muyters	Nieuw-Vlaamse Alliantie	197625717055207	Facebook	m13_17	male (13-17)	BE	Belgium	2	1	22123	4424	220	44
+Wim Soons	Soons Wim	598618930329580	Facebook	m13_17	male (13-17)	BE	Belgium	3	1	17277	8638	90	16
+sp.a West-Vlaanderen	sp.a West-Vlaanderen	269157793205215	Facebook	m13_17	male (13-17)	BE	Belgium	6	1	14899	5013	122	24
+Kristof Calvo	Kristof Calvo	345099982367937	Facebook	m13_17	male (13-17)	BE	Belgium	4	1	13641	5634	99	28
+PVDA West-Vlaanderen	PVDA	1661103980836335	Facebook	m13_17	male (13-17)	BE	Belgium	5	1	13486	3132	125	0
+European Commission	European Commission	107898832590939	Facebook	m13_17	male (13-17)	BE	Belgium	20	1	11156	5209	15	4
+Lander Piccart	Piccart Lander 	654200285025844	Facebook	m13_17	male (13-17)	BE	Belgium	1	1	8834	1766	17	0
+Vlaams Belang	Vlaams Belang	56605856504	Facebook	m13_17	male (13-17)	BE	Belgium	1	1	8457	4228	42	21
+ITUC		20556338116	Facebook	m13_17	male (13-17)	BE	Belgium	2	1	4420	2210	43	0
+Dries Van Langenhove	Vlaams Belang	1585072555117186	Facebook	m13_17	male (13-17)	BE	Belgium	1	1	4189	2094	104	20
+Anja Vanrobaeys	Vanrobaeys Anja Maurits	795798820785493	Facebook	m13_17	male (13-17)	BE	Belgium	1	1	4133	826	8	0
+Lode Ceyssens	Lode Ceyssens	690224427744073	Facebook	m13_17	male (13-17)	BE	Belgium	1	1	3686	737	7	0
+Johan Van Overtveldt	Nieuw-Vlaamse Alliantie	275607285891320	Facebook	m13_17	male (13-17)	BE	Belgium	1	1	3678	735	36	7
+Hicham El Mzairh	Hicham El Mzairh	39050546817	Facebook	m13_17	male (13-17)	BE	Belgium	1	1	3436	687	34	6
+Bert Wollants	Nieuw-Vlaamse Alliantie	122123487813722	Facebook	m13_17	male (13-17)	BE	Belgium	4	1	3415	949	55	10
+Simon Lejeune	Lejuene Simon Paul F	1721305591241017	Facebook	m13_17	male (13-17)	BE	Belgium	10	1	3305	654	34	1
+Sven Gatz	Gatz Sven Peter A	100947845480	Facebook	m13_17	male (13-17)	BE	Belgium	2	1	2794	968	27	2
+Jos Lantmeeters	Nieuw-Vlaamse Alliantie	2253398908319094	Facebook	m13_17	male (13-17)	BE	Belgium	1	1	2535	1267	25	12
+Kim Alloo	Alloo Kim	2165082146846340	Facebook	m13_17	male (13-17)	BE	Belgium	8	1	2534	938	45	0

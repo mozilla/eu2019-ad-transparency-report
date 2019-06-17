@@ -1,93 +1,165 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	day_code_filter	day_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-INBOX	New Digital Media	369693523475596	Facebook	d138	2019-05-18	EL	Greece	15	1	629406	274069	877	83
-Kostas Dervos	Kostas Dervos	1970779819866623	Facebook	d138	2019-05-18	EL	Greece	10	1	354734	117406	593	0
-European Parliament	European Parliament	178362315106	Facebook	d138	2019-05-18	EL	Greece	1	1	249818	99927	249	49
-Γιώργος Καμίνης	Georgios Kaminis	186974508081005	Facebook	d138	2019-05-18	EL	Greece	6	1	200390	69962	746	249
-Θοδωρής Ζαγοράκης / Thodoris Zagorakis	Θοδωρής Ζαγοράκης / Thodoris Zagorakis	235332330007800	Facebook	d138	2019-05-18	EL	Greece	1	1	166536	66614	166	33
-Ρένα Δούρου	Ρένα Δούρου	225197477683663	Facebook	d138	2019-05-18	EL	Greece	43	1	114985	23999	1419	0
-Νάσος Ηλιόπουλος	Athanasios Iliopoulos	1535215766758773	Facebook	d138	2019-05-18	EL	Greece	7	1	108664	21666	247	0
-Κίνημα Αλλαγής	Κίνημα Αλλαγής	504891253213373	Facebook	d138	2019-05-18	EL	Greece	2	1	99931	49966	199	33
-Οι Έλληνες	In Progress	2273336566260671	Facebook	d138	2019-05-18	EL	Greece	1	1	99927	49963	499	249
-Βασιλική Λαζαράκου	Βασιλική Λαζαράκου 	443842809693601	Facebook	d138	2019-05-18	EL	Greece	3	1	82845	26564	264	33
-Kyriakos Mitsotakis	ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ	34848567724	Facebook	d138	2019-05-18	EL	Greece	5	1	69944	14988	164	0
-Νίκος Ανδρουλάκης	Νίκος Ανδρουλάκης	216089191899991	Facebook	d138	2019-05-18	EL	Greece	5	1	61617	15323	230	0
-Nikos Papandreou	Nikos Papandreou	2245032148843299	Facebook	d138	2019-05-18	EL	Greece	4	1	57454	12990	197	0
-Παύλος Ελευθεριάδης	Pavlos Eleftheriadis	768996799785550	Facebook	d138	2019-05-18	EL	Greece	4	1	53302	10660	164	0
-Δημήτρης Κωνσταντακόπουλος	Δημητριος Κωνσταντακοπουλος	912293735783615	Facebook	d138	2019-05-18	EL	Greece	1	1	49949	9990	98	0
-Ιωάννης Σγουρός	Ιωαννης Σγουρος	1401098180146606	Facebook	d138	2019-05-18	EL	Greece	2	1	41665	8333	82	0
+INBOX	New Digital Media	369693523475596	Facebook	d138	2019-05-18	EL	Greece	18	1	651054	279399	976	83
+Kostas Dervos	Kostas Dervos	1970779819866623	Facebook	d138	2019-05-18	EL	Greece	10	1	354739	117409	593	0
+Γιώργος Καμίνης	Georgios Kaminis	186974508081005	Facebook	d138	2019-05-18	EL	Greece	7	1	285676	129929	1730	329
+European Parliament	European Parliament	178362315106	Facebook	d138	2019-05-18	EL	Greece	1	1	249818	99927	499	249
+Ρένα Δούρου	Ρένα Δούρου	225197477683663	Facebook	d138	2019-05-18	EL	Greece	51	1	205742	61777	1871	142
+Δημήτρης Κωνσταντακόπουλος	Δημητριος Κωνσταντακοπουλος	912293735783615	Facebook	d138	2019-05-18	EL	Greece	2	1	199856	99929	197	0
+To Potami	To Potami	240638659452549	Facebook	d138	2019-05-18	EL	Greece	1	1	142857	71428	714	142
+Βαρουξής Λευτέρης - Varouxis Lefteris	Digital Solutions	280496205994839	Facebook	d138	2019-05-18	EL	Greece	7	1	111384	43309	254	33
+Βασιλική Λαζαράκου	Βασιλική Λαζαράκου 	443842809693601	Facebook	d138	2019-05-18	EL	Greece	3	1	104396	35154	207	71
+Kyriakos Mitsotakis	ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ	34848567724	Facebook	d138	2019-05-18	EL	Greece	5	1	101177	40596	224	74
+Νάσος Ηλιόπουλος	Athanasios Iliopoulos	1535215766758773	Facebook	d138	2019-05-18	EL	Greece	8	1	100560	48075	380	69
+Κίνημα Αλλαγής	Κίνημα Αλλαγής	504891253213373	Facebook	d138	2019-05-18	EL	Greece	4	1	92847	40872	185	34
+Μανώλης Γλυνός	Emmanouil Glynos	968742453313048	Facebook	d138	2019-05-18	EL	Greece	6	1	91347	45376	410	119
+Νίκος Ανδρουλάκης	Νίκος Ανδρουλάκης	216089191899991	Facebook	d138	2019-05-18	EL	Greece	5	1	67451	25480	93	0
+Οι Έλληνες	In Progress	2273336566260671	Facebook	d138	2019-05-18	EL	Greece	1	1	62456	24982	124	62
+Ζωή Κωνσταντοπούλου - Zoe Konstantopoulou	Πλεύση Ελευθερίας	1489639131352219	Facebook	d138	2019-05-18	EL	Greece	4	1	55515	22760	104	11
+Ιωάννης Σγουρός	Ιωαννης Σγουρος	1401098180146606	Facebook	d138	2019-05-18	EL	Greece	2	1	49999	19999	199	33
+ΣΥΜΠΟΛΙΤΕΙΑ	Dimitra Kehagia	748401935189589	Facebook	d138	2019-05-18	EL	Greece	1	1	49999	10000	99	0
+VPA Research		369030033713837	Facebook	d138	2019-05-18	EL	Greece	7	1	45058	10011	137	0
+Nikos Papandreou	Nikos Papandreou	2245032148843299	Facebook	d138	2019-05-18	EL	Greece	4	1	41765	17633	220	30
 Έλληνες Ριζοσπάστες	Leonidas Chrysochoou	2076559345980059	Facebook	d138	2019-05-18	EL	Greece	2	1	41665	8333	82	0
-Giorgos Sklavos	Georgios Sklavos	1042099132649984	Facebook	d138	2019-05-18	EL	Greece	3	1	36618	8321	98	0
-Άννα Μισέλ Ασημακοπούλου	Άννα Μισέλ Ασημακοπούλου	1394997234118853	Facebook	d138	2019-05-18	EL	Greece	2	1	33312	6662	65	0
-Giorgos Amiras - Γιώργος Αμυράς	Giorgos Amiras - Γιώργος Αμυράς	1407652086114560	Facebook	d138	2019-05-18	EL	Greece	1	1	33299	16650	166	33
+Giorgos Patoulis	Georgios Patoulis	668804566601196	Facebook	d138	2019-05-18	EL	Greece	2	1	41665	8333	82	0
+Giorgos Amiras - Γιώργος Αμυράς	Giorgos Amiras - Γιώργος Αμυράς	1407652086114560	Facebook	d138	2019-05-18	EL	Greece	1	1	39958	19979	99	19
+Γιώργος Ρωμανιάς - Giorgos Romanias	Γεωργιος Ρωμανιας	323464321610249	Facebook	d138	2019-05-18	EL	Greece	8	1	36621	9061	118	0
+Δημιουργία Ξανά	Δημιουργία Ξανά	226397774096827	Facebook	d138	2019-05-18	EL	Greece	8	1	36552	15706	298	85
+Ανεξάρτητοι 'Ελληνες	Start Business Hellas	343233902394715	Facebook	d138	2019-05-18	EL	Greece	1	1	33333	16666	166	83
 Νίκη Τζαβέλα - Niki Tzavela Official	Φερονικη Τζαβελα	866035200090418	Facebook	d138	2019-05-18	EL	Greece	1	1	33283	16641	166	33
-Γιώργος Ξηραδάκης - Υποψήφιος Ευρωβουλευτής	George Xiradakis	300217683952795	Facebook	d138	2019-05-18	EL	Greece	3	1	30997	5999	247	0
-Ισμήνη Μώρου - Υποψήφια Ευρωβουλευτής	Μωρου Ισμηνη	650014548746122	Facebook	d138	2019-05-18	EL	Greece	2	1	29974	7492	98	0
-Νίκος Πέππας - Υποψήφιος Δημοτικός Σύμβουλος	Νίκος Πέππας	589295414486770	Facebook	d138	2019-05-18	EL	Greece	4	1	25163	4833	280	0
-Ιωακείμ Καλλιβρούσης - Υποψ. Δημ. Σύμβουλος Δήμου Αθηναίων	Ιωακείμ Καλλιβρούσης	157899748482447	Facebook	d138	2019-05-18	EL	Greece	1	1	24999	5000	49	0
-Voxpop Analysis	Ιωάννης Απόστολος Σκλίας	126822114784105	Facebook	d138	2019-05-18	EL	Greece	1	1	24999	5000	249	50
-Sofia Sakorafa	Sofia Sakorafa	211831995597479	Facebook	d138	2019-05-18	EL	Greece	1	1	24999	4999	49	0
-Dimitris Aslanidis	Dimitrios Aslanidis	617015765409839	Facebook	d138	2019-05-18	EL	Greece	1	1	24999	5000	49	0
-Κουρουμπλής Παναγιώτης/Kouroumplis Panagiotis	Panagiotis Kouroumplis	248244001876102	Facebook	d138	2019-05-18	EL	Greece	1	1	24990	4998	49	0
-Kleopatra Sidiropoulou Υποψήφια Ευρωεκλογών με το Ποτάμι	Kleopatra Sidiropoulou	272999270266817	Facebook	d138	2019-05-18	EL	Greece	1	1	24978	4995	49	0
-Γιάννης Δάλμας	Ioannis Dalmas	321260791914587	Facebook	d138	2019-05-18	EL	Greece	1	1	24974	4995	49	0
-Κατερίνα Κούτρη - Katerina Koutri	Aikaterini Koutri	314010635931171	Facebook	d138	2019-05-18	EL	Greece	1	1	24959	4991	49	0
-Βαρουξής Λευτέρης - Varouxis Lefteris	Digital Solutions	280496205994839	Facebook	d138	2019-05-18	EL	Greece	4	1	21998	4333	164	0
-Ζωή Κωνσταντοπούλου - Zoe Konstantopoulou	Πλεύση Ελευθερίας	1489639131352219	Facebook	d138	2019-05-18	EL	Greece	2	1	19979	4995	65	0
-Οικολογία Αλληλεγγύη	Γεώργιος Πανούχος	202906359747419	Facebook	d138	2019-05-18	EL	Greece	2	1	18332	3666	66	0
-Δημήτρης Παπαδημούλης	Dimitrios Papadimoulis	528797520505550	Facebook	d138	2019-05-18	EL	Greece	1	1	16666	3333	33	0
-Giorgos Patoulis	Georgios Patoulis	668804566601196	Facebook	d138	2019-05-18	EL	Greece	1	1	16666	3333	33	0
-Γιώργος Χατζημάρκος	Γιώργος Χατζημάρκος	2128150737398149	Facebook	d138	2019-05-18	EL	Greece	1	1	16666	3333	33	0
-Ανεξάρτητοι 'Ελληνες	Start Business Hellas	343233902394715	Facebook	d138	2019-05-18	EL	Greece	1	1	16666	3333	166	33
-Λυδία Ιωαννίδου Μουζάκα	mastologos	318223092210594	Facebook	d138	2019-05-18	EL	Greece	1	1	16657	3331	32	0
-Πατριωτική Ριζοσπαστική Ένωση	Ελευθεριος Συναδινος	2119221251680890	Facebook	d138	2019-05-18	EL	Greece	1	1	16641	3328	32	0
-European Commission	European Commission	107898832590939	Facebook	d138	2019-05-18	EL	Greece	2	1	13736	6868	34	6
-Γιώργος Ρωμανιάς - Giorgos Romanias	Γεωργιος Ρωμανιας	323464321610249	Facebook	d138	2019-05-18	EL	Greece	7	1	10664	3000	231	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	d138	2019-05-18	EL	Greece	1	1	6716	3358	16	3
-Δημήτριος Μελάς	Σ. Παυλιδης	322928891749288	Facebook	d138	2019-05-18	EL	Greece	8	1	6659	999	263	0
-Μανώλης Γλυνός	Emmanouil Glynos	968742453313048	Facebook	d138	2019-05-18	EL	Greece	5	1	6497	1000	247	0
-Γιάννης Κωνσταντινίδης - Υποψήφιος Ευρωβουλευτής - Το Ποτάμι	Ioannis Konstantinidis	1621971371282707	Facebook	d138	2019-05-18	EL	Greece	1	1	4999	2500	49	0
-Γιώργος Σταύρος Κρεμλής - Υποψήφιος Ευρωβουλευτής	Γιώργος Σταύρος Κρεμλής	548959368535123	Facebook	d138	2019-05-18	EL	Greece	1	1	4996	2498	49	0
-Νίκος Χουντής-Nikos Chountis	Konstantinos Siampanopoulos	462603193829493	Facebook	d138	2019-05-18	EL	Greece	1	1	4993	2496	49	0
-Έλενα Κουντουρά	Elena Kountoura	268593946525928	Facebook	d138	2019-05-18	EL	Greece	1	1	4993	2497	49	0
-Politico Lab	Politico Lab	1092676900776165	Facebook	d138	2019-05-18	EL	Greece	1	1	3333	1666	33	0
-Πέτρος Κόκκαλης - Petros Kokkalis	Πέτρος Κόκκαλης - Petros Kokkalis	234040963454964	Facebook	d138	2019-05-18	EL	Greece	2	1	3331	666	65	0
+Γιώργος Ξηραδάκης - Υποψήφιος Ευρωβουλευτής	George Xiradakis	300217683952795	Facebook	d138	2019-05-18	EL	Greece	3	1	30997	5999	447	50
+Πέτρος Κόκκαλης - Petros Kokkalis	Πέτρος Κόκκαλης - Petros Kokkalis	234040963454964	Facebook	d138	2019-05-18	EL	Greece	2	1	29152	5830	57	0
+Παύλος Ελευθεριάδης	Pavlos Eleftheriadis	768996799785550	Facebook	d138	2019-05-18	EL	Greece	4	1	28320	13160	190	24
+Γιώργος Χατζημάρκος	Γιώργος Χατζημάρκος	2128150737398149	Facebook	d138	2019-05-18	EL	Greece	2	1	27777	8888	88	11
+Dimitris Aslanidis	Dimitrios Aslanidis	617015765409839	Facebook	d138	2019-05-18	EL	Greece	2	1	27758	12212	21	0
+Apostolos Katsifaras / Απόστολος Κατσιφάρας	TEAMAPP	888149571263111	Facebook	d138	2019-05-18	EL	Greece	2	1	26666	5333	52	0
+Κουρουμπλής Παναγιώτης/Kouroumplis Panagiotis	Panagiotis Kouroumplis	248244001876102	Facebook	d138	2019-05-18	EL	Greece	1	1	24991	4998	49	0
+Άννα Μισέλ Ασημακοπούλου	Άννα Μισέλ Ασημακοπούλου	1394997234118853	Facebook	d138	2019-05-18	EL	Greece	2	1	21416	8566	28	0
+Sofia Sakorafa	Sofia Sakorafa	211831995597479	Facebook	d138	2019-05-18	EL	Greece	1	1	19999	9999	99	20
+thecaller.gr		1562561037325875	Facebook	d138	2019-05-18	EL	Greece	1	1	19999	10000	99	20
+Ισμήνη Μώρου - Υποψήφια Ευρωβουλευτής	Μωρου Ισμηνη	650014548746122	Facebook	d138	2019-05-18	EL	Greece	2	1	19980	3996	199	39
+Βασίλης Μάρκου υποψήφιος με τον Απ.Κατσιφάρα	Konstantinos Markou	470115806861343	Facebook	d138	2019-05-18	EL	Greece	1	1	19965	9983	99	19
+Βαρβάρα Αποστολοπούλου-Καλκαβούρα	Anastasia Kalkavoura	429854220918807	Facebook	d138	2019-05-18	EL	Greece	2	1	19632	3926	38	0
+Βαγγέλης Τσαμήτας - Υποψήφιος Δήμαρχος Αλίμου	Baggelis Tsamitas	794521677550806	Facebook	d138	2019-05-18	EL	Greece	2	1	18332	3666	66	0
+Πατριωτική Ριζοσπαστική Ένωση	Ελευθεριος Συναδινος	2119221251680890	Facebook	d138	2019-05-18	EL	Greece	2	1	18315	6658	26	0
+Οικολογία Αλληλεγγύη	Γεώργιος Πανούχος	202906359747419	Facebook	d138	2019-05-18	EL	Greece	2	1	17916	3583	57	0
+Θάνος Δούρος - Υποψήφιος Δημοτικός Σύμβουλος με το Σπιράλ	Αθανασιος Δουρος	244248349814901	Facebook	d138	2019-05-18	EL	Greece	4	1	17023	3404	61	0
+Ιωακείμ Καλλιβρούσης - Υποψ. Δημ. Σύμβουλος Δήμου Αθηναίων	Ιωακείμ Καλλιβρούσης	157899748482447	Facebook	d138	2019-05-18	EL	Greece	1	1	16666	3333	33	0
+Λυδία Ιωαννίδου Μουζάκα	mastologos	318223092210594	Facebook	d138	2019-05-18	EL	Greece	1	1	16656	3331	32	0
+Μανώλης Κεφαλογιάννης / Manolis Kefalogiannis	Μανώλης Κεφαλογιάννης / Manolis Kefalogiannis	51638783172	Facebook	d138	2019-05-18	EL	Greece	1	1	16651	3330	32	0
+Κατερίνα Κούτρη - Katerina Koutri	Aikaterini Koutri	314010635931171	Facebook	d138	2019-05-18	EL	Greece	1	1	16649	3329	32	0
+Γιάννης Δάλμας	Ioannis Dalmas	321260791914587	Facebook	d138	2019-05-18	EL	Greece	1	1	16649	3330	32	0
+Νίκος Χουντής-Nikos Chountis	Konstantinos Siampanopoulos	462603193829493	Facebook	d138	2019-05-18	EL	Greece	1	1	16645	3329	32	0
+Evaggelos Venizelos	Evaggelos Venizelos	80258823622	Facebook	d138	2019-05-18	EL	Greece	1	1	16645	3329	32	0
+Νίκος Πέππας - Υποψήφιος Δημοτικός Σύμβουλος	Νίκος Πέππας	589295414486770	Facebook	d138	2019-05-18	EL	Greece	4	1	15640	2928	318	14
+Δημήτρης Παπαδημούλης	Dimitrios Papadimoulis	528797520505550	Facebook	d138	2019-05-18	EL	Greece	2	1	13749	2750	49	0
+Γιάννης Κωνσταντινίδης - Υποψήφιος Ευρωβουλευτής - Το Ποτάμι	Ioannis Konstantinidis	1621971371282707	Facebook	d138	2019-05-18	EL	Greece	1	1	12499	2500	24	0
+Politico Lab	Politico Lab	1092676900776165	Facebook	d138	2019-05-18	EL	Greece	1	1	12499	2500	24	0
+Δημήτρης Γούπιος - Υποψήφιος Δημοτικός Σύμβουλος Παλαιού Φαλήρου	Georgios Kapellaris	606260353179128	Facebook	d138	2019-05-18	EL	Greece	1	1	12499	2499	24	0
+Giorgos Sklavos	Georgios Sklavos	1042099132649984	Facebook	d138	2019-05-18	EL	Greece	3	1	11651	2663	31	0
+Πανιός Αθανάσιος του Αλεξάνδρου	Πανιος Αθανασιος	752299831811883	Facebook	d138	2019-05-18	EL	Greece	1	1	11102	5551	10	0
+Kleopatra Sidiropoulou Υποψήφια Ευρωεκλογών με το Ποτάμι	Kleopatra Sidiropoulou	272999270266817	Facebook	d138	2019-05-18	EL	Greece	1	1	11102	5551	55	11
+Μιχάλης Αγγελόπουλος	Michalis Angelopoulos	253581075582399	Facebook	d138	2019-05-18	EL	Greece	2	1	11099	2220	21	0
+Δύναμη Πολιτών Ηρακλείου	Δύναμη Πολιτών Hρακλείου	738724249495865	Facebook	d138	2019-05-18	EL	Greece	2	1	10332	2000	52	0
+Αντώνης Καμπουράκης	Αντώνης Καμπουράκης	511556309330155	Facebook	d138	2019-05-18	EL	Greece	1	1	9999	2000	99	20
+Βασίλης Καπερνάρος		1454236241524042	Facebook	d138	2019-05-18	EL	Greece	1	1	9999	1999	99	20
+Ήπειρος ΟΛΟΝ		263421554328684	Facebook	d138	2019-05-18	EL	Greece	1	1	9999	2000	19	0
+Ελεύθερη Στερεά	Andreas Voulgaris	436882700404941	Facebook	d138	2019-05-18	EL	Greece	3	1	9577	1915	78	0
+Δημήτριος Μελάς	Σ. Παυλιδης	322928891749288	Facebook	d138	2019-05-18	EL	Greece	8	1	9251	2110	90	0
+Μάκης Παπαδόπουλος - Ο Τόπος Της Ζωής Μας	Μάκης Παπαδόπουλος	1433780063507247	Facebook	d138	2019-05-18	EL	Greece	1	1	8333	1666	16	0
+Βίκυ Φλέσσα -Vicky Flessa	Pulse and Opinion S.A.	344396292816360	Facebook	d138	2019-05-18	EL	Greece	1	1	8333	1666	16	0
+ΔΥΝΑΜΗ ΑΛΛΑΓΗΣ- ΚΩΣ	Zacharias Diakopanagiotis	133699433328732	Facebook	d138	2019-05-18	EL	Greece	1	1	8326	1665	16	0
+Νικόλαος Δούκας - Nikolaos Doukas	Ν Δούκας	710946112632910	Facebook	d138	2019-05-18	EL	Greece	1	1	8320	1664	16	0
+Θηραϊκή Πολιτεία	Νίκος Ζώρζος	2310881715810380	Facebook	d138	2019-05-18	EL	Greece	1	1	8288	1657	16	0
+Γκαμπαερίδης Κωνσταντίνος		427658114458564	Facebook	d138	2019-05-18	EL	Greece	2	1	7669	1962	26	0
+Adequate Consulting	Adequate	965450110143851	Facebook	d138	2019-05-18	EL	Greece	5	1	7498	2850	103	0
+Voxpop Analysis	Ιωάννης Απόστολος Σκλίας	126822114784105	Facebook	d138	2019-05-18	EL	Greece	1	1	7142	1428	71	14
+Κύμα Ενωμένων Πολιτών - Δημήτρης Δαβάκης	Dimitrios Davakis	1514283778797349	Facebook	d138	2019-05-18	EL	Greece	1	1	7142	1428	14	0
+Πολίτες για την Ξάνθη		135422906504817	Facebook	d138	2019-05-18	EL	Greece	1	1	7142	1428	14	0
+Γιώργος Σταύρος Κρεμλής - Υποψήφιος Ευρωβουλευτής	Γιώργος Σταύρος Κρεμλής - Υποψήφιος Ευρωβουλευτής	548959368535123	Facebook	d138	2019-05-18	EL	Greece	1	1	7138	1427	14	0
+European Commission	European Commission	107898832590939	Facebook	d138	2019-05-18	EL	Greece	2	1	6867	3433	17	3
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	d138	2019-05-18	EL	Greece	1	1	6719	3359	16	3
+Γιώργος Θωμάς	Γιώργος Θωμάς	546583482086942	Facebook	d138	2019-05-18	EL	Greece	1	1	6249	1250	12	0
+Δρόσος Α. Δημήτριος - Υποψήφιος Ευρωβουλευτής ΜέΡΑ25	Δημητριος Δροσος	255454748717785	Facebook	d138	2019-05-18	EL	Greece	1	1	6249	1250	12	0
+ΟΙ ΦΙΛΟΙ ΤΟΥ ΑΚΕΠ		469563956522669	Facebook	d138	2019-05-18	EL	Greece	1	1	6234	1246	12	0
+Lamprinos-Vlattas Efstratios - Stratos	Ευστρατιος Λαμπρινος Βλαττας	378201616112682	Facebook	d138	2019-05-18	EL	Greece	2	1	5666	1111	22	0
+ΑΔΕΚ - Ανεξάρτητη Δημοτική Ενωτική Κίνηση Πετρούπολης	Ανεξάρτητη Δημοτική Ενωτική Κίνηση Πετρούπολης	620951011676414	Facebook	d138	2019-05-18	EL	Greece	1	1	5555	1111	11	0
+Πύλης Όραμα		992489404472934	Facebook	d138	2019-05-18	EL	Greece	1	1	5555	1111	11	0
+Παναγιώτης Κισκήρας	Panagiotis Kiskiras	1990278354601655	Facebook	d138	2019-05-18	EL	Greece	1	1	5555	1111	11	0
+Βασίλης Βακάλης  Καλαμάτα Πόλη Ενωμένη		587502565075302	Facebook	d138	2019-05-18	EL	Greece	1	1	5555	1111	11	0
+BAMBOOmaki		2239774876084053	Facebook	d138	2019-05-18	EL	Greece	1	1	5550	1110	10	0
+Δήμητρα Κούτρα		683908661667699	Facebook	d138	2019-05-18	EL	Greece	1	1	5549	1109	10	0
+Νότης Μαριάς, Ανεξάρτητος Ευρωβουλευτής	Επαμεινωνδας Μαριας	337788662974718	Facebook	d138	2019-05-18	EL	Greece	1	1	5548	1109	10	0
+CLAYTON		122493385103	Facebook	d138	2019-05-18	EL	Greece	1	1	5269	1053	10	0
+ΝΕΟΔΗΜΟΚΡΑΤΗΣ		1488771898025180	Facebook	d138	2019-05-18	EL	Greece	1	1	4999	1000	99	0
+Σακελλαρίου Βασιλική / Βίκυ - Sakellariou Vasiliki / Vicky	Vasiliki Sakellariou	574037653104636	Facebook	d138	2019-05-18	EL	Greece	2	1	4444	2222	44	0
+Έλενα Κουντουρά	Elena Kountoura	268593946525928	Facebook	d138	2019-05-18	EL	Greece	2	1	3923	1961	38	0
+Θανάσης Λιακόπουλος - Όλοι μαζί μπορούμε καλύτερα	oloi-mazi	394013391085857	Facebook	d138	2019-05-18	EL	Greece	3	1	3665	733	72	0
+Δρ. Γρηγόρης Λέων, Ιατροδικαστής	Grigorios Leon	185241851651860	Facebook	d138	2019-05-18	EL	Greece	1	1	3333	1666	33	0
+Βασίλης Κωτσιόπουλος Υπ.Ευρωβουλευτής	Β. Κωτσιόπουλος	1524942397638885	Facebook	d138	2019-05-18	EL	Greece	1	1	3333	1666	33	0
+Ζήσης Κωστής Υποψήφιος Δημοτικός Σύμβουλος		660840381000145	Facebook	d138	2019-05-18	EL	Greece	1	1	3333	1666	33	0
 Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	d138	2019-05-18	EL	Greece	1	1	3182	636	6	0
-Lamprinos-Vlattas Efstratios - Stratos	Ευστρατιος Λαμπρινος Βλαττας	378201616112682	Facebook	d138	2019-05-18	EL	Greece	2	1	2999	500	99	0
-Θάνος Δούρος - Υποψήφιος Δημοτικός Σύμβουλος με το Σπιράλ	Αθανασιος Δουρος	244248349814901	Facebook	d138	2019-05-18	EL	Greece	4	1	2998	333	165	0
-Δρ. Γρηγόρης Λέων, Ιατροδικαστής	Grigorios Leon	185241851651860	Facebook	d138	2019-05-18	EL	Greece	1	1	2499	500	49	0
-Smart Concepts	Smart Concepts	283818458361591	Facebook	d138	2019-05-18	EL	Greece	1	1	2499	500	49	0
-Δημήτρης Γούπιος - Υποψήφιος Δημοτικός Σύμβουλος Παλαιού Φαλήρου	Georgios Kapellaris	606260353179128	Facebook	d138	2019-05-18	EL	Greece	1	1	2499	500	49	0
-Κύμα Ενωμένων Πολιτών - Δημήτρης Δαβάκης	Dimitrios Davakis	1514283778797349	Facebook	d138	2019-05-18	EL	Greece	1	1	2499	500	49	0
-Σακελλαρίου Βασιλική / Βίκυ - Sakellariou Vasiliki / Vicky	Vasiliki Sakellariou	574037653104636	Facebook	d138	2019-05-18	EL	Greece	1	1	2499	500	49	0
-Apostolos Katsifaras / Απόστολος Κατσιφάρας	TEAMAPP	888149571263111	Facebook	d138	2019-05-18	EL	Greece	1	1	2499	500	49	0
-Βαγγέλης Τσαμήτας - Υποψήφιος Δήμαρχος Αλίμου	Baggelis Tsamitas	794521677550806	Facebook	d138	2019-05-18	EL	Greece	1	1	2499	500	49	0
-Νότης Μαριάς, Ανεξάρτητος Ευρωβουλευτής	Επαμεινωνδας Μαριας	337788662974718	Facebook	d138	2019-05-18	EL	Greece	1	1	2498	499	49	0
-Μανώλης Κεφαλογιάννης / Manolis Kefalogiannis	Μανώλης Κεφαλογιάννης / Manolis Kefalogiannis	51638783172	Facebook	d138	2019-05-18	EL	Greece	1	1	2496	499	49	0
-Υποψήφιος Ευρωβουλευτής Νικόλας Καρακίτσος	Nikolaos Karakitsos	299812430697382	Facebook	d138	2019-05-18	EL	Greece	1	1	2496	499	49	0
-Βενετόπουλος Χριστόδουλος - Υπ. Ευρωβουλευτής ΝΕΟ	Χριστοδουλος Βενετοπουλος	289155901968557	Facebook	d138	2019-05-18	EL	Greece	1	1	2486	497	49	0
-Δέσποινα Καϊσίδου - Υποψήφια Σύμβουλος Περιφέρειας Αττικής με τη ΝΕΑ ΑΡΧΗ	Δέσποινα Καϊσίδου	2362047030473326	Facebook	d138	2019-05-18	EL	Greece	2	1	1999	333	66	0
-Βασίλης Κωτσιόπουλος Υπ.Ευρωβουλευτής	Β. Κωτσιόπουλος	1524942397638885	Facebook	d138	2019-05-18	EL	Greece	1	1	1666	333	33	0
-Αποστολος Σιατρας	Apostolos Siatras	2351826395054053	Facebook	d138	2019-05-18	EL	Greece	1	1	1666	333	33	0
-Erik Miltiadis Edman	Edman Erik Miltiadis	918665584992305	Facebook	d138	2019-05-18	EL	Greece	1	1	1666	333	33	0
-Δημήτρης Καψάλης - Υποψήφιος Δημοτικός Σύμβουλος	Dimitrios Kapsalis	576024002899277	Facebook	d138	2019-05-18	EL	Greece	1	1	1666	333	33	0
-Ματίνα Πρίγκου - Υποψήφια Δημοτική Σύμβουλος Βόλου	Stamatia Prigkou	438322063396527	Facebook	d138	2019-05-18	EL	Greece	1	1	1666	333	33	0
-Αλλάζουμε Νοοτροπία - Αλλάζουμε μαζί Αθανάσιος Κατσίμπελης	Athanasios Katsimpelis	275653935665	Facebook	d138	2019-05-18	EL	Greece	1	1	1666	333	33	0
-Μάκης Παπαδόπουλος - Ο Τόπος Της Ζωής Μας	Μάκης Παπαδόπουλος	1433780063507247	Facebook	d138	2019-05-18	EL	Greece	1	1	1666	333	33	0
-Eva Boura	Eva Boura	2168265216585688	Facebook	d138	2019-05-18	EL	Greece	1	1	1664	333	32	0
-Γεώργιος Χατζίκος - Θεσσαλονίκη Υπεύθυνα 2019	Γεωργιος Χατζικος	616607865453873	Facebook	d138	2019-05-18	EL	Greece	2	1	999	0	99	0
-ΣΥΜΠΟΛΙΤΕΙΑ	Dimitra Kehagia	748401935189589	Facebook	d138	2019-05-18	EL	Greece	1	1	999	0	99	0
-Αριστερή Πρωτοβουλία Γλυφάδας - με την αριστερά της ρήξης & της ανατροπής	Παναγιωτης Βασιλακης	271036136394392	Facebook	d138	2019-05-18	EL	Greece	2	1	832	0	82	0
-Δρόσος Α. Δημήτριος - Υποψήφιος Ευρωβουλευτής ΜέΡΑ25	Δημητριος Δροσος	255454748717785	Facebook	d138	2019-05-18	EL	Greece	1	1	499	0	49	0
-Βαγγέλης Βαβουλιώτης	Βαβουλιωτης Αθανασιος	386756061904875	Facebook	d138	2019-05-18	EL	Greece	1	1	499	0	49	0
-Νέα Ελληνική Ορμή	Evangelia Palaiokosta	314073952467513	Facebook	d138	2019-05-18	EL	Greece	1	1	499	0	49	0
-Κατερίνα Παπακώστα-Σιδηροπούλου	Evangelia Palaiokosta	565487000137386	Facebook	d138	2019-05-18	EL	Greece	1	1	499	0	49	0
-Εφημερίδα Πατρίς	Digital Solutions	480080462017104	Facebook	d138	2019-05-18	EL	Greece	1	1	499	0	49	0
-Μανώλης Βέμης	Εμμανουηλ Βεμης	395239811075145	Facebook	d138	2019-05-18	EL	Greece	1	1	499	0	49	0
-Konstantinos Konstantinidis	Konstantinos Konstantinidis	336520913810779	Facebook	d138	2019-05-18	EL	Greece	1	1	499	0	49	0
-Ελεύθερη Στερεά	Andreas Voulgaris	436882700404941	Facebook	d138	2019-05-18	EL	Greece	1	1	499	0	49	0
+Χαλκίδα Ζωντανή Πόλη	CPagonis	2049766581779230	Facebook	d138	2019-05-18	EL	Greece	3	1	2666	500	66	0
+Αλλάζουμε Νοοτροπία - Αλλάζουμε μαζί Αθανάσιος Κατσίμπελης	Athanasios Katsimpelis	275653935665	Facebook	d138	2019-05-18	EL	Greece	1	1	2499	1250	24	0
+Δέσποινα Καϊσίδου - Υποψήφια Σύμβουλος Περιφέρειας Αττικής με τη ΝΕΑ ΑΡΧΗ	Δέσποινα Καϊσίδου	2362047030473326	Facebook	d138	2019-05-18	EL	Greece	2	1	2499	999	33	0
+Smart Concepts	Smart Concepts	283818458361591	Facebook	d138	2019-05-18	EL	Greece	1	1	1999	1000	19	0
+Δημήτρης Καψάλης - Υποψήφιος Δημοτικός Σύμβουλος	Dimitrios Kapsalis	576024002899277	Facebook	d138	2019-05-18	EL	Greece	1	1	1999	1000	19	0
+Παναγιώτης Ε. Νίκας	Παναγιώτης Ε. Νίκας	627249040690694	Facebook	d138	2019-05-18	EL	Greece	1	1	1999	1000	19	0
+Μιχάλης Σπουρδαλάκης - Υποψήφιος Ευρωβουλευτής	Σπουρδαλακης Μιχαηλ	309373953080924	Facebook	d138	2019-05-18	EL	Greece	1	1	1999	999	19	0
+Κώστας Αρβανίτης		857142371300996	Facebook	d138	2019-05-18	EL	Greece	1	1	1998	999	19	0
+Δημήτρης Καπούνης - Πρόεδρος ΕΑΣ Νάξου - Υποψήφιος Ευρωβουλευτης ΚΙΝΑΛ	Georgios Sergis 	2130414487259313	Facebook	d138	2019-05-18	EL	Greece	2	1	1802	360	35	0
+Panos Reppas - Παναγιώτης Ρέππας	Panagiotis Reppas	381289095967251	Facebook	d138	2019-05-18	EL	Greece	1	1	1666	333	33	0
+Χρήστος Παγώνης	Χρήστος Παγώνης	1399423173671930	Facebook	d138	2019-05-18	EL	Greece	1	1	1666	333	33	0
+GR TIMES		247366149277249	Facebook	d138	2019-05-18	EL	Greece	1	1	1666	833	16	0
+Λευτέρης Αυγενάκης		134552316636	Facebook	d138	2019-05-18	EL	Greece	1	1	1666	833	16	0
+Υποψήφιος Ευρωβουλευτής Νικόλας Καρακίτσος	Nikolaos Karakitsos	299812430697382	Facebook	d138	2019-05-18	EL	Greece	1	1	1665	832	16	0
+RISE TV	RISE TV	695231853900857	Facebook	d138	2019-05-18	EL	Greece	1	1	1664	333	32	0
+Βενετόπουλος Χριστόδουλος - Υπ. Ευρωβουλευτής ΝΕΟ	Χριστοδουλος Βενετοπουλος	289155901968557	Facebook	d138	2019-05-18	EL	Greece	1	1	1660	332	32	0
+Γεώργιος Χατζίκος - Θεσσαλονίκη Υπεύθυνα 2019	Γεωργιος Χατζικος	616607865453873	Facebook	d138	2019-05-18	EL	Greece	2	1	1582	250	57	0
+Konstantinos Konstantinidis	Konstantinos Konstantinidis	336520913810779	Facebook	d138	2019-05-18	EL	Greece	1	1	1428	714	14	0
+Μπαρμπαρέσος Χρήστος		286376015586868	Facebook	d138	2019-05-18	EL	Greece	2	1	1269	253	25	0
+Παρασκευή Βανδώρου  - Τρίμπου " Μαρούσι  -  Καθαρή Γραμμή"		244985049710619	Facebook	d138	2019-05-18	EL	Greece	1	1	1249	625	12	0
+Νικόλαος Ταμουρίδης		393583201478905	Facebook	d138	2019-05-18	EL	Greece	1	1	1249	249	24	0
+Φωκίων Α. Ζαΐμης, Υποψ. Περιφερειακός Σύμβουλος		250946622457296	Facebook	d138	2019-05-18	EL	Greece	1	1	1249	250	24	0
+Αριστερή Πρωτοβουλία Γλυφάδας - με την αριστερά της ρήξης & της ανατροπής	Παναγιωτης Βασιλακης	271036136394392	Facebook	d138	2019-05-18	EL	Greece	2	1	1055	211	20	0
+Κατερίνα Παπακώστα-Σιδηροπούλου	Evangelia Palaiokosta	565487000137386	Facebook	d138	2019-05-18	EL	Greece	1	1	999	200	19	0
+Erik Miltiadis Edman	Edman Erik Miltiadis	918665584992305	Facebook	d138	2019-05-18	EL	Greece	1	1	999	500	9	0
+Ζωγράφου Ώρα για δουλειά	Vasilis Thodas	618521531881415	Facebook	d138	2019-05-18	EL	Greece	1	1	999	0	99	0
+Νέα Ελληνική Ορμή	Evangelia Palaiokosta	314073952467513	Facebook	d138	2019-05-18	EL	Greece	1	1	999	200	19	0
+Eva Boura	Eva Boura	2168265216585688	Facebook	d138	2019-05-18	EL	Greece	1	1	999	199	19	0
+Υστερόγραφα στην Πολιτική	Emmanouil Oikonomidis	149038949032951	Facebook	d138	2019-05-18	EL	Greece	1	1	999	200	19	0
+MSphotographers		722975314490365	Facebook	d138	2019-05-18	EL	Greece	2	1	999	199	19	0
+Αναστασία Καλογερά - Σιδέρη Υποψήφια Δημοτική Σύμβουλος με τη Νέα Πολιτεία		878874269121993	Facebook	d138	2019-05-18	EL	Greece	1	1	833	166	16	0
+Αντωνάκης Γρηγόρης - Αθήνα Ψηλά		278524413070866	Facebook	d138	2019-05-18	EL	Greece	1	1	833	166	16	0
+Γιάννης Πισιμίσης - Νέα Πνοή για τα Βριλήσσια	Νέα Πνοή - Γιάννης Πισιμίσης	2126601480936876	Facebook	d138	2019-05-18	EL	Greece	1	1	714	142	14	0
+Πειραιάς Πόλη Πρότυπο - Νίκος Βλαχάκος		1285926281554992	Facebook	d138	2019-05-18	EL	Greece	1	1	714	142	14	0
+Κώστας Σισμανίδης Πολιτευτής Β Πειραιά		373190366803208	Facebook	d138	2019-05-18	EL	Greece	1	1	623	124	12	0
+Νατάσσα Χρόνη		539347043239913	Facebook	d138	2019-05-18	EL	Greece	1	1	555	111	11	0
+Ματίνα Πρίγκου - Υποψήφια Δημοτική Σύμβουλος Βόλου	Stamatia Prigkou	438322063396527	Facebook	d138	2019-05-18	EL	Greece	1	1	555	111	11	0
+Γιώργος Κουνάνης - George Kounanis	Georgios Kounanis	562436030930723	Facebook	d138	2019-05-18	EL	Greece	1	1	499	99	9	0
 Γιώργος Πανούχος	Γεώργιος Πανούχος	1678187295660948	Facebook	d138	2019-05-18	EL	Greece	1	1	499	0	49	0
-Δημήτρης Καπούνης - Πρόεδρος ΕΑΣ Νάξου - Υποψήφιος Ευρωβουλευτης ΚΙΝΑΛ	Georgios Sergis 	2130414487259313	Facebook	d138	2019-05-18	EL	Greece	1	1	498	0	49	0
-Αναστάσης Περράκης - Το Ποτάμι	Anastasios Perrakis	758329734261780	Facebook	d138	2019-05-18	EL	Greece	1	1	333	0	33	0
-Αντωνία Τουρλίδα - Υποψήφια Περιφερειακή Σύμβουλος Αιτωλοακαρνανίας	Αντωνία Τουρλίδα	347049225927669	Facebook	d138	2019-05-18	EL	Greece	1	1	333	0	33	0
-Christoforos Boutsikakis - Χριστόφορος Μπουτσικάκης	Christoforos Emmanouil Boutsikakis	1960918037457211	Facebook	d138	2019-05-18	EL	Greece	1	1	333	0	33	0
-Παναγιώτης Καγκελάρης - Υποψήφιος Ευρωβουλευτής ΜέΡΑ25	Panayotis Cangelaris	387601332029624	Facebook	d138	2019-05-18	EL	Greece	1	1	332	0	32	0
+Παναγιώτης Καγκελάρης - Υποψήφιος Ευρωβουλευτής ΜέΡΑ25	Panayotis Cangelaris	387601332029624	Facebook	d138	2019-05-18	EL	Greece	1	1	499	100	9	0
+Βαγγέλης Βαβουλιώτης	Βαβουλιωτης Αθανασιος	386756061904875	Facebook	d138	2019-05-18	EL	Greece	1	1	499	0	49	0
+Αποστολος Σιατρας	Apostolos Siatras	2351826395054053	Facebook	d138	2019-05-18	EL	Greece	1	1	499	100	9	0
+UK-Cyprus Enterprise Council	UK-Cyprus Enterprise Council 	1837120569879342	Facebook	d138	2019-05-18	EL	Greece	1	1	318	63	7	0
+Σπύρος Ριζόπουλος	Spyridon Rizopoulos	2127727860849871	Facebook	d138	2019-05-18	EL	Greece	1	1	249	0	24	0
+Ελένη - Λενιώ Μυριβήλη, Υποψήφια Δημοτική Σύμβουλος Δ. Αθηναίων	Maria-Sofia Vletsa	575254329656553	Facebook	d138	2019-05-18	EL	Greece	1	1	249	0	24	0
+Αντωνία Τουρλίδα - Υποψήφια Περιφερειακή Σύμβουλος Αιτωλοακαρνανίας	Αντωνία Τουρλίδα	347049225927669	Facebook	d138	2019-05-18	EL	Greece	2	1	235	0	23	0
+T4Action		552141588147520	Facebook	d138	2019-05-18	EL	Greece	2	1	224	0	22	0
+Ευαγγελία Παναγιωτάκη  Υποψήφια Ευρωβουλευτής ΜέΡΑ25		379160176025653	Facebook	d138	2019-05-18	EL	Greece	2	1	221	0	21	0
+OXI στη υποβάθμιση των Θρησκευτικών και Αρχαίων Ελληνικών στα σχολεία		310874005749784	Facebook	d138	2019-05-18	EL	Greece	2	1	221	0	21	0
+Ιωάννα Καλαντζάκου		617152175026430	Facebook	d138	2019-05-18	EL	Greece	1	1	199	0	19	0
+Δημήτριος Βαλασίδης		1409794242627320	Facebook	d138	2019-05-18	EL	Greece	1	1	142	0	14	0
+Ελληνική Πολιτική Συνείδηση - Άρμα Συνεργασίας		317973578849812	Facebook	d138	2019-05-18	EL	Greece	1	1	124	0	12	0
+Μαυρίδου Αικατερίνη		1633294310106712	Facebook	d138	2019-05-18	EL	Greece	1	1	124	0	12	0
+Νίκος Δένδιας	Νίκος Δένδιας	305998399465211	Facebook	d138	2019-05-18	EL	Greece	1	1	111	0	11	0
+Εφημερίδα Πατρίς	Digital Solutions	480080462017104	Facebook	d138	2019-05-18	EL	Greece	1	1	111	0	11	0
+Οικολογική Συμμαχία για την Περιφέρεια Αττικής	Georgios Dimitriou	2218506874879379	Facebook	d138	2019-05-18	EL	Greece	1	1	111	0	11	0
+Βάκα  Γ. Βασιλική		442942306455380	Facebook	d138	2019-05-18	EL	Greece	1	1	111	0	11	0
+Βασίλης Ζαρκωτός - Οικονομολόγος, υποψ. δημοτικός σύμβουλος Βριλησσίων		2451229315147038	Facebook	d138	2019-05-18	EL	Greece	1	1	111	0	11	0
+Κώστας Χαρίτος - Υποψήφιος Δήμαρχος Αλίμου		2213991275305885	Facebook	d138	2019-05-18	EL	Greece	1	1	111	0	11	0
+Μανώλης Βέμης	Εμμανουηλ Βεμης	395239811075145	Facebook	d138	2019-05-18	EL	Greece	1	1	110	0	11	0
+Zero Waste Greece		344961513035311	Facebook	d138	2019-05-18	EL	Greece	1	1	110	0	10	0
+Αναστάσης Περράκης - Το Ποτάμι	Anastasios Perrakis	758329734261780	Facebook	d138	2019-05-18	EL	Greece	1	1	99	0	9	0
+Christoforos Boutsikakis - Χριστόφορος Μπουτσικάκης	Christoforos Emmanouil Boutsikakis	1960918037457211	Facebook	d138	2019-05-18	EL	Greece	1	1	99	0	9	0
+Μιχάλης Χριστοδουλίδης		1886895638284350	Facebook	d138	2019-05-18	EL	Greece	1	1	99	0	9	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	d138	2019-05-18	EL	Greece	1	1	74	0	7	0

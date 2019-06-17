@@ -1,57 +1,216 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	age_code_filter	age_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-European Parliament	European Parliament	178362315106	Facebook	35_44	35-44	IE	Ireland	2	1	182188	79436	396	149
-Mark Durkan	Fine Gael	2002340613394109	Facebook	35_44	35-44	IE	Ireland	2	1	48827	24413	354	137
-Leo Varadkar T.D.	Fine Gael	178974912140818	Facebook	35_44	35-44	IE	Ireland	2	1	39646	15728	156	25
-Social Democrats	Social Democrats	1012851375393300	Facebook	35_44	35-44	IE	Ireland	16	1	35831	8223	193	0
-Deirdre Clune MEP	Deirdre Clune MEP	516116248507364	Facebook	35_44	35-44	IE	Ireland	6	1	33613	7715	353	56
-Michael  O'Dowd for Europe	O'Dowd Michael Joseph	878147035569806	Facebook	35_44	35-44	IE	Ireland	2	1	14961	2938	55	0
-Matt Carthy	Carthy Matt	580216935345125	Facebook	35_44	35-44	IE	Ireland	2	1	13277	3280	42	0
-Malcolm Byrne	Malcolm Byrne Page	34812247970	Facebook	35_44	35-44	IE	Ireland	4	1	11152	2983	81	0
-Cllr. Éilis Ryan for Europe	The Workers' Party of Ireland	787376334669425	Facebook	35_44	35-44	IE	Ireland	1	1	9966	1993	99	19
-Green Party Ireland	Green Party Ireland	108339693065	Facebook	35_44	35-44	IE	Ireland	1	1	9724	1944	19	0
-Sean Kelly MEP	Sean Kelly MEP	340786422717552	Facebook	35_44	35-44	IE	Ireland	7	1	9164	1580	281	0
-Paddy Monahan Soc Dems	Social Democrats	243736776300023	Facebook	35_44	35-44	IE	Ireland	1	1	8529	1705	16	0
-Jen Cummins Social Democrats	Social Democrats	359027571515876	Facebook	35_44	35-44	IE	Ireland	1	1	7665	1533	15	0
-Sinn Féin Ireland	Sinn Féin	148726998530273	Facebook	35_44	35-44	IE	Ireland	1	1	7530	1506	14	0
-Dr. Fidelma Healy Eames Independent Candidate, EU elections	Healy Eames Fidelma	395965057626422	Facebook	35_44	35-44	IE	Ireland	9	1	7393	1887	169	0
-Denise McMorrow for Dublin 2019	Mc Morrow Denise	438930423601172	Facebook	35_44	35-44	IE	Ireland	4	1	3381	633	84	0
-Dominic Hannigan	Dominic Hannigan	210059959032336	Facebook	35_44	35-44	IE	Ireland	2	1	3152	1285	40	0
-Blaine Gaffney	Blaine O' Gamhna	371962112988652	Facebook	35_44	35-44	IE	Ireland	2	1	2802	1332	30	0
-Cllr.June Murphy Social Democrat candidate	Social Democrats	196651674600841	Facebook	35_44	35-44	IE	Ireland	1	1	2541	1271	25	0
-Alex White	Mc Kinney Eunan Anthony	58389344622	Facebook	35_44	35-44	IE	Ireland	1	1	1930	965	19	0
+European Parliament	European Parliament	178362315106	Facebook	35_44	35-44	IE	Ireland	14	1	727374	315994	2458	706
+European Greens	European Greens	141366725876424	Facebook	35_44	35-44	IE	Ireland	6	1	409440	200127	4639	1015
+Maria Walsh	Fine Gael	883806764992893	Facebook	35_44	35-44	IE	Ireland	10	1	400960	179981	2856	969
+Fine Gael	Fine Gael	264172043210	Facebook	35_44	35-44	IE	Ireland	6	1	353121	150629	3063	819
+Matt Carthy	Carthy Matt	580216935345125	Facebook	35_44	35-44	IE	Ireland	5	1	336898	164823	1525	300
+Fianna Fáil	Fianna Fáil	222629035132	Facebook	35_44	35-44	IE	Ireland	22	1	325226	140246	1196	185
+Malcolm Byrne	Malcolm Byrne Page	34812247970	Facebook	35_44	35-44	IE	Ireland	27	1	311606	70960	2477	436
+Mark Durkan	Fine Gael	2002340613394109	Facebook	35_44	35-44	IE	Ireland	12	1	287463	135720	2410	1033
+Deirdre Clune MEP	Deirdre Clune MEP	516116248507364	Facebook	35_44	35-44	IE	Ireland	26	1	275339	92086	2098	476
+Gary Gannon 4 Europe	The Gary Gannon 4 Europe Campaign	691388720903801	Facebook	35_44	35-44	IE	Ireland	7	1	244046	104721	466	87
+Labour Party	Labour Party	164027949687	Facebook	35_44	35-44	IE	Ireland	9	1	241654	120828	875	171
+Luke 'Ming' Flanagan MEP	Luke 'Ming' Flanagan MEP	182354901841834	Facebook	35_44	35-44	IE	Ireland	4	1	231663	99244	2758	603
+Referendum Commission	Referendum Commission	580832208630212	Facebook	35_44	35-44	IE	Ireland	9	1	207791	80737	1445	280
+Leo Varadkar T.D.	Fine Gael	178974912140818	Facebook	35_44	35-44	IE	Ireland	10	1	206550	77382	1461	433
+Frances Fitzgerald	Fine Gael	302584593224671	Facebook	35_44	35-44	IE	Ireland	2	1	202587	81035	2025	405
+Saoirse McHugh for MEP	Green Party Ireland	2242183922693730	Facebook	35_44	35-44	IE	Ireland	9	1	153972	51227	1310	330
+Sinn Féin Ireland	Sinn Féin	148726998530273	Facebook	35_44	35-44	IE	Ireland	9	1	137300	49583	689	122
+Sean Kelly MEP	Sean Kelly MEP	340786422717552	Facebook	35_44	35-44	IE	Ireland	26	1	116471	35522	1159	57
+Dr. Fidelma Healy Eames Independent Candidate, EU elections	Healy Eames Fidelma	395965057626422	Facebook	35_44	35-44	IE	Ireland	26	1	110978	28878	1070	109
+Dominic Hannigan	Dominic Hannigan	210059959032336	Facebook	35_44	35-44	IE	Ireland	5	1	104094	41196	700	205
+Sheila Nunan for Europe	The Labour Party	786865738356162	Facebook	35_44	35-44	IE	Ireland	1	1	87995	35198	879	175
+Social Democrats	Social Democrats	1012851375393300	Facebook	35_44	35-44	IE	Ireland	37	1	86013	21980	494	0
+Andrew Doyle	Andrew Doyle	200875073325354	Facebook	35_44	35-44	IE	Ireland	10	1	82124	24838	695	132
+Michael  O'Dowd for Europe	O'Dowd Michael Joseph	878147035569806	Facebook	35_44	35-44	IE	Ireland	7	1	62596	18793	441	71
+Amnesty International-Ireland	Amnesty International-Ireland	158961023733	Facebook	35_44	35-44	IE	Ireland	4	1	61588	29714	215	28
+Clare Claffey Social Democrats	Social Democrats Laois Offaly	289004898593218	Facebook	35_44	35-44	IE	Ireland	8	1	55553	11976	199	0
+Cllr. Éilis Ryan for Europe	The Workers' Party of Ireland	787376334669425	Facebook	35_44	35-44	IE	Ireland	6	1	52499	10476	534	104
+Mick Wallace	Oonan Christopher Patrick	346069865514537	Facebook	35_44	35-44	IE	Ireland	1	1	50905	25452	254	127
+Luke Crowley-Holland	CROWLEY-HOLLAND LUKE	404745130303486	Facebook	35_44	35-44	IE	Ireland	7	1	49902	12213	430	68
+Brendan Smith TD	Brendan Smith 	287458667963046	Facebook	35_44	35-44	IE	Ireland	2	1	46664	23332	164	32
+Green Party Ireland	Green Party Ireland	108339693065	Facebook	35_44	35-44	IE	Ireland	5	1	46520	11629	150	16
+Adrienne Wallace - People Before Profit	Wallace Adrienne Catherine	1555518121383424	Facebook	35_44	35-44	IE	Ireland	14	1	41854	9646	358	0
+Fiona Nolan Fianna Fáil	Sweeney Simon Martin	2220109951652114	Facebook	35_44	35-44	IE	Ireland	4	1	41783	9075	101	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	35_44	35-44	IE	Ireland	20	1	41318	11079	321	19
+Barry Andrews for Europe	Barry Andrews	188114061407	Facebook	35_44	35-44	IE	Ireland	26	1	41201	13627	545	18
+Pro Life Campaign Ireland	Pro Life Campaign Ireland	224615650378	Facebook	35_44	35-44	IE	Ireland	4	1	40482	12529	404	125
+Peter Casey	Casey Peter Joseph	1473814189502078	Facebook	35_44	35-44	IE	Ireland	30	1	39680	7935	826	41
+Alex White	Mc Kinney Eunan Anthony	58389344622	Facebook	35_44	35-44	IE	Ireland	2	1	37273	15311	241	48
+Aontú	Toibin Peadar Pol	1052704411520149	Facebook	35_44	35-44	IE	Ireland	2	1	31322	13120	245	114
+Josiah Burke	Burke Josiah Emmanuelle	162814401227663	Facebook	35_44	35-44	IE	Ireland	3	1	30166	6033	309	58
+Protect Life		541250599362726	Facebook	35_44	35-44	IE	Ireland	12	1	27944	13973	276	0
+Department of Politics and Public Administration UL		190855980950496	Facebook	35_44	35-44	IE	Ireland	3	1	27144	5429	53	0
+Alice Mary Higgins for Europe	Alice Mary Higgins	1055105841226515	Facebook	35_44	35-44	IE	Ireland	5	1	26831	5356	77	0
+Mark Carey - City West - Time for Change	Steamboat	433481587460366	Facebook	35_44	35-44	IE	Ireland	7	1	26122	5781	247	31
+Horseworldeu		106222951129	Facebook	35_44	35-44	IE	Ireland	2	1	24575	4915	48	0
+Women for Election	Women for Election	115885998520125	Facebook	35_44	35-44	IE	Ireland	1	1	23644	11822	118	59
+Cllr. Kate Feeney	Feeney Kate	474266742640101	Facebook	35_44	35-44	IE	Ireland	4	1	22498	4795	236	40
+John McGahon	John Mcgahon	1408702926037982	Facebook	35_44	35-44	IE	Ireland	2	1	22369	4473	134	22
+Denise McMorrow for Dublin 2019	Mc Morrow Denise	438930423601172	Facebook	35_44	35-44	IE	Ireland	13	1	22141	5610	248	0
+Fine Gael Limerick City	Breen Colm Timothy	137766716313436	Facebook	35_44	35-44	IE	Ireland	5	1	21439	5568	98	0
+Anne Rabbitte TD	Rabbitte Anne Marie	1426461550915658	Facebook	35_44	35-44	IE	Ireland	3	1	21161	4232	58	0
+TENI - Transgender Equality Network Ireland	TENI - Transgender Equality Network Ireland	182348645122723	Facebook	35_44	35-44	IE	Ireland	36	1	20773	3438	804	0
+Paul Mulville	Paul Mulville	170053833201393	Facebook	35_44	35-44	IE	Ireland	4	1	19693	5407	98	0
+Claire Byrne Green Party	Byrne Claire Anne	507864742652844	Facebook	35_44	35-44	IE	Ireland	1	1	19390	9695	96	19
+Clare Daly	Clare Daly	304407706241836	Facebook	35_44	35-44	IE	Ireland	5	1	18626	5569	103	0
+Fionn Kiely - Local Election Candidate - Gort Kinvara	Kiely Fionn Kevin	357397571772969	Facebook	35_44	35-44	IE	Ireland	4	1	18088	4266	96	0
+Rita Harrold - Socialist Feminist for Europe	Socialist Party	419121618646568	Facebook	35_44	35-44	IE	Ireland	2	1	17457	3491	178	33
+Malachy Hand - FF Local Election Candidate for South Roscommon	Hand Malachy	949185501928800	Facebook	35_44	35-44	IE	Ireland	6	1	17421	4560	97	0
+Joe O Riordan Independent Election Candidate Waterford County Council 2019	O'RIORDAN NICHOLAS ANTHONY	436709017145632	Facebook	35_44	35-44	IE	Ireland	4	1	17116	3423	211	26
+Cllr.June Murphy Social Democrat candidate	Social Democrats	196651674600841	Facebook	35_44	35-44	IE	Ireland	4	1	16405	3224	112	0
+Cllr Sharon Tolan East Meath	Tolan Sharon Mary	562597020485832	Facebook	35_44	35-44	IE	Ireland	2	1	15383	3836	50	0
+Gillian Brien - People Before Profit		433347757082574	Facebook	35_44	35-44	IE	Ireland	1	1	14634	2927	28	0
+Alan Tobin	Alan Tobin	651567734900881	Facebook	35_44	35-44	IE	Ireland	2	1	14020	2752	163	27
+European Commission	European Commission	107898832590939	Facebook	35_44	35-44	IE	Ireland	15	1	13835	6167	22	6
+Jess Spear - Solidarity Firhouse-Bohernabreena	Spear Jessica Whitaker	537422773330865	Facebook	35_44	35-44	IE	Ireland	6	1	13788	3014	140	0
+Catherine Stocker SocDems	Stocker Matthew	173573370153556	Facebook	35_44	35-44	IE	Ireland	5	1	13631	2679	106	0
+Cllr Liam Doherty	Doherty Liam	396453641142781	Facebook	35_44	35-44	IE	Ireland	2	1	13552	2710	146	24
+Breandán Anraoi MacGabhann	Breandán Anraoi MacGabhann (Green Party)	1682603511977567	Facebook	35_44	35-44	IE	Ireland	3	1	13341	3159	138	22
+Sharon Nolan	Nolan Sharon Kathryn	399903233737537	Facebook	35_44	35-44	IE	Ireland	5	1	13153	3736	101	0
+Paddy Monahan Soc Dems	Social Democrats	243736776300023	Facebook	35_44	35-44	IE	Ireland	4	1	12956	2591	93	0
+Cyril Brennan - People Before Profit	People Before Profit - Midlands North West	164750800796944	Facebook	35_44	35-44	IE	Ireland	3	1	12741	3285	65	0
+Sam O'Connor - Balbriggan & Skerries	O'Connor Samuel Simon	1002067016657679	Facebook	35_44	35-44	IE	Ireland	5	1	12720	5490	154	0
+Blaine Gaffney	Blaine O' Gamhna	371962112988652	Facebook	35_44	35-44	IE	Ireland	2	1	12290	2458	28	0
+Ronan Moore for Meath West	Social Democrats	1181205802001387	Facebook	35_44	35-44	IE	Ireland	1	1	11874	2374	23	0
+Tracey Carey	Social Democrats	1055918397899334	Facebook	35_44	35-44	IE	Ireland	3	1	11649	2330	143	17
+Labour Galway-West	Ó BAOILL ANDREW	1861905404090691	Facebook	35_44	35-44	IE	Ireland	2	1	11603	2999	40	0
+Cllr Ossian Smyth	Smyth Ossian Francis	1269409019742709	Facebook	35_44	35-44	IE	Ireland	1	1	11551	2310	115	23
+Declan Meenagh For Cabra	Meenagh Declan	478532875550827	Facebook	35_44	35-44	IE	Ireland	2	1	11454	2291	120	21
+James Geoghegan		247890776103489	Facebook	35_44	35-44	IE	Ireland	1	1	11308	2261	112	22
+Paddy Meade for Meath County Council	Meade Patrick Eugene	248607801969670	Facebook	35_44	35-44	IE	Ireland	2	1	11136	2227	37	0
+Jen Cummins Social Democrats	Social Democrats	359027571515876	Facebook	35_44	35-44	IE	Ireland	2	1	11004	3036	43	0
+Charlie McConalogue	Charlie McConalogue	648207378618124	Facebook	35_44	35-44	IE	Ireland	1	1	10724	2144	107	21
+Cormac MacGowan	Mac Gowan Cormac	2224427621206563	Facebook	35_44	35-44	IE	Ireland	9	1	10528	2106	208	0
+John Crowley	Crowley John Michael	251294138890201	Facebook	35_44	35-44	IE	Ireland	1	1	9912	1982	19	0
+Holly McKeever Cairns - Social Democrat		263238917631520	Facebook	35_44	35-44	IE	Ireland	8	1	9830	2687	170	0
+Independent Ireland	Ryan Purcell Walter	758725787550554	Facebook	35_44	35-44	IE	Ireland	5	1	9723	1888	143	14
+Life Institute		158325247540273	Facebook	35_44	35-44	IE	Ireland	1	1	9596	1919	95	19
+Liam Minehan	Minehan Liam	657837987964520	Facebook	35_44	35-44	IE	Ireland	1	1	9254	1850	18	0
+Paul Nolan - Social Democrats Meath East	King John	1838758749501583	Facebook	35_44	35-44	IE	Ireland	5	1	9178	1835	143	7
+Mairéad Farrell - Sinn Féin	Farrell Mairead	213927028776676	Facebook	35_44	35-44	IE	Ireland	5	1	7469	2068	128	0
+Carly Bailey	Social Democrats	1761504887466495	Facebook	35_44	35-44	IE	Ireland	7	1	7434	2949	129	0
+Dublin  Bay South Greens	Dublin Bay South Green Party	474701085946722	Facebook	35_44	35-44	IE	Ireland	1	1	7378	1475	14	0
+Ciarán Cuffe	Cuffe Ciaran	2164072693907329	Facebook	35_44	35-44	IE	Ireland	1	1	7299	1459	14	0
+Barry O'Donovan - Green Party Candidate for East Clare	O'DONOVAN BARRY	297214490910379	Facebook	35_44	35-44	IE	Ireland	8	1	7240	1369	174	0
+Transmitter		264627431202	Facebook	35_44	35-44	IE	Ireland	1	1	7199	1439	14	0
+Samantha Long - Independent - Dublin City Council Local Elections 2019	Long Samantha	2274952412827323	Facebook	35_44	35-44	IE	Ireland	1	1	6819	1363	13	0
+Dan Mc Sweeney	Mcsweeney Daniel Joseph	608669872833125	Facebook	35_44	35-44	IE	Ireland	1	1	6712	1342	13	0
+Sarah Durcan for Dublin Bay South	Sarah Durcan SocDem for South East Inner City	1809875605701733	Facebook	35_44	35-44	IE	Ireland	1	1	6440	1288	12	0
+Kevin Donoghue	Donoghue Kevin David	1923733181256832	Facebook	35_44	35-44	IE	Ireland	5	1	6032	2144	88	0
+Kate O'Connell TD	O'Connell Kate	203442726495682	Facebook	35_44	35-44	IE	Ireland	5	1	5889	2085	86	0
+Louis O'Hara - Sinn Féin	O'HARA LOUIS JOSEPH	290382001169403	Facebook	35_44	35-44	IE	Ireland	2	1	5491	1055	31	0
+Ken Campbell	Social Democrats	382362945472645	Facebook	35_44	35-44	IE	Ireland	4	1	5130	1026	101	0
+Aidan Farrelly Social Democrats	Farrelly Aidan	1907649435989003	Facebook	35_44	35-44	IE	Ireland	3	1	5005	1001	99	0
+Michael Clark	Clark Michael Douglas	376225562978212	Facebook	35_44	35-44	IE	Ireland	8	1	4910	906	127	0
+Patricia O' Dwyer	Selormey Kodzo Effui	1790264301045335	Facebook	35_44	35-44	IE	Ireland	7	1	4661	849	125	0
+Tara Deacy	Tara Deacy	1224420741003309	Facebook	35_44	35-44	IE	Ireland	3	1	4634	927	91	0
+Sinéad Halpin	Social Democrats	264861490621865	Facebook	35_44	35-44	IE	Ireland	3	1	4631	1781	77	0
+Máirín McGrath for Tipperary County Council - Cahir LEA	MC GRATH MÁIRÍN	2129030367395061	Facebook	35_44	35-44	IE	Ireland	5	1	4412	1916	66	0
+Uplift - People Powered Change	Uplift - People Powered Change	214697488711000	Facebook	35_44	35-44	IE	Ireland	4	1	4308	861	85	0
+Patrick Barry PJ		2443361185698404	Facebook	35_44	35-44	IE	Ireland	4	1	4217	790	104	0
+Orla Kelly	Orla Kelly	284729489119670	Facebook	35_44	35-44	IE	Ireland	3	1	4188	1542	59	0
+Eddie Hoare	Hoare Edward Anthony	1249654855184179	Facebook	35_44	35-44	IE	Ireland	7	1	4166	750	115	0
+Maria Doherty Sinn Féin	Doherty Aine	316154535751769	Facebook	35_44	35-44	IE	Ireland	2	1	4158	1613	56	0
+Sarah Jane Hennelly - Social Democrat for Limerick City	Social Democrats	522564771109094	Facebook	35_44	35-44	IE	Ireland	2	1	4087	1619	54	0
+Cllr Gerry O'Connor Peace Commissioner	O'CONNOR GERARD PATRICK	689114891286642	Facebook	35_44	35-44	IE	Ireland	5	1	4023	1344	199	22
+Sinéad Gibney	Sinead Gibney	1655751191219071	Facebook	35_44	35-44	IE	Ireland	4	1	3974	1465	69	0
+Donna Sheridan - Local Election Candidate, Castlebar Area	Donna Sheridan	172032100346513	Facebook	35_44	35-44	IE	Ireland	2	1	3941	1465	55	0
+Brendan Wyse	Brendan Wyse	264271610907208	Facebook	35_44	35-44	IE	Ireland	2	1	3821	1911	37	0
+Trish Roe	Social Democrats	428834224524943	Facebook	35_44	35-44	IE	Ireland	4	1	3652	1332	86	0
+Chris Pender - Social Democrats For Newbridge/Kilcullen	Chris Pender	2489200491152461	Facebook	35_44	35-44	IE	Ireland	2	1	3644	1497	46	0
+Chris MacManus for Sligo	Chris MacManus for Sligo	1486666311655495	Facebook	35_44	35-44	IE	Ireland	2	1	3555	1396	47	0
+SMA Ireland	Anton Mannering	2221165624784064	Facebook	35_44	35-44	IE	Ireland	3	1	3429	1193	72	0
+50 Shades Greener	Noboa Raquel	359637214423112	Facebook	35_44	35-44	IE	Ireland	1	1	3422	1711	33	0
+Sile Ni Dhubhghaill Macroom Social Democrats	Ní Dhubhghaill Síle	1379345932119384	Facebook	35_44	35-44	IE	Ireland	3	1	3256	616	78	0
+Aengus Ó Maoláin	Aengus Ó Maoláin	449230735412762	Facebook	35_44	35-44	IE	Ireland	2	1	3189	1285	41	0
+Sean McCabe - Independent	Seán McCabe 	2206956372697972	Facebook	35_44	35-44	IE	Ireland	2	1	3150	1251	41	0
+Julie O'Leary	O'Leary Julie	1395595887405642	Facebook	35_44	35-44	IE	Ireland	2	1	3050	1291	37	0
+Eric Nolan for Cork East	Nolan Eric	617724274962768	Facebook	35_44	35-44	IE	Ireland	1	1	2967	1484	29	0
+Shakeel Jeeroburkan - Independent	Shakeel Jeeroburkan	1414105668892101	Facebook	35_44	35-44	IE	Ireland	3	1	2959	1206	52	0
+Dave McGinn Social Democrats for West Wicklow	Mc Ginn David Philip	306572496836936	Facebook	35_44	35-44	IE	Ireland	3	1	2881	515	81	0
+Barbara Smyth	People Before Profit - Longford Branch	1591541744396314	Facebook	35_44	35-44	IE	Ireland	2	1	2831	1294	49	0
+Luke Carroll for City Council	Carroll Luke Jeremiah	370159947166480	Facebook	35_44	35-44	IE	Ireland	2	1	2794	1190	34	0
+Liam Boyle Labour	Ó BAOILL ANDREW	555153594978666	Facebook	35_44	35-44	IE	Ireland	2	1	2760	1107	36	0
+Pat Hoey Election 2019	Hoey Patrick	1220168271491125	Facebook	35_44	35-44	IE	Ireland	1	1	2636	1318	26	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	35_44	35-44	IE	Ireland	22	1	2608	861	10	1
+Bill Clear Social Democrat Candidate.	Social Democrats	326703511492175	Facebook	35_44	35-44	IE	Ireland	1	1	2579	1289	25	0
+Taxback.com		135579275180	Facebook	35_44	35-44	IE	Ireland	2	1	2576	1025	34	0
+Mary Callaghan - Social Democrats	Social Democrats	289700685198786	Facebook	35_44	35-44	IE	Ireland	1	1	2530	1265	25	0
+Ian Carey - Green Party Swords	Carey Ian Cormac	803717456660395	Facebook	35_44	35-44	IE	Ireland	1	1	2500	1250	24	0
+Stephen Marken Social Democrats Celbridge	Social Democrats	1297112370427296	Facebook	35_44	35-44	IE	Ireland	2	1	2459	492	48	0
+Mags Crean for Greystones Municipal Council	Crean Margaret	229594167845748	Facebook	35_44	35-44	IE	Ireland	1	1	2440	1220	24	0
+Buncrana & South Inishowen Sinn Féin	Ni Bhroin Sinead	620153045086951	Facebook	35_44	35-44	IE	Ireland	2	1	2395	479	47	0
+Cllr Gary Doherty		1375061642743318	Facebook	35_44	35-44	IE	Ireland	1	1	2383	1192	23	0
+Betty Walsh     Social Democrat for Shannon Banks,  Westbury, Carraig Midhe	Walsh Elizabeth Ann	551740651938547	Facebook	35_44	35-44	IE	Ireland	1	1	2268	1134	22	0
+Joe Loughnane - People Before Profit Galway City Central	Loughnane Joseph	1881598998726029	Facebook	35_44	35-44	IE	Ireland	2	1	2200	440	43	0
+Seán Hartigan Green Party Candidate for Limerick City East	Hartigan Sean	559719824510385	Facebook	35_44	35-44	IE	Ireland	2	1	2101	420	41	0
+Aontú Galway		994860974048152	Facebook	35_44	35-44	IE	Ireland	1	1	2066	1033	20	0
+Owen Hanley	Owen Hanley	234006030801926	Facebook	35_44	35-44	IE	Ireland	2	1	2059	786	28	0
+Labour Dublin North-West	Diamond John	163109954176723	Facebook	35_44	35-44	IE	Ireland	2	1	1970	839	45	0
+Theresa Lowe The Other Side	Frank Mcnamara	2191621574230825	Facebook	35_44	35-44	IE	Ireland	3	1	1968	393	38	0
+West Cork People Before Profit Alliance	O'Sullivan Vanessa	174190439384938	Facebook	35_44	35-44	IE	Ireland	1	1	1954	977	19	0
+Marc Ó Cathasaigh	O Cathasaigh Marc	211195179774577	Facebook	35_44	35-44	IE	Ireland	1	1	1939	969	19	0
+Separated.ie		412961078826996	Facebook	35_44	35-44	IE	Ireland	2	1	1861	372	36	0
+Irish Single Parents Fight Back		230260297044082	Facebook	35_44	35-44	IE	Ireland	1	1	1795	359	35	0
+David Morrison - Green Party Lucan Palmerstown Fonthill	Morisson David Laurence	432262150858003	Facebook	35_44	35-44	IE	Ireland	3	1	1757	223	85	0
+Niamh McDonald - Donaghmede LEA	Mc Donald Niamh Elizabeth	132883007630767	Facebook	35_44	35-44	IE	Ireland	2	1	1749	349	34	0
+Repeal Kills		946083762213732	Facebook	35_44	35-44	IE	Ireland	1	1	1667	333	33	0
+Niall McNelis Mayor of Galway City		370136253367940	Facebook	35_44	35-44	IE	Ireland	1	1	1637	327	32	0
 Daniel Whooley - Ongar	Ben O'Leary Fitzpatrick 	566106640523884	Facebook	35_44	35-44	IE	Ireland	1	1	1604	321	31	0
-Gary Gannon 4 Europe	The Gary Gannon 4 Europe Campaign	691388720903801	Facebook	35_44	35-44	IE	Ireland	2	1	1392	278	27	0
-European Commission	European Commission	107898832590939	Facebook	35_44	35-44	IE	Ireland	2	1	1323	661	3	0
-Adrienne Wallace - People Before Profit	Wallace Adrienne Catherine	1555518121383424	Facebook	35_44	35-44	IE	Ireland	2	1	1320	217	44	0
-Cyril Brennan - People Before Profit	People Before Profit - Midlands North West	164750800796944	Facebook	35_44	35-44	IE	Ireland	1	1	1301	260	25	0
-Sharon Nolan	Nolan Sharon Kathryn	399903233737537	Facebook	35_44	35-44	IE	Ireland	2	1	1284	202	47	0
-Barry Andrews for Europe	Barry Andrews	188114061407	Facebook	35_44	35-44	IE	Ireland	5	1	1281	180	55	0
-Eoin Barry For Laois Council 2019	Barry Eoin	469695723432344	Facebook	35_44	35-44	IE	Ireland	1	1	1246	249	24	0
-Paul Nolan - Social Democrats Meath East	King John	1838758749501583	Facebook	35_44	35-44	IE	Ireland	3	1	1243	401	51	0
-Anne Rabbitte TD	Rabbitte Anne Marie	1426461550915658	Facebook	35_44	35-44	IE	Ireland	1	1	1016	203	20	0
-Liam Boyle Labour	Ó BAOILL ANDREW	555153594978666	Facebook	35_44	35-44	IE	Ireland	1	1	1002	200	19	0
-Fintan Brett	Brett Fintan Peter	345949292941023	Facebook	35_44	35-44	IE	Ireland	1	1	922	184	18	0
-Cllr Kevin Daly	Daly Kevin	344182612453224	Facebook	35_44	35-44	IE	Ireland	1	1	917	183	18	0
-Owen Hanley	Owen Hanley	234006030801926	Facebook	35_44	35-44	IE	Ireland	1	1	770	154	15	0
-Sam O'Connor - Balbriggan & Skerries	O'Connor Samuel Simon	1002067016657679	Facebook	35_44	35-44	IE	Ireland	3	1	767	0	76	0
-Aontú	Toibin Peadar Pol	1052704411520149	Facebook	35_44	35-44	IE	Ireland	1	1	745	149	14	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	35_44	35-44	IE	Ireland	1	1	692	346	1	0
-Orla Kelly	Orla Kelly	284729489119670	Facebook	35_44	35-44	IE	Ireland	3	1	534	0	52	0
-Fiona Nolan Fianna Fáil	Sweeney Simon Martin	2220109951652114	Facebook	35_44	35-44	IE	Ireland	2	1	484	0	48	0
-Cormac MacGowan	Mac Gowan Cormac	2224427621206563	Facebook	35_44	35-44	IE	Ireland	2	1	354	0	35	0
-Aidan Farrelly Social Democrats	Farrelly Aidan	1907649435989003	Facebook	35_44	35-44	IE	Ireland	1	1	341	0	33	0
-Malachy Hand - FF Local Election Candidate for South Roscommon	Hand Malachy	949185501928800	Facebook	35_44	35-44	IE	Ireland	2	1	338	0	33	0
-Patricia O' Dwyer	Selormey Kodzo Effui	1790264301045335	Facebook	35_44	35-44	IE	Ireland	2	1	324	0	32	0
-Kate O'Connell TD	O'Connell Kate	203442726495682	Facebook	35_44	35-44	IE	Ireland	1	1	274	0	27	0
-Declan Burke - Fianna Fáil - Tallaght Central	Burke Declan	666587086733858	Facebook	35_44	35-44	IE	Ireland	1	1	269	0	26	0
-West Cork People Before Profit Alliance	O'Sullivan Vanessa	174190439384938	Facebook	35_44	35-44	IE	Ireland	1	1	266	0	26	0
-Clare Claffey Social Democrats	Social Democrats Laois Offaly	289004898593218	Facebook	35_44	35-44	IE	Ireland	1	1	215	0	21	0
-Buncrana & South Inishowen Sinn Féin	Ni Bhroin Sinead	620153045086951	Facebook	35_44	35-44	IE	Ireland	1	1	214	0	21	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	35_44	35-44	IE	Ireland	4	1	206	68	0	0
-Beckha Doyle - Social Democrat for Scarriff & Killaloe	Beckha Doyle For Scarriff Killaloe	286051255266972	Facebook	35_44	35-44	IE	Ireland	1	1	203	0	20	0
-Julie O'Leary	O'Leary Julie	1395595887405642	Facebook	35_44	35-44	IE	Ireland	1	1	178	0	17	0
-Mairéad Farrell - Sinn Féin	Farrell Mairead	213927028776676	Facebook	35_44	35-44	IE	Ireland	1	1	149	0	14	0
-Dublin  Bay South Greens	Dublin Bay South Green Party	474701085946722	Facebook	35_44	35-44	IE	Ireland	1	1	136	0	13	0
-Louis O'Hara - Sinn Féin	O'HARA LOUIS JOSEPH	290382001169403	Facebook	35_44	35-44	IE	Ireland	1	1	133	0	13	0
-Luke Crowley-Holland	CROWLEY-HOLLAND LUKE	404745130303486	Facebook	35_44	35-44	IE	Ireland	1	1	114	0	11	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	35_44	35-44	IE	Ireland	2	1	58	13	0	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	35_44	35-44	IE	Ireland	1	1	1553	776	3	0
+Vote Robert O'Donnell for Tipperary	O'DONNELL ROBERT CHRISTOPHER	451458984908911	Facebook	35_44	35-44	IE	Ireland	2	1	1511	302	29	0
+Noeleen O'Hagan - Sinn Féin		1605653193088824	Facebook	35_44	35-44	IE	Ireland	1	1	1464	292	25	0
+Vote Micheal Callaghan	Callaghan Micheal	740130766087039	Facebook	35_44	35-44	IE	Ireland	1	1	1427	285	28	0
+Cllr Kevin Daly	Daly Kevin	344182612453224	Facebook	35_44	35-44	IE	Ireland	2	1	1370	274	27	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	35_44	35-44	IE	Ireland	2	1	1350	582	2	1
+Declan Burke - Fianna Fáil - Tallaght Central	Burke Declan	666587086733858	Facebook	35_44	35-44	IE	Ireland	1	1	1321	264	26	0
+Conor Bergin for Laois County Council	Bergin Conor	323342671593143	Facebook	35_44	35-44	IE	Ireland	1	1	1309	262	25	0
+Alice O'Donnell-Greystones FG Local Election candidate #LE19	O'Donnell Alice Mary	131481550944517	Facebook	35_44	35-44	IE	Ireland	1	1	1289	257	25	0
+Fintan Brett	Brett Fintan Peter	345949292941023	Facebook	35_44	35-44	IE	Ireland	2	1	1287	204	46	0
+Garrett Mullan	Garrett Mullan	475136362553220	Facebook	35_44	35-44	IE	Ireland	1	1	1210	242	23	0
+Eoin Barry For Laois Council 2019	Barry Eoin	469695723432344	Facebook	35_44	35-44	IE	Ireland	1	1	1209	242	23	0
+Senator Maria Byrne	Bryne Bridget Mary	239085373293887	Facebook	35_44	35-44	IE	Ireland	1	1	995	199	19	0
+Cllr Sarah Holland	Holland Sarah Jane	657954307566585	Facebook	35_44	35-44	IE	Ireland	1	1	990	198	19	0
+Aontú Chorcaí		2332282536791346	Facebook	35_44	35-44	IE	Ireland	1	1	965	193	19	0
+St patrick's movement for life		2213620472218596	Facebook	35_44	35-44	IE	Ireland	1	1	959	191	18	0
+Irish Traveller Movement		160681543259	Facebook	35_44	35-44	IE	Ireland	1	1	946	189	18	0
+Catriona Reid		1054661151405363	Facebook	35_44	35-44	IE	Ireland	1	1	943	188	18	0
+Billy Kelleher TD		1065942253417902	Facebook	35_44	35-44	IE	Ireland	4	1	930	0	92	0
+Carol Deans Social Democrat For Dublin North Inner City	Social Democrats	300779350510132	Facebook	35_44	35-44	IE	Ireland	1	1	907	181	17	0
+Noel Rock	Noel Rock	195292974000042	Facebook	35_44	35-44	IE	Ireland	1	1	694	138	13	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	35_44	35-44	IE	Ireland	1	1	693	346	1	0
+Jo Tully People Before Profit Donaghmede	People Before Profit	236116437317758	Facebook	35_44	35-44	IE	Ireland	1	1	658	131	13	0
+The Scum Gentry Alternative Arts and Media	Breslin James Zach	326834407424932	Facebook	35_44	35-44	IE	Ireland	1	1	620	124	12	0
+Fiona Lynam Social Democrat for Athlone	Fiona Lynam Social Democrats	151823109090883	Facebook	35_44	35-44	IE	Ireland	2	1	517	0	51	0
+sortedfestivalessentials		343551302970040	Facebook	35_44	35-44	IE	Ireland	2	1	457	74	9	0
+Vote for Pauric Kennedy		2048518542115119	Facebook	35_44	35-44	IE	Ireland	1	1	411	0	40	0
+Beckha Doyle - Social Democrat for Scarriff & Killaloe	Beckha Doyle For Scarriff Killaloe	286051255266972	Facebook	35_44	35-44	IE	Ireland	2	1	409	0	40	0
+Ian McGahon, Bray West, Local Election Candidate, #LE19		1060847597322848	Facebook	35_44	35-44	IE	Ireland	2	1	406	0	40	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	35_44	35-44	IE	Ireland	1	1	290	145	0	0
+Cllr. Eoghan O'Brien		2179795845569625	Facebook	35_44	35-44	IE	Ireland	1	1	272	0	26	0
+Cllr Jim Finucane Fine Gael		889419298078209	Facebook	35_44	35-44	IE	Ireland	1	1	231	0	22	0
+Heather Humphreys		1442549826008772	Facebook	35_44	35-44	IE	Ireland	1	1	201	0	20	0
+Legion Of Mary Kells		950055141699203	Facebook	35_44	35-44	IE	Ireland	1	1	198	0	19	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	35_44	35-44	IE	Ireland	5	1	194	63	0	0
+Discover Philadelphia		60364167807	Facebook	35_44	35-44	IE	Ireland	1	1	119	59	1	0
+Europe Thinx		335839580440114	Facebook	35_44	35-44	IE	Ireland	1	1	65	13	0	0
+Yellowed		422966644928472	Facebook	35_44	35-44	IE	Ireland	7	1	58	0	5	0
+CRIF		395919323779707	Facebook	35_44	35-44	IE	Ireland	1	1	20	10	0	0
+Big News Buzz		125179374733697	Facebook	35_44	35-44	IE	Ireland	1	1	15	7	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	35_44	35-44	IE	Ireland	1	1	8	3	0	0
+IronStone Legal		1779470342266633	Facebook	35_44	35-44	IE	Ireland	1	1	8	0	1	0
+ETUC		129041250601685	Facebook	35_44	35-44	IE	Ireland	1	1	7	1	0	0
+ITUC		20556338116	Facebook	35_44	35-44	IE	Ireland	2	1	5	0	0	0
+Eurozine		115579498521257	Facebook	35_44	35-44	IE	Ireland	1	1	5	1	0	0
+Lilian Seenoi-Barr for Council	Lilian Seenoi	421660725077543	Facebook	35_44	35-44	IE	Ireland	1	1	3	0	0	0
+Tom MacDonald		212732770186	Facebook	35_44	35-44	IE	Ireland	1	1	3	0	0	0
+Free Quran Education		388655174641163	Facebook	35_44	35-44	IE	Ireland	1	1	2	0	0	0
+Martina Anderson MEP	Martina Anderson MEP	181068275415047	Facebook	35_44	35-44	IE	Ireland	2	1	1	0	0	0
+London Green Party	London Green Party	175350485880358	Facebook	35_44	35-44	IE	Ireland	1	1	0	0	0	0
+Social Democratic and Labour Party (SDLP)	Social Democratic and Labour Party (SDLP)	111956985487415	Facebook	35_44	35-44	IE	Ireland	1	1	0	0	0	0
+John Feely - Sinn Féin	Sinn Féin Fermanagh	1561905844138855	Facebook	35_44	35-44	IE	Ireland	1	1	0	0	0	0
+Democratic Unionist Party	Democratic Unionist Party	105732052794210	Facebook	35_44	35-44	IE	Ireland	1	1	0	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	35_44	35-44	IE	Ireland	2	1	0	0	0	0
+The Years Project	The Years Project	168876449866088	Facebook	35_44	35-44	IE	Ireland	1	1	0	0	0	0
+dom-i-NEEK		260052198180831	Facebook	35_44	35-44	IE	Ireland	1	1	0	0	0	0

@@ -1,7 +1,7 @@
 region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-famagusta_district	Famagusta District	CY	Cyprus	28	18	8533	2857	27	0
-kyrenia_district	Kyrenia District	CY	Cyprus	23	15	5134	1877	14	0
-larnaca_district	Larnaca District	CY	Cyprus	30	18	7032	1704	49	0
-lefkosa_district	Lefkoşa District	CY	Cyprus	32	18	179915	43131	843	0
-limassol_district	Limassol District	CY	Cyprus	30	18	16373	3808	111	0
-paphos_district	Paphos District	CY	Cyprus	30	18	2840	705	15	0
+famagusta_district	Famagusta District	CY	Cyprus	487	51	331678	119070	1421	146
+kyrenia_district	Kyrenia District	CY	Cyprus	345	49	117320	48015	464	69
+larnaca_district	Larnaca District	CY	Cyprus	507	52	355137	110423	1796	98
+lefkosa_district	Lefkoşa District	CY	Cyprus	497	53	3779103	1361198	15625	1588
+limassol_district	Limassol District	CY	Cyprus	507	52	810768	253785	4008	243
+paphos_district	Paphos District	CY	Cyprus	502	52	123453	40865	774	37

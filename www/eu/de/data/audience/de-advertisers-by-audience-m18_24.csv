@@ -1,229 +1,831 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-CDU	CDU	78502295414	Facebook	m18_24	male (18-24)	DE	Germany	4987	1	2049186	334605	82421	0
-FDP	FDP	21289227249	Facebook	m18_24	male (18-24)	DE	Germany	543	1	398072	58631	13712	55
-BÜNDNIS 90/DIE GRÜNEN	BÜNDNIS 90/DIE GRÜNEN	47217143218	Facebook	m18_24	male (18-24)	DE	Germany	771	1	273238	42601	11080	14
-Party of the European Left	Franziska Laskowski	160598290012	Facebook	m18_24	male (18-24)	DE	Germany	1	1	143756	57502	143	28
-Demokratie in Europa - Diem25	Demokratie in Europa - DiEM25	267443093828699	Facebook	m18_24	male (18-24)	DE	Germany	17	1	124224	49587	863	109
-Europäisches Parlament - Verbindungsbüro in Deutschland	Europäisches Parlament - Verbindungsbüro in Deutschland	294494163510	Facebook	m18_24	male (18-24)	DE	Germany	2	1	51522	25761	137	33
-Verband der Chemischen Industrie e.V.	Chemie Wirtschaftsförderungs GmbH	921326477983554	Facebook	m18_24	male (18-24)	DE	Germany	95	1	46566	6719	2151	0
-Junge Liberale JuLis	Junge Liberale	110976485656573	Facebook	m18_24	male (18-24)	DE	Germany	2	1	28132	5626	280	56
-Bayernpartei	Bayernpartei	78309442751	Facebook	m18_24	male (18-24)	DE	Germany	7	1	27212	5993	300	47
-ÖDP Nordrhein-Westfalen	Ökologisch-Demokratische Partei (ÖDP) NRW	138480036196810	Facebook	m18_24	male (18-24)	DE	Germany	3	1	24674	4918	56	0
-Partei der Humanisten	Partei der Humanisten	499613946840551	Facebook	m18_24	male (18-24)	DE	Germany	4	1	22519	4443	133	0
-Junge Liberale JuLis Bayern	Junge Liberale Bayern e.V.	109135205793336	Facebook	m18_24	male (18-24)	DE	Germany	2	1	19971	4962	65	0
-Berliner Stadtwerke	Berliner Stadtwerke	765844936882239	Facebook	m18_24	male (18-24)	DE	Germany	3	1	19962	8212	129	25
-FDP Hessen	FDP Hessen	188188564583	Facebook	m18_24	male (18-24)	DE	Germany	2	1	18083	3616	35	0
-Delara Burkhardt	SPD Schleswig-Holstein	260587924600836	Facebook	m18_24	male (18-24)	DE	Germany	1	1	16104	3220	31	0
-Monika Hohlmeier	Monika Hohlmeier	139065632780165	Facebook	m18_24	male (18-24)	DE	Germany	10	1	16047	3285	61	3
-Jusos in der SPD	Jusos in der SPD	40415227476	Facebook	m18_24	male (18-24)	DE	Germany	2	1	14509	2901	28	0
-Greenpeace Deutschland	Greenpeace Deutschland	22541752487	Facebook	m18_24	male (18-24)	DE	Germany	16	1	14122	3440	284	0
-Arbeitgeberverband Gesamtmetall	Arbeitgeberverband Gesamtmetall	169367889785454	Facebook	m18_24	male (18-24)	DE	Germany	8	1	11909	3485	137	0
-Peter Gillo	Peter Gillo	578310722649724	Facebook	m18_24	male (18-24)	DE	Germany	3	1	9901	2221	98	18
-European Parliament	European Parliament	178362315106	Facebook	m18_24	male (18-24)	DE	Germany	1	1	9451	4725	47	9
-PARTEI MENSCH UMWELT TIERSCHUTZ	PARTEI MENSCH UMWELT TIERSCHUTZ	108568039165729	Facebook	m18_24	male (18-24)	DE	Germany	5	1	8689	1737	89	16
-Katarina Barley	SPD	1522202731410785	Facebook	m18_24	male (18-24)	DE	Germany	6	1	8541	1677	181	0
-European Free Alliance	European Free Alliance	46708306425	Facebook	m18_24	male (18-24)	DE	Germany	2	1	8046	1590	168	79
-DIE LINKE. Berlin-Mitte	Andreas Böttger	118337308237499	Facebook	m18_24	male (18-24)	DE	Germany	6	1	7794	3268	97	0
-Uwe Conradt: Saarbrücken - gemeinsam - voran.	CDU Saarbrücken Stadt	577254072692345	Facebook	m18_24	male (18-24)	DE	Germany	3	1	7767	2288	66	0
-SPD Dresden	SPD Dresden	57318667478	Facebook	m18_24	male (18-24)	DE	Germany	25	1	7611	701	476	0
-Landtag Rheinland-Pfalz	Landtag Rheinland-Pfalz	1339267256128796	Facebook	m18_24	male (18-24)	DE	Germany	1	1	7043	1408	70	14
-Fridays For Future Münster	Fridays for Future	1212444868905059	Facebook	m18_24	male (18-24)	DE	Germany	3	1	5616	1123	30	0
-Angelika Niebler	Angelika Niebler	183448258342806	Facebook	m18_24	male (18-24)	DE	Germany	1	1	5102	1020	10	0
+BÜNDNIS 90/DIE GRÜNEN	BÜNDNIS 90/DIE GRÜNEN	47217143218	Facebook	m18_24	male (18-24)	DE	Germany	5035	1	5565539	1556548	78700	3538
+CDU	CDU	78502295414	Facebook	m18_24	male (18-24)	DE	Germany	14022	1	5560212	1175707	188108	472
+FDP	FDP	21289227249	Facebook	m18_24	male (18-24)	DE	Germany	1166	1	2762185	849192	31844	1315
+SPD	SPD	47930567748	Facebook	m18_24	male (18-24)	DE	Germany	2291	1	2603170	625957	64282	1161
+Demokratie in Europa - Diem25	Demokratie in Europa - DiEM25	267443093828699	Facebook	m18_24	male (18-24)	DE	Germany	85	1	1831435	737936	7800	2333
+Nicola Beer	FDP	206866712830769	Facebook	m18_24	male (18-24)	DE	Germany	91	1	1200958	495134	11418	2541
+Katarina Barley	SPD	1522202731410785	Facebook	m18_24	male (18-24)	DE	Germany	428	1	1070594	277642	14870	355
+DIE LINKE	DIE LINKE	47694585682	Facebook	m18_24	male (18-24)	DE	Germany	603	1	957478	261565	9270	201
+Avaaz	Avaaz	8340223883	Facebook	m18_24	male (18-24)	DE	Germany	28	1	951055	416006	8294	1697
+Ökologisch-Demokratische Partei (ÖDP)	Ökologisch-Demokratische Partei (ÖDP)	120655374567	Facebook	m18_24	male (18-24)	DE	Germany	9	1	636046	317478	1918	525
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	m18_24	male (18-24)	DE	Germany	51	1	610557	266506	4330	993
+CSU (Christlich-Soziale Union)	CSU (Christlich-Soziale Union)	81386795687	Facebook	m18_24	male (18-24)	DE	Germany	13	1	578105	258755	5376	1622
+Kialo	Kialo	729627343834501	Facebook	m18_24	male (18-24)	DE	Germany	62	1	550006	131072	5361	1076
+Partei der Humanisten	Partei der Humanisten	499613946840551	Facebook	m18_24	male (18-24)	DE	Germany	8	1	406049	175592	3986	985
+Landeszentrale für politische Bildung Thüringen	Landeszentrale für politische Bildung Thüringen	215460201802938	Facebook	m18_24	male (18-24)	DE	Germany	32	1	352992	98423	4883	903
+European Parliament	European Parliament	178362315106	Facebook	m18_24	male (18-24)	DE	Germany	13	1	344454	152879	2516	581
+Senatsverwaltung für Kultur und Europa		247450562347746	Facebook	m18_24	male (18-24)	DE	Germany	3	1	308104	140718	702	220
+Delara Burkhardt	SPD Schleswig-Holstein	260587924600836	Facebook	m18_24	male (18-24)	DE	Germany	25	1	267617	101911	1304	198
+Campact e.V.	Campact e.V.	82734241364	Facebook	m18_24	male (18-24)	DE	Germany	6	1	264420	129606	1887	510
+Die Offene Gesellschaft	die Initiative Offene Gesellschaft mit Facebook-Werbegutschrift	912255502235222	Facebook	m18_24	male (18-24)	DE	Germany	402	1	251589	55197	5256	185
+Sozialdemokratische Partei Europas	Sozialdemokratische Partei Europas	338549033673221	Facebook	m18_24	male (18-24)	DE	Germany	15	1	244020	104637	927	160
+Party of the European Left	Franziska Laskowski	160598290012	Facebook	m18_24	male (18-24)	DE	Germany	2	1	241954	96782	1314	345
+Junge Liberale JuLis	Junge Liberale	110976485656573	Facebook	m18_24	male (18-24)	DE	Germany	5	1	235093	90109	3239	644
+Europäisches Parlament - Verbindungsbüro in Deutschland	Europäisches Parlament - Verbindungsbüro in Deutschland	294494163510	Facebook	m18_24	male (18-24)	DE	Germany	3	1	209660	102410	1169	233
+FDP Bremen	FDP Bremen	152934608113175	Facebook	m18_24	male (18-24)	DE	Germany	131	1	180461	51376	2855	243
+Neue Liberale - Die Sozialliberalen		730976676939532	Facebook	m18_24	male (18-24)	DE	Germany	1	1	176960	70784	176	35
+European Greens	European Greens	141366725876424	Facebook	m18_24	male (18-24)	DE	Germany	9	1	159166	76475	881	199
+BÜNDNIS 90/DIE GRÜNEN Schleswig-Holstein	BÜNDNIS 90/DIE GRÜNEN Schleswig-Holstein	1608463192727453	Facebook	m18_24	male (18-24)	DE	Germany	21	1	134522	37701	1102	201
+ÖDP Nordrhein-Westfalen	Ökologisch-Demokratische Partei (ÖDP) NRW	138480036196810	Facebook	m18_24	male (18-24)	DE	Germany	11	1	133807	59711	401	57
+Bayernpartei	Bayernpartei	78309442751	Facebook	m18_24	male (18-24)	DE	Germany	15	1	132664	41729	1581	597
+Grüne Jugend Mecklenburg-Vorpommern	Grüne Jugend Mecklenburg-Vorpommern	199036293467407	Facebook	m18_24	male (18-24)	DE	Germany	1	1	127058	50823	1270	254
+Jusos in der SPD	Jusos in der SPD	40415227476	Facebook	m18_24	male (18-24)	DE	Germany	18	1	124126	37516	1004	171
+CDU in Niedersachsen	CDU in Niedersachsen	109460782417586	Facebook	m18_24	male (18-24)	DE	Germany	6	1	122939	53211	1686	331
+European Free Alliance	European Free Alliance	46708306425	Facebook	m18_24	male (18-24)	DE	Germany	5	1	122858	51498	1597	317
+Verband der Chemischen Industrie e.V.	Chemie Wirtschaftsförderungs GmbH	921326477983554	Facebook	m18_24	male (18-24)	DE	Germany	111	1	122832	39813	2788	65
+Thalia Buchhandlung - Thalia.de	Thalia Buchhandlung - Thalia.de	342884401877	Facebook	m18_24	male (18-24)	DE	Germany	15	1	115609	51974	1972	419
+Daniel Freund	Bündnis 90 / Die Grünen Kreisverband Aachen	566872987051379	Facebook	m18_24	male (18-24)	DE	Germany	7	1	113056	56350	1244	240
+Sven Giegold	Sven Giegold	1391306014465513	Facebook	m18_24	male (18-24)	DE	Germany	23	1	112877	40733	975	176
+DIE LINKE. Dresden	DIE LINKE. Dresden	101065286702367	Facebook	m18_24	male (18-24)	DE	Germany	84	1	112435	27899	1849	130
+Körber-Stiftung	Körber-Stiftung	120479081330563	Facebook	m18_24	male (18-24)	DE	Germany	3	1	110219	41280	577	201
+SPD Land Bremen	SPD Land Bremen 	524965010906886	Facebook	m18_24	male (18-24)	DE	Germany	309	1	110197	15464	5845	0
+FDP Baden-Württemberg	FDP Baden-Württemberg	241400009229424	Facebook	m18_24	male (18-24)	DE	Germany	10	1	109674	53692	2370	531
+Berliner Stadtwerke	Berliner Stadtwerke	765844936882239	Facebook	m18_24	male (18-24)	DE	Germany	14	1	107837	44443	601	218
+SPD Dresden	SPD Dresden	57318667478	Facebook	m18_24	male (18-24)	DE	Germany	53	1	100509	21244	1459	109
+Volt Deutschland	Volt Deutschland	134209407129787	Facebook	m18_24	male (18-24)	DE	Germany	55	1	97897	22821	1701	34
+Initiative Neue Soziale Marktwirtschaft (INSM)	Initiative Neue Soziale Marktwirtschaft (INSM)	121678260974	Facebook	m18_24	male (18-24)	DE	Germany	100	1	94025	24515	1974	0
+Grüne Mannheim	BÜNDNIS 90/DIE GRÜNEN Kreisverband Mannheim	123290727868673	Facebook	m18_24	male (18-24)	DE	Germany	45	1	92526	33925	620	55
+Talking Europe	Diskutier Mit Mir e.V.	316028505828375	Facebook	m18_24	male (18-24)	DE	Germany	6	1	90514	32204	984	194
+Europäische Kommission – Vertretung in Deutschland	Europäische Kommission – Vertretung in Deutschland	123332714357231	Facebook	m18_24	male (18-24)	DE	Germany	10	1	88376	20641	752	115
+DIE LINKE. Berlin	DiG Berlin	156304484388194	Facebook	m18_24	male (18-24)	DE	Germany	1	1	79235	31694	79	15
+Bundesregierung	Bundesregierung	768905426534529	Facebook	m18_24	male (18-24)	DE	Germany	1	1	76788	30715	767	153
+Eko Fresh	Christoph Friedrich Brust	103824796345976	Facebook	m18_24	male (18-24)	DE	Germany	5	1	76152	20878	666	133
+Social Media Ads	Alexander Dietrich	561953460655717	Facebook	m18_24	male (18-24)	DE	Germany	23	1	74587	21486	364	0
+Friedrich-Naumann-Stiftung für die Freiheit	Friedrich-Naumann-Stiftung für die Freiheit	140889782312	Facebook	m18_24	male (18-24)	DE	Germany	13	1	71077	22638	479	58
+Uwe Conradt: Saarbrücken - gemeinsam - voran.	CDU Saarbrücken Stadt	577254072692345	Facebook	m18_24	male (18-24)	DE	Germany	20	1	67667	16423	387	23
+Arbeitgeberverband Gesamtmetall	Arbeitgeberverband Gesamtmetall	169367889785454	Facebook	m18_24	male (18-24)	DE	Germany	33	1	67096	14289	643	0
+European Commission	European Commission	107898832590939	Facebook	m18_24	male (18-24)	DE	Germany	21	1	62399	28957	99	27
+MENSCHLICHE WELT	Menschliche Welt	245758938922923	Facebook	m18_24	male (18-24)	DE	Germany	23	1	62192	22487	649	164
+Diakonie Deutschland	Diakonie Deutschland	41509493347	Facebook	m18_24	male (18-24)	DE	Germany	9	1	62083	13108	293	32
+Junge Liberale JuLis Bayern	Junge Liberale Bayern e.V.	109135205793336	Facebook	m18_24	male (18-24)	DE	Germany	11	1	58534	11535	491	30
+DIE LINKE. Berlin-Mitte	Andreas Böttger	118337308237499	Facebook	m18_24	male (18-24)	DE	Germany	14	1	57875	12328	195	0
+FDP Hessen	FDP Hessen	188188564583	Facebook	m18_24	male (18-24)	DE	Germany	9	1	52928	16328	205	14
+IG Metall	IG Metall	249296718436	Facebook	m18_24	male (18-24)	DE	Germany	2	1	51878	22749	123	20
+Greenpeace Deutschland	Greenpeace Deutschland	22541752487	Facebook	m18_24	male (18-24)	DE	Germany	22	1	51701	16624	585	63
+FDP Karlsruhe-Stadt	FDP Kreisverband Karlsruhe-Stadt	342930772424635	Facebook	m18_24	male (18-24)	DE	Germany	14	1	51533	10444	589	88
+FDP NRW	FDP NRW	282800387209	Facebook	m18_24	male (18-24)	DE	Germany	9	1	51463	11081	530	94
+Arndt Kohn	SPD-Unterbezirk in der Städteregion Aachen	1232732846774130	Facebook	m18_24	male (18-24)	DE	Germany	8	1	50218	19916	354	43
+Grüne Jugend	Grüne Jugend	159474940754336	Facebook	m18_24	male (18-24)	DE	Germany	5	1	49753	21002	249	98
+SPD Schleswig-Holstein	SPD Schleswig-Holstein	165381593630826	Facebook	m18_24	male (18-24)	DE	Germany	12	1	47904	9494	137	0
+Monika Hohlmeier	Monika Hohlmeier	139065632780165	Facebook	m18_24	male (18-24)	DE	Germany	21	1	47101	15550	292	40
+FDP Saar - SaarLiberale	FDP Saar	189006054445407	Facebook	m18_24	male (18-24)	DE	Germany	21	1	45095	11944	571	85
+Klima-Allianz Deutschland	Klima-Allianz Deutschland	110521004952	Facebook	m18_24	male (18-24)	DE	Germany	2	1	44601	22187	244	110
+Piratenpartei	Piratenpartei	149871337782	Facebook	m18_24	male (18-24)	DE	Germany	4	1	43441	10543	701	320
+Familien-Partei		2314479965496560	Facebook	m18_24	male (18-24)	DE	Germany	1	1	42861	21430	214	107
+Berlin Partner für Wirtschaft und Technologie	Berlin Partner für Wirtschaft und Technologie	490874321062716	Facebook	m18_24	male (18-24)	DE	Germany	4	1	42816	8563	427	85
+BÜNDNIS 90/DIE GRÜNEN Halle (Saale)	BÜNDNIS 90/ DIE GRÜNEN Stadtverband Halle	224759004224478	Facebook	m18_24	male (18-24)	DE	Germany	15	1	42581	10715	548	96
+LiSL Deutschland	Michael Kauch	223782884301813	Facebook	m18_24	male (18-24)	DE	Germany	7	1	41475	8706	506	86
+Tierschutz hier	Rudolf Görg 	2309063122705796	Facebook	m18_24	male (18-24)	DE	Germany	12	1	41285	8748	214	28
+SPD Mannheim	SPD Mannheim	417906251607978	Facebook	m18_24	male (18-24)	DE	Germany	4	1	37865	14051	270	86
+Ralf Lottermann - Für den Wormser Stadtrat	Ralf Lottermann	364491737725008	Facebook	m18_24	male (18-24)	DE	Germany	5	1	37811	11114	169	59
+CDU Region Stuttgart	CDU Region Stuttgart	1512459202315535	Facebook	m18_24	male (18-24)	DE	Germany	1	1	37067	18533	926	185
+CDU Hamburg-Nord	CDU Hamburg-Nord	685221951523894	Facebook	m18_24	male (18-24)	DE	Germany	101	1	35870	5346	1360	39
+Jens Gieseke	Jens Gieseke MdEP	483471921769289	Facebook	m18_24	male (18-24)	DE	Germany	4	1	35339	7068	315	61
+Jusos Hamburg	SPD Hamburg	114266450799	Facebook	m18_24	male (18-24)	DE	Germany	3	1	34464	7585	178	23
+Barbara Meyer-Gluche	B90/Grüne Saarbrücken	183342321839259	Facebook	m18_24	male (18-24)	DE	Germany	15	1	33832	12377	446	110
+ABOUT YOU	ABOUT YOU	689801517732186	Facebook	m18_24	male (18-24)	DE	Germany	3	1	33016	15213	329	126
+Demokratie in Bewegung	Demokratie in Bewegung	1799478453653006	Facebook	m18_24	male (18-24)	DE	Germany	12	1	32882	11327	308	51
+BÜNDNIS 90/DIE GRÜNEN Sachsen	BÜNDNIS 90/DIE GRÜNEN	86337829141	Facebook	m18_24	male (18-24)	DE	Germany	9	1	31549	10841	198	33
+Peter Gillo	Peter Gillo	578310722649724	Facebook	m18_24	male (18-24)	DE	Germany	6	1	31291	9081	265	53
+thyssenkrupp	thyssenkrupp	644063045675734	Facebook	m18_24	male (18-24)	DE	Germany	1	1	29859	14929	74	14
+SPD Saar	SPD Saar	214065808453	Facebook	m18_24	male (18-24)	DE	Germany	1	1	29632	5926	295	59
+SPD Sachsen	SPD Sachsen	50169278122	Facebook	m18_24	male (18-24)	DE	Germany	13	1	29062	8224	327	36
+Christiane Hinninger	Christiane Hinninger	333672360622676	Facebook	m18_24	male (18-24)	DE	Germany	4	1	28964	9491	227	45
+Landtag von Baden-Württemberg	Landtag von Baden-Württemberg	2015022955380034	Facebook	m18_24	male (18-24)	DE	Germany	3	1	28941	6722	81	0
+FDP Fraktion Bundestag	Fraktion der Freien Demokraten	341486659645594	Facebook	m18_24	male (18-24)	DE	Germany	29	1	28702	6159	686	0
+#NatürlichEuropa	Deutscher Naturschutzring DNR e.V.	255657841991242	Facebook	m18_24	male (18-24)	DE	Germany	3	1	28597	14299	163	52
+FDP Bayern	FDP Bayern	350558562311	Facebook	m18_24	male (18-24)	DE	Germany	2	1	28288	8912	228	45
+SPD POTSDAM	SPD Potsdam	123837087688700	Facebook	m18_24	male (18-24)	DE	Germany	12	1	28041	6447	287	34
+Jusos Niedersachsen	Jusos Niedersachsen	148209578562582	Facebook	m18_24	male (18-24)	DE	Germany	23	1	27879	6146	612	0
+Angelika Niebler	Angelika Niebler	183448258342806	Facebook	m18_24	male (18-24)	DE	Germany	9	1	27348	5932	291	72
+Phil Hackemann	Philip Fritz Hermann Hackemann	234193444126795	Facebook	m18_24	male (18-24)	DE	Germany	33	1	27318	5775	981	0
+Bündnis 90/Die Grünen Berlin	Bündnis 90/Die Grünen Berlin	103558289679671	Facebook	m18_24	male (18-24)	DE	Germany	18	1	27254	8557	424	45
+VoteEuropa Deutschland	Verena Katharina Riedmiller	628787484249066	Facebook	m18_24	male (18-24)	DE	Germany	3	1	27194	6927	271	44
+SPD Berlin	SPD Berlin	134137749971478	Facebook	m18_24	male (18-24)	DE	Germany	10	1	26377	5867	144	0
+Mike Mohring	CDU Weimarer Land	188677361503511	Facebook	m18_24	male (18-24)	DE	Germany	21	1	26305	6772	209	0
+Sebastian Rutten	Sebastian Rutten - FDP WIesbaden	344889229443918	Facebook	m18_24	male (18-24)	DE	Germany	16	1	26266	6865	313	34
+FDP Wahlkampf	Philippe André Westenfelder	393722064802394	Facebook	m18_24	male (18-24)	DE	Germany	2	1	26046	6428	83	0
+SPD Kreis Düren	SPD Kreisverband Düren Jülich	351744732333754	Facebook	m18_24	male (18-24)	DE	Germany	11	1	24651	5751	170	12
+Manuela Ripa	Manuela Magda Franca Maria Ripa	271226510199428	Facebook	m18_24	male (18-24)	DE	Germany	8	1	24229	7489	659	161
+WWF Deutschland	WWF Deutschland	218786540044	Facebook	m18_24	male (18-24)	DE	Germany	6	1	23902	10414	238	104
+Jusos Schleswig-Holstein	Jusos Schleswig-Holstein	185490505413	Facebook	m18_24	male (18-24)	DE	Germany	19	1	22967	4810	389	0
+Demokratie in Bewegung Sachsen-Anhalt	Demokratie in Bewegung Sachsen-Anhalt	1907967889415631	Facebook	m18_24	male (18-24)	DE	Germany	2	1	22954	11104	78	10
+PARTEI MENSCH UMWELT TIERSCHUTZ	PARTEI MENSCH UMWELT TIERSCHUTZ	108568039165729	Facebook	m18_24	male (18-24)	DE	Germany	10	1	21574	6833	218	57
+Sarah Weiser	SPD Münster	2205288519491183	Facebook	m18_24	male (18-24)	DE	Germany	9	1	21465	5397	402	55
+AfD	AfD	540404695989874	Facebook	m18_24	male (18-24)	DE	Germany	5	1	21334	10667	106	28
+Junge Union Aurich	CDU Stadtverband Aurich und Junge Union Aurich	204261220053348	Facebook	m18_24	male (18-24)	DE	Germany	6	1	21047	4209	64	0
+SPD-Fraktion im Sächsischen Landtag	SPD-Fraktion im Sächsischen Landtag	316067627870	Facebook	m18_24	male (18-24)	DE	Germany	23	1	20426	5036	574	58
+FÜR Karlsruhe	FÜR Karlsruhe - Politik mit christlicher Herzenshaltung e.V.	260790977428638	Facebook	m18_24	male (18-24)	DE	Germany	5	1	20207	5162	69	0
+FDP Bielefeld	Jan-Maik Schlifter De La Fontaine	153467308073688	Facebook	m18_24	male (18-24)	DE	Germany	13	1	20010	5694	279	17
+Bündnis 90/Die Grünen Schwäbisch Hall	BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	1324932424284616	Facebook	m18_24	male (18-24)	DE	Germany	13	1	19900	4160	352	30
+Humanity in Action Germany	Humanity in Action Germany	593043957430745	Facebook	m18_24	male (18-24)	DE	Germany	1	1	19753	3950	197	39
+USR Diaspora	Uniunea Salvați România - USR	1793510380925494	Facebook	m18_24	male (18-24)	DE	Germany	3	1	19152	7761	125	25
+FDP Dortmund	Michael Kauch	423911207652417	Facebook	m18_24	male (18-24)	DE	Germany	6	1	18792	3758	181	19
+Bündnis Grundeinkommen	Bündnis Grundeinkommen	548285578684618	Facebook	m18_24	male (18-24)	DE	Germany	13	1	18789	4887	323	35
+Junge Liberale JuLis Saar	FDP Saar	204544519567598	Facebook	m18_24	male (18-24)	DE	Germany	1	1	18268	3653	182	36
+BZS 23 - Bündnis Zukunft Stuttgart 23	Marc Fuchs 	225413838047902	Facebook	m18_24	male (18-24)	DE	Germany	8	1	18207	3784	121	11
+GRÜNE Hamburg	GRÜNE Hamburg	25406037041	Facebook	m18_24	male (18-24)	DE	Germany	26	1	18148	7545	219	13
+FinanzAgenda	Union Investment	276690259403364	Facebook	m18_24	male (18-24)	DE	Germany	20	1	18047	3626	348	7
+Junge Union Deutschlands	Junge Union Deutschlands	46098347293	Facebook	m18_24	male (18-24)	DE	Germany	8	1	17893	4530	449	31
+Bündnis 90/Die Grünen Friedrichshain-Kreuzberg	Bündnis 90/Die Grünen Xhain	112562615494117	Facebook	m18_24	male (18-24)	DE	Germany	7	1	17628	3933	160	24
+CDU Hamburg	CDU Landesverband Hamburg	173796242642081	Facebook	m18_24	male (18-24)	DE	Germany	12	1	17576	5108	406	58
+Bündnis C - Christen für Deutschland	Bündnis C - Christen für Deutschland	675671552542620	Facebook	m18_24	male (18-24)	DE	Germany	3	1	16941	3354	183	33
+CDU Bielefeld	CDU Bielefeld	170032743135669	Facebook	m18_24	male (18-24)	DE	Germany	3	1	16807	3361	175	32
+Paul Ziemiak	Paul Ziemiak	1067821176570031	Facebook	m18_24	male (18-24)	DE	Germany	4	1	16772	3961	395	144
+SPD Niedersachsen	SPD Niedersachsen	76866574484	Facebook	m18_24	male (18-24)	DE	Germany	18	1	16122	3264	366	14
+JU-Kreisverband Deggendorf	Stefan Johann Zitzelsberger	377562525780294	Facebook	m18_24	male (18-24)	DE	Germany	7	1	15960	4126	208	18
+Grüne Jugend Freiburg	Grüne Jugend Freiburg	258738124139670	Facebook	m18_24	male (18-24)	DE	Germany	39	1	15901	3581	571	0
+Niclas Herbst	CDU Schleswig-Holstein	320488628674422	Facebook	m18_24	male (18-24)	DE	Germany	4	1	15875	3175	126	11
+CDU Kreisverband Ahrweiler	CDU Kreisverband Ahrweiler	400923533270421	Facebook	m18_24	male (18-24)	DE	Germany	23	1	15788	3523	252	0
+MediaMarkt Papenburg Leer	MediaMarkt Papenburg Leer	188696547813120	Facebook	m18_24	male (18-24)	DE	Germany	2	1	15506	3874	257	51
+Deine Würde - Eine Initiative zum 70. Jubiläum des Grundgesetzes	Deine Würde - Eine Initiative zum 70. Jubiläum des Grundgesetzes	316160725982888	Facebook	m18_24	male (18-24)	DE	Germany	1	1	15478	7739	77	15
+Lars Klingbeil	Lars Klingbeil	355456486093	Facebook	m18_24	male (18-24)	DE	Germany	5	1	15416	2921	371	128
+YOU.and.EU	Nordstrom Laura Helena	250361215678222	Facebook	m18_24	male (18-24)	DE	Germany	2	1	15349	3069	30	0
+Matthias Ecke	SPD Sachsen	751533138525902	Facebook	m18_24	male (18-24)	DE	Germany	10	1	15021	3510	252	22
+Christian Lindner	Christian Lindner	143504445664134	Facebook	m18_24	male (18-24)	DE	Germany	7	1	15007	5158	158	13
+BÜNDNIS 90/DIE GRÜNEN Sachsen-Anhalt	BÜNDNIS 90/DIE GRÜNEN Sachsen-Anhalt	106637900016	Facebook	m18_24	male (18-24)	DE	Germany	10	1	14968	3251	292	82
+Constanze Krehl, MdEP	Ayla Haid 	370525506320360	Facebook	m18_24	male (18-24)	DE	Germany	10	1	14590	4429	119	0
+GRÜNE Bayern	GRÜNE Bayern	258191139993	Facebook	m18_24	male (18-24)	DE	Germany	4	1	14512	3996	149	21
+Lena Düpont	Lena Düpont	241903739847716	Facebook	m18_24	male (18-24)	DE	Germany	11	1	14281	2895	237	0
+Özlem Alev Demirel	DIE LINKE. NRW	602487899802568	Facebook	m18_24	male (18-24)	DE	Germany	2	1	14213	6942	79	34
+ViolavonCramon	BÜNDNIS 90/DIE GRÜNEN	126525857429764	Facebook	m18_24	male (18-24)	DE	Germany	4	1	14210	2842	78	12
+Matthias Dornhuber	SPD Mittelfranken	2273848225970175	Facebook	m18_24	male (18-24)	DE	Germany	55	1	14099	1480	810	0
+Julian Barazi FDP	Freie Demokratische Partei	548949038855591	Facebook	m18_24	male (18-24)	DE	Germany	31	1	13796	3160	493	0
+SPD Wandsbek	Andre Schneider	182588003457	Facebook	m18_24	male (18-24)	DE	Germany	22	1	13734	3485	316	11
+FDP Kreisverband Bonn	FDP Kreisverband Bonn	215346935169485	Facebook	m18_24	male (18-24)	DE	Germany	7	1	13730	2714	191	18
+GRÜNE Bonn	BÜNDNIS 90 / DIE GRÜNEN Kreisverband Bonn	337333856328097	Facebook	m18_24	male (18-24)	DE	Germany	6	1	13722	3190	148	27
+Sozialistische Gleichheitspartei, IV Internationale - SGP	Helmut Wilhelm Arens	90523314133	Facebook	m18_24	male (18-24)	DE	Germany	1	1	13684	2736	136	27
+BÜNDNIS 90/DIE GRÜNEN Magdeburg	BÜNDNIS 90/DIE GRÜNEN Magdeburg	83113756872	Facebook	m18_24	male (18-24)	DE	Germany	7	1	13593	3795	230	34
+SPD-Bundestagsfraktion	SPD-Bundestagsfraktion	144380008933707	Facebook	m18_24	male (18-24)	DE	Germany	10	1	13581	3949	47	3
+Deutsche gegen Rassismus	BIG Partei Deutschland	2367349223545054	Facebook	m18_24	male (18-24)	DE	Germany	10	1	13565	2713	93	0
+DIE LINKE. Kreisverband Herford	DIE LINKE. Kreisverband Herford	1433524006667098	Facebook	m18_24	male (18-24)	DE	Germany	2	1	13551	2710	77	12
+Bündnis 90/Die Grünen Dortmund	Bündnis 90/Die Grünen Kreisverband Dortmund	1760904514159207	Facebook	m18_24	male (18-24)	DE	Germany	4	1	13493	4453	211	34
+BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	108655285842827	Facebook	m18_24	male (18-24)	DE	Germany	24	1	13474	3863	325	0
+Partei der Humanisten Bremen	Axel Börold	1477347775705985	Facebook	m18_24	male (18-24)	DE	Germany	2	1	13468	2693	134	26
+Gert-Uwe Mende	Evelyn Barbara Susanne Otto	2171790612879542	Facebook	m18_24	male (18-24)	DE	Germany	2	1	13103	5611	55	9
+FDP Oberbayern	Peter Anton Corticelli	285059978218487	Facebook	m18_24	male (18-24)	DE	Germany	2	1	13041	2608	135	25
+Michael Kauch	Michael Kauch	68189497138	Facebook	m18_24	male (18-24)	DE	Germany	10	1	12953	4140	293	18
+Graue Panther wählen	Rudolf Görg 	2014695908579485	Facebook	m18_24	male (18-24)	DE	Germany	10	1	12920	3919	234	38
+Der Paritätische NRW	Der Paritätische NRW	310900198930707	Facebook	m18_24	male (18-24)	DE	Germany	3	1	12910	2563	34	0
+CDU Mein Altensteig	CDU-Stadtverband Altensteig	2605830436157588	Facebook	m18_24	male (18-24)	DE	Germany	25	1	12883	2270	376	0
+Jusos Saar	Jusos Saar in der SPD 	110501198961505	Facebook	m18_24	male (18-24)	DE	Germany	3	1	12838	2545	51	0
+Hannah Neumann	Bündnis 90/Die Grünen Berlin-Lichtenberg	316076495487717	Facebook	m18_24	male (18-24)	DE	Germany	2	1	12602	2520	130	24
+Fridays For Future Münster	Fridays for Future	1212444868905059	Facebook	m18_24	male (18-24)	DE	Germany	4	1	12575	5949	79	11
+Grüne.Stadt.Erfurt	Marcus Neumann 	1443838832527925	Facebook	m18_24	male (18-24)	DE	Germany	16	1	12092	2402	140	0
+Lars Boettger	Lars Boettger	1150644375098670	Facebook	m18_24	male (18-24)	DE	Germany	4	1	11635	2310	108	17
+CDU Neustadt an der Weinstraße	CDU Kreisverband Neustadt	139619772887950	Facebook	m18_24	male (18-24)	DE	Germany	46	1	11581	1157	688	0
+SPD Ortsverein Leipzig Mitte	SPD Leipzig-Mitte	160822027305985	Facebook	m18_24	male (18-24)	DE	Germany	7	1	11577	2977	92	0
+Enrico Kreft	SPD Schleswig-Holstein	609789889035057	Facebook	m18_24	male (18-24)	DE	Germany	11	1	11523	2571	238	0
+Oliver Luksic, MdB	FDP Saar	52888328642	Facebook	m18_24	male (18-24)	DE	Germany	2	1	11394	2278	62	10
+Thomas Sattelberger	Thomas Sattelberger	1714244788796089	Facebook	m18_24	male (18-24)	DE	Germany	1	1	11344	2268	22	0
+Quorum	European Exchange	3138731056152846	Facebook	m18_24	male (18-24)	DE	Germany	3	1	11063	2357	30	0
+Carolin Henseler	Carolin Nicola Henseler	201743000578232	Facebook	m18_24	male (18-24)	DE	Germany	2	1	11003	5459	274	54
+Jusos Düren	SPD Kreisverband Düren Jülich	421504711241546	Facebook	m18_24	male (18-24)	DE	Germany	6	1	10913	4038	169	0
+Adenauer Campus	Konrad-Adenauer-Stiftung	225123097665916	Facebook	m18_24	male (18-24)	DE	Germany	44	1	10817	2155	467	0
+SPD-Landesverband Mecklenburg-Vorpommern	SPD MV	140300602673724	Facebook	m18_24	male (18-24)	DE	Germany	4	1	10785	2610	111	19
+Karsten Klein	Karsten Klein	120519827980254	Facebook	m18_24	male (18-24)	DE	Germany	8	1	10713	4189	178	0
+Chris Müller-von Wrycz Rekowski	Chris Müller-von Wrycz Rekowski	1929242084072487	Facebook	m18_24	male (18-24)	DE	Germany	27	1	10705	2033	432	0
+Kampf dem Gemurkse	Freie Bürger für Baden-Baden e.V.	217852272501802	Facebook	m18_24	male (18-24)	DE	Germany	5	1	10695	2545	109	17
+SPD Kreisverband Pinneberg	SPD Kreisverband Pinneberg	123555224338965	Facebook	m18_24	male (18-24)	DE	Germany	5	1	10672	3425	55	0
+SPD Neubrandenburg	SPD Stadt Neubrandenburg	1723728737910446	Facebook	m18_24	male (18-24)	DE	Germany	2	1	10628	2125	66	11
+Steffen Beckmann AfD	Steffen Beckmann	2242760109144391	Facebook	m18_24	male (18-24)	DE	Germany	6	1	10558	2453	87	0
+CDU Nordbaden	CDU Nordbaden	498687433540495	Facebook	m18_24	male (18-24)	DE	Germany	2	1	10550	2621	34	0
+Konrad-Adenauer-Stiftung	Konrad-Adenauer-Stiftung	44511549119	Facebook	m18_24	male (18-24)	DE	Germany	5	1	10463	2092	90	0
+Alternative für Deutschland - Kreisverband Mittelsachsen	AfD Mittelsachsen	495527383854650	Facebook	m18_24	male (18-24)	DE	Germany	6	1	10205	2034	116	17
+Grüne Jugend Mannheim	GRÜNE JUGEND Mannheim	240115382692520	Facebook	m18_24	male (18-24)	DE	Germany	18	1	10122	2745	263	0
+LOVE- Dmitry Kuzmin		1431285403818547	Facebook	m18_24	male (18-24)	DE	Germany	1	1	10013	2002	99	20
+Bündnis 90/ Die Grünen KV Biberach an der Riß	BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	500419146648551	Facebook	m18_24	male (18-24)	DE	Germany	4	1	9998	2727	50	0
+Apostolos Kelemidis		705234549505018	Facebook	m18_24	male (18-24)	DE	Germany	1	1	9834	1966	196	98
+Jusos Hamburg Nord	SPD Hamburg-Nord	84340911950	Facebook	m18_24	male (18-24)	DE	Germany	1	1	9725	1945	19	0
+Alexander Kotz	Alexander Kotz	2390058227950123	Facebook	m18_24	male (18-24)	DE	Germany	1	1	9710	1942	96	19
+Mehr Wirtschaft wagen	Arbeitgeberverband Gesamtmetall	1805769829749530	Facebook	m18_24	male (18-24)	DE	Germany	8	1	9706	1832	130	0
+Junges Freiburg	Junges Freiburg e.V.	244355055724023	Facebook	m18_24	male (18-24)	DE	Germany	11	1	9558	3071	126	0
+Kommunalwahl Pforzheim 2019	Andreas Bonnet	392366071366256	Facebook	m18_24	male (18-24)	DE	Germany	3	1	9522	2105	42	0
+CDU Darmstadt	CDU Kreisverband Darmstadt	192894677394511	Facebook	m18_24	male (18-24)	DE	Germany	8	1	9365	1809	82	0
+Sophie Koch	SPD Sachsen	251373565543211	Facebook	m18_24	male (18-24)	DE	Germany	2	1	9220	1844	28	0
+SPD Nürnberg	SPD Nürnberg	144527089488	Facebook	m18_24	male (18-24)	DE	Germany	5	1	9199	2308	71	0
+Lena Otto SPD	SPD Hamburg-Nord	273723356885700	Facebook	m18_24	male (18-24)	DE	Germany	1	1	8863	1772	17	0
+Bündnis 90 / Die Grünen Leipzig	BÜNDNIS 90/DIE GRÜNEN Leipzig	117194528903	Facebook	m18_24	male (18-24)	DE	Germany	25	1	8747	2012	319	16
+FDP Wartburgkreis-Eisenach	FDP-Kreisverband Wartburgkreis-Eisenach	271352156228399	Facebook	m18_24	male (18-24)	DE	Germany	31	1	8671	1509	384	0
+Roland Theis	CDU Saar	792165517819607	Facebook	m18_24	male (18-24)	DE	Germany	4	1	8653	2309	86	13
+Junge Union Hessen	Junge Union Hessen	219942005150	Facebook	m18_24	male (18-24)	DE	Germany	12	1	8652	2843	177	0
+DIE LINKE. Mannheim	Die Linke Kreisverband Mannheim	138048962930334	Facebook	m18_24	male (18-24)	DE	Germany	7	1	8630	1689	96	0
+Bündnis 90/Die Grünen Kreisverband Rostock	BÜNDNIS 90/DIE GRÜNEN, Kreisverband Rostock	221735951207012	Facebook	m18_24	male (18-24)	DE	Germany	10	1	8596	1878	163	10
+FDP Rostock	FDP-Kreisverband Rostock	750220438339711	Facebook	m18_24	male (18-24)	DE	Germany	3	1	8587	1717	44	0
+Karsten Hilse	Karsten Hilse 	358099231236311	Facebook	m18_24	male (18-24)	DE	Germany	4	1	8521	1681	33	0
+Jusos Tübingen	Fabian Sten Köppen	107634655928827	Facebook	m18_24	male (18-24)	DE	Germany	2	1	8395	1679	27	0
+Volker Bouffier	CDU Hessen	53810387822	Facebook	m18_24	male (18-24)	DE	Germany	1	1	8382	1676	83	16
+Bündnis 90/Die Grünen Ulm	GRÜNE Ulm	642283985808604	Facebook	m18_24	male (18-24)	DE	Germany	3	1	8209	1595	102	15
+Bündnis 90/Die Grünen Freiburg	Bündnis 90/Die Grünen Freiburg	302077876517632	Facebook	m18_24	male (18-24)	DE	Germany	1	1	8128	1625	81	16
+Alternative für Deutschland Mayen-Koblenz	Alternative für Deutschland Mayen-Koblenz	160882790765796	Facebook	m18_24	male (18-24)	DE	Germany	27	1	8049	1481	218	0
+Kleiner Fünf	Kleiner Fünf	1768812013390432	Facebook	m18_24	male (18-24)	DE	Germany	4	1	7672	1776	76	13
+Grüne Jena	Wolfgang Volkmer	367774396672401	Facebook	m18_24	male (18-24)	DE	Germany	3	1	7639	1528	93	11
+DIE LINKE. Hessen	DIE LINKE. Hessen	558754197477014	Facebook	m18_24	male (18-24)	DE	Germany	1	1	7487	3743	74	37
+FDP Hamburg	FDP Hamburg	189184071108491	Facebook	m18_24	male (18-24)	DE	Germany	17	1	7474	1720	255	12
+Timo Fischer	Timo Fischer	2150569171631747	Facebook	m18_24	male (18-24)	DE	Germany	2	1	7473	1749	21	0
+Schule ohne Rassismus - Schule mit Courage Bundeskoordination	Schule ohne Rassismus - Schule mit Courage Bundeskoordination	244755398898581	Facebook	m18_24	male (18-24)	DE	Germany	1	1	7461	1492	14	0
+FDP Worms	FDP Worms	423656078410758	Facebook	m18_24	male (18-24)	DE	Germany	2	1	7455	1491	26	0
+enorm Magazin	GoodJobs	273110452731	Facebook	m18_24	male (18-24)	DE	Germany	2	1	7394	1479	23	0
+FDP Nürnberg	Holger Christofer Donhauser	173138849399254	Facebook	m18_24	male (18-24)	DE	Germany	3	1	7334	1425	43	0
+CDU Altona	CDU Kreisverband Altona/Elbvororte	619070778260499	Facebook	m18_24	male (18-24)	DE	Germany	5	1	7313	1937	118	8
+Fridays for Future Deutschland	Together for Future e.V. 	2010920999000602	Facebook	m18_24	male (18-24)	DE	Germany	14	1	7270	625	472	0
+Jens Bennarend 4 Europe	Jens Bennarend 	607719632994986	Facebook	m18_24	male (18-24)	DE	Germany	32	1	7185	730	422	0
+AfD Stuttgart	AfD Stuttgart	1224202144262985	Facebook	m18_24	male (18-24)	DE	Germany	1	1	7155	1431	14	0
+GRÜNE JUGEND Hamburg	GRÜNE JUGEND Hamburg	202668476436727	Facebook	m18_24	male (18-24)	DE	Germany	2	1	7150	1430	19	0
+Bündnis 90/Die Grünen Kreisverband Sigmaringen		1054027864699072	Facebook	m18_24	male (18-24)	DE	Germany	2	1	7122	1377	91	13
+Marie-Agnes Strack-Zimmermann	Marie-Agnes Strack-Zimmermann	782677895144628	Facebook	m18_24	male (18-24)	DE	Germany	3	1	7105	1400	83	13
+UDO VOIGT für Deutschland in Europa	UDO VOIGT für Deutschland in Europa	598011190253742	Facebook	m18_24	male (18-24)	DE	Germany	1	1	6899	3449	68	34
+Andreas von Brühl	Andreas Sebastian Graf Von Brühl 	227743204230314	Facebook	m18_24	male (18-24)	DE	Germany	6	1	6897	1313	123	8
+Junge Liberale JuLis Berlin	Junge Liberale Berlin	190961277588195	Facebook	m18_24	male (18-24)	DE	Germany	4	1	6896	1305	55	0
+Grüne Frankenthal	Bündnis 90/Die Grünen Kreisverband Frankenthal	1890824571150959	Facebook	m18_24	male (18-24)	DE	Germany	11	1	6890	1206	204	0
+NPD Kreisverband Wartburgkreis	NPD Kreisverband Wartburgkreis	275153395915489	Facebook	m18_24	male (18-24)	DE	Germany	1	1	6870	1374	68	13
+Landtag Rheinland-Pfalz	Landtag Rheinland-Pfalz	1339267256128796	Facebook	m18_24	male (18-24)	DE	Germany	1	1	6848	1369	68	13
+Junge Union Mannheim	Junge Union Mannheim	403423809690190	Facebook	m18_24	male (18-24)	DE	Germany	18	1	6828	1091	244	0
+Bündnis 90/Die Grünen Anhalt-Bitterfeld	BÜNDNIS 90/DIE GRÜNEN Kreisverband Anhalt-Bitterfeld	409153932473503	Facebook	m18_24	male (18-24)	DE	Germany	4	1	6766	1748	96	16
+SPD Magdeburg	SPD Magdeburg	130938260290333	Facebook	m18_24	male (18-24)	DE	Germany	1	1	6753	1350	67	13
+IG BCE Jugend Nordrhein	IG BCE Landesbezirk Nordrhein	124363604315424	Facebook	m18_24	male (18-24)	DE	Germany	6	1	6705	3352	334	67
+Roland Heintze	CDU Landesverband Hamburg	751240091655625	Facebook	m18_24	male (18-24)	DE	Germany	6	1	6642	3199	69	0
+FDP Filderstadt	Freie Demokraten Filderstadt	1470761319809502	Facebook	m18_24	male (18-24)	DE	Germany	2	1	6550	1708	23	0
+AfD Bezirk Hamburg-Eimsbüttel	Harald Bernd Weiland	1563759740356396	Facebook	m18_24	male (18-24)	DE	Germany	2	1	6314	1776	62	9
+FDP Pforzheim	Roland Hans Papesch	1415113178755251	Facebook	m18_24	male (18-24)	DE	Germany	2	1	6284	1226	27	0
+Michael Kost	Michael Kost	347176005913186	Facebook	m18_24	male (18-24)	DE	Germany	1	1	6273	1254	62	12
+CDU Stuttgart	CDU-Kreisverband Stuttgart	98276387039	Facebook	m18_24	male (18-24)	DE	Germany	1	1	6249	1249	62	12
+Alternative für Deutschland AfD - Koblenz - Ratsfraktion und Kreisverband	AfD Rheinland-Pfalz	334979833311527	Facebook	m18_24	male (18-24)	DE	Germany	10	1	6217	1578	112	0
+Volker Arnold - Bezirksbürgermeisterkandidat Saarbrücken-West	CDU Gersweiler-Ottenhausen	1026044587590192	Facebook	m18_24	male (18-24)	DE	Germany	1	1	6162	1232	12	0
+Thüringer Landtag	Thüringer Landtag	118252978672037	Facebook	m18_24	male (18-24)	DE	Germany	1	1	6100	1220	60	12
+Grüne Hannover	BÜNDNIS 90/DIE GRÜNEN Stadtverband Hannover	387862064617610	Facebook	m18_24	male (18-24)	DE	Germany	1	1	5990	1198	59	11
+FDP Heusweiler	FDP Heusweiler	224740450901646	Facebook	m18_24	male (18-24)	DE	Germany	8	1	5939	1875	146	10
+Anna Deparnay-Grunenberg für Europa	BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	1819425944973592	Facebook	m18_24	male (18-24)	DE	Germany	3	1	5921	2839	52	5
+Dipl.-Ing. Bärbel Sehy	Thanh-Long Vo 	286228292328742	Facebook	m18_24	male (18-24)	DE	Germany	1	1	5867	1173	58	11
+Jungbayernbund e.V.	#DieJungeBAYERNPARTEI	205315122916512	Facebook	m18_24	male (18-24)	DE	Germany	10	1	5796	1503	176	0
+Lukas Bimmerle	Lukas Bimmerle	673326593122106	Facebook	m18_24	male (18-24)	DE	Germany	3	1	5747	2517	120	0
+Benjamin Adam	Benjamin Adam	1824840387612176	Facebook	m18_24	male (18-24)	DE	Germany	8	1	5695	1432	103	0
+Danke, Freihandel.	VDMA	226651401514704	Facebook	m18_24	male (18-24)	DE	Germany	14	1	5695	1776	150	0
+Michael Bloss	Michael Bloss	587477178350898	Facebook	m18_24	male (18-24)	DE	Germany	2	1	5689	1137	13	0
+Bündnis 90/Die Grünen in Chemnitz	Bündnis90/ Die Grünen	179895928691877	Facebook	m18_24	male (18-24)	DE	Germany	10	1	5675	2177	77	0
+Dietmar Köster, MEP	Dr. Dietmar Köster	374607046013682	Facebook	m18_24	male (18-24)	DE	Germany	1	1	5589	1117	11	0
+CDU Hoyerswerda	Gerd Oliver Heinze	131251370415005	Facebook	m18_24	male (18-24)	DE	Germany	1	1	5525	1105	10	0
+BIG Partei Deutschland	BIG Partei Deutschland	353378298097249	Facebook	m18_24	male (18-24)	DE	Germany	5	1	5441	1069	79	7
+Villa Lessing	Villa Lessing - Liberale Stiftung Saar e.V.	124587084403413	Facebook	m18_24	male (18-24)	DE	Germany	2	1	5422	1065	20	0
+Grüne Stuttgart	BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	458240880867678	Facebook	m18_24	male (18-24)	DE	Germany	5	1	5365	1248	62	8
+Pascal Badziong	Pascal Badziong	1414539822143557	Facebook	m18_24	male (18-24)	DE	Germany	8	1	5319	885	176	0
+SPD Kaufbeuren	Martin Valdes Stauber	422797398290868	Facebook	m18_24	male (18-24)	DE	Germany	2	1	5258	2629	52	0
+Dr. Horst Baier	Dr. Horst Baier	220262751399177	Facebook	m18_24	male (18-24)	DE	Germany	14	1	5176	909	152	0
+SPD Dresden-West	SPD Ortsverein Dresden-West	164123927360388	Facebook	m18_24	male (18-24)	DE	Germany	6	1	5083	987	112	0
+Bundesministerium für Arbeit und Soziales	Bundesministerium für Arbeit und Soziales	108268845888673	Facebook	m18_24	male (18-24)	DE	Germany	1	1	5077	1015	50	10
+Läuft bei Dir!	Baden-Württemberg Stiftung gGmbH	331383090816092	Facebook	m18_24	male (18-24)	DE	Germany	4	1	5056	1011	36	0
+mymuesli		20393019390	Facebook	m18_24	male (18-24)	DE	Germany	1	1	4932	986	9	0
+Grüne Rhein-Pfalz-Kreis	Maurice Kuhn 	1873999882830833	Facebook	m18_24	male (18-24)	DE	Germany	18	1	4883	832	153	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	m18_24	male (18-24)	DE	Germany	1	1	4877	975	48	9
 ver.di	la red	252085013582	Facebook	m18_24	male (18-24)	DE	Germany	1	1	4827	2413	48	24
+Jusos Pinneberg	Jusos Pinneberg	68141565265	Facebook	m18_24	male (18-24)	DE	Germany	3	1	4790	2126	56	0
+Daniel Caspary	Daniel Caspary	1864576667103855	Facebook	m18_24	male (18-24)	DE	Germany	1	1	4750	950	47	9
+Rheinland-Pfalz	Rheinland-Pfalz	189617674514883	Facebook	m18_24	male (18-24)	DE	Germany	1	1	4738	947	47	9
+CDU Chemnitz	Renzo Di Leo	425074144214888	Facebook	m18_24	male (18-24)	DE	Germany	1	1	4687	937	46	9
+Hans Otto Gerlach	Hans-Otto Gerlach	2381809058770304	Facebook	m18_24	male (18-24)	DE	Germany	1	1	4663	932	9	0
+Jusos Nienburg	SPD-Unterbezirk Nienburg	253819871459590	Facebook	m18_24	male (18-24)	DE	Germany	9	1	4654	1535	77	0
+Thomas L. Kemmerich	FDP Thüringen	657846797659513	Facebook	m18_24	male (18-24)	DE	Germany	7	1	4538	1272	87	0
+BÜNDNIS 90/DIE GRÜNEN - Salzlandkreis	Andreas Gernegroß	235038956533510	Facebook	m18_24	male (18-24)	DE	Germany	18	1	4501	676	177	0
 Grüne Jugend Baden-Württemberg	GRÜNE JUGEND Baden-Württemberg	139278729445697	Facebook	m18_24	male (18-24)	DE	Germany	6	1	4444	775	133	0
-FDP Bremen	FDP Bremen	152934608113175	Facebook	m18_24	male (18-24)	DE	Germany	10	1	4335	672	163	0
-FDP Bayern	FDP Bayern	350558562311	Facebook	m18_24	male (18-24)	DE	Germany	1	1	4324	864	8	0
-SPD	SPD	47930567748	Facebook	m18_24	male (18-24)	DE	Germany	10	1	4020	381	247	0
-Konrad-Adenauer-Stiftung	Konrad-Adenauer-Stiftung	44511549119	Facebook	m18_24	male (18-24)	DE	Germany	3	1	3926	785	77	0
-FDP Fraktion Bundestag	Fraktion der Freien Demokraten	341486659645594	Facebook	m18_24	male (18-24)	DE	Germany	4	1	3544	919	80	0
-Ralf Lottermann - Für den Wormser Stadtrat	Ralf Lottermann	364491737725008	Facebook	m18_24	male (18-24)	DE	Germany	3	1	3458	1571	39	0
-Grüne Jugend Freiburg	Grüne Jugend Freiburg	258738124139670	Facebook	m18_24	male (18-24)	DE	Germany	22	1	2888	129	234	0
-Phil Hackemann	Philip Fritz Hermann Hackemann	234193444126795	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2694	538	53	0
-SPD Wandsbek	Andre Schneider	182588003457	Facebook	m18_24	male (18-24)	DE	Germany	18	1	2654	148	204	0
-BÜNDNIS 90/DIE GRÜNEN Sachsen-Anhalt	BÜNDNIS 90/DIE GRÜNEN Sachsen-Anhalt	106637900016	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2535	507	5	0
-LiSL Deutschland	Michael Kauch	223782884301813	Facebook	m18_24	male (18-24)	DE	Germany	3	1	2504	421	81	0
-Barbara Meyer-Gluche	B90/Grüne Saarbrücken	183342321839259	Facebook	m18_24	male (18-24)	DE	Germany	5	1	2498	663	52	0
-DIE LINKE	DIE LINKE	47694585682	Facebook	m18_24	male (18-24)	DE	Germany	4	1	2474	608	32	2
-GRÜNE Bonn	BÜNDNIS 90 / DIE GRÜNEN Kreisverband Bonn	337333856328097	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2444	488	4	0
-Jusos Schleswig-Holstein	Jusos Schleswig-Holstein	185490505413	Facebook	m18_24	male (18-24)	DE	Germany	2	1	2308	399	70	0
-CDU Hamburg-Nord	CDU Hamburg-Nord	685221951523894	Facebook	m18_24	male (18-24)	DE	Germany	17	1	2292	0	227	0
-CSU (Christlich-Soziale Union)	CSU (Christlich-Soziale Union)	81386795687	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2268	1134	22	0
-Junge Union Deutschlands	Junge Union Deutschlands	46098347293	Facebook	m18_24	male (18-24)	DE	Germany	2	1	2268	353	84	0
-Sven Giegold	Sven Giegold	1391306014465513	Facebook	m18_24	male (18-24)	DE	Germany	3	1	2090	1045	20	0
-Grüne Mannheim	BÜNDNIS 90/DIE GRÜNEN Kreisverband Mannheim	123290727868673	Facebook	m18_24	male (18-24)	DE	Germany	5	1	2076	759	38	0
-JU-Kreisverband Deggendorf	Stefan Johann Zitzelsberger	377562525780294	Facebook	m18_24	male (18-24)	DE	Germany	4	1	2035	333	69	0
-MENSCHLICHE WELT	Menschliche Welt	245758938922923	Facebook	m18_24	male (18-24)	DE	Germany	6	1	1998	404	20	2
-FDP Wahlkampf	Philippe André Westenfelder	393722064802394	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1995	399	39	0
-FDP Kreis Soest	Tim Philip Behrendt	703408639818094	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1920	384	38	0
-Bündnis 90/Die Grünen Hamm	Beatrice Paulsen	327967467285486	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1891	945	18	0
-Jusos Hamburg	SPD Hamburg	114266450799	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1763	352	34	0
-Enrico Kreft	SPD Schleswig-Holstein	609789889035057	Facebook	m18_24	male (18-24)	DE	Germany	4	1	1746	281	61	0
-FDP Karlsruhe-Stadt	FDP Kreisverband Karlsruhe-Stadt	342930772424635	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1713	295	52	0
-Partei Demokratie Direkt	Lukas Michael Knecht	289988518287493	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1601	320	3	0
-FDP Bad Hersfeld	FDP Bad Hersfeld	208377339290284	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1580	316	31	0
-FDP Dortmund	Michael Kauch	423911207652417	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1566	271	47	0
-Landtag von Baden-Württemberg	Landtag von Baden-Württemberg	2015022955380034	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1479	295	29	0
-Freie Demokraten Marburg-Biedenkopf	FDP Marburg-Biedenkopf	1809612912702100	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1477	257	44	0
-Pascal Badziong	Pascal Badziong	1414539822143557	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1476	233	53	0
-MediaMarkt Papenburg Leer	MediaMarkt Papenburg Leer	188696547813120	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1456	291	28	0
-BÜNDNIS 90/DIE GRÜNEN Kreisverband Neckar-Odenwald	Bündnis 90/Die Grünen, Kreisverband Neckar-Odenwald	546103272077045	Facebook	m18_24	male (18-24)	DE	Germany	8	1	1451	0	143	0
-FDP Kreisverband Bonn	FDP Kreisverband Bonn	215346935169485	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1377	193	59	0
-VoteEuropa Deutschland	Verena Katharina Riedmiller	628787484249066	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1348	269	26	0
-Junge Union Aurich	CDU Stadtverband Aurich und Junge Union Aurich	204261220053348	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1330	665	13	0
-SPD Kreisverband Pinneberg	SPD Kreisverband Pinneberg	123555224338965	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1280	640	12	0
-SPD Sachsen	SPD Sachsen	50169278122	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1260	244	27	0
-Junge Union Main-Taunus	Junge Union Main-Taunus	344008438956618	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1253	250	24	0
-CDU in Niedersachsen	CDU in Niedersachsen	109460782417586	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1191	595	11	0
-Bündnis 90/Die Grünen Dortmund	Bündnis 90/Die Grünen Kreisverband Dortmund	1760904514159207	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1105	221	21	0
-CDU Ostprignitz-Ruppin	CDU OPR	226018367465596	Facebook	m18_24	male (18-24)	DE	Germany	7	1	1066	0	105	0
-CDU Wäschenbeuren	CDU Wäschenbeuren	642876995786514	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1058	0	104	0
-Social Media Ads	Alexander Dietrich	561953460655717	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1041	208	20	0
-BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	108655285842827	Facebook	m18_24	male (18-24)	DE	Germany	6	1	1037	80	70	0
-FDP Filderstadt	Freie Demokraten Filderstadt	1470761319809502	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1026	205	20	0
-BÜNDNIS 90/DIE GRÜNEN Sachsen	BÜNDNIS 90/DIE GRÜNEN	86337829141	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1004	201	19	0
-Marie-Agnes Strack-Zimmermann	Marie-Agnes Strack-Zimmermann	782677895144628	Facebook	m18_24	male (18-24)	DE	Germany	3	1	973	129	45	0
-SPD Plauen	SPD Plauen	289178329438	Facebook	m18_24	male (18-24)	DE	Germany	4	1	931	121	44	0
-FÜR Karlsruhe	FÜR Karlsruhe - Politik mit christlicher Herzenshaltung e.V.	260790977428638	Facebook	m18_24	male (18-24)	DE	Germany	4	1	924	104	50	0
-European Commission	European Commission	107898832590939	Facebook	m18_24	male (18-24)	DE	Germany	2	1	923	461	2	0
-Adenauer Campus	Konrad-Adenauer-Stiftung	225123097665916	Facebook	m18_24	male (18-24)	DE	Germany	8	1	887	82	55	0
-FDP Friedrichshain-Kreuzberg	Lenhart Frank	173450889377945	Facebook	m18_24	male (18-24)	DE	Germany	9	1	870	0	86	0
-CDU Altona	CDU Kreisverband Altona/Elbvororte	619070778260499	Facebook	m18_24	male (18-24)	DE	Germany	1	1	836	167	16	0
-FDP Rostock	FDP-Kreisverband Rostock	750220438339711	Facebook	m18_24	male (18-24)	DE	Germany	1	1	820	164	16	0
-SPD Neckarsulm	SPD Neckarsulm	140119866067404	Facebook	m18_24	male (18-24)	DE	Germany	3	1	789	114	32	0
-Jusos Pinneberg	Jusos Pinneberg	68141565265	Facebook	m18_24	male (18-24)	DE	Germany	1	1	783	156	15	0
-GRÜNE im Landkreis FREISING	Bündnis 90/Die Grünen Kreisverband Freising	419905770448	Facebook	m18_24	male (18-24)	DE	Germany	3	1	752	105	32	0
-Grüne.Stadt.Erfurt	Marcus Neumann 	1443838832527925	Facebook	m18_24	male (18-24)	DE	Germany	2	1	734	146	14	0
-Constanze Krehl, MdEP	Ayla Haid 	370525506320360	Facebook	m18_24	male (18-24)	DE	Germany	1	1	705	141	13	0
-AfD Stuttgart	AfD Stuttgart	1224202144262985	Facebook	m18_24	male (18-24)	DE	Germany	1	1	691	138	13	0
-BÜNDNIS 90/DIE GRÜNEN Schleswig-Holstein	BÜNDNIS 90/DIE GRÜNEN Schleswig-Holstein	1608463192727453	Facebook	m18_24	male (18-24)	DE	Germany	1	1	676	135	13	0
-SPD Dresden-West	SPD Ortsverein Dresden-West	164123927360388	Facebook	m18_24	male (18-24)	DE	Germany	1	1	647	129	12	0
-Alternative für Deutschland Mayen-Koblenz	Alternative für Deutschland Mayen-Koblenz	160882790765796	Facebook	m18_24	male (18-24)	DE	Germany	8	1	639	4	61	0
-DIE LINKE. Pforzheim/Enzkreis	DIE LINKE. Kreisverband Pforzheim/Enzkreis	1415204915390057	Facebook	m18_24	male (18-24)	DE	Germany	7	1	638	0	63	0
-CDU Brohltal	CDU Brohltal	956080184452111	Facebook	m18_24	male (18-24)	DE	Germany	5	1	635	0	62	0
-BZS 23 - Bündnis Zukunft Stuttgart 23	Marc Fuchs 	225413838047902	Facebook	m18_24	male (18-24)	DE	Germany	3	1	600	96	21	0
-Piratenpartei Ansbach Weißenburg-Gunzenhausen	Piratenpartei Ansbach/Weißenburg-Gunzenhausen	113339232140512	Facebook	m18_24	male (18-24)	DE	Germany	2	1	597	0	59	0
-Linke Kinonacht	Andreas Böttger	1419627234952559	Facebook	m18_24	male (18-24)	DE	Germany	5	1	597	94	21	0
-Steffen Beckmann AfD	Steffen Beckmann	2242760109144391	Facebook	m18_24	male (18-24)	DE	Germany	1	1	596	119	11	0
-Grüne Jena	Wolfgang Volkmer	367774396672401	Facebook	m18_24	male (18-24)	DE	Germany	1	1	580	116	11	0
-Alternative für Deutschland AfD - Koblenz - Ratsfraktion und Kreisverband	AfD Rheinland-Pfalz	334979833311527	Facebook	m18_24	male (18-24)	DE	Germany	5	1	573	0	56	0
-SPD-Bundestagsfraktion	SPD-Bundestagsfraktion	144380008933707	Facebook	m18_24	male (18-24)	DE	Germany	1	1	572	114	1	0
-Bündnis 90/Die Grünen Fürth	Bündnis 90/Die Grünen Fürth	138828612811001	Facebook	m18_24	male (18-24)	DE	Germany	1	1	569	284	5	0
-BÜNDNIS 90/DIE GRÜNEN - Salzlandkreis	Andreas Gernegroß	235038956533510	Facebook	m18_24	male (18-24)	DE	Germany	4	1	543	0	53	0
-Jusos Püttlingen	Lars Klein	120694711361929	Facebook	m18_24	male (18-24)	DE	Germany	1	1	532	106	10	0
-FDP Worms	FDP Worms	423656078410758	Facebook	m18_24	male (18-24)	DE	Germany	1	1	531	106	10	0
-CDU Rhein-Hunsrück	CDU Rhein-Hunsrück	253060498157297	Facebook	m18_24	male (18-24)	DE	Germany	1	1	527	105	10	0
-CDU Cottbus	CDU Cottbus	146947498681487	Facebook	m18_24	male (18-24)	DE	Germany	2	1	522	80	19	0
-FDP Bad Oeynhausen	FDP Bad Oeynhausen	304263959992118	Facebook	m18_24	male (18-24)	DE	Germany	1	1	508	101	10	0
-Jonas Bruns	Jonas Bruns	2138908233101805	Facebook	m18_24	male (18-24)	DE	Germany	2	1	507	0	50	0
-BÜNDNIS 90/DIE GRÜNEN Magdeburg	BÜNDNIS 90/DIE GRÜNEN Magdeburg	83113756872	Facebook	m18_24	male (18-24)	DE	Germany	2	1	496	88	14	0
-DIE LINKE. Klingenberg	Peter Kroh	567171803775108	Facebook	m18_24	male (18-24)	DE	Germany	4	1	487	0	48	0
-Hans Otto Gerlach	Hans-Otto Gerlach	2381809058770304	Facebook	m18_24	male (18-24)	DE	Germany	1	1	460	92	9	0
-AStA Uni Köln	AStA Uni Köln	175396302507817	Facebook	m18_24	male (18-24)	DE	Germany	1	1	431	86	8	0
+Clarisse Höhle	FDP Düsseldorf	2204600819599675	Facebook	m18_24	male (18-24)	DE	Germany	1	1	4413	882	8	0
+Freie Demokraten Marburg-Biedenkopf	FDP Marburg-Biedenkopf	1809612912702100	Facebook	m18_24	male (18-24)	DE	Germany	6	1	4412	882	87	0
+SPD-Bezirk Hessen-Süd	SPD-Bezirk Hessen-Süd	1333107056727044	Facebook	m18_24	male (18-24)	DE	Germany	1	1	4406	881	43	8
+Bündnis 90 / Die Grünen Sindelfingen	Bündnis 90/Die GRÜNEN Ortsverband Sindelfingen	1416336798625110	Facebook	m18_24	male (18-24)	DE	Germany	11	1	4392	837	103	0
+Knut Fleckenstein	SPD Hamburg	194900680538033	Facebook	m18_24	male (18-24)	DE	Germany	1	1	4372	874	8	0
+Markenverband e.V.	Markenverband e.V.	482176671952628	Facebook	m18_24	male (18-24)	DE	Germany	10	1	4336	820	104	0
+André Liebscher Stadtratskandidat	Andre Liebscher	347337865863173	Facebook	m18_24	male (18-24)	DE	Germany	11	1	4206	825	89	0
+Kommunalwahl Monecke	Matthias Johannes Monecke	436544563779273	Facebook	m18_24	male (18-24)	DE	Germany	1	1	4205	841	41	8
+BVB / Freie Wähler		379808979250786	Facebook	m18_24	male (18-24)	DE	Germany	1	1	4149	829	8	0
+WerteInitiative. jüdisch-deutsche Positionen		1906946382955447	Facebook	m18_24	male (18-24)	DE	Germany	1	1	4143	828	41	8
+SPD Rheinland-Pfalz	SPD Rheinland-Pfalz	330165526782	Facebook	m18_24	male (18-24)	DE	Germany	2	1	4116	1091	41	6
+Franz Knoppe - Grünes Chemnitz	Franz Albert Knoppe	679463435501295	Facebook	m18_24	male (18-24)	DE	Germany	6	1	4109	1085	99	0
+Junge Union Main-Taunus	Junge Union Main-Taunus	344008438956618	Facebook	m18_24	male (18-24)	DE	Germany	3	1	4102	820	81	0
+SPD Chemnitz	Goliat Weismann	403979683085592	Facebook	m18_24	male (18-24)	DE	Germany	5	1	4098	802	55	6
+Eva Lux - Für Leverkusen im Landtag	Josefa Maria Lux	375763085829863	Facebook	m18_24	male (18-24)	DE	Germany	4	1	4089	2044	40	0
+Manfred Bachmayer	Manfred Bachmayer	205109343006607	Facebook	m18_24	male (18-24)	DE	Germany	4	1	4030	740	106	0
+Bündnis 90/Die Grünen Tempelhof-Schöneberg	Bündnis90/Die Grünen (Tempelhof-Schöneberg)	241204999236195	Facebook	m18_24	male (18-24)	DE	Germany	2	1	4018	803	44	7
+Johannes Vogel	Johannes Vogel	486203081469505	Facebook	m18_24	male (18-24)	DE	Germany	6	1	4009	971	98	0
+GoodJobs	GoodJobs	1004883576238809	Facebook	m18_24	male (18-24)	DE	Germany	17	1	3970	963	36	0
+CDU Riegelsberg	Dennis Detzler	113986368653004	Facebook	m18_24	male (18-24)	DE	Germany	3	1	3928	785	45	6
+CDU Kreisverband Germersheim	CDU Kreisverband Germersheim	326178750781527	Facebook	m18_24	male (18-24)	DE	Germany	8	1	3891	737	93	0
+Stefan Berger	Stefan Berger	279808529194	Facebook	m18_24	male (18-24)	DE	Germany	5	1	3873	749	86	0
+CDU Rhein-Hunsrück	CDU Rhein-Hunsrück	253060498157297	Facebook	m18_24	male (18-24)	DE	Germany	6	1	3862	1103	65	0
+AfD Fraktion Darmstadt	AfD-Darmstadt-Fraktion	1287910941236600	Facebook	m18_24	male (18-24)	DE	Germany	9	1	3855	689	108	0
+CDU Cottbus	CDU Cottbus	146947498681487	Facebook	m18_24	male (18-24)	DE	Germany	6	1	3855	1640	47	0
+DIE LINKE. Pforzheim/Enzkreis	DIE LINKE. Kreisverband Pforzheim/Enzkreis	1415204915390057	Facebook	m18_24	male (18-24)	DE	Germany	29	1	3850	185	308	0
+Bündnis 90/Die Grünen Fürth	Bündnis 90/Die Grünen Fürth	138828612811001	Facebook	m18_24	male (18-24)	DE	Germany	1	1	3802	760	37	7
+Die PARTEI - KreisVerband Gera	die Partei Gera	151877538338425	Facebook	m18_24	male (18-24)	DE	Germany	4	1	3767	1076	63	0
+BFZ - Bündnis Fürstenwalder Zukunft e.V.	Bündnis Fürstenwalder Zukunft e.V.	578250582267178	Facebook	m18_24	male (18-24)	DE	Germany	5	1	3751	1024	65	0
+CDU Ostprignitz-Ruppin	CDU OPR	226018367465596	Facebook	m18_24	male (18-24)	DE	Germany	25	1	3664	146	304	0
+Jonas Bruns	Jonas Bruns	2138908233101805	Facebook	m18_24	male (18-24)	DE	Germany	3	1	3624	725	71	0
+Worms mit Herz und Hand	CDU Worms	2501298519941988	Facebook	m18_24	male (18-24)	DE	Germany	2	1	3613	722	40	6
+FDP Saarbrücken	FDP Saar	229943817145033	Facebook	m18_24	male (18-24)	DE	Germany	4	1	3594	1447	47	0
+AfD Rheinland-Pfalz	AfD Rheinland-Pfalz	162707793881819	Facebook	m18_24	male (18-24)	DE	Germany	20	1	3592	1011	62	0
+Alternative für Deutschland · AfD Köln	Alternative für Deutschland · AfD Köln	427215427374583	Facebook	m18_24	male (18-24)	DE	Germany	3	1	3565	1699	186	33
+Bündnis 90/Die Grünen Brandenburg	BÜNDNIS 90/DIE GRÜNEN	118849647749	Facebook	m18_24	male (18-24)	DE	Germany	1	1	3509	701	6	0
+Martin Dulig	SPD Sachsen	477257932385743	Facebook	m18_24	male (18-24)	DE	Germany	4	1	3506	1550	41	0
+AfD Magdeburg	AfD Magdeburg	235630759933135	Facebook	m18_24	male (18-24)	DE	Germany	17	1	3432	849	84	0
+Bündnis 90/Die Grünen KV Birkenfeld	Bündnis 90/Die Grünen Rheinland-Pfalz	302540573168231	Facebook	m18_24	male (18-24)	DE	Germany	1	1	3422	684	34	6
+AfD Trier	Hubertus Michael Frisch 	649172151796727	Facebook	m18_24	male (18-24)	DE	Germany	3	1	3421	1458	145	25
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	m18_24	male (18-24)	DE	Germany	3	1	3404	1474	7	2
+FDP Bad Oeynhausen	FDP Bad Oeynhausen	304263959992118	Facebook	m18_24	male (18-24)	DE	Germany	6	1	3373	626	85	0
+Anna Neuendorf	Anna Neuendorf	1903929446580550	Facebook	m18_24	male (18-24)	DE	Germany	5	1	3339	1155	50	0
+Freie Wähler Bundesvereinigung	Freie Wähler Bundesvereinigung	204327886385912	Facebook	m18_24	male (18-24)	DE	Germany	2	1	3287	1191	23	4
+Udo Bullmann	Udo Bullmann	68936775929	Facebook	m18_24	male (18-24)	DE	Germany	2	1	3258	1629	32	0
+Junge Union Kreis Altenkirchen	Justus Brühl	161397033931051	Facebook	m18_24	male (18-24)	DE	Germany	4	1	3150	525	103	0
+SPD Münster	SPD Münster	123350685201	Facebook	m18_24	male (18-24)	DE	Germany	5	1	3119	553	89	0
+Karl-Heinz Trick	Karl-Heinz Trick	233635857486664	Facebook	m18_24	male (18-24)	DE	Germany	3	1	3117	1284	39	0
+SPD Düsseldorf	SPD Düsseldorf	497328760287617	Facebook	m18_24	male (18-24)	DE	Germany	1	1	3077	615	6	0
+CDU Kreisverband Aachen Land	CDU Kreisverband Aachen Land	107652402721043	Facebook	m18_24	male (18-24)	DE	Germany	9	1	3027	790	95	0
+Piratenpartei Ansbach Weißenburg-Gunzenhausen	Piratenpartei Ansbach/Weißenburg-Gunzenhausen	113339232140512	Facebook	m18_24	male (18-24)	DE	Germany	8	1	3024	165	234	0
+AL/ Grüne Fraktion im Gemeinderat Tübingen	BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	139809536094692	Facebook	m18_24	male (18-24)	DE	Germany	2	1	2972	534	82	0
+SPD Prohlis	SPD Prohlis	235822069891697	Facebook	m18_24	male (18-24)	DE	Germany	5	1	2936	465	106	0
+DIE LINKE. Herne / Wanne-Eickel	Patrick Gawliczek	137962769704818	Facebook	m18_24	male (18-24)	DE	Germany	18	1	2907	239	193	0
+Petra Kammerevert	Petra Kammerevert	537122063027790	Facebook	m18_24	male (18-24)	DE	Germany	6	1	2903	769	73	0
+SPD Oberspreewald-Lausitz	Alexander Krüger	236968340096641	Facebook	m18_24	male (18-24)	DE	Germany	2	1	2900	826	12	0
+Jo Leinen	Jo Leinen	290293517710818	Facebook	m18_24	male (18-24)	DE	Germany	4	1	2886	577	57	0
+SPD Plauen	SPD Plauen	289178329438	Facebook	m18_24	male (18-24)	DE	Germany	21	1	2879	220	197	0
+GRÜNE im Landkreis FREISING	Bündnis 90/Die Grünen Kreisverband Freising	419905770448	Facebook	m18_24	male (18-24)	DE	Germany	3	1	2879	1397	36	0
+Christoph Czakalla & Team	Christoph Czakalla	409314986526442	Facebook	m18_24	male (18-24)	DE	Germany	3	1	2839	978	62	0
+München Rathaus		142979419267	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2839	567	56	28
+gimmemore.com		1766066203666578	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2836	1418	28	0
+CDU Burbach	Andreas Neumüller	565290846903673	Facebook	m18_24	male (18-24)	DE	Germany	6	1	2828	874	47	0
+GEW Saarland	GEW Saarland	223078917757220	Facebook	m18_24	male (18-24)	DE	Germany	4	1	2821	564	55	0
+Birgit Sippel	Birgit Sippel	319398621464329	Facebook	m18_24	male (18-24)	DE	Germany	6	1	2809	524	70	0
+Bündnis 90/Die Grünen Hamm	Beatrice Paulsen	327967467285486	Facebook	m18_24	male (18-24)	DE	Germany	3	1	2780	1123	36	0
+Andrea Nahles	SPD	161929783920704	Facebook	m18_24	male (18-24)	DE	Germany	2	1	2772	554	27	5
+Maximilian Mörseburg	Maximilian Mörseburg	2364772793592996	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2752	1376	27	0
+Rainer Keller	Rainer Keller	2324783081132960	Facebook	m18_24	male (18-24)	DE	Germany	14	1	2746	407	110	0
+Alexander Hannes	CSU Kreisverband Regen	287380818788155	Facebook	m18_24	male (18-24)	DE	Germany	5	1	2705	352	128	0
+FDP-Fraktion Bayern	FDP-Fraktion Bayern	637552983272437	Facebook	m18_24	male (18-24)	DE	Germany	3	1	2671	450	86	0
+Tobias B. Bacherle	Tobias B. Bacherle	623394177837445	Facebook	m18_24	male (18-24)	DE	Germany	8	1	2650	234	169	0
+SPD Bitterfeld-Wolfen	SPD Ortsverein Bitterfeld-Wolfen	131796416966341	Facebook	m18_24	male (18-24)	DE	Germany	15	1	2649	393	106	0
+Rotes GEsocks	Die LINKE Gelsenkirchen	243116922688156	Facebook	m18_24	male (18-24)	DE	Germany	2	1	2646	529	52	0
+SPD Leipzig-Südwest	SPD Leipzig-Südwest	748843655221499	Facebook	m18_24	male (18-24)	DE	Germany	5	1	2625	374	111	0
+FDP Freiburg	Sascha Fiek	248464662413	Facebook	m18_24	male (18-24)	DE	Germany	3	1	2616	513	55	0
+DIE LINKE. Köln	Peter Heumann	375398925813504	Facebook	m18_24	male (18-24)	DE	Germany	7	1	2602	1142	64	7
+Bündnis 90/ Die Grünen Kreisverband Esslingen	BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	148282971883063	Facebook	m18_24	male (18-24)	DE	Germany	3	1	2563	425	85	0
+POST VON GEHRKE	Elmar Gehrke	630172117364339	Facebook	m18_24	male (18-24)	DE	Germany	6	1	2561	923	37	0
+DEMOCRACY Deutschland	DEMOCRACY Deutschland e.V. 	1453504428281386	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2543	1272	25	0
+Bündnis 90/Die Grünen Mittelsachsen	BÜNDNIS 90/DIE GRÜNEN Mittelsachsen	156839244392425	Facebook	m18_24	male (18-24)	DE	Germany	7	1	2532	506	50	0
+FDP Burgdorf-Uetze	FDP OV Burgdorf-Uetze	1931006000456181	Facebook	m18_24	male (18-24)	DE	Germany	10	1	2468	847	87	8
+Grüne Neukölln	Georg Bonsiepe	101495919923314	Facebook	m18_24	male (18-24)	DE	Germany	8	1	2462	466	59	0
+Più Europa - Berlino	Luca Donati 	371022907054776	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2412	1206	23	0
+FDP - Oberspreewald-Lausitz	FDP Kreisverband Oberspreewald-Lausitz	1248248725285516	Facebook	m18_24	male (18-24)	DE	Germany	4	1	2383	476	47	0
+CDU Brohltal	CDU Brohltal	956080184452111	Facebook	m18_24	male (18-24)	DE	Germany	8	1	2376	384	83	0
+Bürgermeister Sven Rosomkiewicz	Sven Rosomkiewicz	810285015659371	Facebook	m18_24	male (18-24)	DE	Germany	3	1	2368	473	46	0
+CDU Grafschaft	CDU Grafschaft	124943844303250	Facebook	m18_24	male (18-24)	DE	Germany	12	1	2342	295	114	0
+FDP Bad Hersfeld	FDP Bad Hersfeld	208377339290284	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2322	1161	22	0
+Rick Ulbricht	Rick Ulbricht 	256973711149074	Facebook	m18_24	male (18-24)	DE	Germany	5	1	2297	401	68	0
+Reinhard Bütikofer	Reinhard Bütikofer	328884927228588	Facebook	m18_24	male (18-24)	DE	Germany	4	1	2286	364	49	0
+Bündnis 90 / Die Grünen Thüringen	BÜNDNIS 90/DIE GRÜNEN Thüringen	445962318752667	Facebook	m18_24	male (18-24)	DE	Germany	7	1	2283	803	58	0
+FWG Bad Neuenahr-Ahrweiler e. V.	Robert Eckert	1115896348592202	Facebook	m18_24	male (18-24)	DE	Germany	2	1	2247	1123	22	0
+Dr. Babette Winter	Babette Hedwig Winter	558675174640002	Facebook	m18_24	male (18-24)	DE	Germany	6	1	2226	586	39	0
+BÜNDNIS 90/DIE GRÜNEN Kreisverband Neckar-Odenwald	Bündnis 90/Die Grünen, Kreisverband Neckar-Odenwald	546103272077045	Facebook	m18_24	male (18-24)	DE	Germany	11	1	2113	96	170	0
+Christoph Ploß	CDU Hamburg-Nord	266691460417403	Facebook	m18_24	male (18-24)	DE	Germany	14	1	2104	0	208	0
+Ausgewählt.eu		476088266069935	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2062	412	40	0
+Julian Flak	Julian Konstantin Flak	511034955648400	Facebook	m18_24	male (18-24)	DE	Germany	4	1	2050	390	48	0
+FDP Friedrichshain-Kreuzberg	Lenhart Frank	173450889377945	Facebook	m18_24	male (18-24)	DE	Germany	16	1	2042	174	133	0
+AStA Uni Köln	AStA Uni Köln	175396302507817	Facebook	m18_24	male (18-24)	DE	Germany	4	1	2011	611	48	0
+CDU Uhldingen-Mühlhofen	CDU Ortsverband Uhldingen-Mühlhofen	1499808146899551	Facebook	m18_24	male (18-24)	DE	Germany	4	1	2003	400	39	0
+Partei Demokratie Direkt	Lukas Michael Knecht	289988518287493	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1990	398	10	0
+AfD Hamburg-Bergedorf	Eugen Seiler 	179649492694260	Facebook	m18_24	male (18-24)	DE	Germany	5	1	1986	356	55	0
+Christian Doleschal	Christian Konrad Doleschal 	2364034560297457	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1984	337	62	0
+SPD Flensburg	Justus Niklas Klebe	236852536352260	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1972	370	48	0
+Stadtrat Thomas Hornung	Thomas Hornung	1828967837221547	Facebook	m18_24	male (18-24)	DE	Germany	7	1	1971	257	93	0
+CDU Berlin	CDU Berlin	126952903983246	Facebook	m18_24	male (18-24)	DE	Germany	4	1	1963	758	26	0
+DIE LINKE. im Lahn-Dill-Kreis	DIE LINKE Lahn-Dill	450531351694799	Facebook	m18_24	male (18-24)	DE	Germany	7	1	1952	327	63	0
+Jusos Charlottenburg-Wilmersdorf	SPD Charlottenburg-Wilmersdorf	233385923348063	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1938	304	193	30
+Niklas Nienaß	Bündnis 90/Die Grünen Mecklenburg-Vorpommern	2280286458870451	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1921	960	19	0
+I vote Europe		608176689275464	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1911	955	18	0
+SPD Wernigerode	SPD Ortsverein Wernigerode	379830908724697	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1908	643	29	0
+FDP Kreisverband Zwickau	FDP Kreisverband Zwickau	1455845368064242	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1905	907	26	0
+Grüne Ladenburg	BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	718806221827377	Facebook	m18_24	male (18-24)	DE	Germany	4	1	1891	0	187	0
+Fcknzs.club	Tobias Bernhard Joachim Hecht	2256258971110243	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1887	825	22	0
+Patrick Ginsbach	Patrick Sebastian Ginsbach	113628109256191	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1845	369	36	0
+AStA Uni Münster	AStA Uni Münster	636844309705837	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1818	909	18	0
+Grüne Jugend Augsburg	Grüne Jugend Augsburg	102909819848567	Facebook	m18_24	male (18-24)	DE	Germany	6	1	1805	285	65	0
+Knut Lunks Freie Wählervereinigung Heidelberg e.V.	Knut Henke Lunks	367647217180459	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1799	899	17	0
+Martina Werner	SPD-Bezirk Hessen-Nord	578604215560969	Facebook	m18_24	male (18-24)	DE	Germany	7	1	1783	294	60	0
+FDP Altona	Freie Demokratische Partei FDP Bezirksverband Altona	603208893090843	Facebook	m18_24	male (18-24)	DE	Germany	6	1	1779	303	56	0
+DIE LINKE. Sachsen	DIE LINKE. Sachsen	142603625775614	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1778	355	35	0
+AfD Kreisverband Wittenberg	Anne Grünschneder	1409546049300997	Facebook	m18_24	male (18-24)	DE	Germany	5	1	1753	296	56	0
+Grüne Nordsachsen	Bündnis 90 die Grünen Kreisverband Nordsachsen	661587470556698	Facebook	m18_24	male (18-24)	DE	Germany	11	1	1734	252	71	0
+Phibie v. Aldebaran		447772735582107	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1708	341	33	0
+GRÜNE Elbvororte	Johannes Benjamin Harders	2299886463578417	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1704	790	27	0
+SPD Hamburg	SPD Hamburg	130273271119	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1683	841	83	16
+CDU Stadtverband Nauen	CDU Nauen	425338230825019	Facebook	m18_24	male (18-24)	DE	Germany	6	1	1667	292	49	0
+Konrad Körner	Konrad Körner	2070086326412791	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1663	640	31	0
+Dr. Peter Liese, MdEP	Dieter Berger	62058563854	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1638	232	70	0
+Freedom4press.de	Alexander Schlesiger	448953542522854	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1628	786	17	0
+Junge Liberale JuLis Erfurt	Junge Liberale (JuLis) Erfurt	347832572265719	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1615	275	51	0
+CDU Wäschenbeuren	CDU Wäschenbeuren	642876995786514	Facebook	m18_24	male (18-24)	DE	Germany	10	1	1608	0	159	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	m18_24	male (18-24)	DE	Germany	23	1	1608	588	4	0
+Herz der Wirtschaft	Arbeitgeberverband Gesamtmetall	156977237732393	Facebook	m18_24	male (18-24)	DE	Germany	4	1	1605	265	53	0
+FDP Kreis Soest	Tim Philip Behrendt	703408639818094	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1602	320	31	0
+Tiemo Wölken	Tiemo Wölken	1747943185455863	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1591	795	15	0
+Moritz Körner	Moritz Heimo Körner	448585188519271	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1573	295	38	0
+NPD-Fraktion Wetzlar		293398401003744	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1570	314	31	0
+AJC Berlin	AJC Berlin	282637388468069	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1564	557	55	8
+Freie Wähler Sindelfingen	Ingo Sika	404074052985552	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1564	782	15	0
+SPD Neckarsulm	SPD Neckarsulm	140119866067404	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1542	526	32	0
+Pius Heereman	Pius Andreas Ulrich Maria Freiherr Heereman Von Zuydtwyck	2413742148854653	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1541	268	46	0
+Jusos Rheinisch-Bergischer Kreis	Simon Matteo Dannhauer	104584253028749	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1534	306	30	0
+Deutsche Post	Deutsche Post	485303194814631	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1519	303	30	0
+Evgenij Renke	Evgenij Renke	1338595192842451	Facebook	m18_24	male (18-24)	DE	Germany	6	1	1493	104	106	0
+Fabian Böck	Fabian Marvin Böck	2110600242571181	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1481	611	18	0
+CDU Merzhausen	Benedikt Johannes Beyna 	253840978838150	Facebook	m18_24	male (18-24)	DE	Germany	5	1	1466	0	145	0
+SPD Stadtverband Wadern	Eric Meyer	1216829358406353	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1447	723	14	0
+Die Linke Harburg		429151107914173	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1436	718	14	0
+Carsten Krehl - ÖDP	Carsten Günter Helmut Krehl	253247298424946	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1427	250	42	0
+Robert Farle	Robert Farle	1565754943752371	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1418	283	14	2
+JU Kunstadt-Jura	Niklas Stadelmann	391850180940511	Facebook	m18_24	male (18-24)	DE	Germany	4	1	1416	173	71	0
+Jusos Salzkotten	SPD Ortsverein Salzkotten	172069852836309	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1410	220	52	0
+Jakob Schäuble	FDP Ingolstadt	1873283949575191	Facebook	m18_24	male (18-24)	DE	Germany	6	1	1400	151	78	0
+Martin Hohmann, MdB	Martin Hohmann	1942497819398764	Facebook	m18_24	male (18-24)	DE	Germany	5	1	1388	249	38	0
+Brbhavel - Fouqué-Stadt Brandenburg an der Havel		409405425775262	Facebook	m18_24	male (18-24)	DE	Germany	4	1	1373	175	66	0
+CDU Ortsverband Ludweiler		373244576566007	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1373	274	27	0
+CDU Stadtverband Neuwied	CDU Stadtverband Neuwied 	381665481945049	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1371	685	13	0
+ÖDP Mainz-Stadt		350663078345150	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1358	679	67	13
+SPD Oberneuland	SPD Oberneuland	1638965259687442	Facebook	m18_24	male (18-24)	DE	Germany	4	1	1357	438	25	0
+FDP-Kreisverband Gütersloh	FDP-Kreisverband Gütersloh	485102198489720	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1354	271	26	0
+BÜNDNIS 90/DIE GRÜNEN Köthen	BÜNDNIS 90/DIE GRÜNEN Kreisverband Anhalt-Bitterfeld	674211959665855	Facebook	m18_24	male (18-24)	DE	Germany	4	1	1346	255	32	0
+Grüner Fisher Investments	Grüner Fisher Investments	138832469593845	Facebook	m18_24	male (18-24)	DE	Germany	23	1	1320	55	162	13
+SPD Lüdenscheid	SPD Lüdenscheid	183702711674959	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1315	245	32	0
+SPD Ulm	Holger Oellermann	262950473606	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1314	657	65	13
+SPD Eimsbüttel	SPD Hamburg	251214968313715	Facebook	m18_24	male (18-24)	DE	Germany	10	1	1280	117	80	0
+SPD BRANDENBURG	SPD BRANDENBURG	139470429458087	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1279	255	25	0
+FDP Düsseldorf	FDP Düsseldorf	318470087331	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1265	632	12	0
+CDU Esslingen	CDU-Stadtverband Esslingen a. N.	135844266446045	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1261	595	18	0
+SPD Bremerhaven	SPD Bremerhaven	104401952226	Facebook	m18_24	male (18-24)	DE	Germany	5	1	1258	203	43	0
+DIE LINKE. Klingenberg	Peter Kroh	567171803775108	Facebook	m18_24	male (18-24)	DE	Germany	4	1	1243	195	45	0
+Grüne Saarlouis	Thomas Lucchi 	176446179820680	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1242	222	34	0
+Alexander Throm		1698700087037237	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1236	247	24	0
+CDU Ortsverband Schwegenheim	CDU Ortsverband Schwegenheim	200875150700863	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1227	245	24	0
+Katja Mast		499836743410538	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1225	245	24	0
+Philipp da Cunha	Philipp Da Cunha	1436648789900217	Facebook	m18_24	male (18-24)	DE	Germany	4	1	1208	179	48	0
+Progressives Bad Kreuznach	Progressives Bad Kreuznach	2153883651391345	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1187	593	11	0
+Weunite	weunite.eu	843723189339313	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1185	528	23	0
+LSU in Niedersachsen	LSU in Niedersachsen	219610088525360	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1181	195	39	0
+Jusos Freiburg	Jusos Freiburg	452121134820659	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1181	165	51	0
+DIE LINKE Lausitz	André Kaun	142810395919029	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1176	588	11	0
+Jan Olsson	Jan Olsson 	1036735923117842	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1167	233	23	0
+CDU Oberndorf a.N.	CDU Oberndorf a.N.	263426807165955	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1155	231	22	0
+Tommy Penk	Tommy Penk	598572033486970	Facebook	m18_24	male (18-24)	DE	Germany	5	1	1155	202	34	0
+SPD Sexau	Luisa Boos	458619850846991	Facebook	m18_24	male (18-24)	DE	Germany	10	1	1143	98	74	0
+Jusos Mainz	Jusos Mainz	390715747605823	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1135	227	22	0
+Marco Hellfritzsch, SPD	Marco Hellfritzsch	90801318280	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1123	224	22	0
+BÜNDNIS 90/DIE GRÜNEN Kreisverband Mecklenburgische Seenplatte	Jutta Wegner 	157027537691135	Facebook	m18_24	male (18-24)	DE	Germany	4	1	1123	188	36	0
+CDU Samtgemeindeverband Zeven	 CDU Samtgemeindeverband Zeven	616160818526088	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1114	222	22	0
+Bündnis 90/Die Grünen Vorpommern-Greifswald	Bündnis 90/Die Grünen KV Vorpommern-Greifswald	200444150095916	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1090	545	10	0
+Norbert Kleinwächter		346613215704870	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1089	217	2	0
+Aufbruch wagen - SPD Rosenheim	SPD Rosenheim	2285393051781757	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1082	541	10	0
+LKR-Fraktion Ludwigshafen		975059855866906	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1074	214	21	0
+Union der Mitte Deutschlands - CSU & CDU Mitgliederinitiative		119155148758792	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1070	214	21	0
+Liste21 - Impulse für Brackenheim	Jens Wiese	1465097117050863	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1067	146	47	0
+Grüne Mainz	Bündnis 90/Die Grünen Mainz	442503965827807	Facebook	m18_24	male (18-24)	DE	Germany	4	1	1058	123	55	0
+Norbert Lins	Norbert Lins MdEP	499881326786873	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1039	207	20	0
+Grüne Jugend NRW	GRÜNE JUGEND NRW	129048743832509	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1034	167	36	0
+Knut Meenzen - Politik	Knut Meenzen	711417865918203	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1033	154	41	0
+Denise Klein	Lars Klein	691811297843488	Facebook	m18_24	male (18-24)	DE	Germany	3	1	1031	206	20	0
+Grüne Stadtratsfraktion Nürnberg		750007671715581	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1031	515	10	0
+SPD Heilbronn im Gemeinderat		189233231683071	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1014	202	20	0
+SPD Grafschaft	Axel Bend	185413701557817	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1005	201	19	0
+AfD Osterholz		165641610285858	Facebook	m18_24	male (18-24)	DE	Germany	1	1	999	0	99	0
+Bündnis 90/Die Grünen Kreisverband Rastatt-Baden-Baden	BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	1836437523049040	Facebook	m18_24	male (18-24)	DE	Germany	1	1	999	0	99	0
+Dr. Hagen Brauer	Dr. Hagen Brauer	2028232547252504	Facebook	m18_24	male (18-24)	DE	Germany	3	1	997	347	14	0
+SPD Leutenbach	Pierre Orthen	1410718009143557	Facebook	m18_24	male (18-24)	DE	Germany	3	1	994	141	42	0
+AfD Karlsruhe	AfD Kreisverband Karlsruhe-Stadt	2204908776405936	Facebook	m18_24	male (18-24)	DE	Germany	1	1	987	493	9	0
+FDP Löbau	Toralf Einsle	983195015212726	Facebook	m18_24	male (18-24)	DE	Germany	1	1	986	493	9	0
+Gökhan Kahraman - Bündnis 90/Die Grünen		418176962305100	Facebook	m18_24	male (18-24)	DE	Germany	1	1	985	492	9	0
+Sascha Schlösser - Die Alternative für Erfurt	Sascha Schloesser	2293016507646939	Facebook	m18_24	male (18-24)	DE	Germany	3	1	979	195	19	0
+Linke Kinonacht	Andreas Böttger	1419627234952559	Facebook	m18_24	male (18-24)	DE	Germany	5	1	973	360	23	0
+CDU Saar	CDU Saar	334120300419	Facebook	m18_24	male (18-24)	DE	Germany	2	1	972	194	19	0
+Liberal - Konservative Reformer Regionsverband Südbaden		1255716807818192	Facebook	m18_24	male (18-24)	DE	Germany	1	1	968	193	19	0
+Marion Walsmann	CDU Thüringen Marion Walsmann	116783588405311	Facebook	m18_24	male (18-24)	DE	Germany	1	1	967	193	19	0
+William Rambow	William Lutz Rambow	495988050557440	Facebook	m18_24	male (18-24)	DE	Germany	1	1	957	191	18	0
+SPD Speyer	SPD Speyer	217718761742805	Facebook	m18_24	male (18-24)	DE	Germany	2	1	945	189	18	0
+FDP Stadtverband Bad Kreuznach	FDP Stadtverband Bad Kreuznach 	343904723087264	Facebook	m18_24	male (18-24)	DE	Germany	3	1	945	170	25	0
+Hamburger Hilfskonvoi	Christian Großeholz	1119942894694068	Facebook	m18_24	male (18-24)	DE	Germany	1	1	936	187	18	0
+Jusos Püttlingen	Lars Klein	120694711361929	Facebook	m18_24	male (18-24)	DE	Germany	2	1	928	185	18	0
+Bündnis 90/Die Grünen Lüneburg		168698219836872	Facebook	m18_24	male (18-24)	DE	Germany	1	1	908	181	17	0
+SPD Naumburg	Elmar Schmidt	605365753232098	Facebook	m18_24	male (18-24)	DE	Germany	1	1	907	453	8	0
+SPD Region Hannover	Ermana Nurkovic	110715173724	Facebook	m18_24	male (18-24)	DE	Germany	3	1	897	307	34	0
+FDP Voerde	FDP Voerde (stv. Vorsitzender: Arnd Benninghoff)	287121698114100	Facebook	m18_24	male (18-24)	DE	Germany	1	1	895	447	8	0
+Christian Hübner - Politiker	Christian Hübner 	426444547925920	Facebook	m18_24	male (18-24)	DE	Germany	8	1	894	0	88	0
+SPD Heidelberg	SPD Heidelberg	288773480763	Facebook	m18_24	male (18-24)	DE	Germany	5	1	892	0	88	0
+Lydia Funke, MdL		212796865806545	Facebook	m18_24	male (18-24)	DE	Germany	1	1	886	177	17	0
+Die Grünen / Kreis Rottweil	BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	1470485096530881	Facebook	m18_24	male (18-24)	DE	Germany	2	1	877	175	17	0
+Hannes Rockenbauch	Hannes Rockenbauch	953620741367870	Facebook	m18_24	male (18-24)	DE	Germany	4	1	874	174	17	0
+UNO-Flüchtlingshilfe	UNO-Flüchtlingshilfe	236934790401	Facebook	m18_24	male (18-24)	DE	Germany	4	1	873	251	41	0
+A Solution to Plastic Pollution - First International Online Summit		1098001547034272	Facebook	m18_24	male (18-24)	DE	Germany	1	1	872	436	8	0
+OliverBasuMallick	Oliver Basu Mallick 	225691741493069	Facebook	m18_24	male (18-24)	DE	Germany	2	1	859	172	17	0
+Grüne Neu-Ulm		1427745830818618	Facebook	m18_24	male (18-24)	DE	Germany	4	1	852	114	39	0
+Freie Wähler Koblenz	Freie Wähler Koblenz	294738176051	Facebook	m18_24	male (18-24)	DE	Germany	1	1	846	423	8	0
+BÜNDNIS 90/DIE GRÜNEN Rheinland-Pfalz	Bündnis 90/Die Grünen Rheinland-Pfalz	88331883353	Facebook	m18_24	male (18-24)	DE	Germany	2	1	845	389	14	0
+Angelika Hießerich-Peter	FDP Merzig-Wadern	747321952087310	Facebook	m18_24	male (18-24)	DE	Germany	1	1	830	415	8	0
+Bündnis 90 / Die Grünen Gera	Thomas Michael Wieden	260306127714114	Facebook	m18_24	male (18-24)	DE	Germany	6	1	817	65	54	0
+Bündnis 90/Die Grünen Treptow-Köpenick	Bündnis 90/Die Grünen Treptow-Köpenick	471093709629868	Facebook	m18_24	male (18-24)	DE	Germany	4	1	812	110	36	0
+Klaus Beier		476722885758516	Facebook	m18_24	male (18-24)	DE	Germany	1	1	807	161	15	0
+Christoph Högel - AfD	Christoph Högel	316177542661181	Facebook	m18_24	male (18-24)	DE	Germany	1	1	805	161	15	0
+Christian Ehler	Dr. Jan Christian Ehler	232776380102161	Facebook	m18_24	male (18-24)	DE	Germany	1	1	792	158	15	0
+Leon Schwarze	Leon Schwarze	1047441932065318	Facebook	m18_24	male (18-24)	DE	Germany	1	1	791	158	15	0
+CDU Egelner Mulde	Sven Rosomkiewicz	598305833966587	Facebook	m18_24	male (18-24)	DE	Germany	1	1	787	157	15	0
+Bosch Global		185652704861747	Facebook	m18_24	male (18-24)	DE	Germany	2	1	781	156	15	0
+Juliane Steinmüller	Anne Juliane Steinmüller	1933244040136196	Facebook	m18_24	male (18-24)	DE	Germany	3	1	778	107	34	0
+SPD Ortsverein Magdeburg Reform/Südost	Christian Gräfenhain 	260974187313948	Facebook	m18_24	male (18-24)	DE	Germany	3	1	772	126	26	0
+AfD Ortsverband der großen Kreisstadt Neustadt bei Coburg	Michael Ernst Höpflinger	190646111623375	Facebook	m18_24	male (18-24)	DE	Germany	3	1	761	121	27	0
+Bündnis 90/Die Grünen Kreisverband Tübingen	Bündnis 90/Die Grünen Kreisverband Tübingen	516823841675813	Facebook	m18_24	male (18-24)	DE	Germany	2	1	758	291	10	0
+Freie Wähler Bad Saulgau		2017904574999681	Facebook	m18_24	male (18-24)	DE	Germany	1	1	749	0	74	0
+DIE LINKE. Heidelberg		125560594141192	Facebook	m18_24	male (18-24)	DE	Germany	1	1	748	149	14	0
+CDU Oranienburg	Nicole Ulla Walter-Mundt	366646900134588	Facebook	m18_24	male (18-24)	DE	Germany	6	1	717	64	45	0
+Grüne Baden-Baden	BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	1640826309506415	Facebook	m18_24	male (18-24)	DE	Germany	1	1	713	0	70	0
+Junge Union Cottbus	Junge Union Cottbus	113356515366787	Facebook	m18_24	male (18-24)	DE	Germany	1	1	702	140	13	0
+Stefan Wend		441511756657393	Facebook	m18_24	male (18-24)	DE	Germany	1	1	702	140	13	0
+HeyJobs		1672741436327970	Facebook	m18_24	male (18-24)	DE	Germany	4	1	701	0	69	0
+JEF Hessen	JEF - Junge Europäische Föderalisten Landesverband Hessen e.V.	154111581275112	Facebook	m18_24	male (18-24)	DE	Germany	4	1	687	0	68	0
+Die Grünen KV Coburg-Stadt	Kevin Rudolf Klüglein	492112370837905	Facebook	m18_24	male (18-24)	DE	Germany	2	1	683	136	13	0
+CDU-Fraktion Berlin	CDU-Fraktion Berlin	119192498110884	Facebook	m18_24	male (18-24)	DE	Germany	1	1	679	135	13	0
+UnserPforzheim	Boris Karsten Jung	2277832875601189	Facebook	m18_24	male (18-24)	DE	Germany	1	1	677	135	13	0
+Deutsches Kinderhilfswerk e.V.	Deutsches Kinderhilfswerk e.V.	107407945980041	Facebook	m18_24	male (18-24)	DE	Germany	2	1	676	135	7	1
+SPD Remseck am Neckar	SPD Remseck a.N.	347490025813757	Facebook	m18_24	male (18-24)	DE	Germany	7	1	670	79	34	0
+DIE LINKE. Gelsenkirchen	DIE LINKE. Gelsenkirchen	169916066446353	Facebook	m18_24	male (18-24)	DE	Germany	2	1	668	133	13	0
+Kirsten Eink	Kirsten Eink 	1684742308321918	Facebook	m18_24	male (18-24)	DE	Germany	2	1	662	132	13	0
+Bündnis 90/ Die Grünen in der Börde	BÜNDNIS 90/DIE GRÜNEN Sachsen-Anhalt	1278786468830432	Facebook	m18_24	male (18-24)	DE	Germany	7	1	661	78	34	0
+Linksjugend ['solid] Saar	Sebastian Oliver Borchart	125474557497350	Facebook	m18_24	male (18-24)	DE	Germany	1	1	642	128	12	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	m18_24	male (18-24)	DE	Germany	1	1	637	254	0	0
+SPD Bielefeld		131868470238091	Facebook	m18_24	male (18-24)	DE	Germany	2	1	633	0	62	0
+BÜNDNIS90/ DIE GRÜNEN Leinfelden-Echterdingen		1528281827459641	Facebook	m18_24	male (18-24)	DE	Germany	1	1	630	126	12	0
+Sebastian Heinel - FDP	Sebastian Heinel	2786523878032361	Facebook	m18_24	male (18-24)	DE	Germany	3	1	627	110	18	0
+Erik Stohn	SPD Teltow-Fläming	276626369175307	Facebook	m18_24	male (18-24)	DE	Germany	1	1	625	312	6	0
+SPD Friedrichshafen	Luca Elias Baumann	227497950644482	Facebook	m18_24	male (18-24)	DE	Germany	1	1	625	313	6	0
+Nemetschek Stiftung	Nemetschek Stiftung	186375644742050	Facebook	m18_24	male (18-24)	DE	Germany	2	1	621	286	6	0
+Stefan Schwartze	Stefan Schwartze	444872249052425	Facebook	m18_24	male (18-24)	DE	Germany	1	1	619	123	12	0
+Denis Mau		1882950845120274	Facebook	m18_24	male (18-24)	DE	Germany	1	1	619	123	12	0
+Bündnis 90 / Die Grünen Kreisverband Ortenau	Domenic Markus Preukschas	195589923029	Facebook	m18_24	male (18-24)	DE	Germany	2	1	616	123	12	0
+SPD Sillenbuch, Heumaden, Riedenberg	SPD Sillenbuch, Heumaden, Riedenberg	250503388763518	Facebook	m18_24	male (18-24)	DE	Germany	1	1	595	119	11	0
+Korbinian Rüger	Korbinian Nicholas Rüger 	296438801229915	Facebook	m18_24	male (18-24)	DE	Germany	2	1	593	107	16	0
+Freier Horizont LUP	Philipp Pahl	223951075146513	Facebook	m18_24	male (18-24)	DE	Germany	1	1	593	118	11	0
+Micha Heitkamp	SPD OWL	198425127523206	Facebook	m18_24	male (18-24)	DE	Germany	1	1	578	115	11	0
+Franziska Müller-Rech MdL	Franziska Müller-Rech	192841884161271	Facebook	m18_24	male (18-24)	DE	Germany	4	1	577	0	57	0
+knopi41	Hendrik Knop	410145443134612	Facebook	m18_24	male (18-24)	DE	Germany	4	1	572	71	28	0
+Grüne Kusel	Bündnis 90/Die Grünen Rheinland-Pfalz	407630392667824	Facebook	m18_24	male (18-24)	DE	Germany	1	1	571	285	5	0
+Claus Mellinger für den Reutlinger Gemeinderat	Claus Stefan Mellinger	1157683364414302	Facebook	m18_24	male (18-24)	DE	Germany	1	1	570	114	11	0
+GRÜNE Wandsbek	GRÜNE Wandsbek	185448971484872	Facebook	m18_24	male (18-24)	DE	Germany	8	1	570	0	56	0
+SPD-Ortsverein Spaichingen-Heuberg	SPD Ortsverein Spaichingen-Heuberg	156548791101257	Facebook	m18_24	male (18-24)	DE	Germany	1	1	570	114	11	0
+Simon Dennenmoser - AfD		645508692306293	Facebook	m18_24	male (18-24)	DE	Germany	1	1	554	110	10	0
+AfD Kreisverband Böblingen		585312594981616	Facebook	m18_24	male (18-24)	DE	Germany	1	1	547	109	10	0
+Alfred Kuhlmann		441839939707209	Facebook	m18_24	male (18-24)	DE	Germany	1	1	544	108	10	0
+Grüne im Kreis Germersheim	BÜNDNIS 90/DIE GRÜNEN KV Germerseheim	272673066211280	Facebook	m18_24	male (18-24)	DE	Germany	3	1	540	79	21	0
+Daniel Pflügl	Daniel Josef Pflügl	1514855751971159	Facebook	m18_24	male (18-24)	DE	Germany	2	1	538	73	24	0
+Sally Lisa Starken	Sally Lisa Starken	503571183451346	Facebook	m18_24	male (18-24)	DE	Germany	6	1	535	45	33	0
+Jens Spahn	Jens Spahn	92576009043	Facebook	m18_24	male (18-24)	DE	Germany	6	1	533	191	18	0
+René Springer	René Springer	180406922444317	Facebook	m18_24	male (18-24)	DE	Germany	7	1	531	49	32	0
+Offene Uni: Juso-Hochschulgruppe		1395595840730160	Facebook	m18_24	male (18-24)	DE	Germany	1	1	523	0	46	0
+Kommunalwahl Jena 2019	Richard Machnik	1118361515010184	Facebook	m18_24	male (18-24)	DE	Germany	1	1	522	104	10	0
+Unabhängige Liste Furtwangen	Reinhard Paul Hübner	212149755662884	Facebook	m18_24	male (18-24)	DE	Germany	1	1	522	104	10	0
+Europa Terra Nostra	Europa Terra Nostra e.V.	273074413028074	Facebook	m18_24	male (18-24)	DE	Germany	4	1	521	102	11	0
+Ökologisch-Demokratischer Pressedienst Nordrhein-Westfalen	Ökologisch-Demokratische Partei (ÖDP) 	105695189827319	Facebook	m18_24	male (18-24)	DE	Germany	5	1	513	0	50	0
+CDU Lohmar	CDU Lohmar	870550286426379	Facebook	m18_24	male (18-24)	DE	Germany	6	1	508	0	50	0
+Bernhard Braun	Maurice Kuhn 	710894025774211	Facebook	m18_24	male (18-24)	DE	Germany	2	1	502	100	9	0
+FDP Schwerin		122038517830943	Facebook	m18_24	male (18-24)	DE	Germany	1	1	499	0	49	0
+Christoph Neubauer	Christoph Neubauer	332319337495367	Facebook	m18_24	male (18-24)	DE	Germany	1	1	488	97	9	0
+Diakonie Schleswig-Holstein	Diakonie Schleswig-Holstein	197647650755276	Facebook	m18_24	male (18-24)	DE	Germany	1	1	487	97	9	0
+Marco Buschmann	Marco Buschmann	1375993365821383	Facebook	m18_24	male (18-24)	DE	Germany	1	1	473	94	9	0
+Bündnis 90/Die Grünen Kreisverband Ludwigshafen	Bündnis 90/Die Grünen Rheinland-Pfalz	253112118202381	Facebook	m18_24	male (18-24)	DE	Germany	2	1	459	91	9	0
+CDU Ortsverband Kell	Stefan Otto Kaufmann	399599873930393	Facebook	m18_24	male (18-24)	DE	Germany	2	1	458	78	14	0
+GAL Bamberg	GAL Bamberg	196928763660530	Facebook	m18_24	male (18-24)	DE	Germany	1	1	453	90	8	0
+Stefan Schade - Stadtrat für Erfurt		253740755532692	Facebook	m18_24	male (18-24)	DE	Germany	1	1	452	90	8	0
+Bündnis 90/Die Grünen Telgte	Bündnis 90/Die Grünen Telgte	141395232626661	Facebook	m18_24	male (18-24)	DE	Germany	1	1	450	90	8	0
+CDU Stadtrat-Oschatz	Frank Schneider	340805449908995	Facebook	m18_24	male (18-24)	DE	Germany	5	1	448	0	44	0
+FDP Niedersachsen	FDP Niedersachsen	51468018860	Facebook	m18_24	male (18-24)	DE	Germany	1	1	448	89	8	0
+Alexander Kleinow	Alexander Kleinow	402494750533079	Facebook	m18_24	male (18-24)	DE	Germany	5	1	443	0	43	0
+Newsportal Köln	Newsportal Köln	433729573856503	Facebook	m18_24	male (18-24)	DE	Germany	1	1	441	0	43	0
+CDU Niederzissen	CDU Niederzissen	701331996576388	Facebook	m18_24	male (18-24)	DE	Germany	1	1	438	87	8	0
+GRÜNE Eimsbüttel	GRÜNE Eimsbüttel	182825388398405	Facebook	m18_24	male (18-24)	DE	Germany	6	1	435	0	43	0
+CDU Hamm Herringen	Peter Herbert Scholz	329903680678094	Facebook	m18_24	male (18-24)	DE	Germany	1	1	428	85	8	0
+Ortsbeiratsliste Gelsdorf - SPD Grafschaft	Axel Bend	389734388547572	Facebook	m18_24	male (18-24)	DE	Germany	2	1	428	67	15	0
 Freie Liste Magstadt		368994383874827	Facebook	m18_24	male (18-24)	DE	Germany	1	1	428	0	42	0
-SPD Oberspreewald-Lausitz	Alexander Krüger	236968340096641	Facebook	m18_24	male (18-24)	DE	Germany	2	1	413	76	10	0
-SPD Bitterfeld-Wolfen	SPD Ortsverein Bitterfeld-Wolfen	131796416966341	Facebook	m18_24	male (18-24)	DE	Germany	7	1	412	0	40	0
-CDU Grafschaft	CDU Grafschaft	124943844303250	Facebook	m18_24	male (18-24)	DE	Germany	2	1	408	0	40	0
-Grüne Saarlouis	Thomas Lucchi 	176446179820680	Facebook	m18_24	male (18-24)	DE	Germany	1	1	401	80	7	0
-Grüne Kaiserslautern	Niko Markus	151451551553337	Facebook	m18_24	male (18-24)	DE	Germany	1	1	386	77	7	0
-AfD Rheinland-Pfalz	AfD Rheinland-Pfalz	162707793881819	Facebook	m18_24	male (18-24)	DE	Germany	10	1	373	31	24	0
-Grüne im Kreis Germersheim	BÜNDNIS 90/DIE GRÜNEN KV Germerseheim	272673066211280	Facebook	m18_24	male (18-24)	DE	Germany	2	1	370	45	18	0
-Matthias Dornhuber	SPD Mittelfranken	2273848225970175	Facebook	m18_24	male (18-24)	DE	Germany	3	1	358	0	35	0
-DIE LINKE. Herne / Wanne-Eickel	Patrick Gawliczek	137962769704818	Facebook	m18_24	male (18-24)	DE	Germany	3	1	357	0	35	0
-Andreas von Brühl	Andreas Sebastian Graf Von Brühl 	227743204230314	Facebook	m18_24	male (18-24)	DE	Germany	2	1	351	0	34	0
-CDU Kreisverband Ahrweiler	CDU Kreisverband Ahrweiler	400923533270421	Facebook	m18_24	male (18-24)	DE	Germany	2	1	341	0	33	0
-Roland Heintze	CDU Landesverband Hamburg	751240091655625	Facebook	m18_24	male (18-24)	DE	Germany	2	1	324	0	32	0
-Rick Ulbricht	Rick Ulbricht 	256973711149074	Facebook	m18_24	male (18-24)	DE	Germany	2	1	322	0	31	0
-Jusos Freiburg	Jusos Freiburg	452121134820659	Facebook	m18_24	male (18-24)	DE	Germany	2	1	320	0	31	0
-Jakob Schäuble	FDP Ingolstadt	1873283949575191	Facebook	m18_24	male (18-24)	DE	Germany	2	1	316	0	31	0
-Jusos Salzkotten	SPD Ortsverein Salzkotten	172069852836309	Facebook	m18_24	male (18-24)	DE	Germany	1	1	316	0	31	0
-CDU Mein Altensteig	CDU-Stadtverband Altensteig	2605830436157588	Facebook	m18_24	male (18-24)	DE	Germany	2	1	314	0	31	0
-Carsten Krehl - ÖDP	Carsten Günter Helmut Krehl	253247298424946	Facebook	m18_24	male (18-24)	DE	Germany	1	1	305	0	30	0
-Junge Liberale JuLis Erfurt	Junge Liberale (JuLis) Erfurt	347832572265719	Facebook	m18_24	male (18-24)	DE	Germany	1	1	294	0	29	0
-Junge Union Mannheim	Junge Union Mannheim	403423809690190	Facebook	m18_24	male (18-24)	DE	Germany	2	1	285	0	28	0
-Knut Lunks Freie Wählervereinigung Heidelberg e.V.	Knut Henke Lunks	367647217180459	Facebook	m18_24	male (18-24)	DE	Germany	1	1	283	0	28	0
-Demokratie in Bewegung	Demokratie in Bewegung	1799478453653006	Facebook	m18_24	male (18-24)	DE	Germany	1	1	281	56	5	0
-SPD Region Hannover	Ermana Nurkovic	110715173724	Facebook	m18_24	male (18-24)	DE	Germany	1	1	263	52	5	0
-CDU Kreisverband Germersheim	CDU Kreisverband Germersheim	326178750781527	Facebook	m18_24	male (18-24)	DE	Germany	3	1	257	0	25	0
-Alexander Hannes	CSU Kreisverband Regen	287380818788155	Facebook	m18_24	male (18-24)	DE	Germany	1	1	256	0	25	0
-BÜNDNIS 90/DIE GRÜNEN Kreisverband Mecklenburgische Seenplatte	Jutta Wegner 	157027537691135	Facebook	m18_24	male (18-24)	DE	Germany	3	1	248	0	24	0
-Tommy Penk	Tommy Penk	598572033486970	Facebook	m18_24	male (18-24)	DE	Germany	3	1	246	0	24	0
-Dr. Horst Baier	Dr. Horst Baier	220262751399177	Facebook	m18_24	male (18-24)	DE	Germany	2	1	245	0	24	0
-FDP Bielefeld	Jan-Maik Schlifter De La Fontaine	153467308073688	Facebook	m18_24	male (18-24)	DE	Germany	1	1	242	0	24	0
-Kampf dem Gemurkse	Freie Bürger für Baden-Baden e.V.	217852272501802	Facebook	m18_24	male (18-24)	DE	Germany	2	1	236	37	8	0
-Grüne Jugend Augsburg	Grüne Jugend Augsburg	102909819848567	Facebook	m18_24	male (18-24)	DE	Germany	2	1	226	0	22	0
-Bernhard Daldrup		392079271343256	Facebook	m18_24	male (18-24)	DE	Germany	1	1	224	0	22	0
-Bündnis 90/Die Grünen Kreisverband Tübingen	Bündnis 90/Die Grünen Kreisverband Tübingen	516823841675813	Facebook	m18_24	male (18-24)	DE	Germany	1	1	221	44	4	0
-SPD Eimsbüttel	SPD Hamburg	251214968313715	Facebook	m18_24	male (18-24)	DE	Germany	2	1	213	0	21	0
-Bündnis 90/Die Grünen Anhalt-Bitterfeld	BÜNDNIS 90/DIE GRÜNEN Kreisverband Anhalt-Bitterfeld	409153932473503	Facebook	m18_24	male (18-24)	DE	Germany	2	1	211	0	20	0
-Rainer Keller	Rainer Keller	2324783081132960	Facebook	m18_24	male (18-24)	DE	Germany	3	1	207	0	20	0
-Grüne Frankenthal	Bündnis 90/Die Grünen Kreisverband Frankenthal	1890824571150959	Facebook	m18_24	male (18-24)	DE	Germany	1	1	205	0	20	0
-AfD Ortsverband der großen Kreisstadt Neustadt bei Coburg	Michael Ernst Höpflinger	190646111623375	Facebook	m18_24	male (18-24)	DE	Germany	3	1	202	0	20	0
-Lars Klingbeil	Lars Klingbeil	355456486093	Facebook	m18_24	male (18-24)	DE	Germany	1	1	199	0	19	0
-DIE LINKE. Dresden	DIE LINKE. Dresden	101065286702367	Facebook	m18_24	male (18-24)	DE	Germany	1	1	183	0	18	0
-Birgit Sippel	Birgit Sippel	319398621464329	Facebook	m18_24	male (18-24)	DE	Germany	1	1	183	0	18	0
-Matthias Paul - Ihr Bürgermeisterkandidat für Burgdorf	Matthias Paul	587171618465873	Facebook	m18_24	male (18-24)	DE	Germany	2	1	172	0	17	0
-Tierschutz hier	Rudolf Görg 	2309063122705796	Facebook	m18_24	male (18-24)	DE	Germany	2	1	171	0	16	0
-Graue Panther wählen	Rudolf Görg 	2014695908579485	Facebook	m18_24	male (18-24)	DE	Germany	1	1	168	33	3	0
-Bündnis Grundeinkommen	Bündnis Grundeinkommen	548285578684618	Facebook	m18_24	male (18-24)	DE	Germany	2	1	160	21	7	0
+Marc Herter	Marc Herter MdL	1801553256733890	Facebook	m18_24	male (18-24)	DE	Germany	1	1	421	84	8	0
+AfD Hamburg-Wandsbek		906048772822472	Facebook	m18_24	male (18-24)	DE	Germany	1	1	420	84	8	0
+Klaus Sidortschuk - Ihr Bürgermeister für Lehrte	Klaus Sidortschuk 	2340569792886912	Facebook	m18_24	male (18-24)	DE	Germany	1	1	418	83	8	0
+Luigi Pantisano	Luigi Pantisano	1006758069529993	Facebook	m18_24	male (18-24)	DE	Germany	2	1	417	83	8	0
+Junge Union Bremen	Junge Union Landesverband Bremen	103714087434	Facebook	m18_24	male (18-24)	DE	Germany	2	1	415	69	13	0
+Mario Schmidt: Für Dresden - Für Prohlis - Für Sie	Mario Schmidt	406602466106076	Facebook	m18_24	male (18-24)	DE	Germany	3	1	414	0	41	0
+AfD Homburg		223740151305282	Facebook	m18_24	male (18-24)	DE	Germany	1	1	414	82	8	0
+NPD Kreisverband Gera		657728357586393	Facebook	m18_24	male (18-24)	DE	Germany	1	1	409	81	8	0
+SPD Gera		433996033389711	Facebook	m18_24	male (18-24)	DE	Germany	1	1	407	81	8	0
+Alternative für Deutschland - Kreisverband Nordwestmecklenburg	Alternative für Deutschland - Kreisverband Nordwestmecklenburg	680517605346814	Facebook	m18_24	male (18-24)	DE	Germany	1	1	406	81	8	0
+Olli Riedel		359682514752891	Facebook	m18_24	male (18-24)	DE	Germany	3	1	402	0	39	0
+Grüne Bergedorf	Grüne Bergedorf	176731092354724	Facebook	m18_24	male (18-24)	DE	Germany	5	1	400	0	39	0
+Maria Loheide	Diakonie Deutschland	944393298952238	Facebook	m18_24	male (18-24)	DE	Germany	2	1	396	49	19	0
+DIE LINKE. Oberhavel		186421501458256	Facebook	m18_24	male (18-24)	DE	Germany	1	1	394	78	7	0
+SPD Darmstadt	SPD Darmstadt	214383545099	Facebook	m18_24	male (18-24)	DE	Germany	1	1	391	78	7	0
+SPD Aschersleben	SPD	213060275423684	Facebook	m18_24	male (18-24)	DE	Germany	1	1	389	77	7	0
+Grüne Augsburg	BÜNDNIS90/DIE GRÜNEN Stadtverband Augsburg	10150158634595002	Facebook	m18_24	male (18-24)	DE	Germany	2	1	385	0	38	0
+Sylvia Hoffmann	Johanna Hoffmann	339497990120244	Facebook	m18_24	male (18-24)	DE	Germany	2	1	384	65	11	0
+CDU Spree-Neiße		1251143418258273	Facebook	m18_24	male (18-24)	DE	Germany	1	1	384	76	7	0
+Grüne Kaiserslautern	Niko Markus	151451551553337	Facebook	m18_24	male (18-24)	DE	Germany	1	1	381	76	7	0
+SPD Waldbröl	Sascha Rene Strutz 	502096456596251	Facebook	m18_24	male (18-24)	DE	Germany	2	1	376	58	13	0
+SPD Lörrach	Sven Markus Widlarz	301084526707620	Facebook	m18_24	male (18-24)	DE	Germany	1	1	376	75	7	0
+DIE LINKE. Hansestadt Rostock		196475853716911	Facebook	m18_24	male (18-24)	DE	Germany	1	1	375	75	7	0
+Jonas Hoffmann	Jonas Hoffmann	1757879291167211	Facebook	m18_24	male (18-24)	DE	Germany	1	1	372	74	7	0
+GRÜNE Hamburg-Mitte	GRÜNE Hamburg-Mitte	178737855499666	Facebook	m18_24	male (18-24)	DE	Germany	7	1	371	0	36	0
+CDU Zell u.A.	Simon Konrad Jakob Scherrenbacher	345866716042091	Facebook	m18_24	male (18-24)	DE	Germany	4	1	368	0	36	0
+SPD Duisburg	SPD Duisburg	100709796660299	Facebook	m18_24	male (18-24)	DE	Germany	1	1	360	72	7	0
+Sebastian Striegel	Sebastian Johannes Striegel	1548351238767524	Facebook	m18_24	male (18-24)	DE	Germany	1	1	359	71	7	0
+SPD Solingen	SPD Solingen	110796605637211	Facebook	m18_24	male (18-24)	DE	Germany	2	1	358	0	35	0
+Tobias Hans	CDU Saar	54497594909	Facebook	m18_24	male (18-24)	DE	Germany	1	1	356	71	7	0
+Bündnis 90 / Die Grünen Alzey-Worms	Bündnis 90/Die Grünen Rheinland-Pfalz	141951685994812	Facebook	m18_24	male (18-24)	DE	Germany	3	1	352	58	11	0
+LVM Versicherungsagentur Andreas Grieger		1744384829128054	Facebook	m18_24	male (18-24)	DE	Germany	1	1	352	0	34	0
+Jusos Potsdam	Jusos Potsdam	201631939890887	Facebook	m18_24	male (18-24)	DE	Germany	2	1	345	0	34	0
+Jusos Sachsen	Jusos in der SPD Sachsen	10150139228955451	Facebook	m18_24	male (18-24)	DE	Germany	1	1	343	68	6	0
+BÜNDNIS 90/DIE GRÜNEN Ahrweiler	Bündnis 90/Die Grünen Rheinland-Pfalz	456516127773656	Facebook	m18_24	male (18-24)	DE	Germany	1	1	339	67	6	0
+GRÜNE Altona	GRÜNE Altona	123878004343494	Facebook	m18_24	male (18-24)	DE	Germany	4	1	337	42	16	0
+clubliebe e.V.		522171371291241	Facebook	m18_24	male (18-24)	DE	Germany	1	1	333	66	6	0
+Matthias Paul - Ihr Bürgermeisterkandidat für Burgdorf	Matthias Paul	587171618465873	Facebook	m18_24	male (18-24)	DE	Germany	2	1	332	47	13	0
+Grüne KV Bad Kreuznach	Bündnis 90/Die Grünen Rheinland-Pfalz	180267572509731	Facebook	m18_24	male (18-24)	DE	Germany	2	1	331	66	6	0
+Manfred Sauer		1337728212991422	Facebook	m18_24	male (18-24)	DE	Germany	1	1	313	62	6	0
+BÜNDNIS 90/DIE GRÜNEN Unterallgäu	Daniel Josef Pflügl	104736662944886	Facebook	m18_24	male (18-24)	DE	Germany	1	1	309	61	6	0
+BÜNDNIS 90/DIE GRÜNEN Hessen	BÜNDNIS 90/DIE GRÜNEN Hessen	22865297210	Facebook	m18_24	male (18-24)	DE	Germany	3	1	304	38	15	0
+Diether Dehm	Diether Dehm	51091986850	Facebook	m18_24	male (18-24)	DE	Germany	1	1	298	149	2	0
+häfler-szene.de	Juergen Berthold, Foto-, Grafik- und Werbedesign	129582183808337	Facebook	m18_24	male (18-24)	DE	Germany	1	1	296	0	29	0
+Timon Gremmels	Timon Gremmels, MdB	621438468048970	Facebook	m18_24	male (18-24)	DE	Germany	1	1	294	58	5	0
+SPD-Unterbezirk Landkreis Harburg	SPD-Landkreis Harburg	131320197513529	Facebook	m18_24	male (18-24)	DE	Germany	1	1	293	146	2	0
+Bündnis 90 /Die Grünen - Kreisverband Rhein-Lahn	Bündnis 90/Die Grünen Rheinland-Pfalz	612797985583478	Facebook	m18_24	male (18-24)	DE	Germany	1	1	292	58	5	0
+Axel Voss	MdEP Axel Voss	165291693567021	Facebook	m18_24	male (18-24)	DE	Germany	1	1	290	0	28	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	m18_24	male (18-24)	DE	Germany	5	1	286	84	1	0
+SPD Nordfriesland	SPD Nordfriesland	154015121740225	Facebook	m18_24	male (18-24)	DE	Germany	1	1	286	57	5	0
+Uwe Ahlgrimm	Uwe Peter Ahlgrimm	499704943891170	Facebook	m18_24	male (18-24)	DE	Germany	3	1	285	0	28	0
+Ulrich Lechte	Ulrich Werner Maria Lechte	259242574566478	Facebook	m18_24	male (18-24)	DE	Germany	2	1	281	0	27	0
+Lars Düsterhöft	Lars Düsterhöft	1663624833888357	Facebook	m18_24	male (18-24)	DE	Germany	1	1	280	56	5	0
+Piratenpartei Bonn	Piratenpartei	150291295093342	Facebook	m18_24	male (18-24)	DE	Germany	1	1	279	55	5	0
+INITIATIVEN für ANKLAM e.V.	INITIATIVEN für ANKLAM e.V.	128373150568937	Facebook	m18_24	male (18-24)	DE	Germany	2	1	277	0	27	0
+BDI - Bundesverband der Deutschen Industrie	BDI - Bundesverband der Deutschen Industrie	186206440652	Facebook	m18_24	male (18-24)	DE	Germany	7	1	277	16	21	0
+DIE LINKE. Rhein-Erft-Kreis	Ernst Josef Püschel	954987347952113	Facebook	m18_24	male (18-24)	DE	Germany	1	1	271	54	5	0
+Junge Liberale Brandenburg	Matti Karstedt	83895604171	Facebook	m18_24	male (18-24)	DE	Germany	1	1	269	53	5	0
+Julien Bender	Julien Bender	650889958427112	Facebook	m18_24	male (18-24)	DE	Germany	3	1	269	0	26	0
+GRÜNE Harburg	GRÜNE Harburg	160969310615680	Facebook	m18_24	male (18-24)	DE	Germany	7	1	268	0	26	0
+Bündnis 90 / Die Grünen Kreisverband Neuwied	Bündnis 90/Die Grünen Rheinland-Pfalz	300264553458856	Facebook	m18_24	male (18-24)	DE	Germany	1	1	261	52	5	0
+Manchester City		208411345454	Facebook	m18_24	male (18-24)	DE	Germany	1	1	254	127	0	0
+SPD Saalfeld-Rudolstadt		351080588296416	Facebook	m18_24	male (18-24)	DE	Germany	1	1	251	50	4	0
+Maria Noichl,  SPD-Europaabgeordnete	Maria Noichl	450050631725648	Facebook	m18_24	male (18-24)	DE	Germany	1	1	251	50	4	0
+CDU Oberharmersbach		2355181551361771	Facebook	m18_24	male (18-24)	DE	Germany	1	1	249	0	24	0
+GRÜNE Altrip	Maurice Kuhn 	841193702677465	Facebook	m18_24	male (18-24)	DE	Germany	1	1	245	49	4	0
+SPD Rheydt / Odenkirchen	Christoph Tenberken 	1558516437749530	Facebook	m18_24	male (18-24)	DE	Germany	1	1	243	48	4	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	m18_24	male (18-24)	DE	Germany	1	1	237	47	4	0
+Freie Wähler Erfurt e.V.		273596282812761	Facebook	m18_24	male (18-24)	DE	Germany	1	1	225	0	22	0
+SPD Eimsbüttel-Nord		287425744627614	Facebook	m18_24	male (18-24)	DE	Germany	2	1	222	0	22	0
+LKS Brandenburg	Landeskoordinierungsstelle für LesBiSchwule & Trans* Belange des Landes Brandenburg	435393940553194	Facebook	m18_24	male (18-24)	DE	Germany	1	1	222	44	4	0
+AWB-Verlag		1086102314888400	Facebook	m18_24	male (18-24)	DE	Germany	1	1	221	0	21	0
+Bernhard Daldrup		392079271343256	Facebook	m18_24	male (18-24)	DE	Germany	1	1	221	0	21	0
+Vivant   Ostbelgien	Vivant Ostbelgien	1440393739538888	Facebook	m18_24	male (18-24)	DE	Germany	5	1	215	70	0	0
+Bündnis 90/Die Grünen KV Rhein-Hunsrück	Bündnis 90/Die Grünen Rheinland-Pfalz	180599695477992	Facebook	m18_24	male (18-24)	DE	Germany	1	1	215	43	4	0
+adidas Running		145629788018	Facebook	m18_24	male (18-24)	DE	Germany	1	1	212	42	4	0
+SPD Hilden	SPD Hilden	111826602193280	Facebook	m18_24	male (18-24)	DE	Germany	3	1	207	0	20	0
+AfD - Langenhagen.Garbsen.Seelze	Sven Wittneben	1627212914262311	Facebook	m18_24	male (18-24)	DE	Germany	1	1	206	41	4	0
+Thomas Picek - Stadtratskandidat 2019	Thomas Picek	358248751688022	Facebook	m18_24	male (18-24)	DE	Germany	1	1	206	41	4	0
+Grüne KV Trier-Saarburg	Bündnis 90/Die Grünen Rheinland-Pfalz	934286336747631	Facebook	m18_24	male (18-24)	DE	Germany	1	1	204	40	4	0
+Jutta Paulus	Jutta Paulus	398641690243628	Facebook	m18_24	male (18-24)	DE	Germany	1	1	204	102	2	0
+Bündnis 90/Die Grünen Wipperfürth		1651662058444657	Facebook	m18_24	male (18-24)	DE	Germany	1	1	202	0	20	0
+Johannes Steinbach	Johannes Georg Steinbach	1007248652804955	Facebook	m18_24	male (18-24)	DE	Germany	1	1	201	0	20	0
+Grüne Neustadt/Weinstrasse		147561962001281	Facebook	m18_24	male (18-24)	DE	Germany	1	1	200	40	3	0
+JUNOS Studierende	JUNOS Studierende	231166380411824	Facebook	m18_24	male (18-24)	DE	Germany	13	1	183	38	0	0
+Cornelius Hummel	Cornelius Hummel	2340231972875779	Facebook	m18_24	male (18-24)	DE	Germany	2	1	180	0	17	0
+MOJIITO		125984251502	Facebook	m18_24	male (18-24)	DE	Germany	1	1	177	0	15	0
+Energiewirtschaft einfach	Carsten Eckart 	2314352768828496	Facebook	m18_24	male (18-24)	DE	Germany	1	1	175	0	17	0
+SPD Löstertal	Eric Meyer	1692377320989262	Facebook	m18_24	male (18-24)	DE	Germany	2	1	173	0	17	0
+DIE LINKE. Leipzig Südost	William Lutz Rambow	2274419726213098	Facebook	m18_24	male (18-24)	DE	Germany	1	1	170	0	16	0
+Rosa-Luxemburg-Stiftung	Rosa-Luxemburg-Stiftung	134483979119	Facebook	m18_24	male (18-24)	DE	Germany	1	1	165	33	3	0
+Oliver Stirböck MdL - liberal leben	Kay Oliver Stirböck	597845546916967	Facebook	m18_24	male (18-24)	DE	Germany	1	1	160	32	3	0
 ÖDP Rems-Murr		166969103326187	Facebook	m18_24	male (18-24)	DE	Germany	2	1	156	0	15	0
-Bündnis 90 / Die Grünen Kreisverband Ortenau	Domenic Markus Preukschas	195589923029	Facebook	m18_24	male (18-24)	DE	Germany	2	1	154	0	15	0
-CDU Lübeck	Carsten Grohmann	380533325350911	Facebook	m18_24	male (18-24)	DE	Germany	1	1	145	0	14	0
-SPD Leutenbach	Pierre Orthen	1410718009143557	Facebook	m18_24	male (18-24)	DE	Germany	1	1	145	0	14	0
-SPD Berlin	SPD Berlin	134137749971478	Facebook	m18_24	male (18-24)	DE	Germany	1	1	139	0	13	0
-Partei der Humanisten Bremen	Axel Börold	1477347775705985	Facebook	m18_24	male (18-24)	DE	Germany	1	1	137	0	13	0
-Sebastian Heinel - FDP	Sebastian Heinel	2786523878032361	Facebook	m18_24	male (18-24)	DE	Germany	1	1	137	0	13	0
-AfD Hamburg-Bergedorf	Eugen Seiler 	179649492694260	Facebook	m18_24	male (18-24)	DE	Germany	1	1	134	0	13	0
-Leon Schwarze	Leon Schwarze	1047441932065318	Facebook	m18_24	male (18-24)	DE	Germany	1	1	128	0	12	0
-Juliane Steinmüller	Anne Juliane Steinmüller	1933244040136196	Facebook	m18_24	male (18-24)	DE	Germany	1	1	123	0	12	0
-Energiewirtschaft einfach	Carsten Eckart 	2314352768828496	Facebook	m18_24	male (18-24)	DE	Germany	1	1	121	0	11	0
-Jens Bennarend 4 Europe	Jens Bennarend 	607719632994986	Facebook	m18_24	male (18-24)	DE	Germany	1	1	120	0	11	0
-POST VON GEHRKE	Elmar Gehrke	630172117364339	Facebook	m18_24	male (18-24)	DE	Germany	1	1	115	23	2	0
-Karsten Klein	Karsten Klein	120519827980254	Facebook	m18_24	male (18-24)	DE	Germany	1	1	112	22	2	0
-AfD Kreisverband Wittenberg	Anne Grünschneder	1409546049300997	Facebook	m18_24	male (18-24)	DE	Germany	1	1	111	0	11	0
-CDU Stadtverband Nauen	CDU Nauen	425338230825019	Facebook	m18_24	male (18-24)	DE	Germany	1	1	107	0	10	0
-FDP NRW	FDP NRW	282800387209	Facebook	m18_24	male (18-24)	DE	Germany	1	1	106	0	10	0
+Jan-Phillip Niediek - Mehrwertstadt Kandidat des Erfurter Stadtrats		626473311123293	Facebook	m18_24	male (18-24)	DE	Germany	1	1	147	0	14	0
+DIE LINKE. Eisenberg und Umgebung	Knut Meenzen	1014856435381833	Facebook	m18_24	male (18-24)	DE	Germany	1	1	144	28	2	0
+Grüne Jugend Kassel	Johannes Kreuzer	116897208384893	Facebook	m18_24	male (18-24)	DE	Germany	2	1	141	0	14	0
+Familien-Partei Deutschlands		449943065100732	Facebook	m18_24	male (18-24)	DE	Germany	2	1	140	0	13	0
+Bündnis 90 / Die Grünen Pulheim	Bündnis90/DieGrünen	432699783473251	Facebook	m18_24	male (18-24)	DE	Germany	1	1	134	26	2	0
+CDU Herzogtum Lauenburg	Stefan Schwab	158666530853631	Facebook	m18_24	male (18-24)	DE	Germany	1	1	132	26	2	0
+Tabitha Elkins- Politikerin		966605413470428	Facebook	m18_24	male (18-24)	DE	Germany	2	1	131	0	13	0
+Marvin Gründer	Marvin Gründer	178387796399685	Facebook	m18_24	male (18-24)	DE	Germany	1	1	126	0	12	0
+CDU Lübeck	Carsten Grohmann	380533325350911	Facebook	m18_24	male (18-24)	DE	Germany	1	1	125	0	12	0
+Corinna Miazga	Corinna Miazga	1720472504912063	Facebook	m18_24	male (18-24)	DE	Germany	3	1	122	19	4	0
+SPD Sachsen-Anhalt	SPD Sachsen-Anhalt	107652469330889	Facebook	m18_24	male (18-24)	DE	Germany	1	1	118	0	11	0
+Leon Köhler, FDP	Leon Köhler	1935764570072143	Facebook	m18_24	male (18-24)	DE	Germany	1	1	117	0	11	0
+Nachtschicht		192860860731367	Facebook	m18_24	male (18-24)	DE	Germany	1	1	117	23	2	0
+DIE LINKE. Völklingen / Großrosseln	Sebastian Oliver Borchart	833691543395253	Facebook	m18_24	male (18-24)	DE	Germany	2	1	116	0	11	0
+SPD Leverkusen	SPD Unterbezirk Leverkusen	426480284131651	Facebook	m18_24	male (18-24)	DE	Germany	2	1	114	19	3	0
+Gütersloher Verlagshaus		341789431722	Facebook	m18_24	male (18-24)	DE	Germany	1	1	113	22	2	0
+ÖDP Sachsen	Markus Peter Taubert	912568865484871	Facebook	m18_24	male (18-24)	DE	Germany	1	1	110	0	10	0
+Bündnis 90/Die Grünen Mainz-Bingen	Bündnis 90/Die Grünen Rheinland-Pfalz	1414685082192525	Facebook	m18_24	male (18-24)	DE	Germany	1	1	110	22	2	0
+Maike Schaefer	Grüne Bremen	414838355990117	Facebook	m18_24	male (18-24)	DE	Germany	1	1	108	21	2	0
+Time to Win - João Rafael Franco		387638755124329	Facebook	m18_24	male (18-24)	DE	Germany	1	1	107	0	10	0
 Landhotel Tannenhof***S		110369589038456	Facebook	m18_24	male (18-24)	DE	Germany	1	1	106	0	10	0
-Martin Hohmann, MdB	Martin Hohmann	1942497819398764	Facebook	m18_24	male (18-24)	DE	Germany	1	1	97	0	9	0
-Robert Farle	Robert Farle	1565754943752371	Facebook	m18_24	male (18-24)	DE	Germany	1	1	97	48	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	m18_24	male (18-24)	DE	Germany	2	1	95	19	0	0
-Evgenij Renke	Evgenij Renke	1338595192842451	Facebook	m18_24	male (18-24)	DE	Germany	1	1	92	0	9	0
-knopi41	Hendrik Knop	410145443134612	Facebook	m18_24	male (18-24)	DE	Germany	1	1	92	0	9	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	m18_24	male (18-24)	DE	Germany	4	1	86	29	0	0
-Bündnis 90 / Die Grünen Thüringen	BÜNDNIS 90/DIE GRÜNEN Thüringen	445962318752667	Facebook	m18_24	male (18-24)	DE	Germany	1	1	82	0	8	0
-CDU Niederzissen	CDU Niederzissen	701331996576388	Facebook	m18_24	male (18-24)	DE	Germany	1	1	80	0	8	0
-SPD Remseck am Neckar	SPD Remseck a.N.	347490025813757	Facebook	m18_24	male (18-24)	DE	Germany	1	1	79	0	7	0
-Bündnis 90 / Die Grünen Gera	Thomas Michael Wieden	260306127714114	Facebook	m18_24	male (18-24)	DE	Germany	1	1	71	0	7	0
-Dr. Hagen Brauer	Dr. Hagen Brauer	2028232547252504	Facebook	m18_24	male (18-24)	DE	Germany	1	1	70	0	7	0
-Europa Terra Nostra	Europa Terra Nostra e.V.	273074413028074	Facebook	m18_24	male (18-24)	DE	Germany	1	1	70	0	6	0
-SPD POTSDAM	SPD Potsdam	123837087688700	Facebook	m18_24	male (18-24)	DE	Germany	1	1	67	0	6	0
-AfD Fraktion Darmstadt	AfD-Darmstadt-Fraktion	1287910941236600	Facebook	m18_24	male (18-24)	DE	Germany	1	1	67	0	6	0
-Diakonie Schleswig-Holstein	Diakonie Schleswig-Holstein	197647650755276	Facebook	m18_24	male (18-24)	DE	Germany	1	1	65	0	6	0
-SPD Oberneuland	SPD Oberneuland	1638965259687442	Facebook	m18_24	male (18-24)	DE	Germany	1	1	64	0	6	0
-GoodJobs	GoodJobs	1004883576238809	Facebook	m18_24	male (18-24)	DE	Germany	2	1	64	12	1	0
+SPD Hamburg-Nord	SPD Hamburg Nord	353378978043242	Facebook	m18_24	male (18-24)	DE	Germany	1	1	105	0	10	0
+Bürgerforum/ Grüne Radebeul		324457768204239	Facebook	m18_24	male (18-24)	DE	Germany	1	1	102	0	10	0
+CDU Schönefeld	CDU Gemeindeverband Schönefeld	563242443857193	Facebook	m18_24	male (18-24)	DE	Germany	1	1	102	0	10	0
+VBE NRW	Verband Bildung und Erziehung NRW e.V.	337954219575798	Facebook	m18_24	male (18-24)	DE	Germany	4	1	100	12	4	0
+SP Ostbelgien	SP Ostbelgien	183856108612877	Facebook	m18_24	male (18-24)	DE	Germany	3	1	96	19	0	0
+Es ist dein Land	SPD Sachsen	2290537637836798	Facebook	m18_24	male (18-24)	DE	Germany	1	1	93	0	9	0
+CDH liste à la Chambre province de Liège	CDH - Centre Démocrate Humaniste	268478507423505	Facebook	m18_24	male (18-24)	DE	Germany	7	1	92	45	0	0
+GRAS - Grüne & Alternative Student_innen	GRAS - Grüne & Alternative Student_innen	79935247286	Facebook	m18_24	male (18-24)	DE	Germany	14	1	88	30	0	0
+BfL Uhlstädt-Kirchhasel		432103994260037	Facebook	m18_24	male (18-24)	DE	Germany	1	1	88	0	8	0
+Alain Mertes	Vivant Ostbelgien	168912413949537	Facebook	m18_24	male (18-24)	DE	Germany	2	1	86	17	0	0
+Uwe Gewiese - Burgenlandkreis	Uwe Gewiese	1814149425539524	Facebook	m18_24	male (18-24)	DE	Germany	1	1	84	16	1	0
+Eva Urlitzki Acryl Art		218354455429651	Facebook	m18_24	male (18-24)	DE	Germany	1	1	83	0	8	0
+B90/Die Grünen Gemeinderat Pforzheim		1645160222468810	Facebook	m18_24	male (18-24)	DE	Germany	1	1	82	0	8	0
+DiB Stuttgart	DEMOKRATIE IN BEWEGUNG	2003975323016762	Facebook	m18_24	male (18-24)	DE	Germany	1	1	81	16	1	0
+Les Wallons ne sont pas des parasites.Les Belges d'abord.		159664670746380	Facebook	m18_24	male (18-24)	DE	Germany	1	1	81	40	0	0
+DSM Bright Science Brighter Living		188811517806232	Facebook	m18_24	male (18-24)	DE	Germany	1	1	80	16	0	0
+Tina Kirchhoff		282371288607771	Facebook	m18_24	male (18-24)	DE	Germany	1	1	80	0	7	0
+Jakub Ziółkowski	KW Wiosna Roberta Biedronia	728590287185661	Facebook	m18_24	male (18-24)	DE	Germany	3	1	79	15	0	0
+D66 Enschede	D66	123661660977745	Facebook	m18_24	male (18-24)	DE	Germany	1	1	78	39	0	0
+SPD Misburg	SPD-Ortsverein Misburg	413229602215399	Facebook	m18_24	male (18-24)	DE	Germany	1	1	74	0	7	0
+Daniel Wald		318396151841792	Facebook	m18_24	male (18-24)	DE	Germany	1	1	73	0	7	0
+INA D		47534907213	Facebook	m18_24	male (18-24)	DE	Germany	1	1	73	0	7	0
+Dr. Jaroslaw Poljak		326402801476677	Facebook	m18_24	male (18-24)	DE	Germany	1	1	72	0	7	0
+Tobias Jürschke		296545291018094	Facebook	m18_24	male (18-24)	DE	Germany	1	1	69	0	6	0
+Roman Knop	Andrzej Bartosz Piotrowicz	749503038777719	Facebook	m18_24	male (18-24)	DE	Germany	6	1	66	29	0	0
+Service- und Kompetenzzentrum: Kommunaler Klimaschutz - SK:KK	Service- und Kompetenzzentrum: Kommunaler Klimaschutz (SK:KK) am Deutschen Institut für Urbanistik gGmbH	353503884759841	Facebook	m18_24	male (18-24)	DE	Germany	2	1	65	4	4	0
+AfD Stadtverband Espelkamp		1826012814160716	Facebook	m18_24	male (18-24)	DE	Germany	2	1	62	11	1	0
 Alternative für Deutschland Kreisverband Rhein - Pfalz - Kreis		1190983027642287	Facebook	m18_24	male (18-24)	DE	Germany	1	1	62	0	6	0
-Unabhängige Liste Furtwangen	Reinhard Paul Hübner	212149755662884	Facebook	m18_24	male (18-24)	DE	Germany	1	1	60	0	6	0
-Erik Stohn	SPD Teltow-Fläming	276626369175307	Facebook	m18_24	male (18-24)	DE	Germany	1	1	55	0	5	0
-SPD-Unterbezirk Landkreis Harburg	SPD-Landkreis Harburg	131320197513529	Facebook	m18_24	male (18-24)	DE	Germany	1	1	50	0	4	0
-SPD Friedrichshafen	Luca Elias Baumann	227497950644482	Facebook	m18_24	male (18-24)	DE	Germany	1	1	49	0	4	0
-Roland Theis	CDU Saar	792165517819607	Facebook	m18_24	male (18-24)	DE	Germany	1	1	48	0	4	0
-Alternative für Deutschland - Kreisverband Mittelsachsen	AfD Mittelsachsen	495527383854650	Facebook	m18_24	male (18-24)	DE	Germany	1	1	45	0	4	0
-BÜNDNIS 90/DIE GRÜNEN Köthen	BÜNDNIS 90/DIE GRÜNEN Kreisverband Anhalt-Bitterfeld	674211959665855	Facebook	m18_24	male (18-24)	DE	Germany	1	1	38	0	3	0
-Luigi Pantisano	Luigi Pantisano	1006758069529993	Facebook	m18_24	male (18-24)	DE	Germany	1	1	31	0	3	0
-Rosa-Luxemburg-Stiftung	Rosa-Luxemburg-Stiftung	134483979119	Facebook	m18_24	male (18-24)	DE	Germany	1	1	28	0	2	0
-Corinna Miazga	Corinna Miazga	1720472504912063	Facebook	m18_24	male (18-24)	DE	Germany	1	1	24	0	2	0
-Tabitha Elkins- Politikerin		966605413470428	Facebook	m18_24	male (18-24)	DE	Germany	1	1	23	0	2	0
-Ökologisch-Demokratischer Pressedienst Nordrhein-Westfalen	Ökologisch-Demokratische Partei (ÖDP) 	105695189827319	Facebook	m18_24	male (18-24)	DE	Germany	1	1	22	0	2	0
-Witold Pahl	Sikker sp. z o.o.	1643994439224385	Facebook	m18_24	male (18-24)	DE	Germany	1	1	17	3	0	0
-Karsten Hilse	Karsten Hilse 	358099231236311	Facebook	m18_24	male (18-24)	DE	Germany	1	1	14	0	1	0
-VBE NRW	Verband Bildung und Erziehung NRW e.V.	337954219575798	Facebook	m18_24	male (18-24)	DE	Germany	1	1	12	0	1	0
-Bündnis 90/Die Grünen Kreisverband Barnim	Torsten Eckart Wiebke	2095662597197606	Facebook	m18_24	male (18-24)	DE	Germany	1	1	12	0	1	0
-CDH liste à la Chambre province de Liège	CDH - Centre Démocrate Humaniste	268478507423505	Facebook	m18_24	male (18-24)	DE	Germany	3	1	12	2	0	0
-GRAS - Grüne & Alternative Student_innen	GRAS - Grüne & Alternative Student_innen	79935247286	Facebook	m18_24	male (18-24)	DE	Germany	1	1	9	1	0	0
-VoteEuropa - France	Jules Nicolas André Bejot 	2031732090462417	Facebook	m18_24	male (18-24)	DE	Germany	2	1	5	1	0	0
-Alain Mertes	Vivant Ostbelgien	168912413949537	Facebook	m18_24	male (18-24)	DE	Germany	1	1	3	0	0	0
-VoteEuropa Nederland	Lacsamana Marlon Toledo	373618906826123	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2	1	0	0
-Jeroen Lenaers	Jeroen Lenaers	316960281776479	Facebook	m18_24	male (18-24)	DE	Germany	2	1	1	0	0	0
-Die neue SPÖ Tirol	SPÖ Tirol	172040642860223	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1	0	0	0
+SPD Oranienburg	Matthias Björn Henning	151967014990793	Facebook	m18_24	male (18-24)	DE	Germany	1	1	60	0	5	0
+BLOOMY DAYS	Fleurop.de	151936418263116	Facebook	m18_24	male (18-24)	DE	Germany	1	1	59	11	1	0
+Unabhängige Wählergemeinschaft -UWG		2342244099426432	Facebook	m18_24	male (18-24)	DE	Germany	1	1	58	0	5	0
+Verein Recht und Freiheit		1162229030454420	Facebook	m18_24	male (18-24)	DE	Germany	2	1	57	10	1	0
+FDP / Liberale Liste Karlsbad	Björn Kornmüller	1233916510093652	Facebook	m18_24	male (18-24)	DE	Germany	1	1	56	0	5	0
+CDU Bernau	CDU Bernau	688245224654106	Facebook	m18_24	male (18-24)	DE	Germany	1	1	48	0	4	0
+GRÜNE Neustrelitz	Falk Jagszent 	1424946787785800	Facebook	m18_24	male (18-24)	DE	Germany	1	1	47	0	4	0
+Big News Buzz		125179374733697	Facebook	m18_24	male (18-24)	DE	Germany	1	1	46	23	0	0
+Jeroen Lenaers	Jeroen Lenaers	316960281776479	Facebook	m18_24	male (18-24)	DE	Germany	7	1	46	22	0	0
+VoteEuropa Nederland	Lacsamana Marlon Toledo	373618906826123	Facebook	m18_24	male (18-24)	DE	Germany	3	1	45	9	0	0
+Liste für alternative Demokratie - LAD		481527161949743	Facebook	m18_24	male (18-24)	DE	Germany	1	1	45	0	4	0
+Linksfraktion Hamm	DIE LINKE im Rat der Stadt Hamm	455925964552213	Facebook	m18_24	male (18-24)	DE	Germany	1	1	44	0	4	0
+Sebastian Lucke	Sebastian Lucke	199847787087074	Facebook	m18_24	male (18-24)	DE	Germany	1	1	43	0	4	0
+Hounds and People		250091041702057	Facebook	m18_24	male (18-24)	DE	Germany	1	1	40	0	4	0
+Give Us A Voice Lëtzebuerg		1505184473073824	Facebook	m18_24	male (18-24)	DE	Germany	1	1	38	19	0	0
+Miriam Schreiber - Social Media & Digitale Kommunikation	Miriam Erika Schreiber	1589804161093513	Facebook	m18_24	male (18-24)	DE	Germany	1	1	37	0	3	0
+James White		347102508634864	Facebook	m18_24	male (18-24)	DE	Germany	1	1	37	0	4	0
+Kommunalwahlen 2019 Ludwigshafen		607737313075178	Facebook	m18_24	male (18-24)	DE	Germany	1	1	37	0	3	0
+Coffeenewstom		315975755506868	Facebook	m18_24	male (18-24)	DE	Germany	1	1	36	0	3	0
+Partij voor de Dieren	Partij voor de Dieren	102287806490622	Facebook	m18_24	male (18-24)	DE	Germany	14	1	35	14	0	0
+Aktiv für Oberhof	Aktiv für Oberhof	267989063382009	Facebook	m18_24	male (18-24)	DE	Germany	1	1	34	0	3	0
+DEUTSCHLANDräumt auf - World CleanUp Day - 21. Sep. 2019	DEUTSCHLANDmacht - Let's Do It! Germany e.V.	584899344998752	Facebook	m18_24	male (18-24)	DE	Germany	1	1	31	0	3	0
+ETUC		129041250601685	Facebook	m18_24	male (18-24)	DE	Germany	1	1	31	6	0	0
+VCD Baden-Württemberg		871002976291797	Facebook	m18_24	male (18-24)	DE	Germany	1	1	30	0	2	0
+Heike Troles		1551114491865638	Facebook	m18_24	male (18-24)	DE	Germany	1	1	29	0	2	0
+GRÜNE Kreisverband Mayen-Koblenz	Bündnis 90/Die Grünen Rheinland-Pfalz	1658220697780168	Facebook	m18_24	male (18-24)	DE	Germany	1	1	29	0	2	0
+VoteEuropa - France	Jules Nicolas André Bejot 	2031732090462417	Facebook	m18_24	male (18-24)	DE	Germany	7	1	26	5	0	0
+SPD Heidekreis	Stephanie Havemann	513311682127338	Facebook	m18_24	male (18-24)	DE	Germany	1	1	24	0	2	0
+CLAYTON		122493385103	Facebook	m18_24	male (18-24)	DE	Germany	1	1	21	4	0	0
+SPD OV Denning	Marko Poggenpohl	439757922821577	Facebook	m18_24	male (18-24)	DE	Germany	1	1	20	0	2	0
+Sven Zagała	KW Wiosna Roberta Biedronia	2215190752031133	Facebook	m18_24	male (18-24)	DE	Germany	6	1	20	4	0	0
+Jan Petry	Jan Oliver Petry	351383802114927	Facebook	m18_24	male (18-24)	DE	Germany	1	1	19	0	1	0
+Free Quran Education		388655174641163	Facebook	m18_24	male (18-24)	DE	Germany	2	1	19	8	0	0
+Witold Pahl	Sikker sp. z o.o.	1643994439224385	Facebook	m18_24	male (18-24)	DE	Germany	2	1	17	3	0	0
+Ne u moje ime		138418753446889	Facebook	m18_24	male (18-24)	DE	Germany	1	1	17	3	0	0
+Bündnis 90/Die Grünen Kreisverband Barnim	Torsten Eckart Wiebke	2095662597197606	Facebook	m18_24	male (18-24)	DE	Germany	1	1	14	0	1	0
+Gabriela Mirescu		2618888988127707	Facebook	m18_24	male (18-24)	DE	Germany	2	1	13	6	0	0
+Jimmy Bastings	Bastings Jimmy Anna Hubertus	2262432790696805	Facebook	m18_24	male (18-24)	DE	Germany	1	1	13	6	0	0
+Die neue SPÖ Tirol	SPÖ Tirol	172040642860223	Facebook	m18_24	male (18-24)	DE	Germany	4	1	12	4	0	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	m18_24	male (18-24)	DE	Germany	2	1	12	6	0	0
+Tobias Krammer	Tobias Krammer	1643134582482219	Facebook	m18_24	male (18-24)	DE	Germany	1	1	11	2	0	0
+CRIF		395919323779707	Facebook	m18_24	male (18-24)	DE	Germany	1	1	8	4	0	0
+Elżbieta Jabłońska - Przewodnicząca Rady Miasta Świnoujście	KKW Koalicja Europejska PO PSL SLD .N Zieloni	659137817565779	Facebook	m18_24	male (18-24)	DE	Germany	1	1	8	4	0	0
+Europe Thinx		335839580440114	Facebook	m18_24	male (18-24)	DE	Germany	1	1	6	1	0	0
+Plictisescu.ro		184028071751540	Facebook	m18_24	male (18-24)	DE	Germany	1	1	6	3	0	0
+Minister Harald Mollers	Harald Mollers	1869992013240347	Facebook	m18_24	male (18-24)	DE	Germany	1	1	6	1	0	0
+Henk Jan Ormel	CDA	823537391322678	Facebook	m18_24	male (18-24)	DE	Germany	1	1	6	3	0	0
+Toine Manders		435867793202351	Facebook	m18_24	male (18-24)	DE	Germany	1	1	5	1	0	0
+G. Katsiashvili		450835425680654	Facebook	m18_24	male (18-24)	DE	Germany	1	1	4	0	0	0
+Piraten Bezierk Osten		141480992729926	Facebook	m18_24	male (18-24)	DE	Germany	1	1	4	0	0	0
+Partij van de Arbeid (PvdA)	Partij van de Arbeid (PvdA)	113895885305052	Facebook	m18_24	male (18-24)	DE	Germany	1	1	3	0	0	0
+Angelika Winzig	Wirtschaftsbund Österreich	141015722773374	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2	0	0	0
+Sissel van Run-Kvist	Kvist Sissel	176580099127279	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2	0	0	0
+Alexander Miesen	Alexander Marcellus Miesen	136747073688457	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2	0	0	0
+Paul Magnette		29384148415	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2	0	0	0
+Annick Laloux-Ruelle	Frédéric Ruelle	630009867450719	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2	0	0	0
+Christophe Lacroix	Denis De Nicolo 	487300758065559	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2	0	0	0
+Razem Lubuskie	KKW Lewica Razem - Razem, Unia Pracy, RSS	859639814104576	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2	1	0	0
+Tom MacDonald		212732770186	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2	0	0	0
+Gary Diderich	Gary Diderich	73144437219	Facebook	m18_24	male (18-24)	DE	Germany	1	1	2	0	0	0
+KPÖ PLUS	KPÖ PLUS	849742871847407	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1	0	0	0
+Eurozine		115579498521257	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1	0	0	0
+dom-i-NEEK		260052198180831	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1	0	0	0
+Tokyo Weekender		134654693230171	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1	0	0	0
 Davide Artiko		789495278077545	Facebook	m18_24	male (18-24)	DE	Germany	1	1	1	0	0	0
-Gary Diderich	Gary Diderich	73144437219	Facebook	m18_24	male (18-24)	DE	Germany	1	1	0	0	0	0
-Tobias Krammer	Tobias Krammer	1643134582482219	Facebook	m18_24	male (18-24)	DE	Germany	1	1	0	0	0	0
+Benny Engelbrecht	Socialdemokratiet	270431402967189	Facebook	m18_24	male (18-24)	DE	Germany	1	1	0	0	0	0
+Zenia Stampe	Zenia Stampe	127344360615074	Facebook	m18_24	male (18-24)	DE	Germany	1	1	0	0	0	0
+Venstre, Danmarks Liberale Parti	Venstre, Danmarks Liberale Parti	21465928829	Facebook	m18_24	male (18-24)	DE	Germany	1	1	0	0	0	0
+Niels Flemming Hansen	Hansen Niels Flemming Schultz	177609692660255	Facebook	m18_24	male (18-24)	DE	Germany	1	1	0	0	0	0
+Mathias Christiansen - Folketingskandidat	Friis Rune Robert	295474127816294	Facebook	m18_24	male (18-24)	DE	Germany	1	1	0	0	0	0
+Erik Poulsen - kandidat til Europa-Parlamentet	Erik Poulsen - kandidat til Europa-Parlamentet	203735820417737	Facebook	m18_24	male (18-24)	DE	Germany	1	1	0	0	0	0
+Raf Terwingen	Raf Terwingen	421841541630421	Facebook	m18_24	male (18-24)	DE	Germany	1	1	0	0	0	0
+MR - Mouvement Réformateur	MR - Mouvement Réformateur	236330169511	Facebook	m18_24	male (18-24)	DE	Germany	2	1	0	0	0	0
+An Christiaens	Christiaens An Liliane B	427409014327861	Facebook	m18_24	male (18-24)	DE	Germany	1	1	0	0	0	0
+Melanie Blesgen, Candidate aux élections régionales 2019	Melanie Blesgen	408261873079490	Facebook	m18_24	male (18-24)	DE	Germany	1	1	0	0	0	0
+Česká společnost ornitologická	Česká společnost ornitologická	479746075051	Facebook	m18_24	male (18-24)	DE	Germany	1	1	0	0	0	0
+Koalicja Europejska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	3116013818724635	Facebook	m18_24	male (18-24)	DE	Germany	1	1	0	0	0	0
+ITUC		20556338116	Facebook	m18_24	male (18-24)	DE	Germany	1	1	0	0	0	0
+The Years Project	The Years Project	168876449866088	Facebook	m18_24	male (18-24)	DE	Germany	1	1	0	0	0	0
+Fundacja Czyste Powietrze	Magdalena Strózik 	282404075935482	Facebook	m18_24	male (18-24)	DE	Germany	1	1	0	0	0	0

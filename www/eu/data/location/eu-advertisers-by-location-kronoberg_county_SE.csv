@@ -1,34 +1,194 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Moderaterna	Moderaterna	7719591155	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	19	1	13626	5646	183	44
-Eric Luth	Eric Luth – Centerpartiet	757931234599499	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	5	1	8226	2429	116	24
-Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	4279	2139	99	19
-Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	2537	575	31	6
-Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	5	1	2367	528	12	3
-European Parliament	European Parliament	178362315106	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	1933	967	9	1
-ActionAid Sweden	ActionAid Sweden	18880778360	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	1674	334	15	3
-Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	1277	255	11	2
-Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	369	184	2	1
-Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	358	65	3	0
-Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	7	1	314	54	2	0
-Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	289	57	2	0
-En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	4	1	279	38	1	0
-Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	5	1	150	0	1	0
-Folkstyret	Ströberg Mikael	1243789685638222	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	148	29	1	0
-Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	106	21	0	0
-KDU Sverige	KDU Sverige	177549278946958	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	101	20	0	0
-Fredrick Federley	Fredrick Federley	189892183097	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	98	19	0	0
-Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	98	19	0	0
-Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	85	17	0	0
-Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	71	14	0	0
-Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	68	13	0	0
-Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	67	0	0	0
-European Commission	European Commission	107898832590939	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	33	17	0	0
-Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	28	0	0	0
-Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	24	0	0	0
-Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	22	0	1	0
-Anders Rehnberg till Europaparlamentet	Rehnberg Anders John Henry	362678667854817	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	21	0	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	14	3	0	0
-Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	12	2	0	0
-David Lega	Kristdemokraterna	251829904829983	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	11	0	0	0
-Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	11	0	0	0
+Moderaterna	Moderaterna	7719591155	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	127	1	252595	102002	4033	965
+Valmyndigheten	Valmyndigheten	1737852076287450	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	59	1	251366	110476	1492	373
+Miljöpartiet de gröna i Växjö	Miljöpartiet de gröna i Växjö	115219002018409	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	12	1	149569	38262	2228	499
+Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	45	1	127512	55088	1653	493
+Miljöpartiet de gröna	Miljöpartiet de gröna	34780126150	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	39	1	119294	54376	1328	296
+Socialdemokraterna	Socialdemokraterna	8040892957	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	360	1	84161	29587	1423	320
+Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	73	1	82670	29361	1318	432
+European Commission	European Commission	107898832590939	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	25	1	66136	32774	417	141
+European Parliament	European Parliament	178362315106	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	19	1	63526	29007	554	206
+Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	32	1	62473	20379	421	133
+Centerpartiet	Centerpartiet	12690894340	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	28	1	61809	26863	1006	420
+European Greens	European Greens	141366725876424	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	9	1	43259	19813	539	169
+SSU	SSU	45101268520	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	36	1	41341	15786	704	172
+Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	37	1	33524	8869	414	157
+Plan International Sverige	Plan International Sverige	382243262003	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	30	1	31619	13517	232	70
+Centerpartiets Ungdomsförbund	Centerpartiets Ungdomsförbund	110793008936879	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	9	1	30170	13287	300	73
+Vänsterpartiet	Vänsterpartiet	323156205347	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	67	1	25609	5857	170	37
+Christoffer Nordmark	Christoffer Nordmark	2407206712838704	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	8	1	23388	3892	143	18
+Eric Luth	Eric Luth – Centerpartiet	757931234599499	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	6	1	19279	4448	178	41
+Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	7	1	17920	8307	373	86
+Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	22	1	17388	5998	246	66
+Rädda Barnen	Rädda Barnen	72659261793	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	93	1	17343	4912	129	26
+Operation Smile Sverige	Operation Smile Sverige	161213770567846	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	92	1	14539	2769	132	24
+Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	28	1	10374	2617	138	40
+Moderaterna i Växjö kommun	Moderaterna Kronoberg	262695680545557	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	10284	4671	476	95
+Tomas Tobé	Moderaterna	1829725353928210	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	35	1	10064	2578	167	37
+Jordens Vänner / Friends of the Earth Sweden	Jordens Vänner / Friends of the Earth Sweden	207890945895422	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	6	1	9616	3267	31	6
+Svenskt Näringsliv	Svenskt Näringsliv	90882504375	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	5	1	8559	3989	196	45
+Magnus Thulin - Centerpartiet	Thulin Magnus Nils Oscar	161302754576832	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	8	1	8517	1703	88	23
+Unga Feminister	Unga Feminister	100642360004457	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	9	1	7679	2243	78	21
+Fredrick Federley	Fredrick Federley	189892183097	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	5	1	7258	2679	57	17
+LO Sverige	LO Sverige	163820136238	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	7219	3281	110	22
+Arabiska Teatern / أرابيسكا تياترن	Arabiska Teatern / أرابيسكا تياترن	996264337099052	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	7026	3466	33	12
+Sverige för UNHCR	Viva Media	643137272398136	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	6987	3467	55	11
+Socialdemokraterna i Jönköpings län	Socialdemokraterna i Jönköpings län	390479295816	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	6337	1267	58	11
+Diakonia	Diakonia	42676805259	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	13	1	6080	1960	36	8
+Feministiskt initiativ	Feministiskt initiativ	112513375470294	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	7	1	5486	1155	126	25
+IF Metall	IF Metall	108492218918	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	10	1	5408	1522	38	8
+En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	21	1	5209	1217	39	9
+Stefan Löfven	Socialdemokraterna	329885883718979	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	5039	2016	186	93
+Skogsindustrierna	Skogsindustrierna 	182933185135	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	4833	2128	26	10
+Heléne Fritzon	Socialdemokraterna	767749640051136	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	20	1	4580	1007	42	9
+Gustav Hemming	Gustav Hemming (Centerpartiet)	722853564439941	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	6	1	4486	1543	121	24
+David Lega	Kristdemokraterna	251829904829983	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	6	1	4483	991	53	10
+Annie Lööf	Centerpartiet	118943054880945	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	4	1	4468	893	33	7
+Sverigedemokraterna Region Stockholm	SD Stockholm	1729304067391998	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	5	1	4435	887	41	8
+Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	28	1	4341	929	37	7
+Liberalerna	Liberalerna	132266740623	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	12	1	4141	1050	87	17
+Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	6	1	3787	959	50	10
+Henrik Sundström - M	Sundström Claes Henrik	180745369170	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	8	1	3764	812	20	5
+Emma Wiesner	Emma Wiesner (Centerpartiet)	653072158104424	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	12	1	3570	805	22	5
+Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	3399	1390	20	4
+6F - Fackförbund i samverkan	6F - Fackförbund i samverkan	720556414800953	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	3358	671	31	6
+KDU Sverige	KDU Sverige	177549278946958	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	8	1	3001	850	52	11
+Liberala ungdomsförbundet	Tilstam Emilie Josefin	108941769135355	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	5	1	2667	529	25	5
+Allan Widman	Liberalerna	540799486089503	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	2621	1062	90	18
+EU-kommissionen i Sverige	EU-kommissionen i Sverige	155824787799	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	2321	1160	20	9
+Evin Incir	Socialdemokraterna i Uppsala län	1439778006254125	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	2317	463	21	4
+ABF	ABF	80386149597	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	2223	1111	11	2
+Djurens parti	Eriksson Monica Maria Therese	207364469446997	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	2163	504	18	3
+Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	5	1	2145	424	31	6
+Skiftet	Skiftet	100650935646	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	2124	487	19	4
+Medborgerlig Samling	Medborgerlig Samling	189332844828330	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	1908	381	17	3
+ActionAid Sweden	ActionAid Sweden	18880778360	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	8	1	1887	368	18	4
+Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	6	1	1851	507	25	5
+Svensk Handel	Svensk Handel	120477444659925	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	5	1	1826	484	4	0
+Anders Rehnberg till Europaparlamentet	Rehnberg Anders John Henry	362678667854817	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	6	1	1731	416	27	6
+Jessica Polfjärd	Moderaterna	337086006951883	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	4	1	1664	519	38	7
+Jonas Sjöstedt		261331320599298	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	1653	330	9	2
+Vänsterpartiet Jönköpings län	Vänsterpartiet Jönköpings län	433323816696224	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	4	1	1511	280	18	3
+Frihet	Hayrynen Lotta Ilona	1722887348013516	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	9	1	1506	691	21	7
+WaterAid Sverige	WaterAid Sverige	175843834306	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	1359	346	4	2
+Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	18	1	1344	239	17	3
+Socialdemokraterna i Borås	Socialdemokraterna i Borås	104604012928735	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	1313	262	12	2
+Moderaterna Kronoberg	Moderaterna Kronoberg	234282713350536	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	1307	261	12	2
+Slöseriombudsmannen	Skattebetalarna	408171019221426	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	12	1	1221	531	6	1
+En bättre framtid	Plan International Sverige	1173808162671999	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	7	1	1185	230	10	1
+Liberala Studenter	Heimbrand Christoffer	118645251482192	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	14	1	1144	324	8	1
+Hungerprojektet	Hungerprojektet	212049035488183	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	1091	218	10	2
+Vi-skogen	Vi-skogen	356032977210	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	1058	211	9	1
+Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	23	1	1056	194	6	0
+Internet Advertising		303479743893373	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	1045	209	10	2
+Liberalerna Örebro län	Liberalerna i Örebro län	388964421149126	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	966	191	8	1
+Yrkesdörren	ÖppnaDörren	1047016558650888	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	10	1	842	292	9	3
+Jörgen Warborn EU-kandidat	Moderaterna	56002955332	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	4	1	836	169	8	2
+Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	13	1	820	205	6	0
+KDU Jönköpings län	KDU Jönköpings län	1502764403290092	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	801	204	12	2
+Centerkvinnorna	Lek Ingrid Magdalena	265585313460256	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	8	1	729	130	8	1
+Saco	Saco	133910158381	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	714	142	1	0
+Centerpartiet i Uppsala län	Grew Hedda Anna Magdalena Jarta	801293393230795	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	5	1	713	285	6	2
+CIVIL RIGHTS DEFENDERS	CIVIL RIGHTS DEFENDERS	128452220525979	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	682	136	12	6
+Olof Palme International Center	Olof Palme International Center	62185934430	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	5	1	673	276	6	2
+Ydrenäs4EU	Ydrenas Hans Rickard	1538819782888095	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	663	132	6	1
+Forum Syd	Forum Syd	152060917636	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	5	1	628	236	5	2
+Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	5	1	613	122	6	1
+Socialdemokraterna i Skåne	Socialdemokraterna i Skåne	102414309949126	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	6	1	567	143	7	2
+Kristdemokraterna i Dalarna	Kristdemokraterna Dalarna	321670347944266	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	5	1	510	145	33	7
+Kristdemokraterna i Jönköpings län	Kristdemokraterna Jönköpings län	116545538368003	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	502	157	7	3
+Liberalerna Norrmalm	Tufvesson Elsa Christina	173275532684116	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	12	1	484	45	5	0
+Kristdemokraterna Arboga	Stenzelius Jonas Peter Mikael	1083070925184919	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	7	1	438	76	4	0
+Kryssa Mohammad Omran KD	Omran Mohammad	294934427940073	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	393	159	2	0
+Folkstyret	Ströberg Mikael	1243789685638222	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	5	1	382	60	3	0
+Sveriges Kommunistiska Parti	Sveriges Kommunistiska Parti	133234606721672	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	378	143	3	1
+Linus Lakso - MP	Miljöpartiet de gröna	1038425926323402	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	5	1	373	63	3	0
+Liberalerna i Karlshamn	Liberalerna i Karlshamn	142412302620892	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	357	71	3	0
+Socialdemokraterna Blekinge	 Johansson Jan Magnus	154369674717313	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	357	71	6	3
+Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	344	89	5	1
+FPlus – nyhetstjänsten för företagsamma	fPlus	130927360876045	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	4	1	338	67	3	0
+Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	10	1	332	43	1	0
+Centerpartiet Uppsala Län	Grew Hedda Anna Magdalena Jarta	597947044056811	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	320	125	2	0
+Utvecklingsmagasinet (fd Biståndsdebatten)	Edquist Kerstin Helena	162523667123095	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	320	64	2	0
+20% Klimatvarning	Arleskar Carl Albin	362163934600158	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	320	126	10	2
+Socialdemokraterna Hässleholm	Hässleholms Socialdemokratiska arbetarekommun	838924659467812	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	319	58	4	1
+Vänsterpartiet Solna	Vänsterpartiet 	273249776157066	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	308	56	2	0
+Tobias Baudin	Kommunal	614939535271869	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	292	58	4	2
+Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	290	51	5	2
+Volt Sverige	Rolf Michael Holz	939004146262372	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	287	143	2	1
+Pietro Marchesi	Marchesi Pietro Angelo Giuseppe	412659735929497	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	4	1	284	46	4	1
+IOGT-NTO	IOGT-NTO	28237261288	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	278	128	12	2
+Jan Björklund	Liberalerna	221193798389602	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	275	137	12	2
+Kristdemokraterna Uppsala	Kristdemokraterna Uppsala	783969528368300	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	264	100	9	2
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	17	1	246	101	0	0
+Kristdemokraterna Sörmland	Tinglöf Miriam Monica Mariana	1633975010236193	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	234	46	2	0
+Kristdemokraterna Fyrbodal	Kristdemokraterna i VGN	1764033887144522	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	229	39	11	2
+Centerpartiet Upplands Väsby	Magnusson Kjell Johan Sonny	1457926257795252	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	216	36	3	0
+Susanna Gideonsson	Handelsanställdas förbund	2256836864595743	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	186	37	2	0
+Gröna Studenter	Almén Henrik Carl Olof	31779071967	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	179	89	8	1
+Martin Ängeby	Angeby Martin Lennart Valdemar	354019898061233	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	171	32	1	0
+Fredsövning	ABRAHAMSSON PER-OLOV	717556358417977	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	169	33	1	0
+Skattebetalarnas Förening	Skattebetalarnas Förening	72832167834	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	168	84	0	0
+Nackamoderaterna	Nackamoderaterna	132143480932	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	157	78	1	0
+Landsbygdspartiet oberoende	Landsbygdspartiet oberoende	1549988978561671	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	154	77	7	1
+KD Kungsbacka	KD Kungsbacka	2024157037852156	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	141	28	1	0
+Miljöpartiet de gröna i Helsingborg	Miljöpartiet de gröna i Helsingborg	106956499327992	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	136	23	1	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	134	63	0	0
+Socialdemokraterna Kungälv	Kungälvs Socialdemokratiska Arbetarekommun	241319269242484	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	128	21	1	0
+Moderaterna i Arboga	Soderland Anders Mikael	1307727569320278	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	126	25	1	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	5	1	125	53	0	0
+Socialdemokraterna i Mark	Andersson Hakan Ulf Goran	528944283871109	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	123	24	1	0
+Moderaterna i Mölndal	Brown Stjarna Amanda Charlotte	125396154314182	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	121	24	2	1
+Centerpartiet i Umeå	Centerpartiet	450620155297	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	121	0	1	0
+Marie Nilsson	IF Metall	292532504512919	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	117	15	1	0
+Grön Omstart	Wallin Lena Maria	407812702944641	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	114	20	0	0
+Vänsterpartiet Umeå	Sellstedt Karl Sven Andreas	237863203023150	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	113	22	1	0
+Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	109	21	1	0
+Vänsterpartiet Fyrbodal	Vänsterpartiet Fyrbodal	154507768394620	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	105	21	0	0
+Eva B Arnesson - KD	Eva B Arnesson - KD	297923747637590	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	102	20	0	0
+Liberalerna Västerås	Liberalerna Västerås	39940078116	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	100	20	0	0
+Liberalerna Västmanland	Liberalerna Västmanland	112927778743586	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	100	20	0	0
+Timbro	Timbro	237146235237	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	97	12	1	0
+Stiftelsen Expo	Stiftelsen Expo	208751565805849	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	94	19	0	0
+Kristdemokraterna Västerbotten	Kristdemokraterna Västerbotten	414156238684191	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	91	14	1	0
+Jesper Skalberg Karlsson	Skalberg Karlsson Jesper Jens J	2171970199486213	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	91	18	0	0
+Studieförbundet Bilda	Wallstedt Bo Fredrik	161514177194883	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	91	18	0	0
+Axess Magasin & TV	Axess Magasin & TV	887305194662637	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	90	18	0	0
+KD Region Uppsala	KD Region Uppsala	195658617439309	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	4	1	83	0	0	0
+Arbetsmarknadsnytt	Arbetsmarknadsnytt	799634660143537	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	83	16	0	0
+Richard Brodd Liberalerna	Brodd Karl Erik Richard	223726468440460	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	77	15	7	1
+Reformisterna	Reformisterna	2337692372925538	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	77	15	0	0
+Karin Karlsbro - Liberalerna.	Liberalerna	559163754139097	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	75	15	0	0
+Kristdemokraterna i Gagnef	Kristdemokraterna Dalarna	273483286188959	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	73	0	1	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	72	36	0	0
+Fria Moderata Studentförbundet	Fria Moderata Studentförbundet	119885094691458	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	69	13	1	0
+Anna Vikström		1671556912954715	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	68	13	0	0
+Georgia Ferris KD EU-Kandidat	Ferris Georgia Minnie Anna	407374246718043	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	67	13	0	0
+Stoppa höjningen av Sveriges EU-avgift	Fria Moderata Studentförbundet	306402583588293	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	58	11	1	0
+KD Sigtuna	Makris Jessica Therese	2063183643940247	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	58	11	0	0
+Kvinna till Kvinna	Kvinna till Kvinna	153028052500	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	57	11	0	0
+KDU Göteborg	KDU Göteborg	337673949604125	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	4	1	53	0	0	0
+Jan Lenander, politiskt engagerad	Lenander Jan Richard	1834522019966466	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	3	1	38	0	0	0
+Kommunistiska Partiet i Halmstad	Halldin Ulf Hakan	1415814235348542	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	36	0	0	0
+Kristdemokraterna i Örebro län	Cesar Eje Alexander	430535663641398	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	29	0	1	0
+SSU Kalmar Län	SSU Kalmar län	241658249370356	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	29	0	0	0
+Centerpartiet Västra Götaland	Centerpartiet	199121803446165	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	27	5	0	0
+Kristdemokraterna Vänersborg	Nilsson Anna Maria	1436550706597391	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	26	0	0	0
+Moderaterna Kungsbacka	Moderaterna Kungsbackakretsen	121182911263997	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	24	0	0	0
+Caritas Sweden		119140545477108	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	18	0	0	0
+Moderaterna i Håbo	Erling Björn Karl Gustaf	256926791030140	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	17	0	0	0
+Tallis talar		1206136579519699	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	14	0	0	0
+Anders G Johansson	Johansson Anders Gustaf Werner	357659877249	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	13	0	0	0
+Bodil Valero sida	Valero Bodil Elisabeth	300733377216643	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	2	1	9	1	0	0
+Arbetarekommunen	Persson Gunnar Henrik Haakan	2053389964962411	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	9	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	8	3	0	0
+Adnan Dibrani till Bryssel	Ghafari Sebastian	1308296045984813	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	7	0	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	6	3	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	5	2	0	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	5	2	0	0
+Kommunistiska Partiet Stockholm		1572942986309050	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	5	0	0	0
+Moderaterna i Stenungsund	Renfors Anna Maria	488439967871997	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	4	0	0	0
 European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	3	2	0	0
+Miljöpartiet de gröna region Kalmar	Miljöpartiet de gröna Kalmar län	161091964101674	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	3	0	0	0
+Free Quran Education		388655174641163	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	3	1	0	0
+Big News Buzz		125179374733697	Facebook	kronoberg_county_SE	Kronoberg County, Sweden	1	1	1	1	0	0

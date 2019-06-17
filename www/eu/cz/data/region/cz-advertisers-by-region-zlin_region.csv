@@ -1,30 +1,109 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	region_code_filter	region_name_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Pavel Svoboda	Křesťanská a demokratická unie - Československá strana lidová	1451376028412024	Facebook	zlin_region	Zlín Region	CZ	Czechia	38	1	8371	1887	30	6
-Jaroslav Suchý	Lambert Vojtech	778460319203526	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	705	0	2	0
-European Parliament	European Parliament	178362315106	Facebook	zlin_region	Zlín Region	CZ	Czechia	2	1	565	282	2	0
-Andrej Bóna	Vokoun Tomas	321165708610626	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	243	121	0	0
-HLAS	První prezidentská	320144481956623	Facebook	zlin_region	Zlín Region	CZ	Czechia	4	1	242	47	0	0
-Zelení - Strana zelených	Zelení - Strana zelených	39371299263	Facebook	zlin_region	Zlín Region	CZ	Czechia	5	1	227	47	0	0
-ČSSD	ČSSD	111041662264882	Facebook	zlin_region	Zlín Region	CZ	Czechia	27	1	149	19	1	0
-Veronika Luňáková	ODS - Občanská demokratická strana	311589326158964	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	149	29	0	0
-Starostové a nezávislí	Starostové (STAN) s regionálními partnery a TOP 09	370583064327	Facebook	zlin_region	Zlín Region	CZ	Czechia	3	1	130	30	0	0
-ODS - Občanská demokratická strana	ODS - Občanská demokratická strana	30575632699	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	51	10	0	0
-Strana nezávislosti České republiky	Strana nezávislosti České republiky	1199083776860090	Facebook	zlin_region	Zlín Region	CZ	Czechia	3	1	46	16	0	0
-Dita Charanzová	ANO	219333261570307	Facebook	zlin_region	Zlín Region	CZ	Czechia	2	1	21	3	0	0
-Radka Trylčová do Evropského parlamentu	ODS - Občanská demokratická strana	388570561882834	Facebook	zlin_region	Zlín Region	CZ	Czechia	4	1	19	0	0	0
-Radek Hlaváček	Hlavacek Radek	294674561247936	Facebook	zlin_region	Zlín Region	CZ	Czechia	2	1	15	2	0	0
-Talíř do Bruselu	KDU-ČSL	2108659169383946	Facebook	zlin_region	Zlín Region	CZ	Czechia	3	1	11	2	0	0
-Ing.Alexandr Gegalčij, kandidat-Europarlament, Rozumní&Národní Demokracie	Gegalczij Alexandr	386508422184056	Facebook	zlin_region	Zlín Region	CZ	Czechia	3	1	10	1	0	0
-Info.cz	Info.cz	1269502056393120	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	10	2	0	0
-Vlastibor Čermák, kandidát SPD do EP 2019	Chodzajan Akop	435237393688140	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	10	2	0	0
-Eva Decroix	ODS - Občanská demokratická strana	567229570370422	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	5	1	0	0
-Organizace pro pomoc uprchlíkům, z.s.	Organizace pro pomoc uprchlíkům, z.s.	188235971211201	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	5	1	0	0
-Národní Noviny	Hrubon Rudolf	267806570729225	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	1	0	0	0
+Starostové a nezávislí	Starostové a nezávislí	370583064327	Facebook	zlin_region	Zlín Region	CZ	Czechia	8	1	50643	10220	197	40
+Pavel Svoboda	Křesťanská a demokratická unie - Československá strana lidová	1451376028412024	Facebook	zlin_region	Zlín Region	CZ	Czechia	53	1	33715	10160	127	37
+Jaroslav Suchý	Lambert Vojtech	778460319203526	Facebook	zlin_region	Zlín Region	CZ	Czechia	9	1	27821	11383	118	26
+Jiří Čunek	KDU-ČSL	173305846086912	Facebook	zlin_region	Zlín Region	CZ	Czechia	3	1	20997	10000	81	38
+Evžen Tošenovský	Kasik Martin	233045260129148	Facebook	zlin_region	Zlín Region	CZ	Czechia	3	1	13765	5624	36	8
+Česká pirátská strana	Česká pirátská strana	109323929038	Facebook	zlin_region	Zlín Region	CZ	Czechia	11	1	9206	4385	51	20
+Strana nezávislosti České republiky	Strana nezávislosti České republiky	1199083776860090	Facebook	zlin_region	Zlín Region	CZ	Czechia	15	1	7625	3320	22	4
+Olga Sehnalová	Olga Sehnalová	474594005906021	Facebook	zlin_region	Zlín Region	CZ	Czechia	5	1	7434	1299	29	5
+Michaela Šojdrová	KDU-ČSL	733410133337387	Facebook	zlin_region	Zlín Region	CZ	Czechia	8	1	7028	1585	28	6
+ČSSD	ČSSD	111041662264882	Facebook	zlin_region	Zlín Region	CZ	Czechia	161	1	6671	2212	66	14
+European Parliament	European Parliament	178362315106	Facebook	zlin_region	Zlín Region	CZ	Czechia	13	1	6038	2502	40	8
+Andrej Babiš	ANO	214827221987263	Facebook	zlin_region	Zlín Region	CZ	Czechia	12	1	5779	2628	36	10
+Nenechme to tak	ATG Principal GROUP	224923858400165	Facebook	zlin_region	Zlín Region	CZ	Czechia	10	1	5477	1985	39	17
+Radim Sršeň	Kuba Patrik	201535993705342	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	4999	1000	3	0
+European Commission	European Commission	107898832590939	Facebook	zlin_region	Zlín Region	CZ	Czechia	21	1	3870	1857	18	3
+Pavel Poc	Poc Pavel	202974613060409	Facebook	zlin_region	Zlín Region	CZ	Czechia	17	1	2800	874	7	1
+Veronika Luňáková	ODS - Občanská demokratická strana	311589326158964	Facebook	zlin_region	Zlín Region	CZ	Czechia	9	1	2385	1003	3	0
+HLAS	První prezidentská	320144481956623	Facebook	zlin_region	Zlín Region	CZ	Czechia	14	1	2377	896	2	0
+Svobodní	Svobodní	43855944703	Facebook	zlin_region	Zlín Region	CZ	Czechia	30	1	2359	505	10	2
+Info.cz	Info.cz	1269502056393120	Facebook	zlin_region	Zlín Region	CZ	Czechia	23	1	2010	456	7	1
+Josef Valihrach - kandidát do Evropského parlamentu	Soukromníci  - Strana soukromníků České republiky	1055203891355904	Facebook	zlin_region	Zlín Region	CZ	Czechia	11	1	1557	347	1	0
+Zelení - Strana zelených	Zelení - Strana zelených	39371299263	Facebook	zlin_region	Zlín Region	CZ	Czechia	15	1	1542	627	5	1
+Jan Zahradil	ODS - Občanská demokratická strana	400970967000022	Facebook	zlin_region	Zlín Region	CZ	Czechia	17	1	1283	483	3	0
+Soukromníci  - Strana soukromníků České republiky	Soukromníci  - Strana soukromníků České republiky	106046725258	Facebook	zlin_region	Zlín Region	CZ	Czechia	4	1	1198	67	4	0
+Kancelář Evropského parlamentu	Kancelář Evropského parlamentu	278212515809	Facebook	zlin_region	Zlín Region	CZ	Czechia	4	1	1140	545	2	0
+KDU-ČSL	KDU-ČSL	251656685576	Facebook	zlin_region	Zlín Region	CZ	Czechia	11	1	1092	294	5	1
+Volime-Hynka-007	ODS - Občanská demokratická strana	339021716804527	Facebook	zlin_region	Zlín Region	CZ	Czechia	12	1	869	185	4	0
+Greenpeace Česká republika	Greenpeace Česká republika	55876739776	Facebook	zlin_region	Zlín Region	CZ	Czechia	3	1	748	338	5	1
+Radka Trylčová do Evropského parlamentu	ODS - Občanská demokratická strana	388570561882834	Facebook	zlin_region	Zlín Region	CZ	Czechia	18	1	743	152	4	0
+Ondřej Krutílek - kandidát do Evropského parlamentu	ODS	1220066088147062	Facebook	zlin_region	Zlín Region	CZ	Czechia	4	1	703	286	2	0
+Tomáš Hanuš	Kricfalusi Jiri	298486534052289	Facebook	zlin_region	Zlín Region	CZ	Czechia	7	1	668	173	1	0
+ODS - Občanská demokratická strana	ODS - Občanská demokratická strana	30575632699	Facebook	zlin_region	Zlín Region	CZ	Czechia	10	1	637	249	1	0
+Talíř do Bruselu	KDU-ČSL	2108659169383946	Facebook	zlin_region	Zlín Region	CZ	Czechia	20	1	561	121	2	0
+Nina Nováková	KDU-ČSL	337821749739175	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	553	110	2	0
+Vlastibor Čermák, kandidát SPD do EP 2019	Cermak Vlastibor	435237393688140	Facebook	zlin_region	Zlín Region	CZ	Czechia	5	1	529	106	2	0
+Evropa společně	Evropa společně	535611970260854	Facebook	zlin_region	Zlín Region	CZ	Czechia	3	1	522	242	1	0
+Dita Charanzová	ANO	219333261570307	Facebook	zlin_region	Zlín Region	CZ	Czechia	7	1	519	111	3	1
+Tvůj kandidát	Konečný Daniel	599435753834732	Facebook	zlin_region	Zlín Region	CZ	Czechia	8	1	504	98	2	0
+Juraj Seman kandidát do Evropského parlamentu	Seman Juraj	447733512640347	Facebook	zlin_region	Zlín Region	CZ	Czechia	9	1	495	128	2	0
+Roman Kriz	Kriz Roman	382745889213194	Facebook	zlin_region	Zlín Region	CZ	Czechia	10	1	487	105	2	0
+Tomáš Zdechovský	KDU-ČSL	275042429350706	Facebook	zlin_region	Zlín Region	CZ	Czechia	3	1	482	96	1	0
+Andrej Bóna	Vokoun Tomas	321165708610626	Facebook	zlin_region	Zlín Region	CZ	Czechia	2	1	454	227	8	1
+Daniela	Vasatkova Daniela	252673128998993	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	362	72	1	0
+Ing. Jaromír Kohlíček, CSc.	Kohlicek Jaromir	162310277268109	Facebook	zlin_region	Zlín Region	CZ	Czechia	23	1	333	75	0	0
+Jindřich Vobořil - kandidát do europarlamentu	ODS - Občanská demokratická strana	751475201891213	Facebook	zlin_region	Zlín Region	CZ	Czechia	8	1	321	73	1	0
+Marek Ženíšek	TOP 09	523450094407778	Facebook	zlin_region	Zlín Region	CZ	Czechia	7	1	284	59	1	0
+Kateřina Konečná	Konecna Katerina	119624098506	Facebook	zlin_region	Zlín Region	CZ	Czechia	4	1	274	64	1	0
+Fórum 50 %	Fórum 50 %	136248513192	Facebook	zlin_region	Zlín Region	CZ	Czechia	2	1	251	50	0	0
+Organizace pro pomoc uprchlíkům, z.s.	Organizace pro pomoc uprchlíkům, z.s.	188235971211201	Facebook	zlin_region	Zlín Region	CZ	Czechia	3	1	244	48	0	0
+MUDr. Gabriela Pecková - TOP 09	Vondryska Jan	113755299053	Facebook	zlin_region	Zlín Region	CZ	Czechia	10	1	235	57	1	0
+Marian Jurečka	Lambert Vojtech	356451014434612	Facebook	zlin_region	Zlín Region	CZ	Czechia	6	1	200	40	0	0
+Česká společnost ornitologická	Česká společnost ornitologická	479746075051	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	194	97	3	0
+TOPAZ	Polkova Marketa	541077242579260	Facebook	zlin_region	Zlín Region	CZ	Czechia	3	1	172	38	0	0
+Petr Fiala	ODS - Občanská demokratická strana	487445514669670	Facebook	zlin_region	Zlín Region	CZ	Czechia	13	1	170	45	0	0
+Národní Noviny	Hrubon Rudolf	267806570729225	Facebook	zlin_region	Zlín Region	CZ	Czechia	13	1	156	71	2	0
+Radek Hlaváček	Hlavacek Radek	294674561247936	Facebook	zlin_region	Zlín Region	CZ	Czechia	8	1	150	33	0	0
+Plus, pravicově-konzervativní křídlo		252574801885347	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	146	29	0	0
+Jiří Drahoš	Jiří Drahoš	462447430809625	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	142	28	0	0
+Eva Decroix	ODS - Občanská demokratická strana	567229570370422	Facebook	zlin_region	Zlín Region	CZ	Czechia	8	1	75	21	0	0
+Míša Tejmlová	Tejmlová Michaela	170261140345723	Facebook	zlin_region	Zlín Region	CZ	Czechia	4	1	63	15	0	0
+Zachraňme lesy	Hnutí DUHA - Přátelé Země Česká republika	299124538476	Facebook	zlin_region	Zlín Region	CZ	Czechia	3	1	53	22	0	0
+Ing.Alexandr Gegalčij, kandidat-Europarlament, Rozumní&Národní Demokracie	Gegalczij Alexandr	386508422184056	Facebook	zlin_region	Zlín Region	CZ	Czechia	4	1	46	9	0	0
+David Pokorný	Soska Marek	1675252432766963	Facebook	zlin_region	Zlín Region	CZ	Czechia	5	1	45	8	0	0
+PhDr. Jan Hrnčíř	Hrnčíř Jan	632369483479043	Facebook	zlin_region	Zlín Region	CZ	Czechia	3	1	43	17	0	0
+Díky EU	MACH Jiří	404468833684516	Facebook	zlin_region	Zlín Region	CZ	Czechia	3	1	41	10	0	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	zlin_region	Zlín Region	CZ	Czechia	2	1	30	6	0	0
+Jsme fér		578342809023884	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	27	0	0	0
+PROČesko	Kňava Radek	2037399133257293	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	26	13	0	0
+Balahura Milan	Balahura Milan	2307673269493501	Facebook	zlin_region	Zlín Region	CZ	Czechia	3	1	24	4	0	0
+Slušní lidé		947847402044555	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	23	11	0	0
+Veronika Vrecionová	ODS - Občanská demokratická strana	273367223021327	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	20	4	0	0
+Petr Kutílek	Zelení - Strana zelených	211638332512206	Facebook	zlin_region	Zlín Region	CZ	Czechia	4	1	16	2	0	0
+Daniel Herman	Vasek Jiri	378072105614553	Facebook	zlin_region	Zlín Region	CZ	Czechia	2	1	15	1	0	0
+Programy do voleb	Štěpán Ryšavý - Programy do voleb	1033702273421005	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	14	2	0	0
+Přírodno		373974520024851	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	13	2	0	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	12	6	0	0
+Liberální institut	Liberální institut	120343698070515	Facebook	zlin_region	Zlín Region	CZ	Czechia	2	1	11	1	0	0
+Senátor Václav Hampl	Höfer Karel	524288824339961	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	7	1	0	0
+Libor Michálek		140406832679685	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	7	1	0	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	zlin_region	Zlín Region	CZ	Czechia	18	1	5	1	0	0
+Mona Nechvátalová - hnutí HLAS		2136921333063029	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	5	0	0	0
+Pascal do europarlamentu	Vecer Michael Pascal	388373825336893	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	5	1	0	0
+Spolek Pejskařů		265421693630349	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	5	1	0	0
+European Greens	European Greens	141366725876424	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	4	0	0	0
+Moje Evropa	Moje Evropa	1701718886552103	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	4	0	0	0
+YOU.and.EU	Nordstrom Laura Helena	250361215678222	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	3	1	0	0
+Martin Bílek - kandidát do Evropského parlamentu	BILEK MARTIN, Bc.	821968848137300	Facebook	zlin_region	Zlín Region	CZ	Czechia	2	1	1	0	0	0
+Saaczech		1891172680926309	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	1	0	0	0
+Český soběstačný dům		1034759736587732	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	1	0	0	0
+David Bartas	Bartas David	896486153741991	Facebook	zlin_region	Zlín Region	CZ	Czechia	2	1	0	0	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	zlin_region	Zlín Region	CZ	Czechia	5	1	0	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	0	0	0	0
+Europe Thinx		335839580440114	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	0	0	0	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	zlin_region	Zlín Region	CZ	Czechia	3	1	0	0	0	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	zlin_region	Zlín Region	CZ	Czechia	4	1	0	0	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	zlin_region	Zlín Region	CZ	Czechia	2	1	0	0	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	zlin_region	Zlín Region	CZ	Czechia	3	1	0	0	0	0
+Charita ve světě		849315472073267	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	0	0	0	0
+ETUC		129041250601685	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	0	0	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	zlin_region	Zlín Region	CZ	Czechia	2	1	0	0	0	0
+Petr Štěpánek	Zelení - Strana zelených	224430782640	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	0	0	0	0
+Tomáš Dentico, váš hlas rešpektovaný v Europarlamente	SPOLU - občianska demokracia	1172318522948253	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	0	0	0	0
+SPOLU - občianska demokracia	SPOLU - občianska demokracia	1057020590987528	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	0	0	0	0
+JUDr. Miroslav Radačovský, ex sudca - kandidát na poslanca EP	Radačovský Michal	730919327293761	Facebook	zlin_region	Zlín Region	CZ	Czechia	2	1	0	0	0	0
 Martin Hojsík • Progresívne Slovensko	Hojsik Martin	147166706140048	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	0	0	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	zlin_region	Zlín Region	CZ	Czechia	2	1	0	0	0	0
+Ondrej Prostredník • Prostredník medzi Vami a Európou	Progresívne Slovensko	951009345100113	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	0	0	0	0
+Eurozine		115579498521257	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	0	0	0	0
 Lucia Kleštincová	EUpositive.sk	1933440166748185	Facebook	zlin_region	Zlín Region	CZ	Czechia	3	1	0	0	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	zlin_region	Zlín Region	CZ	Czechia	2	1	0	0	0	0
-JUDr. Miroslav Radačovský, ex sudca - kandidát na poslanca EP	Radačovský Michal	730919327293761	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	0	0	0	0
-European Commission	European Commission	107898832590939	Facebook	zlin_region	Zlín Region	CZ	Czechia	2	1	0	0	0	0
-MUDr. Gabriela Pecková - TOP 09	Vondryska Jan	113755299053	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	0	0	0	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	zlin_region	Zlín Region	CZ	Czechia	1	1	0	0	0	0

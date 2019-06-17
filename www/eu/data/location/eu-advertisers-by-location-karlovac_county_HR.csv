@@ -1,30 +1,81 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	karlovac_county_HR	Karlovac County, Croatia	9	1	10209	4872	50	5
-Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	karlovac_county_HR	Karlovac County, Croatia	10	1	7980	1737	27	0
-Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	karlovac_county_HR	Karlovac County, Croatia	4	1	4377	964	11	0
-Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	karlovac_county_HR	Karlovac County, Croatia	3	1	4069	1613	7	0
-SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	karlovac_county_HR	Karlovac County, Croatia	3	1	3082	616	8	0
-Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	1678	335	5	0
-Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	1407	281	2	0
-HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	1328	265	2	0
-European Parliament	European Parliament	178362315106	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	1129	225	2	0
-Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	karlovac_county_HR	Karlovac County, Croatia	14	1	827	80	50	0
-Jozo Radoš	Jozo Radoš	446717938731095	Facebook	karlovac_county_HR	Karlovac County, Croatia	5	1	753	224	12	0
-Tomislav Stojak	Hrvatska narodna stranka - liberalni demokrati (HNS)	442201595870855	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	558	111	11	0
-Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	529	105	1	0
-Marijana Petir	Marijana Petir	1418903245032313	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	389	194	3	0
-Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	karlovac_county_HR	Karlovac County, Croatia	4	1	384	73	9	0
-Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	380	154	4	0
-Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	352	144	4	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	karlovac_county_HR	Karlovac County, Croatia	4	1	331	151	0	0
-Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	306	153	3	0
-Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	268	134	2	0
-Krešo Beljak	Vlahovic Mario	52929105855	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	124	24	2	0
-European Commission	European Commission	107898832590939	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	115	57	0	0
-Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	106	21	2	0
+HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	karlovac_county_HR	Karlovac County, Croatia	48	1	129444	54183	500	127
+SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	karlovac_county_HR	Karlovac County, Croatia	16	1	53347	22563	60	3
+Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	karlovac_county_HR	Karlovac County, Croatia	19	1	52183	23366	148	31
+European Parliament	European Parliament	178362315106	Facebook	karlovac_county_HR	Karlovac County, Croatia	15	1	46677	21794	135	38
+Europski parlament, Ured za informiranje u Republici Hrvatskoj	Europski parlament, Ured za informiranje u Republici Hrvatskoj	508795765833382	Facebook	karlovac_county_HR	Karlovac County, Croatia	21	1	41894	18788	92	9
+Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	karlovac_county_HR	Karlovac County, Croatia	18	1	36670	14878	104	13
+Unija Kvarnera	Pametno	584966128586909	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	31613	15806	78	15
+Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	karlovac_county_HR	Karlovac County, Croatia	19	1	31209	11269	133	22
+Slobodna Dalmacija	Slobodna Dalmacija	100267330025110	Facebook	karlovac_county_HR	Karlovac County, Croatia	24	1	21249	6204	53	0
+Miro Bulj	MOST nezavisnih lista	1252295741481540	Facebook	karlovac_county_HR	Karlovac County, Croatia	8	1	18613	7204	50	7
+European Greens	European Greens	141366725876424	Facebook	karlovac_county_HR	Karlovac County, Croatia	6	1	18482	7922	59	22
+MOST nezavisnih lista	MOST nezavisnih lista	388550077899912	Facebook	karlovac_county_HR	Karlovac County, Croatia	10	1	15561	5898	60	10
+Joško Klisović	Klisovic Josko	1262594650584725	Facebook	karlovac_county_HR	Karlovac County, Croatia	14	1	13624	3722	39	0
+Marijana Petir	Marijana Petir	1418903245032313	Facebook	karlovac_county_HR	Karlovac County, Croatia	8	1	12698	4047	43	4
+European Commission	European Commission	107898832590939	Facebook	karlovac_county_HR	Karlovac County, Croatia	21	1	11329	5472	15	4
+GLAS Građansko-liberalni savez	GLAS Građansko-liberalni savez	231052047413325	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	11201	5240	98	2
+Model European Union Zagreb - MEUZ	Divea Studio	521874817895935	Facebook	karlovac_county_HR	Karlovac County, Croatia	5	1	10784	4574	13	0
+Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	karlovac_county_HR	Karlovac County, Croatia	8	1	10189	2946	32	2
+Jozo Radoš	Jozo Radoš	446717938731095	Facebook	karlovac_county_HR	Karlovac County, Croatia	9	1	9529	1905	46	0
+Sunčana Glavak	HDZ - Hrvatska demokratska zajednica	482597361772021	Facebook	karlovac_county_HR	Karlovac County, Croatia	4	1	8988	3249	53	10
+Stjepan Adanić	HDZ - Hrvatska demokratska zajednica	408695383042330	Facebook	karlovac_county_HR	Karlovac County, Croatia	3	1	7739	3436	20	2
+Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	karlovac_county_HR	Karlovac County, Croatia	18	1	7723	1573	58	0
+Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	karlovac_county_HR	Karlovac County, Croatia	20	1	6111	1467	51	0
+SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	karlovac_county_HR	Karlovac County, Croatia	11	1	5062	1858	27	0
+Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	5035	2517	14	2
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	4941	2470	3	0
+Nikolina Brnjac	HDZ - Hrvatska demokratska zajednica	287054392229717	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	4319	863	33	6
+Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	karlovac_county_HR	Karlovac County, Croatia	4	1	4040	1586	23	4
+Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	karlovac_county_HR	Karlovac County, Croatia	5	1	3851	835	11	0
+Stjepan Ribić	HDZ - Hrvatska demokratska zajednica	451335681696047	Facebook	karlovac_county_HR	Karlovac County, Croatia	3	1	3786	1562	16	2
+HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	3709	1531	4	0
+Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	karlovac_county_HR	Karlovac County, Croatia	3	1	3642	728	16	2
+BIOM	BIOM	138743669505642	Facebook	karlovac_county_HR	Karlovac County, Croatia	6	1	3482	918	14	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	karlovac_county_HR	Karlovac County, Croatia	15	1	3332	1430	5	2
+Krešo Beljak	Vlahovic Mario	52929105855	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	3249	1326	13	2
+Dr. sc. Tomislav Sokol	HDZ - Hrvatska demokratska zajednica	136900153422435	Facebook	karlovac_county_HR	Karlovac County, Croatia	3	1	2816	554	9	0
+Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	karlovac_county_HR	Karlovac County, Croatia	14	1	2741	1005	42	0
+Goran Pauk	HDZ - Hrvatska demokratska zajednica	581489628528785	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	2677	535	5	0
+Tomislav Stojak	Hrvatska narodna stranka - liberalni demokrati (HNS)	442201595870855	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	2615	523	10	0
+Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	2178	435	4	0
+Nova ljevica	Možemo - politička platforma	706769699498076	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	2092	418	4	0
+Marijana Balić	HDZ - Hrvatska demokratska zajednica	1274752085892321	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	1968	393	19	3
+Saša Poljanec-Borić	Hrvatska socijalno liberalna stranka	1914254365351413	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	1907	953	8	1
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	karlovac_county_HR	Karlovac County, Croatia	9	1	1827	700	3	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	1567	784	7	1
+Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	1336	326	4	0
+Hrvatska stranka umirovljenika	Hrvatska stranka umirovljenika	1437793016448632	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	1225	245	2	0
+Habib Tahiri	Hrvatska narodna stranka - liberalni demokrati (HNS)	750800161983664	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	1118	223	2	0
+Tonino Picula	Tonino Picula	156057951248853	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	1114	222	2	0
+Davor Škrlec	Zastupnik u Europskom parlamentu Davor Škrlec	1507744276110325	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	1094	218	2	0
+Sanja Radolović	Radolovic Sanja	508755779649081	Facebook	karlovac_county_HR	Karlovac County, Croatia	6	1	638	184	10	0
+Gong	Gong	135611546456409	Facebook	karlovac_county_HR	Karlovac County, Croatia	4	1	515	209	5	0
+Davor Nađi	Nadi Davor	1640498249359280	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	492	211	6	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	karlovac_county_HR	Karlovac County, Croatia	3	1	349	162	0	0
+Diana Topčić-Rosenberg	TOPCIC-ROSENBERG DIANA	1702271996513206	Facebook	karlovac_county_HR	Karlovac County, Croatia	3	1	337	125	6	0
+HSS Hrvatska	Vlahovic Mario	236043376446622	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	257	128	2	0
+Franc Bogovič	Slovenska ljudska stranka (SLS)	288826994603012	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	256	51	0	0
+Zelena lista		157025101623973	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	200	79	2	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	199	99	1	0
+Informativno Dokumentacijski Centar Banije I Korduna		1902779853072038	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	189	37	3	0
+Đanino Sučić	Pametno	1778906682211240	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	185	92	0	0
+Stranka hrvatskog zajedništva		944262495628175	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	176	35	3	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	karlovac_county_HR	Karlovac County, Croatia	5	1	128	50	0	0
+Željka Markić		210218862695602	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	125	25	2	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	karlovac_county_HR	Karlovac County, Croatia	3	1	97	18	0	0
+Greenpeace Hrvatska	Greenpeace Hrvatska	359170097532754	Facebook	karlovac_county_HR	Karlovac County, Croatia	3	1	89	0	7	0
 European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	46	23	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	45	11	0	0
 Hrvatske vijesti		286736758747850	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	36	0	3	0
-SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	33	0	3	0
-Sanja Radolović	Radolovic Sanja	508755779649081	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	22	0	2	0
+Europe Thinx		335839580440114	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	35	7	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	30	6	0	0
+Danko Švorinić		1867610616838363	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	21	0	1	0
+Ne u moje ime		138418753446889	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	18	3	0	0
+Socialni demokrati (SD)	Socialni demokrati (SD)	12676777580	Facebook	karlovac_county_HR	Karlovac County, Croatia	2	1	15	7	0	0
+CRIF		395919323779707	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	15	8	0	0
+Radnička Fronta		770459529655215	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	11	0	1	0
+Gordan Maras		451079008266520	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	10	2	0	0
+Telegram.hr		688325737947866	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	8	0	0	0
+ETUC		129041250601685	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	6	1	0	0
 Kulturpunkt.hr		89410579392	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	5	0	0	0
+ITUC		20556338116	Facebook	karlovac_county_HR	Karlovac County, Croatia	1	1	1	0	0	0

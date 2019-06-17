@@ -1,4 +1,4 @@
 gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-f	female	LU	Luxembourg	36	18	133942	30823	1211	0
-m	male	LU	Luxembourg	35	17	115021	27591	1252	0
-u	unknown	LU	Luxembourg	32	16	1858	452	15	0
+f	female	LU	Luxembourg	392	61	4635548	1298552	33295	5026
+m	male	LU	Luxembourg	367	61	4263943	1217365	30213	4451
+u	unknown	LU	Luxembourg	354	61	67230	19443	469	71

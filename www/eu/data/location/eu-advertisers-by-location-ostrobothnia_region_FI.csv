@@ -1,36 +1,121 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Poliitikko Sami Yli-Rahnasto	Pohjanmaan Kokoomus ry	371635287025743	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	11160	2232	22	0
-Mauri Pekkarinen	Mauri Pekkarinen	177939666416553	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	6880	1376	68	13
-European Parliament	European Parliament	178362315106	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	5930	2965	59	29
-Kristillisdemokraatit	Kristillisdemokraatit	157614802920	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	3029	598	35	5
-Filip Hamro-Drotz	HAMRO-DROTZ DENNIS MIKAEL	2251922594829597	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	1612	252	59	0
-Sirpa Pietikäinen	Sirpa Pietikäinen	140188405326	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	1508	373	15	2
-Miapetra Kumpula-Natri	Euroopassa Suomen tähden  / Miapetra Kumpula-Natri	922311201130062	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	1254	251	24	0
-Antton Rönnholm	Antton Rönnholm	575908612596562	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	1180	590	11	0
-Filip Björklöf	Filip Björklöfs understödsförening	432450826819256	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	4	1	1152	194	37	0
-Petra Schulze Steinen	Schulze-Steinen Petra Elina Marjatta	266912807301110	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	957	158	32	0
-Paula Aikio-Tallgren EU-vaaliehdokas	Pohjoisen asian osaajat ry	510346432432044	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	322	64	6	0
-Mikko Ohela	Mikko Ohela	201647537374497	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	299	60	5	0
-Mikkel Näkkäläjärvi	Nakkalajarvi Mikkel Antte Iisakki	617733068345315	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	289	42	11	0
-Irja Sokka Poliitikko	Irja Sokka Poliitikko	689010728162410	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	280	56	5	0
-Olli Kotro Euroopan parlamenttiin 2019	Kauko Niko Aleksanteri	2211654885785838	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	254	46	6	0
-Karri Ollila Europarlamenttiin 2019	Karri Ollila	300059733998436	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	214	107	2	0
-Anna Jungner-Nordgren	Stödföreningen för Anna Jungner-Nordgren	126206450772264	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	203	0	20	0
-Matleena Käppi	Matleena Käpin vuoden 2019 vaalien tukiyhdistys	1806983809518838	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	202	40	4	0
-Matilda af Hällström	af Hällström Matilda Linnea Alice	430195364409025	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	198	39	3	0
-Tuomas Tikkanen	Tikkanen Juho Tuomas	2139907472900957	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	188	37	3	0
-Perussuomalaiset	Perussuomalaiset	181106108341	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	187	37	3	0
-Kaisa Penny	Kaisa Penny	259256970891807	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	175	35	3	0
-Arto Luukkanen	Riekkovaara Niko Tapani	1527478777519070	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	123	21	3	0
+Svenska folkpartiet i Finland - RKP	Svenska folkpartiet i Finland - RKP	191883307265	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	22	1	164034	51143	1209	60
+Kokoomus	Kokoomus	201285237101	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	33	1	135744	34435	1650	81
+Ida Schauman	Schauman Ida Emilia Axelsdotter	1449434138617787	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	19	1	88547	28895	1948	87
+Kaksin - Tvåsamhet	Kaksin - Tvåsamhet	2110443792388818	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	24	1	75305	23730	1229	174
+European Parliament	European Parliament	178362315106	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	16	1	66083	30103	710	182
+European Greens	European Greens	141366725876424	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	8	1	63707	26685	819	164
+Miapetra Kumpula-Natri	Euroopassa Suomen tähden  / Miapetra Kumpula-Natri	922311201130062	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	9	1	58676	25479	343	81
+Antton Rönnholm	Antton Rönnholm	575908612596562	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	24	1	56008	11883	531	90
+Vihreät - De Gröna	Vihreät - De Gröna	33722070600	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	16	1	52461	23675	313	103
+Sosialidemokraatit SDP	Sosialidemokraatit SDP	108945982480217	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	4	1	47102	13433	403	100
+Tomi Kontkanen	Finlands svenska socialdemokrater	2211545855568908	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	9	1	46288	12230	332	16
+Camilla Gunell till EU 2019	Socialdemokraterna på Åland	360575481205047	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	45640	9128	455	91
+Mauri Pekkarinen	Mauri Pekkarinen	177939666416553	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	4	1	40300	18024	402	172
+Anton Nilsson	Betalt av stödföreningen för Anton Nilsson	290501338278566	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	16	1	32829	8866	696	0
+Martin Norrgård	Martin Norrgårds stödförening	104405313050307	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	6	1	29817	13114	387	0
+SLC	SLC r.f.	126812894035597	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	5	1	28354	7716	163	0
+Filip Björklöf	Filip Björklöfs understödsförening	432450826819256	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	13	1	27907	6945	382	26
+Henna Virkkunen	Henna Virkkunen	120537424633927	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	17	1	27640	10321	275	46
+Vasemmistoliitto	Vasemmistoliitto	60390955171	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	20	1	24123	8748	266	81
+Poliitikko Sami Yli-Rahnasto	Pohjanmaan Kokoomus ry	371635287025743	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	19132	3826	190	38
+Ville Niinistö	Ville Niinistö	153186884700042	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	4	1	17496	8722	97	47
+Mikko Ohela	Mikko Ohela	201647537374497	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	12	1	16313	3539	99	8
+Perussuomalaiset	Perussuomalaiset	181106108341	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	4	1	16198	7125	224	54
+Nils Torvalds	Nils Torvalds	343089085765596	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	12	1	15917	5840	284	0
+Satu Jaatinen 216		611696415923639	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	6	1	15831	5909	337	66
+Matilda af Hällström	af Hällström Matilda Linnea Alice	430195364409025	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	6	1	12629	4082	211	33
+Pekka Shemeikka	Nokela Matti Juhani Philip	591986911282315	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	8	1	11873	3421	105	19
+Jouni Kemppainen	Kemppainen Jouni Petteri	387812258475026	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	11811	5533	78	35
+Ramieza Mahdi	Mahdi Ramieza Abdirahman Mohamed	268670670234757	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	10342	2000	232	0
+Max Schulman	Svenska folkpartiet i Finland - RKP	2186035071663314	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	10250	2050	115	17
+Kristillisdemokraatit	Kristillisdemokraatit	157614802920	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	5	1	9634	3437	76	13
+Petra Schulze Steinen	Schulze-Steinen Petra Elina Marjatta	266912807301110	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	23	1	9344	1840	192	6
+Teuvo Hakkarainen	Riekkovaara Niko Tapani	198979100169761	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	12	1	8555	1777	74	10
+Arto Luukkanen	Riekkovaara Niko Tapani	1527478777519070	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	15	1	8454	1831	123	20
+Tuomas Tikkanen	Tikkanen Juho Tuomas	2139907472900957	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	8374	1675	132	6
+Tiina Heikkinen	Heikkinen Tiina Maria	252243572053482	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	8250	4125	206	41
+Filip Hamro-Drotz	HAMRO-DROTZ DENNIS MIKAEL	2251922594829597	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	6	1	7239	1448	143	0
+Mirja Vehkaperä	Vehkaperä Mirja Tellervo	237130593122439	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	4	1	7205	1441	35	4
+Svensk Ungdom - RKP-nuoret	Svensk Ungdom - RKP-nuoret	172659206933	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	10	1	7169	2188	140	0
+Sirpa Pietikäinen	Sirpa Pietikäinen	140188405326	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	7	1	7021	1404	82	21
+Anna Jungner-Nordgren	Stödföreningen för Anna Jungner-Nordgren	126206450772264	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	8	1	6677	1147	206	0
+Janne Parkkila - Vasemmistoliitto	Janne Parkkilan tukiyhdistys ry	354424931606915	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	11	1	6477	2253	70	11
+Henrik Wickström	Wickström 2019	448116415229902	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	7	1	6225	1236	126	0
+Suomiduunari	Riekkovaara Niko Tapani	244224963187036	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	4	1	5648	2137	42	7
+Petri Sarvamaa	Petri Sarvamaa	164624737027350	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	9	1	4973	1054	57	8
+Allianssi	Allianssi	189362187761641	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	17	1	4406	1190	66	3
+Frida Sigfrids	Svenska folkpartiet i Finland - RKP	1506788009337272	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	3480	696	68	0
+Jukka Linna	Jukka Linnan tukiyhdistys	2313503042310251	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	6	1	3460	692	46	7
+Miikka Keränen	Keranen Miikka Markus	126768630726940	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	3187	1557	48	17
+Elsi Katainen	Katainen Elsi Kaarina	190042298268350	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	3164	632	31	6
+Kaisa Penny	Kaisa Penny	259256970891807	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	4	1	3163	780	34	4
+Silja Borgarsdóttir Sandelin	Svenska folkpartiet i Finland - RKP	145265965535213	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	2932	586	166	27
+Simo Grönroos	Gronroos Simo Juhani	445988248775782	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	2880	576	30	5
+Susanna Kisner	Susanna Kisnerin tukiryhmä	1569715913292949	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	7	1	2806	802	67	11
+Catharina von Schoultz - politik - sfp/rkp	Von Schoultz Catharina Gabriella Elisabeth	1745255925752597	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	2776	555	54	0
+Kokoomusnuoret	Kokoomusnuoret	28469960111	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	2695	539	26	5
+Ida-Maria Skytte	Skytte Sofia Ida-Maria	1854582881493142	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	2641	799	115	18
+Sean Bergenheim	Svenska folkpartiet i Finland - RKP	266603130709392	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	2571	1285	128	25
+Suomen Lähetysseura	Suomen Lähetysseura	8265674748	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	2554	510	5	0
+Mikkel Näkkäläjärvi	Nakkalajarvi Mikkel Antte Iisakki	617733068345315	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	4	1	2448	695	29	3
+Olli Kotro Euroopan parlamenttiin 2019	Kauko Niko Aleksanteri	2211654885785838	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	2440	550	24	4
+European Commission	European Commission	107898832590939	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	22	1	2411	1145	9	1
+Riku Eskelinen	Riku Eskelisen eurovaalien tukiyhdistys Herttoniemen Keskustaseura ry	312837175579728	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	2385	472	26	4
+Eurooppanuoret (JEF-Finland)	Eurooppanuoret ry	296668661689	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	2310	462	4	0
+Anna Sirkiä	Anna Sirkiä	115751458577078	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	16	1	2275	688	40	0
+Aura Salla	Salla Aura Maria	357502994332188	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	6	1	2234	600	13	0
+Kimmo Sasi	Sasi Kimmo Kalevi Immeri	311253592006	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	5	1	2208	510	39	5
+Matleena Käppi	Matleena Käpin vuoden 2019 vaalien tukiyhdistys	1806983809518838	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	4	1	2200	535	23	3
+Eurooppalainen Suomi ry	Eurooppalainen Suomi ry	163903613685550	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	2081	416	13	2
+Vihreät nuoret	Vihreät nuoret	362064961211	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	17	1	1896	383	66	0
+Karri Ollila Europarlamenttiin 2019	Karri Ollila	300059733998436	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	1844	510	26	4
+Leena Zittling - Eurovaaliehdokas 2019 - KOK	Miettinen Pasi Olavi	804330503290879	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	1646	329	16	3
+Hans Adolf Ehrnrooth	Turvallinen ja vakaa Eurooppa ry	747915358921075	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	1562	312	15	3
+Piia Kurki	Piia Kurki	270567833058986	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	7	1	1478	526	35	2
+Stina Wahlsten	Wahlsten Stina Sofia	247410845719596	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	1332	266	26	0
+Svenska Kvinnoförbundet	Svenska folkpartiet i Finland - RKP	388661630444	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	1285	257	25	0
+BirdLife Suomi		254403722807	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	1283	256	12	2
+Petteri Orpo	Kokoomus	154256701288026	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	1135	227	11	2
+Perussuomalaiset Nuoret		133551219988558	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	1048	209	10	2
+Trasek ry	Trasek ry	384673691545854	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	990	198	1	0
+Feministinen puolue	Feministinen puolue	246435052396654	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	913	221	4	0
+Jussi Nurmi	Nurmi Jussi Tapio	1895217903938885	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	895	398	23	3
+Irja Sokka Poliitikko	Irja Sokka Poliitikko	689010728162410	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	862	316	12	0
+Paula Aikio-Tallgren EU-vaaliehdokas	Pohjoisen asian osaajat ry	510346432432044	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	767	258	12	0
+Silja Keränen	Silja Keräsen tukiryhmä	159315454207327	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	7	1	530	75	22	0
+Elsi Ranta	Ranta Elsi Inkeri	544178606104826	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	5	1	521	80	20	0
+Olli-Pekka Nyberg	NYBERG OLLI-PEKKA	291483185114189	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	480	96	9	0
+Janne Kaisanlahti	Kaisanlahti Janne Kalervo	309381625805373	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	4	1	455	86	10	0
+Teuvo Hatva - eurovaaliehdokas	Maury Aino Maija	948715928850182	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	423	84	8	0
+Kimmo Kautio - Kokoaan Suurempi Suomi	Kautio Kimmo Jaakko Tapio	315479585304528	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	314	63	6	0
+Greenpeace Suomi	Greenpeace Suomi	9227859351	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	8	1	313	51	10	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	9	1	297	129	0	0
+Sonja Falk	Falk Mika Tapio	164696826881379	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	293	146	14	2
+Anna Mäkipää	Mäkipää Anna Marjatta	410045932385582	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	277	138	13	2
+Finnwatch	Finnwatch	127195574005414	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	4	1	266	103	5	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	19	1	259	95	0	0
+Minna Karvonen		311176426363089	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	259	129	2	0
+Radio Dei	Radio Dei	106745452698752	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	212	42	4	0
+Tero Hannula		350628269116805	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	3	1	200	37	4	0
+Helena Marttila	Uudenmaan Sosialidemokraatit ry	373811376519125	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	169	33	3	0
+Pirkko Vihko		2384976475054673	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	161	32	3	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	157	76	0	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	157	78	0	0
+VIKES Viestintä ja kehitys -säätiö	Viestintä ja kehitys -säätiö	381290523932	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	128	25	2	0
 Tekniikan Maailma	Rainisto Sami Pasi Kalevi	309780042465696	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	120	24	2	0
-Anna Sirkiä	Anna Sirkiä	115751458577078	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	105	21	2	0
-Äänioikeus.fi		753565071658403	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	83	16	1	0
-Eurooppalainen Suomi ry	Eurooppalainen Suomi ry	163903613685550	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	49	0	4	0
-Jussi Mäkipelto - Eurovaaliehdokas 105 - Liberaalipuolue	Makipel To Jussi Markus	1057558317751103	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	43	0	4	0
-European Commission	European Commission	107898832590939	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	36	18	0	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	30	15	0	0
-Riku Eskelinen	Riku Eskelisen eurovaalien tukiyhdistys Herttoniemen Keskustaseura ry	312837175579728	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	24	0	2	0
-Olli-Pekka Nyberg	NYBERG OLLI-PEKKA	291483185114189	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	24	0	2	0
-Allianssi	Allianssi	189362187761641	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	23	0	2	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	4	1	17	5	0	0
-Henrik Wickström	Wickström 2019	448116415229902	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	12	0	1	0
+Niko Eskelinen poliitikko	Eskelinen Niko Olavi	1337176579662419	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	113	22	2	0
+Tommi Aalto		650991871774294	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	110	22	2	0
+Asseri Kinnunen	Kinnunen Henri Asseri	1159967857373678	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	99	19	1	0
+Äänioikeus.fi		753565071658403	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	86	17	1	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	62	15	3	0
+Jussi Mäkipelto - Eurovaaliehdokas 105 - Liberaalipuolue	Makipel To Jussi Markus	1057558317751103	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	46	0	4	0
+Makuja Järvikylästä		457310120990526	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	36	0	3	0
+Heidi Hautala		116940668479201	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	2	1	21	0	2	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	20	10	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	5	2	0	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	5	2	0	0
+University of Helsinki	University of Helsinki	200739723082	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	5	0	0	0
+YOU.and.EU	Nordstrom Laura Helena	250361215678222	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	4	0	0	0
+Europe Thinx		335839580440114	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	2	0	0	0
+Big News Buzz		125179374733697	Facebook	ostrobothnia_region_FI	Ostrobothnia (region), Finland	1	1	1	1	0	0

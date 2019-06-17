@@ -1,33 +1,132 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-RMDSZ	RMDSZ	102601499822802	Facebook	covasna_county_RO	Covasna County, Romania	8	1	19274	4809	23	0
-Alianța 2020 USR PLUS	Alianța 2020 USR PLUS	621574984950400	Facebook	covasna_county_RO	Covasna County, Romania	4	1	10029	4400	19	5
-Kelemen Hunor	RMDSZ	175293925828191	Facebook	covasna_county_RO	Covasna County, Romania	2	1	7601	1520	7	0
-Romania #nuepsd	Future Innovation	293215748279337	Facebook	covasna_county_RO	Covasna County, Romania	1	1	7375	2950	3	1
-European Parliament	European Parliament	178362315106	Facebook	covasna_county_RO	Covasna County, Romania	1	1	6530	2612	13	6
-Partidul Naţional Liberal	Future Innovation 	181375448581167	Facebook	covasna_county_RO	Covasna County, Romania	3	1	3324	1611	3	1
-Parlamentul European, Biroul de Informare în Romania	Parlamentul European, Biroul de Informare în Romania	138896782840976	Facebook	covasna_county_RO	Covasna County, Romania	2	1	2639	932	4	0
-ALDE - Partidul Alianta Liberalilor si Democratilor	EvolveDreamSoft	1445317929104549	Facebook	covasna_county_RO	Covasna County, Romania	2	1	2356	1178	3	1
-Erdélyi magyarok Orbán Viktor mellett	Erdélyi magyarok Orbán Viktor mellett	1537537942983268	Facebook	covasna_county_RO	Covasna County, Romania	4	1	2321	769	14	0
-Legyen ELÉG	Legyen Elég	1500893963467932	Facebook	covasna_county_RO	Covasna County, Romania	4	1	2060	388	10	0
-Cristian Ghinea	Uniunea Salvați România	269505079808785	Facebook	covasna_county_RO	Covasna County, Romania	2	1	1646	816	0	0
-Nicu Ștefănuță	Uniunea Salvați România - USR	279454772645662	Facebook	covasna_county_RO	Covasna County, Romania	2	1	1560	780	1	0
-Kárpát-medencei Magyar Összefogás	Kárpát-medencei Magyar Összefogás	221361328752151	Facebook	covasna_county_RO	Covasna County, Romania	1	1	890	445	1	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	covasna_county_RO	Covasna County, Romania	2	1	710	288	0	0
-Greenpeace Romania	Greenpeace Romania	291132089193	Facebook	covasna_county_RO	Covasna County, Romania	10	1	548	83	3	0
-Partidul Mișcarea Populară	Amerisoft	581911828514783	Facebook	covasna_county_RO	Covasna County, Romania	1	1	546	109	0	0
-Viorel Catarama	Dreapta Liberala	795022763862618	Facebook	covasna_county_RO	Covasna County, Romania	2	1	478	95	1	0
-Dreapta Liberală - DL	Dreapta Liberala	1881461575305499	Facebook	covasna_county_RO	Covasna County, Romania	3	1	303	60	0	0
-European Commission	European Commission	107898832590939	Facebook	covasna_county_RO	Covasna County, Romania	2	1	248	124	0	0
-Virgil Popescu	POPESCU VIRGIL-DANIEL	1641765056062575	Facebook	covasna_county_RO	Covasna County, Romania	1	1	179	35	0	0
-ALDE BACĂU - Partidul Alianța Liberalilor și Democraților	Partidul Alianța Liberalilor și Democraților - ALDE	535445976897124	Facebook	covasna_county_RO	Covasna County, Romania	1	1	156	78	1	0
-Dacian Cioloş	PLUS	107543802616247	Facebook	covasna_county_RO	Covasna County, Romania	1	1	134	26	0	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	covasna_county_RO	Covasna County, Romania	1	1	122	61	0	0
-Cristian Bușoi	Rus Alexandra	112332998808842	Facebook	covasna_county_RO	Covasna County, Romania	1	1	93	18	0	0
-Socioblog.ro	ZODIAN ALEXANDRU-SERBAN	815735411826201	Facebook	covasna_county_RO	Covasna County, Romania	1	1	66	13	0	0
-Iulian Lorincz	Uniunea Salvați România - USR	924354934394338	Facebook	covasna_county_RO	Covasna County, Romania	1	1	37	7	0	0
-Corina Cretu	Corina Cretu	200813406761691	Facebook	covasna_county_RO	Covasna County, Romania	1	1	37	7	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	covasna_county_RO	Covasna County, Romania	2	1	31	8	0	0
-Raluca Amariei	USR Sibiu	183087692172986	Facebook	covasna_county_RO	Covasna County, Romania	1	1	31	15	0	0
-Mihai Goţiu	Uniunea Salvați România	602280189818804	Facebook	covasna_county_RO	Covasna County, Romania	1	1	28	14	0	0
-MH TIMES	MINCULEASA CLAUDIU-NICOLAE	559977200816313	Facebook	covasna_county_RO	Covasna County, Romania	2	1	22	4	0	0
-Todoran Adrian	Deputat Adrian Todoran	378450619599004	Facebook	covasna_county_RO	Covasna County, Romania	1	1	2	0	0	0
+RMDSZ	RMDSZ	102601499822802	Facebook	covasna_county_RO	Covasna County, Romania	50	1	304569	83667	639	127
+Csíkország	Csíkország	2229168487164126	Facebook	covasna_county_RO	Covasna County, Romania	40	1	164492	35220	269	45
+Erdélyi magyarok Orbán Viktor mellett	Erdélyi magyarok Orbán Viktor mellett	1537537942983268	Facebook	covasna_county_RO	Covasna County, Romania	36	1	147188	34242	324	50
+Kárpát-medencei Magyar Összefogás	Kárpát-medencei Magyar Összefogás	221361328752151	Facebook	covasna_county_RO	Covasna County, Romania	41	1	139810	40055	302	39
+Alianța 2020 USR PLUS	Alianța 2020 USR PLUS	621574984950400	Facebook	covasna_county_RO	Covasna County, Romania	34	1	126362	56852	169	34
+Legyen ELÉG	Legyen Elég	1500893963467932	Facebook	covasna_county_RO	Covasna County, Romania	17	1	83748	22895	167	37
+European Parliament	European Parliament	178362315106	Facebook	covasna_county_RO	Covasna County, Romania	15	1	74966	34292	188	44
+Parlamentul European, Biroul de Informare în Romania	Parlamentul European, Biroul de Informare în Romania	138896782840976	Facebook	covasna_county_RO	Covasna County, Romania	15	1	70991	32795	92	21
+European Commission	European Commission	107898832590939	Facebook	covasna_county_RO	Covasna County, Romania	27	1	58749	27521	150	39
+Partidul Social Democrat	Partidul Social Democrat	291177524360702	Facebook	covasna_county_RO	Covasna County, Romania	12	1	58527	28227	111	22
+ALDE - Partidul Alianta Liberalilor si Democratilor	EvolveDreamSoft	1445317929104549	Facebook	covasna_county_RO	Covasna County, Romania	41	1	55700	25110	160	37
+Vincze Loránt	Vincze Loránt	675042232534141	Facebook	covasna_county_RO	Covasna County, Romania	14	1	52981	15471	106	0
+Partidul Naţional Liberal	Future Innovation 	181375448581167	Facebook	covasna_county_RO	Covasna County, Romania	18	1	49023	23748	110	49
+Kelemen Hunor	RMDSZ	175293925828191	Facebook	covasna_county_RO	Covasna County, Romania	9	1	36786	8855	86	15
+Răcnetul Oamenilor Sătui	IOANITA MARIN-IOANA	165452684079944	Facebook	covasna_county_RO	Covasna County, Romania	8	1	28022	12078	21	5
+Mága Zoltán hegedűművész		164762586881530	Facebook	covasna_county_RO	Covasna County, Romania	1	1	26754	13377	41	20
+Departamentul pentru Agricultură și Dezvoltare Rurală al PSD	Partidul Social Democrat	339365506708219	Facebook	covasna_county_RO	Covasna County, Romania	5	1	24611	10119	10	4
+PLUS	PLUS	1903580739951981	Facebook	covasna_county_RO	Covasna County, Romania	4	1	23259	11121	30	6
+Winkler Gyula	Winkler Iuliu	1560147330888040	Facebook	covasna_county_RO	Covasna County, Romania	2	1	22191	8957	30	6
+Cristian Bușoi	Rus Alexandra	112332998808842	Facebook	covasna_county_RO	Covasna County, Romania	26	1	21261	9254	28	8
+European Greens	European Greens	141366725876424	Facebook	covasna_county_RO	Covasna County, Romania	4	1	20650	10190	71	10
+Norica Nicolai	Increase Digital	121265151226126	Facebook	covasna_county_RO	Covasna County, Romania	12	1	18747	6550	35	6
+Partidul Mișcarea Populară	Amerisoft	581911828514783	Facebook	covasna_county_RO	Covasna County, Romania	15	1	16924	7292	19	5
+Cristian Ghinea	Uniunea Salvați România	269505079808785	Facebook	covasna_county_RO	Covasna County, Romania	11	1	16463	7157	9	1
+Litere.net	litere.net	1504323906337545	Facebook	covasna_county_RO	Covasna County, Romania	1	1	15492	6197	6	3
+Csomortányi István	Erdélyi Magyar Néppárt	450693115669004	Facebook	covasna_county_RO	Covasna County, Romania	2	1	14419	2883	17	2
+România în primul rând	Future Innovation	770704223323599	Facebook	covasna_county_RO	Covasna County, Romania	1	1	14385	7193	15	3
+Romania #nuepsd	Future Innovation	293215748279337	Facebook	covasna_county_RO	Covasna County, Romania	1	1	14362	7181	15	3
+George Simion	George Simion	2212856535602171	Facebook	covasna_county_RO	Covasna County, Romania	10	1	7531	2287	26	8
+Declic	Declic	686190454826244	Facebook	covasna_county_RO	Covasna County, Romania	2	1	6718	2864	3	1
+Consiliul Național PSD	Partidul Social Democrat	428923027871330	Facebook	covasna_county_RO	Covasna County, Romania	1	1	6700	3350	3	0
+Greenpeace Romania	Greenpeace Romania	291132089193	Facebook	covasna_county_RO	Covasna County, Romania	17	1	6504	2029	11	1
+Departamentul pentru Comunicații și Societate Informațională al PSD	Partidul Social Democrat	346281832652995	Facebook	covasna_county_RO	Covasna County, Romania	1	1	6380	2552	2	1
+Eugen Tomac	Amerisoft	494469087244449	Facebook	covasna_county_RO	Covasna County, Romania	7	1	6075	2662	6	2
+Calin Popescu Tariceanu	EvolveDreamSoft	227922987222524	Facebook	covasna_county_RO	Covasna County, Romania	2	1	6035	3017	10	5
+Ionel Dancă	ETIS Design	227578001357165	Facebook	covasna_county_RO	Covasna County, Romania	5	1	5866	2533	3	1
+European Free Alliance	European Free Alliance	46708306425	Facebook	covasna_county_RO	Covasna County, Romania	1	1	5469	2735	27	5
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	covasna_county_RO	Covasna County, Romania	15	1	4684	2051	10	3
+Raluca Turcan	ETIS Design	360184320712594	Facebook	covasna_county_RO	Covasna County, Romania	5	1	4620	2257	3	1
+Gregoriana Tudoran	Tudoran Gregoriana Carmen	1985293741779690	Facebook	covasna_county_RO	Covasna County, Romania	10	1	4319	863	6	1
+Simona Maria Vlădica	Amerisoft	236992636715917	Facebook	covasna_county_RO	Covasna County, Romania	4	1	3874	1685	5	1
+Rares Bogdan	ETIS Design	204397909629079	Facebook	covasna_county_RO	Covasna County, Romania	1	1	3668	1467	1	0
+Pavel Emilian		1557836147771248	Facebook	covasna_county_RO	Covasna County, Romania	9	1	3576	1042	6	1
+Cristian Seidler		150955332037774	Facebook	covasna_county_RO	Covasna County, Romania	2	1	3527	1763	7	0
+Raluca Amariei	USR Sibiu	183087692172986	Facebook	covasna_county_RO	Covasna County, Romania	7	1	3441	1626	17	3
+Nicu Ștefănuță	Uniunea Salvați România - USR	279454772645662	Facebook	covasna_county_RO	Covasna County, Romania	5	1	3413	1448	4	1
+PRO România	Networld IT&C SRL	2177244962290894	Facebook	covasna_county_RO	Covasna County, Romania	20	1	3056	1108	6	2
+Viorel Catarama	Dreapta Liberala	795022763862618	Facebook	covasna_county_RO	Covasna County, Romania	4	1	2982	1491	6	2
+Transindex.ro	Transindex.ro	306375751406	Facebook	covasna_county_RO	Covasna County, Romania	3	1	2867	573	11	0
+Daniel Buda	ETIS Design	220579784732993	Facebook	covasna_county_RO	Covasna County, Romania	2	1	2812	1406	2	0
+Departamentul pentru Afaceri Interne PSD	Partidul Social Democrat	797044747344438	Facebook	covasna_county_RO	Covasna County, Romania	1	1	2643	1321	1	0
+Mihai Goţiu	Uniunea Salvați România	602280189818804	Facebook	covasna_county_RO	Covasna County, Romania	9	1	2474	895	4	0
+PMP TV	Amerisoft	958364000868431	Facebook	covasna_county_RO	Covasna County, Romania	1	1	2357	1178	1	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	covasna_county_RO	Covasna County, Romania	3	1	2194	836	4	0
+Virgil Popescu	POPESCU VIRGIL-DANIEL	1641765056062575	Facebook	covasna_county_RO	Covasna County, Romania	3	1	2133	785	4	0
+USR Tineret		360833174410777	Facebook	covasna_county_RO	Covasna County, Romania	2	1	1928	964	3	0
+USR Sibiu	Uniunea Salvați România	1028428697211383	Facebook	covasna_county_RO	Covasna County, Romania	1	1	1812	906	1	0
+Antal Lóránt	Diversity Advertising	490181697757865	Facebook	covasna_county_RO	Covasna County, Romania	6	1	1803	481	2	0
+PNL Bucuresti	Rus Alexandra	678840505584990	Facebook	covasna_county_RO	Covasna County, Romania	1	1	1522	761	3	1
+EM360 cu Adi Maniutiu	EM360 cu Adi Maniutiu	201920416986321	Facebook	covasna_county_RO	Covasna County, Romania	14	1	1336	511	3	0
+Aresel		292847028010932	Facebook	covasna_county_RO	Covasna County, Romania	2	1	1298	649	3	0
+Forum Cogitorium	Zsombor Ferencz	1039582286103020	Facebook	covasna_county_RO	Covasna County, Romania	3	1	1286	181	11	0
+Iulian Lorincz	Uniunea Salvați România - USR	924354934394338	Facebook	covasna_county_RO	Covasna County, Romania	9	1	1266	309	3	0
+Dacian Cioloş	PLUS	107543802616247	Facebook	covasna_county_RO	Covasna County, Romania	1	1	1189	475	2	0
+Violeta Alexandru	ETIS Design SRL	644108472676492	Facebook	covasna_county_RO	Covasna County, Romania	2	1	1099	421	1	0
+ALDE BACĂU - Partidul Alianța Liberalilor și Democraților	Partidul Alianța Liberalilor și Democraților - ALDE	535445976897124	Facebook	covasna_county_RO	Covasna County, Romania	1	1	1026	205	4	2
+Paralela45	Paralela45	89625862971	Facebook	covasna_county_RO	Covasna County, Romania	1	1	979	489	5	1
+Siegfried Muresan	ETIS Design	731035500293728	Facebook	covasna_county_RO	Covasna County, Romania	1	1	878	439	1	0
+Viorel Badea	ETIS Design	161582543936194	Facebook	covasna_county_RO	Covasna County, Romania	1	1	876	438	0	0
+Florica Chereches	ETIS Design	425879067570544	Facebook	covasna_county_RO	Covasna County, Romania	1	1	786	393	1	0
+Ilan Laufer		364446500390294	Facebook	covasna_county_RO	Covasna County, Romania	4	1	759	156	0	0
+CLAYTON		122493385103	Facebook	covasna_county_RO	Covasna County, Romania	1	1	723	144	1	0
+Ion ȘTEFAN	ETIS Design SRL	1653699758248627	Facebook	covasna_county_RO	Covasna County, Romania	1	1	716	358	1	0
+Adrian Miuțescu	ETIS Design	1992712767649895	Facebook	covasna_county_RO	Covasna County, Romania	1	1	706	353	1	0
+Cupşa Ioan	ETIS Design	582397865304291	Facebook	covasna_county_RO	Covasna County, Romania	1	1	682	341	1	0
+ALDE Municipiul Onești	Partidul Alianța Liberalilor și Democraților – ALDE	568655433550568	Facebook	covasna_county_RO	Covasna County, Romania	1	1	655	328	6	1
+Daniel Fenechiu	ETIS Design	125414364282605	Facebook	covasna_county_RO	Covasna County, Romania	1	1	654	327	0	0
+Ziare Neamț	Media PR Grup	471673660019608	Facebook	covasna_county_RO	Covasna County, Romania	2	1	643	128	1	0
+Costel Alexe	ETIS Design	182546041796641	Facebook	covasna_county_RO	Covasna County, Romania	1	1	619	309	0	0
+Dreapta Liberală - DL	Dreapta Liberala	1881461575305499	Facebook	covasna_county_RO	Covasna County, Romania	3	1	556	111	1	0
+Cornel Popa	ETIS Design	362437290495506	Facebook	covasna_county_RO	Covasna County, Romania	1	1	541	270	0	0
+Marilen Gabriel Pirtea	ETIS Design	446198175563566	Facebook	covasna_county_RO	Covasna County, Romania	1	1	525	262	1	0
+Peter Costea		407413792695356	Facebook	covasna_county_RO	Covasna County, Romania	3	1	472	90	2	0
+Inițiativa România	Inițiativa România	1847959338763696	Facebook	covasna_county_RO	Covasna County, Romania	6	1	457	194	0	0
+Victor Ponta		150967671609795	Facebook	covasna_county_RO	Covasna County, Romania	1	1	420	210	0	0
+Bogdan Huţucă	ETIS Design	370816919755641	Facebook	covasna_county_RO	Covasna County, Romania	1	1	392	78	0	0
+USR Teleorman	Partidul "Uniunea Salvati Romania"	694605284013356	Facebook	covasna_county_RO	Covasna County, Romania	1	1	387	77	0	0
+Ziar Piatra Neamt	Media PR Grup	183473261723511	Facebook	covasna_county_RO	Covasna County, Romania	1	1	365	73	0	0
+Naomi Reniuț-Ursoiu	Uniunea Salvați România	708334336169853	Facebook	covasna_county_RO	Covasna County, Romania	4	1	358	70	0	0
+Dan Vîlceanu	ETIS Design	715786165255092	Facebook	covasna_county_RO	Covasna County, Romania	1	1	342	68	0	0
+Gheorghiu Bogdan	ETIS Design	267044410338956	Facebook	covasna_county_RO	Covasna County, Romania	1	1	337	67	0	0
+Monica Luisa Macovei	MACOVEI MONICA-LUISA	130380413723811	Facebook	covasna_county_RO	Covasna County, Romania	1	1	311	62	0	0
+USR Olt	ANTON SILVIU-CRISTIAN	247245385651467	Facebook	covasna_county_RO	Covasna County, Romania	1	1	306	61	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	covasna_county_RO	Covasna County, Romania	1	1	303	60	3	0
+Andrei Pop	Andrei Pop	522518014611632	Facebook	covasna_county_RO	Covasna County, Romania	2	1	290	58	0	0
+Corina Cretu	Corina Cretu	200813406761691	Facebook	covasna_county_RO	Covasna County, Romania	11	1	288	73	0	0
+Europe Direct Regiunea Centru		146911762151935	Facebook	covasna_county_RO	Covasna County, Romania	1	1	283	56	0	0
+The Trust Word - Romania	The TRUST Word News Group	640011536422545	Facebook	covasna_county_RO	Covasna County, Romania	1	1	251	50	0	0
+MH TIMES	MINCULEASA CLAUDIU-NICOLAE	559977200816313	Facebook	covasna_county_RO	Covasna County, Romania	5	1	240	82	0	0
+Silvia Dinică	Silvia Dinică	1128229287275038	Facebook	covasna_county_RO	Covasna County, Romania	1	1	235	47	0	0
+Europe Thinx		335839580440114	Facebook	covasna_county_RO	Covasna County, Romania	1	1	221	44	0	0
+ETUC		129041250601685	Facebook	covasna_county_RO	Covasna County, Romania	1	1	221	44	2	0
+Christ4ro News		33424557041	Facebook	covasna_county_RO	Covasna County, Romania	2	1	194	97	1	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	covasna_county_RO	Covasna County, Romania	5	1	154	56	0	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	covasna_county_RO	Covasna County, Romania	1	1	123	61	0	0
+Partidul Social Democrat Departamentul pentru Politici Fiscal Bugetare	Partidul Social Democrat	2006803969624108	Facebook	covasna_county_RO	Covasna County, Romania	1	1	121	48	0	0
+MozaiQ	MozaiQ	1156150484398630	Facebook	covasna_county_RO	Covasna County, Romania	1	1	113	22	0	0
+Todoran Adrian	Deputat Adrian Todoran	378450619599004	Facebook	covasna_county_RO	Covasna County, Romania	3	1	111	23	0	0
+Socioblog.ro	ZODIAN ALEXANDRU-SERBAN	815735411826201	Facebook	covasna_county_RO	Covasna County, Romania	1	1	110	55	0	0
+Departamentul pentru Turism - Partidul Social Democrat	Partidul Social Democrat	339973510194748	Facebook	covasna_county_RO	Covasna County, Romania	1	1	101	40	0	0
+USR Buzău		1140510482748359	Facebook	covasna_county_RO	Covasna County, Romania	1	1	75	15	0	0
+UNPR Sector 6		1499561713619805	Facebook	covasna_county_RO	Covasna County, Romania	1	1	70	35	0	0
+EuroJobs Romania		1850976141839208	Facebook	covasna_county_RO	Covasna County, Romania	1	1	67	33	0	0
+Florin Bivol		2253449691332190	Facebook	covasna_county_RO	Covasna County, Romania	1	1	57	11	0	0
+Marinela V. Ardelean		346137638884956	Facebook	covasna_county_RO	Covasna County, Romania	1	1	55	11	0	0
+Cristina Prună	PRUNA CRISTINA-MADALINA	281341562263123	Facebook	covasna_county_RO	Covasna County, Romania	1	1	50	10	0	0
+Plictisescu.ro		184028071751540	Facebook	covasna_county_RO	Covasna County, Romania	1	1	46	23	0	0
+Cornel Radu Loghin	RADU-LOGHIN CORNEL	429437337859107	Facebook	covasna_county_RO	Covasna County, Romania	2	1	31	5	0	0
+ITUC		20556338116	Facebook	covasna_county_RO	Covasna County, Romania	1	1	21	0	2	0
+Un colt de suflet		1446870045551264	Facebook	covasna_county_RO	Covasna County, Romania	2	1	21	3	0	0
+Lazar I. Bogdan		363615250703159	Facebook	covasna_county_RO	Covasna County, Romania	1	1	18	3	0	0
+Eurozine		115579498521257	Facebook	covasna_county_RO	Covasna County, Romania	1	1	16	3	0	0
+La Pensie		1092535407579725	Facebook	covasna_county_RO	Covasna County, Romania	1	1	12	0	0	0
+Gabriela Mirescu		2618888988127707	Facebook	covasna_county_RO	Covasna County, Romania	2	1	10	5	0	0
+Radu Mihaiu	Mihaiu Radu-Nicolae	689386518104305	Facebook	covasna_county_RO	Covasna County, Romania	1	1	10	2	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	covasna_county_RO	Covasna County, Romania	2	1	8	0	0	0
+Calculat si linistit		821298314618173	Facebook	covasna_county_RO	Covasna County, Romania	1	1	5	0	0	0
+USR Berzunți	PANTIRU SORIN-MIHAI	1179862085498279	Facebook	covasna_county_RO	Covasna County, Romania	1	1	4	2	0	0
+Stop AAAS Ro		1640996242671731	Facebook	covasna_county_RO	Covasna County, Romania	2	1	4	0	0	0
+Big News Buzz		125179374733697	Facebook	covasna_county_RO	Covasna County, Romania	1	1	1	1	0	0
+USR Timiș		873737539404529	Facebook	covasna_county_RO	Covasna County, Romania	1	1	1	0	0	0

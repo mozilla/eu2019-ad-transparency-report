@@ -1,6 +1,6 @@
 region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-kurzeme_region	Kurzeme Region	LV	Latvia	66	13	180351	38239	1842	0
-latgale	Latgale	LV	Latvia	45	12	58276	11802	169	0
-riga_planning_region	Riga Planning Region	LV	Latvia	18	7	4	0	0	0
-semigallia	Semigallia	LV	Latvia	61	12	91999	16983	1498	0
-vidzeme	Vidzeme	LV	Latvia	59	13	134191	30110	740	0
+kurzeme_region	Kurzeme Region	LV	Latvia	336	50	3346744	1162321	14788	1634
+latgale	Latgale	LV	Latvia	283	47	251910	69949	960	57
+riga_planning_region	Riga Planning Region	LV	Latvia	76	22	72	24	0	0
+semigallia	Semigallia	LV	Latvia	324	50	652525	212438	3821	197
+vidzeme	Vidzeme	LV	Latvia	319	47	568571	145021	1826	73

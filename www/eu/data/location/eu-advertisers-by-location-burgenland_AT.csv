@@ -1,42 +1,130 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Beate Meinl-Reisinger	NEOS	243225039137708	Facebook	burgenland_AT	Burgenland, Austria	3	1	21916	10958	116	27
-SPÖ	SPÖ	77393060080	Facebook	burgenland_AT	Burgenland, Austria	23	1	16394	3214	204	29
-Harald Vilimsky	FPÖ	547597092025909	Facebook	burgenland_AT	Burgenland, Austria	4	1	14853	5270	26	4
-NR KLUB JETZT	NR KLUB JETZT	833013456857401	Facebook	burgenland_AT	Burgenland, Austria	11	1	6185	1336	29	2
-European Parliament	European Parliament	178362315106	Facebook	burgenland_AT	Burgenland, Austria	1	1	2659	1329	6	1
-Andreas Schieder	SPÖ	290881691011354	Facebook	burgenland_AT	Burgenland, Austria	3	1	1810	856	21	8
-FSG - Fraktion Sozialdemokratischer GewerkschafterInnen	GewerkschafterInnen in der SPÖ	364093897023468	Facebook	burgenland_AT	Burgenland, Austria	2	1	1799	436	5	0
-Peter Pilz	NR KLUB JETZT	127399223970566	Facebook	burgenland_AT	Burgenland, Austria	3	1	1316	308	14	2
-Claudia Gamon	NEOS	447992848717452	Facebook	burgenland_AT	Burgenland, Austria	2	1	1254	250	12	2
-Wilfried Haslauer	Salzburger Volkspartei	49835536470	Facebook	burgenland_AT	Burgenland, Austria	1	1	1073	214	10	2
-Christian Dax	SPÖ Burgenland	1232990493514860	Facebook	burgenland_AT	Burgenland, Austria	1	1	999	0	99	0
-Alma Zadic	NR KLUB JETZT	1891626681100935	Facebook	burgenland_AT	Burgenland, Austria	7	1	779	193	5	0
-Wirtschaftskammer	Wirtschaftskammer	125946327466544	Facebook	burgenland_AT	Burgenland, Austria	1	1	603	120	1	0
-kontrast.at	kontrast.at	1079650008770485	Facebook	burgenland_AT	Burgenland, Austria	1	1	548	109	1	0
-GRAS - Grüne & Alternative Student_innen	GRAS - Grüne & Alternative Student_innen	79935247286	Facebook	burgenland_AT	Burgenland, Austria	1	1	541	108	1	0
-Lukas Mandl	Verein VSM - Vorzugsstimmen für Mandl	436914289678818	Facebook	burgenland_AT	Burgenland, Austria	3	1	462	90	9	0
-Europäisches Parlament Österreich	Europäisches Parlament Österreich	124468054313069	Facebook	burgenland_AT	Burgenland, Austria	1	1	233	116	2	0
-Werner Kogler	Die Grünen	133612666671985	Facebook	burgenland_AT	Burgenland, Austria	1	1	226	45	2	0
-Sebastian Bohrn Mena	Tierschutzvolksbegehren	1583324305255890	Facebook	burgenland_AT	Burgenland, Austria	4	1	199	27	9	0
-Alex Bernhuber	Niederösterreichischer Bauernbund	382872055842390	Facebook	burgenland_AT	Burgenland, Austria	1	1	150	75	1	0
-Österreichische Gesellschaft für Europapolitik	Österreichische Gesellschaft für Europapolitik	290449626693	Facebook	burgenland_AT	Burgenland, Austria	2	1	133	22	4	0
-Norbert Hofer	FPÖ	1650580648552563	Facebook	burgenland_AT	Burgenland, Austria	1	1	117	23	2	0
-Angelika Winzig	Wirtschaftsbund Österreich	141015722773374	Facebook	burgenland_AT	Burgenland, Austria	1	1	110	22	2	0
-1Europa	Peter Glawischnig	320389701908367	Facebook	burgenland_AT	Burgenland, Austria	1	1	104	20	2	0
-Steffi Krisper	Stephanie Krisper	170392456839307	Facebook	burgenland_AT	Burgenland, Austria	2	1	93	15	3	0
-Politik muss wieder für die einfachen Menschen gemacht werden.	Georg Krejci	2060122567590322	Facebook	burgenland_AT	Burgenland, Austria	3	1	54	0	5	0
-Magyar Kétfarkú Kutya Párt	Magyar Kétfarkú Kutya Párt	14792493292	Facebook	burgenland_AT	Burgenland, Austria	1	1	45	9	0	0
-Die Grünen	Die Grünen	21759893033	Facebook	burgenland_AT	Burgenland, Austria	2	1	40	8	0	0
-Junge Generation in der SPÖ	Junge Generation in der SPÖ	138952762862969	Facebook	burgenland_AT	Burgenland, Austria	1	1	34	0	3	0
-Keinen Millimeter	Michael Dorner	356665748284436	Facebook	burgenland_AT	Burgenland, Austria	3	1	30	0	3	0
+Christian Dax	SPÖ Burgenland	1232990493514860	Facebook	burgenland_AT	Burgenland, Austria	8	1	182090	41548	1963	300
+Harald Vilimsky	FPÖ	547597092025909	Facebook	burgenland_AT	Burgenland, Austria	37	1	154673	66830	1449	319
+Claudia Gamon	NEOS	447992848717452	Facebook	burgenland_AT	Burgenland, Austria	13	1	120948	29778	770	123
+SPÖ	SPÖ	77393060080	Facebook	burgenland_AT	Burgenland, Austria	79	1	112499	43987	983	279
+Sebastian Kurz	Volkspartei	105151752909840	Facebook	burgenland_AT	Burgenland, Austria	20	1	82526	36983	831	180
+Volkspartei Niederösterreich	Volkspartei Niederösterreich	185269004912086	Facebook	burgenland_AT	Burgenland, Austria	8	1	49329	18093	444	124
+FPÖ	FPÖ	169051073236170	Facebook	burgenland_AT	Burgenland, Austria	12	1	39257	16810	451	110
+European Greens	European Greens	141366725876424	Facebook	burgenland_AT	Burgenland, Austria	12	1	34796	16178	318	66
+Norbert Hofer	FPÖ	1650580648552563	Facebook	burgenland_AT	Burgenland, Austria	8	1	34040	13662	352	95
+kontrast.at	kontrast.at	1079650008770485	Facebook	burgenland_AT	Burgenland, Austria	30	1	33876	12974	457	96
+European Parliament	European Parliament	178362315106	Facebook	burgenland_AT	Burgenland, Austria	20	1	32529	13399	176	44
+Herbert Kickl	FPÖ	1977684662509834	Facebook	burgenland_AT	Burgenland, Austria	5	1	32157	13516	265	61
+Beate Meinl-Reisinger	NEOS	243225039137708	Facebook	burgenland_AT	Burgenland, Austria	5	1	29393	14696	199	45
+Wolfram Pirchner	Österreichischer Seniorenbund	296676857050295	Facebook	burgenland_AT	Burgenland, Austria	8	1	24844	10227	222	56
+NR KLUB JETZT	NR KLUB JETZT	833013456857401	Facebook	burgenland_AT	Burgenland, Austria	66	1	20942	5641	141	5
+1Europa	Peter Glawischnig	320389701908367	Facebook	burgenland_AT	Burgenland, Austria	13	1	19650	6386	190	36
+Lukas Mandl	Verein VSM - Vorzugsstimmen für Mandl	436914289678818	Facebook	burgenland_AT	Burgenland, Austria	40	1	18587	5036	183	20
+SPÖ Burgenland	SPÖ Burgenland	237290919634390	Facebook	burgenland_AT	Burgenland, Austria	3	1	15997	6000	297	0
+NEOS	NEOS	327450964017497	Facebook	burgenland_AT	Burgenland, Austria	13	1	13174	4084	106	24
+Alexander Van der Bellen	Österreichische Präsidentschaftskanzlei	138508202860897	Facebook	burgenland_AT	Burgenland, Austria	1	1	12417	6209	62	12
+FSG - Fraktion Sozialdemokratischer GewerkschafterInnen	GewerkschafterInnen in der SPÖ	364093897023468	Facebook	burgenland_AT	Burgenland, Austria	9	1	12046	3943	86	15
+Team Kurz	Volkspartei	1446536545429987	Facebook	burgenland_AT	Burgenland, Austria	5	1	11661	5546	123	29
+GRAS - Grüne & Alternative Student_innen	GRAS - Grüne & Alternative Student_innen	79935247286	Facebook	burgenland_AT	Burgenland, Austria	17	1	11324	3865	74	13
+Die Grünen	Die Grünen	21759893033	Facebook	burgenland_AT	Burgenland, Austria	28	1	11144	4034	92	23
+Europäisches Parlament Österreich	Europäisches Parlament Österreich	124468054313069	Facebook	burgenland_AT	Burgenland, Austria	5	1	10936	4676	85	16
+Andreas Schieder	SPÖ	290881691011354	Facebook	burgenland_AT	Burgenland, Austria	9	1	10858	3862	76	19
+Sozialdemokratische Partei Europas	Sozialdemokratische Partei Europas	338549033673221	Facebook	burgenland_AT	Burgenland, Austria	11	1	9175	3007	26	1
+Pamela Rendi-Wagner	SPÖ-Parlamentsklub	1673371229636129	Facebook	burgenland_AT	Burgenland, Austria	16	1	8614	2737	49	4
+Christian Zoll	Vorarlberger Volkspartei	601419393620184	Facebook	burgenland_AT	Burgenland, Austria	2	1	8200	3275	9	1
+Wirtschaftsbund Österreich	Wirtschaftsbund Österreich	385183128166442	Facebook	burgenland_AT	Burgenland, Austria	6	1	8091	2138	147	8
+Grüne Jugend - Grünalternative Jugend	Grüne Jugend - Grünalternative Jugend	533665483708070	Facebook	burgenland_AT	Burgenland, Austria	14	1	7725	2837	30	1
+JUNOS Studierende	JUNOS Studierende	231166380411824	Facebook	burgenland_AT	Burgenland, Austria	30	1	6307	1696	29	1
+Wochenblick	Wochenblick	991628130904203	Facebook	burgenland_AT	Burgenland, Austria	7	1	5584	1173	32	4
+Evelyn Regner	SPÖ	291746820967544	Facebook	burgenland_AT	Burgenland, Austria	4	1	4609	1856	30	6
+Österreichische Gesellschaft für Europapolitik	Österreichische Gesellschaft für Europapolitik	290449626693	Facebook	burgenland_AT	Burgenland, Austria	3	1	4502	1933	93	18
+GPA-djp	GPA-djp	214499840736	Facebook	burgenland_AT	Burgenland, Austria	9	1	4318	1041	14	0
+Alex Bernhuber	Niederösterreichischer Bauernbund	382872055842390	Facebook	burgenland_AT	Burgenland, Austria	8	1	3813	831	29	5
+Volkspartei	Volkspartei	15078244418	Facebook	burgenland_AT	Burgenland, Austria	2	1	3612	1487	46	23
+KPÖ PLUS	KPÖ PLUS	849742871847407	Facebook	burgenland_AT	Burgenland, Austria	8	1	3489	1144	29	7
+Wilfried Haslauer	Salzburger Volkspartei	49835536470	Facebook	burgenland_AT	Burgenland, Austria	3	1	3465	1399	29	5
+Amnesty International Austria	Amnesty International Austria	30925241455	Facebook	burgenland_AT	Burgenland, Austria	6	1	2937	607	26	4
+Simone Schmiedtbauer	Bauernbund	2423163447708524	Facebook	burgenland_AT	Burgenland, Austria	5	1	2682	723	33	5
+Peter Pilz	NR KLUB JETZT	127399223970566	Facebook	burgenland_AT	Burgenland, Austria	6	1	2489	542	27	4
+Europa-Wahl 2019	Michael Eisenriegler Bakk Phil	489866264465481	Facebook	burgenland_AT	Burgenland, Austria	22	1	2481	493	50	0
+Petra Steger	Petra Steger	1525366237690952	Facebook	burgenland_AT	Burgenland, Austria	2	1	2440	1190	13	2
+Maysara Soliman	Maysara Soliman	169929840584692	Facebook	burgenland_AT	Burgenland, Austria	3	1	2367	473	12	1
+Werner Kogler	Die Grünen	133612666671985	Facebook	burgenland_AT	Burgenland, Austria	4	1	2221	1043	34	8
+Greenpeace Österreich	Greenpeace Österreich	32984679070	Facebook	burgenland_AT	Burgenland, Austria	27	1	1863	483	58	0
+Arbeit&Wirtschaft Magazin	Arbeit&Wirtschaft Magazin	312134126182731	Facebook	burgenland_AT	Burgenland, Austria	6	1	1508	443	9	0
+KOSMO	KOSMO	191576624211837	Facebook	burgenland_AT	Burgenland, Austria	6	1	1390	339	11	0
+Alma Zadic	NR KLUB JETZT	1891626681100935	Facebook	burgenland_AT	Burgenland, Austria	31	1	1346	264	33	0
+European Commission	European Commission	107898832590939	Facebook	burgenland_AT	Burgenland, Austria	15	1	1240	576	1	0
+Irmgard Griss	Irmgard Griss	1505949083037195	Facebook	burgenland_AT	Burgenland, Austria	1	1	1140	228	2	0
+Wirtschaftskammer	Wirtschaftskammer	125946327466544	Facebook	burgenland_AT	Burgenland, Austria	1	1	1137	568	5	1
+ServusTV	ServusTV	248450014269	Facebook	burgenland_AT	Burgenland, Austria	1	1	1123	224	11	2
+Österreich&Europa	Johann Eichhorn	396597551187061	Facebook	burgenland_AT	Burgenland, Austria	2	1	1007	0	99	0
+Mario Kunasek	FPÖ - Landespartei Steiermark	66095458281	Facebook	burgenland_AT	Burgenland, Austria	1	1	989	197	9	1
+Sebastian Bohrn Mena	Tierschutzvolksbegehren	1583324305255890	Facebook	burgenland_AT	Burgenland, Austria	19	1	970	129	44	0
+Julia Herr	Sozialistische Jugend Österreich	345172509462824	Facebook	burgenland_AT	Burgenland, Austria	1	1	936	187	9	1
+FPÖ Niederösterreich	FPÖ Niederösterreich	150623338441911	Facebook	burgenland_AT	Burgenland, Austria	1	1	870	174	8	1
+Tierschutzvolksbegehren	Tierschutzvolksbegehren	1642678769161065	Facebook	burgenland_AT	Burgenland, Austria	11	1	736	125	23	0
+Keinen Millimeter	Michael Dorner	356665748284436	Facebook	burgenland_AT	Burgenland, Austria	3	1	697	235	3	0
+NEOS Tirol	NEOS Tirol	459133680794363	Facebook	burgenland_AT	Burgenland, Austria	1	1	675	135	1	0
+SPÖ Felixdorf	SPÖ Felixdorf	148243776026237	Facebook	burgenland_AT	Burgenland, Austria	1	1	641	320	6	0
+Udo Landbauer	FPÖ Niederösterreich	494195290313	Facebook	burgenland_AT	Burgenland, Austria	5	1	616	227	8	0
+Hermann Schützenhöfer	Steirische Volkspartei	141720165842248	Facebook	burgenland_AT	Burgenland, Austria	1	1	587	117	5	1
+Nurten Yilmaz	Nurten Yilmaz	160128484173405	Facebook	burgenland_AT	Burgenland, Austria	1	1	530	106	1	0
+LET'S CEE Film Festival	LET'S CEE Film Festival	374807339208829	Facebook	burgenland_AT	Burgenland, Austria	9	1	508	185	12	0
+Freiheitliche Jugend	Freiheitliche Jugend	261850724850	Facebook	burgenland_AT	Burgenland, Austria	3	1	486	216	5	0
+Georg Strasser	Georg Strasser	1450886738334945	Facebook	burgenland_AT	Burgenland, Austria	1	1	478	95	0	0
+Lui Hofmann	Ing. Mag. Ludwig Harald Hofmann	1571665456409772	Facebook	burgenland_AT	Burgenland, Austria	2	1	458	91	9	0
+Sarah Wiener	Die Grünen	970529566390833	Facebook	burgenland_AT	Burgenland, Austria	1	1	425	212	2	0
+Politik muss wieder für die einfachen Menschen gemacht werden.	Georg Krejci	2060122567590322	Facebook	burgenland_AT	Burgenland, Austria	4	1	361	69	8	0
+Michael Raml	FPÖ Linz	1499759610320321	Facebook	burgenland_AT	Burgenland, Austria	3	1	358	124	5	0
+mymuesli		20393019390	Facebook	burgenland_AT	Burgenland, Austria	1	1	312	62	0	0
+Austrian World Summit	R2o Austria & EU	1852365868311086	Facebook	burgenland_AT	Burgenland, Austria	6	1	301	4	28	0
+Zora Jaurová • Progresívne Slovensko	MPhilms o.z.	267456060571592	Facebook	burgenland_AT	Burgenland, Austria	4	1	295	73	2	0
+Gottfried Waldhäusl	FPÖ Niederösterreich	627580790692097	Facebook	burgenland_AT	Burgenland, Austria	2	1	261	107	3	0
+Steffi Krisper	Stephanie Krisper	170392456839307	Facebook	burgenland_AT	Burgenland, Austria	3	1	249	49	4	0
+WahlSwiper		111883876144163	Facebook	burgenland_AT	Burgenland, Austria	1	1	246	123	2	0
+Peter Pollák	OBYČAJNÍ ĽUDIA a nezávislé osobnosti	307556876112136	Facebook	burgenland_AT	Burgenland, Austria	1	1	232	46	2	0
+Herwig Mahr	Freiheitlicher Landtagsklub Oberösterreich	212990319049096	Facebook	burgenland_AT	Burgenland, Austria	1	1	225	112	2	0
+ZARA - Zivilcourage und Anti-Rassismus-Arbeit	ZARA - Zivilcourage und Anti-Rassismus-Arbeit	100290843377097	Facebook	burgenland_AT	Burgenland, Austria	6	1	221	44	4	0
+Freiheitliche Bauernschaft Oberösterreich	Freiheitliche Bauernschaft Oberösterreich	124298681063701	Facebook	burgenland_AT	Burgenland, Austria	1	1	204	102	2	0
+Maximilian Krauss	FPÖ-Wien	590930261019192	Facebook	burgenland_AT	Burgenland, Austria	1	1	200	100	9	2
+Thomas Waitz	Die Grünen	235816017203590	Facebook	burgenland_AT	Burgenland, Austria	1	1	183	91	1	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	burgenland_AT	Burgenland, Austria	17	1	178	75	0	0
+Salzburger Volkspartei	Salzburger Volkspartei	243190742384882	Facebook	burgenland_AT	Burgenland, Austria	1	1	163	81	1	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	burgenland_AT	Burgenland, Austria	10	1	162	65	0	0
+Ahmed Husagić	SPÖ	1617700101837646	Facebook	burgenland_AT	Burgenland, Austria	5	1	158	37	2	0
+wienerinnen.at	Valeria Foglar-Deinhardstein 	293185317391782	Facebook	burgenland_AT	Burgenland, Austria	2	1	157	31	3	0
+Lucia Kleštincová	EUpositive.sk	1933440166748185	Facebook	burgenland_AT	Burgenland, Austria	1	1	137	68	0	0
+Freiheitliche Arbeitnehmer Oberösterreich	Freiheitliche Arbeitnehmer Oberösterreich	346842098763288	Facebook	burgenland_AT	Burgenland, Austria	1	1	122	24	2	0
+Markus Hein	FPÖ Linz	624525897689879	Facebook	burgenland_AT	Burgenland, Austria	1	1	109	54	1	0
+Jaroslav Paška	Pašková Juliana	480862355305905	Facebook	burgenland_AT	Burgenland, Austria	3	1	108	21	0	0
+Junge Generation in der SPÖ	Junge Generation in der SPÖ	138952762862969	Facebook	burgenland_AT	Burgenland, Austria	1	1	104	20	2	0
+Angelika Winzig	Wirtschaftsbund Österreich	141015722773374	Facebook	burgenland_AT	Burgenland, Austria	1	1	103	20	2	0
+bagru GRAS boku	bagru*GRAS*boku	110449662370582	Facebook	burgenland_AT	Burgenland, Austria	2	1	95	34	1	0
+Demokratikus Koalíció	Demokratikus Koalíció	169599166463839	Facebook	burgenland_AT	Burgenland, Austria	2	1	82	41	0	0
+Milan Potocký	OBYČAJNÍ ĽUDIA a nezávislé osobnosti	1977234279243101	Facebook	burgenland_AT	Burgenland, Austria	1	1	80	40	0	0
+Günther Sidl	BSA Niederösterreich	806694216374998	Facebook	burgenland_AT	Burgenland, Austria	4	1	72	0	7	0
+Partei der Arbeit	Partei der Arbeit	298693416922933	Facebook	burgenland_AT	Burgenland, Austria	2	1	66	22	2	0
+Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	burgenland_AT	Burgenland, Austria	3	1	64	27	0	0
+Ondrej Prostredník • Prostredník medzi Vami a Európou	Progresívne Slovensko	951009345100113	Facebook	burgenland_AT	Burgenland, Austria	5	1	63	25	0	0
+Wandel	Wandel	441927269154538	Facebook	burgenland_AT	Burgenland, Austria	5	1	56	5	3	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	burgenland_AT	Burgenland, Austria	2	1	49	21	0	0
+Magyar Kétfarkú Kutya Párt	Magyar Kétfarkú Kutya Párt	14792493292	Facebook	burgenland_AT	Burgenland, Austria	1	1	42	8	0	0
+Progresívne Slovensko	Progresívne Slovensko	557862947737785	Facebook	burgenland_AT	Burgenland, Austria	1	1	41	20	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	burgenland_AT	Burgenland, Austria	1	1	40	20	0	0
+scoop.me		100745679654	Facebook	burgenland_AT	Burgenland, Austria	1	1	37	7	0	0
+SMER - SD Bratislava V	SMER - SD	1023617851143344	Facebook	burgenland_AT	Burgenland, Austria	8	1	36	7	0	0
+Die Grünen Oberösterreich	Die Grünen Oberösterreich	84955135551	Facebook	burgenland_AT	Burgenland, Austria	1	1	31	6	0	0
 Martin Hojsík • Progresívne Slovensko	Hojsik Martin	147166706140048	Facebook	burgenland_AT	Burgenland, Austria	1	1	29	14	0	0
+Tomáš Dentico, váš hlas rešpektovaný v Europarlamente	SPOLU - občianska demokracia	1172318522948253	Facebook	burgenland_AT	Burgenland, Austria	2	1	24	9	0	0
+SPÖ Oberösterreich	SPÖ Oberösterreich	208930355786005	Facebook	burgenland_AT	Burgenland, Austria	1	1	23	4	0	0
 European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	burgenland_AT	Burgenland, Austria	1	1	22	11	0	0
-European Commission	European Commission	107898832590939	Facebook	burgenland_AT	Burgenland, Austria	2	1	18	9	0	0
-Partei der Arbeit	Partei der Arbeit	298693416922933	Facebook	burgenland_AT	Burgenland, Austria	1	1	18	3	0	0
-Lucia Kleštincová	EUpositive.sk	1933440166748185	Facebook	burgenland_AT	Burgenland, Austria	1	1	14	2	0	0
-SMER - SD Bratislava V	SMER - SD	1023617851143344	Facebook	burgenland_AT	Burgenland, Austria	2	1	11	2	0	0
-Christian Zoll	Vorarlberger Volkspartei	601419393620184	Facebook	burgenland_AT	Burgenland, Austria	1	1	11	0	1	0
-Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	burgenland_AT	Burgenland, Austria	2	1	9	1	0	0
-bagru GRAS boku	bagru*GRAS*boku	110449662370582	Facebook	burgenland_AT	Burgenland, Austria	1	1	9	0	0	0
-Hydrogene Technologies Hungary	Nagy Tamás	406305670209771	Facebook	burgenland_AT	Burgenland, Austria	1	1	2	0	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	burgenland_AT	Burgenland, Austria	1	1	1	0	0	0
+SPOLU - občianska demokracia	SPOLU - občianska demokracia	1057020590987528	Facebook	burgenland_AT	Burgenland, Austria	3	1	21	6	1	0
+Michal Šimečka • Progresívne Slovensko	Projekt Európa o.z.	194278021265803	Facebook	burgenland_AT	Burgenland, Austria	1	1	20	4	0	0
+Gütersloher Verlagshaus		341789431722	Facebook	burgenland_AT	Burgenland, Austria	1	1	19	3	0	0
+Europäische Kommission - Vertretung in Österreich	Europäische Kommission - Vertretung in Österreich	187626534620326	Facebook	burgenland_AT	Burgenland, Austria	1	1	18	0	1	0
+Phibie v. Aldebaran		447772735582107	Facebook	burgenland_AT	Burgenland, Austria	1	1	13	2	0	0
+A Solution to Plastic Pollution - First International Online Summit		1098001547034272	Facebook	burgenland_AT	Burgenland, Austria	1	1	12	6	0	0
+Sense Mesura		1606564102740842	Facebook	burgenland_AT	Burgenland, Austria	2	1	11	0	1	0
+Hydrogene Technologies Hungary	Nagy Tamás	406305670209771	Facebook	burgenland_AT	Burgenland, Austria	2	1	7	2	0	0
+Dr. Varga-Damm Andrea		319848491555131	Facebook	burgenland_AT	Burgenland, Austria	1	1	4	0	0	0
+Ágh Péter	Ágh Péter	694941900537141	Facebook	burgenland_AT	Burgenland, Austria	1	1	3	1	0	0
+CRIF		395919323779707	Facebook	burgenland_AT	Burgenland, Austria	1	1	1	0	0	0
+ETUC		129041250601685	Facebook	burgenland_AT	Burgenland, Austria	1	1	1	0	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	burgenland_AT	Burgenland, Austria	1	1	1	0	0	0

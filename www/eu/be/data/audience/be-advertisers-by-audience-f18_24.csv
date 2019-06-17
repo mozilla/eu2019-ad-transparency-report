@@ -1,130 +1,577 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Vlaams Belang	Vlaams Belang	56605856504	Facebook	f18_24	female (18-24)	BE	Belgium	9	1	168184	75091	2367	731
-CDH - Centre Démocrate Humaniste	CDH - Centre Démocrate Humaniste	189649407806135	Facebook	f18_24	female (18-24)	BE	Belgium	34	1	162524	47178	382	0
-MR - Mouvement Réformateur	MR - Mouvement Réformateur	236330169511	Facebook	f18_24	female (18-24)	BE	Belgium	183	1	132975	15141	7734	0
-Open Vld	Open Vld	53668151866	Facebook	f18_24	female (18-24)	BE	Belgium	26	1	93436	30117	568	89
-Peter Mertens	PVDA	236485149843971	Facebook	f18_24	female (18-24)	BE	Belgium	8	1	84951	35594	560	96
-Tom Van Grieken	Vlaams Belang	584806884924010	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	55111	22110	635	126
-CD&V	CD&V	52997544531	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	53363	24896	295	59
-Greenpeace Belgium	Greenpeace Belgium	73232790238	Facebook	f18_24	female (18-24)	BE	Belgium	8	1	49572	10709	168	0
-BirdLife Europe and Central Asia	BirdLife Europe and Central Asia	174656216277326	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	42224	8445	83	0
-sp.a	sp.a	57253967150	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	27354	9151	91	12
-one brussels	one.brussels	244157445635331	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	26603	6582	96	0
-CD&V Oostkamp	CD&V Oostkamp	2062142307347631	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	24454	12227	122	24
-Listes Destexhe	Listes Destexhe	983524558703058	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	24199	4839	241	48
-John Crombez	sp.a	264131406977201	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	19089	3817	86	12
-Geert Bourgeois	Nieuw-Vlaamse Alliantie	649429725077632	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	18381	9190	91	18
-CDH liste à la Chambre province de Liège	CDH - Centre Démocrate Humaniste	268478507423505	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	15604	3120	33	0
-Gwendolyn Rutten	Gwendolyn Rutten	149158155084	Facebook	f18_24	female (18-24)	BE	Belgium	23	1	13084	2182	283	0
-Jos D'Haese	PVDA	1397002987227704	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	13043	3786	148	0
-Barbara Pas	Vlaams Belang	365242667182267	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	12791	6396	63	31
-Pascal Smet	one.brussels	148221008918941	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	12218	2443	25	0
-Maggie De Block	Maggie De Block	1410219772556421	Facebook	f18_24	female (18-24)	BE	Belgium	24	1	9980	2089	211	0
-sp.a West-Vlaanderen	sp.a West-Vlaanderen	269157793205215	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	7934	1586	15	0
-Lode Ceyssens	Lode Ceyssens	690224427744073	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	7526	1486	23	0
-Aaron Ooms	Ooms Aaron Maria W	127953044627536	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	7114	1422	14	0
-Lise Vandecasteele	PVDA	2433030616715564	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	6478	1295	12	0
-Parti Populaire - Le Peuple	Parti Populaire - Le Peuple	482811111771571	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	5652	1872	46	7
-Sébastien de Jonge	De Jonge Sébastien Edouard	370249413831637	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	5619	1123	56	11
+CD&V	CD&V	52997544531	Facebook	f18_24	female (18-24)	BE	Belgium	120	1	1327379	476264	9237	1722
+Open Vld	Open Vld	53668151866	Facebook	f18_24	female (18-24)	BE	Belgium	96	1	1316144	545305	14922	3620
+Vlaams Belang	Vlaams Belang	56605856504	Facebook	f18_24	female (18-24)	BE	Belgium	36	1	1089260	464879	15608	4034
+CDH - Centre Démocrate Humaniste	CDH - Centre Démocrate Humaniste	189649407806135	Facebook	f18_24	female (18-24)	BE	Belgium	43	1	1005266	434716	2300	651
+Tom Van Grieken	Vlaams Belang	584806884924010	Facebook	f18_24	female (18-24)	BE	Belgium	41	1	972841	423750	13249	4081
+Groen	Groen	84920854319	Facebook	f18_24	female (18-24)	BE	Belgium	49	1	969497	388603	6941	1368
+sp.a	sp.a	57253967150	Facebook	f18_24	female (18-24)	BE	Belgium	34	1	898533	399239	2968	793
+N-VA	Nieuw-Vlaamse Alliantie	334361224413	Facebook	f18_24	female (18-24)	BE	Belgium	17	1	897910	440484	7341	2223
+MR - Mouvement Réformateur	MR - Mouvement Réformateur	236330169511	Facebook	f18_24	female (18-24)	BE	Belgium	278	1	674061	171502	12654	752
+Peter Mertens	PVDA	236485149843971	Facebook	f18_24	female (18-24)	BE	Belgium	50	1	583934	214818	5596	1704
+Ecolo	Ecolo	38296327361	Facebook	f18_24	female (18-24)	BE	Belgium	27	1	581588	245636	2807	516
+John Crombez	sp.a	264131406977201	Facebook	f18_24	female (18-24)	BE	Belgium	21	1	475288	222891	1303	336
+European Youth Forum	European Youth Forum	80161254850	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	378528	177870	2461	492
+European Greens	European Greens	141366725876424	Facebook	f18_24	female (18-24)	BE	Belgium	10	1	353235	165065	4120	1167
+Greenpeace Belgium	Greenpeace Belgium	73232790238	Facebook	f18_24	female (18-24)	BE	Belgium	55	1	311419	134809	1962	218
+Jos D'Haese	PVDA	1397002987227704	Facebook	f18_24	female (18-24)	BE	Belgium	21	1	249998	59158	4964	1094
+Hilde Crevits	Hilde Crevits	384632394957341	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	226382	93356	2683	536
+Parti Socialiste (PS)	Parti Socialiste (PS)	518402351504731	Facebook	f18_24	female (18-24)	BE	Belgium	26	1	211447	81872	3567	940
+Koen Geens	CD&V	294055357407926	Facebook	f18_24	female (18-24)	BE	Belgium	41	1	211097	86156	3590	911
+Sabine de Bethune	Sabine de Bethune	254157758598438	Facebook	f18_24	female (18-24)	BE	Belgium	12	1	187407	78913	855	161
+one brussels	one.brussels	244157445635331	Facebook	f18_24	female (18-24)	BE	Belgium	16	1	186935	39115	702	71
+CD&V Limburg	CD&V Limburg	495564387205601	Facebook	f18_24	female (18-24)	BE	Belgium	25	1	173283	77273	1491	473
+CDH liste à la Chambre province de Liège	CDH - Centre Démocrate Humaniste	268478507423505	Facebook	f18_24	female (18-24)	BE	Belgium	13	1	167281	80426	589	111
+Parti Populaire - Le Peuple	Parti Populaire - Le Peuple	482811111771571	Facebook	f18_24	female (18-24)	BE	Belgium	7	1	164699	68894	1410	287
+Maurits Vande Reyde	Vande Reyde Maurits Jozef	1797427180478228	Facebook	f18_24	female (18-24)	BE	Belgium	36	1	158876	45139	1856	403
+Conner Rousseau	Conner Rousseau	942750852588816	Facebook	f18_24	female (18-24)	BE	Belgium	19	1	157240	41940	743	99
+European Parliament	European Parliament	178362315106	Facebook	f18_24	female (18-24)	BE	Belgium	26	1	156246	59139	1339	263
+Theo Francken	Nieuw-Vlaamse Alliantie	483497581789280	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	149601	61414	936	416
+Kristof Calvo	Kristof Calvo	345099982367937	Facebook	f18_24	female (18-24)	BE	Belgium	8	1	144231	70816	484	107
+Guy D'haeseleer	Vlaams Belang	1070595116362186	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	140592	66472	1405	588
+VB - nos gens d'abord	Vlaams Belang	816130908786112	Facebook	f18_24	female (18-24)	BE	Belgium	14	1	139698	55100	1311	286
+Régionale ECOLO Bruxelles	Régionale Ecolo Bruxelles	136555119816983	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	128683	50552	477	145
+Maggie De Block	Maggie De Block	1410219772556421	Facebook	f18_24	female (18-24)	BE	Belgium	43	1	125972	38643	1864	316
+Wim Soons	Soons Wim	598618930329580	Facebook	f18_24	female (18-24)	BE	Belgium	12	1	125547	52227	838	156
+Wacky Politicians	Ladbrokes Belgium	325449998160769	Facebook	f18_24	female (18-24)	BE	Belgium	16	1	121144	37817	652	20
+Delhaize	Delhaize	30102123042	Facebook	f18_24	female (18-24)	BE	Belgium	11	1	119520	45232	789	128
+Vlaams Belang Brussel	Vlaams Belang	499682940133305	Facebook	f18_24	female (18-24)	BE	Belgium	18	1	117708	46464	3385	862
+Christian Leysen	Christian Leysen	403864600161608	Facebook	f18_24	female (18-24)	BE	Belgium	17	1	117049	28604	1155	299
+Barbara Pas	Vlaams Belang	365242667182267	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	109983	54204	1099	542
+CDH BW	cdH Brabant wallon	156559267857740	Facebook	f18_24	female (18-24)	BE	Belgium	10	1	107312	22406	1070	208
+Benjamin Dalle	Benjamin Dalle	232597487340084	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	106086	47995	2554	508
+Hendrik Bogaert	Bogaert Hendrik Frank	277636928983663	Facebook	f18_24	female (18-24)	BE	Belgium	49	1	101160	35961	1023	88
+Dries Van Langenhove	Vlaams Belang	1585072555117186	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	90985	42852	2142	428
+Koen Van den Heuvel	Koen Van den Heuvel	1953990651532264	Facebook	f18_24	female (18-24)	BE	Belgium	79	1	90357	31733	958	90
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	f18_24	female (18-24)	BE	Belgium	47	1	89670	33464	916	80
+Elio Di Rupo	Parti Socialiste (PS)	16301530829	Facebook	f18_24	female (18-24)	BE	Belgium	16	1	87271	32782	948	189
+Geert Bourgeois	Nieuw-Vlaamse Alliantie	649429725077632	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	80387	32155	803	160
+European Commission	European Commission	107898832590939	Facebook	f18_24	female (18-24)	BE	Belgium	22	1	78773	36843	122	34
+Kathleen Van Brempt	Kathleen Van Brempt	206193139504506	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	76389	32674	337	56
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	f18_24	female (18-24)	BE	Belgium	16	1	74564	36228	280	41
+Les Wallons ne sont pas des parasites.Les Belges d'abord.		159664670746380	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	74546	37273	372	74
+Pascal Smet	one.brussels	148221008918941	Facebook	f18_24	female (18-24)	BE	Belgium	21	1	73291	22609	481	63
+Petra De Sutter	Groen	372776579930604	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	72474	15106	449	72
+Kristof Hendrickx	Kristof Hendrickx, N-VA	125105154858140	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	70533	29405	599	161
+Maxime Hardy	Maxime Marc C Hardy	1160832417389494	Facebook	f18_24	female (18-24)	BE	Belgium	8	1	70475	15287	214	0
+Brecht Warnez	Warnez Brecht Luc T	998887823550443	Facebook	f18_24	female (18-24)	BE	Belgium	79	1	65643	17007	1438	0
+sp.a West-Vlaanderen	sp.a West-Vlaanderen	269157793205215	Facebook	f18_24	female (18-24)	BE	Belgium	10	1	63721	22313	484	97
+CD&V Oostkamp	CD&V Oostkamp	2062142307347631	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	59389	24949	217	37
+Gwendolyn Rutten	Gwendolyn Rutten	149158155084	Facebook	f18_24	female (18-24)	BE	Belgium	33	1	59169	20085	551	52
+Jean-Claude Marcourt - Officiel	Gael René Lambinon	214672635464	Facebook	f18_24	female (18-24)	BE	Belgium	9	1	56402	11280	562	112
+Leen Dierick	D'hauwer Pieter	279936192533387	Facebook	f18_24	female (18-24)	BE	Belgium	15	1	53298	24474	269	28
+Lander Piccart	Piccart Lander 	654200285025844	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	53227	12821	454	70
+Pieter Konings²	Konings Pieter	277457939649994	Facebook	f18_24	female (18-24)	BE	Belgium	11	1	53083	11647	496	67
+Alexander De Croo	Alexander De Croo	228307843991539	Facebook	f18_24	female (18-24)	BE	Belgium	13	1	51946	15349	532	139
+Lydia Dujardin Desloover	Desloover Lydia Adriana J	491955424673557	Facebook	f18_24	female (18-24)	BE	Belgium	25	1	51130	13732	520	30
+UNICEF Belgium	UNICEF Belgium	60589646095	Facebook	f18_24	female (18-24)	BE	Belgium	13	1	51106	10690	406	60
+PTB	PTB	53838654385	Facebook	f18_24	female (18-24)	BE	Belgium	7	1	50382	24241	246	81
+Open Vld Kapellen	Dirk Van Mechelen	491116271027288	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	49913	19965	499	99
+sp.a Vlaams-Brabant	sp.a	299844037256	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	49750	21371	306	118
+Franc Bogovic	Bogovic Franc Mathijs J	517272151683918	Facebook	f18_24	female (18-24)	BE	Belgium	11	1	48448	23057	230	19
+Yasmine Kherbache - volksvertegenwoordiger	Sp.a Antwerpen	189145821274552	Facebook	f18_24	female (18-24)	BE	Belgium	11	1	47465	9493	193	0
+Vlaams Belang Jongeren	Vlaams Belang Jongeren	203903005659	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	47045	11309	503	90
+Opaline Meunier	Opaline Meunier	1003984536437712	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	46866	22017	319	36
+Danielle Godderis T'Jonck	N-VA	239999043457805	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	45668	9133	382	72
+Hans Verreyt	Verreyt Hans Breatrijs H	252441445625720	Facebook	f18_24	female (18-24)	BE	Belgium	30	1	44651	16515	492	76
+Peter Van Rompuy	CD&V	257794051588457	Facebook	f18_24	female (18-24)	BE	Belgium	13	1	44508	13684	718	226
+N-VA Gent	Nieuw-Vlaamse Alliantie	125138890876117	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	44207	21156	236	108
+Olivier Chastel	MR - Mouvement Réformateur	36858143935	Facebook	f18_24	female (18-24)	BE	Belgium	18	1	44074	10355	1017	279
+BirdLife Europe and Central Asia	BirdLife Europe and Central Asia	174656216277326	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	43891	8778	86	0
+Commission Européenne en Belgique / Europese Commissie in Belgie	Commission Européenne en Belgique / Europese Commissie in Belgie	295165170561769	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	43807	17523	437	87
+Louis Ide	N-VA	614969692296780	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	42788	21394	129	19
+Rudy Delhaise - Bourgmestre d'Eghezée	MR Province de Namur	659081287825798	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	41118	9439	281	22
+Mark Demesmaeker	Nieuw-Vlaamse Alliantie	397796871009992	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	40875	20260	140	28
+Els Van Hoof-pagina	Van Hoof Els Walter H	315278555648437	Facebook	f18_24	female (18-24)	BE	Belgium	10	1	40795	9848	248	0
+Lucien Rigaux - 67e PS à la Région de Bruxelles-Capitale	Lucien Rigaux	697600227298160	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	40544	8076	426	79
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	40532	10526	104	20
+Sander Vandecapelle	Vandecapelle Sander 	288654088488077	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	40367	8276	431	85
+Anja Vanrobaeys	Vanrobaeys Anja Maurits	795798820785493	Facebook	f18_24	female (18-24)	BE	Belgium	7	1	40145	8380	118	0
+ProDG	ProDG	89846075866	Facebook	f18_24	female (18-24)	BE	Belgium	20	1	39249	9442	332	17
+Evi Robert voor Europa	Robert Evi Melanie	277540613176324	Facebook	f18_24	female (18-24)	BE	Belgium	9	1	39143	11311	213	0
+Be.One	Abou Jahjah Dyab	203646696858225	Facebook	f18_24	female (18-24)	BE	Belgium	28	1	38391	9784	293	23
+Jong Groen		293486792731	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	38080	19040	95	19
+Ik ben PRO	De Roy Kristof Jozef J	305618513615029	Facebook	f18_24	female (18-24)	BE	Belgium	8	1	37719	8281	222	15
+Magalie Verstraelen	Magalie Stephan Verstraelen	478865082572412	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	36890	9833	236	0
+Georges Balon Perin, Erasmus kandidaat bij GROEN		820663108311661	Facebook	f18_24	female (18-24)	BE	Belgium	8	1	35356	8369	256	29
+Vrouw & Maatschappij - CD&V politica	Vrouw & Maatschappij	268844173157989	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	34741	17249	355	172
+Partij Voor De Dieren - Vlaanderen	Vlaams Belang	926587627730432	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	34710	15365	768	153
+Bert Maertens	N-VA	230657213955622	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	34279	17139	93	16
+Elke Sleurs	N-VA	571227032971640	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	33717	15097	343	150
+Groen Gent	Groen Gent	156982520361	Facebook	f18_24	female (18-24)	BE	Belgium	9	1	32638	8648	374	45
+Ben Weyts	Nieuw-Vlaamse Alliantie	133467219125	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	32188	16094	193	84
+Stéphane Obeid	Stephane Jean Obeid	263813223728024	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	32000	15842	192	37
+Tess Minnens	Minnens Tess Veerie L	131791854353190	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	31814	15733	200	29
+Babette Brusselmans	Brusselmans Babette	173356493548795	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	31692	6338	225	40
+CD&V Arendonk	Segers Joke Jan A	989150391109604	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	31407	6281	62	0
+Björn Anseeuw	Nieuw-Vlaamse Alliantie	145963782413441	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	30748	15374	76	15
+Optimiste pour Bruxelles	MR - Mouvement Réformateur	570826640096148	Facebook	f18_24	female (18-24)	BE	Belgium	16	1	30624	6638	391	54
+DéFI	DéFI	173518112695794	Facebook	f18_24	female (18-24)	BE	Belgium	8	1	30101	6959	262	46
+Simon Bultot, 3ème à la Chambre, Liste PS	Simon Fabrice Bultot	2180842748675219	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	30098	8373	121	0
+Enio Cucurachi	Cucurachi Enio Antonio	2196293330408303	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	29953	5987	60	0
+Karin Brouwers	Karin Francisca Brouwers	862762280563277	Facebook	f18_24	female (18-24)	BE	Belgium	7	1	29393	7373	292	48
+Listes Destexhe	Listes Destexhe	983524558703058	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	29320	7405	292	48
+Jong Groen Middenkust	De Lille Robin Raymond R	622145671160375	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	29305	5861	292	58
+Kim De Witte	PVDA	315662412174661	Facebook	f18_24	female (18-24)	BE	Belgium	12	1	29207	7825	268	60
+Robrecht Bothuyne	D'hauwer Pieter	365185737579327	Facebook	f18_24	female (18-24)	BE	Belgium	13	1	29149	12381	225	29
+Bieke Moerman	Bieke Moerman	498415337201849	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	29147	10680	210	42
+Koenraad Degroote	Nieuw-Vlaamse Alliantie	1892098237771732	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	28848	14424	144	72
+Peter Gysbrechts	Neys Tom	363197027117917	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	28840	5889	78	0
+Groen Brussel	Groen Brussel	144986545155	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	28108	6404	385	76
+Volt België	Volt België	1620310611353628	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	27999	5536	145	14
+Janna Bauters	Bauters Janna Linda D	355343038399994	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	27953	13285	71	0
+Wouter Vermeersch	Vlaams Belang	1819099895078637	Facebook	f18_24	female (18-24)	BE	Belgium	15	1	27843	7963	156	7
+Ecolo Hainaut	Ecolo Hainaut	121653681195914	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	26578	5315	265	53
+Stéphanie Heng	Théry Alexandre J Bourgoignie	340587286371062	Facebook	f18_24	female (18-24)	BE	Belgium	11	1	25422	6619	336	0
+Candice Vanhecke	Abou Jahjah Dyab	583228032160687	Facebook	f18_24	female (18-24)	BE	Belgium	10	1	25103	6014	112	0
+Peter Van Kemseke	Van Kemseke Peter Leo S	397455370285369	Facebook	f18_24	female (18-24)	BE	Belgium	13	1	24387	7774	251	71
+PSAnderlues	Philippe Henri M Tison	197214344323855	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	24342	4868	254	46
+PS Région bruxelloise	PS Région bruxelloise	279112515484034	Facebook	f18_24	female (18-24)	BE	Belgium	28	1	24044	8508	340	43
+Pascal Goergen - DéFI	Pascal Albert J Goergen	2247464518706948	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	23860	11930	119	59
+Yngvild Ingels	Nieuw-Vlaamse Alliantie	585897671936036	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	23772	4754	237	47
+Zuhal Demir	Nieuw-Vlaamse Alliantie	453932394796444	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	23594	10080	184	57
+Campagne Tam Tam		227222077819248	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	23537	9628	33	0
+Rachid Azaoum	Rachid Azaoum	1016780215187655	Facebook	f18_24	female (18-24)	BE	Belgium	8	1	23465	7424	269	53
+Marianne Verhaert	Marianne Christine H Verhaert	307263369958026	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	23453	6799	234	67
+Sébastien de Jonge	De Jonge Sébastien Edouard	370249413831637	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	22863	7884	173	34
+Sander Loones	Nieuw-Vlaamse Alliantie	575160279283539	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	22505	4501	50	0
+Lode Ceyssens	Lode Ceyssens	690224427744073	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	21692	4338	42	0
+Pieter De Crem	CD&V	795215224016947	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	21353	4234	78	0
+Maarten Van Tieghem	Maarten Van Tieghem	815412612126096	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	21210	10112	130	19
+Koen Metsu	VAN DER AUWERA PIETER TOM T.	536864973078981	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	21160	7079	168	31
+Marc Lejeune - 3ème au CDH à la Région	Marc Jean-Marie P Lejeune	1115141181990895	Facebook	f18_24	female (18-24)	BE	Belgium	29	1	21109	3497	569	0
+Nele Lijnen	Lijnen Nele	1583308831974521	Facebook	f18_24	female (18-24)	BE	Belgium	20	1	20661	4944	325	23
+Gijs Degrande	N-VA	2343399459056104	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	19934	3974	208	38
+Vivant   Ostbelgien	Vivant Ostbelgien	1440393739538888	Facebook	f18_24	female (18-24)	BE	Belgium	7	1	19493	6664	83	8
+Steven Vandeput	Nieuw-Vlaamse Alliantie	983442595060481	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	19395	8500	138	40
+Dimitry Soenen	Van Isacker Bernard Andre J	256022915307211	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	19204	8326	117	23
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	19167	3744	231	37
+CSP Ostbelgien	CSP Ostbelgien	119271231424655	Facebook	f18_24	female (18-24)	BE	Belgium	26	1	19121	3612	419	8
+Pritty Kaur	sp.a	413843202368855	Facebook	f18_24	female (18-24)	BE	Belgium	17	1	18961	4369	202	0
+Ecolo Brabant wallon	Ecolo Brabant wallon	1712357138983896	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	18956	5718	188	25
+Orry Van de Wauwer	Orry Van de Wauwer	100752223802681	Facebook	f18_24	female (18-24)	BE	Belgium	12	1	18832	4963	260	0
+Wim Dries	Dries Wim Jozef L	147307255351530	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	18639	9320	93	46
+Brecht Vermeulen	Nieuw-Vlaamse Alliantie	167165610745178	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	18184	9092	90	18
+Lise Vandecasteele	PVDA	2433030616715564	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	17993	4125	142	22
+PARTI Populaire Fosses-la-Ville		265930274100596	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	17838	3567	35	0
+Kasper Vandecasteele	Vandecasteele Kasper	525551311288918	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	17679	3535	85	12
+Luc Deconinck	Nieuw-Vlaamse Alliantie	1459140487653544	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	17543	6938	118	23
+Ecolo Ostbelgien	Ecolo Ostbelgien	321847415140	Facebook	f18_24	female (18-24)	BE	Belgium	20	1	17539	3454	314	0
+Ecolo Mons-Borinage / Hauts-Pays	Bravin Geoffrey 	235500823177113	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	17338	3467	216	25
+Dyab Abou Jahjah	Abou Jahjah Dyab	650597568382274	Facebook	f18_24	female (18-24)	BE	Belgium	13	1	16701	3423	103	7
+N-VA Brugge	Nieuw-Vlaamse Alliantie	103746756361685	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	16642	3328	86	13
+Julien Vandenhoucke	Vandenhoucke Julien Serge M	772643609793854	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	16593	3871	147	0
+Lieselotte Thys	Thys Lieselotte	1060715860647129	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	16475	4776	71	0
+Tom Vandenkendelaere	Tom Vandenkendelaere	676737302477960	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	16400	3884	48	0
+Manu Diericx	Diericx Manu Romain C	311729416012864	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	16399	3280	163	32
+Ahmed Laaouej	Ahmed Laaouej	672031322849835	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	16227	3245	161	32
+Eliane Tillieux	Eliane Maria J Tillieux	515506935187700	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	15804	3160	157	31
+Jurgen Vanlerberghe	Vanlerberghe Jurgen Maurits P	1664229433634791	Facebook	f18_24	female (18-24)	BE	Belgium	13	1	15716	3695	136	15
+Tom Kersemans	Tom Maria L Kersemans	353496071904485	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	15377	3248	63	7
+Paul Magnette		29384148415	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	15164	6456	94	36
+Sven Gatz	Gatz Sven Peter A	100947845480	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	15001	3654	157	24
+Aaron Ooms	Ooms Aaron Maria W	127953044627536	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	14934	3258	148	28
+Catharina Rinzema		2114625695290780	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	14753	2950	29	0
+Georges-Louis Bouchez	Georges-Louis Bouchez	341174129258800	Facebook	f18_24	female (18-24)	BE	Belgium	7	1	14569	3415	162	22
+CD&V Haacht	Mouligneau Brigitte	281093128647513	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	14236	7118	142	71
+Sabine Laruelle	MR province de Namur	294920323902754	Facebook	f18_24	female (18-24)	BE	Belgium	10	1	14206	2965	295	0
+Frédérique Ries	Frédérique Ries	121508211203759	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	13591	6262	296	58
+Alain Glibert élections 2019	Alain Hélène D Glibert	396705514417296	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	13485	2693	42	0
+Frédéric Daerden	Frédéric Charles R Daerden	341897923206486	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	13344	2906	164	33
+PS de Watermael-Boitsfort		402092416496556	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	13309	2661	26	0
+Steff Nouws	Nouws Steff	175452716389521	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	13188	2637	26	0
+Christophe Calis	Calis Christophe Koenraad R.	2396791870539800	Facebook	f18_24	female (18-24)	BE	Belgium	13	1	13127	2569	282	0
+Bekir Kablan	Kablan Bekir Emre	650745248703181	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	13042	4462	162	10
+Didrik - 48e candidat à la Région de Bruxelles	Didrik de Schaetzen	349509471801299	Facebook	f18_24	female (18-24)	BE	Belgium	10	1	12694	4862	237	0
+Nawal Farih.	Farih Nawal	456946584775620	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	12164	3795	124	14
+Wilfried Vandaele	N-VA	134830590539925	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	12163	2432	67	10
+sp.a Limburg	sp.a Limburg	885074558184212	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	12037	2759	85	12
+Hassan Bousetta 3e à l'Europe		33770596902	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	12021	4899	54	8
+Joris Vandenbroucke	Vandenbroucke Joris Jeroen J	984867054996076	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	11815	2741	118	20
+Aymeric DE LAMOTTE	Aymeric Jean De Lamotte 	841559215859811	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	11756	2351	121	24
+Annick Lambrecht	Lambrecht Annick Jacques M	2229481170658339	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	11635	2327	23	0
+Glenn Van Herrewege Page	Volt België	552144098602067	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	11527	2701	114	20
+Elias Kartout	Nieuw-Vlaamse Alliantie	2593268540690171	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	11509	4064	85	17
+Darya Safai	Nieuw-Vlaamse Alliantie	1803761789672954	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	11300	2260	53	7
+Matthias Diependaele	Nieuw-Vlaamse Alliantie	543319679114946	Facebook	f18_24	female (18-24)	BE	Belgium	9	1	11201	2428	125	21
+Lieve Maes	Nieuw-Vlaamse Aliiantie	287293904752254	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	10860	5430	54	10
+Charis Kamoen	Kamoen Charis Oswald M	207387513240677	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	10807	2088	158	17
+Michel De Maegd	Michel De Maegd 	402910770265916	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	10706	2370	27	0
+Annick De Ridder	Nieuw-Vlaamse Alliantie	260207497491940	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	10654	2321	106	20
+Tine Soens	Tine Joselyne Soens	1778402815798036	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	10632	2126	21	0
+SP Ostbelgien	SP Ostbelgien	183856108612877	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	10555	2111	77	14
+Alexander Binon	N-VA Oud-Heverlee	573104879470554	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	10518	2086	83	9
+Liesbeth Claesen		616717792057494	Facebook	f18_24	female (18-24)	BE	Belgium	14	1	10218	3930	148	0
+Steven Matheï	CD&V	118068899059774	Facebook	f18_24	female (18-24)	BE	Belgium	9	1	10191	2015	122	17
+Axel Ronse	N-VA	2375576969141695	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	10065	2013	75	13
+Ecolo Centre	Ecolo Centre	230433080453073	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	10063	4903	56	9
+Denis Ducarme	Denis Gaston Ducarme	367577357909	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	9966	1993	99	19
+Timothy Rowies	Rowies Timothy	230172250986880	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	9943	1988	198	99
+Greet Daems	PVDA	403035570476052	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	9864	1972	98	19
+Sébastien Doutreloup	Sébastien Camille C.Doutreloup	2605782112772045	Facebook	f18_24	female (18-24)	BE	Belgium	7	1	9842	2274	41	0
+Bart Smans, 17e plaats N-VA Vlaams Parlement	N-VA	800585406798122	Facebook	f18_24	female (18-24)	BE	Belgium	11	1	9837	2832	122	0
+Ecolo Luxembourg	Ecolo	265430440298543	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	9791	1958	97	19
+Jean de Bethune	De Bethune Jean Baptiste E	425691141175605	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	9711	1942	19	0
+Dirk Melis		1996993963743892	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	9615	1923	95	19
+Simon Lejeune	Lejuene Simon Paul F	1721305591241017	Facebook	f18_24	female (18-24)	BE	Belgium	10	1	9612	1919	79	4
+Steven Kindt	Kindt Steven Karel A	934178266778547	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	9608	1921	19	0
+Stefaan Vercamer	Vercamer Stefaan	767608903251471	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	9368	1873	93	18
+Jonathan de Patoul - DéFI	Jonathan Daniël S de Patoul	2069381119775596	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	9251	1812	69	0
+Marc Minneboo	Anthony Lackner	2138144842945429	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	9097	1819	18	0
+Bart Callaert	Callaert Bart Eduard M	2334802816594579	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	9070	3651	115	36
+Michiel Vandewalle		623661894685605	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	8920	1784	17	0
+Groen Vlaams-Brabant	Groen Vlaams-Brabant	60637191219	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	8819	1763	88	17
+Alain Mertes	Vivant Ostbelgien	168912413949537	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	8811	1762	17	0
+Jong N-VA		106265382759554	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	8754	1751	87	17
+Melissa Depraetere	DEPRAETERE MELISSA MARIA J.	2101118869952701	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	8535	1707	105	33
+Steve Vandenberghe	Vanderberghe Steve Louis W	405020113176546	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	8408	1681	16	0
+Maxime Prévot	Maxime Patrick R Prévot	151415551700582	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	8399	4199	41	8
+Laura Van Eeckhout	Van Eeckhout Laura Karin	2007508699375704	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	8306	1661	16	0
+Bond Beter Leefmilieu	Bond Beter Leefmilieu	143447890251	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	8146	2475	39	0
+Marcela Valkova	Valkova Marcela	810377005974686	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	7803	1723	19	0
+AurelieCzekalski	Aurélie Bénédicte Czekalski	572079523148892	Facebook	f18_24	female (18-24)	BE	Belgium	9	1	7685	1042	348	0
+CD&V Diksmuide	CD&V Diksmuide	625936054280293	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	7608	1733	20	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	7594	1518	75	15
+Michelle Ginée	Ginee Michelle	1059190017557242	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	7554	2337	141	0
+Oona Wyns	Wyns Oona Elisa J	285090205488587	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	7504	1500	14	0
+Frank Vroonen	Vroonen Frank Gert H	372220956948780	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	7440	1488	74	14
+Kim Alloo	Alloo Kim	2165082146846340	Facebook	f18_24	female (18-24)	BE	Belgium	11	1	7330	2927	101	0
+Junge Mitte	Junge Mitte	1567710236826303	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	7314	1462	14	0
+Hugues Bayet	Julien Fanuel 	538840262914740	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	7308	1461	77	13
+Matthieu Daele - Ecolo	Matthieu Marie T.Daele	1425316804418663	Facebook	f18_24	female (18-24)	BE	Belgium	9	1	6937	1825	186	0
+Eva De Bleeker-pagina	De Bleeker Eva Maria A	652427761837497	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	6934	1418	81	11
+Kris Verbeeck	Verbeeck Kris	1950393285282665	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	6789	3283	70	0
+CD&V Brussel	CD&V Brussel	650865328369779	Facebook	f18_24	female (18-24)	BE	Belgium	8	1	6727	1336	61	0
+Karolien Grosemans	Nieuw-Vlaamse Alliantie	619991148451012	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	6726	1345	67	13
+Lynn Wesenbeek - Lijstduwer Open Vld Europa	Arendsoog	280977886188439	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	6599	2537	65	25
+Alexandra D'Archambeau	D'Archambeau Alexandra Sylvie O	213637018831903	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	6588	2769	129	0
+Caroline De Meerleer	De Meerleer Caroline Jeanne F	278233629764740	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	6552	1917	83	16
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	f18_24	female (18-24)	BE	Belgium	23	1	6499	2835	11	1
+Chris Janssens	Vlaams Belang	2169582779959649	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	6484	1641	117	22
+Assita Kanko	Nieuw-Vlaamse Alliantie	150977208365420	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	6463	1292	64	12
+Tony Coonen	Tony Coonen sp.a	2012732799023622	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	6426	2832	63	2
+Olivier De Schutter	Ecolo	319786285375557	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	6363	1272	63	12
+Erkan Ozturk	Ozturk Erkan	294044524757695	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	6322	1264	125	0
+ABVV		188590271170028	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	6237	1247	62	12
+Philippe Nys		494359031036431	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	6156	1231	61	12
+Jesuit Refugee Service Europe - JRS	JRS Europe	1568112950115984	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	6099	2600	172	17
+Bart Somers		596946040405796	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	6097	3049	304	60
+Elke Wouters		413400298718667	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	6022	1204	60	12
+Allessia Claes	Nieuw-Vlaamse Alliantie	606388719448095	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	5982	1196	59	11
+Centrale Générale - FGTB	Centrale Générale - FGTB	201359506543663	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	5980	1196	11	0
+Babette Jandrain	Babette Fanny M Jandrain	2153260948330322	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	5895	1179	11	0
+Marie Christine Marghem	Marie Christine Marghem	341830209277848	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	5874	1290	14	0
+CD&V Ravels	Andriessen Nic	107574269395562	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	5752	1150	113	0
+Frieda Gijbels	Nieuw-Vlaamse Alliantie	1985027248380103	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	5686	1137	56	11
+Yoleen Van Camp	Nieuw-Vlaamse Alliantie	533686686730041	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	5657	1131	56	11
 Yannick de Wilde d'Estmael	Yannick de Wilde d'Estmael 	2194262913922415	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	5598	1119	11	0
-Ecolo Hainaut	Ecolo Hainaut	121653681195914	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	4731	1196	15	0
-Lucien Rigaux - 67e PS à la Région de Bruxelles-Capitale	Lucien Rigaux	697600227298160	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	4034	2017	39	0
-Conner Rousseau	Conner Rousseau	942750852588816	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	3702	1851	36	0
-PTB	PTB	53838654385	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	3059	511	75	5
-PS Région bruxelloise	PS Région bruxelloise	279112515484034	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	2611	732	29	3
-Pieter Konings²	Konings Pieter	277457939649994	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	2225	395	63	0
-Kim De Witte	PVDA	315662412174661	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	1967	393	20	3
-Hendrik Bogaert	Bogaert Hendrik Frank	277636928983663	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	1828	360	38	0
-Lynn Wesenbeek - Lijstduwer Open Vld Europa	Arendsoog	280977886188439	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1671	334	16	3
-Orry Van de Wauwer	Orry Van de Wauwer	100752223802681	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1441	720	14	0
-Sammy Mahdi	Mahdi Sammy	1947077568914353	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	1391	238	43	0
-Parti Socialiste (PS)	Parti Socialiste (PS)	518402351504731	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	1325	265	17	0
-Koen Van den Heuvel	Koen Van den Heuvel	1953990651532264	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	1309	230	38	0
-Wouter Vermeersch	Vlaams Belang	1819099895078637	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	1287	391	23	0
-Simon Lejeune	Lejuene Simon Paul F	1721305591241017	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	1285	210	43	0
-Bekir Kablan	Kablan Bekir Emre	650745248703181	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1254	250	24	0
-Vlaams Belang Brussel	Vlaams Belang	499682940133305	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1193	596	11	0
-Peter Van Kemseke	Van Kemseke Peter Leo S	397455370285369	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	1153	230	11	2
-Rachid Azaoum	Rachid Azaoum	1016780215187655	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1091	545	10	0
-Frédéric Daerden	Frédéric Charles R Daerden	341897923206486	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1076	215	10	2
-European Parliament	European Parliament	178362315106	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	992	198	9	1
-Brecht Warnez	Warnez Brecht Luc T	998887823550443	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	984	196	19	0
-Danielle Godderis T'Jonck	N-VA	239999043457805	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	927	185	18	0
-Bart Smans, 17e plaats N-VA Vlaams Parlement	N-VA	800585406798122	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	896	448	8	0
-Gijs Degrande	N-VA	2343399459056104	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	872	174	17	0
+Johan Van Overtveldt	Nieuw-Vlaamse Alliantie	275607285891320	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	5553	1110	50	9
+Jos Lantmeeters	Nieuw-Vlaamse Alliantie	2253398908319094	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	5476	2738	54	27
+Jérome Chantraine - Parti Populaire		286258851985076	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	5378	1075	53	10
+Sihame El Kaouakibi		595882667132447	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	5313	2656	265	53
+Groen Lebbeke	Pollet Tim	579893498817499	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	5294	1058	10	0
+Groen West-Vlaanderen	Sabels Jordy	2498060896894670	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	4908	981	97	0
+Leila Agic	Leila Agic	229313714293949	Facebook	f18_24	female (18-24)	BE	Belgium	11	1	4816	838	145	0
+Olivier Colin		1238449286242627	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	4795	959	9	0
+Bert Wollants	Nieuw-Vlaamse Alliantie	122123487813722	Facebook	f18_24	female (18-24)	BE	Belgium	9	1	4794	1274	96	12
+Philippe Lamberts	Philippe Henri L Lamberts	553328368142057	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	4746	949	24	3
+N-VA Mechelen	Nieuw-Vlaamse Alliantie	250836601610919	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	4734	946	47	9
+Martin Maréchal - 6e Suppléant PS Bruxelles à la Chambre	Martin Maréchal	372918879915830	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	4720	2244	50	0
+Helga Stevens	N-VA	213362252188490	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	4637	927	49	12
+Dirk Rochtus, plaats 27 voor het Vlaams Parlement, Provincie Antwerpen	Dirk Rochtus	381494492700046	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	4593	899	98	0
+Koen Daniëls	N-VA	711452742279820	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	4535	907	45	9
+Vlaams Belang Zutendaal		168469827080277	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	4526	905	45	9
+Thierry Gilson	Thierry Gilson	445076859592979	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	4506	901	44	9
+Stijn De Roo	De Roo Stijn Emiel E	251722678703408	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	4488	897	52	7
+Delphine Chabbert, candidate d'ouverture, 4e à Bruxelles #touteslesfamilles	Delphine Chabbert	989742204557872	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	4484	896	44	8
+MR Charleroi	MR - Mouvement Réformateur	176691749116050	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	4431	886	44	8
+N-VA Limburg	Nieuw-Vlaamse Alliantie	1599226510296139	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	4427	885	44	8
+PVDA West-Vlaanderen	PVDA	1661103980836335	Facebook	f18_24	female (18-24)	BE	Belgium	8	1	4356	1642	67	5
+Benoît Dispa	Benoit Bruno E.Dispa	738567722908916	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	4289	799	108	0
+Sammy Mahdi	Mahdi Sammy	1947077568914353	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	4178	1812	145	20
+Alexandra Philippe - DéFI	Alexandra Philippe	2134095363490260	Facebook	f18_24	female (18-24)	BE	Belgium	8	1	4155	863	81	0
+Elections du 26 mai 2019	Baudouin Henri M Schellen	330193751003087	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	4136	827	41	8
+Filip Michiels  8e plaats Vlaams Parlement Open Vld	Michiels Filip Paul M	541237359573609	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	4068	813	80	0
+Peter De Roover	N-VA	1661453500556261	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	4029	805	40	8
+CD&V Dilbeek		274553566257369	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	4011	802	35	7
+Lanjri Nahima	Lanjri Nahima	160499887883548	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	3979	776	18	0
+Van San Jeroen	Van San Jeroen Edward C	1944788102310986	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	3973	794	39	7
+Claire Stappaerts	Claire Stappaerts	285540382349131	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	3966	793	11	0
+Nathalie Muylle	Nathalie Muylle	1230985333669070	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	3962	1211	18	0
+Philippe Muyters	Nieuw-Vlaamse Alliantie	197625717055207	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	3929	785	39	7
+RTBF Info	RTBF Info	143068588877	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	3929	785	7	0
+Hans Maes	Maes Hans Bert	1181238155301995	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	3909	781	23	3
+Laure Nkundakozera Uwase #23		1844087905686822	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	3886	777	38	7
+Maryam Jamshid	Jamshid Maryam	245016762713020	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	3822	694	103	0
+Johan Klaps	Nieuw-Vlaamse Alliantie	260032781587113	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	3791	758	37	7
+Frederick Vandeput		422591634553611	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	3784	756	7	0
+CDU Brüssel-Belgien	CDU-Auslandsverband Brüssel-Belgien	498837460204117	Facebook	f18_24	female (18-24)	BE	Belgium	8	1	3709	731	50	5
+Jan-Baptist Lemaire	Lemaire Jan-Baptist Catherine J	436626493747712	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	3690	695	90	0
+Sébastien Dewailly	Sébastien Dewailly	347034845930735	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	3658	731	36	7
+Det Radikale Venstre i Bruxelles	Espelund Morten	146464325502929	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	3597	719	35	7
+sp.a Gent	sp.a Gent	145214795544742	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	3576	1596	93	12
+N-VA Aalter	Tillieu Jelle Gerard M	183728085015968	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	3461	692	34	6
+Siegfried Bracke	N-VA	219849638569609	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	3459	756	9	0
+Cécile Vainsel	Cécile Vainsel	587081831694116	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	3452	782	12	0
+Ecolo + Arlon		150705241982353	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	3378	1689	16	3
+Cedric Heylen	Heylen Cedric Jean M	1747868805236898	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	3363	672	66	0
+Delphine De Valkeneer	Delphine Isabelle L De Valkeneer	609693995773726	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	3351	638	47	6
+Christophe Lacroix	Denis De Nicolo 	487300758065559	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	3334	666	33	6
+Sandra Ferretti WB	Sandra Gabriella Ferretti	610075355737867	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	3311	662	6	0
+Robin De Lille	De Lille Robin Raymond R	768512923515237	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	3289	1645	32	0
+Simon De Boeck - 1e schepen Gooik	De Boeck Simon	781750292026149	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	3282	583	93	0
+Rita Gantois	N-VA	306815242860827	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	3282	656	6	0
+Thomas Wellens	Wellens Thomas	444370912980803	Facebook	f18_24	female (18-24)	BE	Belgium	10	1	3230	945	92	0
+Sp.a Hasselt		341171816001580	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	3223	644	6	0
+Thijs Morlion	Morlion Thijs Wim C	379011616013698	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	3176	635	6	0
+Sabine Vermeulen	N-VA	214103642510187	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	3149	623	15	0
+Pieter-Jan Verhoye	Verhoye Pieter-Jan	300513937202082	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	3085	738	9	0
+Gilles Verstraeten	Nieuw-Vlaamse Alliantie	2151512408274426	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	2903	580	28	5
+Sophie De Wit	Nieuw-Vlaamse Alliantie	165796101293	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	2883	576	28	5
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	2882	1261	6	2
+Anneleen Van Bossuyt	N-VA	1375436739430055	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	2815	563	29	5
+Ecolo au coeur du changement - Province de Liège	Ecolo - province de Liège 	580163825784309	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	2805	561	55	0
+Ben Segers - Antwerpen	Segers Ben	467059900446915	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	2799	896	44	0
+Monica De Coninck - Europese verkiezingen	De Coninck Monica Josephine L	336638023665298	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	2780	1277	31	0
+N-VA Brussels Hoofdstedelijk Gewest	Nieuw-Vlaamse Alliantie	1480604288895159	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	2707	541	27	5
+N-VA Groot Aalst	Nieuw-Vlaamse Alliantie	274961409207861	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	2595	586	25	4
+Burgemeester Mark Vos	CD&V	1461377154117342	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	2567	669	50	8
+PVDA Antwerpen	PVDA	241932369235970	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	2532	506	25	5
+Hicham El Mzairh	Hicham El Mzairh	39050546817	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	2530	506	17	1
+Nadia Sminate	Nieuw-Vlaamse Alliantie	223932588102815	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	2508	501	25	5
+EPP Group in the European Committee of the Regions	EPP Group in the European Committee of the Regions	200559876664896	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	2475	495	24	4
+CD&V Erpe-Mere	Van Vaerenbergh Johan August G	287188131471344	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	2339	467	23	4
+Françoise Schepmans		179436225887095	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	2322	464	23	4
+PVDA	PVDA	54970503767	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	2286	1143	11	2
+Els Verté	Verté Elsje Martine	421879891957030	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	2286	457	45	0
+Gautier CALOMNE	Gautier Calomne	82157651986	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	2283	622	27	3
+Wouter Beke	Wouter Beke	311935738907850	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	2155	475	30	4
+Griet Smaers	Smaers Griet Maria K	796925490507562	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	2151	1075	107	21
+N-VA Deinze/Nevele	N-VA Deinze	692537344177107	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	2119	1059	20	0
+Bart Vanmarcke Vl. Verk. 2019		399783740868216	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	2111	1055	20	0
+Tiffany Fevery		257582104357616	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	2047	1024	20	0
+N-VA Mol	N-VA Mol	293016180727875	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	2046	625	33	0
+Nahyd Meskini - 9ème suppléante à la Chambre		262389797971976	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	2045	670	28	4
+PS Mons-Borinage		132596773464688	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	1990	396	20	3
+Evi Van Camp	Van Camp Evi	1758937624358952	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	1951	975	19	0
+Vlaams Belang Kortrijk	Vlaams Belang	1657893191169110	Facebook	f18_24	female (18-24)	BE	Belgium	7	1	1939	251	92	0
+Natalie Eggermont	PVDA	415595709204858	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	1821	910	18	0
+Nicolas Stilmant - 2e effectif - liste Chambre	Nicolas Stilmant	371323650128015	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	1797	703	34	0
+CD&V Putte		269551619726540	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1787	357	17	3
+Carrera Neefs Campagne Dagboek	Neefs Carrera Peggy R	1047450252106555	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	1774	616	26	0
+Lorin Parys	Nieuw-Vlaamse Alliantie	699243700236299	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1721	860	17	0
+Jelmen Haaze	Haaze Jelmen Ed T	628369674250461	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	1699	339	33	0
+Dirk Van der Maelen	Van Der Maelen Dirk Leon	2164165116954267	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	1689	375	16	3
+Province : il est temps de faire bouger les choses avec ECOLO		2132853950059181	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1682	336	16	3
+Faye Van Impe		529592387474876	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1665	333	16	3
+Vera Jans	Jans Vera Maria J	543240579353490	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	1628	814	16	0
+N-VA Stad Antwerpen	Nieuw-Vlaamse Alliantie	379749768826697	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1626	325	16	3
+Volt Belgique	Volt Belgique	275758083142875	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1603	801	15	0
+WWF-Belgium	WWF-Belgium	110844205773	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	1593	339	26	0
+Wouter De Vriendt	Sabels Jordy	2148775248546904	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	1553	310	30	0
+Vossaert Michaël	Michaël Vossaert	237845390282626	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	1552	602	21	0
+Heidi Van Gaever	Van Gaever Adelheid Fabiola E	242905366574089	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1545	772	15	0
+Pro Bruxsel	Alain Walter P Maskens	43144395107	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	1531	306	17	2
+Raf Terwingen	Raf Terwingen	421841541630421	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1522	304	15	3
+Roel Van Elsacker	Van Elsacker Roel	755735138160727	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	1467	293	29	0
+Perrine Marchal	Perrine Nathalie G.Marchal	1816421541797483	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1466	733	14	0
+Sara Moors	Moors Sara Rita J	378340112764943	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	1456	291	28	0
+Vincent De Wolf	Vincent Gilles De Wolf	399983396831282	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	1447	279	9	0
+Jan De Volder	CD&V	250105722223585	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	1416	488	21	0
+Annick Laloux-Ruelle	Frédéric Ruelle	630009867450719	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1382	276	13	2
+MR Koekelberg soutien à Lucas Ducarme et Philippe Pivin	Lucas Denis E Ducarme	1706672722902391	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1363	681	13	0
+Jeunes MR Chaudfontaine	Laurent Marc S Radermecker	1509877552632496	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1308	261	25	0
+Ilse Van Eetvelde politiek	Ilse Van Eetvelde politiek	620289881717694	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1305	652	12	0
+An Moerenhout	Groen	1952296711545946	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1302	651	12	0
+Clarinval David		246392898737221	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1283	256	2	0
+Deniz Özkan	Özkan Can Deniz	2093182260713257	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	1282	400	20	0
+N-VA Temse	N-VA Temse	157739524296696	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	1279	255	25	0
+PVDA Vlaams-Brabant		146512738892533	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1261	630	12	0
+PFF	Gregor Friedrich E Freches	75534801064	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	1241	248	24	0
+Tom Bogman	Tom Bogman	329170017640552	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	1239	488	16	0
+An Christiaens	Christiaens An Liliane B	427409014327861	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1234	617	61	12
+Johan Vande Lanotte	Johan Vande Lanotte	326674124027240	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1218	243	2	0
+Adeline Bouché	Bouché Adeline Danielle P	474944862932729	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1217	608	60	12
+Omar Ba Groen plaats Nr 3 Europa	Vancoillie Sofie	459979281475594	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1202	240	2	0
+Kenan Akyil	Akyil Kenan	268876507340385	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	1196	220	31	0
+Willy Segers	Nieuw-Vlaamse Alliantie	172565137927	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	1156	231	22	0
+Steven Arrazola de Oñate	Arrazola de Oñate Steven Raymond H	578017509235623	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	1154	228	23	0
+Sam Van de Putte	Van De Putte Sam	56415453436	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1149	229	114	22
+Kim Aluwé	Aluwé Kim Lilianna M	266386214287406	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	1137	226	23	0
+JONG CD&V	JONG CD&V	638247042856542	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1126	563	11	0
+Vincent Granville	Vincent Granville	393048054042295	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	1115	223	22	0
+Ralph Packet	Packet Ralph Arthur F	2009966045768110	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	1075	192	26	0
+Kristien Van Vaerenbergh-pagina	Nieuw-Vlaamse Alliantie	404666830363654	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1058	211	10	2
+Simon Smagghe		326048831465151	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1052	526	10	0
+Vlaams Belang Herentals		494842930591626	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	1042	202	23	0
+Fatima Abbach	Fatima Abbach	1721280034665554	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	1016	203	20	0
+sp.a Hemiksem - Waa zien H geire	Talboom Rodney	189913087722338	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	1009	504	50	10
+Justine Hollevoet	Justine Liliane Hollevoet 	314364712376727	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	1007	112	55	0
+Open Vld West-Vlaanderen	Open Vld West-Vlaanderen	1039971842703013	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	999	0	99	0
+Dreambeats	Dreambeats	206075566263314	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	989	197	19	0
+Anne Decortis Listes Destexhe	Anne Jenny F Decortis 	423493048193576	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	975	487	48	9
+Marc Loewenstein	Marco Loewenstein	664636000270959	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	968	365	17	0
+Manu Douette		727590607265719	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	902	125	39	0
+Gwenaëlle Grovonius Députée PS, 2ème à la Région pour Namur	Géraldine Christine C. Georges	852013494856695	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	872	174	17	0
 Comac étudiants	PTB	386211174868638	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	862	172	17	0
-ProDG	ProDG	89846075866	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	807	140	24	0
-Be.One	Abou Jahjah Dyab	203646696858225	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	731	121	24	0
-Jonathan de Patoul - DéFI	Jonathan Daniël S de Patoul	2069381119775596	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	719	0	71	0
-Michelle Ginée	Ginee Michelle	1059190017557242	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	682	136	13	0
-Jurgen Vanlerberghe	Vanlerberghe Jurgen Maurits P	1664229433634791	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	678	294	8	0
-Steven Vandeput	Nieuw-Vlaamse Alliantie	983442595060481	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	577	288	5	0
-Benoît Dispa	Benoit Bruno E.Dispa	738567722908916	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	563	0	55	0
-European Commission	European Commission	107898832590939	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	556	278	1	0
-Heidi Van Gaever	Van Gaever Adelheid Fabiola E	242905366574089	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	497	99	9	0
-Vlaams Belang Bilzen	Vlaams Belang	1796765513978532	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	490	98	9	0
-Evi Van Camp	Van Camp Evi	1758937624358952	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	476	95	9	0
-N-VA Mechelen	Nieuw-Vlaamse Alliantie	250836601610919	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	447	89	8	0
-Ecolo Ostbelgien	Ecolo Ostbelgien	321847415140	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	442	88	8	0
-Els Van Hoof-pagina	Van Hoof Els Walter H	315278555648437	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	432	86	8	0
-Det Radikale Venstre i Bruxelles	Espelund Morten	146464325502929	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	363	72	7	0
-Candice Vanhecke	Abou Jahjah Dyab	583228032160687	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	348	0	34	0
-Jos Lantmeeters	Nieuw-Vlaamse Alliantie	2253398908319094	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	348	174	3	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	339	133	0	0
-Hans Maes	Maes Hans Bert	1181238155301995	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	339	169	3	0
-Vlaams Belang Jongeren	Vlaams Belang Jongeren	203903005659	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	336	0	33	0
-Charis Kamoen	Kamoen Charis Oswald M	207387513240677	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	325	65	6	0
-N-VA Temse	N-VA Temse	157739524296696	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	322	64	6	0
-Peter Gysbrechts	Neys Tom	363197027117917	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	310	62	6	0
-Enio Cucurachi	Cucurachi Enio Antonio	2196293330408303	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	305	61	6	0
-Dyab Abou Jahjah	Abou Jahjah Dyab	650597568382274	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	304	45	12	0
-PVDA West-Vlaanderen	PVDA	1661103980836335	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	298	59	5	0
-Alain Mertes	Vivant Ostbelgien	168912413949537	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	290	58	5	0
-Kim Alloo	Alloo Kim	2165082146846340	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	269	46	8	0
-Groen	Groen	84920854319	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	259	0	25	0
-Koen Geens	CD&V	294055357407926	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	258	0	25	0
-Hicham El Mzairh	Hicham El Mzairh	39050546817	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	255	56	15	0
+Open Vld Langemark-Poelkapelle	Hoornaert Laurent	506406522812492	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	854	170	16	0
+Minister Harald Mollers	Harald Mollers	1869992013240347	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	847	165	18	0
+EESC - European Economic and Social Committee	EESC - European Economic and Social Committee	144709575593854	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	820	410	8	0
+Vlaams Belang Mechelen		468360273215685	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	819	163	8	1
+Les Grenades - RTBF	Les Grenades - RTBF	1010298882498268	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	805	161	15	0
+Grégory Vidal	Grégory Vidal	347251118652585	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	782	391	7	0
+Katrien Schryvers		143895972907981	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	764	382	7	0
+Veerle Baeyens	N-VA	1402339926704301	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	764	152	8	1
+Edwin Korver	Korver Edwin Hendrik	1026660687522073	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	747	0	74	0
+Eda Öztürk	Ozturk Eda	256652841853645	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	734	367	7	0
+Daan De Veuster	De Veuster Daan Jozef D	1753693034925883	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	721	319	9	0
+Groen Menen		484261904940355	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	720	127	20	0
+CDH  Binche		761441187280813	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	717	340	10	0
+Olivier Maroy	Olivier François M Maroy	950095165072382	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	712	142	14	0
+Jan Cornillie	Cornillie Jan	980619838787000	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	712	142	9	1
+Ilou Barma		1591164557803263	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	691	138	13	0
+Joëlle Maison	Joëlle Maison	382790095089911	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	688	236	10	0
+Thomas Geuens	Geuens Thomas	1800565136675003	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	668	133	13	0
+DéFI - Régional Namur 2019 - Liste 11		281739902702371	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	629	125	12	0
+Kyriakidis David		2786326408074980	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	623	236	8	0
+Osons la vérité		2313182062233879	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	616	308	6	0
+Issam Benali	Benali Issam	92011327952	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	606	111	15	0
+Freya Perdaens	Nieuw-Vlaamse Alliantie	1411253522462277	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	606	303	30	6
+Margot Desmet	Desmet Margot	253943212160826	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	601	120	11	0
+Johanna Huylenbroeck	Schiettecat Tom Pierre J	390331084889844	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	599	299	5	0
+Health and Environment Alliance (HEAL)	The Health and Environment Alliance (HEAL)	208410145872548	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	589	117	11	0
+N-VA Ieper	Van Isacker Bernard Andre J	637075649732468	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	582	116	11	0
+Debating Europe	Debating Europe	132011730204757	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	555	111	10	0
+Annabel Tavernier	Nieuw-Vlaamse Alliantie	329027807799398	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	553	276	27	5
+Karine Lalieux	Karine Madeleine M Lalieux 	1520851034620904	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	542	213	7	0
+Tom Herremans	Herremans Tom Robert L	1013289718876034	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	533	61	28	0
+Karen Maes - Groen		432558754220528	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	529	119	10	0
+Rina Rabau - Plaats 4, Federaal Parlement	Rabau Nikandu-Rina	477573972668735	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	509	101	10	0
+Groen Schaarbeek		201489859938533	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	502	81	17	0
+Tom De Meester	PVDA	409051602452966	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	501	170	7	0
+Comac Studenten	PTB	1477520555859157	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	499	0	49	0
+Niko Larock		266688844168039	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	498	249	4	0
+Glenn Anné - 1e plaats Open Vld Aartselaar	Anné Glenn	183088062341632	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	488	97	9	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	460	160	1	0
+Luk Lemmens		589889954680599	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	456	228	22	4
+Rezi Friedman	Friedman Rezi	249135725796994	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	448	206	24	4
+Vlaams Belang Bilzen	Vlaams Belang	1796765513978532	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	434	86	8	0
+Kris Peeters	Kris Peeters	192181027566488	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	420	84	4	0
+Valérie De Bue	Valérie De Bue	261617251408	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	411	82	8	0
+Miranda Van Eetvelde	Van Eetvelde Miranda Paula A	123242867697182	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	410	82	8	0
+Marine Chenoy 4ème sur la liste Fédérale PS pour Namur	Marine Chenoy	2131801880435129	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	407	81	8	0
+Fédération des Etudiants Libéraux	Fédération des Etudiants Libéraux 	6520274567	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	402	80	7	0
+Jean-Denis Lejeune Cdh		360742941209626	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	401	193	5	0
+Paul Cordy	Nieuw-Vlaamse Alliantie	650813488672073	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	399	79	7	0
+Denis Collard candidat		1414424415483804	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	399	79	0	0
+Ecolo Chaudfontaine	Thelen Lionel Willy	1615520988700439	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	397	79	7	0
+Dirk De fauw	De Fauw Dirk Mark L	904083546394929	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	389	77	7	0
+PVDA Brugge	PVDA	581383855270720	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	383	76	7	0
+Jeremie Vaneeckhout	Sabels Jordy	1373626132778895	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	381	190	3	0
+Lieve Wierinck	Wierinck Godelieve Joanna	994682667310188	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	381	48	18	0
+Benjamin Jacobs	Jacobs Benjamin Emiel J	2066413053688356	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	376	62	12	0
+Fernand Van Trimpont	Van Trimpont Fernand August M	954988921279692	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	340	68	6	0
+Alexander Miesen	Alexander Marcellus Miesen	136747073688457	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	337	67	6	0
+GroenPlus		130349730380	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	335	67	6	0
+Sam Voeten	Voeten Sam	529123987163459	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	332	66	6	0
+Sp.a+ Ingelmunster	sp.a+ Ingelmunster	330707510330732	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	326	65	6	0
+Lara Thommès - 20e sur liste PS à la Région bruxelloise	Lara Julie M.Thommes	2176100615739401	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	323	64	6	0
+Pierre-Yves Dupuis - DéFI NAMUR	Pierre-Yves Christian Dupuis	227832097899216	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	311	62	6	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	302	146	0	0
+N-VA Landen		186705558021609	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	298	59	5	0
+Groen&Co		406342676073040	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	292	58	5	0
+N-VA Ronse	N-VA Ronse	166525380128528	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	291	58	5	0
+LE Prince D'orange asbl		948913781890014	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	287	57	5	0
+Tomas Roggeman	N-VA	583612691972550	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	281	56	5	0
+André Antoine	André Antoine	16123379845	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	276	55	5	0
+Jeroen Overmeer		1766530456782481	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	272	54	5	0
+Open Vld Brussel		1589760981258549	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	251	0	24	0
 Rudi Vervoort		75793785999	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	250	62	13	0
-Maurits Vande Reyde	Vande Reyde Maurits Jozef	1797427180478228	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	217	0	21	0
-Vlaams Belang Kortrijk	Vlaams Belang	1657893191169110	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	207	0	20	0
-Jean-Claude Marcourt - Officiel	Gael René Lambinon	214672635464	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	204	102	2	0
-Christophe Calis	Calis Christophe Koenraad R.	2396791870539800	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	199	0	19	0
-Christian Leysen	Christian Leysen	403864600161608	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	197	39	3	0
-Zuhal Demir	Nieuw-Vlaamse Alliantie	453932394796444	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	193	38	3	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	173	38	0	0
-Gautier CALOMNE	Gautier Calomne	82157651986	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	164	82	1	0
-Thomas Wellens	Wellens Thomas	444370912980803	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	140	0	13	0
-Kim Aluwé	Aluwé Kim Lilianna M	266386214287406	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	130	0	12	0
-Sébastien Doutreloup	Sébastien Camille C.Doutreloup	2605782112772045	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	127	25	2	0
-Optimiste pour Bruxelles	MR - Mouvement Réformateur	570826640096148	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	125	0	12	0
-Groen West-Vlaanderen	Sabels Jordy	2498060896894670	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	123	0	12	0
-CD&V Ravels	Andriessen Nic	107574269395562	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	116	0	11	0
-Steven Matheï	CD&V	118068899059774	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	115	0	11	0
-CDU Brüssel-Belgien	CDU-Auslandsverband Brüssel-Belgien	498837460204117	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	99	0	9	0
-sp.a Gent	sp.a Gent	145214795544742	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	93	0	9	0
-Jelmen Haaze	Haaze Jelmen Ed T	628369674250461	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	87	0	8	0
-Grégory Vidal	Grégory Vidal	347251118652585	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	80	0	7	0
-Sien Vandevelde	Vandevelde Sien Natalie S	1716420288443469	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	76	0	7	0
-Nicolas Stilmant - 2e effectif - liste Chambre	Nicolas Stilmant	371323650128015	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	71	0	7	0
-Daan De Veuster	De Veuster Daan Jozef D	1753693034925883	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	66	13	1	0
-Didrik - 48e candidat à la Région de Bruxelles	Didrik de Schaetzen	349509471801299	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	61	0	6	0
-Ecolo au coeur du changement - Province de Liège	Ecolo - province de Liège 	580163825784309	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	59	0	5	0
-Yasmine Kherbache - volksvertegenwoordiger	Sp.a Antwerpen	189145821274552	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	55	0	5	0
-N-VA Mol	N-VA Mol	293016180727875	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	53	0	5	0
-Vrouw & Maatschappij - CD&V politica	Vrouw & Maatschappij	268844173157989	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	52	10	1	0
-Jong N-VA Regio Waregem	De Waele Glen	242316996585154	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	50	0	5	0
-Jan De Volder	CD&V	250105722223585	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	46	0	4	0
-Mathieu Bihet	Mathieu BIHET	189423617853111	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	42	0	4	0
-Stijn De Roo	De Roo Stijn Emiel E	251722678703408	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	34	0	3	0
-Marcela Valkova	Valkova Marcela	810377005974686	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	34	0	3	0
-Evi Robert voor Europa	Robert Evi Melanie	277540613176324	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	27	0	2	0
-Paul Cordy	Nieuw-Vlaamse Alliantie	650813488672073	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	25	0	2	0
-Sébastien Dewailly	Sébastien Dewailly	347034845930735	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	24	0	2	0
-Vlaams Belang Jabbeke	Vlaams Belang Jabbeke	400158513505219	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	22	0	2	0
-Marc Loewenstein	Marco Loewenstein	664636000270959	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	21	0	2	0
-Pieter-Jan Verhoye	Verhoye Pieter-Jan	300513937202082	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	20	0	2	0
-Bram Heylen	Heylen Bram	812636525751167	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	13	0	1	0
-Natalie Eggermont	PVDA	415595709204858	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	7	0	0	0
-VoteEuropa Nederland	Lacsamana Marlon Toledo	373618906826123	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	5	2	0	0
-Jeroen Lenaers	Jeroen Lenaers	316960281776479	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	4	0	0	0
-VoteEuropa - France	Jules Nicolas André Bejot 	2031732090462417	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	0	0	0	0
+Vlaams Belang Jabbeke	Vlaams Belang Jabbeke	400158513505219	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	236	28	12	0
+Tina Feys		201068713855619	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	232	46	4	0
+PVDA Kortrijk	PVDA	126912660759418	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	231	46	4	0
+Candidate Raquel Gomes David	Gomes David Raquel	364123120866777	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	227	113	2	0
+Moad El Boudaati		1435989583212818	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	221	44	19	3
+CD&V Sint Agatha Berchem	Claes Léna Alice N	186110514876743	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	213	33	7	0
+Norbert De Mey		168939573787459	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	201	40	3	0
+PVDA Oostende-Middenkust	PVDA	271488549672371	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	199	39	3	0
+Jong N-VA Regio Waregem	De Waele Glen	242316996585154	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	197	39	3	0
+Melanie Blesgen, Candidate aux élections régionales 2019	Melanie Blesgen	408261873079490	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	196	39	3	0
+Hilde Vautmans		1121251937901508	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	192	96	1	0
+S-Plus Bond "Achille Van Acker"		1308067459262948	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	184	36	3	0
+sp.a Haaltert		386740204712694	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	182	36	3	0
+Mathieu Bihet	Mathieu BIHET	189423617853111	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	176	35	3	0
+B.U.B Liège		374191459802847	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	175	87	1	0
+DéFi Jamila Sahraoui		1321317508006602	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	165	33	3	0
+Ecolo Braine Le Comte	Ecolo Braine-le-Comte	775758055853342	Facebook	f18_24	female (18-24)	BE	Belgium	4	1	157	7	12	0
+Mouvement Demain	Pierre Eyben	203507300150906	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	157	24	6	0
+PVDA Diksmuide Veurne Westkust	PVDA	495401140483679	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	156	31	3	0
+CD&V Oost-Vlaanderen		604371212959441	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	151	30	2	0
+Christoph D'Haese-pagina		2155418157834414	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	148	74	1	0
+Stéphanie Scailquin, 100% d'engagement pour Namur		1188596014497103	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	127	25	2	0
+ITUC		20556338116	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	119	59	1	0
+CD&V Izegem	CD&V Izegem	214309558599122	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	118	23	0	0
+N-VA Merksplas		1015975858428193	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	117	58	1	0
+Aubry Meyers - Défi Liège	Meyers Aubry Eric	480986099012384	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	117	0	11	0
+Sien Vandevelde	Vandevelde Sien Natalie S	1716420288443469	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	106	0	10	0
+Philippe Close		467344056705679	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	98	0	9	0
+Partij voor de Dieren	Partij voor de Dieren	102287806490622	Facebook	f18_24	female (18-24)	BE	Belgium	16	1	96	37	0	0
+Ryan Sabkhi - DierAnimal		423057578273662	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	92	0	9	0
+Daniel Freund	Bündnis 90 / Die Grünen Kreisverband Aachen	566872987051379	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	89	44	1	0
+Ditjon Kraja - Election 2019	Ditjon Kraja	306781353351999	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	86	17	1	0
+Lionel Bajart		416342682225563	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	85	0	8	0
+I vote Europe		608176689275464	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	79	39	0	0
+VoteEuropa Nederland	Lacsamana Marlon Toledo	373618906826123	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	77	15	0	0
+André Gantman		706694489351772	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	76	38	0	0
+L'affaire climat	Affaire Climat asbl	874181082603060	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	71	0	7	0
+Dominique Coucke-pagina		1968318183496025	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	70	6	4	0
+Klimaatzaak	Klimaatzaak	1493008137629540	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	65	0	6	0
+Kim Martens	Martens Kim Kurt K	2055261121428802	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	64	12	1	0
+Gérald vanderlin	Gerald Vanderlin	2225854367682548	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	64	12	1	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	56	28	0	0
+Jan Van Hee		1703384279918792	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	54	10	1	0
+Cindy Franssen.	Franssen Cindy	404939213355109	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	49	0	4	0
+Christine Gonay MR 4ème eff Europe		1867216703377890	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	47	9	0	0
+Nele Caus		297954777655834	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	45	9	0	0
+VoteEuropa - France	Jules Nicolas André Bejot 	2031732090462417	Facebook	f18_24	female (18-24)	BE	Belgium	6	1	36	7	0	0
+Give Us A Voice Lëtzebuerg		1505184473073824	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	34	17	0	0
+Koen Anciaux		1791465157760052	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	33	0	3	0
+Jean-Albert Nyssens		129345197844371	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	30	6	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	29	10	0	0
+Filef Nuova Emigrazione - Belgio	Pietro Lunetto	614768311990403	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	29	0	2	0
+Groen district Antwerpen	Groen district Antwerpen	498554120412	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	29	0	2	0
+Sarah Smeyers	N-VA	95712061024	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	28	5	0	0
+Wendy Hendrickx - N-VA Mechelen		551722081924188	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	24	4	0	0
+Mon DéFI pour l'Europe		2016860498363572	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	22	4	0	0
+Big News Buzz		125179374733697	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	20	10	0	0
+Belgian Military Interests		246810655463132	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	20	4	0	0
+Bram Heylen	Heylen Bram	812636525751167	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	19	0	1	0
+Jeroen Lenaers	Jeroen Lenaers	316960281776479	Facebook	f18_24	female (18-24)	BE	Belgium	5	1	15	7	0	0
+Consulat de Belgique en Republique Dominicaine 2005_2016		796900477392786	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	10	2	0	0
+ETUC		129041250601685	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	10	2	0	0
+Andries Gryffroy	N-VA	277891335706685	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	10	0	1	0
+DIE LINKE. NRW	DIE LINKE. NRW	150480805043795	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	9	4	0	0
+Jimmy Bastings	Bastings Jimmy Anna Hubertus	2262432790696805	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	9	4	0	0
+Partij van de Arbeid (PvdA)	Partij van de Arbeid (PvdA)	113895885305052	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	8	3	0	0
+D66	D66	52985377549	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	7	1	0	0
+Piraten Bezierk Osten		141480992729926	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	7	1	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	6	2	0	0
+Ne u moje ime		138418753446889	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	4	0	0	0
+Europe Thinx		335839580440114	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	3	0	0	0
+Free Quran Education		388655174641163	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	2	0	0	0
+Plictisescu.ro		184028071751540	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	2	1	0	0
+Tom Berendsen	2R Development	2301184920146129	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	2	0	0	0
+Volt Deutschland	Volt Deutschland	134209407129787	Facebook	f18_24	female (18-24)	BE	Belgium	2	1	1	0	0	0
+No more bricks in the Wall		1854947667901523	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1	0	0	0
+Toine Manders		435867793202351	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1	0	0	0
+Eurozine		115579498521257	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1	0	0	0
+Tom MacDonald		212732770186	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	1	0	0	0
+CDU Kreisverband Aachen Land	CDU Kreisverband Aachen Land	107652402721043	Facebook	f18_24	female (18-24)	BE	Belgium	3	1	0	0	0	0
+USR Diaspora	Uniunea Salvați România - USR	1793510380925494	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	0	0	0	0
+Piratepartei Bezierk Norden		494284087327520	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	0	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	0	0	0	0
+The Years Project	The Years Project	168876449866088	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	0	0	0	0
+dom-i-NEEK		260052198180831	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	0	0	0	0
+Tokyo Weekender		134654693230171	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	0	0	0	0
+Defense de la famille traditionnelle		690409728062994	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	0	0	0	0
+Europa Anno Zero		308939363141901	Facebook	f18_24	female (18-24)	BE	Belgium	1	1	0	0	0	0

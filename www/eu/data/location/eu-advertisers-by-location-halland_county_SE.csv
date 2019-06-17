@@ -1,43 +1,213 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Moderaterna	Moderaterna	7719591155	Facebook	halland_county_SE	Halland County, Sweden	19	1	18772	7583	245	58
-Moderaterna i Varberg	Moderaterna	665682436792792	Facebook	halland_county_SE	Halland County, Sweden	3	1	6997	1000	64	9
-Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	halland_county_SE	Halland County, Sweden	1	1	4999	2499	115	23
-Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	halland_county_SE	Halland County, Sweden	3	1	3770	844	46	9
-European Parliament	European Parliament	178362315106	Facebook	halland_county_SE	Halland County, Sweden	1	1	2584	1292	12	2
-ActionAid Sweden	ActionAid Sweden	18880778360	Facebook	halland_county_SE	Halland County, Sweden	2	1	2134	426	19	3
-Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	halland_county_SE	Halland County, Sweden	2	1	1768	440	5	2
-Adnan Dibrani till Bryssel	Ghafari Sebastian	1308296045984813	Facebook	halland_county_SE	Halland County, Sweden	1	1	999	0	9	0
+Moderaterna	Moderaterna	7719591155	Facebook	halland_county_SE	Halland County, Sweden	129	1	388732	156422	6194	1481
+Valmyndigheten	Valmyndigheten	1737852076287450	Facebook	halland_county_SE	Halland County, Sweden	59	1	338395	148584	2051	514
+Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	halland_county_SE	Halland County, Sweden	47	1	170649	73453	2266	681
+Miljöpartiet de gröna	Miljöpartiet de gröna	34780126150	Facebook	halland_county_SE	Halland County, Sweden	39	1	161799	74016	1692	375
+Socialdemokraterna	Socialdemokraterna	8040892957	Facebook	halland_county_SE	Halland County, Sweden	362	1	149870	51758	2754	623
+Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	halland_county_SE	Halland County, Sweden	87	1	125245	44861	1927	648
+Centerpartiet	Centerpartiet	12690894340	Facebook	halland_county_SE	Halland County, Sweden	29	1	92662	40862	1529	650
+European Parliament	European Parliament	178362315106	Facebook	halland_county_SE	Halland County, Sweden	19	1	87168	39583	757	281
+European Commission	European Commission	107898832590939	Facebook	halland_county_SE	Halland County, Sweden	24	1	84987	42104	538	184
+Adnan Dibrani till Bryssel	Ghafari Sebastian	1308296045984813	Facebook	halland_county_SE	Halland County, Sweden	4	1	71163	15045	759	151
+Jörgen Warborn EU-kandidat	Moderaterna	56002955332	Facebook	halland_county_SE	Halland County, Sweden	14	1	60952	15122	910	187
+European Greens	European Greens	141366725876424	Facebook	halland_county_SE	Halland County, Sweden	9	1	56441	25945	698	222
+Liberalerna Västsverige	Liberalerna Västsverige	106102553268601	Facebook	halland_county_SE	Halland County, Sweden	7	1	55412	20415	591	213
+Socialdemokraterna Kungsbacka	Strand Bo Jonas	250833255029427	Facebook	halland_county_SE	Halland County, Sweden	3	1	54434	10887	504	100
+Plan International Sverige	Plan International Sverige	382243262003	Facebook	halland_county_SE	Halland County, Sweden	31	1	50334	21617	396	120
+SSU	SSU	45101268520	Facebook	halland_county_SE	Halland County, Sweden	51	1	50187	19708	806	208
+Moderaterna i Varberg	Moderaterna	665682436792792	Facebook	halland_county_SE	Halland County, Sweden	13	1	44987	8000	415	74
+Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	halland_county_SE	Halland County, Sweden	41	1	44788	13269	708	230
+Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	halland_county_SE	Halland County, Sweden	27	1	44014	14318	381	131
+Centerpartiets Ungdomsförbund	Centerpartiets Ungdomsförbund	110793008936879	Facebook	halland_county_SE	Halland County, Sweden	9	1	37970	16705	378	90
+Vänsterpartiet Göteborg	Vänsterpartiet Göteborg	175873745789190	Facebook	halland_county_SE	Halland County, Sweden	6	1	36074	14220	406	81
+Liberalerna Varberg	Liberalerna Varberg	780698325379963	Facebook	halland_county_SE	Halland County, Sweden	8	1	35638	6930	457	146
+Vänsterpartiet	Vänsterpartiet	323156205347	Facebook	halland_county_SE	Halland County, Sweden	72	1	31183	7145	206	44
+Rädda Barnen	Rädda Barnen	72659261793	Facebook	halland_county_SE	Halland County, Sweden	91	1	23919	6642	182	37
+Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	halland_county_SE	Halland County, Sweden	7	1	22668	10516	480	111
+Centerpartiet Halland	ENEVOLDSEN SONJA ANN-KRISTIN	303963156401468	Facebook	halland_county_SE	Halland County, Sweden	5	1	20995	4000	277	83
+LO-distriktet i Västsverige	LO-distriktet i Västsverige	213326548681872	Facebook	halland_county_SE	Halland County, Sweden	8	1	18979	4542	188	49
+Operation Smile Sverige	Operation Smile Sverige	161213770567846	Facebook	halland_county_SE	Halland County, Sweden	97	1	17842	3195	166	29
+Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	halland_county_SE	Halland County, Sweden	25	1	16833	5878	264	68
+Tomas Tobé	Moderaterna	1829725353928210	Facebook	halland_county_SE	Halland County, Sweden	35	1	15885	4102	271	60
+Socialdemokraterna Falkenberg - Hela kommunens framtidsparti	Svensson Per Johan Klas	1383867568544212	Facebook	halland_county_SE	Halland County, Sweden	3	1	14997	3000	184	64
+Svenskt Näringsliv	Svenskt Näringsliv	90882504375	Facebook	halland_county_SE	Halland County, Sweden	7	1	14551	6702	344	77
+Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	halland_county_SE	Halland County, Sweden	28	1	13093	3268	178	53
+Magnus Thulin - Centerpartiet	Thulin Magnus Nils Oscar	161302754576832	Facebook	halland_county_SE	Halland County, Sweden	8	1	12989	2597	136	36
+Jordens Vänner / Friends of the Earth Sweden	Jordens Vänner / Friends of the Earth Sweden	207890945895422	Facebook	halland_county_SE	Halland County, Sweden	7	1	12043	4123	37	8
+Stefan Löfven	Socialdemokraterna	329885883718979	Facebook	halland_county_SE	Halland County, Sweden	1	1	11835	4734	438	219
+Fredrick Federley	Fredrick Federley	189892183097	Facebook	halland_county_SE	Halland County, Sweden	5	1	11322	4325	90	28
+Emma Wiesner	Emma Wiesner (Centerpartiet)	653072158104424	Facebook	halland_county_SE	Halland County, Sweden	12	1	11165	2399	89	18
+Sverige för UNHCR	Viva Media	643137272398136	Facebook	halland_county_SE	Halland County, Sweden	3	1	10760	5354	124	24
+Heléne Fritzon	Socialdemokraterna	767749640051136	Facebook	halland_county_SE	Halland County, Sweden	20	1	10352	2305	94	21
+Socialdemokraterna Halland	Socialdemokraterna	329938067056917	Facebook	halland_county_SE	Halland County, Sweden	1	1	9999	5000	462	92
+Unga Feminister	Unga Feminister	100642360004457	Facebook	halland_county_SE	Halland County, Sweden	9	1	9729	2789	100	27
+LO Sverige	LO Sverige	163820136238	Facebook	halland_county_SE	Halland County, Sweden	3	1	9271	4196	140	28
+Arabiska Teatern / أرابيسكا تياترن	Arabiska Teatern / أرابيسكا تياترن	996264337099052	Facebook	halland_county_SE	Halland County, Sweden	3	1	8978	4440	42	16
+Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	halland_county_SE	Halland County, Sweden	31	1	7150	1517	61	12
+En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	halland_county_SE	Halland County, Sweden	21	1	7149	1648	56	13
+Diakonia	Diakonia	42676805259	Facebook	halland_county_SE	Halland County, Sweden	13	1	6892	2116	41	9
+Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	halland_county_SE	Halland County, Sweden	4	1	6888	1569	87	17
+Henrik Sundström - M	Sundström Claes Henrik	180745369170	Facebook	halland_county_SE	Halland County, Sweden	8	1	6865	1462	40	10
+Moderaterna Kungsbacka	Moderaterna Kungsbackakretsen	121182911263997	Facebook	halland_county_SE	Halland County, Sweden	6	1	6602	837	94	16
+Feministiskt initiativ	Feministiskt initiativ	112513375470294	Facebook	halland_county_SE	Halland County, Sweden	7	1	6418	1351	171	34
+David Lega	Kristdemokraterna	251829904829983	Facebook	halland_county_SE	Halland County, Sweden	6	1	6400	1468	82	16
+Gustav Hemming	Gustav Hemming (Centerpartiet)	722853564439941	Facebook	halland_county_SE	Halland County, Sweden	4	1	6239	2192	174	34
+Sverigedemokraterna Region Stockholm	SD Stockholm	1729304067391998	Facebook	halland_county_SE	Halland County, Sweden	5	1	6151	1230	58	12
+Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	halland_county_SE	Halland County, Sweden	6	1	5305	1326	70	14
+Kristdemokraterna Varberg	Kardemark Benny Roger	1604039079717231	Facebook	halland_county_SE	Halland County, Sweden	1	1	4999	1000	46	9
+Sveriges Kommunistiska Parti	Sveriges Kommunistiska Parti	133234606721672	Facebook	halland_county_SE	Halland County, Sweden	3	1	4459	947	41	8
+KDU Sverige	KDU Sverige	177549278946958	Facebook	halland_county_SE	Halland County, Sweden	7	1	4364	1237	74	15
+Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	halland_county_SE	Halland County, Sweden	2	1	4271	1663	27	5
+Allan Widman	Liberalerna	540799486089503	Facebook	halland_county_SE	Halland County, Sweden	2	1	3823	1554	132	26
+6F - Fackförbund i samverkan	6F - Fackförbund i samverkan	720556414800953	Facebook	halland_county_SE	Halland County, Sweden	3	1	3478	695	32	6
+Annie Lööf	Centerpartiet	118943054880945	Facebook	halland_county_SE	Halland County, Sweden	4	1	3420	684	26	5
+Liberala ungdomsförbundet	Tilstam Emilie Josefin	108941769135355	Facebook	halland_county_SE	Halland County, Sweden	5	1	3375	669	32	6
+Socialdemokraterna i Jönköpings län	Socialdemokraterna i Jönköpings län	390479295816	Facebook	halland_county_SE	Halland County, Sweden	2	1	3350	670	31	6
+ActionAid Sweden	ActionAid Sweden	18880778360	Facebook	halland_county_SE	Halland County, Sweden	7	1	3271	888	32	9
+EU-kommissionen i Sverige	EU-kommissionen i Sverige	155824787799	Facebook	halland_county_SE	Halland County, Sweden	2	1	3198	1599	28	13
+IF Metall	IF Metall	108492218918	Facebook	halland_county_SE	Halland County, Sweden	9	1	3087	753	26	5
+ABF	ABF	80386149597	Facebook	halland_county_SE	Halland County, Sweden	2	1	2983	1491	14	3
+Djurens parti	Eriksson Monica Maria Therese	207364469446997	Facebook	halland_county_SE	Halland County, Sweden	3	1	2949	651	26	5
+Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	halland_county_SE	Halland County, Sweden	5	1	2867	567	39	8
+Skiftet	Skiftet	100650935646	Facebook	halland_county_SE	Halland County, Sweden	3	1	2864	667	26	6
+Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	halland_county_SE	Halland County, Sweden	6	1	2740	710	33	7
+Medborgerlig Samling	Medborgerlig Samling	189332844828330	Facebook	halland_county_SE	Halland County, Sweden	2	1	2611	522	24	4
+Evin Incir	Socialdemokraterna i Uppsala län	1439778006254125	Facebook	halland_county_SE	Halland County, Sweden	3	1	2567	548	23	5
+Jessica Polfjärd	Moderaterna	337086006951883	Facebook	halland_county_SE	Halland County, Sweden	5	1	2446	747	56	11
+Kommunistiska Partiet i Halmstad	Halldin Ulf Hakan	1415814235348542	Facebook	halland_county_SE	Halland County, Sweden	3	1	2422	0	22	0
+Slöseriombudsmannen	Skattebetalarna	408171019221426	Facebook	halland_county_SE	Halland County, Sweden	12	1	2283	926	13	2
+Svensk Handel	Svensk Handel	120477444659925	Facebook	halland_county_SE	Halland County, Sweden	5	1	2175	599	6	1
+Jonas Sjöstedt		261331320599298	Facebook	halland_county_SE	Halland County, Sweden	2	1	2133	426	12	2
+Miljöpartiet Västra Götaland	Miljöpartiet Västra Götaland	835842266433861	Facebook	halland_county_SE	Halland County, Sweden	4	1	2030	493	30	6
+En bättre framtid	Plan International Sverige	1173808162671999	Facebook	halland_county_SE	Halland County, Sweden	7	1	2015	387	17	3
+Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	halland_county_SE	Halland County, Sweden	18	1	1832	339	21	4
+Anders Rehnberg till Europaparlamentet	Rehnberg Anders John Henry	362678667854817	Facebook	halland_county_SE	Halland County, Sweden	6	1	1707	410	28	6
+Miljöpartiet de gröna i Helsingborg	Miljöpartiet de gröna i Helsingborg	106956499327992	Facebook	halland_county_SE	Halland County, Sweden	3	1	1669	327	15	3
+Saco	Saco	133910158381	Facebook	halland_county_SE	Halland County, Sweden	2	1	1579	315	7	2
+Vi-skogen	Vi-skogen	356032977210	Facebook	halland_county_SE	Halland County, Sweden	2	1	1524	304	14	2
+Liberala Studenter	Heimbrand Christoffer	118645251482192	Facebook	halland_county_SE	Halland County, Sweden	15	1	1509	352	11	1
+Hungerprojektet	Hungerprojektet	212049035488183	Facebook	halland_county_SE	Halland County, Sweden	2	1	1488	297	14	3
+WaterAid Sverige	WaterAid Sverige	175843834306	Facebook	halland_county_SE	Halland County, Sweden	2	1	1464	365	4	2
+Linus Glanzelius till EU	SSU	410320602850904	Facebook	halland_county_SE	Halland County, Sweden	5	1	1380	427	16	6
+Moderaterna i Mölndal	Brown Stjarna Amanda Charlotte	125396154314182	Facebook	halland_county_SE	Halland County, Sweden	7	1	1380	276	22	10
+Liberalerna Örebro län	Liberalerna i Örebro län	388964421149126	Facebook	halland_county_SE	Halland County, Sweden	2	1	1363	265	12	2
+Frihet	Hayrynen Lotta Ilona	1722887348013516	Facebook	halland_county_SE	Halland County, Sweden	9	1	1357	630	18	6
+Internet Advertising		303479743893373	Facebook	halland_county_SE	Halland County, Sweden	1	1	1327	265	13	2
+Georgia Ferris KD EU-Kandidat	Ferris Georgia Minnie Anna	407374246718043	Facebook	halland_county_SE	Halland County, Sweden	2	1	1302	60	11	0
+Socialdemokraterna i Borås	Socialdemokraterna i Borås	104604012928735	Facebook	halland_county_SE	Halland County, Sweden	1	1	1243	248	11	2
+Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	halland_county_SE	Halland County, Sweden	22	1	1232	196	8	0
+Yrkesdörren	ÖppnaDörren	1047016558650888	Facebook	halland_county_SE	Halland County, Sweden	10	1	1113	362	12	4
+Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	halland_county_SE	Halland County, Sweden	13	1	1099	276	7	1
+Socialdemokraterna i Skåne	Socialdemokraterna i Skåne	102414309949126	Facebook	halland_county_SE	Halland County, Sweden	6	1	1066	276	12	3
+CIVIL RIGHTS DEFENDERS	CIVIL RIGHTS DEFENDERS	128452220525979	Facebook	halland_county_SE	Halland County, Sweden	1	1	1009	201	18	9
+Moderaterna i Halland	Moderaterna	687371547986856	Facebook	halland_county_SE	Halland County, Sweden	1	1	999	0	9	0
+Global Strike For Future Kungsbacka	Borg Bjorn Gustav Emanuel Simon	2421479197884767	Facebook	halland_county_SE	Halland County, Sweden	1	1	999	0	46	9
 Kristdemokraterna Falkenberg	Ferris Georgia Minnie Anna	184270554952699	Facebook	halland_county_SE	Halland County, Sweden	1	1	999	0	46	9
-Georgia Ferris KD EU-Kandidat	Ferris Georgia Minnie Anna	407374246718043	Facebook	halland_county_SE	Halland County, Sweden	1	1	999	0	9	0
 Kristdemokraterna Halland	Ferris Georgia Minnie Anna	727605503925235	Facebook	halland_county_SE	Halland County, Sweden	1	1	999	0	9	0
-LO-distriktet i Västsverige	LO-distriktet i Västsverige	213326548681872	Facebook	halland_county_SE	Halland County, Sweden	2	1	885	159	8	1
-Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	halland_county_SE	Halland County, Sweden	3	1	665	133	6	1
-Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	halland_county_SE	Halland County, Sweden	2	1	657	131	9	3
-Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	halland_county_SE	Halland County, Sweden	2	1	605	302	4	1
-Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	halland_county_SE	Halland County, Sweden	8	1	566	76	4	0
-En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	halland_county_SE	Halland County, Sweden	4	1	411	59	2	0
-Eric Luth	Eric Luth – Centerpartiet	757931234599499	Facebook	halland_county_SE	Halland County, Sweden	4	1	320	155	3	1
-Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	halland_county_SE	Halland County, Sweden	3	1	292	58	2	0
-Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	halland_county_SE	Halland County, Sweden	2	1	251	37	2	0
-Folkstyret	Ströberg Mikael	1243789685638222	Facebook	halland_county_SE	Halland County, Sweden	1	1	242	48	2	0
-Moderaterna i Mölndal	Brown Stjarna Amanda Charlotte	125396154314182	Facebook	halland_county_SE	Halland County, Sweden	1	1	233	46	2	0
-Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	halland_county_SE	Halland County, Sweden	1	1	171	34	1	0
-Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	halland_county_SE	Halland County, Sweden	1	1	168	33	1	0
-KDU Sverige	KDU Sverige	177549278946958	Facebook	halland_county_SE	Halland County, Sweden	1	1	140	28	1	0
-Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	halland_county_SE	Halland County, Sweden	1	1	132	26	1	0
-Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	halland_county_SE	Halland County, Sweden	1	1	132	26	1	0
-Fredrick Federley	Fredrick Federley	189892183097	Facebook	halland_county_SE	Halland County, Sweden	1	1	128	25	1	0
-Kristdemokraterna i Marks kommun	Hermansson Per-Olof Ingvar	511527222310641	Facebook	halland_county_SE	Halland County, Sweden	1	1	122	0	1	0
-Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	halland_county_SE	Halland County, Sweden	1	1	116	23	0	0
-Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	halland_county_SE	Halland County, Sweden	4	1	109	0	1	0
-Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	halland_county_SE	Halland County, Sweden	3	1	88	0	0	0
-Evin Incir	Socialdemokraterna i Uppsala län	1439778006254125	Facebook	halland_county_SE	Halland County, Sweden	1	1	59	11	0	0
-Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	halland_county_SE	Halland County, Sweden	2	1	38	0	0	0
-Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	halland_county_SE	Halland County, Sweden	1	1	34	0	1	0
-Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	halland_county_SE	Halland County, Sweden	1	1	33	0	0	0
-Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	halland_county_SE	Halland County, Sweden	1	1	32	0	0	0
-Anders Rehnberg till Europaparlamentet	Rehnberg Anders John Henry	362678667854817	Facebook	halland_county_SE	Halland County, Sweden	1	1	25	0	0	0
-European Commission	European Commission	107898832590939	Facebook	halland_county_SE	Halland County, Sweden	2	1	20	10	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	halland_county_SE	Halland County, Sweden	3	1	14	3	0	0
-David Lega	Kristdemokraterna	251829904829983	Facebook	halland_county_SE	Halland County, Sweden	1	1	11	0	0	0
+Eric Luth	Eric Luth – Centerpartiet	757931234599499	Facebook	halland_county_SE	Halland County, Sweden	6	1	941	281	8	2
+Olof Palme International Center	Olof Palme International Center	62185934430	Facebook	halland_county_SE	Halland County, Sweden	5	1	918	401	8	3
+Forum Syd	Forum Syd	152060917636	Facebook	halland_county_SE	Halland County, Sweden	5	1	910	329	8	3
+Kristdemokraterna i Dalarna	Kristdemokraterna Dalarna	321670347944266	Facebook	halland_county_SE	Halland County, Sweden	5	1	894	269	58	12
+Centerkvinnorna	Lek Ingrid Magdalena	265585313460256	Facebook	halland_county_SE	Halland County, Sweden	8	1	825	147	9	1
+Kristdemokraterna Arboga	Stenzelius Jonas Peter Mikael	1083070925184919	Facebook	halland_county_SE	Halland County, Sweden	7	1	802	153	7	1
+Centerpartiet i Uppsala län	Grew Hedda Anna Magdalena Jarta	801293393230795	Facebook	halland_county_SE	Halland County, Sweden	5	1	774	298	7	2
+Kristdemokraterna Fyrbodal	Kristdemokraterna i VGN	1764033887144522	Facebook	halland_county_SE	Halland County, Sweden	4	1	760	142	29	8
+Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	halland_county_SE	Halland County, Sweden	5	1	729	145	7	2
+Centerpartiet Västra Götaland	Centerpartiet	199121803446165	Facebook	halland_county_SE	Halland County, Sweden	7	1	696	136	5	1
+Moderaterna Kronoberg	Moderaterna Kronoberg	234282713350536	Facebook	halland_county_SE	Halland County, Sweden	1	1	662	132	6	1
+Liberalerna Norrmalm	Tufvesson Elsa Christina	173275532684116	Facebook	halland_county_SE	Halland County, Sweden	13	1	631	68	7	0
+Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	halland_county_SE	Halland County, Sweden	9	1	557	81	2	0
+Folkstyret	Ströberg Mikael	1243789685638222	Facebook	halland_county_SE	Halland County, Sweden	5	1	530	78	4	0
+FPlus – nyhetstjänsten för företagsamma	fPlus	130927360876045	Facebook	halland_county_SE	Halland County, Sweden	4	1	509	101	4	0
+Kristdemokraterna i Marks kommun	Hermansson Per-Olof Ingvar	511527222310641	Facebook	halland_county_SE	Halland County, Sweden	1	1	508	101	4	0
+Kristdemokraterna Uppsala	Kristdemokraterna Uppsala	783969528368300	Facebook	halland_county_SE	Halland County, Sweden	3	1	494	171	15	3
+Linus Lakso - MP	Miljöpartiet de gröna	1038425926323402	Facebook	halland_county_SE	Halland County, Sweden	5	1	474	79	4	0
+Kryssa Mohammad Omran KD	Omran Mohammad	294934427940073	Facebook	halland_county_SE	Halland County, Sweden	2	1	473	190	2	0
+Tobias Baudin	Kommunal	614939535271869	Facebook	halland_county_SE	Halland County, Sweden	3	1	456	91	7	3
+Centerpartiet Uppsala Län	Grew Hedda Anna Magdalena Jarta	597947044056811	Facebook	halland_county_SE	Halland County, Sweden	2	1	392	153	2	0
+Jesper Skalberg Karlsson	Skalberg Karlsson Jesper Jens J	2171970199486213	Facebook	halland_county_SE	Halland County, Sweden	2	1	381	76	3	0
+Utvecklingsmagasinet (fd Biståndsdebatten)	Edquist Kerstin Helena	162523667123095	Facebook	halland_county_SE	Halland County, Sweden	3	1	369	73	2	0
+20% Klimatvarning	Arleskar Carl Albin	362163934600158	Facebook	halland_county_SE	Halland County, Sweden	2	1	363	145	12	2
+Martin Ängeby	Angeby Martin Lennart Valdemar	354019898061233	Facebook	halland_county_SE	Halland County, Sweden	3	1	357	65	4	0
+Skattebetalarnas Förening	Skattebetalarnas Förening	72832167834	Facebook	halland_county_SE	Halland County, Sweden	1	1	336	168	1	0
+Pietro Marchesi	Marchesi Pietro Angelo Giuseppe	412659735929497	Facebook	halland_county_SE	Halland County, Sweden	4	1	331	60	4	1
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	halland_county_SE	Halland County, Sweden	17	1	330	134	0	0
+Landsbygdspartiet oberoende	Landsbygdspartiet oberoende	1549988978561671	Facebook	halland_county_SE	Halland County, Sweden	1	1	310	155	14	2
+Vänsterpartiet Solna	Vänsterpartiet 	273249776157066	Facebook	halland_county_SE	Halland County, Sweden	3	1	300	56	2	0
+Fredsövning	ABRAHAMSSON PER-OLOV	717556358417977	Facebook	halland_county_SE	Halland County, Sweden	2	1	285	57	2	0
+IOGT-NTO	IOGT-NTO	28237261288	Facebook	halland_county_SE	Halland County, Sweden	2	1	267	123	11	2
+Kristdemokraterna Sörmland	Tinglöf Miriam Monica Mariana	1633975010236193	Facebook	halland_county_SE	Halland County, Sweden	2	1	266	53	2	0
+Susanna Gideonsson	Handelsanställdas förbund	2256836864595743	Facebook	halland_county_SE	Halland County, Sweden	2	1	258	51	3	1
+Gröna Studenter	Almén Henrik Carl Olof	31779071967	Facebook	halland_county_SE	Halland County, Sweden	1	1	251	125	11	2
+Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	halland_county_SE	Halland County, Sweden	2	1	236	34	3	1
+Spannmålsfritt	Spannmålsfritt	886531201686249	Facebook	halland_county_SE	Halland County, Sweden	2	1	224	44	2	0
+Nackamoderaterna	Nackamoderaterna	132143480932	Facebook	halland_county_SE	Halland County, Sweden	1	1	221	110	2	1
+Bodil Valero sida	Valero Bodil Elisabeth	300733377216643	Facebook	halland_county_SE	Halland County, Sweden	2	1	214	42	1	0
+Karin Karlsbro - Liberalerna.	Liberalerna	559163754139097	Facebook	halland_county_SE	Halland County, Sweden	1	1	189	37	1	0
+Fria Moderata Studentförbundet	Fria Moderata Studentförbundet	119885094691458	Facebook	halland_county_SE	Halland County, Sweden	1	1	183	36	3	1
+Grön Omstart	Wallin Lena Maria	407812702944641	Facebook	halland_county_SE	Halland County, Sweden	2	1	182	29	0	0
+Centerpartiet Upplands Väsby	Magnusson Kjell Johan Sonny	1457926257795252	Facebook	halland_county_SE	Halland County, Sweden	2	1	176	27	2	0
+Jan Lenander, politiskt engagerad	Lenander Jan Richard	1834522019966466	Facebook	halland_county_SE	Halland County, Sweden	4	1	166	23	1	0
+Vänsterpartiet Jönköpings län	Vänsterpartiet Jönköpings län	433323816696224	Facebook	halland_county_SE	Halland County, Sweden	4	1	155	29	1	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	halland_county_SE	Halland County, Sweden	6	1	144	59	0	0
+Richard Brodd Liberalerna	Brodd Karl Erik Richard	223726468440460	Facebook	halland_county_SE	Halland County, Sweden	1	1	140	28	13	2
+Timbro	Timbro	237146235237	Facebook	halland_county_SE	Halland County, Sweden	3	1	134	13	2	0
+Socialdemokraterna i Mark	Andersson Hakan Ulf Goran	528944283871109	Facebook	halland_county_SE	Halland County, Sweden	1	1	131	26	1	0
+Arbetsmarknadsnytt	Arbetsmarknadsnytt	799634660143537	Facebook	halland_county_SE	Halland County, Sweden	1	1	130	26	1	0
+Liberalerna Västerås	Liberalerna Västerås	39940078116	Facebook	halland_county_SE	Halland County, Sweden	1	1	123	24	1	0
+Axess Magasin & TV	Axess Magasin & TV	887305194662637	Facebook	halland_county_SE	Halland County, Sweden	1	1	123	24	1	0
+Liberalerna Västmanland	Liberalerna Västmanland	112927778743586	Facebook	halland_county_SE	Halland County, Sweden	1	1	122	24	1	0
+Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	halland_county_SE	Halland County, Sweden	1	1	120	24	1	0
+KDU Göteborg	KDU Göteborg	337673949604125	Facebook	halland_county_SE	Halland County, Sweden	4	1	119	0	1	0
+Anna Vikström		1671556912954715	Facebook	halland_county_SE	Halland County, Sweden	1	1	119	23	1	0
+Vänsterpartiet Fyrbodal	Vänsterpartiet Fyrbodal	154507768394620	Facebook	halland_county_SE	Halland County, Sweden	1	1	116	23	1	0
+Socialdemokraterna Kungälv	Kungälvs Socialdemokratiska Arbetarekommun	241319269242484	Facebook	halland_county_SE	Halland County, Sweden	2	1	116	19	1	0
+Studieförbundet Bilda	Wallstedt Bo Fredrik	161514177194883	Facebook	halland_county_SE	Halland County, Sweden	1	1	116	23	1	0
+Marie Nilsson	IF Metall	292532504512919	Facebook	halland_county_SE	Halland County, Sweden	1	1	110	22	1	0
+Moderaterna i Arboga	Soderland Anders Mikael	1307727569320278	Facebook	halland_county_SE	Halland County, Sweden	1	1	105	21	0	0
+Kristdemokraterna Skaraborg	Kristdemokraterna Skaraborg	123405474354465	Facebook	halland_county_SE	Halland County, Sweden	2	1	103	20	0	0
+Stoppa höjningen av Sveriges EU-avgift	Fria Moderata Studentförbundet	306402583588293	Facebook	halland_county_SE	Halland County, Sweden	1	1	103	20	1	0
+Vänsterpartiet Umeå	Sellstedt Karl Sven Andreas	237863203023150	Facebook	halland_county_SE	Halland County, Sweden	1	1	99	19	0	0
+Afram Yakoub	Yakuob Afram	1849562398465143	Facebook	halland_county_SE	Halland County, Sweden	2	1	96	22	0	0
+KD Kungsbacka	KD Kungsbacka	2024157037852156	Facebook	halland_county_SE	Halland County, Sweden	1	1	96	19	0	0
+Moderaterna i Håbo	Erling Björn Karl Gustaf	256926791030140	Facebook	halland_county_SE	Halland County, Sweden	3	1	95	0	0	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	halland_county_SE	Halland County, Sweden	3	1	94	46	0	0
+Volt Sverige	Rolf Michael Holz	939004146262372	Facebook	halland_county_SE	Halland County, Sweden	1	1	94	47	0	0
+Stiftelsen Expo	Stiftelsen Expo	208751565805849	Facebook	halland_county_SE	Halland County, Sweden	1	1	92	18	0	0
+Reformisterna	Reformisterna	2337692372925538	Facebook	halland_county_SE	Halland County, Sweden	1	1	91	18	0	0
+KD Sigtuna	Makris Jessica Therese	2063183643940247	Facebook	halland_county_SE	Halland County, Sweden	1	1	86	17	0	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	halland_county_SE	Halland County, Sweden	1	1	82	41	0	0
+Centerpartiet i Umeå	Centerpartiet	450620155297	Facebook	halland_county_SE	Halland County, Sweden	3	1	81	0	0	0
+RKU – Revolutionär Kommunistisk Ungdom	Gustafsson Arvid	328797072776	Facebook	halland_county_SE	Halland County, Sweden	1	1	80	0	0	0
+Kvinna till Kvinna	Kvinna till Kvinna	153028052500	Facebook	halland_county_SE	Halland County, Sweden	1	1	71	14	0	0
+Kristdemokraterna Västerbotten	Kristdemokraterna Västerbotten	414156238684191	Facebook	halland_county_SE	Halland County, Sweden	2	1	70	12	0	0
+KD Region Uppsala	KD Region Uppsala	195658617439309	Facebook	halland_county_SE	Halland County, Sweden	3	1	59	0	0	0
+Eva B Arnesson - KD	Eva B Arnesson - KD	297923747637590	Facebook	halland_county_SE	Halland County, Sweden	1	1	56	11	0	0
+Socialdemokraterna Hässleholm	Hässleholms Socialdemokratiska arbetarekommun	838924659467812	Facebook	halland_county_SE	Halland County, Sweden	3	1	55	5	0	0
+Kristdemokraterna i Gagnef	Kristdemokraterna Dalarna	273483286188959	Facebook	halland_county_SE	Halland County, Sweden	2	1	52	0	1	0
+Moderaterna i Stenungsund	Renfors Anna Maria	488439967871997	Facebook	halland_county_SE	Halland County, Sweden	1	1	48	0	0	0
+Anders G Johansson	Johansson Anders Gustaf Werner	357659877249	Facebook	halland_county_SE	Halland County, Sweden	2	1	48	0	0	0
+Rösta Moderat		349668178981055	Facebook	halland_county_SE	Halland County, Sweden	1	1	47	0	0	0
+Kristdemokraterna Helsingborg	Lindholm 	119710274891528	Facebook	halland_county_SE	Halland County, Sweden	2	1	38	7	0	0
+Semantiko	MTWABP Sweden AB	656090384536434	Facebook	halland_county_SE	Halland County, Sweden	1	1	38	0	0	0
+Kristdemokraterna Vänersborg	Nilsson Anna Maria	1436550706597391	Facebook	halland_county_SE	Halland County, Sweden	1	1	37	0	0	0
+Tankar Online		114769995938282	Facebook	halland_county_SE	Halland County, Sweden	1	1	28	0	2	0
+Tallis talar		1206136579519699	Facebook	halland_county_SE	Halland County, Sweden	1	1	28	0	0	0
+Folkbildarforum	Bildningsförbundet Östergötland	164688070209892	Facebook	halland_county_SE	Halland County, Sweden	1	1	24	4	0	0
+Arbetarekommunen	Persson Gunnar Henrik Haakan	2053389964962411	Facebook	halland_county_SE	Halland County, Sweden	1	1	21	0	0	0
+Caritas Sweden		119140545477108	Facebook	halland_county_SE	Halland County, Sweden	1	1	20	0	0	0
+Kommunistiska Partiet Stockholm		1572942986309050	Facebook	halland_county_SE	Halland County, Sweden	1	1	17	0	0	0
+Kristdemokraterna i Örebro län	Cesar Eje Alexander	430535663641398	Facebook	halland_county_SE	Halland County, Sweden	1	1	15	0	0	0
+SSU Kalmar Län	SSU Kalmar län	241658249370356	Facebook	halland_county_SE	Halland County, Sweden	1	1	11	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	halland_county_SE	Halland County, Sweden	1	1	10	4	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	halland_county_SE	Halland County, Sweden	1	1	8	4	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	halland_county_SE	Halland County, Sweden	2	1	7	3	0	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	halland_county_SE	Halland County, Sweden	1	1	7	3	0	0
+Free Quran Education		388655174641163	Facebook	halland_county_SE	Halland County, Sweden	1	1	7	3	0	0
+The Good Show	Assur Stagliano Stefan Giuseppe	1923750267869320	Facebook	halland_county_SE	Halland County, Sweden	1	1	6	0	0	0
+KDU Jönköpings län	KDU Jönköpings län	1502764403290092	Facebook	halland_county_SE	Halland County, Sweden	1	1	5	1	0	0
+Kristdemokraterna i Jönköpings län	Kristdemokraterna Jönköpings län	116545538368003	Facebook	halland_county_SE	Halland County, Sweden	1	1	5	1	0	0
+Socialdemokraterna i Stockholm	Socialdemokraterna i Stockholm	117056501654820	Facebook	halland_county_SE	Halland County, Sweden	1	1	3	0	0	0
 European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	halland_county_SE	Halland County, Sweden	1	1	3	2	0	0
+Moderaterna i Skåne	Moderaterna i Skåne	336995309750321	Facebook	halland_county_SE	Halland County, Sweden	1	1	2	0	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	halland_county_SE	Halland County, Sweden	1	1	1	0	0	0

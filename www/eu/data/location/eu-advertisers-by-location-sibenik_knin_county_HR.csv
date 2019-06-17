@@ -1,29 +1,75 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Ruža Kovačević Bilić	Hrvatska narodna stranka - liberalni demokrati (HNS)	2268602929863854	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	3	1	15229	3435	40	0
-HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	9	1	8286	3941	41	4
-Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	10	1	7485	1632	27	0
-Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	3	1	3763	1489	5	0
-Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	4	1	3649	781	8	0
-Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	2278	455	4	0
-SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	3	1	1927	385	5	0
-Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	1607	321	3	0
-Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	2	1	1522	304	5	0
-HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	1303	260	2	0
-European Parliament	European Parliament	178362315106	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	1183	236	2	0
-Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	15	1	1110	125	60	0
-Jozo Radoš	Jozo Radoš	446717938731095	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	5	1	803	253	12	0
-Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	4	1	532	98	13	0
-Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	326	163	3	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	4	1	307	139	0	0
-Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	2	1	290	105	4	0
-Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	2	1	287	115	3	0
-Marijana Petir	Marijana Petir	1418903245032313	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	219	109	2	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	118	59	0	0
-Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	113	56	1	0
-European Commission	European Commission	107898832590939	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	2	1	102	51	0	0
-Krešo Beljak	Vlahovic Mario	52929105855	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	96	19	1	0
-Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	60	12	1	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	2	1	48	13	0	0
-Sanja Radolović	Radolovic Sanja	508755779649081	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	22	0	2	0
-SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	19	0	1	0
+HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	49	1	104664	43480	408	101
+Ruža Kovačević Bilić	Hrvatska narodna stranka - liberalni demokrati (HNS)	2268602929863854	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	7	1	52592	14500	90	0
+Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	19	1	44828	19910	136	31
+European Parliament	European Parliament	178362315106	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	15	1	44087	20661	131	37
+SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	17	1	38712	15087	49	2
+Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	19	1	31748	12736	92	11
+Europski parlament, Ured za informiranje u Republici Hrvatskoj	Europski parlament, Ured za informiranje u Republici Hrvatskoj	508795765833382	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	22	1	30559	13737	72	7
+Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	21	1	26743	9723	115	19
+Slobodna Dalmacija	Slobodna Dalmacija	100267330025110	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	25	1	24368	7149	65	0
+Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	6	1	22971	7100	85	12
+Miro Bulj	MOST nezavisnih lista	1252295741481540	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	8	1	18018	6696	50	7
+MOST nezavisnih lista	MOST nezavisnih lista	388550077899912	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	10	1	17857	6467	67	11
+Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	9	1	16373	4064	43	2
+European Greens	European Greens	141366725876424	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	6	1	16264	7005	52	20
+Joško Klisović	Klisovic Josko	1262594650584725	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	14	1	9840	2649	32	0
+European Commission	European Commission	107898832590939	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	22	1	9589	4602	14	4
+Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	18	1	9314	1898	57	0
+Marijana Petir	Marijana Petir	1418903245032313	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	8	1	8748	2961	29	4
+Goran Pauk	HDZ - Hrvatska demokratska zajednica	581489628528785	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	3	1	8714	1742	17	0
+Model European Union Zagreb - MEUZ	Divea Studio	521874817895935	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	5	1	7493	3179	9	0
+Sunčana Glavak	HDZ - Hrvatska demokratska zajednica	482597361772021	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	4	1	7372	2792	40	8
+Stjepan Adanić	HDZ - Hrvatska demokratska zajednica	408695383042330	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	3	1	7281	3306	19	2
+Jozo Radoš	Jozo Radoš	446717938731095	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	8	1	7255	1451	18	0
+Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	20	1	6050	1482	56	0
+Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	2	1	5418	2709	15	2
+SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	11	1	4472	1625	25	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	2	1	4277	2138	3	0
+HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	2	1	3819	1498	5	0
+Stjepan Ribić	HDZ - Hrvatska demokratska zajednica	451335681696047	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	3	1	3471	1388	14	2
+Krešo Beljak	Vlahovic Mario	52929105855	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	2	1	3426	1343	13	2
+Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	5	1	3421	735	10	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	15	1	3144	1354	5	2
+Habib Tahiri	Hrvatska narodna stranka - liberalni demokrati (HNS)	750800161983664	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	2	1	2997	599	5	0
+BIOM	BIOM	138743669505642	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	6	1	2923	769	12	0
+Dr. sc. Tomislav Sokol	HDZ - Hrvatska demokratska zajednica	136900153422435	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	3	1	2677	532	6	0
+GLAS Građansko-liberalni savez	GLAS Građansko-liberalni savez	231052047413325	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	3	1	2393	478	17	3
+Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	13	1	2370	736	41	0
+Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	2	1	1913	382	3	0
+Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	3	1	1780	356	8	1
+Nikolina Brnjac	HDZ - Hrvatska demokratska zajednica	287054392229717	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	2	1	1772	354	10	1
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	9	1	1610	616	2	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	1558	779	7	1
+Marijana Balić	HDZ - Hrvatska demokratska zajednica	1274752085892321	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	1335	267	13	2
+Tonino Picula	Tonino Picula	156057951248853	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	1251	250	2	0
+Davor Škrlec	Zastupnik u Europskom parlamentu Davor Škrlec	1507744276110325	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	1119	224	2	0
+Hrvatska stranka umirovljenika	Hrvatska stranka umirovljenika	1437793016448632	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	1116	223	2	0
+Nova ljevica	Možemo - politička platforma	706769699498076	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	858	171	1	0
+Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	2	1	782	193	2	0
+Sanja Radolović	Radolovic Sanja	508755779649081	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	6	1	557	164	9	0
+Gong	Gong	135611546456409	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	4	1	511	209	5	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	3	1	405	189	0	0
+Diana Topčić-Rosenberg	TOPCIC-ROSENBERG DIANA	1702271996513206	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	3	1	308	119	5	0
+HSS Hrvatska	Vlahovic Mario	236043376446622	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	262	131	2	0
+Saša Poljanec-Borić	Hrvatska socijalno liberalna stranka	1914254365351413	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	203	101	0	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	164	82	1	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	5	1	147	53	0	0
+Željka Markić		210218862695602	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	131	26	2	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	117	58	0	0
+Davor Nađi	Nadi Davor	1640498249359280	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	2	1	117	46	1	0
+Greenpeace Hrvatska	Greenpeace Hrvatska	359170097532754	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	3	1	104	0	9	0
+Informativno Dokumentacijski Centar Banije I Korduna		1902779853072038	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	102	20	1	0
+Gordan Maras		451079008266520	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	100	20	1	0
+Zelena lista		157025101623973	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	2	1	96	32	1	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	3	1	60	11	0	0
+Europe Thinx		335839580440114	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	45	9	0	0
+CRIF		395919323779707	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	31	16	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	24	4	0	0
+Telegram.hr		688325737947866	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	24	0	2	0
+Radnička Fronta		770459529655215	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	21	0	1	0
 Kulturpunkt.hr		89410579392	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	17	0	1	0
+Ne u moje ime		138418753446889	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	15	3	0	0
+ETUC		129041250601685	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	10	2	0	0
+Danko Švorinić		1867610616838363	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	10	0	0	0
+Big News Buzz		125179374733697	Facebook	sibenik_knin_county_HR	Šibenik-Knin County, Croatia	1	1	1	1	0	0

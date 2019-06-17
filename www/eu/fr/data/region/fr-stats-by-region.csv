@@ -1,23 +1,23 @@
 region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-alsace	Alsace	FR	France	42	9	6816	2881	18	4
-aquitaine	Aquitaine	FR	France	47	11	18660	7874	45	9
-auvergne	Auvergne	FR	France	39	8	3221	1296	16	1
-basse_normandie	Basse-Normandie	FR	France	41	9	4294	1774	8	1
-bourgogne	Bourgogne	FR	France	40	8	4434	1847	9	2
-bretagne	Bretagne	FR	France	40	8	18683	7796	37	7
-centre	Centre	FR	France	44	11	10470	4362	25	4
-champagne_ardenne	Champagne-Ardenne	FR	France	41	9	4265	1765	8	1
-corse	Corse	FR	France	39	8	635	251	1	0
-franche_comte	Franche-Comté	FR	France	39	8	2500	1037	5	1
-haute_normandie	Haute-Normandie	FR	France	42	10	8220	3365	23	3
-languedoc_roussillon	Languedoc-Roussillon	FR	France	41	9	13084	5482	33	7
-limousin	Limousin	FR	France	38	7	909	379	1	0
-lorraine	Lorraine	FR	France	47	12	12598	5206	28	6
-midi_pyrenees	Midi-Pyrénées	FR	France	42	9	10457	4446	26	5
-nord_pas_de_calais	Nord-Pas-de-Calais	FR	France	48	14	54221	22507	112	23
-pays_de_la_loire	Pays de la Loire	FR	France	41	9	19151	8054	41	9
-picardie	Picardie	FR	France	42	10	9141	3765	17	3
-poitou_charentes	Poitou-Charentes	FR	France	40	8	5358	2239	11	2
-provence_alpes_cote_dazur	Provence-Alpes-Côte d'Azur	FR	France	43	10	40477	17007	117	24
-rhone_alpes	Rhône-Alpes	FR	France	43	10	67696	28286	201	33
-ile_de_france	Île-de-France	FR	France	44	11	194904	79373	668	107
+alsace	Alsace	FR	France	311	75	32223	13628	228	44
+aquitaine	Aquitaine	FR	France	343	74	100838	42321	769	132
+auvergne	Auvergne	FR	France	270	64	59960	15006	179	16
+basse_normandie	Basse-Normandie	FR	France	272	65	18257	7715	128	21
+bourgogne	Bourgogne	FR	France	270	63	17686	7733	114	22
+bretagne	Bretagne	FR	France	282	66	87015	37959	558	112
+centre	Centre	FR	France	281	66	47223	20250	398	60
+champagne_ardenne	Champagne-Ardenne	FR	France	317	78	16054	6981	97	19
+corse	Corse	FR	France	255	57	2275	917	27	2
+franche_comte	Franche-Comté	FR	France	269	62	10127	4408	64	12
+haute_normandie	Haute-Normandie	FR	France	283	66	34433	14874	220	42
+languedoc_roussillon	Languedoc-Roussillon	FR	France	292	70	205804	57322	1565	254
+limousin	Limousin	FR	France	260	60	3801	1657	24	4
+lorraine	Lorraine	FR	France	323	80	50838	22190	321	65
+midi_pyrenees	Midi-Pyrénées	FR	France	296	70	114067	36667	958	184
+nord_pas_de_calais	Nord-Pas-de-Calais	FR	France	429	122	185504	78641	1277	220
+pays_de_la_loire	Pays de la Loire	FR	France	285	71	194491	60954	1224	223
+picardie	Picardie	FR	France	288	71	30268	13164	178	36
+poitou_charentes	Poitou-Charentes	FR	France	275	63	24874	10790	163	32
+provence_alpes_cote_dazur	Provence-Alpes-Côte d'Azur	FR	France	314	79	248706	101374	1856	352
+rhone_alpes	Rhône-Alpes	FR	France	319	78	396730	158685	3086	560
+ile_de_france	Île-de-France	FR	France	353	83	1493657	575086	12192	1858

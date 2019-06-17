@@ -1,119 +1,472 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	spend_code_filter	spend_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-PSOE Aragón	PSOE Aragón	170970449608409	Facebook	0_50	0 - 50	ES	Spain	1060	1	1099506	10965	104613	0
-Reacciona y Actúa	Actúa 	1916676245053161	Facebook	0_50	0 - 50	ES	Spain	15	1	449581	128598	1480	0
-Partido Socialista de la Región de Murcia (PSRM-PSOE)	Partido Socialista de la Región de Murcia 	154616807805	Facebook	0_50	0 - 50	ES	Spain	19	1	428642	97694	1875	0
-Compromís	Compromís	194053080624605	Facebook	0_50	0 - 50	ES	Spain	48	1	295030	67788	4737	0
-Podemos Castilla-La Mancha	UNIDAS PODEMOS - IZQUIERDA UNIDA - EQUO CLM	624403874292676	Facebook	0_50	0 - 50	ES	Spain	8	1	149525	41869	789	0
-Izquierda Unida de Castilla y León	Izquierda Unida de Castilla y León	315922371074	Facebook	0_50	0 - 50	ES	Spain	4	1	110650	24922	394	0
-Marea Atlántica	Marea Atlántica	836117153066747	Facebook	0_50	0 - 50	ES	Spain	4	1	109653	21931	394	0
-Podem Illes Balears	Podem Illes Balears	779897522101509	Facebook	0_50	0 - 50	ES	Spain	3	1	100682	19937	296	0
-Instituto Internacional de Derecho y Medio Ambiente (IIDMA)	Laura Fernández Dobarro	219220477095	Facebook	0_50	0 - 50	ES	Spain	2	1	99686	19937	197	0
-Esquerra Barcelona	Esquerra Barcelona	374070875952519	Facebook	0_50	0 - 50	ES	Spain	4	1	74762	20934	394	0
-Otra Parla Es Posible	Esther Torija Alonso	876560969172203	Facebook	0_50	0 - 50	ES	Spain	14	1	74752	12959	1381	0
-EAJ-PNV	EAJ-PNV	26830001203	Facebook	0_50	0 - 50	ES	Spain	4	1	70775	19937	394	0
-Markel Olano	EAJ-PNV	898191063533170	Facebook	0_50	0 - 50	ES	Spain	4	1	65525	15886	393	0
-Esquerra Republicana de Catalunya	Esquerra Republicana de Catalunya	150234575797	Facebook	0_50	0 - 50	ES	Spain	17	1	62786	16947	1677	0
-Podemos Torrejón de Ardoz	Podemos Torrejón de Ardoz	394489317377199	Facebook	0_50	0 - 50	ES	Spain	5	1	61802	11962	493	0
-Adrián Barbón	Federación Socialista Asturiana FSA-PSOE	281802578697399	Facebook	0_50	0 - 50	ES	Spain	2	1	59811	14953	197	0
-Todos a una per L'Hospitalet	PSC Partit dels  Socialistes de Catalunya	946528468690932	Facebook	0_50	0 - 50	ES	Spain	2	1	59811	14953	197	0
-Guillermo Fernández Vara	Guillermo Fernández Vara	56504926071	Facebook	0_50	0 - 50	ES	Spain	3	1	59810	11962	296	0
-PSOE de Castilla-La Mancha	PSOE de Castilla-La Mancha	310081965717560	Facebook	0_50	0 - 50	ES	Spain	2	1	54826	10965	197	0
+PSOE Aragón	PSOE Aragón	170970449608409	Facebook	0_50	0 - 50	ES	Spain	2457	1	3161671	193396	242485	0
+Compromís	Compromís	194053080624605	Facebook	0_50	0 - 50	ES	Spain	76	1	1981736	460561	7500	0
+Partido Socialista de la Región de Murcia (PSRM-PSOE)	Partido Socialista de la Región de Murcia 	154616807805	Facebook	0_50	0 - 50	ES	Spain	75	1	1963793	442618	7401	0
+Greenpeace España	Greenpeace España	133044800622	Facebook	0_50	0 - 50	ES	Spain	71	1	1579995	389782	7007	0
+Ciudadanos Andalucía	Ciudadanos	522336804500176	Facebook	0_50	0 - 50	ES	Spain	224	1	1479157	384798	22106	0
+Esquerra Republicana de Catalunya	Esquerra Republicana de Catalunya	150234575797	Facebook	0_50	0 - 50	ES	Spain	131	1	1427412	378817	12928	0
+Reacciona y Actúa	Actúa 	1916676245053161	Facebook	0_50	0 - 50	ES	Spain	21	1	1216181	425670	2072	0
+SEO/BirdLife	SEO/BirdLife	70020937349	Facebook	0_50	0 - 50	ES	Spain	28	1	1034740	343926	2763	0
+Jorge Azcón	Partido Popular Zaragoza	1005758609559650	Facebook	0_50	0 - 50	ES	Spain	45	1	794474	193396	4441	0
+PSOE		189318235003	Facebook	0_50	0 - 50	ES	Spain	11	1	598121	149533	1085	0
+Marea Atlántica	Marea Atlántica	836117153066747	Facebook	0_50	0 - 50	ES	Spain	18	1	594126	127601	1776	0
+Partido Socialista Europeo	Partido Socialista Europeo	442423976113917	Facebook	0_50	0 - 50	ES	Spain	11	1	573199	180436	1085	0
+Zaragoza en Común	Zaragoza en Común	1404651893174804	Facebook	0_50	0 - 50	ES	Spain	50	1	566182	143551	4934	0
+Psoe La Rioja	PSOE La Rioja	198198820328526	Facebook	0_50	0 - 50	ES	Spain	81	1	555185	121620	7994	0
+MÉS per Mallorca	MÉS per Mallorca	183718528322316	Facebook	0_50	0 - 50	ES	Spain	15	1	539298	119625	1480	0
+PSOE Extremadura	PSOE Extremadura	187170858138979	Facebook	0_50	0 - 50	ES	Spain	11	1	528150	174413	1085	0
+IU Aragón	IU Aragón	178663732095	Facebook	0_50	0 - 50	ES	Spain	59	1	520316	142554	5822	0
+Volt España	Volt Europa España	2112231695664686	Facebook	0_50	0 - 50	ES	Spain	14	1	498430	141558	1381	0
+Joan Ribó	Compromís	136302299749630	Facebook	0_50	0 - 50	ES	Spain	20	1	486461	147539	1973	0
+Navarra Suma	Navarra Suma	401519690408274	Facebook	0_50	0 - 50	ES	Spain	22	1	483097	105589	2169	0
+Podemos Región de Murcia	Podemos Región de Murcia	1405445633036784	Facebook	0_50	0 - 50	ES	Spain	33	1	449563	91713	3256	0
+Ciudadanos	Ciudadanos	74078667754	Facebook	0_50	0 - 50	ES	Spain	85	1	427579	98691	8388	0
+Podemos Comunidad de Madrid	Unidas Podemos Izquierda Unida Madrid en Pie	261762710669900	Facebook	0_50	0 - 50	ES	Spain	10	1	419679	119626	986	0
+Podemos Castilla-La Mancha	UNIDAS PODEMOS - IZQUIERDA UNIDA - EQUO CLM	624403874292676	Facebook	0_50	0 - 50	ES	Spain	14	1	359862	86729	1381	0
+Cs Zaragoza	Ciudadanos Zaragoza	362982070559555	Facebook	0_50	0 - 50	ES	Spain	44	1	343882	74766	4342	0
+CicloZero.com	Raquel Del Val Villaverde	228274408053486	Facebook	0_50	0 - 50	ES	Spain	4	1	304046	120623	394	0
+Izquierda Unida de Castilla y León	Izquierda Unida de Castilla y León	315922371074	Facebook	0_50	0 - 50	ES	Spain	7	1	300056	59813	690	0
+Guillermo Fernández Vara	Guillermo Fernández Vara	56504926071	Facebook	0_50	0 - 50	ES	Spain	4	1	299062	119626	394	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	0_50	0 - 50	ES	Spain	18	1	289156	61159	1402	0
+Álex Pastor	PSC Badalona	2053966338189807	Facebook	0_50	0 - 50	ES	Spain	27	1	288073	61807	2664	0
+Markel Olano	EAJ-PNV	898191063533170	Facebook	0_50	0 - 50	ES	Spain	23	1	280074	63575	2263	0
+Pedro Quevedo Iturbe	Nueva Canarias	960849937289013	Facebook	0_50	0 - 50	ES	Spain	8	1	269151	56822	789	0
+Javi López	Javi López	370863946442242	Facebook	0_50	0 - 50	ES	Spain	12	1	269147	71775	1184	0
+Juan Antonio Morales	Juan Antonio Morales	245685148845187	Facebook	0_50	0 - 50	ES	Spain	7	1	269135	59804	690	0
+Dídac Nadal Abad	Partit Demòcrata Europeu Català	876740939186071	Facebook	0_50	0 - 50	ES	Spain	6	1	259184	54828	592	0
+Nueva Canarias Las Palmas de Gran Canaria	Nueva Canarias	342077645945305	Facebook	0_50	0 - 50	ES	Spain	9	1	257187	50841	888	0
+Podem	PODEMOS.	792238440859918	Facebook	0_50	0 - 50	ES	Spain	13	1	257183	65794	1282	0
+EH Bildu	EH Bildu	183202371808498	Facebook	0_50	0 - 50	ES	Spain	53	1	251903	66711	5225	0
+Podemos Zaragoza	PODEMOS - EQUO ZARAGOZA	1416966438543078	Facebook	0_50	0 - 50	ES	Spain	12	1	246219	57819	1184	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	0_50	0 - 50	ES	Spain	16	1	242491	81983	411	0
+EAJ-PNV	EAJ-PNV	26830001203	Facebook	0_50	0 - 50	ES	Spain	17	1	237242	64797	1677	0
+Málaga Ahora	Málaga Ahora	781552348595473	Facebook	0_50	0 - 50	ES	Spain	16	1	236246	64797	1579	0
+PS Móstoles	PS Móstoles	328021943957505	Facebook	0_50	0 - 50	ES	Spain	18	1	223284	52835	1776	0
+Esquerra Barcelona	Esquerra Barcelona	374070875952519	Facebook	0_50	0 - 50	ES	Spain	13	1	220299	58816	1282	0
+Fundación Anesvad	Jose Manuel Bran Garcia	131231529742	Facebook	0_50	0 - 50	ES	Spain	12	1	214318	54828	1184	0
+SJM España	SJM España	468787443245721	Facebook	0_50	0 - 50	ES	Spain	4	1	209342	74766	394	0
+Ciudadanos Aragón	Ciudadanos Aragón	246074155529623	Facebook	0_50	0 - 50	ES	Spain	5	1	209341	44859	493	0
+José Manuel Bermúdez	Coalicion Canaria	179844672027190	Facebook	0_50	0 - 50	ES	Spain	24	1	209322	52835	2368	0
+PSOE de Castilla-La Mancha	PSOE de Castilla-La Mancha	310081965717560	Facebook	0_50	0 - 50	ES	Spain	4	1	199373	39875	394	0
+Agrupación Municipal PSOE Huelva	Agrupación Municipal PSOE Huelva	372909479493645	Facebook	0_50	0 - 50	ES	Spain	10	1	196376	50841	986	0
+Gorka Urtaran	EAJ-PNV	300674273455291	Facebook	0_50	0 - 50	ES	Spain	15	1	191387	58816	1480	0
+Amaya Fernández	PP	486996548359961	Facebook	0_50	0 - 50	ES	Spain	8	1	189400	46853	789	0
+Otra Parla Es Posible	Esther Torija Alonso	876560969172203	Facebook	0_50	0 - 50	ES	Spain	34	1	185387	43863	3355	0
+Podemos Aragón	Podemos Equo	570770963015441	Facebook	0_50	0 - 50	ES	Spain	5	1	179434	74766	493	0
+Coalición por El Bierzo	Coalición por El Bierzo	661476137308587	Facebook	0_50	0 - 50	ES	Spain	6	1	179433	44859	592	0
+VOX España		467127060059387	Facebook	0_50	0 - 50	ES	Spain	9	1	177437	40872	888	0
+Antonio García Marichal	Antonio Miguel García Marichal	266888690629486	Facebook	0_50	0 - 50	ES	Spain	12	1	175437	52833	1184	0
+Entreculturas	Jose Manuel Bran Garcia	45817335745	Facebook	0_50	0 - 50	ES	Spain	6	1	174447	67787	592	0
+Rosa Galindo Málaga Ahora	Málaga Ahora	283962895855799	Facebook	0_50	0 - 50	ES	Spain	10	1	169460	51838	986	0
+Parlamento Europeo - Oficina en España	Parlamento Europeo - Oficina en España	161616883888862	Facebook	0_50	0 - 50	ES	Spain	5	1	164454	35878	493	0
+Podem Morvedre	PODEMOS.	249370875231775	Facebook	0_50	0 - 50	ES	Spain	5	1	159497	31900	493	0
+Izquierda Xunida Riosa	Izquierda Xunida Riosa	1433628330234775	Facebook	0_50	0 - 50	ES	Spain	144	1	155370	2990	14211	0
+Federación Socialista Asturiana FSA-PSOE	Federación Socialista Asturiana FSA-PSOE	48426568814	Facebook	0_50	0 - 50	ES	Spain	4	1	154513	30903	394	0
+PSIB	PSIB-PSOE	182797475074265	Facebook	0_50	0 - 50	ES	Spain	4	1	154513	30903	394	0
+EAJ PNV Bilbao	EAJ-PNV	901614836545126	Facebook	0_50	0 - 50	ES	Spain	9	1	154508	42866	888	0
+Partido Popular de La Rioja	David Alejandro Macias	193386147348471	Facebook	0_50	0 - 50	ES	Spain	5	1	151521	29906	493	0
+PSOE Canarias	PSOE Canarias	271931812851156	Facebook	0_50	0 - 50	ES	Spain	2	1	149531	59813	197	0
+Equipo Gabilondo	PSOE	2510416598973466	Facebook	0_50	0 - 50	ES	Spain	3	1	149530	29906	296	0
+Emiliano García-Page Sánchez	Emiliano García-Page Sánchez	131662690193032	Facebook	0_50	0 - 50	ES	Spain	3	1	149530	29906	296	0
+UCIN  El EJIDO		294568174559240	Facebook	0_50	0 - 50	ES	Spain	3	1	149530	29906	296	0
+Guanyem Badalona en Comú	Esquerra Republicana de Catalunya	445003612308437	Facebook	0_50	0 - 50	ES	Spain	3	1	149530	29906	296	0
+Sandra x Tomiño	Bloque Nacionalista Galego de Tomiño	623179161441345	Facebook	0_50	0 - 50	ES	Spain	17	1	148357	41541	1667	0
+PSOE Getafe	PSOE Getafe	466283470091128	Facebook	0_50	0 - 50	ES	Spain	21	1	146521	31900	2072	0
+Elena Allué ZGZ	Partido Aragonés	1066267686904935	Facebook	0_50	0 - 50	ES	Spain	10	1	145535	34891	986	0
+EAJ PNV Gipuzkoa	EAJ-PNV	144273808967495	Facebook	0_50	0 - 50	ES	Spain	8	1	144540	37881	789	0
+Anna Erra	Partit Demòcrata	358953041585237	Facebook	0_50	0 - 50	ES	Spain	8	1	139556	33894	789	0
+Cs Teruel	Ciudadanos Aragón	1547534802182236	Facebook	0_50	0 - 50	ES	Spain	9	1	136564	32897	888	0
+Teresa Mallada De Castro	Partido Popular de Asturias	2175837676009250	Facebook	0_50	0 - 50	ES	Spain	10	1	136563	29906	986	0
+Ayuda En Acción	Ayuda En Acción	245741112112300	Facebook	0_50	0 - 50	ES	Spain	31	1	136542	21931	3059	0
+Cambiemos Orihuela	Cambiemos Orihuela - CLARO: Unidas Podemos	341229742754620	Facebook	0_50	0 - 50	ES	Spain	6	1	134573	35887	592	0
+PSOE Alcalá de Henares	PSOE de Alcalá de Henares	82976913463	Facebook	0_50	0 - 50	ES	Spain	6	1	130586	34891	592	0
+Luis Barcala	David Canovas Exposito	266999697008229	Facebook	0_50	0 - 50	ES	Spain	5	1	129590	34891	493	0
+Antonio Morales Méndez	Nueva Canarias	972435506102094	Facebook	0_50	0 - 50	ES	Spain	7	1	129588	28909	690	0
+Alejandro Langtry	Alejandro Langtry Cainzos	876647346005514	Facebook	0_50	0 - 50	ES	Spain	12	1	126592	42866	1184	0
+Barcelona en Comú	Barcelona en Comú	247118052078814	Facebook	0_50	0 - 50	ES	Spain	22	1	126582	34891	2171	0
+Eneko Goia	EAJ-PNV	1534682943444716	Facebook	0_50	0 - 50	ES	Spain	15	1	122602	32897	1480	0
+Junts per Catalunya	Junts per Catalunya	386166375144833	Facebook	0_50	0 - 50	ES	Spain	5	1	120618	29906	493	0
+Adrián Barbón	Federación Socialista Asturiana FSA-PSOE	281802578697399	Facebook	0_50	0 - 50	ES	Spain	4	1	119622	29906	394	0
+IU Xixón	Xixón por la Izquierda (IU+IAS)	144926585684140	Facebook	0_50	0 - 50	ES	Spain	6	1	119620	23925	592	0
+Pedro Santisteve Roche	Zaragoza en Común	543444259136619	Facebook	0_50	0 - 50	ES	Spain	4	1	114638	25919	394	0
+Denis Itxaso	PSE -EE	107905879550963	Facebook	0_50	0 - 50	ES	Spain	16	1	112594	32884	1577	0
+El Pi	El Pi - Proposta per les Illes Balears	399927196743648	Facebook	0_50	0 - 50	ES	Spain	4	1	110650	24922	394	0
+Tenerifegana	Coalición Canaria	1840231536105942	Facebook	0_50	0 - 50	ES	Spain	3	1	109654	24922	296	0
+PP Andaluz	PP Andaluz	1469275819951977	Facebook	0_50	0 - 50	ES	Spain	3	1	109654	24922	296	0
+Chunta Aragonesista		101179693581	Facebook	0_50	0 - 50	ES	Spain	3	1	109645	24920	296	0
+Silla en Democracia	Silla en Democràcia - Podemos	745713098877772	Facebook	0_50	0 - 50	ES	Spain	33	1	109624	21931	3256	0
+Mikel Buil García	Podemos Navarra	287876011759786	Facebook	0_50	0 - 50	ES	Spain	3	1	104670	20934	296	0
+Coalicion Canaria	Coalicion Canaria	1499578240271320	Facebook	0_50	0 - 50	ES	Spain	3	1	104670	20934	296	0
+Javier Rodríguez Palacios	PSOE de Alcalá de Henares	835026053225028	Facebook	0_50	0 - 50	ES	Spain	8	1	104665	32897	789	0
+Toni Postius	Partit Demòcrata Lleida	1590048664636534	Facebook	0_50	0 - 50	ES	Spain	12	1	101670	22928	1184	0
+Podemos Sevilla		791940034165890	Facebook	0_50	0 - 50	ES	Spain	1	1	99687	49844	98	0
+Elkarrekin Podemos Irabazi	Equo Berdeak	1623655824523219	Facebook	0_50	0 - 50	ES	Spain	2	1	99686	19937	197	0
+Jesús Santos	Unidas Podemos	1262476947185382	Facebook	0_50	0 - 50	ES	Spain	20	1	97675	19937	1973	0
+Populares De Ordes	Maria Dolores Caamaño Lata	1544054002507675	Facebook	0_50	0 - 50	ES	Spain	22	1	91691	22928	2171	0
+EQUO Colindres	Alejandro Ruben Ahumada Avila	2210011285700878	Facebook	0_50	0 - 50	ES	Spain	12	1	89707	19937	1184	0
+Més Per Menorca	Més per Menorca	787267558020320	Facebook	0_50	0 - 50	ES	Spain	16	1	89702	23924	1579	0
+Podem Illes Balears	Podem Illes Balears	779897522101509	Facebook	0_50	0 - 50	ES	Spain	5	1	84730	25919	493	0
+Amaia Del Campo Berasategi	EAJ-PNV	1590509731203726	Facebook	0_50	0 - 50	ES	Spain	6	1	84729	22928	592	0
+Sandra Gómez		228752914179024	Facebook	0_50	0 - 50	ES	Spain	6	1	80741	21931	592	0
+Populares Alicante Ciudad	David Canovas Exposito	1606596082927496	Facebook	0_50	0 - 50	ES	Spain	4	1	79747	24922	394	0
+Fernando Clavijo	Coalición Canaria	234189353400425	Facebook	0_50	0 - 50	ES	Spain	9	1	79742	20934	888	0
+Alternativa por Santomera	More Plus	943974322282936	Facebook	0_50	0 - 50	ES	Spain	6	1	76754	20934	592	0
+PSOE Palma	PSOE Palma	366167016874721	Facebook	0_50	0 - 50	ES	Spain	4	1	74762	20934	394	0
+Avaaz	Avaaz	8340223883	Facebook	0_50	0 - 50	ES	Spain	17	1	74749	14953	1677	0
+Jota Cañadas	Podemos	350245695551872	Facebook	0_50	0 - 50	ES	Spain	4	1	69778	16947	394	0
+Jaume Buscallà	Partit Demòcrata	302376660418671	Facebook	0_50	0 - 50	ES	Spain	4	1	65790	15950	394	0
+Podemos Soria	Jose Antonio Beltran Corredor	578645725562436	Facebook	0_50	0 - 50	ES	Spain	5	1	65789	12959	493	0
+Podemos Valdemoro	Podemos	2295459857184660	Facebook	0_50	0 - 50	ES	Spain	3	1	64794	15950	296	0
+Cs Huesca	Ciudadanos Aragón	406590509518850	Facebook	0_50	0 - 50	ES	Spain	4	1	64793	12959	394	0
+SOS Colabora		351877478951783	Facebook	0_50	0 - 50	ES	Spain	4	1	64793	12959	394	0
+Óscar Urralburu	Podemos Región de Murcia	569280556548471	Facebook	0_50	0 - 50	ES	Spain	11	1	63789	10965	1085	0
+Populares Olula	Soluciones Go On	1374497702829966	Facebook	0_50	0 - 50	ES	Spain	15	1	62788	11962	1480	0
+Unidas Podemos Ciudad Real	UNIDAS PODEMOS - IZQUIERDA UNIDA - EQUO CLM	1757569474344621	Facebook	0_50	0 - 50	ES	Spain	5	1	61802	11962	493	0
+Marc Solsona Aixalà	Partit Demòcrata Mollerussa	232946340978514	Facebook	0_50	0 - 50	ES	Spain	13	1	61794	14953	1282	0
+Cs Utebo	Ciudadanos Aragón	499028186926561	Facebook	0_50	0 - 50	ES	Spain	3	1	60807	14953	296	0
+Con Huesca	PODEMOS-EQUO	1939500672842601	Facebook	0_50	0 - 50	ES	Spain	3	1	60807	14953	296	0
+Francina Armengol Socias	PSIB-PSOE	343166605810231	Facebook	0_50	0 - 50	ES	Spain	2	1	59811	14953	197	0
+Lídia Senra		493249967447007	Facebook	0_50	0 - 50	ES	Spain	2	1	59811	14953	197	0
+Populares Ayamonte	Javier Aparicio	313897392129299	Facebook	0_50	0 - 50	ES	Spain	2	1	59811	14953	197	0
+Plan International España	Jose Manuel Bran Garcia	366619768708	Facebook	0_50	0 - 50	ES	Spain	2	1	59811	14953	197	0
+IU Córdoba Ciudad	IU Córdoba	830016950396132	Facebook	0_50	0 - 50	ES	Spain	2	1	59811	14953	197	0
+Socialistes de Gandia	PSPV-PSOE Gandia	57539806026	Facebook	0_50	0 - 50	ES	Spain	2	1	59811	14953	197	0
+Todos a una per L'Hospitalet	PSC Partit dels  Socialistes de Catalunya	946528468690932	Facebook	0_50	0 - 50	ES	Spain	3	1	59810	11962	296	0
+Populares Alcantarilla	populares alcantarilla	466365553502285	Facebook	0_50	0 - 50	ES	Spain	3	1	59810	11962	296	0
+Unidos Mostoles	Unidos Móstoles	795355574130668	Facebook	0_50	0 - 50	ES	Spain	3	1	59810	11962	296	0
+Inés Rey - PSOE	PSdeG-PSOE A Coruña	332466134032139	Facebook	0_50	0 - 50	ES	Spain	5	1	57814	10965	493	0
+Psc Barcelona	PSC Partit dels  Socialistes de Catalunya	439957149400799	Facebook	0_50	0 - 50	ES	Spain	3	1	55822	10965	296	0
+Vallsbcn2019		523998741449240	Facebook	0_50	0 - 50	ES	Spain	3	1	55822	10965	296	0
+Josep Llopart i Gardela #Piera57km	Partit Demòcrata	825969297509684	Facebook	0_50	0 - 50	ES	Spain	11	1	55814	13956	1085	0
+Compromiso por Europa	Compromís	373604602781028	Facebook	0_50	0 - 50	ES	Spain	2	1	54826	10965	197	0
+Parlament Europeu a Barcelona	Parlament Europeu a Barcelona	134590246581400	Facebook	0_50	0 - 50	ES	Spain	2	1	54826	10965	197	0
+Sa Unió de Formentera - Llorenç Córdoba Marí	Armando Tur Molina 	1046400572218493	Facebook	0_50	0 - 50	ES	Spain	2	1	54826	10965	197	0
+Espacio Municipalista por Teruel	PODEMOS - EQUO	259729308314802	Facebook	0_50	0 - 50	ES	Spain	2	1	50839	9968	197	0
+Esquerra d'Amposta	Esquerra Republicana	716042308461017	Facebook	0_50	0 - 50	ES	Spain	9	1	50832	15950	888	0
+No es política, Es Seseña	Partido Popular Seseña	207541725927600	Facebook	0_50	0 - 50	ES	Spain	11	1	50830	9968	1085	0
+BCN 2019: Volem un govern independentista		1667699733347144	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Arturo Aliaga López	PAR	696833660500986	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
 Partido Por un Mundo más Justo · M+J	Partido Por un Mundo más Justo · M+J	147468905314265	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
-Avaaz	Avaaz	8340223883	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
-PACMA - Partido Animalista	PACMA - Partido Animalista	72181181684	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
-PSIB	PSIB-PSOE	182797475074265	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
-Zaragoza en Común	Zaragoza en Común	1404651893174804	Facebook	0_50	0 - 50	ES	Spain	17	1	44842	6978	1677	0
-Denis Itxaso	PSE -EE	107905879550963	Facebook	0_50	0 - 50	ES	Spain	9	1	38854	12956	887	0
-Izquierda Xunida Riosa	Izquierda Xunida Riosa	1433628330234775	Facebook	0_50	0 - 50	ES	Spain	36	1	35852	0	3552	0
-Alejandro Langtry	Alejandro Langtry Cainzos	876647346005514	Facebook	0_50	0 - 50	ES	Spain	3	1	29903	14953	296	0
-IU Aragón	IU Aragón	178663732095	Facebook	0_50	0 - 50	ES	Spain	11	1	26904	3987	1085	0
-Jorge Azcón	Partido Popular Zaragoza	1005758609559650	Facebook	0_50	0 - 50	ES	Spain	18	1	25901	1993	1776	0
-Podemos Región de Murcia	Podemos Región de Murcia	1405445633036784	Facebook	0_50	0 - 50	ES	Spain	14	1	22914	4984	1381	0
-Podemos Aranjuez	Unidas Podemos Aranjuez	248379842014595	Facebook	0_50	0 - 50	ES	Spain	4	1	20930	6978	394	0
-Barcelona en Comú	Barcelona en Comú	247118052078814	Facebook	0_50	0 - 50	ES	Spain	2	1	19935	9968	197	0
-Coalición por El Bierzo	Coalición por El Bierzo	661476137308587	Facebook	0_50	0 - 50	ES	Spain	2	1	19935	9968	197	0
-Málaga Ahora	Málaga Ahora	781552348595473	Facebook	0_50	0 - 50	ES	Spain	4	1	19933	3987	394	0
-PSOE Extremadura	PSOE Extremadura	187170858138979	Facebook	0_50	0 - 50	ES	Spain	4	1	19911	3983	394	0
-Sandra x Tomiño	Bloque Nacionalista Galego de Tomiño	623179161441345	Facebook	0_50	0 - 50	ES	Spain	4	1	19857	3972	393	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	0_50	0 - 50	ES	Spain	4	1	16484	4770	38	0
-Somos Alcalá	Somos Alcalá	691838637600242	Facebook	0_50	0 - 50	ES	Spain	6	1	13950	1993	592	0
-Agrupación Municipal PSOE Huelva	Agrupación Municipal PSOE Huelva	372909479493645	Facebook	0_50	0 - 50	ES	Spain	4	1	11958	1993	394	0
-Cambiemos Orihuela	Cambiemos Orihuela - CLARO: Unidas Podemos	341229742754620	Facebook	0_50	0 - 50	ES	Spain	2	1	10963	4984	197	0
-Izquierda Unida-Verdes de la Región de Murcia	Izquierda Unida-Verdes de la Región de Murcia	183160728395595	Facebook	0_50	0 - 50	ES	Spain	3	1	10962	1993	296	0
-Populares Ayamonte	Javier Aparicio	313897392129299	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
-Federación Socialista Asturiana FSA-PSOE	Federación Socialista Asturiana FSA-PSOE	48426568814	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
-Guanyem Badalona en Comú	Esquerra Republicana de Catalunya	445003612308437	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
-Juan Pedro Yllanes	Podem Illes Balears	514070155440534	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
-Podemos Aragón	Podemos Equo	570770963015441	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
-Arturo Aliaga López	PAR	696833660500986	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
-Teresa Mallada De Castro	Partido Popular de Asturias	2175837676009250	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
-Diana Morant Ripoll	PSPV-PSOE Gandia	395203127349684	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
-Círculo Podemos Alcobendas	Podemos	1778334822381065	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
-Socialistes de Gandia	PSPV-PSOE Gandia	57539806026	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
-Emiliano García-Page Sánchez	Emiliano García-Page Sánchez	131662690193032	Facebook	0_50	0 - 50	ES	Spain	2	1	9966	1993	197	0
-Anna Erra	Partit Demòcrata	358953041585237	Facebook	0_50	0 - 50	ES	Spain	2	1	9966	1993	197	0
-Populares De Ordes	Maria Dolores Caamaño Lata	1544054002507675	Facebook	0_50	0 - 50	ES	Spain	5	1	8967	996	493	0
-Lourdes Ciuró	Partit Demòcrata	553752911726041	Facebook	0_50	0 - 50	ES	Spain	5	1	8967	996	493	0
-PS Móstoles	PS Móstoles	328021943957505	Facebook	0_50	0 - 50	ES	Spain	5	1	8967	996	493	0
-Silla en Democracia	Silla en Democràcia - Podemos	745713098877772	Facebook	0_50	0 - 50	ES	Spain	7	1	6971	0	690	0
-Rosa Galindo Málaga Ahora	Málaga Ahora	283962895855799	Facebook	0_50	0 - 50	ES	Spain	2	1	5979	996	197	0
-Se Puede Villarrobledo	Se Puede Villarrobledo - Podemos - Equo	1402189470095566	Facebook	0_50	0 - 50	ES	Spain	2	1	5979	996	197	0
-Izquierda Nacional de los Trabajadores - INTRA -  Figueres	Jaime Farrerons Sanchez	398513670329567	Facebook	0_50	0 - 50	ES	Spain	2	1	5979	996	197	0
-Unidos Mostoles	Unidos Móstoles	795355574130668	Facebook	0_50	0 - 50	ES	Spain	2	1	5979	996	197	0
-Gema Gil Mira	Unidas Podemos	354000792075872	Facebook	0_50	0 - 50	ES	Spain	2	1	5979	996	197	0
-Noticias Para Municipios	Noticias Para Municipios	1379602938926936	Facebook	0_50	0 - 50	ES	Spain	2	1	5979	996	197	0
-PSOE Getafe	PSOE Getafe	466283470091128	Facebook	0_50	0 - 50	ES	Spain	6	1	5975	0	592	0
-Diego Conesa Alcaraz	Partido Socialista de la Región de Murcia	1597999790219205	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
-Alba Leo	Podemos	404585820104810	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
-Partit Demòcrata Palafrugell	Partit Demòcrata	1519791624941798	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
-EAJ PNV Gipuzkoa	EAJ-PNV	144273808967495	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
-Amaya Fernández	PP	486996548359961	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
-Daniel Pérez Calvo	Ciudadanos Aragón	336805893626345	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
-Anticapitalistas Región de Murcia	Anticapitalistas Región de Murcia	414037395418648	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
-Navarra Suma	Navarra Suma	401519690408274	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
-EAJ PNV Bilbao	EAJ-PNV	901614836545126	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
-Puyalón de Cuchas	Puyalon de Cuchas	265047063604121	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
-Mikel Buil García	Podemos Navarra	287876011759786	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
-Jaume Dulsat	Partit Demòcrata	815191145191798	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
-Miquel Noguer	Partit Demòcrata	894210980661764	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
-Junts Pel Vendrell	Partit Demòcrata	835384499831767	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
-Amaia Del Campo Berasategi	EAJ-PNV	1590509731203726	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
-Antonio Morales Méndez	Nueva Canarias	972435506102094	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Recortes Cero	Recortes Cero	655009961299527	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Uddepartido		424935661578711	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Alberto Cubero	Zaragoza en Común	1173805876010899	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Javier Couso	Izquierda en Positivo - Revolución Ciudadana	437735729613879	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Somos Miel		363084687812526	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Javier Castillo Soria	Grupo Municipal Socialista PSOE	352280815609769	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Xabier Iridoy	EAJ-PNV	1892692694210010	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Rosa Dávila	Coalicion Canaria	795108214204276	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Primàries Cambrils		386403462096635	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Estamos Hartos		327764797813082	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Junts per Terrassa	Partit Demòcrata Terrassa	149771515164339	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+BNG Vigo		955837964434782	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Catalunya Actúa		298907624088541	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Nacho Escartín Lasierra	PODEMOS - EQUO Nacho Escartín	1566472333633590	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Dani Pérez		573508279661673	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+PP de Poio	Gabinete Peregrina	308143329389594	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+PP Arroyo Encomienda		373325309500947	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Román Rodríguez		757713757627296	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Podemos Teruel	PODEMOS EQUO	1438518336381730	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Raul Camargo		1287726361241252	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+BNG - Bloque Nacionalista Galego	Bloque Nacionalista Galego	128341470548824	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Pablo Fernández		800470050043391	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+PP Sant Josep de Sa Talaia	We Love Media	170564149636280	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Ramiro González	EAJ-PNV	723385821080169	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Cs Lanzarote		919686194749568	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Podem Mallorca	Podem Illes Balears	500797436704410	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Podem Manacor	Unidas Podemos	891685390849011	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Nacho Cuesta	Ciudadanos	267058447516650	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Adriana Valverde		1862573533787997	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Juan Pedro Yllanes	Podem Illes Balears	514070155440534	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Partit Popular d'Es Mercadal i Fornells		664743753722867	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Pablo Rodríguez		178720995125	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Jaume Dulsat	Partit Demòcrata	815191145191798	Facebook	0_50	0 - 50	ES	Spain	1	1	49843	9968	98	0
+Izquierda Unida-Verdes de la Región de Murcia	Izquierda Unida-Verdes de la Región de Murcia	183160728395595	Facebook	0_50	0 - 50	ES	Spain	11	1	49833	17943	1085	0
+Podemos Estepona		1498722510220603	Facebook	0_50	0 - 50	ES	Spain	1	1	49554	9911	98	0
+PODEM Llucmajor	Eduardo Eugenio Zúñiga Solari	1414978035452905	Facebook	0_50	0 - 50	ES	Spain	11	1	48836	14953	1085	0
+Podemos Telde	Saul Rodriguez Noda	592123944240438	Facebook	0_50	0 - 50	ES	Spain	12	1	48835	11962	1184	0
+PP de Martorell	Jose Maria Arpal Ruiz	824852750922117	Facebook	0_50	0 - 50	ES	Spain	16	1	47834	7975	1579	0
+PP Almassora	Partido Popular de Castellón	163806500332042	Facebook	0_50	0 - 50	ES	Spain	10	1	46843	11962	986	0
+Carles Ruiz Novella	Partit dels Socialistes de Catalunya	157520837699129	Facebook	0_50	0 - 50	ES	Spain	5	1	44854	20934	493	0
+Podemos Torrent	Carmen Verdet	552871428141723	Facebook	0_50	0 - 50	ES	Spain	9	1	44850	8971	888	0
+Partido Popular de Nules	Partido Popular de Casteellón	1427834000839960	Facebook	0_50	0 - 50	ES	Spain	11	1	42855	7975	1085	0
+Junts per Vilafranca	Junts per Vilafranca	1160033834115342	Facebook	0_50	0 - 50	ES	Spain	8	1	41861	13956	789	0
+Pere Granados, l’alcalde, Sumem per Salou	FUPS	1427116254248859	Facebook	0_50	0 - 50	ES	Spain	9	1	41860	10965	888	0
+Castelldefels Si Puede /Si Pot	Som Castelldefels	924258124258421	Facebook	0_50	0 - 50	ES	Spain	10	1	41859	7975	986	0
+Llibertat Llucmajor	Alexandro Gaffar	332236716900076	Facebook	0_50	0 - 50	ES	Spain	9	1	40863	7975	888	0
+Emilio Bascuñana Galiano -Alcalde de Orihuela-	Emilio Bascuñana	944547472345842	Facebook	0_50	0 - 50	ES	Spain	5	1	39870	16947	493	0
+AMA MORON	Isidoro Ignacio Albarreal Nuñez	125820130786950	Facebook	0_50	0 - 50	ES	Spain	5	1	39870	16947	493	0
+Miquel Noguer	Partit Demòcrata	894210980661764	Facebook	0_50	0 - 50	ES	Spain	6	1	39869	13956	592	0
+Partit Demòcrata Palafrugell	Partit Demòcrata	1519791624941798	Facebook	0_50	0 - 50	ES	Spain	8	1	39867	7975	789	0
+Compromís per Alacant	Compromís	123505567686967	Facebook	0_50	0 - 50	ES	Spain	9	1	38869	12959	888	0
+La terraza de Javier		272955623639436	Facebook	0_50	0 - 50	ES	Spain	8	1	36537	12503	678	0
+Somos Alcalá	Somos Alcalá	691838637600242	Facebook	0_50	0 - 50	ES	Spain	20	1	35868	3987	1973	0
+Podemos Xixón	Podemos Xixón	260343850795969	Facebook	0_50	0 - 50	ES	Spain	4	1	34887	15950	394	0
+Rosa Maria Perelló Escoda	Partit Demòcrata	288257115198192	Facebook	0_50	0 - 50	ES	Spain	6	1	34885	9968	592	0
+Podemos Torrejón de Ardoz	Podemos Torrejón de Ardoz	394489317377199	Facebook	0_50	0 - 50	ES	Spain	10	1	34881	8971	986	0
+David Font	Partit Demòcrata	359856057946638	Facebook	0_50	0 - 50	ES	Spain	14	1	33880	4984	1381	0
+Psoe de Montoro	Psoe Montoro	298791370226491	Facebook	0_50	0 - 50	ES	Spain	13	1	32884	4984	1282	0
+Junts per Catalunya - Girona	OKMarketing	942049819146312	Facebook	0_50	0 - 50	ES	Spain	5	1	31895	14953	493	0
+Podemos Molina de Segura	Podemos Molina de Segura	199656166909680	Facebook	0_50	0 - 50	ES	Spain	12	1	31888	4984	1184	0
+Som VNG	Som VNG	435703536588064	Facebook	0_50	0 - 50	ES	Spain	4	1	30899	14953	394	0
+Se Puede Villarrobledo	Se Puede Villarrobledo - Podemos - Equo	1402189470095566	Facebook	0_50	0 - 50	ES	Spain	4	1	30899	14953	394	0
+Cambiar la Región de Murcia	Cambiar la Región de Murcia 	785150365201919	Facebook	0_50	0 - 50	ES	Spain	5	1	30898	11962	493	0
+Primaries Lliçà d'Amunt	Lliçà per la República	2225135660883578	Facebook	0_50	0 - 50	ES	Spain	7	1	30896	5981	690	0
+Unidas Podemos - Izquierda Unida Verdes - Equo Cartagena	Viviana Cristina Villamarin Martinez	368920317028055	Facebook	0_50	0 - 50	ES	Spain	3	1	29903	14953	296	0
+Diana Morant Ripoll	PSPV-PSOE Gandia	395203127349684	Facebook	0_50	0 - 50	ES	Spain	4	1	29902	11962	394	0
+Pep Berga Vayreda	Junts per Catalunya Olot	409193516309406	Facebook	0_50	0 - 50	ES	Spain	5	1	29901	8971	493	0
+Partido Popular Burriana	Partido Popular de Castellón	115193925191992	Facebook	0_50	0 - 50	ES	Spain	5	1	29901	8971	493	0
+Lourdes Ciuró	Partit Demòcrata	553752911726041	Facebook	0_50	0 - 50	ES	Spain	5	1	29901	8971	493	0
+Populares San Juan del Puerto	Javier Aparicio	941795292499782	Facebook	0_50	0 - 50	ES	Spain	6	1	29900	5981	592	0
+Compromís per Novelda	Compromís	661474610630519	Facebook	0_50	0 - 50	ES	Spain	9	1	29897	7975	888	0
+Puyalón de Cuchas	Puyalon de Cuchas	265047063604121	Facebook	0_50	0 - 50	ES	Spain	9	1	28900	4984	888	0
+Izquierda Unida Rivas Vaciamadrid	Izquierda Unida Rivas - Equo - Más Madrid	738976696156653	Facebook	0_50	0 - 50	ES	Spain	4	1	25915	10965	394	0
+EAJ PNV Basauri	EAJ-PNV	755146587935006	Facebook	0_50	0 - 50	ES	Spain	5	1	25914	7975	493	0
+Partido Popular de L'Alcora	Partido Popular de Castellón	1559792397568187	Facebook	0_50	0 - 50	ES	Spain	6	1	25913	4984	592	0
+Libres Por Algeciras	Alberto Antonio Perez Mesa	447052215766322	Facebook	0_50	0 - 50	ES	Spain	5	1	25908	7972	493	0
+Partido por la Igualdad Real	Partido por la Igualdad Real	1981091215462211	Facebook	0_50	0 - 50	ES	Spain	3	1	24919	10965	296	0
+PSOE de Fene	PSOE de Fene	146049022108085	Facebook	0_50	0 - 50	ES	Spain	3	1	24919	10965	296	0
+Partido Popular La Vall d'Uixó	Partido Popular de Castellón	125947377462204	Facebook	0_50	0 - 50	ES	Spain	4	1	24918	7975	394	0
+Diego Conesa Alcaraz	Partido Socialista de la Región de Murcia	1597999790219205	Facebook	0_50	0 - 50	ES	Spain	4	1	24918	7975	394	0
+Podemos Getafe	Podemos	237626009756798	Facebook	0_50	0 - 50	ES	Spain	4	1	24918	7975	394	0
+Isidre Casas, Junts per Gavà	Partit Demòcrata Gavà	2298526023531479	Facebook	0_50	0 - 50	ES	Spain	4	1	24918	7975	394	0
+PP Aljaraque	Javier Aparicio	777735922339731	Facebook	0_50	0 - 50	ES	Spain	5	1	24917	4984	493	0
+Anna Magrinyà	Partit Demòcrata Europeu Català	301793433818687	Facebook	0_50	0 - 50	ES	Spain	5	1	24917	4984	493	0
+Xavier Amate, Junts per Castelldefels	Partit Demòcrata	1375311502799544	Facebook	0_50	0 - 50	ES	Spain	5	1	24917	4984	493	0
+Unidas por Collado Villalba	Unidas Podemos Collado Villalba	2292665334345095	Facebook	0_50	0 - 50	ES	Spain	5	1	21926	6978	493	0
+Juan Fuster Torres	Partido Popular de Castellón	437897423033447	Facebook	0_50	0 - 50	ES	Spain	6	1	21925	3987	592	0
+EAJ PNV Santurtzi	EAJ-PNV	185257748170049	Facebook	0_50	0 - 50	ES	Spain	3	1	20931	9968	296	0
+Compromís Per Meliana	Joan Orts Ruiz	1557491081129008	Facebook	0_50	0 - 50	ES	Spain	5	1	20929	3987	493	0
+Junts per l'Ametlla de Mar	Partit Demòcrata	644189849026398	Facebook	0_50	0 - 50	ES	Spain	5	1	20929	3987	493	0
+Alicia Vanoostende	Roberto Miguel Vicente Nazco	727202517464550	Facebook	0_50	0 - 50	ES	Spain	2	1	19935	9968	197	0
+Gabriel Mato	Gabriel Mato Adrover	629830667519269	Facebook	0_50	0 - 50	ES	Spain	2	1	19935	9968	197	0
+Junts Pel Vendrell	Partit Demòcrata	835384499831767	Facebook	0_50	0 - 50	ES	Spain	3	1	19934	6978	296	0
+Círculo Podemos Alcobendas	Podemos	1778334822381065	Facebook	0_50	0 - 50	ES	Spain	4	1	19933	3987	394	0
+Podemos Pinto	Podemos	565386046893802	Facebook	0_50	0 - 50	ES	Spain	4	1	16943	5981	394	0
+Mariano Vicente - Podemos Molina	Podemos Molina de Segura	312148542802714	Facebook	0_50	0 - 50	ES	Spain	5	1	16942	2990	493	0
+Partido Aragonés - PAR	Hugo Ismael Miquele Vela	177245072451394	Facebook	0_50	0 - 50	ES	Spain	3	1	15947	5981	296	0
+Marc Vinya Miralles	Partit Demòcrata Montblanc	1855728601181022	Facebook	0_50	0 - 50	ES	Spain	3	1	15947	5981	296	0
+Esquerra Unida de Ibi	Esquerra Unida	470333199739890	Facebook	0_50	0 - 50	ES	Spain	3	1	15947	5981	296	0
+Ganar Teruel	Ganar Teruel	1564635077131450	Facebook	0_50	0 - 50	ES	Spain	3	1	15947	5981	296	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	0_50	0 - 50	ES	Spain	4	1	15946	2990	394	0
+Equo Fuenlabrada	Alejandro Alvarez Carrillo	352782308243336	Facebook	0_50	0 - 50	ES	Spain	4	1	15946	2990	394	0
+Populares de Benicàssim	Partido Popular de Castellón	303036950144274	Facebook	0_50	0 - 50	ES	Spain	4	1	15946	2990	394	0
+Populares Alcalà de Xivert-Alcossebre	Partido Popular de Castellón	785863828121806	Facebook	0_50	0 - 50	ES	Spain	4	1	15946	2990	394	0
+Unidas Podemos Izquierda Unida Alcalá de Henares	Unidas Podemos Izquierda Unida Alcalá de Henares	353863648591995	Facebook	0_50	0 - 50	ES	Spain	4	1	15946	2990	394	0
+Podemos Móstoles	Podemos	215650701965432	Facebook	0_50	0 - 50	ES	Spain	4	1	15946	2990	394	0
+Alba Leo	Podemos	404585820104810	Facebook	0_50	0 - 50	ES	Spain	4	1	15946	2990	394	0
+PP Ciutat Eivissa	Armando Tur Molina 	356561798504417	Facebook	0_50	0 - 50	ES	Spain	2	1	14951	5981	197	0
+Juana Sánchez González		1604221496477583	Facebook	0_50	0 - 50	ES	Spain	2	1	14951	5981	197	0
+Junts x Sant Vicenç	Esquerra Republicana de Catalunya	275186479231800	Facebook	0_50	0 - 50	ES	Spain	2	1	14951	5981	197	0
+Psc Sant Adrià	PSC Barcelonès Nord	1712312002322208	Facebook	0_50	0 - 50	ES	Spain	2	1	14951	5981	197	0
+Eaj Pnv Bergara	EAJ-PNV	1545961079001852	Facebook	0_50	0 - 50	ES	Spain	2	1	14951	5981	197	0
+Álvaro Muñiz	Angel Garcia Moran	324371974873614	Facebook	0_50	0 - 50	ES	Spain	2	1	14951	5981	197	0
+Podemos Equo Monzón	PODEMOS - EQUO	1734318420047829	Facebook	0_50	0 - 50	ES	Spain	2	1	14951	5981	197	0
+Podemos Coslada	Podemos	799497176799582	Facebook	0_50	0 - 50	ES	Spain	2	1	14951	5981	197	0
+Populares Cortegana	Javier Aparicio	916451548365332	Facebook	0_50	0 - 50	ES	Spain	3	1	14950	2990	296	0
+Círculo Podemos Santa Brígida	Saul Rodriguez Noda	1450410485213943	Facebook	0_50	0 - 50	ES	Spain	3	1	14950	2990	296	0
+Montserrat Candini	Partit Demòcrata	397244293705295	Facebook	0_50	0 - 50	ES	Spain	3	1	14950	2990	296	0
+IU-Verdes de Yecla	IU-Verdes de Yecla	476381485791585	Facebook	0_50	0 - 50	ES	Spain	3	1	14950	2990	296	0
+Junts per Gandesa	Partit Demòcrata	389273491901391	Facebook	0_50	0 - 50	ES	Spain	3	1	14950	2990	296	0
+Más Sigüenza con Latre	Populares de Sigüenza	358425714768150	Facebook	0_50	0 - 50	ES	Spain	3	1	14950	2990	296	0
+Junts Per Catalunya-Malgrat ens Mou	Junts Per Catalunya	199450580178883	Facebook	0_50	0 - 50	ES	Spain	10	1	13946	996	986	0
+Equo Region Murcia	#PodemosEquo Región de Murcia	134332526643687	Facebook	0_50	0 - 50	ES	Spain	4	1	12955	4984	394	0
+PSOE Alhaurín de la Torre	Francisco Sergio Cobos Jimenez	346416765548122	Facebook	0_50	0 - 50	ES	Spain	5	1	12954	1993	493	0
+Populares Segorbe	Partido Popular de Castellón	554183591272527	Facebook	0_50	0 - 50	ES	Spain	5	1	12954	1993	493	0
+UNRWA España		105664031745	Facebook	0_50	0 - 50	ES	Spain	12	1	11950	0	1184	0
+Coordinadora de ONGD Euskadi		169810536407804	Facebook	0_50	0 - 50	ES	Spain	2	1	10963	4984	197	0
+Daniel Pérez Calvo	Ciudadanos Aragón	336805893626345	Facebook	0_50	0 - 50	ES	Spain	2	1	10963	4984	197	0
+EAJ PNV Bizkaiko Batzarkide Taldea	EAJ-PNV	1650615621908144	Facebook	0_50	0 - 50	ES	Spain	2	1	10963	4984	197	0
+Podemos San Fernando de Henares	Podemos	918662134832058	Facebook	0_50	0 - 50	ES	Spain	2	1	10963	4984	197	0
+European Parliament	European Parliament	178362315106	Facebook	0_50	0 - 50	ES	Spain	3	1	10962	1993	296	0
+Compromís Vilamarxant	Coalició Compromís	311797152344714	Facebook	0_50	0 - 50	ES	Spain	3	1	10962	1993	296	0
+Pilar Alegría 2019	PSOE Aragón	1603193216419322	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Tasio Oliver		655423944578793	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Compromiso Carballo		293036537520586	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+José García Molina	UNIDAS PODEMOS - IZQUIERDA UNIDA - EQUO CLM	797997270295735	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Eaj Pnv Zarautz	EAJ-PNV	960943673929825	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Podemos Collado Villalba		618478218243093	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Comuns Verds de Sitges		1890647804336621	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Núvol, digital de cultura		267615613304147	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Podemos Villanueva de la cañada	Podemos	662291784204572	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+EAJ PNV Gasteiz	EAJ-PNV	361156510606830	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Populars Eivissa	Armando Tur Molina 	227979920592904	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Héctor Amelló		517387635446621	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+SALOU 2019 #Ilusiónatesalou		322855728579134	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Agrupación Socialista de Ermua		1534401370139531	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Roberto Martin		629381480868076	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Socialistas Hinojosa		1631076820466445	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Partit Popular Es Castell		358481627646129	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Podemos Marbella-San Pedro		412510325557985	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Compromís Per Elx		168346943227090	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Psoe Medina Sidonia		1056674257681921	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Instituto Internacional de Derecho y Medio Ambiente (IIDMA)	Laura Fernández Dobarro	219220477095	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+FORO Langreo		666956377087349	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Psc Psoe San Miguel	Samuel De Leon Paez	1434494450176553	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Vox Burjassot		1445195465794038	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Unión X Cambre	Unión por Cambre	811285152318042	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Podemos Extremadura		1838315949778776	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+HIJOS de Canarias		104622647031678	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Compromís Per Santa Pola		538691436152431	Facebook	0_50	0 - 50	ES	Spain	1	1	9967	4984	98	0
+Julen Bollain	Julen Bollain Urbieta	1836848633210351	Facebook	0_50	0 - 50	ES	Spain	2	1	9966	1993	197	0
+Junts per Catalunya - Vidreres	Partit Demòcrata Vidreres	265760857701334	Facebook	0_50	0 - 50	ES	Spain	2	1	9966	1993	197	0
+Podemos Tres Cantos	Podemos	461925483909796	Facebook	0_50	0 - 50	ES	Spain	2	1	9966	1993	197	0
+José Luis Álvarez-Castellanos	Izquierda Unida-Verdes de la Región de Murcia	497837620674026	Facebook	0_50	0 - 50	ES	Spain	2	1	9966	1993	197	0
+Junts per Alcanar, Les Cases i Alcanar Platja	Partit Demòcrata Alcanar	347855422067565	Facebook	0_50	0 - 50	ES	Spain	2	1	9966	1993	197	0
+Compromís Per Canals	Compromís	747961705317569	Facebook	0_50	0 - 50	ES	Spain	2	1	9966	1993	197	0
+Podemos Aranjuez	Unidas Podemos Aranjuez	248379842014595	Facebook	0_50	0 - 50	ES	Spain	2	1	9966	1993	197	0
+PSC Santa Coloma de Gramenet	PSC Barcelonè Nord	374309346062173	Facebook	0_50	0 - 50	ES	Spain	2	1	9966	1993	197	0
+PSOE de Pegalajar	Manuel Carrascosa Torres	172141569503835	Facebook	0_50	0 - 50	ES	Spain	2	1	9966	1993	197	0
+Eduard Vallhonesta2019	Eduard Vallhonesta Alarcon	2146850768970550	Facebook	0_50	0 - 50	ES	Spain	2	1	9966	1993	197	0
+Lo que de verdad importa	Komons	2267123640272827	Facebook	0_50	0 - 50	ES	Spain	2	1	9966	1993	197	0
+Fundació Nexe		167062453314438	Facebook	0_50	0 - 50	ES	Spain	2	1	9966	1993	197	0
+Anticapitalistas Región de Murcia	Anticapitalistas Región de Murcia	414037395418648	Facebook	0_50	0 - 50	ES	Spain	2	1	9966	1993	197	0
+Podemos Euskadi	Podemos Euskadi	713474208684131	Facebook	0_50	0 - 50	ES	Spain	2	1	9923	1985	196	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	0_50	0 - 50	ES	Spain	4	1	8418	2070	26	0
+Quim Nin	PDeCAT	359619161334700	Facebook	0_50	0 - 50	ES	Spain	4	1	7971	996	394	0
+Noticias Para Municipios	Noticias Para Municipios	1379602938926936	Facebook	0_50	0 - 50	ES	Spain	3	1	6975	996	296	0
+Wicker Brand	Wicker Brand	286043659015983	Facebook	0_50	0 - 50	ES	Spain	3	1	6975	996	296	0
+Junts per Torrefarrera	Partit Demòcrata Torrefarrera	314789169229836	Facebook	0_50	0 - 50	ES	Spain	3	1	6975	996	296	0
+MÉS per Marratxí	MÉS per Marratxí	638585286260533	Facebook	0_50	0 - 50	ES	Spain	3	1	6975	996	296	0
+Podemos Castilla y León	PODEMOS-EQUO	863242077051034	Facebook	0_50	0 - 50	ES	Spain	3	1	6975	996	296	0
+Podem Alboraia	Podem Alboraia	228848457326161	Facebook	0_50	0 - 50	ES	Spain	3	1	6975	996	296	0
+Populares De Peñíscola	Partido Popular de Castellón	1487174738219101	Facebook	0_50	0 - 50	ES	Spain	2	1	5979	996	197	0
+PSPV Meliana	Manuel Carrasquero Viana	103012326454230	Facebook	0_50	0 - 50	ES	Spain	2	1	5979	996	197	0
+Adelante Guillena	Martin Calero Campos	684006968623526	Facebook	0_50	0 - 50	ES	Spain	2	1	5979	996	197	0
+Rosa Huguet Sugranyes	Partit Demòcrata	867202106659120	Facebook	0_50	0 - 50	ES	Spain	2	1	5979	996	197	0
+Avanza Mairena		1538644049757829	Facebook	0_50	0 - 50	ES	Spain	2	1	5979	996	197	0
+Unidas Podemos Fuenlabrada	Unidas Podemos Fuenlabrada	440393949836132	Facebook	0_50	0 - 50	ES	Spain	2	1	5979	996	197	0
+APV Valdetorres		291566795101554	Facebook	0_50	0 - 50	ES	Spain	2	1	5979	996	197	0
+Compromís Per Mislata	Compromís per Mislata	103355896478851	Facebook	0_50	0 - 50	ES	Spain	2	1	5979	996	197	0
+Begoña Villacís	Ciudadanos	1622391081324918	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+PACMA Córdoba		204614282979761	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Bruno Sanchez-Andrade Nuño	Bruno Sánchez-Andrade Nuño	577736392709846	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+VOX Villanueva de la Torre		316903072363234	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Podemos Lorca	Podemos Lorca	363309837140516	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Avanzamos Dos Hermanas		579353562545374	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Podemos Puerto Lumbreras	Podemos Puerto Lumbreras	1431945200419751	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Populars Vila-real	Populars Vila-real	447233345319164	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Compromís Castellar-Oliveral		1397295170596597	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+QuorumGlobal		375162949584552	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+PP Benicarló	Partido Popular de Castellón	1420894774880521	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Zure Errenteria	EAJ-PNV	384100758421614	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Eaj-Pnv Pasaia	EAJ-PNV	268907249933174	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+PSC Partit dels  Socialistes de Catalunya	PSC Partit dels  Socialistes de Catalunya	87930687376	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Natalia De Andres		871784613154206	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Nueva Canarias Santa Úrsula		395967544537308	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Populares Rojales		1508355526091555	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+En Comú Podem	En Comú Podem	463627663844039	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Junts Per Bellpuig	Partit Demòcrata	362449257697614	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Arraun Zumaia	EAJ-PNV	1256791594490251	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Partido Popular de Castellón	Partido Popular de Castellón	362567122173	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Solidaria Erandio		778303995900558	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Castelló en moviment	Podem-CseM-EUPV	825146677518454	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Mas Jaca / Podemos-Equo Jacetania	PODEMOS-EQUO	698485243552490	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Olatz Peon Ormazabal	EAJ-PNV	1044164505611049	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Partido Popular Vinaròs	Partido Popular de Castellón	165294503604737	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+VoxPaterna		888073284868899	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Núria Parlon Gil	PSC Barcelonès Nord	214337925386767	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Socialistes De Montgat	PSC Barcelonès Nord	1668752900076447	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Tulfo & Piltri	Carolina Carratala Camps	113875629284677	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Ciudad Rodrigo en Común	Ciudad Rodrigo en Común	210283952340969	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Partido Popular Móstoles		289263584794550	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+AxSí-Huelva		1790377561259477	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Somos Lanzarote		1632900360271233	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Podemos ganar Ávila		556953581118337	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Adelante Málaga		402899933870674	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+JuntsxCat - Olesa		187039135375342	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+JUNTS PER SALT	Partit Demòcrata	335382510345214	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Partido Popular Huévar del Aljarafe		403767163122954	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Podemos Cartagena	Viviana Cristina Villamarin Martinez	696640987043018	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Cs Palazuelos de Eresma		2203114556444188	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Anticapitalistas Murcia	Anticapitalistas Región de Murcia	448332748542132	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+PSOE de Herrera		161560130579316	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Podem/Podemos El Vendrell		472875336186577	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Pere Blanco		889290647784591	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Compromís per Constantí		573262649853476	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+PCTE Asturies		1468898180067574	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Podemos San Sebastian de los Reyes	Podemos	1456358921140848	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Loli Veiga Centristas de Valdoviño		329543821053528	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Ana Isabel Jiménez Contreras		1692288847756997	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Gema Gil Mira	Unidas Podemos	354000792075872	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Podemos Sant Cugat del Vallès		723597814374268	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+San Joan de les Abadesses, Un Pueblo Fénix		154492497925927	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Unidas Pinto		515421041917460	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+IU Cieza		347850745372218	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Ahora Canarias Aguimes	Olegario De La Cruz Vega	249850985949345	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
 Andoaingo EAJ PNV	EAJ-PNV	353374364850279	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
-Gorka Urtaran	EAJ-PNV	300674273455291	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
-Pedro Santisteve Roche	Zaragoza en Común	543444259136619	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
-Óscar Urralburu	Podemos Región de Murcia	569280556548471	Facebook	0_50	0 - 50	ES	Spain	5	1	4979	0	493	0
-Psoe de Montoro	Psoe Montoro	298791370226491	Facebook	0_50	0 - 50	ES	Spain	5	1	4979	0	493	0
-Unidas Podemos Fuenlabrada	Unidas Podemos Fuenlabrada	440393949836132	Facebook	0_50	0 - 50	ES	Spain	4	1	3983	0	394	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	0_50	0 - 50	ES	Spain	2	1	3081	751	9	0
-PODEM Llucmajor	Eduardo Eugenio Zúñiga Solari	1414978035452905	Facebook	0_50	0 - 50	ES	Spain	3	1	2987	0	296	0
-Podemos Móstoles	Podemos	215650701965432	Facebook	0_50	0 - 50	ES	Spain	3	1	2987	0	296	0
-Compromís per Novelda	Compromís	661474610630519	Facebook	0_50	0 - 50	ES	Spain	2	1	1991	0	197	0
-Podemos Molina de Segura	Podemos Molina de Segura	199656166909680	Facebook	0_50	0 - 50	ES	Spain	2	1	1991	0	197	0
-Podem Morvedre	PODEMOS.	249370875231775	Facebook	0_50	0 - 50	ES	Spain	2	1	1991	0	197	0
-Llibertat Llucmajor	Alexandro Gaffar	332236716900076	Facebook	0_50	0 - 50	ES	Spain	2	1	1991	0	197	0
-Podemos San Fernando de Henares	Podemos	918662134832058	Facebook	0_50	0 - 50	ES	Spain	2	1	1991	0	197	0
-Jesús Santos	Podemos	1262476947185382	Facebook	0_50	0 - 50	ES	Spain	2	1	1991	0	197	0
-Unidas por Collado Villalba	Unidas Podemos Collado Villalba	2292665334345095	Facebook	0_50	0 - 50	ES	Spain	2	1	1991	0	197	0
-PP Aljaraque	Javier Aparicio	777735922339731	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
-Esquerra d'Amposta	Esquerra Republicana	716042308461017	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
-Carles Ruiz Novella	Partit dels Socialistes de Catalunya	157520837699129	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
-Equo Region Murcia	#PodemosEquo Región de Murcia	134332526643687	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
-Ginés Ruiz Maciá	Podemos Murcia	544345212751615	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
-Podemos Valdemoro	Podemos	2295459857184660	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
-Joan Ribó	Compromís	136302299749630	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
-Elena Allué ZGZ	Partido Aragonés	1066267686904935	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
-Junts per l'Ametlla de Mar	Partit Demòcrata	644189849026398	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
-VOX España		467127060059387	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
-Junts per Catalunya	Junts per Catalunya	386166375144833	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
-Junts per Catalunya - Vidreres	Partit Demòcrata Vidreres	265760857701334	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Eaj Azpeitia	EAJ-PNV	1477625715685677	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Izquierda Ezkerra		752502381501505	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Aranzadi		423318967832014	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+estergallego_somcatalans		569769910184754	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Junts per Cervera	Partit Demòcrata	2351662581778293	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Juventudes Socialistas de Canarias		253926151402445	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Óscar Rodríguez-Centrados en Viveiro		338096020232327	Facebook	0_50	0 - 50	ES	Spain	1	1	4983	996	98	0
+Junts per Catalunya - El Palau d'Anglesola	Partit Demòcrata	578111999343419	Facebook	0_50	0 - 50	ES	Spain	5	1	4979	0	493	0
+TSJ con Venezuela		852951178385826	Facebook	0_50	0 - 50	ES	Spain	1	1	4810	962	84	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	0_50	0 - 50	ES	Spain	1	1	4009	2004	3	0
+Ramón Fernández-Pacheco Monterreal	Populares Almería Ciudad	1514375505527442	Facebook	0_50	0 - 50	ES	Spain	4	1	3983	0	394	0
+JUNTS x TU	Partit Demòcrata	363094261078452	Facebook	0_50	0 - 50	ES	Spain	4	1	3983	0	394	0
+Gabriela Mirescu		2618888988127707	Facebook	0_50	0 - 50	ES	Spain	4	1	3878	1709	69	0
+Izquierda Unida Casares		1567202820191581	Facebook	0_50	0 - 50	ES	Spain	1	1	3596	719	82	0
+Podemos Beniel	Podemos Beniel	287056554959564	Facebook	0_50	0 - 50	ES	Spain	3	1	2987	0	296	0
+Oxfam Intermón		20108693880	Facebook	0_50	0 - 50	ES	Spain	3	1	2987	0	296	0
+Junts Per Ribera d'Ondara	Partit Demòcrata	302378097325025	Facebook	0_50	0 - 50	ES	Spain	3	1	2987	0	296	0
+European Commission	European Commission	107898832590939	Facebook	0_50	0 - 50	ES	Spain	1	1	2833	566	5	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	0_50	0 - 50	ES	Spain	1	1	2268	453	44	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	0_50	0 - 50	ES	Spain	2	1	1991	0	197	0
+Guanyar Alcoi		351157775062076	Facebook	0_50	0 - 50	ES	Spain	2	1	1991	0	197	0
+Ingredientes que Suman		586540488142205	Facebook	0_50	0 - 50	ES	Spain	2	1	1991	0	197	0
+Podemos	UNIDAS PODEMOS CAMBIAR EUROPA	269212336568846	Facebook	0_50	0 - 50	ES	Spain	2	1	1991	0	197	0
+Podemos Alcantarilla	Podemos Alcantarilla	1377440055867377	Facebook	0_50	0 - 50	ES	Spain	2	1	1991	0	197	0
+Junts per Seròs	Partit Demòcrata	138839250158159	Facebook	0_50	0 - 50	ES	Spain	2	1	1991	0	197	0
+Cs Gata		1912421205472124	Facebook	0_50	0 - 50	ES	Spain	2	1	1991	0	197	0
+I vote Europe		608176689275464	Facebook	0_50	0 - 50	ES	Spain	1	1	1702	851	16	0
+Europe Thinx		335839580440114	Facebook	0_50	0 - 50	ES	Spain	1	1	1482	296	2	0
+CEMEX		275606287530	Facebook	0_50	0 - 50	ES	Spain	1	1	1040	520	0	0
+Carmen Boó	Carmen Boo Fernandez De Castro	1568543866490015	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Vuelos Sudamerica		415911902545854	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+No volveré a comer pulpo, si España gana el Mundial!		133681223330258	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Contrapoder		2700377893369456	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Xuntos por Miño		1982948458463866	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Populars de Sant Joan de Labritja	Armando Tur Molina 	303793036780397	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Junts per Anglesola	Partit Demòcrata Anglesola	350159385602154	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+PSC L'Hospitalet	PSC Partit dels  Socialistes de Catalunya	357197854367165	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Antilop		141745753145035	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+PSOE Castilla y León		710421425658959	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Psoe de Miño	PSOE Miño	762791540478884	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Ciutats per la democràcia		2316658411949319	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Esquerra Unida d'Eivissa i Formentera		251495754876539	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Iu laciana		293523611404844	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+SOM-Ripoll		1942240929146630	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Sí se puede Valle Gran Rey		1482497545361719	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+ZamoraDigital Diario de Zamora		490645194293505	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+PSPV PSOE Castelló de la Plana		842339805788350	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Lloret En Comú		1620153724870168	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Podemos Torre-Pacheco	Podemos Torre Pacheco	550942431736593	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Socialistes de Collbató		326655204373101	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Socialistas de Padrón		741402999230529	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Junts per Sant Andreu		578502982250915	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Alfredo Rodríguez Otero		2515365848496237	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Somos Benalmádena		348772505974643	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Joan Martin Puntada		602181560206751	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
 SITGES GRUP INDEPENDENT		315721953707	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
-No es política, Es Seseña	Partido Popular Seseña	207541725927600	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
 Algeciras "Por y Para"		651685141921384	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
-Primaries Lliçà d'Amunt	Lliçà per la República	2225135660883578	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
-Junts per Torrefarrera	Partit Demòcrata Torrefarrera	314789169229836	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
-Pep Berga Vayreda	Junts per Catalunya Olot	409193516309406	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
-Ciudadanos	Ciudadanos	74078667754	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
-EAJ PNV Santurtzi	EAJ-PNV	185257748170049	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
-SPEA - Sociedade Portuguesa para o Estudo das Aves	SPEA - Sociedade Portuguesa para o Estudo das Aves	152559446094	Facebook	0_50	0 - 50	ES	Spain	1	1	4	0	0	0
+Candidatura Socialista Arucas 2019 #Creandofuturo		437726850117323	Facebook	0_50	0 - 50	ES	Spain	1	1	995	0	98	0
+Aiqulle Fillo		194956887722931	Facebook	0_50	0 - 50	ES	Spain	2	1	869	0	76	0
+Save The Seas		2203608429682203	Facebook	0_50	0 - 50	ES	Spain	1	1	810	162	16	0
+CLAYTON		122493385103	Facebook	0_50	0 - 50	ES	Spain	1	1	556	111	1	0
+Eurozine		115579498521257	Facebook	0_50	0 - 50	ES	Spain	1	1	208	41	4	0
+Plictisescu.ro		184028071751540	Facebook	0_50	0 - 50	ES	Spain	1	1	188	94	0	0
+ITUC		20556338116	Facebook	0_50	0 - 50	ES	Spain	2	1	143	0	14	0
+IronStone Legal		1779470342266633	Facebook	0_50	0 - 50	ES	Spain	2	1	64	0	7	0
+Breslev Español		108892012533949	Facebook	0_50	0 - 50	ES	Spain	1	1	47	23	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	0_50	0 - 50	ES	Spain	2	1	36	0	3	0
+Talking Trees: Adult Survivors of CSA		157082910999500	Facebook	0_50	0 - 50	ES	Spain	1	1	29	0	2	0
+No more bricks in the Wall		1854947667901523	Facebook	0_50	0 - 50	ES	Spain	1	1	19	0	1	0
+Lalique Nelson		2165834466966724	Facebook	0_50	0 - 50	ES	Spain	1	1	9	0	0	0
+MN Benito		1273446302821491	Facebook	0_50	0 - 50	ES	Spain	1	1	4	0	0	0
+EiendomsMegler 1 Hamar		1629418810634981	Facebook	0_50	0 - 50	ES	Spain	1	1	3	0	0	0
+SPEA - Sociedade Portuguesa para o Estudo das Aves	SPEA - Sociedade Portuguesa para o Estudo das Aves	152559446094	Facebook	0_50	0 - 50	ES	Spain	1	1	3	0	0	0
+Tom MacDonald		212732770186	Facebook	0_50	0 - 50	ES	Spain	1	1	3	0	0	0
 Gay Nicaragua		645262448969789	Facebook	0_50	0 - 50	ES	Spain	1	1	2	0	0	0

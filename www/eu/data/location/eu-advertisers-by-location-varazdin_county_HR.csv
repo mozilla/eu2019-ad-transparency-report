@@ -1,29 +1,82 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	varazdin_county_HR	Varaždin County, Croatia	9	1	11182	5403	50	6
-Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	varazdin_county_HR	Varaždin County, Croatia	10	1	10295	2232	34	0
-Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	varazdin_county_HR	Varaždin County, Croatia	3	1	5872	2325	9	0
-Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	varazdin_county_HR	Varaždin County, Croatia	4	1	4757	1022	11	0
-SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	varazdin_county_HR	Varaždin County, Croatia	3	1	4667	933	14	0
-Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	1910	382	3	0
-European Parliament	European Parliament	178362315106	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	1805	361	3	0
-HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	1319	263	2	0
-Jozo Radoš	Jozo Radoš	446717938731095	Facebook	varazdin_county_HR	Varaždin County, Croatia	5	1	1146	361	18	0
-Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	varazdin_county_HR	Varaždin County, Croatia	2	1	1074	214	4	0
-Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	891	445	8	0
-Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	varazdin_county_HR	Varaždin County, Croatia	14	1	707	69	42	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	varazdin_county_HR	Varaždin County, Croatia	4	1	690	320	0	0
-Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	varazdin_county_HR	Varaždin County, Croatia	2	1	679	287	8	0
-Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	624	124	1	0
-Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	varazdin_county_HR	Varaždin County, Croatia	4	1	524	96	13	0
-Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	varazdin_county_HR	Varaždin County, Croatia	2	1	452	186	5	0
-Marijana Petir	Marijana Petir	1418903245032313	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	301	150	2	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	248	124	0	0
-Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	211	105	2	0
-Krešo Beljak	Vlahovic Mario	52929105855	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	151	30	2	0
-European Commission	European Commission	107898832590939	Facebook	varazdin_county_HR	Varaždin County, Croatia	2	1	133	66	0	0
-Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	114	22	2	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	varazdin_county_HR	Varaždin County, Croatia	2	1	105	28	0	0
+HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	varazdin_county_HR	Varaždin County, Croatia	49	1	165211	69574	634	168
+Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	varazdin_county_HR	Varaždin County, Croatia	20	1	76405	33897	232	51
+SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	varazdin_county_HR	Varaždin County, Croatia	16	1	75088	31784	80	3
+European Parliament	European Parliament	178362315106	Facebook	varazdin_county_HR	Varaždin County, Croatia	15	1	75075	35421	213	59
+Europski parlament, Ured za informiranje u Republici Hrvatskoj	Europski parlament, Ured za informiranje u Republici Hrvatskoj	508795765833382	Facebook	varazdin_county_HR	Varaždin County, Croatia	22	1	72649	32300	175	18
+Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	varazdin_county_HR	Varaždin County, Croatia	19	1	52031	21747	146	20
+Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	varazdin_county_HR	Varaždin County, Croatia	20	1	47020	15963	179	27
+Slobodna Dalmacija	Slobodna Dalmacija	100267330025110	Facebook	varazdin_county_HR	Varaždin County, Croatia	25	1	35869	10607	84	0
+European Greens	European Greens	141366725876424	Facebook	varazdin_county_HR	Varaždin County, Croatia	6	1	32091	13677	101	38
+Sunčana Glavak	HDZ - Hrvatska demokratska zajednica	482597361772021	Facebook	varazdin_county_HR	Varaždin County, Croatia	4	1	26172	10113	139	27
+MOST nezavisnih lista	MOST nezavisnih lista	388550077899912	Facebook	varazdin_county_HR	Varaždin County, Croatia	10	1	20990	8197	80	13
+Miro Bulj	MOST nezavisnih lista	1252295741481540	Facebook	varazdin_county_HR	Varaždin County, Croatia	8	1	20015	8148	55	8
+Model European Union Zagreb - MEUZ	Divea Studio	521874817895935	Facebook	varazdin_county_HR	Varaždin County, Croatia	5	1	18644	7862	23	0
+European Commission	European Commission	107898832590939	Facebook	varazdin_county_HR	Varaždin County, Croatia	22	1	17426	8433	25	7
+Joško Klisović	Klisovic Josko	1262594650584725	Facebook	varazdin_county_HR	Varaždin County, Croatia	14	1	17346	4486	50	0
+Marijana Petir	Marijana Petir	1418903245032313	Facebook	varazdin_county_HR	Varaždin County, Croatia	8	1	15408	5523	51	6
+Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	varazdin_county_HR	Varaždin County, Croatia	3	1	13050	2610	52	6
+Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	varazdin_county_HR	Varaždin County, Croatia	9	1	12014	3895	44	3
+BIOM	BIOM	138743669505642	Facebook	varazdin_county_HR	Varaždin County, Croatia	9	1	11338	2517	37	0
+Jozo Radoš	Jozo Radoš	446717938731095	Facebook	varazdin_county_HR	Varaždin County, Croatia	8	1	11000	2200	27	0
+SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	varazdin_county_HR	Varaždin County, Croatia	11	1	7543	2792	40	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	varazdin_county_HR	Varaždin County, Croatia	2	1	7520	3760	4	0
+Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	varazdin_county_HR	Varaždin County, Croatia	18	1	7444	1552	56	0
+Stjepan Adanić	HDZ - Hrvatska demokratska zajednica	408695383042330	Facebook	varazdin_county_HR	Varaždin County, Croatia	3	1	6775	2819	17	2
+Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	varazdin_county_HR	Varaždin County, Croatia	2	1	6665	3332	18	3
+Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	varazdin_county_HR	Varaždin County, Croatia	5	1	6551	1403	18	0
+Nikolina Brnjac	HDZ - Hrvatska demokratska zajednica	287054392229717	Facebook	varazdin_county_HR	Varaždin County, Croatia	2	1	6169	1233	46	8
+GLAS Građansko-liberalni savez	GLAS Građansko-liberalni savez	231052047413325	Facebook	varazdin_county_HR	Varaždin County, Croatia	3	1	5738	1147	36	6
+Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	varazdin_county_HR	Varaždin County, Croatia	4	1	5304	2047	31	6
+Stjepan Ribić	HDZ - Hrvatska demokratska zajednica	451335681696047	Facebook	varazdin_county_HR	Varaždin County, Croatia	3	1	5171	2079	22	3
+Saša Poljanec-Borić	Hrvatska socijalno liberalna stranka	1914254365351413	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	4784	2392	21	4
+Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	varazdin_county_HR	Varaždin County, Croatia	20	1	4624	1153	39	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	varazdin_county_HR	Varaždin County, Croatia	15	1	4416	1930	7	2
+Marina Gradišer	Demokrati	343303249641233	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	4388	2194	43	0
+Krešo Beljak	Vlahovic Mario	52929105855	Facebook	varazdin_county_HR	Varaždin County, Croatia	2	1	4110	1621	16	2
+Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	varazdin_county_HR	Varaždin County, Croatia	2	1	4053	810	8	0
+HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	varazdin_county_HR	Varaždin County, Croatia	2	1	4052	1644	5	0
+Dr. sc. Tomislav Sokol	HDZ - Hrvatska demokratska zajednica	136900153422435	Facebook	varazdin_county_HR	Varaždin County, Croatia	3	1	3621	721	8	0
+pametno.org	Pametno	144815235686385	Facebook	varazdin_county_HR	Varaždin County, Croatia	4	1	3359	1332	44	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	varazdin_county_HR	Varaždin County, Croatia	9	1	3218	1238	5	1
+Goran Pauk	HDZ - Hrvatska demokratska zajednica	581489628528785	Facebook	varazdin_county_HR	Varaždin County, Croatia	2	1	2799	559	5	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	2721	1361	13	2
+Nova ljevica	Možemo - politička platforma	706769699498076	Facebook	varazdin_county_HR	Varaždin County, Croatia	2	1	2556	511	5	0
+Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	varazdin_county_HR	Varaždin County, Croatia	13	1	2549	782	42	0
+Davor Škrlec	Zastupnik u Europskom parlamentu Davor Škrlec	1507744276110325	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	1911	382	3	0
+Tonino Picula	Tonino Picula	156057951248853	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	1727	345	3	0
+Ružica Vukovac		1657305064553537	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	1524	304	3	0
+Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	varazdin_county_HR	Varaždin County, Croatia	2	1	1480	378	5	0
+Hrvatska stranka umirovljenika	Hrvatska stranka umirovljenika	1437793016448632	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	1426	285	2	0
+Marijana Balić	HDZ - Hrvatska demokratska zajednica	1274752085892321	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	1343	268	13	2
+Zelena lista		157025101623973	Facebook	varazdin_county_HR	Varaždin County, Croatia	2	1	1180	475	13	0
+Sanja Radolović	Radolovic Sanja	508755779649081	Facebook	varazdin_county_HR	Varaždin County, Croatia	6	1	870	259	14	0
+Gong	Gong	135611546456409	Facebook	varazdin_county_HR	Varaždin County, Croatia	4	1	828	338	9	0
+Habib Tahiri	Hrvatska narodna stranka - liberalni demokrati (HNS)	750800161983664	Facebook	varazdin_county_HR	Varaždin County, Croatia	2	1	745	149	1	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	varazdin_county_HR	Varaždin County, Croatia	3	1	647	301	1	0
+Davor Nađi	Nadi Davor	1640498249359280	Facebook	varazdin_county_HR	Varaždin County, Croatia	2	1	563	239	6	0
+Diana Topčić-Rosenberg	TOPCIC-ROSENBERG DIANA	1702271996513206	Facebook	varazdin_county_HR	Varaždin County, Croatia	3	1	329	122	6	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	varazdin_county_HR	Varaždin County, Croatia	5	1	312	119	1	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	289	144	2	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	247	123	0	0
+HSS Hrvatska	Vlahovic Mario	236043376446622	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	246	123	2	0
+Željka Markić		210218862695602	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	133	26	2	0
+Informativno Dokumentacijski Centar Banije I Korduna		1902779853072038	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	123	24	2	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	varazdin_county_HR	Varaždin County, Croatia	3	1	122	22	1	0
+Greenpeace Hrvatska	Greenpeace Hrvatska	359170097532754	Facebook	varazdin_county_HR	Varaždin County, Croatia	3	1	109	0	9	0
+Gordan Maras		451079008266520	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	87	17	1	0
+Stranka hrvatskog zajedništva		944262495628175	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	86	17	1	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	55	11	0	0
 Hrvatske vijesti		286736758747850	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	54	0	4	0
-SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	51	0	5	0
+CRIF		395919323779707	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	46	23	0	0
+Europe Thinx		335839580440114	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	37	7	0	0
+Radnička Fronta		770459529655215	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	21	0	1	0
+Telegram.hr		688325737947866	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	16	0	1	0
+Ne u moje ime		138418753446889	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	15	3	0	0
+ETUC		129041250601685	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	13	2	0	0
+Tomislav Stojak	Hrvatska narodna stranka - liberalni demokrati (HNS)	442201595870855	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	6	1	0	0
 Kulturpunkt.hr		89410579392	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	5	0	0	0
-Tomislav Stojak	Hrvatska narodna stranka - liberalni demokrati (HNS)	442201595870855	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	3	0	0	0
+ITUC		20556338116	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	1	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	1	0	0	0
+Pirati	Pirati	98358327274	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	1	0	0	0
+Tom MacDonald		212732770186	Facebook	varazdin_county_HR	Varaždin County, Croatia	1	1	1	0	0	0

@@ -1,35 +1,117 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Poliitikko Sami Yli-Rahnasto	Pohjanmaan Kokoomus ry	371635287025743	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	12693	2538	25	0
-Mauri Pekkarinen	Mauri Pekkarinen	177939666416553	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	10487	2097	104	20
-European Parliament	European Parliament	178362315106	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	3383	1691	33	16
-Kristillisdemokraatit	Kristillisdemokraatit	157614802920	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	3	1	3189	622	43	5
-Miapetra Kumpula-Natri	Euroopassa Suomen tähden  / Miapetra Kumpula-Natri	922311201130062	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	2733	546	54	0
-Petra Schulze Steinen	Schulze-Steinen Petra Elina Marjatta	266912807301110	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	3	1	2014	252	99	0
-Sirpa Pietikäinen	Sirpa Pietikäinen	140188405326	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	1977	502	19	3
-Antton Rönnholm	Antton Rönnholm	575908612596562	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	5	1	1203	495	10	0
-Karri Ollila Europarlamenttiin 2019	Karri Ollila	300059733998436	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	574	287	5	0
-Olli Kotro Euroopan parlamenttiin 2019	Kauko Niko Aleksanteri	2211654885785838	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	3	1	527	96	14	0
-Anna Sirkiä	Anna Sirkiä	115751458577078	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	445	89	8	0
-Mikko Ohela	Mikko Ohela	201647537374497	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	389	78	7	0
-Äänioikeus.fi		753565071658403	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	365	73	7	0
-Perussuomalaiset	Perussuomalaiset	181106108341	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	337	67	6	0
-Irja Sokka Poliitikko	Irja Sokka Poliitikko	689010728162410	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	289	57	5	0
-Matleena Käppi	Matleena Käpin vuoden 2019 vaalien tukiyhdistys	1806983809518838	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	271	54	5	0
-Arto Luukkanen	Riekkovaara Niko Tapani	1527478777519070	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	266	42	9	0
+Kokoomus	Kokoomus	201285237101	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	39	1	149296	35888	2756	186
+European Greens	European Greens	141366725876424	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	8	1	51834	21707	667	133
+Mauri Pekkarinen	Mauri Pekkarinen	177939666416553	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	4	1	50964	22146	508	210
+European Parliament	European Parliament	178362315106	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	16	1	47092	21786	510	129
+Miapetra Kumpula-Natri	Euroopassa Suomen tähden  / Miapetra Kumpula-Natri	922311201130062	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	9	1	43566	19309	265	54
+Vihreät - De Gröna	Vihreät - De Gröna	33722070600	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	16	1	37426	17278	215	71
+Petra Schulze Steinen	Schulze-Steinen Petra Elina Marjatta	266912807301110	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	24	1	32128	6391	708	16
+Perussuomalaiset	Perussuomalaiset	181106108341	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	6	1	28318	12045	399	94
+Henna Virkkunen	Henna Virkkunen	120537424633927	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	17	1	26569	9563	292	41
+Antton Rönnholm	Antton Rönnholm	575908612596562	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	44	1	25607	5620	211	27
+Poliitikko Sami Yli-Rahnasto	Pohjanmaan Kokoomus ry	371635287025743	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	25340	5068	252	50
+Vasemmistoliitto	Vasemmistoliitto	60390955171	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	30	1	25333	9568	275	90
+Jouni Kemppainen	Kemppainen Jouni Petteri	387812258475026	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	3	1	24085	10771	182	78
+Sosialidemokraatit SDP	Sosialidemokraatit SDP	108945982480217	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	4	1	22264	6075	195	47
+Mikko Ohela	Mikko Ohela	201647537374497	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	12	1	20520	4543	122	13
+Teuvo Hakkarainen	Riekkovaara Niko Tapani	198979100169761	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	12	1	17099	3574	163	23
+Satu Jaatinen 216		611696415923639	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	6	1	15907	5927	337	66
+Arto Luukkanen	Riekkovaara Niko Tapani	1527478777519070	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	15	1	15192	3359	230	38
+Pekka Shemeikka	Nokela Matti Juhani Philip	591986911282315	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	8	1	13569	3894	123	22
+Tomi Kontkanen	Finlands svenska socialdemokrater	2211545855568908	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	6	1	13376	5240	79	12
+Ville Niinistö	Ville Niinistö	153186884700042	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	4	1	12216	6090	69	34
+Kristillisdemokraatit	Kristillisdemokraatit	157614802920	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	5	1	11970	4118	101	17
+Elsi Katainen	Katainen Elsi Kaarina	190042298268350	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	3	1	10860	2172	157	11
+Svenska folkpartiet i Finland - RKP	Svenska folkpartiet i Finland - RKP	191883307265	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	20	1	10623	2532	39	1
+Janne Parkkila - Vasemmistoliitto	Janne Parkkilan tukiyhdistys ry	354424931606915	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	11	1	8987	2900	96	16
+Mirja Vehkaperä	Vehkaperä Mirja Tellervo	237130593122439	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	4	1	8953	1790	43	5
+Sirpa Pietikäinen	Sirpa Pietikäinen	140188405326	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	7	1	8236	1647	100	28
+Suomiduunari	Riekkovaara Niko Tapani	244224963187036	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	3	1	8186	3161	59	10
+Tiina Heikkinen	Heikkinen Tiina Maria	252243572053482	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	7995	3997	199	39
+Anna Sirkiä	Anna Sirkiä	115751458577078	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	18	1	7486	1565	296	0
+Max Schulman	Svenska folkpartiet i Finland - RKP	2186035071663314	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	6994	1398	70	13
+Petri Sarvamaa	Petri Sarvamaa	164624737027350	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	10	1	6188	1366	95	8
+Henrik Wickström	Wickström 2019	448116415229902	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	7	1	5928	1171	123	0
+Riku Eskelinen	Riku Eskelisen eurovaalien tukiyhdistys Herttoniemen Keskustaseura ry	312837175579728	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	5583	1100	62	11
+Susanna Kisner	Susanna Kisnerin tukiryhmä	1569715913292949	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	8	1	5140	1405	123	17
+Jukka Linna	Jukka Linnan tukiyhdistys	2313503042310251	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	6	1	4836	967	63	10
+Allianssi	Allianssi	189362187761641	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	17	1	4745	1334	69	3
+Olli Kotro Euroopan parlamenttiin 2019	Kauko Niko Aleksanteri	2211654885785838	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	3	1	4432	1012	44	8
+Miikka Keränen	Keranen Miikka Markus	126768630726940	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	3	1	4224	2055	55	21
+Kokoomusnuoret	Kokoomusnuoret	28469960111	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	3961	792	39	7
+Karri Ollila Europarlamenttiin 2019	Karri Ollila	300059733998436	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	3	1	3889	1146	62	11
+Kimmo Sasi	Sasi Kimmo Kalevi Immeri	311253592006	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	5	1	3636	875	63	10
+Matleena Käppi	Matleena Käpin vuoden 2019 vaalien tukiyhdistys	1806983809518838	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	4	1	3546	868	37	5
+Mikkel Näkkäläjärvi	Nakkalajarvi Mikkel Antte Iisakki	617733068345315	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	4	1	3257	821	37	5
+Aura Salla	Salla Aura Maria	357502994332188	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	6	1	3248	949	25	0
+Simo Grönroos	Gronroos Simo Juhani	445988248775782	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	3128	625	33	5
+Tuomas Tikkanen	Tikkanen Juho Tuomas	2139907472900957	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	3099	619	30	6
+Kaisa Penny	Kaisa Penny	259256970891807	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	4	1	2945	700	33	4
+Suomen Lähetysseura	Suomen Lähetysseura	8265674748	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	2736	547	5	0
+Eurooppalainen Suomi ry	Eurooppalainen Suomi ry	163903613685550	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	2692	538	18	3
+Hans Adolf Ehrnrooth	Turvallinen ja vakaa Eurooppa ry	747915358921075	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	2668	533	26	5
+Leena Zittling - Eurovaaliehdokas 2019 - KOK	Miettinen Pasi Olavi	804330503290879	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	2391	478	23	4
+Nils Torvalds	Nils Torvalds	343089085765596	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	11	1	2255	855	36	0
+Matilda af Hällström	af Hällström Matilda Linnea Alice	430195364409025	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	6	1	2203	1086	22	8
+BirdLife Suomi		254403722807	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	2151	430	21	4
+Petteri Orpo	Kokoomus	154256701288026	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	2148	429	21	4
+Perussuomalaiset Nuoret		133551219988558	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	2146	429	21	4
+Piia Kurki	Piia Kurki	270567833058986	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	7	1	1804	663	51	4
+Vihreät nuoret	Vihreät nuoret	362064961211	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	16	1	1491	329	44	0
+European Commission	European Commission	107898832590939	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	20	1	1400	680	7	0
+Irja Sokka Poliitikko	Irja Sokka Poliitikko	689010728162410	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	3	1	1184	440	16	0
+Trasek ry	Trasek ry	384673691545854	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	1038	207	2	0
+Janne Kaisanlahti	Kaisanlahti Janne Kalervo	309381625805373	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	4	1	922	177	20	0
+Olli-Pekka Nyberg	NYBERG OLLI-PEKKA	291483185114189	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	3	1	834	166	16	0
+Ida-Maria Skytte	Skytte Sofia Ida-Maria	1854582881493142	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	3	1	795	240	41	7
+Radio Dei	Radio Dei	106745452698752	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	794	159	15	0
+Paula Aikio-Tallgren EU-vaaliehdokas	Pohjoisen asian osaajat ry	510346432432044	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	3	1	775	302	14	0
+Jussi Nurmi	Nurmi Jussi Tapio	1895217903938885	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	3	1	757	341	24	3
+Silja Keränen	Silja Keräsen tukiryhmä	159315454207327	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	7	1	697	96	30	0
+Kaksin - Tvåsamhet	Kaksin - Tvåsamhet	2110443792388818	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	9	1	660	143	13	1
+Sean Bergenheim	Svenska folkpartiet i Finland - RKP	266603130709392	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	651	325	32	6
+Filip Björklöf	Filip Björklöfs understödsförening	432450826819256	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	11	1	615	138	8	0
+Teuvo Hatva - eurovaaliehdokas	Maury Aino Maija	948715928850182	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	571	114	11	0
+Kimmo Kautio - Kokoaan Suurempi Suomi	Kautio Kimmo Jaakko Tapio	315479585304528	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	3	1	548	109	10	0
+Elsi Ranta	Ranta Elsi Inkeri	544178606104826	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	5	1	518	81	18	0
+Feministinen puolue	Feministinen puolue	246435052396654	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	3	1	517	128	2	0
+Sonja Falk	Falk Mika Tapio	164696826881379	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	484	242	24	4
+SLC	SLC r.f.	126812894035597	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	5	1	437	141	4	0
+Finnwatch	Finnwatch	127195574005414	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	4	1	413	169	7	0
+Tero Hannula		350628269116805	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	3	1	374	70	9	0
+Äänioikeus.fi		753565071658403	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	361	72	7	0
+Greenpeace Suomi	Greenpeace Suomi	9227859351	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	8	1	345	55	12	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	11	1	303	129	0	0
+Anna Mäkipää	Mäkipää Anna Marjatta	410045932385582	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	293	146	14	2
 Tekniikan Maailma	Rainisto Sami Pasi Kalevi	309780042465696	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	264	52	5	0
-Kaisa Penny	Kaisa Penny	259256970891807	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	227	45	4	0
-Tuomas Tikkanen	Tikkanen Juho Tuomas	2139907472900957	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	206	41	4	0
-Mikkel Näkkäläjärvi	Nakkalajarvi Mikkel Antte Iisakki	617733068345315	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	198	24	9	0
-Paula Aikio-Tallgren EU-vaaliehdokas	Pohjoisen asian osaajat ry	510346432432044	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	186	37	3	0
-Riku Eskelinen	Riku Eskelisen eurovaalien tukiyhdistys Herttoniemen Keskustaseura ry	312837175579728	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	80	0	8	0
-Olli-Pekka Nyberg	NYBERG OLLI-PEKKA	291483185114189	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	80	0	8	0
-Eurooppalainen Suomi ry	Eurooppalainen Suomi ry	163903613685550	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	71	0	7	0
-Jussi Mäkipelto - Eurovaaliehdokas 105 - Liberaalipuolue	Makipel To Jussi Markus	1057558317751103	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	43	0	4	0
-Allianssi	Allianssi	189362187761641	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	43	0	4	0
-Henrik Wickström	Wickström 2019	448116415229902	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	18	0	1	0
-Miikka-Markus Leskinen europarlamenttiin	Leskinen Miikka-Markus	1964589417153542	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	17	3	0	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	16	8	0	0
-Filip Björklöf	Filip Björklöfs understödsförening	432450826819256	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	10	0	0	0
-European Commission	European Commission	107898832590939	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	5	2	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	3	0	0	0
-Matilda af Hällström	af Hällström Matilda Linnea Alice	430195364409025	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	3	0	0	0
+Minna Karvonen		311176426363089	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	259	129	2	0
+Niko Eskelinen poliitikko	Eskelinen Niko Olavi	1337176579662419	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	230	46	4	0
+Anton Nilsson	Betalt av stödföreningen för Anton Nilsson	290501338278566	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	15	1	223	51	5	0
+Satu Taavitsainen	Taavitsainen Satu Johanna	803596373025380	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	220	51	0	0
+Asseri Kinnunen	Kinnunen Henri Asseri	1159967857373678	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	210	42	4	0
+Tommi Aalto		650991871774294	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	210	42	4	0
+Helena Marttila	Uudenmaan Sosialidemokraatit ry	373811376519125	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	179	35	3	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	10	1	147	54	0	0
+Martin Norrgård	Martin Norrgårds stödförening	104405313050307	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	4	1	133	61	1	0
+Jussi Mäkipelto - Eurovaaliehdokas 105 - Liberaalipuolue	Makipel To Jussi Markus	1057558317751103	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	130	0	12	0
+Frida Sigfrids	Svenska folkpartiet i Finland - RKP	1506788009337272	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	3	1	121	24	2	0
+Silja Borgarsdóttir Sandelin	Svenska folkpartiet i Finland - RKP	145265965535213	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	106	21	4	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	75	37	0	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	63	8	4	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	59	27	0	0
+Svensk Ungdom - RKP-nuoret	Svensk Ungdom - RKP-nuoret	172659206933	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	45	22	0	0
+Anna Jungner-Nordgren	Stödföreningen för Anna Jungner-Nordgren	126206450772264	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	7	1	43	7	1	0
+Heidi Hautala		116940668479201	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	39	0	3	0
+Makuja Järvikylästä		457310120990526	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	36	0	3	0
+Ramieza Mahdi	Mahdi Ramieza Abdirahman Mohamed	268670670234757	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	34	0	3	0
+VIKES Viestintä ja kehitys -säätiö	Viestintä ja kehitys -säätiö	381290523932	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	30	6	0	0
+Miikka-Markus Leskinen europarlamenttiin	Leskinen Miikka-Markus	1964589417153542	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	2	1	24	7	0	0
+YOU.and.EU	Nordstrom Laura Helena	250361215678222	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	19	3	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	17	9	0	0
+Ida Schauman	Schauman Ida Emilia Axelsdotter	1449434138617787	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	16	8	0	0
+Svenska Kvinnoförbundet	Svenska folkpartiet i Finland - RKP	388661630444	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	15	3	0	0
+Stina Wahlsten	Wahlsten Stina Sofia	247410845719596	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	9	1	0	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	3	1	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	2	0	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	1	0	0	0
+University of Helsinki	University of Helsinki	200739723082	Facebook	southern_ostrobothnia_FI	Southern Ostrobothnia, Finland	1	1	1	0	0	0

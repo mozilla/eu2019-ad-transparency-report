@@ -1,28 +1,111 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	region_code_filter	region_name_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Sven Zagała	KW Wiosna Roberta Biedronia	2215190752031133	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	6	1	101524	20255	243	46
-Joachim Brudziński	Joachim Brudziński	722625777782250	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	5	1	18666	3733	17	0
-Witold Pahl	Sikker sp. z o.o.	1643994439224385	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	3	1	13883	2777	63	0
-Polski Klub Ekologiczny Koło Miejskie w Gliwicach	Maria Wanda Staniszewska	291839444209363	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	3	1	2536	579	5	1
-Bartosz Arłukowicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	152299864806918	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	4	1	2339	401	32	1
-Konfederacja KORWiN Braun Liroy Narodowcy	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1971966879776579	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	19	1	960	394	3	0
-Poseł Jakub Rutnicki	KKW Koalicja Europejska PO PSL SLD .N Zieloni	222141244609992	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	847	222	3	0
-Wiosna Biedronia	KW Wiosna Roberta Biedronia	2246647628925721	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	4	1	525	223	1	0
-Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	4	1	388	165	1	0
-Anita Kucharska-Dziedzic	KW Wiosna Roberta Biedronia	402330900557208	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	314	62	1	0
-European Parliament	European Parliament	178362315106	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	248	99	2	0
-KUKIZ'15	Komitet Wyborczy Wyborców Kukiz'15	328170794051845	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	13	1	248	76	0	0
-Norbert Kaczmarczyk Poseł na Sejm RP	Kukiz'15 • Posłowie	814991668621838	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	66	13	0	0
-Platforma Obywatelska	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	102931488739	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	56	15	0	0
-Parlament Europejski - Biuro w Polsce	Parlament Europejski - Biuro w Polsce	405326618416	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	47	9	0	0
-Amnesty International Polska	Amnesty International Polska	57544755889	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	3	1	43	9	0	0
-Michał Wawrykiewicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	835519263468051	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	8	1	36	6	0	0
-Front Europejski	Medium: agencja reklamowa	590514511295079	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	6	1	28	6	0	0
-Krzysztof Bosak	Konfederacja KORWiN Braun Liroy Narodowcy	141833139301	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	24	4	0	0
-Nie Wstydzę Się Jezusa	Nie Wstydzę Się Jezusa	174848285894374	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	18	3	0	0
-Jan Olbrycht	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	153098244704447	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	12	6	0	0
+Joachim Brudziński	Joachim Brudziński	722625777782250	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	16	1	306283	102153	581	102
+Sven Zagała	KW Wiosna Roberta Biedronia	2215190752031133	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	23	1	252389	96313	1001	374
+Jakub Ziółkowski	KW Wiosna Roberta Biedronia	728590287185661	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	7	1	168528	33706	391	78
+Razem Lubuskie	KKW Lewica Razem - Razem, Unia Pracy, RSS	859639814104576	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	5	1	84225	25615	478	91
+Platforma Obywatelska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	102931488739	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	33	1	54762	10972	171	26
+Bartosz Arłukowicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	152299864806918	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	21	1	53383	10228	186	7
+Marszałek Elżbieta Anna Polak		324088538395706	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	49999	10000	23	0
+Witold Pahl	Sikker sp. z o.o.	1643994439224385	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	11	1	48861	9574	331	21
+Roman Knop	Andrzej Bartosz Piotrowicz	749503038777719	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	7	1	43213	10213	61	8
+Konfederacja Zach-Pom	Andrzej Ostrowski	1249992775165697	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	6	1	25400	12396	145	38
+Anita Kucharska-Dziedzic	KW Wiosna Roberta Biedronia	402330900557208	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	16	1	10968	1925	57	3
+Tomasz Aniśko - Kandydat do Parlamentu Europejskiego	KKW Koalicja Europejska PO PSL SLD .N Zieloni	605038106603214	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	10892	2178	50	25
+Konfederacja KORWiN Braun Liroy Narodowcy	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1971966879776579	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	57	1	10530	4661	32	8
+Monika Drubkowska	KW Wiosna Roberta Biedronia	2329294190674046	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	9998	2000	46	0
+KUKIZ'15	Komitet Wyborczy Wyborców Kukiz'15	328170794051845	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	81	1	4429	1283	11	2
+Polski Klub Ekologiczny Koło Miejskie w Gliwicach	Maria Wanda Staniszewska	291839444209363	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	4	1	3324	672	10	3
+Wiosna Biedronia	KW Wiosna Roberta Biedronia	2246647628925721	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	21	1	3259	1547	10	2
+Gazeta Wyborcza	Gazeta Wyborcza	63563473556	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	76	1	2822	905	6	1
+European Parliament	European Parliament	178362315106	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	16	1	2751	1180	13	3
+Poseł Jakub Rutnicki	KKW Koalicja Europejska PO PSL SLD .N Zieloni	222141244609992	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	7	1	2589	582	6	1
+Jacek Guzikowski	Komitet Wyborczy Wyborców KUKIZ15	382878862310992	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	4	1	2567	484	27	3
+Edukacja dla Dobrego Klimatu	Wojciech Makowski	798249970192065	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	20	1	2160	849	9	2
+European Commission	European Commission	107898832590939	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	32	1	1926	896	11	2
+Katarzyna Kotula	KW Wiosna Roberta Biedronia	325724864963813	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	4	1	1434	489	19	3
+Koalicja Europejska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	3116013818724635	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	4	1	1192	238	2	0
+European Greens	European Greens	141366725876424	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	5	1	1156	561	6	1
+Razem	KKW Lewica Razem - Razem, Unia Pracy, RSS	430323810469014	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	20	1	1104	432	3	0
+Front Europejski	Medium: agencja reklamowa	590514511295079	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	61	1	1089	391	3	0
+Elżbieta Jabłońska - Przewodnicząca Rady Miasta Świnoujście	KKW Koalicja Europejska PO PSL SLD .N Zieloni	659137817565779	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	1045	522	2	0
+Wojciech Czypicki	KW Wiosna Roberta Biedroni	403357120492005	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	6	1	880	139	7	0
+Małgorzata Prokop-Paczkowska	KW Wiosna Roberta Biedronia	599088633511810	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	862	431	5	0
+Razem Szczecin	Razem	888109877905150	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	758	151	3	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	4	1	725	269	0	0
+Parlament Europejski - Biuro w Polsce	Parlament Europejski - Biuro w Polsce	405326618416	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	23	1	673	141	0	0
+Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	12	1	598	228	1	0
+Partia Zieloni	KKW Koalicja Europejska PO PSL SLD .N Zieloni	48391402694	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	8	1	568	227	2	0
+Prawica Rzeczypospolitej	Komitet Wyborczy Wyborców KUKIZ15	262966184846	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	4	1	535	106	1	0
+KlimatAlert	Wojciech Makowski	342956762998558	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	11	1	473	164	1	0
+Wiosna w Zachodniopomorskiem	KW Wiosna Roberta Biedronia	779526672397182	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	422	69	3	0
+Prawo i Sprawiedliwość	Komitet Wyborczy Prawo i Sprawiedliwość	157458232131	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	24	1	402	119	1	0
+Lepiej wybierz	Katarzyna Stańczak	304972010400039	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	9	1	367	26	6	0
+Amnesty International Polska	Amnesty International Polska	57544755889	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	9	1	361	155	1	0
+Parlament Europejski - Biuro we Wrocławiu	Parlament Europejski - Biuro we Wrocławiu	426735034064813	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	332	133	0	0
+Piotr Ikonowicz	KKW Lewica Razem - Razem, Unia Pracy, RSS	121066958084066	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	3	1	247	103	0	0
+Michał Wawrykiewicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	835519263468051	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	16	1	195	38	0	0
+Norbert Kaczmarczyk Poseł na Sejm RP	Kukiz'15 • Posłowie	814991668621838	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	4	1	185	37	0	0
+Janka Ochojska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	573994789747274	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	158	31	0	0
+Sojusz Lewicy Demokratycznej - Koalicja Europejska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	137877409609952	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	151	75	0	0
+Zbigniew Zalesiński - Wiosna Biedronia	KW Wiosna Roberta Biedronia	319621255393968	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	114	57	1	0
+Grzegorz Schetyna	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	1077045142306060	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	105	25	0	0
+Jacek Wilk	KWW Konfederacja Korwin Braun Liroy Narodowcy	499646073441042	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	100	50	0	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	82	16	0	0
+MamPrawoWiedziec.pl	Picture Doc Foundation	219298606466	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	4	1	74	16	0	0
+Błękitny Węgiel	Błękitny Węgiel	567066860335135	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	60	12	0	0
+Jarosław Duda	KKW Koalicja Europejska PO PSL SLD .N ZIELONI	100666510056063	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	3	1	59	11	0	0
+Krzysztof Bosak	Konfederacja KORWiN Braun Liroy Narodowcy	141833139301	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	58	11	0	0
+Protestuj.pl	Protestuj.pl	450781218391641	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	56	11	0	0
+Plastic Free Polska	Plastic Free Polska	2162232717176151	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	7	1	48	11	0	0
+Polonia Semper Fidelis	Polonia Semper Fidelis	155770611655343	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	48	9	0	0
+Nie Wstydzę Się Jezusa	Nie Wstydzę Się Jezusa	174848285894374	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	3	1	48	17	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	4	1	46	9	0	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	35	7	0	0
+Ministerstwo Rodziny, Pracy i Polityki Społecznej		380485532115847	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	34	14	0	0
+Polska Fundacja im. Roberta Schumana	Polska Fundacja im. Roberta Schumana	150617698324166	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	31	6	0	0
+K MAG	K MAG	317722036029	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	29	5	0	0
+adidas		182162001806727	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	27	5	0	0
+Grzegorz Tobiszowski	KW Prawo i Sprawiedliwość	146655395680362	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	26	5	0	0
+Jan Olbrycht	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	153098244704447	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	3	1	21	10	0	0
+Lambda Warszawa		38339083373	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	13	6	0	0
+Krytyka Polityczna	Krytyka Polityczna	74863922834	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	12	2	0	0
+Małgorzata Sekuła-Szmajdzińska - kandydatka do Parlamentu Europejskiego	Katarzyna Kijakowska	420227048536701	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	11	5	0	0
+Włącz oszczędzanie	Łukasz Tadeusz Pająk	1599655186922126	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	3	1	9	1	0	0
+Info Lwówek	Katarzyna Luch	1429420873951263	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	8	1	0	0
+Jarosław Rzepa	KKW Koalicja Europejska PO PSL SLD .N Zieloni	187622121427045	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	3	1	7	1	0	0
+Michał Korolko - profil publiczny	KKW Koalicja Europejska PO PSL SLD .N Zieloni (Michał Korolko)	334123340547325	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	5	1	0	0
+Jacek Wezgraj	KW Wiosna Roberta Biedronia	213293582024781	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	5	0	0	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	15	1	5	2	0	0
+Ewa Jeżak	KW Wiosna Roberta Biedronia	1934052153566297	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	5	2	0	0
+Andrzej Grzyb Poseł do Parlamentu Europejskiego	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	235676093175456	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	4	0	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	4	2	0	0
+Porozumienie - Poznań	Rafał Jan Leszczyński	1444561572423336	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	3	0	0	0
+Bożena Lisowska	Paweł Galewski	1164052730286958	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	3	0	0	0
+Narodowa Środa	Michał Aleksander Jurga	577240432479236	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	3	1	3	0	0	0
+Zdecentralizowana Rzeczpospolita	Anna Aleksandra Wojciuk	270581597199597	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	3	0	0	0
+To ja jestem Polską. Głosuję.		2253325488072521	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	3	0	0	0
+Skuteczna modlitwa. Przewodnik		2118896628162986	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	3	0	0	0
 Nomada Stowarzyszenie		114318528622863	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	2	0	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	0	0	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	4	1	0	0	0	0
-European Commission	European Commission	107898832590939	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	0	0	0	0
+Fine Dine	Angelika Katarzyna Borysiak	1650498151902140	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	2	0	0	0
+Andrzej Kisielewicz	KW Prawo i Sprawiedliwość	1550061501790606	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	21	1	2	0	0	0
+Michał Drewnicki - wiceprzewodniczący Rady Miasta Krakowa		561843337248654	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	1	0	0	0
+Bolesław Piecha - poseł do Parlamentu Europejskiego	Agencja reklamowa NXT	704363502985858	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	2	1	1	0	0	0
+Paweł Krutul	Komitet Wyborczy Wiosna Roberta Biedronia	1798798630436202	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	1	0	0	0
+Kurier Ząbkowski	Tomasz Kalata 	1507827496163615	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	1	0	0	0
+FRU.PL - Bilety Lotnicze i Hotele		166901739910	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	0	0	0	0
+Filcomp.pl	Paweł Seweryn Pietrusiak	391230480943892	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	0	0	0	0
+SPD BRANDENBURG	SPD BRANDENBURG	139470429458087	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	0	0	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	5	1	0	0	0	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	20	1	0	0	0	0
+CDU Berlin	CDU Berlin	126952903983246	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	0	0	0	0
+Stanisław Żmijan	MarkNeting Sp. z o.o.	436755540466865	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	0	0	0	0
+Renata Caban	Tomasz Mirosław Kowalski	288542178541100	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	3	1	0	0	0	0
+CDU Hoyerswerda	Gerd Oliver Heinze	131251370415005	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	0	0	0	0
+Europe Thinx		335839580440114	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	0	0	0	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	3	1	0	0	0	0
+ETUC		129041250601685	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	0	0	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	3	1	0	0	0	0
+ITUC		20556338116	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	0	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	0	0	0	0
 SPD Oberspreewald-Lausitz	Alexander Krüger	236968340096641	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	0	0	0	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	0	0	0	0
+CDU Spree-Neiße		1251143418258273	Facebook	lubusz_voivodeship	Lubusz Voivodeship	PL	Poland	1	1	0	0	0	0

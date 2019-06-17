@@ -1,4 +1,5 @@
 spend_code	spend_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-0_50	0 - 50	SI	Slovenia	68	18	355394	81717	5927	0
-50_100	50 - 100	SI	Slovenia	67	17	1109	255	18	0
-100_1k	100 - 1k	SI	Slovenia	3	2	4475	2237	11	2
+0_50	0 - 50	SI	Slovenia	425	68	7228895	1748819	36204	0
+50_100	50 - 100	SI	Slovenia	424	67	22635	5485	113	0
+100_1k	100 - 1k	SI	Slovenia	84	32	4336350	1890635	15653	4061
+1k_5k	1k - 5k	SI	Slovenia	10	4	2271565	1035047	20390	4078

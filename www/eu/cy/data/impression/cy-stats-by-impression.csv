@@ -1,7 +1,9 @@
 impression_code	impression_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-0_1k	0 - 1k	CY	Cyprus	7	5	6992	0	693	0
-1k_5k	1k - 5k	CY	Cyprus	9	7	44990	9000	890	0
-5k_10k	5k - 10k	CY	Cyprus	4	4	30160	15081	298	0
-10k_50k	10k - 50k	CY	Cyprus	8	5	350852	70171	694	0
-50k_100k	50k - 100k	CY	Cyprus	1	1	99850	49925	98	0
-100k_200k	100k - 200k	CY	Cyprus	3	2	24333	12166	60	12
+0_1k	0 - 1k	CY	Cyprus	87	29	77271	0	7646	0
+1k_5k	1k - 5k	CY	Cyprus	120	27	591527	118329	11709	0
+5k_10k	5k - 10k	CY	Cyprus	94	27	910455	455273	9014	0
+10k_50k	10k - 50k	CY	Cyprus	154	33	7314422	1462913	18484	1000
+50k_100k	50k - 100k	CY	Cyprus	29	19	2240698	1120360	7504	1321
+100k_200k	100k - 200k	CY	Cyprus	17	7	2451139	1225575	6215	1525
+200k_500k	200k - 500k	CY	Cyprus	15	7	2317989	927197	8342	1980
+500k_1m	500k - 1m	CY	Cyprus	11	3	2634883	1317443	12118	2471

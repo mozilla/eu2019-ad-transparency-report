@@ -1,40 +1,177 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	region_code_filter	region_name_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Liberal Democrats	the Liberal Democrats	5883973269	Facebook	scotland	Scotland	UK	United Kingdom	72	1	161928	23000	8248	0
-Scottish Labour Party	Scottish Labour Party	310039442421596	Facebook	scotland	Scotland	UK	United Kingdom	3	1	67079	19150	772	111
-Scottish Green Party	Scottish Green Party	17999726169	Facebook	scotland	Scotland	UK	United Kingdom	1	1	49999	10000	114	0
-European Parliament	European Parliament	178362315106	Facebook	scotland	Scotland	UK	United Kingdom	3	1	6944	3344	112	41
-Tristan Gray	Tristan Gray	262125774120331	Facebook	scotland	Scotland	UK	United Kingdom	3	1	6007	1000	230	0
-The Labour Party	The Labour Party	25749647410	Facebook	scotland	Scotland	UK	United Kingdom	10	1	5002	2033	55	12
-Change UK - The Independent Group	Change UK - The Independent Group	395151614382309	Facebook	scotland	Scotland	UK	United Kingdom	8	1	3853	1819	83	18
-People's Vote UK	People's Vote	748608695327755	Facebook	scotland	Scotland	UK	United Kingdom	15	1	3158	1012	31	4
-Greenock & Inverclyde SNP	Mark Saunders	642335515864888	Facebook	scotland	Scotland	UK	United Kingdom	2	1	1717	0	196	0
-Alex Salmond	Slainte Media	136191876445102	Facebook	scotland	Scotland	UK	United Kingdom	1	1	1406	281	3	0
-InFacts	InFacts	678120165658753	Facebook	scotland	Scotland	UK	United Kingdom	2	1	1021	203	3	0
-Perth4Europe	Susannah Clare Rae	1050896375014974	Facebook	scotland	Scotland	UK	United Kingdom	1	1	999	0	114	0
-Red Party of Scotland	Red Party of Scotland	405070253350573	Facebook	scotland	Scotland	UK	United Kingdom	1	1	999	0	114	0
-Scottish Borders Green Party	Catriona Isabella Hamilton	386646754850062	Facebook	scotland	Scotland	UK	United Kingdom	1	1	870	0	99	0
-Tom Watson	The Labour Party. Promoted by Tom Watson on behalf of Tom Watson	470873686267967	Facebook	scotland	Scotland	UK	United Kingdom	5	1	790	158	4	0
+Liberal Democrats	the Liberal Democrats	5883973269	Facebook	scotland	Scotland	UK	United Kingdom	526	1	2923073	789063	58443	3240
+Scottish Labour Party	Scottish Labour Party	310039442421596	Facebook	scotland	Scotland	UK	United Kingdom	24	1	910429	248082	10886	2977
+Ruth Davidson	the Scottish Conservative and Unionist Party	242829922425897	Facebook	scotland	Scotland	UK	United Kingdom	1	1	499999	200000	5784	1157
+Scottish National Party (SNP)	the SNP	77249349077	Facebook	scotland	Scotland	UK	United Kingdom	3	1	499997	250000	3468	1735
+Scottish Green Party	Scottish Green Party	17999726169	Facebook	scotland	Scotland	UK	United Kingdom	14	1	480986	129000	4843	810
+Scottish Liberal Democrats	the Liberal Democrats	397986050296687	Facebook	scotland	Scotland	UK	United Kingdom	109	1	414891	93000	12487	0
+Exit from Brexit	the Liberal Democrats	1600429670027154	Facebook	scotland	Scotland	UK	United Kingdom	13	1	387987	143000	3340	462
+The Labour Party	The Labour Party	25749647410	Facebook	scotland	Scotland	UK	United Kingdom	180	1	341052	148826	2664	277
+Best For Britain	Best for Britain	1863944713844924	Facebook	scotland	Scotland	UK	United Kingdom	59	1	287853	90421	2317	479
+Scottish Conservatives	the Scottish Conservative and Unionist Party	136308776480	Facebook	scotland	Scotland	UK	United Kingdom	2	1	205692	101138	5850	1170
+Young Liberals	the Liberal Democrats	22610176568	Facebook	scotland	Scotland	UK	United Kingdom	10	1	137990	33000	2071	231
+Moray SNP	Moray SNP	314918278608280	Facebook	scotland	Scotland	UK	United Kingdom	2	1	99998	20000	229	0
+Change UK - The Independent Group	Change UK - The Independent Group	395151614382309	Facebook	scotland	Scotland	UK	United Kingdom	68	1	63801	28065	626	193
+East Lothian SNP CA	East Lothain SNP	277373879008172	Facebook	scotland	Scotland	UK	United Kingdom	1	1	49999	10000	577	115
+Witsherface	Elizabeth Caproni	857393787643412	Facebook	scotland	Scotland	UK	United Kingdom	1	1	49999	10000	114	0
+Scots For Leave	Scots for Leave	781591985301624	Facebook	scotland	Scotland	UK	United Kingdom	1	1	49999	10000	577	115
+RSPB Scotland	RSPB Scotland	184842418237207	Facebook	scotland	Scotland	UK	United Kingdom	1	1	49999	10000	114	0
+Crisis	Crisis UK	6447117653	Facebook	scotland	Scotland	UK	United Kingdom	14	1	47043	17011	1376	0
+Vote For Your Future	Vote For Your Future	2026046207505845	Facebook	scotland	Scotland	UK	United Kingdom	25	1	41759	17454	451	120
+Amnesty International UK	Amnesty International UK	7624294394	Facebook	scotland	Scotland	UK	United Kingdom	420	1	31125	6281	885	30
+UKIP North East of Scotland Branch	Lesley Alison Mcconochie	2507084875991896	Facebook	scotland	Scotland	UK	United Kingdom	11	1	22989	3000	1260	0
+Tristan Gray	Tristan Gray	262125774120331	Facebook	scotland	Scotland	UK	United Kingdom	11	1	22023	3006	1146	0
+Greenpeace UK	Greenpeace UK 	9250349228	Facebook	scotland	Scotland	UK	United Kingdom	50	1	19427	4629	91	7
+Swatch	Swatch	297973083586150	Facebook	scotland	Scotland	UK	United Kingdom	24	1	19207	7329	194	44
+Councillor Paul Kelly - Motherwell West	Paul Kelly	938719826182279	Facebook	scotland	Scotland	UK	United Kingdom	6	1	17994	3000	687	0
+Advanced Upholstery Services	hugh slight	315346635306354	Facebook	scotland	Scotland	UK	United Kingdom	2	1	14998	6000	229	0
+QuoteSearch.com	QuoteSearch	2235255886787452	Facebook	scotland	Scotland	UK	United Kingdom	90	1	12094	3967	192	24
+Scottish Borders Green Party	Catriona Isabella Hamilton	386646754850062	Facebook	scotland	Scotland	UK	United Kingdom	3	1	11052	2210	253	0
+Alex Rowley MSP	Alex Rowley MSP	1463126643980071	Facebook	scotland	Scotland	UK	United Kingdom	2	1	9998	2000	229	0
+Greenock & Inverclyde SNP	Mark Saunders	642335515864888	Facebook	scotland	Scotland	UK	United Kingdom	2	1	8169	1634	187	0
+The Bank Nightclub - Perth	ENT24 Ltd	621160024690830	Facebook	scotland	Scotland	UK	United Kingdom	3	1	6997	1000	343	0
+38 Degrees	38 Degrees	200006375787	Facebook	scotland	Scotland	UK	United Kingdom	21	1	6413	1829	38	2
+Business for Scotland	Business for Scotland	430016723726801	Facebook	scotland	Scotland	UK	United Kingdom	2	1	5998	1000	229	0
+European Parliament	European Parliament	178362315106	Facebook	scotland	Scotland	UK	United Kingdom	3	1	5095	2197	73	14
+Global Justice Now	Global Justice Now	6707857033	Facebook	scotland	Scotland	UK	United Kingdom	63	1	5003	1465	112	0
+Ramblers Scotland	Ramblers Scotland	136198803072713	Facebook	scotland	Scotland	UK	United Kingdom	1	1	4999	1000	114	0
+Revive: The coalition for grouse moor reform	The League Against Cruel Sports	521212475007788	Facebook	scotland	Scotland	UK	United Kingdom	1	1	4999	1000	114	0
+Stephen Gethins MP	North East Fife SNP	1532665740317736	Facebook	scotland	Scotland	UK	United Kingdom	1	1	4999	1000	114	0
+Scottish Family Party	Scottish Family Party	1313354295370593	Facebook	scotland	Scotland	UK	United Kingdom	1	1	4999	1000	114	0
+Perth4Europe	Susannah Clare Rae	1050896375014974	Facebook	scotland	Scotland	UK	United Kingdom	1	1	4999	1000	114	0
+Red Party of Scotland	Red Party of Scotland	405070253350573	Facebook	scotland	Scotland	UK	United Kingdom	1	1	4999	1000	114	0
+InFacts	InFacts	678120165658753	Facebook	scotland	Scotland	UK	United Kingdom	5	1	4281	1427	28	5
+People's Vote UK	People's Vote	748608695327755	Facebook	scotland	Scotland	UK	United Kingdom	21	1	3486	1107	37	4
+Daily Mirror	Reach Plc	6149699161	Facebook	scotland	Scotland	UK	United Kingdom	1	1	2665	1066	30	6
+Alex Salmond	Slainte Media	136191876445102	Facebook	scotland	Scotland	UK	United Kingdom	1	1	2539	1269	14	2
+WWF UK	WWF UK	311627208673	Facebook	scotland	Scotland	UK	United Kingdom	3	1	2360	1068	12	2
+Jo Swinson	Jo Swinson	20487968781	Facebook	scotland	Scotland	UK	United Kingdom	4	1	2246	783	88	13
+Inverclyde Liberal Democrats	Inverclyde Liberal Democrat Party	179796895369910	Facebook	scotland	Scotland	UK	United Kingdom	2	1	1998	0	229	0
+Trades Union Congress (TUC)	Trades Union Congress	124295177616347	Facebook	scotland	Scotland	UK	United Kingdom	48	1	1675	272	77	0
+Liana Saranga	Liana Saranga Gulcan	406430003544310	Facebook	scotland	Scotland	UK	United Kingdom	23	1	1672	407	28	1
+TheArticle	TheArticle	607840469632004	Facebook	scotland	Scotland	UK	United Kingdom	2	1	1399	699	5	1
+The Radical Tea Towel Company	Radical Tea Towel Company Ltd	242351902481164	Facebook	scotland	Scotland	UK	United Kingdom	3	1	1313	12	144	0
+The Women's Equality Party	The Women's Equality Party	1567955710156124	Facebook	scotland	Scotland	UK	United Kingdom	2	1	1176	571	14	6
+Dale Vince	Ecotricity	222595381410455	Facebook	scotland	Scotland	UK	United Kingdom	2	1	1110	222	12	2
+Tom Watson	The Labour Party. Promoted by Tom Watson on behalf of Tom Watson	470873686267967	Facebook	scotland	Scotland	UK	United Kingdom	8	1	1080	283	8	0
+Wee Schools Matter	Wee Schools Matter	2258168307595181	Facebook	scotland	Scotland	UK	United Kingdom	1	1	999	0	114	0
+Luke Graham for Ochil and South Perthshire	Perth and Kinross Conservative Association	392788644215614	Facebook	scotland	Scotland	UK	United Kingdom	1	1	999	0	114	0
+Alasdair Allan MSP	Alasdair Allan	107811502618426	Facebook	scotland	Scotland	UK	United Kingdom	1	1	999	0	114	0
+Callum Anderson SNP	Callum Anderson	410530175808219	Facebook	scotland	Scotland	UK	United Kingdom	1	1	999	0	114	0
+Abortion Support Network	Abortion Support Network	171179209569823	Facebook	scotland	Scotland	UK	United Kingdom	9	1	909	247	14	2
+Dave Chrisp Comedy	David Chrisp	210713339427124	Facebook	scotland	Scotland	UK	United Kingdom	4	1	866	201	4	0
+Global Optimism	Global Optimism	2062802910474026	Facebook	scotland	Scotland	UK	United Kingdom	6	1	838	178	9	0
+Jeremy Corbyn	The Labour Party	330250343871	Facebook	scotland	Scotland	UK	United Kingdom	2	1	801	400	6	3
 Scientists for EU	Scientists for EU	642444842524195	Facebook	scotland	Scotland	UK	United Kingdom	1	1	782	391	4	0
-School Cuts	National Education Union	871798409656672	Facebook	scotland	Scotland	UK	United Kingdom	1	1	445	89	1	0
-Global Optimism	Global Optimism	2062802910474026	Facebook	scotland	Scotland	UK	United Kingdom	1	1	293	58	0	0
-38 Degrees	38 Degrees	200006375787	Facebook	scotland	Scotland	UK	United Kingdom	3	1	244	111	3	0
-African Wildlife Courses	Jason Alexander Hendry	2345328912417791	Facebook	scotland	Scotland	UK	United Kingdom	3	1	115	0	13	0
+ourEconomy	openDemocracy	253598932237086	Facebook	scotland	Scotland	UK	United Kingdom	2	1	754	150	9	1
+School Cuts	National Education Union	871798409656672	Facebook	scotland	Scotland	UK	United Kingdom	2	1	726	145	4	0
+Conservatives	The Conservative Party	8807334278	Facebook	scotland	Scotland	UK	United Kingdom	637	1	724	139	27	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	scotland	Scotland	UK	United Kingdom	1	1	713	356	1	0
+Reignite	Reignite	702922223165890	Facebook	scotland	Scotland	UK	United Kingdom	4	1	684	263	7	3
+Sky Bet		144126855607425	Facebook	scotland	Scotland	UK	United Kingdom	1	1	433	86	5	1
+Peoples Vote West Lancashire	Terence Leonard Brotheridge	679879869119530	Facebook	scotland	Scotland	UK	United Kingdom	15	1	346	48	17	0
+Green Lane Masjid	Green Lane Masjid & Community Centre	173087829397613	Facebook	scotland	Scotland	UK	United Kingdom	2	1	324	85	3	0
+Life After Brexit UK	Life After Brexit	728114827366152	Facebook	scotland	Scotland	UK	United Kingdom	3	1	309	61	1	0
+Keep Britain Afloat	Keep Britain Afloat	789695304740584	Facebook	scotland	Scotland	UK	United Kingdom	2	1	301	63	0	0
+Loving Europe 2	Terence Brotheridge	999682533550783	Facebook	scotland	Scotland	UK	United Kingdom	10	1	265	43	10	0
+UKIP Bishop Auckland	ALAN JOJ'Y BREEZE	185015221854196	Facebook	scotland	Scotland	UK	United Kingdom	9	1	263	53	3	0
+Save the Children UK		117476785190	Facebook	scotland	Scotland	UK	United Kingdom	3	1	257	96	4	0
+UK-Cyprus Enterprise Council	UK-Cyprus Enterprise Council 	1837120569879342	Facebook	scotland	Scotland	UK	United Kingdom	2	1	218	107	2	0
+Hartiful - Pins and Patches	Kayleigh Hart	1862783580707663	Facebook	scotland	Scotland	UK	United Kingdom	10	1	211	31	9	0
+Project Period	This Is Our Period	309277939850011	Facebook	scotland	Scotland	UK	United Kingdom	12	1	206	0	23	0
+City Index	City Index	212613938870867	Facebook	scotland	Scotland	UK	United Kingdom	6	1	197	72	3	0
+Clean Planet Energy	Clean Planet Energy	2305756482788316	Facebook	scotland	Scotland	UK	United Kingdom	3	1	196	39	4	0
+Care4Calais	Care4Calais	1046117708754519	Facebook	scotland	Scotland	UK	United Kingdom	1	1	175	35	0	0
+crudelydrawn	crudelydrawn	222620808398959	Facebook	scotland	Scotland	UK	United Kingdom	7	1	164	29	5	0
+The One Earth Project	Ali Bayatpoor	466037360871459	Facebook	scotland	Scotland	UK	United Kingdom	9	1	163	0	18	0
+African Wildlife Courses	Jason Alexander Hendry	2345328912417791	Facebook	scotland	Scotland	UK	United Kingdom	9	1	160	0	18	0
+B. Dolan		102386295776	Facebook	scotland	Scotland	UK	United Kingdom	11	1	153	0	13	0
+Universal Credit Sufferer - Black Isle Journalism	Alex Tiffin Labour Party Member	195645871059826	Facebook	scotland	Scotland	UK	United Kingdom	1	1	153	30	3	0
+The Post Truth Post	satirical news site - The Post Truth Post	476757199396262	Facebook	scotland	Scotland	UK	United Kingdom	5	1	148	41	2	0
+SABA Relief & Development Foundation	SABA Relief	401629983213392	Facebook	scotland	Scotland	UK	United Kingdom	6	1	147	25	5	0
+WikiDesign.world	Amritpal Singh Claire	435474777014272	Facebook	scotland	Scotland	UK	United Kingdom	7	1	146	10	11	0
+European Movement UK	European Movement UK	290498754454402	Facebook	scotland	Scotland	UK	United Kingdom	14	1	136	11	10	0
+Liberty	Liberty	32514078659	Facebook	scotland	Scotland	UK	United Kingdom	1	1	130	65	1	0
+Chatham House	Chatham House	202798122688	Facebook	scotland	Scotland	UK	United Kingdom	1	1	129	64	0	0
+Lega nel Mondo UK Eire	Anthony John L Scatena	843190192698192	Facebook	scotland	Scotland	UK	United Kingdom	3	1	113	44	1	0
+The Jewellery App	Daren Daniels 	330299034102328	Facebook	scotland	Scotland	UK	United Kingdom	2	1	106	20	2	0
+Hannan Sarwar	Hannan Amer Sarwar	280256796023344	Facebook	scotland	Scotland	UK	United Kingdom	8	1	105	11	7	0
+Between the Lines	Between the Lines Patreon Sponsors	795963870768277	Facebook	scotland	Scotland	UK	United Kingdom	1	1	88	17	2	0
 Beira Moda	Ms Antonietta Marie Fionda	184230978956996	Facebook	scotland	Scotland	UK	United Kingdom	1	1	83	0	9	0
-Conservatives	The Conservative Party	8807334278	Facebook	scotland	Scotland	UK	United Kingdom	376	1	54	5	4	0
+ASR Activism Photography	ASR Activism Photography	1750381455268923	Facebook	scotland	Scotland	UK	United Kingdom	1	1	76	15	1	0
+The Brexit Party	The Brexit Party	230416667843105	Facebook	scotland	Scotland	UK	United Kingdom	2	1	74	18	8	2
+Ovarian Cancer Action	Ovarian Cancer Action	126647350680938	Facebook	scotland	Scotland	UK	United Kingdom	1	1	64	12	1	0
+USR Diaspora	Uniunea Salvați România - USR	1793510380925494	Facebook	scotland	Scotland	UK	United Kingdom	4	1	57	14	0	0
+Dose of Society	Dose of Society	323340437359	Facebook	scotland	Scotland	UK	United Kingdom	2	1	55	11	1	0
+Just1Ticket	Simon Hamnett	2185621478171676	Facebook	scotland	Scotland	UK	United Kingdom	1	1	46	9	1	0
+Pinksixty	Leeze Lawrence	108182029247820	Facebook	scotland	Scotland	UK	United Kingdom	4	1	46	0	5	0
+Lilongwe Wildlife Trust	Lilongwe Wildlife Trust	166774108410	Facebook	scotland	Scotland	UK	United Kingdom	1	1	42	8	0	0
+Veganuary	Veganuary	170911309781648	Facebook	scotland	Scotland	UK	United Kingdom	3	1	40	5	2	0
+Hacked Off	Hacked Off	291299977576800	Facebook	scotland	Scotland	UK	United Kingdom	1	1	39	7	0	0
+Fabian Society	the Fabian Society	65172792081	Facebook	scotland	Scotland	UK	United Kingdom	1	1	36	7	0	0
+Max Bryant	Max Taylor Bryant	1511114899101340	Facebook	scotland	Scotland	UK	United Kingdom	1	1	35	7	0	0
+UCU Left	UCU Left	926862034008348	Facebook	scotland	Scotland	UK	United Kingdom	1	1	35	7	0	0
+East Midlands Green Party	East Midlands Green Party	135118813311824	Facebook	scotland	Scotland	UK	United Kingdom	2	1	34	6	0	0
 Jack Gebhard - Mayor of Morpeth	Jack Gebhard	106346843584832	Facebook	scotland	Scotland	UK	United Kingdom	2	1	34	0	3	0
-UCU Left	UCU Left	926862034008348	Facebook	scotland	Scotland	UK	United Kingdom	1	1	34	6	0	0
-East Midlands Green Party	East Midlands Green Party	135118813311824	Facebook	scotland	Scotland	UK	United Kingdom	1	1	32	6	0	0
-Peoples Vote West Lancashire	Terence Leonard Brotheridge	679879869119530	Facebook	scotland	Scotland	UK	United Kingdom	2	1	32	3	1	0
-The Radical Tea Towel Company	Radical Tea Towel Company Ltd	242351902481164	Facebook	scotland	Scotland	UK	United Kingdom	1	1	17	0	1	0
-Hartiful - Pins and Patches	Kayleigh Hart	1862783580707663	Facebook	scotland	Scotland	UK	United Kingdom	2	1	11	0	1	0
-Pinksixty	Leeze Lawrence	108182029247820	Facebook	scotland	Scotland	UK	United Kingdom	1	1	11	0	1	0
-I Love EU	Terence Brotheridge	396013737832767	Facebook	scotland	Scotland	UK	United Kingdom	1	1	10	0	1	0
-SABA Relief & Development Foundation	SABA Relief	401629983213392	Facebook	scotland	Scotland	UK	United Kingdom	1	1	9	1	0	0
+Rachel Reeves	Office of Rachel Reeves MP	388650307829032	Facebook	scotland	Scotland	UK	United Kingdom	1	1	32	6	0	0
+cozymumandme	Deborah Anne Breasley	1286146104895670	Facebook	scotland	Scotland	UK	United Kingdom	2	1	31	3	1	0
+Nativve	Nativve	146383495502578	Facebook	scotland	Scotland	UK	United Kingdom	1	1	30	0	3	0
+Evolution Vehicle Leasing	Neal Christopher Glass	460432784693049	Facebook	scotland	Scotland	UK	United Kingdom	1	1	26	0	3	0
+Brighton and Hove for EU	Kevin Francis Mcnulty	221641368264635	Facebook	scotland	Scotland	UK	United Kingdom	2	1	26	5	0	0
+This Is Britain	Mr Nathan Julian B Kent	678626855904098	Facebook	scotland	Scotland	UK	United Kingdom	2	1	25	0	2	0
+Chuka Umunna	Chuka Umunna	22625199708	Facebook	scotland	Scotland	UK	United Kingdom	2	1	22	10	0	0
+Lawrence Prestidge	Lawrence Prestidge 	539735916189219	Facebook	scotland	Scotland	UK	United Kingdom	1	1	22	4	0	0
+I Love EU	Terence Brotheridge	396013737832767	Facebook	scotland	Scotland	UK	United Kingdom	2	1	21	0	2	0
+Liberal International	Liberal International	113393625358878	Facebook	scotland	Scotland	UK	United Kingdom	3	1	20	2	1	0
+The Brickish Times	The Brickish Times	247978256074118	Facebook	scotland	Scotland	UK	United Kingdom	1	1	20	4	0	0
+London Green Party	London Green Party	175350485880358	Facebook	scotland	Scotland	UK	United Kingdom	4	1	14	4	0	0
+Labour North	Labour North, Promoted by Fiona Stanton on behalf of Labour North	685018844928882	Facebook	scotland	Scotland	UK	United Kingdom	17	1	14	3	0	0
+Kanndoo	Kanndoo cic	1631164123582083	Facebook	scotland	Scotland	UK	United Kingdom	1	1	14	0	1	0
+Evolution Circle t/a Evolution Vans	Neal Christopher Glass	2085311085118659	Facebook	scotland	Scotland	UK	United Kingdom	1	1	12	0	1	0
+Just One Ocean	Just One Ocean	1469694876589710	Facebook	scotland	Scotland	UK	United Kingdom	1	1	12	0	1	0
+Sense Mesura		1606564102740842	Facebook	scotland	Scotland	UK	United Kingdom	19	1	12	0	1	0
+Southwark Liberal Democrats	Southwark Liberal Democrats	491862484305741	Facebook	scotland	Scotland	UK	United Kingdom	2	1	10	2	0	0
+Becky Dell	Rebecca Lucy Dell	409093303006143	Facebook	scotland	Scotland	UK	United Kingdom	2	1	10	0	1	0
+Moira Fine Jewellery		644735598990369	Facebook	scotland	Scotland	UK	United Kingdom	1	1	10	2	0	0
+Yusuf Chambers	One Ummah	111257452230362	Facebook	scotland	Scotland	UK	United Kingdom	2	1	9	1	0	0
+Sean Taylor Songs		136830392999651	Facebook	scotland	Scotland	UK	United Kingdom	1	1	9	0	0	0
+Tutorean		2025405767688116	Facebook	scotland	Scotland	UK	United Kingdom	1	1	9	1	0	0
+Moz fitness	MOZFITNESS	407064986144947	Facebook	scotland	Scotland	UK	United Kingdom	1	1	9	1	0	0
+London Labour Party	The Labour Party	474613052643462	Facebook	scotland	Scotland	UK	United Kingdom	19	1	8	2	0	0
+Labour North West	The Labour Party	61950489543	Facebook	scotland	Scotland	UK	United Kingdom	7	1	7	3	0	0
 Gutenberg Unbound	Gutenberg Unbound (apolitical apparel and accessories web-store)	2189982847933458	Facebook	scotland	Scotland	UK	United Kingdom	1	1	7	0	0	0
-Loving Europe 2	Terence Brotheridge	999682533550783	Facebook	scotland	Scotland	UK	United Kingdom	1	1	7	0	0	0
-USR Diaspora	Uniunea Salvați România - USR	1793510380925494	Facebook	scotland	Scotland	UK	United Kingdom	1	1	4	0	0	0
+Grant Sharkey	Grant Edward Sharkey	34533701462	Facebook	scotland	Scotland	UK	United Kingdom	1	1	4	0	0	0
+Yellowed		422966644928472	Facebook	scotland	Scotland	UK	United Kingdom	7	1	4	0	0	0
+Labour East	The Labour Party	407402162736656	Facebook	scotland	Scotland	UK	United Kingdom	6	1	3	1	0	0
 Jubilee+	Jubilee+	438366662862174	Facebook	scotland	Scotland	UK	United Kingdom	1	1	2	0	0	0
-London Labour Party	The Labour Party	474613052643462	Facebook	scotland	Scotland	UK	United Kingdom	3	1	1	0	0	0
-UKIP Bishop Auckland	ALAN JOJ'Y BREEZE	185015221854196	Facebook	scotland	Scotland	UK	United Kingdom	1	1	0	0	0	0
-West Midlands Labour	The Labour Party	1243222025739706	Facebook	scotland	Scotland	UK	United Kingdom	4	1	0	0	0	0
-East Midlands Labour	The Labour Party	1104066886293096	Facebook	scotland	Scotland	UK	United Kingdom	3	1	0	0	0	0
+Europe Thinx		335839580440114	Facebook	scotland	Scotland	UK	United Kingdom	1	1	2	0	0	0
+Labour South East	The Labour Party	123817579216	Facebook	scotland	Scotland	UK	United Kingdom	6	1	2	1	0	0
+Yorkshire and the Humber Labour Party	the Labour party	1608245282744484	Facebook	scotland	Scotland	UK	United Kingdom	3	1	2	1	0	0
+Labour South West	The Labour Party	673238736142723	Facebook	scotland	Scotland	UK	United Kingdom	1	1	2	0	0	0
+Polski Dom Finansowy		1753194424931019	Facebook	scotland	Scotland	UK	United Kingdom	1	1	1	0	0	0
+Free Quran Education		388655174641163	Facebook	scotland	Scotland	UK	United Kingdom	2	1	1	0	0	0
+West Midlands Labour	The Labour Party	1243222025739706	Facebook	scotland	Scotland	UK	United Kingdom	6	1	1	0	0	0
+East Midlands Labour	The Labour Party	1104066886293096	Facebook	scotland	Scotland	UK	United Kingdom	6	1	1	0	0	0
+North East Lib Dems to Stop Brexit	Tom Hancock	437706210130366	Facebook	scotland	Scotland	UK	United Kingdom	5	1	1	0	0	0
+THTC - The Hemp Trading Company	THTC Clothing Ltd	30239959348	Facebook	scotland	Scotland	UK	United Kingdom	1	1	1	0	0	0
+Erfan Keyhani UK -عرفان کیهانی انگلستان	Erfan Keyhani (halgheh)	247689952378396	Facebook	scotland	Scotland	UK	United Kingdom	1	1	0	0	0	0
+Gabriela Mirescu		2618888988127707	Facebook	scotland	Scotland	UK	United Kingdom	2	1	0	0	0	0
+Bridget Phillipson	 the Labour Party. Promoted by Les Scott on behalf of Bridget Phillipson	329262860438866	Facebook	scotland	Scotland	UK	United Kingdom	1	1	0	0	0	0
+Plan International UK	Plan International UK	18044497940	Facebook	scotland	Scotland	UK	United Kingdom	1	1	0	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	scotland	Scotland	UK	United Kingdom	1	1	0	0	0	0
+Anna Turley MP for Redcar	Redcar Constituency Labour Party	108283675982010	Facebook	scotland	Scotland	UK	United Kingdom	2	1	0	0	0	0
+Paul Bristow	The Conservative Party	293864561226540	Facebook	scotland	Scotland	UK	United Kingdom	1	1	0	0	0	0
+Peterborough Conservatives	The Conservative Party	1410613969166253	Facebook	scotland	Scotland	UK	United Kingdom	1	1	0	0	0	0
+Big News Buzz		125179374733697	Facebook	scotland	Scotland	UK	United Kingdom	1	1	0	0	0	0
+Lisa Forbes for Peterborough	The Labour Party	365430600210847	Facebook	scotland	Scotland	UK	United Kingdom	4	1	0	0	0	0
+South West Green Party	The Green Party of England and Wales	244490049076873	Facebook	scotland	Scotland	UK	United Kingdom	3	1	0	0	0	0
+ETUC		129041250601685	Facebook	scotland	Scotland	UK	United Kingdom	1	1	0	0	0	0
+Mahindra Rise		158304157570734	Facebook	scotland	Scotland	UK	United Kingdom	1	1	0	0	0	0
+Co-operative Party	Co-operative Party	7569385657	Facebook	scotland	Scotland	UK	United Kingdom	1	1	0	0	0	0
+Manchester City		208411345454	Facebook	scotland	Scotland	UK	United Kingdom	1	1	0	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	scotland	Scotland	UK	United Kingdom	2	1	0	0	0	0
+Eurozine		115579498521257	Facebook	scotland	Scotland	UK	United Kingdom	1	1	0	0	0	0
+Tom MacDonald		212732770186	Facebook	scotland	Scotland	UK	United Kingdom	1	1	0	0	0	0
+Tokyo Weekender		134654693230171	Facebook	scotland	Scotland	UK	United Kingdom	1	1	0	0	0	0
+Discover Philadelphia		60364167807	Facebook	scotland	Scotland	UK	United Kingdom	1	1	0	0	0	0
+CEMEX		275606287530	Facebook	scotland	Scotland	UK	United Kingdom	1	1	0	0	0	0

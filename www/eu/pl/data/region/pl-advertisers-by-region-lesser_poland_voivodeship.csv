@@ -1,33 +1,122 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	region_code_filter	region_name_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Tomasz Leśniak	KW Wiosna Roberta Biedronia	397430734381499	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	7	1	64222	15000	329	46
-Prawo i Sprawiedliwość	Komitet Wyborczy Prawo i Sprawiedliwość	157458232131	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	5	1	43469	18469	88	17
-Maciej Gdula	KW Wiosna Roberta Biedronia	831495030528894	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	25274	5055	58	11
-Bogusław Sonik	KWW KOALICJA EUROPEJSKA PO PSL SLD .N ZIELONI	75775141409	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	15	1	11978	306	247	0
-Konfederacja KORWiN Braun Liroy Narodowcy	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1971966879776579	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	19	1	11803	4470	38	10
-Wiosna Biedronia	KW Wiosna Roberta Biedronia	2246647628925721	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	4	1	7085	2884	26	11
-Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	4	1	5535	2368	18	3
-Norbert Kaczmarczyk Poseł na Sejm RP	Kukiz'15 • Posłowie	814991668621838	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	5276	1055	23	0
-European Parliament	European Parliament	178362315106	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	4649	1859	46	9
-Adam Cyrański	KKW Koalicja Europejska Platforma PSL SLD .N Zieloni.	407715332768236	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	2483	496	11	0
-KUKIZ'15	Komitet Wyborczy Wyborców Kukiz'15	328170794051845	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	20	1	1887	728	7	0
-Front Europejski	Medium: agencja reklamowa	590514511295079	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	6	1	1381	300	4	0
-Amnesty International Polska	Amnesty International Polska	57544755889	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	3	1	1022	240	3	0
-Bogdan Klich	Bogdan Adam Klich 	102087510135950	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	999	0	23	0
-Joanna Sekuła - Kandydatka do Parlamentu Europejskiego	KKW Koalicja Europejska PO PSL SLD .N Zieloni 	797920373599555	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	934	186	0	0
-Krzysztof Bosak	Konfederacja KORWiN Braun Liroy Narodowcy	141833139301	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	619	123	1	0
-Nie Wstydzę Się Jezusa	Nie Wstydzę Się Jezusa	174848285894374	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	594	118	1	0
-Polski Klub Ekologiczny Koło Miejskie w Gliwicach	Maria Wanda Staniszewska	291839444209363	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	467	93	1	0
-Platforma Obywatelska	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	102931488739	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	397	88	0	0
-Łukasz Kohut	KW Wiosna Roberta Biedronia 	1465965073732774	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	252	50	0	0
-Parlament Europejski - Biuro w Polsce	Parlament Europejski - Biuro w Polsce	405326618416	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	228	45	0	0
-Jan Olbrycht	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	153098244704447	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	4	1	90	26	0	0
-Izabela Kloc	Komitet Wyborczy Prawo i Sprawidliwość	171128483067743	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	62	12	0	0
+Róża Thun	KKW Koalicja Europejska PO PSL SLD .N Zieloni	273260992765744	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	5	1	1353482	571351	2566	583
+KUKIZ'15	Komitet Wyborczy Wyborców Kukiz'15	328170794051845	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	148	1	690490	280259	2720	612
+Maciej Gdula	KW Wiosna Roberta Biedronia	831495030528894	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	9	1	546070	198728	2535	547
+Tomasz Leśniak	KW Wiosna Roberta Biedronia	397430734381499	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	17	1	395212	117000	5514	1139
+Bogusław Sonik	KWW KOALICJA EUROPEJSKA PO PSL SLD .N ZIELONI	75775141409	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	54	1	321736	67733	1318	84
+Patryk Jaki	KW Prawo i Sprawiedliwość	199877710116314	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	11	1	253535	83308	659	176
+Edukacja dla Dobrego Klimatu	Wojciech Makowski	798249970192065	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	28	1	161742	63923	500	104
+Konfederacja KORWiN Braun Liroy Narodowcy	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1971966879776579	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	58	1	122774	53525	392	98
+Elżbieta Zielińska	Komitet Wyborczy Wyborców KUKIZ15	513841568765040	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	3	1	100831	20166	245	44
+Jakub Bocheński	KW Wiosna Roberta Biedronia	857809167586212	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	97131	19426	225	45
+Ewa Sufin-Jacquemart	KKW Koalicja Europejska PO PSL SLD .N Zieloni	497768517019635	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	91428	34796	148	29
+Platforma Obywatelska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	102931488739	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	29	1	86383	24676	216	50
+Norbert Kaczmarczyk Poseł na Sejm RP	Kukiz'15 • Posłowie	814991668621838	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	6	1	79558	15912	184	37
+European Greens	European Greens	141366725876424	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	6	1	77914	33629	271	82
+Adam Cyrański	KKW Koalicja Europejska Platforma PSL SLD .N Zieloni.	407715332768236	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	9	1	75568	25230	431	104
+Fundacja Czyste Powietrze	Magdalena Strózik 	282404075935482	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	3	1	60446	12089	103	18
+Prawo i Sprawiedliwość	Komitet Wyborczy Prawo i Sprawiedliwość	157458232131	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	30	1	55664	26645	83	19
+Adam Jarubas	Materiał sfinansowany przez KKW Koalicja Europejska PO PSL SLD .N Zieloni	140229586049381	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	49999	10000	116	23
+European Parliament	European Parliament	178362315106	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	16	1	48809	20693	268	62
+Wiosna Biedronia	KW Wiosna Roberta Biedronia	2246647628925721	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	21	1	40475	18731	201	46
+Anna Krupka	Komitet Wyborczy Prawo i Sprawiedliwość  	130727956973250	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	4	1	39401	10277	238	78
+Konrad Berkowicz	Konrad Berkowicz	140962469393020	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	31737	6347	73	14
+European Commission	European Commission	107898832590939	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	33	1	30461	14405	174	33
+Front Europejski	Medium: agencja reklamowa	590514511295079	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	62	1	23818	7985	100	21
+Tomasz Terlecki	KW Wiosna Roberta Biedronia	2272893249704364	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	20900	8191	66	33
+Razem	KKW Lewica Razem - Razem, Unia Pracy, RSS	430323810469014	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	20	1	14437	5997	51	11
+Bawer Aondo-Akaa	Komitet Wyborczy Wyborców KUKIZ15	1474866972782161	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	4	1	14119	2641	81	0
+Gazeta Wyborcza	Gazeta Wyborcza	63563473556	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	78	1	13585	4290	30	4
+KlimatAlert	Wojciech Makowski	342956762998558	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	15	1	13365	4462	61	11
+Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	16	1	11883	3991	29	5
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	8	1	10966	4297	24	3
+Bogdan Klich	Bogdan Adam Klich 	102087510135950	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	9998	2000	46	0
+Amnesty International Polska	Amnesty International Polska	57544755889	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	9	1	7843	2897	37	12
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	7	1	6925	1480	62	16
+Dom Otwarty	Dom Otwarty	649621911846280	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	5750	2875	13	6
+Dobromir Sośnierz	KWW KONFEDERACJA KORWIN BRAUN LIROY NARODOWCY	1389430631355482	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	5598	1119	12	2
+Parlament Europejski - Biuro w Polsce	Parlament Europejski - Biuro w Polsce	405326618416	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	23	1	5375	1138	4	0
+Parlament Europejski - Biuro we Wrocławiu	Parlament Europejski - Biuro we Wrocławiu	426735034064813	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	5185	2074	12	2
+Partia Zieloni	KKW Koalicja Europejska PO PSL SLD .N Zieloni	48391402694	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	8	1	4955	2029	27	7
+Prawica Rzeczypospolitej	Komitet Wyborczy Wyborców KUKIZ15	262966184846	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	4	1	4128	821	6	2
+Jan Olbrycht	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	153098244704447	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	16	1	3985	1382	15	4
+Jacek Wilk	KWW Konfederacja Korwin Braun Liroy Narodowcy	499646073441042	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	2369	1184	3	1
+Krystyna Skowrońska		415516002548219	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	2273	1136	5	2
+KUKIZ'15 • Podbeskidzie	Dariusz Witold Mierzwa	1499178863637899	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	2214	442	5	1
+Nie Wstydzę Się Jezusa	Nie Wstydzę Się Jezusa	174848285894374	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	3	1	2127	866	5	1
+Polski Klub Ekologiczny Koło Miejskie w Gliwicach	Maria Wanda Staniszewska	291839444209363	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	2100	844	19	4
+Joanna Sekuła - Kandydatka do Parlamentu Europejskiego	KKW Koalicja Europejska PO PSL SLD .N Zieloni 	797920373599555	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	3	1	1958	434	1	0
+Piotr Ikonowicz	KKW Lewica Razem - Razem, Unia Pracy, RSS	121066958084066	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	3	1	1934	903	9	2
+Grzegorz Tobiszowski	KW Prawo i Sprawiedliwość	146655395680362	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	1893	378	4	0
+Izabela Kloc	Komitet Wyborczy Prawo i Sprawidliwość	171128483067743	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	6	1	1811	861	5	0
+Michał Korolko - profil publiczny	KKW Koalicja Europejska PO PSL SLD .N Zieloni (Michał Korolko)	334123340547325	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	1774	354	4	0
+Protestuj.pl	Protestuj.pl	450781218391641	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	1159	231	2	0
+Krzysztof Bosak	Konfederacja KORWiN Braun Liroy Narodowcy	141833139301	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	1113	222	2	0
+MamPrawoWiedziec.pl	Picture Doc Foundation	219298606466	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	4	1	1098	242	2	0
+Kurier Tarnowski	Kurier Tarnowski	266989963481692	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	999	0	23	0
+Polonia Semper Fidelis	Polonia Semper Fidelis	155770611655343	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	995	199	3	1
+Plastic Free Polska	Plastic Free Polska	2162232717176151	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	8	1	952	214	2	0
+Grzegorz Długi Kukiz'15	Dariusz Witold Mierzwa	1709231132633714	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	866	433	1	0
+Krytyka Polityczna	Krytyka Polityczna	74863922834	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	796	159	0	0
+Tomasz "Maślak" Maśnica	Jerzy Marian Smolicha	592440527549498	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	516	129	1	0
+Polska Fundacja im. Roberta Schumana	Polska Fundacja im. Roberta Schumana	150617698324166	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	510	102	1	0
+Sojusz Lewicy Demokratycznej - Koalicja Europejska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	137877409609952	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	499	249	1	0
+adidas		182162001806727	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	477	95	0	0
+K MAG	K MAG	317722036029	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	457	91	1	0
+Błękitny Węgiel	Błękitny Węgiel	567066860335135	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	416	83	1	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	4	1	334	67	0	0
+Łukasz Kohut	KW Wiosna Roberta Biedronia 	1465965073732774	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	3	1	309	79	1	0
+Lepiej wybierz	Katarzyna Stańczak	304972010400039	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	8	1	301	71	0	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	276	55	0	0
+Bolesław Piecha - poseł do Parlamentu Europejskiego	Agencja reklamowa NXT	704363502985858	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	3	1	263	107	0	0
+Jarosław Duda	KKW Koalicja Europejska PO PSL SLD .N ZIELONI	100666510056063	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	210	42	0	0
+Agnieszka Ścigaj - Poseł na Sejm RP	Komitet Wyborczy Wyborców KUKIZ15	1476482495991048	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	3	1	200	50	0	0
+Łukasz Świtek Fotografia	Łukasz Krzysztof Świtek 	720539361295873	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	165	82	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	104	52	0	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	15	1	91	39	0	0
+Lambda Warszawa		38339083373	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	86	43	0	0
+Krzysztof Sitarski Poseł na Sejm RP	Krzysztof Serafin Sitarski	897838423640166	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	20	1	85	17	0	0
+Włącz oszczędzanie	Łukasz Tadeusz Pająk	1599655186922126	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	3	1	76	13	0	0
+Ministerstwo Rodziny, Pracy i Polityki Społecznej		380485532115847	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	68	29	0	0
+Zdecentralizowana Rzeczpospolita	Anna Aleksandra Wojciuk	270581597199597	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	67	13	0	0
+Jarosław Rzepa	KKW Koalicja Europejska PO PSL SLD .N Zieloni	187622121427045	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	60	12	0	0
+Marek Balt	KKW Koalicja Europejska PO PSL SLD  .N Zieloni	398824790221548	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	4	1	52	10	0	0
+Ewa Jeżak	KW Wiosna Roberta Biedronia	1934052153566297	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	45	22	0	0
+Grzegorz Schetyna	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	1077045142306060	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	37	18	0	0
+Fine Dine	Angelika Katarzyna Borysiak	1650498151902140	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	36	7	0	0
 Nomada Stowarzyszenie		114318528622863	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	25	5	0	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	20	1	25	8	0	0
+To ja jestem Polską. Głosuję.		2253325488072521	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	18	0	1	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	3	1	16	7	0	0
 Pracownia Architektury Krajobrazu Anna Zbrzezna		510672049016743	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	12	0	1	0
-European Commission	European Commission	107898832590939	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	7	3	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	3	0	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	4	1	1	0	0	0
-Lucia Kleštincová	EUpositive.sk	1933440166748185	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	0	0	0	0
+Filcomp.pl	Paweł Seweryn Pietrusiak	391230480943892	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	9	0	0	0
+Bożena Lisowska	Paweł Galewski	1164052730286958	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	9	1	0	0
+Jerzy Janoska - Radny MiG Ogrodzieniec	KWW KONFEDERACJA KORWIN BRAUN LIROY NARODOWCY	934929276593605	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	9	1	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	5	1	8	2	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	3	1	5	1	0	0
+Kurier Ząbkowski	Tomasz Kalata 	1507827496163615	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	5	0	0	0
+Michał Drewnicki - wiceprzewodniczący Rady Miasta Krakowa		561843337248654	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	4	0	0	0
+Renata Caban	Tomasz Mirosław Kowalski	288542178541100	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	3	1	4	0	0	0
+FRU.PL - Bilety Lotnicze i Hotele		166901739910	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	3	0	0	0
+Paweł Krutul	Komitet Wyborczy Wiosna Roberta Biedronia	1798798630436202	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	3	0	0	0
+Skuteczna modlitwa. Przewodnik		2118896628162986	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	3	0	0	0
+Jacek Wezgraj	KW Wiosna Roberta Biedronia	213293582024781	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	1	0	0	0
+Stanisław Żmijan	MarkNeting Sp. z o.o.	436755540466865	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	0	0	0	0
+Big News Buzz		125179374733697	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	0	0	0	0
+Europe Thinx		335839580440114	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	0	0	0	0
+CRIF		395919323779707	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	0	0	0	0
+Agata Hiero-Cichoń - Kandydat do PE z ramienia SBB, poz nr 5, lista nr 6,	Komitet Wyborczy Wyborców KUKIZ15	462211737855053	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	0	0	0	0
+ETUC		129041250601685	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	0	0	0	0
+Miriam Kuzárová, kandidátka do Európskeho parlamentu	KDH	137416183351336	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	0	0	0	0
+ITUC		20556338116	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	0	0	0	0
+Jaroslav Paška	Pašková Juliana	480862355305905	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	2	1	0	0	0	0
+Norbert Kurilla	Most-Híd (Híd-Most)	355021862017547	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	0	0	0	0
 Ivan ŠTEFANEC	KDH	324560137683033	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	0	0	0	0
-JUDr. Miroslav Radačovský, ex sudca - kandidát na poslanca EP	Radačovský Michal	730919327293761	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	0	0	0	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	0	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	0	0	0	0
+KDH	KDH	163449818290	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	0	0	0	0
+Vladimír Bilčík SPOLU - občianska demokracia	SPOLU - občianska demokracia	1501859650125625	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	0	0	0	0
+Michal Goriščák - kandidát do Európskeho parlamentu	Most-Híd (Híd-Most)	557989851389083	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	0	0	0	0
+JUDr. Miroslav Radačovský, ex sudca - kandidát na poslanca EP	Radačovský Michal	730919327293761	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	5	1	0	0	0	0
+Eurozine		115579498521257	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	0	0	0	0
+Lucia Rennerová - kandidátka na europoslankyňu	OBYČAJNÍ ĽUDIA a nezávislé osobnosti	385980928867138	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	0	0	0	0
+Lucia Kleštincová	EUpositive.sk	1933440166748185	Facebook	lesser_poland_voivodeship	Lesser Poland Voivodeship	PL	Poland	1	1	0	0	0	0

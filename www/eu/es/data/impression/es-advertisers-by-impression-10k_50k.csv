@@ -1,28 +1,219 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	impression_code_filter	impression_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Partido Socialista de la Región de Murcia (PSRM-PSOE)	Partido Socialista de la Región de Murcia 	154616807805	Facebook	10k_50k	10k - 50k	ES	Spain	8	1	399992	80000	1192	100
-Reacciona y Actúa	Actúa 	1916676245053161	Facebook	10k_50k	10k - 50k	ES	Spain	6	1	299993	59999	593	0
-Izquierda Unida de Castilla y León	Izquierda Unida de Castilla y León	315922371074	Facebook	10k_50k	10k - 50k	ES	Spain	4	1	199996	40000	1196	200
-Avaaz	Avaaz	8340223883	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	1097	200
-Marea Atlántica	Marea Atlántica	836117153066747	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
-Instituto Internacional de Derecho y Medio Ambiente (IIDMA)	Laura Fernández Dobarro	219220477095	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	197	0
-Podem Illes Balears	Podem Illes Balears	779897522101509	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
-Podemos Castilla-La Mancha	UNIDAS PODEMOS - IZQUIERDA UNIDA - EQUO CLM	624403874292676	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
+Ciudadanos Andalucía	Ciudadanos	522336804500176	Facebook	10k_50k	10k - 50k	ES	Spain	67	1	3349933	670000	29933	6100
+Partido Socialista de la Región de Murcia (PSRM-PSOE)	Partido Socialista de la Región de Murcia 	154616807805	Facebook	10k_50k	10k - 50k	ES	Spain	45	1	2249955	450000	8855	1100
+Compromís	Compromís	194053080624605	Facebook	10k_50k	10k - 50k	ES	Spain	38	1	1899961	379999	5361	399
+Ciudadanos	Ciudadanos	74078667754	Facebook	10k_50k	10k - 50k	ES	Spain	37	1	1849962	369999	16862	3299
+Greenpeace España	Greenpeace España	133044800622	Facebook	10k_50k	10k - 50k	ES	Spain	25	1	1249975	250000	2475	0
+Esquerra Republicana de Catalunya	Esquerra Republicana de Catalunya	150234575797	Facebook	10k_50k	10k - 50k	ES	Spain	20	1	999980	200000	3580	400
+MÉS per Mallorca	MÉS per Mallorca	183718528322316	Facebook	10k_50k	10k - 50k	ES	Spain	18	1	899982	180000	4982	800
+SEO/BirdLife	SEO/BirdLife	70020937349	Facebook	10k_50k	10k - 50k	ES	Spain	17	1	849983	170000	4083	600
+Avaaz	Avaaz	8340223883	Facebook	10k_50k	10k - 50k	ES	Spain	15	1	749979	149998	7084	1399
+Izquierda Unida de Castilla y León	Izquierda Unida de Castilla y León	315922371074	Facebook	10k_50k	10k - 50k	ES	Spain	14	1	699986	140000	4586	800
+Zaragoza en Común	Zaragoza en Común	1404651893174804	Facebook	10k_50k	10k - 50k	ES	Spain	14	1	699986	140000	4686	1100
+Esquerra Barcelona	Esquerra Barcelona	374070875952519	Facebook	10k_50k	10k - 50k	ES	Spain	13	1	649987	130000	5287	1000
+Barcelona en Comú	Barcelona en Comú	247118052078814	Facebook	10k_50k	10k - 50k	ES	Spain	12	1	599988	120000	5588	1100
+Junts per Catalunya	Junts per Catalunya	386166375144833	Facebook	10k_50k	10k - 50k	ES	Spain	12	1	599988	120000	5188	1000
+Jorge Azcón	Partido Popular Zaragoza	1005758609559650	Facebook	10k_50k	10k - 50k	ES	Spain	12	1	599988	120000	1188	0
+Reacciona y Actúa	Actúa 	1916676245053161	Facebook	10k_50k	10k - 50k	ES	Spain	12	1	599988	120000	1188	0
+Joan Ribó	Compromís	136302299749630	Facebook	10k_50k	10k - 50k	ES	Spain	11	1	549989	110000	3089	500
+Psc Barcelona	PSC Partit dels  Socialistes de Catalunya	439957149400799	Facebook	10k_50k	10k - 50k	ES	Spain	11	1	549989	110000	6089	1800
+Marea Atlántica	Marea Atlántica	836117153066747	Facebook	10k_50k	10k - 50k	ES	Spain	11	1	549989	110000	1089	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	10k_50k	10k - 50k	ES	Spain	11	1	521002	104202	5199	1042
+IU Aragón	IU Aragón	178663732095	Facebook	10k_50k	10k - 50k	ES	Spain	10	1	499990	100000	2990	500
+PSOE		189318235003	Facebook	10k_50k	10k - 50k	ES	Spain	10	1	499990	100000	990	0
+Navarra Suma	Navarra Suma	401519690408274	Facebook	10k_50k	10k - 50k	ES	Spain	10	1	499296	99861	1785	199
+Podemos Región de Murcia	Podemos Región de Murcia	1405445633036784	Facebook	10k_50k	10k - 50k	ES	Spain	9	1	449991	90000	1291	100
+Podemos Comunidad de Madrid	Unidas Podemos Izquierda Unida Madrid en Pie	261762710669900	Facebook	10k_50k	10k - 50k	ES	Spain	9	1	449991	90000	2591	700
+Álex Pastor	PSC Badalona	2053966338189807	Facebook	10k_50k	10k - 50k	ES	Spain	8	1	399992	80000	2392	400
+Partido Socialista Europeo	Partido Socialista Europeo	442423976113917	Facebook	10k_50k	10k - 50k	ES	Spain	8	1	399992	80000	1192	100
+Juan Antonio Morales	Juan Antonio Morales	245685148845187	Facebook	10k_50k	10k - 50k	ES	Spain	8	1	399992	80000	1992	300
+Volt España	Volt Europa España	2112231695664686	Facebook	10k_50k	10k - 50k	ES	Spain	8	1	399992	80000	1192	100
+Psoe La Rioja	PSOE La Rioja	198198820328526	Facebook	10k_50k	10k - 50k	ES	Spain	8	1	399992	80000	1592	200
+Óscar Urralburu	Podemos Región de Murcia	569280556548471	Facebook	10k_50k	10k - 50k	ES	Spain	7	1	349993	70000	3593	1000
+Podem	PODEMOS.	792238440859918	Facebook	10k_50k	10k - 50k	ES	Spain	7	1	349993	70000	1893	300
+Podemos Castilla-La Mancha	UNIDAS PODEMOS - IZQUIERDA UNIDA - EQUO CLM	624403874292676	Facebook	10k_50k	10k - 50k	ES	Spain	7	1	349993	70000	1093	100
+Pedro Quevedo Iturbe	Nueva Canarias	960849937289013	Facebook	10k_50k	10k - 50k	ES	Spain	7	1	349993	70000	1493	200
+PSOE Extremadura	PSOE Extremadura	187170858138979	Facebook	10k_50k	10k - 50k	ES	Spain	7	1	349816	69964	1092	100
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	10k_50k	10k - 50k	ES	Spain	7	1	300615	60124	995	100
+Jesús Santos	Unidas Podemos	1262476947185382	Facebook	10k_50k	10k - 50k	ES	Spain	6	1	299994	60000	2594	500
+Ciudadanos Aragón	Ciudadanos Aragón	246074155529623	Facebook	10k_50k	10k - 50k	ES	Spain	6	1	299994	60000	1394	200
+Nueva Canarias Las Palmas de Gran Canaria	Nueva Canarias	342077645945305	Facebook	10k_50k	10k - 50k	ES	Spain	5	1	249995	50000	495	0
+Cs Zaragoza	Ciudadanos Zaragoza	362982070559555	Facebook	10k_50k	10k - 50k	ES	Spain	5	1	249995	50000	495	0
+Dídac Nadal Abad	Partit Demòcrata Europeu Català	876740939186071	Facebook	10k_50k	10k - 50k	ES	Spain	5	1	249995	50000	495	0
+Somos Alcalá	Somos Alcalá	691838637600242	Facebook	10k_50k	10k - 50k	ES	Spain	5	1	249995	50000	2995	900
+EAJ-PNV	EAJ-PNV	26830001203	Facebook	10k_50k	10k - 50k	ES	Spain	4	1	199996	40000	796	100
+José Manuel Bermúdez	Coalicion Canaria	179844672027190	Facebook	10k_50k	10k - 50k	ES	Spain	4	1	199996	40000	1196	200
+Partido Popular de La Rioja	David Alejandro Macias	193386147348471	Facebook	10k_50k	10k - 50k	ES	Spain	4	1	199996	40000	796	100
+Podemos Zaragoza	PODEMOS - EQUO ZARAGOZA	1416966438543078	Facebook	10k_50k	10k - 50k	ES	Spain	4	1	199996	40000	396	0
+Podem Morvedre	PODEMOS.	249370875231775	Facebook	10k_50k	10k - 50k	ES	Spain	4	1	199996	40000	796	100
+Tenerifegana	Coalición Canaria	1840231536105942	Facebook	10k_50k	10k - 50k	ES	Spain	4	1	199996	40000	1196	200
+PSOE de Castilla-La Mancha	PSOE de Castilla-La Mancha	310081965717560	Facebook	10k_50k	10k - 50k	ES	Spain	4	1	199996	40000	396	0
+PSOE Alcalá de Henares	PSOE de Alcalá de Henares	82976913463	Facebook	10k_50k	10k - 50k	ES	Spain	4	1	199996	40000	1196	200
+EAJ PNV Bilbao	EAJ-PNV	901614836545126	Facebook	10k_50k	10k - 50k	ES	Spain	4	1	199996	40000	1196	200
+Coalición por El Bierzo	Coalición por El Bierzo	661476137308587	Facebook	10k_50k	10k - 50k	ES	Spain	4	1	199996	40000	796	100
+Javi López	Javi López	370863946442242	Facebook	10k_50k	10k - 50k	ES	Spain	4	1	199995	39999	395	0
+Alejandro Langtry	Alejandro Langtry Cainzos	876647346005514	Facebook	10k_50k	10k - 50k	ES	Spain	4	1	199995	39999	1595	299
+Somos Miel		363084687812526	Facebook	10k_50k	10k - 50k	ES	Spain	4	1	199995	39999	1595	299
+EH Bildu	EH Bildu	183202371808498	Facebook	10k_50k	10k - 50k	ES	Spain	4	1	199995	39999	1595	299
+Markel Olano	EAJ-PNV	898191063533170	Facebook	10k_50k	10k - 50k	ES	Spain	4	1	199203	39841	394	0
+VOX España		467127060059387	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	297	0
+Inés Rey - PSOE	PSdeG-PSOE A Coruña	332466134032139	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	1597	600
+Málaga Ahora	Málaga Ahora	781552348595473	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	297	0
+Federación Socialista Asturiana FSA-PSOE	Federación Socialista Asturiana FSA-PSOE	48426568814	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	297	0
+Equipo Gabilondo	PSOE	2510416598973466	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	297	0
+Podemos Getafe	Podemos	237626009756798	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	2497	1100
+Agrupación Municipal PSOE Huelva	Agrupación Municipal PSOE Huelva	372909479493645	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	297	0
+Pedro Santisteve Roche	Zaragoza en Común	543444259136619	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	697	100
+Luis Barcala	David Canovas Exposito	266999697008229	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	697	100
+Gorka Urtaran	EAJ-PNV	300674273455291	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	697	100
+IU Xixón	Xixón por la Izquierda (IU+IAS)	144926585684140	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	697	100
+EAJ PNV Bizkaiko Batzarkide Taldea	EAJ-PNV	1650615621908144	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	1497	300
+Junts per Vilafranca	Junts per Vilafranca	1160033834115342	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	1497	300
+Guillermo Fernández Vara	Guillermo Fernández Vara	56504926071	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	697	100
+Emiliano García-Page Sánchez	Emiliano García-Page Sánchez	131662690193032	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	297	0
+Podem Illes Balears	Podem Illes Balears	779897522101509	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	1097	200
+PSIB	PSIB-PSOE	182797475074265	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	297	0
+UCIN  El EJIDO		294568174559240	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	297	0
+Denis Itxaso	PSE -EE	107905879550963	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	1097	200
+Amaya Fernández	PP	486996548359961	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	297	0
+Podemos Aranjuez	Unidas Podemos Aranjuez	248379842014595	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	1497	300
+PS Móstoles	PS Móstoles	328021943957505	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	297	0
+Guanyem Badalona en Comú	Esquerra Republicana de Catalunya	445003612308437	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	297	0
+Antonio Morales Méndez	Nueva Canarias	972435506102094	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	697	100
+Izquierda Nacional de los Trabajadores - INTRA -  Figueres	Jaime Farrerons Sanchez	398513670329567	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149997	30000	1497	300
+Ayuda En Acción	Ayuda En Acción	245741112112300	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149996	29999	696	100
+Fundación Anesvad	Jose Manuel Bran Garcia	131231529742	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149996	29999	297	0
+Parlamento Europeo - Oficina en España	Parlamento Europeo - Oficina en España	161616883888862	Facebook	10k_50k	10k - 50k	ES	Spain	3	1	149996	29999	296	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	10k_50k	10k - 50k	ES	Spain	13	1	148351	29670	442	37
+Arturo Aliaga López	PAR	696833660500986	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	598	100
+Partido Por un Mundo más Justo · M+J	Partido Por un Mundo más Justo · M+J	147468905314265	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	598	100
+Adrián Barbón	Federación Socialista Asturiana FSA-PSOE	281802578697399	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
+Rosa Galindo Málaga Ahora	Málaga Ahora	283962895855799	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
+Cs Teruel	Ciudadanos Aragón	1547534802182236	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
+Todos a una per L'Hospitalet	PSC Partit dels  Socialistes de Catalunya	946528468690932	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	598	100
+Eneko Goia	EAJ-PNV	1534682943444716	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	598	100
+Teresa Mallada De Castro	Partido Popular de Asturias	2175837676009250	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
+Anna Erra	Partit Demòcrata	358953041585237	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
+Podemos Torrejón de Ardoz	Podemos Torrejón de Ardoz	394489317377199	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	998	200
+Junts per Catalunya - Girona	OKMarketing	942049819146312	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	998	200
+PSOE Aragón	PSOE Aragón	170970449608409	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
+El Pi	El Pi - Proposta per les Illes Balears	399927196743648	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
+SJM España	SJM España	468787443245721	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
+Francina Armengol Socias	PSIB-PSOE	343166605810231	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	598	100
+Mikel Buil García	Podemos Navarra	287876011759786	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
+Toni Postius	Partit Demòcrata Lleida	1590048664636534	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	598	100
+Antonio García Marichal	Antonio Miguel García Marichal	266888690629486	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
+Populares Ayamonte	Javier Aparicio	313897392129299	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	598	100
+Elena Allué ZGZ	Partido Aragonés	1066267686904935	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
+EAJ PNV Gipuzkoa	EAJ-PNV	144273808967495	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
+Xabier Iridoy	EAJ-PNV	1892692694210010	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	598	100
 En Comú Podem	En Comú Podem	463627663844039	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	998	200
-Compromís	Compromís	194053080624605	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99997	19999	597	99
+Partido Popular	Partido Popular	72249031214	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	1498	600
+Javier Rodríguez Palacios	PSOE de Alcalá de Henares	835026053225028	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	598	100
+CicloZero.com	Raquel Del Val Villaverde	228274408053486	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
+Unidas Podemos Fuenlabrada	Unidas Podemos Fuenlabrada	440393949836132	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	998	200
+Elkarrekin Podemos Irabazi	Equo Berdeak	1623655824523219	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
+PP Andaluz	PP Andaluz	1469275819951977	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
+Ciutats per la democràcia		2316658411949319	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	998	200
+Coalicion Canaria	Coalicion Canaria	1499578240271320	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	198	0
+BNG - Bloque Nacionalista Galego	Bloque Nacionalista Galego	128341470548824	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	598	100
+Partido Castellano-Tierra Comunera	PARTIDO CASTELLANO-TIERRA COMUNERA	197740877073863	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99998	20000	998	200
+Cambiemos Orihuela	Cambiemos Orihuela - CLARO: Unidas Podemos	341229742754620	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99997	19999	197	0
+Chunta Aragonesista		101179693581	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	99988	19998	197	0
+European Parliament	European Parliament	178362315106	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	9999	499	99
+BCN 2019: Volem un govern independentista		1667699733347144	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Cs Utebo	Ciudadanos Aragón	499028186926561	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Cs Huesca	Ciudadanos Aragón	406590509518850	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+PSOE Getafe	PSOE Getafe	466283470091128	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Podemos Aragón	Podemos Equo	570770963015441	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Recortes Cero	Recortes Cero	655009961299527	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Uddepartido		424935661578711	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
 Otra Parla Es Posible	Esther Torija Alonso	876560969172203	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
-EAJ-PNV	EAJ-PNV	26830001203	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
-Barcelona en Comú	Barcelona en Comú	247118052078814	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
-Podemos Torrejón de Ardoz	Podemos Torrejón de Ardoz	394489317377199	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
-PSOE de Castilla-La Mancha	PSOE de Castilla-La Mancha	310081965717560	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
-Guillermo Fernández Vara	Guillermo Fernández Vara	56504926071	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
-Esquerra Barcelona	Esquerra Barcelona	374070875952519	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
-PACMA - Partido Animalista	PACMA - Partido Animalista	72181181684	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
-Federación Socialista Asturiana FSA-PSOE	Federación Socialista Asturiana FSA-PSOE	48426568814	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
-Adrián Barbón	Federación Socialista Asturiana FSA-PSOE	281802578697399	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
-Todos a una per L'Hospitalet	PSC Partit dels  Socialistes de Catalunya	946528468690932	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
-PSIB	PSIB-PSOE	182797475074265	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
-Partido Por un Mundo más Justo · M+J	Partido Por un Mundo más Justo · M+J	147468905314265	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49998	9999	98	0
-Markel Olano	EAJ-PNV	898191063533170	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49780	9956	98	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	11608	2321	22	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	2639	527	5	0
-SPEA - Sociedade Portuguesa para o Estudo das Aves	SPEA - Sociedade Portuguesa para o Estudo das Aves	152559446094	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	4	0	0	0
+Alberto Cubero	Zaragoza en Común	1173805876010899	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+PACMA - Partido Animalista	PACMA - Partido Animalista	72181181684	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Podemos Soria	Jose Antonio Beltran Corredor	578645725562436	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+El Vapor		1443676492396617	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Podemos Euskadi	Podemos Euskadi	713474208684131	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Con Huesca	PODEMOS-EQUO	1939500672842601	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Jaume Buscallà	Partit Demòcrata	302376660418671	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Daniel Pérez Calvo	Ciudadanos Aragón	336805893626345	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Javier Couso	Izquierda en Positivo - Revolución Ciudadana	437735729613879	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Lídia Senra		493249967447007	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+SOS Colabora		351877478951783	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	9999	99	0
+Javier Castillo Soria	Grupo Municipal Socialista PSOE	352280815609769	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+José García Molina	UNIDAS PODEMOS - IZQUIERDA UNIDA - EQUO CLM	797997270295735	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Populares Alcantarilla	populares alcantarilla	466365553502285	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+PSOE Palma	PSOE Palma	366167016874721	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Amaia Del Campo Berasategi	EAJ-PNV	1590509731203726	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+PSC Partit dels  Socialistes de Catalunya	PSC Partit dels  Socialistes de Catalunya	87930687376	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Unidas Podemos Ciudad Real	UNIDAS PODEMOS - IZQUIERDA UNIDA - EQUO CLM	1757569474344621	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+EQUO Colindres	Alejandro Ruben Ahumada Avila	2210011285700878	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Álvaro Muñiz	Angel Garcia Moran	324371974873614	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Rosa Dávila	Coalicion Canaria	795108214204276	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Plan International España	Jose Manuel Bran Garcia	366619768708	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Entreculturas	Jose Manuel Bran Garcia	45817335745	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Unidas Podemos Izquierda Unida Alcalá de Henares	Unidas Podemos Izquierda Unida Alcalá de Henares	353863648591995	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Gabriel Mato	Gabriel Mato Adrover	629830667519269	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Primàries Cambrils		386403462096635	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Estamos Hartos		327764797813082	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+IU Córdoba Ciudad	IU Córdoba	830016950396132	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Unidos Mostoles	Unidos Móstoles	795355574130668	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+PSOE Canarias	PSOE Canarias	271931812851156	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Populars Eivissa	Armando Tur Molina 	227979920592904	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Alternativa por Santomera	More Plus	943974322282936	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Espacio Municipalista por Teruel	PODEMOS - EQUO	259729308314802	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Junts per Terrassa	Partit Demòcrata Terrassa	149771515164339	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Podemos Móstoles	Podemos	215650701965432	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Podemos Valdemoro	Podemos	2295459857184660	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+BNG Vigo		955837964434782	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Catalunya Actúa		298907624088541	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Populares Alicante Ciudad	David Canovas Exposito	1606596082927496	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Nacho Escartín Lasierra	PODEMOS - EQUO Nacho Escartín	1566472333633590	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Socialistes de Gandia	PSPV-PSOE Gandia	57539806026	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Dani Pérez		573508279661673	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+FORO Asturias	FORO Asturias	157783340940291	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+PP de Poio	Gabinete Peregrina	308143329389594	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+PP Arroyo Encomienda		373325309500947	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Jota Cañadas	Podemos	350245695551872	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Socialistes Província València		722013477894923	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Fernando Clavijo	Coalición Canaria	234189353400425	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Pepu_Alcalde	PSOE	390273414865554	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Alba Leo	Podemos	404585820104810	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Román Rodríguez		757713757627296	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Parlament Europeu a Barcelona	Parlament Europeu a Barcelona	134590246581400	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Podemos Teruel	PODEMOS EQUO	1438518336381730	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Raul Camargo		1287726361241252	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+PP Sant Josep de Sa Talaia	We Love Media	170564149636280	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Ramiro González	EAJ-PNV	723385821080169	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Cs Lanzarote		919686194749568	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Vallsbcn2019		523998741449240	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Círculo Podemos Alcobendas	Podemos	1778334822381065	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Podem Mallorca	Podem Illes Balears	500797436704410	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	9999	99	0
+Podem Manacor	Unidas Podemos	891685390849011	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Nacho Cuesta	Ciudadanos	267058447516650	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Gema Gil Mira	Unidas Podemos	354000792075872	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Mónica Monterreal Barrios	Podemos	318355535505198	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Sa Unió de Formentera - Llorenç Córdoba Marí	Armando Tur Molina 	1046400572218493	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Andoaingo EAJ PNV	EAJ-PNV	353374364850279	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Sandra Gómez		228752914179024	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Cs Granollers		198673450153013	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Adriana Valverde		1862573533787997	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+El  Porvenir del conceju de Llanes		431392333727579	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	499	100
+Juan Pedro Yllanes	Podem Illes Balears	514070155440534	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Partit Popular d'Es Mercadal i Fornells		664743753722867	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Pablo Rodríguez		178720995125	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Jaume Dulsat	Partit Demòcrata	815191145191798	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49999	10000	99	0
+Compromiso por Europa	Compromís	373604602781028	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49998	9999	98	0
+Ganar Teruel	Ganar Teruel	1564635077131450	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49998	9999	499	100
+Pablo Fernández		800470050043391	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49998	9999	98	0
+Podemos Estepona		1498722510220603	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49708	9941	98	0
+Sandra x Tomiño	Bloque Nacionalista Galego de Tomiño	623179161441345	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	49474	9895	97	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	7521	1504	75	15
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	7150	1430	14	0
+European Commission	European Commission	107898832590939	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	2842	568	5	0
+ETUC		129041250601685	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	2583	516	25	5
+Europe Thinx		335839580440114	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	1540	308	2	0
+CLAYTON		122493385103	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	558	111	1	0
+SPEA - Sociedade Portuguesa para o Estudo das Aves	SPEA - Sociedade Portuguesa para o Estudo das Aves	152559446094	Facebook	10k_50k	10k - 50k	ES	Spain	2	1	8	1	0	0
+CD&V	CD&V	52997544531	Facebook	10k_50k	10k - 50k	ES	Spain	1	1	1	0	0	0

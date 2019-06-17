@@ -1,65 +1,237 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	region_code_filter	region_name_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Det Konservative Folkeparti	Det Konservative Folkeparti	39233495912	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	33	1	110361	23784	1442	290
-Socialdemokratiet	Socialdemokratiet	41459763029	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	9	1	28554	8939	275	101
-Nanna Bonde	Ottosen Nanna Bonde	470433920022890	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	5	1	12416	1934	114	13
-Niels Flemming Hansen	Hansen Soren Casper Norskov	177609692660255	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	8	1	11883	998	104	0
-Erling Bonnesen	Bonnesen Erling Faber	390925417751473	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	8836	1767	118	23
-Jesper Petersen	Jesper Petersen	287814831337164	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	5726	1000	22	0
-Rune Christiansen - Radikale Venstre	Christiansen Rune	170821413115387	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	5596	931	24	0
-Nikolaj Villumsen	Nikolaj Villumsen	529124290474705	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	16	1	5186	2183	39	7
-Søren Pape Poulsen	Søren Pape Poulsen	952334508116178	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	4999	1000	66	13
-Mathias Christiansen - Folketingskandidat	Friis Rune Robert	295474127816294	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	4999	1000	66	13
-European Parliament	European Parliament	178362315106	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	3597	719	35	7
-Venstre, Danmarks Liberale Parti	Venstre, Danmarks Liberale Parti	21465928829	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	3002	760	40	10
-Karina Lorentzen Dehnhardt	Dehnhardt Karina Lorentzen	116061635098137	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	2766	553	36	7
-Asger Christensen i EU	Christensen Asger Bank Møller	1450750935146684	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	2425	485	32	6
-Margrete Auken	SF	36730930417	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	6	1	2319	974	19	3
-Europa-Parlamentet i Danmark	Europa-Parlamentet i Danmark	128700897207990	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	9	1	2218	619	20	3
-Christel Schaldemose	Christel Schaldemose	424159230945271	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	1991	0	26	0
-Enhedslisten	Enhedslisten	223040066022	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	1924	510	25	6
-Troels Ravn	Ravn Troels	526616710705073	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	999	0	13	0
-Rasmus Peter Henriksen	Henriksen Rasmus Peter	1522101171358705	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	999	0	13	0
-Lucas Zukunft	Zukunft Lucas Emil	458380827831211	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	974	0	12	0
-JØP - Stem på klima og højt ansvarligt afkast	Demokratisk Erhvervsnetværk	290304768567003	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	908	342	8	1
-Ældre Sagen	Ældre Sagen	126543540781090	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	890	178	11	2
-Gunner Poulsen SF	Poulsen Gunner Kjerulf 	355083705048259	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	887	0	11	0
-Morten Østergaard	Radikale Venstre	252520351444054	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	545	229	3	0
-Pia Olsen Dyhr	SF	49348971479	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	500	250	3	0
-Geodrilling	Andersen Soren	234290023402609	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	424	84	5	1
-Zenia Stampe	Zenia Stampe	127344360615074	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	413	157	3	0
+Mai Mercado	Mai Mercado	397094903687472	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	18	1	995058	309379	13268	2808
+Dansk Folkeparti	Dansk Folkeparti	520449347983427	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	11	1	700701	335392	11010	2645
+Venstre, Danmarks Liberale Parti	Venstre, Danmarks Liberale Parti	21465928829	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	82	1	575872	227445	4570	1436
+Niels Flemming Hansen	Hansen Niels Flemming Schultz	177609692660255	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	17	1	356068	79620	5783	1186
+Det Konservative Folkeparti	Det Konservative Folkeparti	39233495912	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	52	1	230156	77859	3838	933
+Socialdemokratiet	Socialdemokratiet	41459763029	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	43	1	226781	77265	2525	714
+Karina Lorentzen Dehnhardt	Dehnhardt Karina Lorentzen	116061635098137	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	8	1	220564	48510	1367	433
+Frederik Bloch Münster	Det Konservative Folkeparti	161801967707312	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	7	1	184584	45918	1332	427
+Mark Grossmann	Venstre Odense 1. kreds	393486437446456	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	48	1	161442	31543	866	64
+Dino Selimović	Selimovic Dino	423838101331835	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	148788	59395	795	199
+Lars Chr. Lilleholt	Lars Chr. Lilleholt	1408142216156387	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	89	1	140190	12942	1333	40
+Erling Bonnesen	Bonnesen Erling Faber	390925417751473	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	10	1	121467	26599	1094	249
+Rune Christiansen - Radikale Venstre	Christiansen Rune	170821413115387	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	6	1	113089	25226	950	225
+Camilla Hersom - Radikale Venstre	Hersom Camilla	425927674119415	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	106775	24291	1493	727
+Ulla Tørnæs	Ulla Tørnæs	1442400742660069	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	104900	20980	213	80
+Enhedslisten	Enhedslisten	223040066022	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	38	1	102434	40558	1059	449
+Kristian Thulesen Dahl	Dansk Folkeparti	531761723507375	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	100080	50000	1339	669
+Nanna Bonde	Ottosen Nanna Bonde	470433920022890	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	12	1	99503	19903	758	152
+European Parliament	European Parliament	178362315106	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	15	1	97547	44222	1102	307
+Eva Kjer Hansen	Hansen Eva Kjer	331049873725952	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	97072	48536	649	129
+Søren Pape Poulsen	Søren Pape Poulsen	952334508116178	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	15	1	96484	42758	2689	611
+Asger Christensen i EU	Christensen Asger Bank Møller	1450750935146684	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	13	1	93974	24674	1262	373
+Nikolaj Villumsen	Nikolaj Villumsen	529124290474705	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	39	1	87164	33299	1359	340
+Alexander Grandt	Petersen Alexander Grandt	1104859999606639	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	7	1	80966	18994	253	40
+Benny Engelbrecht	Socialdemokratiet	270431402967189	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	6	1	75989	17999	949	187
+Rasmus Helveg Petersen	Rasmus Helveg Petersen, Radikale Venstre	1377441749244487	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	5	1	70995	17000	280	53
+Karsten Hønge	SF	1246666085407861	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	69446	19845	331	146
+Folketingskandidat Jørgen Nielsen	Nielsen Jørgen	1922596311326861	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	13	1	67721	11593	853	142
+SF	SF	74796954245	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	35	1	63444	13623	643	144
+Stine Helles, spidskandidat, Alternativet Fyn	Helles Stine	1202144586507625	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	5	1	61636	11928	292	93
+Villy Søvndal	SF	8611462388	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	60997	15000	280	133
+Rasmus Vestergaard Madsen	Madsen Rasmus Vestergaard	196270790402710	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	57816	11563	773	154
+3F - Danmarks Stærkeste Fagforening	3F - Danmarks Stærkeste Fagforening	109012749124622	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	7	1	55710	22656	715	162
+Linea Søgaard-Lidell	Søgaard-Lidell Linea	1002755833225691	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	23	1	55509	19927	868	176
+Der er noget, der ikke stemmer	The Brand Agency ApS	607503123085160	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	53222	23857	540	159
+Henrik Noes Piester - kandidat til Europa-Parlamentet 2019	Piester Henrik Noes	2104859779842952	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	52182	10436	698	139
+Christel Schaldemose	Christel Schaldemose	424159230945271	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	13	1	51039	16400	1040	263
+Jesper Petersen	Jesper Petersen	287814831337164	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	9	1	49465	15734	594	157
+Casper Pedersen	Pedersen Casper	2252326791657399	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	12	1	43853	20163	273	59
+Pernille Weiss	Det Konservative Folkeparti	2071183673144991	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	16	1	40962	14876	786	196
+Margrete Auken	SF	36730930417	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	26	1	39322	8640	463	99
+Zetland	Zetland	341299649231023	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	65	1	38011	13069	142	49
+Henning Hyllested	Enhedslisten	100255467044528	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	11	1	36063	10789	468	133
+BUPL	BUPL	359674067377201	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	13	1	35554	13235	416	154
+Bergur Larsson Løkke Rasmussen	Bergur Løkke Rasmussen	141378109375840	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	32	1	34610	14430	460	192
+Dan Jørgensen	Socialdemokratiet	46151445835	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	5	1	34526	12821	395	118
+Dansk Industri - DI	Dansk Industri	141343589252160	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	15	1	33446	9216	292	71
+FOA	FOA	132344416862423	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	25	1	32583	10694	174	37
+Rasmus Peter Henriksen	Henriksen Rasmus Peter	1522101171358705	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	6	1	29807	5962	291	53
+Camilla Lydiksen	Lydiksen Camilla Louise	512961532554394	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	29636	5927	79	39
+Liberal Alliance	Liberal Alliance	106952222676974	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	140	1	29237	5851	174	30
+Gunner Poulsen SF	Poulsen Gunner Kjerulf 	355083705048259	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	10	1	28814	7457	173	12
+Pia Olsen Dyhr	SF	49348971479	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	24	1	28222	6033	324	97
+Europa-Parlamentet i Danmark	Europa-Parlamentet i Danmark	128700897207990	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	37	1	26521	6353	240	59
+Ældre Sagen	Ældre Sagen	126543540781090	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	26	1	26114	5877	206	53
+KRP.Fyn	Dyrn Gert	377070489810509	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	10	1	25853	3977	238	26
+Odense ser Rødt / Rundfunk la Rouge	Odense ser Rødt / Rundfunk la Rouge	129940943738051	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	5	1	25534	8107	341	108
+Fagbevægelsens Hovedorganisation	Fagbevægelsens Hovedorganisation	261599053881378	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	8	1	25108	9024	337	138
+Alternativet	Alternativet	676061179094769	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	6	1	25000	10681	175	54
+Enhedslisten Haderslev	Friis Rune Robert	410251262405824	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	5	1	24955	4992	279	53
+MF Jane Heitmann	Heitmann Jane Vallebo	100190170314199	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	10	1	21990	3000	346	53
+Lars Løkke Rasmussen	Venstre, Danmarks Liberale Parti	58140803787	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	6	1	21485	6190	180	40
+Trine Bramsen	Bramsen Trine	515338715236513	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	19998	10000	133	26
+Erik Poulsen - kandidat til Europa-Parlamentet	Erik Poulsen - kandidat til Europa-Parlamentet	203735820417737	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	8	1	19836	5390	357	83
+Assens Kommune	Assens Kommune	336333896418452	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	7	1	18993	3000	146	13
+Jeppe Kofod	Socialdemokratiet	137685999659722	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	10	1	18846	9294	138	33
+SF Ungdom	SF Ungdom	113555862534	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	6	1	18769	5145	157	30
+Kuzma Pavlov Jensen	Det Konservative Folkeparti	2798719490153637	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	18571	7459	245	49
+Anni Matthiesen	Venstre i Vejenkredsen	276323316097998	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	15997	6000	93	13
+Anne Skau Styrishave	Styrishave Anne Skau	1407237706021123	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	15977	2996	213	40
+Mette Frederiksen	Socialdemokratiet	57497067718	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	6	1	15151	3209	105	28
+Nils Sjøberg	Mogensen Carsten Lysbjerg	255662998253921	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	14998	6000	133	26
+Sissel van Run-Kvist	Kvist Sissel	176580099127279	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	19	1	13476	2598	137	28
+Danmarks Socialdemokratiske Ungdom (DSU)	DSU	126084211821	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	9	1	11765	2987	69	20
+Troels Ravn	Ravn Troels	526616710705073	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	10997	2000	39	0
+Mathias Christiansen - Folketingskandidat	Friis Rune Robert	295474127816294	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	10993	2000	146	26
+IDA	IDA	154415494575789	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	6	1	10088	2522	44	22
+Konservativ Ungdom	Konservativ Ungdom	119769598101853	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	9	1	10076	2182	49	14
+Tommy Hummelmose	Hummelmose Tommy	164203730418041	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	9999	5000	66	13
+Lasse Holm Grønning	Grønning Lasse Holm	2086240905000235	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	9999	5000	133	66
+Nye Borgerlige	Nye Borgerlige	646746285466931	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	9893	1978	132	26
+Erik Christensen	Erik Christensen	281421992030474	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	9844	4922	65	13
+Plantebevægelsen	Plantebevægelsen	136775899834790	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	5	1	9278	1855	124	24
+Klaus Riskær Pedersen	Parti Klaus Riskaer Pedersen	728307113871618	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	8979	1796	120	24
+Sammen er du stærkere	HK Danmark	732591266819090	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	8640	1728	166	64
+Skole og Forældre	Skole og Forældre	113241872062337	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	7835	2441	26	5
+Anders Burlund - Liberal Alliance	Burlund Andres Preben	256725284456505	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	8	1	7380	1656	42	10
+Amnesty International Danmark	Amnesty International Danmark	36664432940	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	5	1	7275	1559	81	17
+Morten Østergaard	Radikale Venstre	252520351444054	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	16	1	6439	1584	21	6
+Dina Raabjerg - Kandidat til EU - En jysk stemme	Myrup Dina Hoff	262868500820455	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	6373	1279	85	17
+FDM	FDM	46265612799	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	6320	1264	84	16
+Marianne Vind	Marianne Vind	329236874385098	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	11	1	6100	1646	115	26
+Enhedslisten Fredericia	Enhedslisten Fredericia	188251765760	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	5998	1000	80	13
+Our Europe - Vores Europa	Vores Europa	255229414620957	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	5	1	5902	1180	25	9
+Venstres Ungdom - VU	Venstres Ungdom - VU	167412043730	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	9	1	5558	1614	79	25
+Intact Denmark - Forening mod omskæring af børn	Intact Denmark - Forening mod omskæring af børn	415341115213431	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	4999	1000	13	0
+Slesvigsk Parti	Naujeck Thore	257293044391440	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	4999	1000	66	13
+Rune Frøding	Frøding Rune	493940517678048	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	8	1	4944	1341	73	21
+Troels Lund Poulsen	Poulsen Troels Lund	139443622778678	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	13	1	4942	989	66	13
+Lizette Risgaard	Lizette Risgaard	547601668763372	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	4885	2442	65	32
+Lucas Zukunft	Zukunft Lucas Emil	458380827831211	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	4771	954	12	0
+Karsten Brønnum - Dansk Folkeparti	Bronnum Karsten Hoegh	287848208507695	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	4761	793	63	10
+Anders Baun EP valg 2019	Sorensen Anders Baun	549966298750692	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	5	1	4654	1533	20	4
+Bo Vesterlund i EU	Vesterlund Bo	283364922287542	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	4639	928	62	12
+Dansk Sygeplejeråd	Dansk Sygeplejeråd	141531689719	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	4614	923	12	6
+DEO - Demokrati i Europa	Rasmus Nørlem Sørensen	115737371820702	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	4555	773	60	10
+Zenia Stampe	Zenia Stampe	127344360615074	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	9	1	4450	1183	17	6
+Mellemfolkeligt Samvirke	Mellemfolkeligt Samvirke	5624899398	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	86	1	4087	121	54	1
+Mette Poulsen	Poulsen Mette	1732891513391281	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	5	1	4084	809	54	10
+Så er det nu: Gør valget grønt	Jørgensen Mattias Friis	2074470782634792	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	8	1	4032	796	56	11
+Tina Christensen	Frandsen Søren Orlof	372304226446022	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	5	1	3917	951	42	8
+Hizb ut Tahrir Skandinavien	Shoaib Umais Usman	256932138237638	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	3747	749	7	3
+Kim Valentin	Valentin Kim	362875644473220	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	3737	860	52	13
+Charlotte Munch - Politiker	Munch Charlotte	210317432480139	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	6	1	3373	654	39	7
+Kira Marie Peter-Hansen	Peter-Hansen Kira Marie	1497190180404355	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	3343	1277	31	6
+Geodrilling	Andersen Soren	234290023402609	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	3308	661	44	8
+Philip Tarning-Andersen	Tarning-Andersen Philip	1546391055463179	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	3130	937	15	6
+En grønnere planet	Greenpeace Danmark	301647537160818	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	16	1	2863	505	18	4
+Oxfam IBIS	Oxfam IBIS	144965885963	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	6	1	2843	1337	71	21
+Jacob Mark	SF	69985338410	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	2514	623	5	1
+Petar Socevic - Radikale Venstre	Socevic Petar	2190488887846226	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	2513	502	33	6
+Ørsted	Ørsted	170902079673829	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	15	1	2507	751	68	14
+Fødevareforbundet NNF	Van Gilse Emilia Maria	175317675860634	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	2391	478	12	2
+Sex og Samfund	Sex og Samfund	250994288337708	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	2350	470	31	6
+VoteEuropa Danmark	Channirr Rizwana Shah	325480551446041	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	2220	441	29	5
+Nyt Europa	Nyt Europa	284571169850	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	2198	657	8	2
+Line Mørk	Mørk Line	220210991487359	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	1998	0	26	0
+Roya Moore	Moore Roya	726053570758084	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	1998	0	26	0
+Pernille Skipper	Pernille Skipper	547840621916967	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	1990	398	5	2
+Hedvig Vestergaard	Vestergaard Hedvig	193445758264942	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	6	1	1948	389	26	5
+European Greens	European Greens	141366725876424	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	1680	339	16	3
+Dansk Magisterforening	Dansk Magisterforening	314676938743	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	9	1	1623	548	12	2
+Dansk Vegetarisk Forening - DVF	Dansk Vegetarisk Forening - DVF	138978072648	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	5	1	1594	673	13	2
+Isabella Arendt	Kristendemokraterne	231609407194100	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	1317	413	14	2
+Rasmus Nordqvist	Rasmus Nordqvist	323452711195305	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	5	1	1179	519	9	1
+Martin Merrild, formand i Landbrug & Fødevarer	Martin Merrild, formand i Landbrug & Fødevarer	376442055780548	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	1172	586	7	1
+Anne Lawaetz Arhnung Adm. direktør i Landbrug & Fødevarer	Landbrug & Fødevarer	917531384985846	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	1150	393	11	2
+Peter Westermann	Westermann Peter	26531882197	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	1105	73	14	0
+Morten Thomsen	Thomsen Morten Kanstrup	212438249118298	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	999	0	13	0
+Fredericia Kommune		744600805654615	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	999	0	13	0
+Morten Klessen	Socialdemokratiet i Nordjylland	1039840406189567	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	6	1	977	272	15	5
+Thue Grum-Schwensen i EU	Grum-Schwensen Thue	1924899181139876	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	5	1	975	195	13	2
+Christoffer Aagaard Melson	Melson Christoffer Aagaard	539568842764605	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	970	0	12	0
+Inger Staahl Jensen i Europa-Parlamentet	Inger Staahl Jensen	586553418054920	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	7	1	933	130	12	1
+Tobias Clausen	Tobias Borup Clausen	191351967739859	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	918	170	16	5
+Jens Møller Jensen - kandidat til Europa-Parlamentet	Jensen Jens Moller	411042269671603	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	859	398	11	5
+Lene Dalsgaard	Gormsen Brian Bagger	457337381442094	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	841	168	2	0
+JØP - Stem på klima og højt ansvarligt afkast	Demokratisk Erhvervsnetværk	290304768567003	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	820	316	14	6
+Maria Mejse Mortensen	Mortensen Maria Mejse	347897006062987	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	818	296	7	1
+Greenpeace Danmark	Greenpeace Danmark	55365680705	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	14	1	721	44	7	0
+Morten Løkkegaard	Morten Løkkegaard	143232155749217	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	718	359	9	4
+Teknisk Landsforbund	Teknisk Landsforbund	122469085070	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	714	357	4	0
+Stem og bestem - EU	Stem og bestem - EU with Facebook ad credits	604169540059266	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	14	1	661	106	9	1
+Sophie Løhde	Sophie Løhde	699619700116377	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	628	302	4	1
+Karen Melchior	Karen Melchior, Radikale Venstre	1384921248388622	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	6	1	625	121	8	1
+Peter Miltersen Sørensen	Sørensen Peter Miltersen	1958321471140367	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	620	124	8	1
+En grøn vej	En grøn vej	360698364793568	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	6	1	565	0	7	0
+Rina Ronja Kari	Rina Ronja Kari	41763808759	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	544	272	7	3
+Danmarks Lærerforening	Danmarks Lærerforening	162408904078	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	398	199	5	2
 Carl Valentin	Carl Valentin	323782467803321	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	392	78	5	1
-Sissel van Run-Kvist	Kvist Sissel	176580099127279	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	5	1	357	0	4	0
-Philip Tarning-Andersen	Tarning-Andersen Philip	1546391055463179	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	306	61	0	0
-Venstres Ungdom - VU	Venstres Ungdom - VU	167412043730	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	297	47	4	0
-Jeppe Kofod	Socialdemokratiet	137685999659722	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	296	59	0	0
-Pernille Weiss	Det Konservative Folkeparti	2071183673144991	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	259	42	3	0
-Mette Poulsen	Poulsen Mette	1732891513391281	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	254	0	15	2
-Mellemfolkeligt Samvirke	Mellemfolkeligt Samvirke	5624899398	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	170	34	2	0
-Anders Burlund - Liberal Alliance	Burlund Andres Preben	256725284456505	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	149	0	1	0
-Thue Grum-Schwensen i EU	Grum-Schwensen Thue	1924899181139876	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	122	0	1	0
-Marianne Vind	Marianne Vind	329236874385098	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	118	0	1	0
-Så er det nu: Gør valget grønt	Jørgensen Mattias Friis	2074470782634792	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	6	1	115	0	1	0
-Inger Staahl Jensen i Europa-Parlamentet	Inger Staahl Jensen	586553418054920	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	112	0	1	0
-Alternativet	Alternativet	676061179094769	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	86	0	1	0
-Peter Westermann	Westermann Peter	26531882197	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	66	0	0	0
-Rasmus Nordqvist	Rasmus Nordqvist	323452711195305	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	56	11	0	0
-Dansk Vegetarisk Forening - DVF	Dansk Vegetarisk Forening - DVF	138978072648	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	52	0	0	0
-Mona Juul	Mona Juul	2079067062409423	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	50	10	0	0
-Rikke Lauritsen - SF	Lauritsen Rikke	471801563226188	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	46	0	0	0
-Susanne Zimmer - Alternativet	Zimmer Susanne	332103627167661	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	32	0	0	0
-Allon Hein Sørensen - Alternativet	Sorensen Allon Hein	1327955487287048	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	30	0	0	0
-Andreas Steenberg	Streenberg Andreas Frost	132364993978468	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	30	0	0	0
-Jens-Henrik Kirk	Kirk Jens-Henrik	683682235062292	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	23	0	0	0
-Jakob Thiemann i Europaparlamentet	Thiemann Jakob Hojfeldt	1987954044580914	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	15	0	1	0
-Fatma Øktem	Fatma Øktem	1695475020740767	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	2	0	0	0
-Alex Vanopslagh	Alex Vanopslagh	671022293105597	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	0	0	0	0
-Erik Poulsen - kandidat til Europa-Parlamentet	Erik Poulsen - kandidat til Europa-Parlamentet	203735820417737	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
-Dina Raabjerg - Kandidat til EU - En jysk stemme	Myrup Dina Hoff	262868500820455	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
-Troels Lund Poulsen	Poulsen Troels Lund	139443622778678	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	0	0	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	0	0	0	0
-European Commission	European Commission	107898832590939	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	0	0	0	0
-Nick Zimmermann - Dansk Folkeparti	Zimmermann Nick	331034483992282	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
-Gitte Willumsen - Folketingskandidat for Venstre	Willumsen Gitte	1751959911736210	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
-Folketingskandidat Anders G. Christensen	Christensen Anders Georg	1394304720620628	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
+Magistrene studerende	Dansk Magisterforening	334571029981175	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	388	142	3	1
+Allon Hein Sørensen - Alternativet	Sorensen Allon Hein	1327955487287048	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	378	75	5	1
+Jens-Henrik Kirk	Kirk Jens-Henrik	683682235062292	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	341	170	2	0
+Susanna Dyre-Greensite	Dyre-Greensite Susanna Jenny Margrethe	178957012989198	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	318	56	4	0
+Paw Amdisen i folketinget	Amdisen Paw Hedegaard	135980726440944	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	305	61	0	0
+Konservative - Fredensborg	Nørbjerg René	610370852321794	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	293	58	3	0
+Europabevægelsen	Europabevægelsen	356520931077196	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	274	137	3	1
+Stine Isaksen, Spidskandidat for Alternativet i Midt- og Vestjylland	Isaksen Stine	1378501112236847	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	258	51	0	0
+Bedre Psykiatri - Landsforeningen for pårørende	Bedre Psykiatri - Landsforeningen for pårørende	276145368333	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	252	50	3	0
+Jannie Valentin Dexter Jakobsen	Jakobsen Jannie Valentin Dexter	1237297216289064	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	243	48	3	0
+Lasse Bork Schmidt - kandidat til EP	Schmidt Lasse Bork	335511863690502	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	242	48	3	0
+Rikke Lauritsen - SF	Lauritsen Rikke	471801563226188	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	216	43	2	0
+Charlotte Libach	Johansen Charlotte Libach	161798761017183	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	196	39	2	0
+Peter Seier Christensen	Peter Seier Christensen	1104790642968068	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	172	26	2	0
+Sofie Carsten Nielsen	Sofie Carsten Nielsen	148900938515423	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	165	33	2	0
+Young Europe is Voting		2185639191504586	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	136	27	0	0
+Jakob Thiemann i Europaparlamentet	Thiemann Jakob Hojfeldt	1987954044580914	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	120	24	1	0
+Andreas Steenberg	Streenberg Andreas Frost	132364993978468	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	116	24	1	0
+Mona Juul	Mona Juul	2079067062409423	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	7	1	106	21	0	0
+Susanne Zimmer - Alternativet	Zimmer Susanne	332103627167661	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	4	1	96	11	0	0
+Rune Oliver Christensen - Dansk Folkeparti	Christensen Rune Oliver	1174924802552874	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	87	0	1	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	79	0	7	0
+BeboerBladet	BeboerBladet	221239504574504	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	76	0	1	0
+Aleksander Myrhøj - SF	Myrhøj Aleksander	1876896252587282	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	5	1	64	0	0	0
+Mogens Stig Møller	Moller Mogens Stig	1343667199001109	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	59	0	0	0
+Kenneth Mikkelsen	Mikkelsen Kenneth Dehn	180919889239757	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	56	11	0	0
+Folketingskandidat - Claus Bøgh Svenningsen	Svenningsen Claus Bogh	1392451360871381	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	46	0	0	0
+Frederik Damgaard	Damgaard Frederik	899897623364350	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	37	0	0	0
+Jacob Jensen	Jacob Jensen	256754327854276	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	34	0	0	0
+Bo Nygaard Larsen - politiker	Bo Nygaard Larsen - politiker	935585416526170	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	27	5	0	0
+European Commission	European Commission	107898832590939	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	21	1	26	12	0	0
+Torben Overgaard	Nielsen Torben Kirk Overgaard	766828280077855	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	24	3	0	0
+Palle Lykke Ravn	Ravn Palle Lykke	601750406666753	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	19	3	0	0
+Kasper Nordborg Kiær	Kasper Nordborg Kiær	653357941414990	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	16	0	0	0
+Konservative Sjaelland	Holm Keld	386912995038962	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	14	0	0	0
+Andreas Karlsen	Karlsen Andreas Engelsborg	371163919965024	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	13	2	0	0
+Jeppe Bruus	Christensen Jeppe Bruus	340189926157676	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	10	5	0	0
+Anne Hegelund	Hegelund Anne	810791178995871	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	8	4	0	0
+Daniel Toft Jakobsen	Jakobsen Daniel Toft	1533981276841327	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	8	1	0	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	22	1	7	3	0	0
+Sense Mesura		1606564102740842	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	13	1	6	0	0	0
+Fatma Øktem	Fatma Øktem	1695475020740767	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	7	1	4	0	0	0
+Gitte Willumsen - Folketingskandidat for Venstre	Willumsen Gitte	1751959911736210	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	13	1	3	0	0	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	15	1	3	1	0	0
+Charlotte Vindeløv	Vindeløv Charlotte	215204092326768	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	2	0	0	0
+René Nord Hansen - folketingskandidat	Det Konservative Folkeparti	779582492178326	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	1	0	0	0
+Folketingskandidat Anders G. Christensen	Christensen Anders Georg	1394304720620628	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	1	0	0	0
+Niels Fuglsang	Fuglsang Niels Peder Rindum	264009771074617	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	24	1	0	0	0	0
+Heidi Bank	Heidi Farsoe Bank	1912736882278358	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
+Michael Aastrup Jensen	Jensen Michael Aastrup	389665107805619	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	0	0	0	0
+Brigitte Klintskov Jerkel	Jerkel Brigitte Klintskov	229347797233832	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	0	0	0	0
+Alex Vanopslagh	Alex Vanopslagh	671022293105597	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	11	1	0	0	0	0
+Nick Zimmermann - Dansk Folkeparti	Zimmermann Nick	331034483992282	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	15	1	0	0	0	0
+DIE LINKE	DIE LINKE	47694585682	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	17	1	0	0	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	5	1	0	0	0	0
+Nicolai Wammen	Socialdemokratiet	1458354184437993	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	7	1	0	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
+Big News Buzz		125179374733697	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
+Free Quran Education		388655174641163	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	0	0	0	0
+Michael Skaaning Johansen - Radikale venstre	Johansen Michael Skaaning	186532251781059	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	0	0	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
+Henrik Jørgensen - Folketingskandidat for Venstre Brønderslevkredsen	Ladefoged Martin Aggerholm	523900267627364	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
+ETUC		129041250601685	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	0	0	0	0
+Jens Meilvang	Meilvang Jens	1550318855207094	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	0	0	0	0
+Karina Due - Dansk Folkeparti	Due Karina Friborg	727989634001093	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
+The Years Project	The Years Project	168876449866088	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
+Det Konservative Folkeparti Silkeborg	Det Konservative Folkeparti i Silkeborg	70226915326	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	2	1	0	0	0	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
+Anders Krojgaard Lund	Det Konservative Folkeparti	310638582806533	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	3	1	0	0	0	0
+Ole Revsgaard Andersen	Andersen Ole Thyrsted Revsgaard	2073614022864330	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
+Tom MacDonald		212732770186	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0
+Tokyo Weekender		134654693230171	Facebook	region_of_southern_denmark	Region of Southern Denmark	DK	Denmark	1	1	0	0	0	0

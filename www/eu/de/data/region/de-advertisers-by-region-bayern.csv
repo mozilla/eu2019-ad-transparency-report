@@ -1,71 +1,283 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	region_code_filter	region_name_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-CSU (Christlich-Soziale Union)	CSU (Christlich-Soziale Union)	81386795687	Facebook	bayern	Bayern	DE	Germany	3	1	1009994	404998	10096	1999
-BÜNDNIS 90/DIE GRÜNEN	BÜNDNIS 90/DIE GRÜNEN	47217143218	Facebook	bayern	Bayern	DE	Germany	255	1	284280	44583	14793	0
-Monika Hohlmeier	Monika Hohlmeier	139065632780165	Facebook	bayern	Bayern	DE	Germany	10	1	227424	51086	895	0
-Bayernpartei	Bayernpartei	78309442751	Facebook	bayern	Bayern	DE	Germany	7	1	167393	36279	1807	302
-FDP	FDP	21289227249	Facebook	bayern	Bayern	DE	Germany	409	1	63233	13457	875	8
-Junge Liberale JuLis Bayern	Junge Liberale Bayern e.V.	109135205793336	Facebook	bayern	Bayern	DE	Germany	2	1	59998	15000	198	0
-Angelika Niebler	Angelika Niebler	183448258342806	Facebook	bayern	Bayern	DE	Germany	1	1	49999	10000	99	0
-FDP Bayern	FDP Bayern	350558562311	Facebook	bayern	Bayern	DE	Germany	1	1	49762	9952	98	0
-European Parliament	European Parliament	178362315106	Facebook	bayern	Bayern	DE	Germany	1	1	21481	10740	107	21
-CDU	CDU	78502295414	Facebook	bayern	Bayern	DE	Germany	66	1	13760	2446	393	0
-Party of the European Left	Franziska Laskowski	160598290012	Facebook	bayern	Bayern	DE	Germany	1	1	12289	4915	12	2
-Verband der Chemischen Industrie e.V.	Chemie Wirtschaftsförderungs GmbH	921326477983554	Facebook	bayern	Bayern	DE	Germany	104	1	10680	574	860	0
-Greenpeace Deutschland	Greenpeace Deutschland	22541752487	Facebook	bayern	Bayern	DE	Germany	4	1	10036	2000	201	0
-Bündnis 90/Die Grünen Fürth	Bündnis 90/Die Grünen Fürth	138828612811001	Facebook	bayern	Bayern	DE	Germany	1	1	9999	5000	99	0
-Demokratie in Europa - Diem25	Demokratie in Europa - DiEM25	267443093828699	Facebook	bayern	Bayern	DE	Germany	21	1	8981	3678	64	6
-Europäisches Parlament - Verbindungsbüro in Deutschland	Europäisches Parlament - Verbindungsbüro in Deutschland	294494163510	Facebook	bayern	Bayern	DE	Germany	2	1	7849	3924	29	11
-JU-Kreisverband Deggendorf	Stefan Johann Zitzelsberger	377562525780294	Facebook	bayern	Bayern	DE	Germany	4	1	7098	1020	299	0
-GRÜNE im Landkreis FREISING	Bündnis 90/Die Grünen Kreisverband Freising	419905770448	Facebook	bayern	Bayern	DE	Germany	3	1	6997	1000	297	0
-GoodJobs	GoodJobs	1004883576238809	Facebook	bayern	Bayern	DE	Germany	2	1	4934	987	97	0
-PARTEI MENSCH UMWELT TIERSCHUTZ	PARTEI MENSCH UMWELT TIERSCHUTZ	108568039165729	Facebook	bayern	Bayern	DE	Germany	5	1	3904	781	41	7
-MENSCHLICHE WELT	Menschliche Welt	245758938922923	Facebook	bayern	Bayern	DE	Germany	7	1	3501	864	27	2
-Junge Liberale JuLis	Junge Liberale	110976485656573	Facebook	bayern	Bayern	DE	Germany	2	1	3042	608	30	6
-Matthias Dornhuber	SPD Mittelfranken	2273848225970175	Facebook	bayern	Bayern	DE	Germany	3	1	2997	0	297	0
-Jakob Schäuble	FDP Ingolstadt	1873283949575191	Facebook	bayern	Bayern	DE	Germany	2	1	1998	0	198	0
-Grüne Jugend Augsburg	Grüne Jugend Augsburg	102909819848567	Facebook	bayern	Bayern	DE	Germany	2	1	1983	0	196	0
-ver.di	la red	252085013582	Facebook	bayern	Bayern	DE	Germany	1	1	1972	986	19	9
-Piratenpartei Ansbach Weißenburg-Gunzenhausen	Piratenpartei Ansbach/Weißenburg-Gunzenhausen	113339232140512	Facebook	bayern	Bayern	DE	Germany	2	1	1767	0	175	0
-Partei der Humanisten	Partei der Humanisten	499613946840551	Facebook	bayern	Bayern	DE	Germany	4	1	1622	319	9	0
-AfD Ortsverband der großen Kreisstadt Neustadt bei Coburg	Michael Ernst Höpflinger	190646111623375	Facebook	bayern	Bayern	DE	Germany	3	1	1498	0	148	0
-Jusos in der SPD	Jusos in der SPD	40415227476	Facebook	bayern	Bayern	DE	Germany	2	1	1464	292	2	0
-European Free Alliance	European Free Alliance	46708306425	Facebook	bayern	Bayern	DE	Germany	2	1	1322	260	27	13
-SPD	SPD	47930567748	Facebook	bayern	Bayern	DE	Germany	19	1	1232	108	79	0
-Arbeitgeberverband Gesamtmetall	Arbeitgeberverband Gesamtmetall	169367889785454	Facebook	bayern	Bayern	DE	Germany	8	1	1204	297	15	0
-DIE LINKE	DIE LINKE	47694585682	Facebook	bayern	Bayern	DE	Germany	4	1	1092	269	12	1
-Alexander Hannes	CSU Kreisverband Regen	287380818788155	Facebook	bayern	Bayern	DE	Germany	1	1	994	0	98	0
+BÜNDNIS 90/DIE GRÜNEN	BÜNDNIS 90/DIE GRÜNEN	47217143218	Facebook	bayern	Bayern	DE	Germany	1857	1	6067690	1685957	89784	3306
+CSU (Christlich-Soziale Union)	CSU (Christlich-Soziale Union)	81386795687	Facebook	bayern	Bayern	DE	Germany	13	1	3360987	1515000	28787	9000
+SPD	SPD	47930567748	Facebook	bayern	Bayern	DE	Germany	4300	1	959375	300930	17309	1201
+Monika Hohlmeier	Monika Hohlmeier	139065632780165	Facebook	bayern	Bayern	DE	Germany	21	1	678028	228566	3184	400
+Bayernpartei	Bayernpartei	78309442751	Facebook	bayern	Bayern	DE	Germany	15	1	566143	175172	6811	2558
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	bayern	Bayern	DE	Germany	33	1	551001	208008	4782	1300
+FDP	FDP	21289227249	Facebook	bayern	Bayern	DE	Germany	1228	1	537291	156907	5545	264
+DIE LINKE	DIE LINKE	47694585682	Facebook	bayern	Bayern	DE	Germany	82	1	413347	135774	4002	111
+Angelika Niebler	Angelika Niebler	183448258342806	Facebook	bayern	Bayern	DE	Germany	9	1	239004	56775	3374	894
+European Free Alliance	European Free Alliance	46708306425	Facebook	bayern	Bayern	DE	Germany	5	1	214233	105686	5143	1028
+FDP Bayern	FDP Bayern	350558562311	Facebook	bayern	Bayern	DE	Germany	3	1	199369	69686	1493	299
+Junge Liberale JuLis Bayern	Junge Liberale Bayern e.V.	109135205793336	Facebook	bayern	Bayern	DE	Germany	11	1	181989	36000	1489	100
+Katarina Barley	SPD	1522202731410785	Facebook	bayern	Bayern	DE	Germany	821	1	176400	43698	2341	54
+Demokratie in Europa - Diem25	Demokratie in Europa - DiEM25	267443093828699	Facebook	bayern	Bayern	DE	Germany	99	1	134512	51945	672	175
+Avaaz	Avaaz	8340223883	Facebook	bayern	Bayern	DE	Germany	28	1	127262	55943	1135	230
+European Parliament	European Parliament	178362315106	Facebook	bayern	Bayern	DE	Germany	13	1	122892	56591	785	170
+Matthias Dornhuber	SPD Mittelfranken	2273848225970175	Facebook	bayern	Bayern	DE	Germany	63	1	118906	13993	6236	0
+Manuela Ripa	Manuela Magda Franca Maria Ripa	271226510199428	Facebook	bayern	Bayern	DE	Germany	9	1	102565	50486	5036	1004
+Nicola Beer	FDP	206866712830769	Facebook	bayern	Bayern	DE	Germany	73	1	100222	40726	999	197
+vbw – Die bayerische Wirtschaft	vbw – Die bayerische Wirtschaft	109233079118502	Facebook	bayern	Bayern	DE	Germany	1	1	99999	50000	499	100
+Ökologisch-Demokratische Partei (ÖDP)	Ökologisch-Demokratische Partei (ÖDP)	120655374567	Facebook	bayern	Bayern	DE	Germany	15	1	87405	43221	282	68
+Kialo	Kialo	729627343834501	Facebook	bayern	Bayern	DE	Germany	65	1	72819	16556	682	131
+JU-Kreisverband Deggendorf	Stefan Johann Zitzelsberger	377562525780294	Facebook	bayern	Bayern	DE	Germany	7	1	71112	17008	898	99
+SPD Nürnberg	SPD Nürnberg	144527089488	Facebook	bayern	Bayern	DE	Germany	5	1	70995	17000	495	0
+GRÜNE Bayern	GRÜNE Bayern	258191139993	Facebook	bayern	Bayern	DE	Germany	4	1	70990	19997	795	100
+Phil Hackemann	Philip Fritz Hermann Hackemann	234193444126795	Facebook	bayern	Bayern	DE	Germany	35	1	70211	10061	2980	0
+ABOUT YOU	ABOUT YOU	689801517732186	Facebook	bayern	Bayern	DE	Germany	5	1	63236	30563	393	93
+Sozialdemokratische Partei Europas	Sozialdemokratische Partei Europas	338549033673221	Facebook	bayern	Bayern	DE	Germany	21	1	62019	28420	266	49
+Die Offene Gesellschaft	die Initiative Offene Gesellschaft mit Facebook-Werbegutschrift	912255502235222	Facebook	bayern	Bayern	DE	Germany	477	1	57070	11924	1486	39
+Thalia Buchhandlung - Thalia.de	Thalia Buchhandlung - Thalia.de	342884401877	Facebook	bayern	Bayern	DE	Germany	15	1	56824	25055	866	196
+FDP Nürnberg	Holger Christofer Donhauser	173138849399254	Facebook	bayern	Bayern	DE	Germany	3	1	55997	11000	297	0
+FDP Oberbayern	Peter Anton Corticelli	285059978218487	Facebook	bayern	Bayern	DE	Germany	2	1	54723	10945	594	99
+Sven Giegold	Sven Giegold	1391306014465513	Facebook	bayern	Bayern	DE	Germany	21	1	53124	19920	474	91
+Campact e.V.	Campact e.V.	82734241364	Facebook	bayern	Bayern	DE	Germany	6	1	52511	25226	425	103
+München Rathaus		142979419267	Facebook	bayern	Bayern	DE	Germany	1	1	49999	10000	999	500
+Bündnis 90/Die Grünen Fürth	Bündnis 90/Die Grünen Fürth	138828612811001	Facebook	bayern	Bayern	DE	Germany	1	1	49999	10000	499	100
+Europäisches Parlament - Verbindungsbüro in Deutschland	Europäisches Parlament - Verbindungsbüro in Deutschland	294494163510	Facebook	bayern	Bayern	DE	Germany	3	1	42639	19257	316	63
+Benjamin Adam	Benjamin Adam	1824840387612176	Facebook	bayern	Bayern	DE	Germany	9	1	42016	11204	812	0
+CDU	CDU	78502295414	Facebook	bayern	Bayern	DE	Germany	187	1	34779	6230	977	0
+Partei der Humanisten	Partei der Humanisten	499613946840551	Facebook	bayern	Bayern	DE	Germany	8	1	33217	14628	323	79
+Greenpeace Deutschland	Greenpeace Deutschland	22541752487	Facebook	bayern	Bayern	DE	Germany	17	1	32871	10648	338	25
+Grüner Fisher Investments	Grüner Fisher Investments	138832469593845	Facebook	bayern	Bayern	DE	Germany	182	1	31592	5086	1927	200
+Jungbayernbund e.V.	#DieJungeBAYERNPARTEI	205315122916512	Facebook	bayern	Bayern	DE	Germany	10	1	30990	8000	990	0
+Party of the European Left	Franziska Laskowski	160598290012	Facebook	bayern	Bayern	DE	Germany	2	1	25518	10207	152	38
+Senatsverwaltung für Kultur und Europa		247450562347746	Facebook	bayern	Bayern	DE	Germany	3	1	24700	11137	55	18
+Junge Liberale JuLis	Junge Liberale	110976485656573	Facebook	bayern	Bayern	DE	Germany	5	1	23352	9371	326	64
+MENSCHLICHE WELT	Menschliche Welt	245758938922923	Facebook	bayern	Bayern	DE	Germany	24	1	22558	7980	288	62
+European Greens	European Greens	141366725876424	Facebook	bayern	Bayern	DE	Germany	8	1	22484	11185	113	32
+GoodJobs	GoodJobs	1004883576238809	Facebook	bayern	Bayern	DE	Germany	15	1	21434	4370	405	0
+GRÜNE im Landkreis FREISING	Bündnis 90/Die Grünen Kreisverband Freising	419905770448	Facebook	bayern	Bayern	DE	Germany	3	1	20997	10000	297	0
+Talking Europe	Diskutier Mit Mir e.V.	316028505828375	Facebook	bayern	Bayern	DE	Germany	6	1	20318	7473	203	39
+SPD Kaufbeuren	Martin Valdes Stauber	422797398290868	Facebook	bayern	Bayern	DE	Germany	2	1	19998	10000	198	0
+Deine Würde - Eine Initiative zum 70. Jubiläum des Grundgesetzes	Deine Würde - Eine Initiative zum 70. Jubiläum des Grundgesetzes	316160725982888	Facebook	bayern	Bayern	DE	Germany	1	1	19012	9506	95	19
+Konrad Körner	Konrad Körner	2070086326412791	Facebook	bayern	Bayern	DE	Germany	3	1	15997	6000	297	0
+Grüne Jugend Augsburg	Grüne Jugend Augsburg	102909819848567	Facebook	bayern	Bayern	DE	Germany	8	1	15964	2000	789	0
+Christoph Czakalla & Team	Christoph Czakalla	409314986526442	Facebook	bayern	Bayern	DE	Germany	3	1	15941	5984	296	0
+Verband der Chemischen Industrie e.V.	Chemie Wirtschaftsförderungs GmbH	921326477983554	Facebook	bayern	Bayern	DE	Germany	117	1	15651	2936	790	4
+WWF Deutschland	WWF Deutschland	218786540044	Facebook	bayern	Bayern	DE	Germany	6	1	15416	6839	153	68
+Manfred Bachmayer	Manfred Bachmayer	205109343006607	Facebook	bayern	Bayern	DE	Germany	4	1	14689	2757	362	0
+Neue Liberale - Die Sozialliberalen		730976676939532	Facebook	bayern	Bayern	DE	Germany	2	1	14016	5389	15	2
+Grüne Jugend	Grüne Jugend	159474940754336	Facebook	bayern	Bayern	DE	Germany	5	1	13312	5751	70	28
+Initiative Neue Soziale Marktwirtschaft (INSM)	Initiative Neue Soziale Marktwirtschaft (INSM)	121678260974	Facebook	bayern	Bayern	DE	Germany	104	1	13050	3047	278	0
+Volt Deutschland	Volt Deutschland	134209407129787	Facebook	bayern	Bayern	DE	Germany	99	1	12203	2716	186	4
+Jusos in der SPD	Jusos in der SPD	40415227476	Facebook	bayern	Bayern	DE	Germany	18	1	11841	3510	102	17
+PARTEI MENSCH UMWELT TIERSCHUTZ	PARTEI MENSCH UMWELT TIERSCHUTZ	108568039165729	Facebook	bayern	Bayern	DE	Germany	11	1	11733	3983	126	39
+Piratenpartei Ansbach Weißenburg-Gunzenhausen	Piratenpartei Ansbach/Weißenburg-Gunzenhausen	113339232140512	Facebook	bayern	Bayern	DE	Germany	8	1	11369	974	740	0
+Christian Doleschal	Christian Konrad Doleschal 	2364034560297457	Facebook	bayern	Bayern	DE	Germany	3	1	10997	2000	297	0
+Bundesregierung	Bundesregierung	768905426534529	Facebook	bayern	Bayern	DE	Germany	1	1	10043	4017	100	20
+Social Media Ads	Alexander Dietrich	561953460655717	Facebook	bayern	Bayern	DE	Germany	2	1	9999	5000	99	0
+Aufbruch wagen - SPD Rosenheim	SPD Rosenheim	2285393051781757	Facebook	bayern	Bayern	DE	Germany	1	1	9999	5000	99	0
+Grüne Stadtratsfraktion Nürnberg		750007671715581	Facebook	bayern	Bayern	DE	Germany	1	1	9996	4998	98	0
+Jakob Schäuble	FDP Ingolstadt	1873283949575191	Facebook	bayern	Bayern	DE	Germany	6	1	9994	1000	594	0
+AfD	AfD	540404695989874	Facebook	bayern	Bayern	DE	Germany	5	1	9561	4780	47	13
+Alexander Hannes	CSU Kreisverband Regen	287380818788155	Facebook	bayern	Bayern	DE	Germany	5	1	8980	998	494	0
+Tierschutz hier	Rudolf Görg 	2309063122705796	Facebook	bayern	Bayern	DE	Germany	12	1	8564	1880	53	7
+Klima-Allianz Deutschland	Klima-Allianz Deutschland	110521004952	Facebook	bayern	Bayern	DE	Germany	4	1	8178	3729	47	19
+Europäische Kommission – Vertretung in Deutschland	Europäische Kommission – Vertretung in Deutschland	123332714357231	Facebook	bayern	Bayern	DE	Germany	13	1	8022	1859	76	12
+JU Kunstadt-Jura	Niklas Stadelmann	391850180940511	Facebook	bayern	Bayern	DE	Germany	4	1	7996	1000	396	0
+Demokratie in Bewegung	Demokratie in Bewegung	1799478453653006	Facebook	bayern	Bayern	DE	Germany	13	1	7865	2571	75	12
+Friedrich-Naumann-Stiftung für die Freiheit	Friedrich-Naumann-Stiftung für die Freiheit	140889782312	Facebook	bayern	Bayern	DE	Germany	12	1	7676	2250	58	8
+IG Metall	IG Metall	249296718436	Facebook	bayern	Bayern	DE	Germany	2	1	7440	3107	17	2
+FDP-Fraktion Bayern	FDP-Fraktion Bayern	637552983272437	Facebook	bayern	Bayern	DE	Germany	3	1	6997	1000	297	0
+#NatürlichEuropa	Deutscher Naturschutzring DNR e.V.	255657841991242	Facebook	bayern	Bayern	DE	Germany	2	1	6747	3373	27	9
+Arbeitgeberverband Gesamtmetall	Arbeitgeberverband Gesamtmetall	169367889785454	Facebook	bayern	Bayern	DE	Germany	33	1	6653	1365	77	0
+Korbinian Rüger	Korbinian Nicholas Rüger 	296438801229915	Facebook	bayern	Bayern	DE	Germany	2	1	5998	1000	198	0
+Die Grünen KV Coburg-Stadt	Kevin Rudolf Klüglein	492112370837905	Facebook	bayern	Bayern	DE	Germany	2	1	5956	1191	117	0
+DGB Bundesvorstand	Deutscher Gewerkschaftsbund (DGB)	147245511963527	Facebook	bayern	Bayern	DE	Germany	1	1	5748	2299	57	11
+Diakonie Deutschland	Diakonie Deutschland	41509493347	Facebook	bayern	Bayern	DE	Germany	9	1	5671	1196	30	3
+Demokratie in Bewegung Sachsen-Anhalt	Demokratie in Bewegung Sachsen-Anhalt	1907967889415631	Facebook	bayern	Bayern	DE	Germany	2	1	5355	2648	15	2
+USR Diaspora	Uniunea Salvați România - USR	1793510380925494	Facebook	bayern	Bayern	DE	Germany	1	1	5317	2658	26	5
+SPD-Bundestagsfraktion	SPD-Bundestagsfraktion	144380008933707	Facebook	bayern	Bayern	DE	Germany	8	1	5039	1340	14	0
+Maria Noichl,  SPD-Europaabgeordnete	Maria Noichl	450050631725648	Facebook	bayern	Bayern	DE	Germany	1	1	4999	1000	99	0
+Union der Mitte Deutschlands - CSU & CDU Mitgliederinitiative		119155148758792	Facebook	bayern	Bayern	DE	Germany	1	1	4999	1000	99	0
+GAL Bamberg	GAL Bamberg	196928763660530	Facebook	bayern	Bayern	DE	Germany	1	1	4999	1000	99	0
+thyssenkrupp	thyssenkrupp	644063045675734	Facebook	bayern	Bayern	DE	Germany	1	1	4663	2331	11	2
+FinanzAgenda	Union Investment	276690259403364	Facebook	bayern	Bayern	DE	Germany	21	1	4093	777	83	1
+BÜNDNIS 90/DIE GRÜNEN Unterallgäu	Daniel Josef Pflügl	104736662944886	Facebook	bayern	Bayern	DE	Germany	1	1	4035	807	79	0
+Carolin Henseler	Carolin Nicola Henseler	201743000578232	Facebook	bayern	Bayern	DE	Germany	2	1	3913	1928	97	19
+Freie Wähler Bundesvereinigung	Freie Wähler Bundesvereinigung	204327886385912	Facebook	bayern	Bayern	DE	Germany	2	1	3799	1380	27	5
+Daniel Pflügl	Daniel Josef Pflügl	1514855751971159	Facebook	bayern	Bayern	DE	Germany	2	1	3641	528	151	0
+AfD Ortsverband der großen Kreisstadt Neustadt bei Coburg	Michael Ernst Höpflinger	190646111623375	Facebook	bayern	Bayern	DE	Germany	3	1	3588	509	153	0
+Graue Panther wählen	Rudolf Görg 	2014695908579485	Facebook	bayern	Bayern	DE	Germany	10	1	3577	980	46	7
+Özlem Alev Demirel	DIE LINKE. NRW	602487899802568	Facebook	bayern	Bayern	DE	Germany	1	1	3517	1758	17	8
+Bündnis Grundeinkommen	Bündnis Grundeinkommen	548285578684618	Facebook	bayern	Bayern	DE	Germany	14	1	3334	884	49	6
+Mike Mohring	CDU Weimarer Land	188677361503511	Facebook	bayern	Bayern	DE	Germany	9	1	3236	873	46	0
+YOU.and.EU	Nordstrom Laura Helena	250361215678222	Facebook	bayern	Bayern	DE	Germany	2	1	3157	631	6	0
+Eko Fresh	Christoph Friedrich Brust	103824796345976	Facebook	bayern	Bayern	DE	Germany	5	1	3076	853	26	5
+Karsten Klein	Karsten Klein	120519827980254	Facebook	bayern	Bayern	DE	Germany	8	1	2983	534	146	0
+LiSL Deutschland	Michael Kauch	223782884301813	Facebook	bayern	Bayern	DE	Germany	6	1	2982	637	36	6
+Change.org	Change.org e.V.	530905320274921	Facebook	bayern	Bayern	DE	Germany	3	1	2981	596	5	0
+Bündnis 90/Die Grünen Ulm	GRÜNE Ulm	642283985808604	Facebook	bayern	Bayern	DE	Germany	4	1	2733	531	33	5
+Adenauer Campus	Konrad-Adenauer-Stiftung	225123097665916	Facebook	bayern	Bayern	DE	Germany	44	1	2604	470	113	0
+Nemetschek Stiftung	Nemetschek Stiftung	186375644742050	Facebook	bayern	Bayern	DE	Germany	2	1	2471	1010	31	0
+VoteEuropa Deutschland	Verena Katharina Riedmiller	628787484249066	Facebook	bayern	Bayern	DE	Germany	3	1	2404	524	23	4
+Delara Burkhardt	SPD Schleswig-Holstein	260587924600836	Facebook	bayern	Bayern	DE	Germany	4	1	2351	1154	3	0
+UNO-Flüchtlingshilfe	UNO-Flüchtlingshilfe	236934790401	Facebook	bayern	Bayern	DE	Germany	8	1	2345	539	20	0
+Bündnis C - Christen für Deutschland	Bündnis C - Christen für Deutschland	675671552542620	Facebook	bayern	Bayern	DE	Germany	3	1	2201	427	27	4
+Deutsche gegen Rassismus	BIG Partei Deutschland	2367349223545054	Facebook	bayern	Bayern	DE	Germany	10	1	1996	399	15	0
+ver.di	la red	252085013582	Facebook	bayern	Bayern	DE	Germany	1	1	1971	986	19	9
+Konrad-Adenauer-Stiftung	Konrad-Adenauer-Stiftung	44511549119	Facebook	bayern	Bayern	DE	Germany	5	1	1807	361	8	0
+Quorum	European Exchange	3138731056152846	Facebook	bayern	Bayern	DE	Germany	3	1	1756	413	7	0
+Deutsches Kinderhilfswerk e.V.	Deutsches Kinderhilfswerk e.V.	107407945980041	Facebook	bayern	Bayern	DE	Germany	3	1	1751	350	18	3
+Robert Farle	Robert Farle	1565754943752371	Facebook	bayern	Bayern	DE	Germany	3	1	1751	349	18	3
+Thomas Sattelberger	Thomas Sattelberger	1714244788796089	Facebook	bayern	Bayern	DE	Germany	1	1	1747	349	3	0
+FDP Fraktion Bundestag	Fraktion der Freien Demokraten	341486659645594	Facebook	bayern	Bayern	DE	Germany	22	1	1679	421	35	0
+Hannes Jaenicke	David Michel Löwe 	731404243600603	Facebook	bayern	Bayern	DE	Germany	1	1	1625	325	3	0
+Mehr Wirtschaft wagen	Arbeitgeberverband Gesamtmetall	1805769829749530	Facebook	bayern	Bayern	DE	Germany	8	1	1553	291	20	0
+Michael Bloss	Michael Bloss	587477178350898	Facebook	bayern	Bayern	DE	Germany	2	1	1481	296	4	0
+Familien-Partei		2314479965496560	Facebook	bayern	Bayern	DE	Germany	1	1	1444	722	7	3
+Hannah Neumann	Bündnis 90/Die Grünen Berlin-Lichtenberg	316076495487717	Facebook	bayern	Bayern	DE	Germany	2	1	1371	274	14	2
+FDP Wahlkampf	Philippe André Westenfelder	393722064802394	Facebook	bayern	Bayern	DE	Germany	2	1	1353	335	4	0
+Karsten Hilse	Karsten Hilse 	358099231236311	Facebook	bayern	Bayern	DE	Germany	4	1	1312	256	8	0
+Arbeitnehmer und Rentner Union ARU	Peter Otto Arthur Rippler 	408239062653173	Facebook	bayern	Bayern	DE	Germany	5	1	1285	350	8	0
+Andrea Nahles	SPD	161929783920704	Facebook	bayern	Bayern	DE	Germany	2	1	1209	241	12	2
+enorm Magazin	GoodJobs	273110452731	Facebook	bayern	Bayern	DE	Germany	2	1	1142	228	4	0
+Marie-Agnes Strack-Zimmermann	Marie-Agnes Strack-Zimmermann	782677895144628	Facebook	bayern	Bayern	DE	Germany	2	1	1140	228	12	2
+Piratenpartei	Piratenpartei	149871337782	Facebook	bayern	Bayern	DE	Germany	1	1	1119	223	22	11
+BIG Partei Deutschland	BIG Partei Deutschland	353378298097249	Facebook	bayern	Bayern	DE	Germany	5	1	1103	210	17	1
+Berliner Stadtwerke	Berliner Stadtwerke	765844936882239	Facebook	bayern	Bayern	DE	Germany	1	1	1062	531	5	2
+Grüne Neu-Ulm		1427745830818618	Facebook	bayern	Bayern	DE	Germany	4	1	1043	125	53	0
+Ulrich Lechte	Ulrich Werner Maria Lechte	259242574566478	Facebook	bayern	Bayern	DE	Germany	2	1	1036	0	102	0
+FDP Bremen	FDP Bremen	152934608113175	Facebook	bayern	Bayern	DE	Germany	3	1	1031	252	17	3
+SPD OV Denning	Marko Poggenpohl	439757922821577	Facebook	bayern	Bayern	DE	Germany	1	1	999	0	99	0
+UDO VOIGT für Deutschland in Europa	UDO VOIGT für Deutschland in Europa	598011190253742	Facebook	bayern	Bayern	DE	Germany	1	1	999	499	9	4
+Hounds and People		250091041702057	Facebook	bayern	Bayern	DE	Germany	1	1	999	0	99	0
+SPD Ulm	Holger Oellermann	262950473606	Facebook	bayern	Bayern	DE	Germany	1	1	996	498	49	9
+Kleiner Fünf	Kleiner Fünf	1768812013390432	Facebook	bayern	Bayern	DE	Germany	2	1	995	199	9	1
 Landhotel Tannenhof***S		110369589038456	Facebook	bayern	Bayern	DE	Germany	1	1	990	0	98	0
-Katarina Barley	SPD	1522202731410785	Facebook	bayern	Bayern	DE	Germany	12	1	813	141	24	0
-Sven Giegold	Sven Giegold	1391306014465513	Facebook	bayern	Bayern	DE	Germany	3	1	715	357	7	0
-SPD-Bundestagsfraktion	SPD-Bundestagsfraktion	144380008933707	Facebook	bayern	Bayern	DE	Germany	1	1	410	82	0	0
-Adenauer Campus	Konrad-Adenauer-Stiftung	225123097665916	Facebook	bayern	Bayern	DE	Germany	8	1	319	25	21	0
-Arbeitnehmer und Rentner Union ARU	Peter Otto Arthur Rippler 	408239062653173	Facebook	bayern	Bayern	DE	Germany	3	1	307	102	4	0
-Konrad-Adenauer-Stiftung	Konrad-Adenauer-Stiftung	44511549119	Facebook	bayern	Bayern	DE	Germany	3	1	306	61	6	0
-FDP Fraktion Bundestag	Fraktion der Freien Demokraten	341486659645594	Facebook	bayern	Bayern	DE	Germany	4	1	278	81	5	0
-Karsten Klein	Karsten Klein	120519827980254	Facebook	bayern	Bayern	DE	Germany	1	1	249	49	4	0
-Robert Farle	Robert Farle	1565754943752371	Facebook	bayern	Bayern	DE	Germany	2	1	177	85	2	0
-VoteEuropa Deutschland	Verena Katharina Riedmiller	628787484249066	Facebook	bayern	Bayern	DE	Germany	1	1	154	30	3	0
-Junge Union Deutschlands	Junge Union Deutschlands	46098347293	Facebook	bayern	Bayern	DE	Germany	2	1	128	21	4	0
-LiSL Deutschland	Michael Kauch	223782884301813	Facebook	bayern	Bayern	DE	Germany	2	1	107	19	3	0
-FDP Wahlkampf	Philippe André Westenfelder	393722064802394	Facebook	bayern	Bayern	DE	Germany	1	1	106	21	2	0
-Marie-Agnes Strack-Zimmermann	Marie-Agnes Strack-Zimmermann	782677895144628	Facebook	bayern	Bayern	DE	Germany	2	1	98	17	2	0
-Alternative für Deutschland Mayen-Koblenz	Alternative für Deutschland Mayen-Koblenz	160882790765796	Facebook	bayern	Bayern	DE	Germany	2	1	89	15	2	0
-Demokratie in Bewegung	Demokratie in Bewegung	1799478453653006	Facebook	bayern	Bayern	DE	Germany	1	1	84	16	1	0
-Bündnis Grundeinkommen	Bündnis Grundeinkommen	548285578684618	Facebook	bayern	Bayern	DE	Germany	2	1	66	9	2	0
-Graue Panther wählen	Rudolf Görg 	2014695908579485	Facebook	bayern	Bayern	DE	Germany	1	1	64	12	1	0
-Phil Hackemann	Philip Fritz Hermann Hackemann	234193444126795	Facebook	bayern	Bayern	DE	Germany	1	1	46	9	0	0
-DIE LINKE. Herne / Wanne-Eickel	Patrick Gawliczek	137962769704818	Facebook	bayern	Bayern	DE	Germany	1	1	45	0	4	0
-Tierschutz hier	Rudolf Görg 	2309063122705796	Facebook	bayern	Bayern	DE	Germany	2	1	42	0	4	0
-Grüne im Kreis Germersheim	BÜNDNIS 90/DIE GRÜNEN KV Germerseheim	272673066211280	Facebook	bayern	Bayern	DE	Germany	1	1	14	0	1	0
-Karsten Hilse	Karsten Hilse 	358099231236311	Facebook	bayern	Bayern	DE	Germany	1	1	12	0	1	0
-Corinna Miazga	Corinna Miazga	1720472504912063	Facebook	bayern	Bayern	DE	Germany	1	1	8	0	0	0
-Europa Terra Nostra	Europa Terra Nostra e.V.	273074413028074	Facebook	bayern	Bayern	DE	Germany	1	1	6	0	0	0
-European Commission	European Commission	107898832590939	Facebook	bayern	Bayern	DE	Germany	2	1	5	2	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	bayern	Bayern	DE	Germany	2	1	0	0	0	0
+Sozialistische Gleichheitspartei, IV Internationale - SGP	Helmut Wilhelm Arens	90523314133	Facebook	bayern	Bayern	DE	Germany	1	1	967	193	9	1
+Junge Union Deutschlands	Junge Union Deutschlands	46098347293	Facebook	bayern	Bayern	DE	Germany	8	1	932	238	23	1
+LOVE- Dmitry Kuzmin		1431285403818547	Facebook	bayern	Bayern	DE	Germany	1	1	926	185	9	1
+Schule ohne Rassismus - Schule mit Courage Bundeskoordination	Schule ohne Rassismus - Schule mit Courage Bundeskoordination	244755398898581	Facebook	bayern	Bayern	DE	Germany	1	1	924	184	1	0
+Reinhard Bütikofer	Reinhard Bütikofer	328884927228588	Facebook	bayern	Bayern	DE	Germany	4	1	922	170	8	0
+Danke, Freihandel.	VDMA	226651401514704	Facebook	bayern	Bayern	DE	Germany	14	1	914	258	26	0
+Fridays for Future Deutschland	Together for Future e.V. 	2010920999000602	Facebook	bayern	Bayern	DE	Germany	12	1	869	70	58	0
+Bundesministerium für Arbeit und Soziales	Bundesministerium für Arbeit und Soziales	108268845888673	Facebook	bayern	Bayern	DE	Germany	2	1	863	224	3	0
+Junges Freiburg	Junges Freiburg e.V.	244355055724023	Facebook	bayern	Bayern	DE	Germany	3	1	841	199	3	0
+Norbert Kleinwächter		346613215704870	Facebook	bayern	Bayern	DE	Germany	1	1	735	147	1	0
+Paul Ziemiak	Paul Ziemiak	1067821176570031	Facebook	bayern	Bayern	DE	Germany	4	1	704	171	17	5
+mymuesli		20393019390	Facebook	bayern	Bayern	DE	Germany	1	1	690	138	1	0
+SPD Sachsen	SPD Sachsen	50169278122	Facebook	bayern	Bayern	DE	Germany	5	1	655	311	7	0
+Lars Klingbeil	Lars Klingbeil	355456486093	Facebook	bayern	Bayern	DE	Germany	1	1	642	128	12	6
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	bayern	Bayern	DE	Germany	1	1	633	126	6	1
+Johannes Vogel	Johannes Vogel	486203081469505	Facebook	bayern	Bayern	DE	Germany	6	1	590	175	11	0
+CDU in Niedersachsen	CDU in Niedersachsen	109460782417586	Facebook	bayern	Bayern	DE	Germany	2	1	506	194	3	0
+Jens Spahn	Jens Spahn	92576009043	Facebook	bayern	Bayern	DE	Germany	6	1	489	178	16	0
+Markenverband e.V.	Markenverband e.V.	482176671952628	Facebook	bayern	Bayern	DE	Germany	8	1	443	79	12	0
+Michael Kauch	Michael Kauch	68189497138	Facebook	bayern	Bayern	DE	Germany	4	1	441	185	11	1
+Moira Fine Jewellery		644735598990369	Facebook	bayern	Bayern	DE	Germany	1	1	396	79	0	0
+Jo Leinen	Jo Leinen	290293517710818	Facebook	bayern	Bayern	DE	Germany	4	1	371	74	7	0
+AJC Berlin	AJC Berlin	282637388468069	Facebook	bayern	Bayern	DE	Germany	2	1	360	148	14	2
+Humanity in Action Germany	Humanity in Action Germany	593043957430745	Facebook	bayern	Bayern	DE	Germany	1	1	305	61	3	0
+Bosch Global		185652704861747	Facebook	bayern	Bayern	DE	Germany	2	1	289	57	5	0
+Niklas Nienaß	Bündnis 90/Die Grünen Mecklenburg-Vorpommern	2280286458870451	Facebook	bayern	Bayern	DE	Germany	1	1	283	141	2	0
+gimmemore.com		1766066203666578	Facebook	bayern	Bayern	DE	Germany	1	1	267	133	2	0
+I vote Europe		608176689275464	Facebook	bayern	Bayern	DE	Germany	2	1	260	130	2	0
+Freedom4press.de	Alexander Schlesiger	448953542522854	Facebook	bayern	Bayern	DE	Germany	2	1	254	104	3	0
+European Commission	European Commission	107898832590939	Facebook	bayern	Bayern	DE	Germany	21	1	250	111	0	0
+Udo Bullmann	Udo Bullmann	68936775929	Facebook	bayern	Bayern	DE	Germany	2	1	249	124	2	0
+Weunite	weunite.eu	843723189339313	Facebook	bayern	Bayern	DE	Germany	2	1	233	105	4	0
+Jutta Paulus	Jutta Paulus	398641690243628	Facebook	bayern	Bayern	DE	Germany	1	1	227	113	2	0
+Herz der Wirtschaft	Arbeitgeberverband Gesamtmetall	156977237732393	Facebook	bayern	Bayern	DE	Germany	2	1	213	38	5	0
+DEMOCRACY Deutschland	DEMOCRACY Deutschland e.V. 	1453504428281386	Facebook	bayern	Bayern	DE	Germany	1	1	193	96	1	0
+Grüne Neukölln	Georg Bonsiepe	101495919923314	Facebook	bayern	Bayern	DE	Germany	2	1	163	32	3	0
+BDI - Bundesverband der Deutschen Industrie	BDI - Bundesverband der Deutschen Industrie	186206440652	Facebook	bayern	Bayern	DE	Germany	7	1	156	13	10	0
+Alternative für Deutschland Mayen-Koblenz	Alternative für Deutschland Mayen-Koblenz	160882790765796	Facebook	bayern	Bayern	DE	Germany	2	1	152	71	2	0
+Diether Dehm	Diether Dehm	51091986850	Facebook	bayern	Bayern	DE	Germany	1	1	147	73	1	0
+Corinna Miazga	Corinna Miazga	1720472504912063	Facebook	bayern	Bayern	DE	Germany	3	1	142	23	4	0
+Beautiful underwater world		349842062556508	Facebook	bayern	Bayern	DE	Germany	1	1	139	27	2	0
+Europa Terra Nostra	Europa Terra Nostra e.V.	273074413028074	Facebook	bayern	Bayern	DE	Germany	4	1	135	26	2	0
+Lena Düpont	Lena Düpont	241903739847716	Facebook	bayern	Bayern	DE	Germany	2	1	130	20	4	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	bayern	Bayern	DE	Germany	2	1	127	25	2	0
+Junge Union Kreis Altenkirchen	Justus Brühl	161397033931051	Facebook	bayern	Bayern	DE	Germany	2	1	124	19	4	0
+DIE LINKE. Herne / Wanne-Eickel	Patrick Gawliczek	137962769704818	Facebook	bayern	Bayern	DE	Germany	4	1	117	12	6	0
+BLOOMY DAYS	Fleurop.de	151936418263116	Facebook	bayern	Bayern	DE	Germany	1	1	117	23	2	0
+Deutsche Post	Deutsche Post	485303194814631	Facebook	bayern	Bayern	DE	Germany	1	1	108	21	2	0
+Ausgewählt.eu		476088266069935	Facebook	bayern	Bayern	DE	Germany	1	1	108	21	2	0
+Verein Recht und Freiheit		1162229030454420	Facebook	bayern	Bayern	DE	Germany	2	1	106	17	3	0
+Service- und Kompetenzzentrum: Kommunaler Klimaschutz - SK:KK	Service- und Kompetenzzentrum: Kommunaler Klimaschutz (SK:KK) am Deutschen Institut für Urbanistik gGmbH	353503884759841	Facebook	bayern	Bayern	DE	Germany	2	1	105	20	2	0
+Liberal - Konservative Reformer Regionsverband Südbaden		1255716807818192	Facebook	bayern	Bayern	DE	Germany	1	1	99	19	1	0
+Tiemo Wölken	Tiemo Wölken	1747943185455863	Facebook	bayern	Bayern	DE	Germany	1	1	97	48	0	0
+FDP Altona	Freie Demokratische Partei FDP Bezirksverband Altona	603208893090843	Facebook	bayern	Bayern	DE	Germany	1	1	97	19	1	0
+Partei Demokratie Direkt	Lukas Michael Knecht	289988518287493	Facebook	bayern	Bayern	DE	Germany	1	1	90	18	1	0
+Arndt Kohn	SPD-Unterbezirk in der Städteregion Aachen	1232732846774130	Facebook	bayern	Bayern	DE	Germany	1	1	85	17	1	0
+IG BCE Jugend Nordrhein	IG BCE Landesbezirk Nordrhein	124363604315424	Facebook	bayern	Bayern	DE	Germany	1	1	83	41	4	0
+Deutschland Kurier		336677843601760	Facebook	bayern	Bayern	DE	Germany	1	1	83	16	1	0
+Maria Loheide	Diakonie Deutschland	944393298952238	Facebook	bayern	Bayern	DE	Germany	2	1	79	13	2	0
+A Solution to Plastic Pollution - First International Online Summit		1098001547034272	Facebook	bayern	Bayern	DE	Germany	1	1	79	39	0	0
+BFZ - Bündnis Fürstenwalder Zukunft e.V.	Bündnis Fürstenwalder Zukunft e.V.	578250582267178	Facebook	bayern	Bayern	DE	Germany	1	1	71	14	1	0
+Sense Mesura		1606564102740842	Facebook	bayern	Bayern	DE	Germany	35	1	71	0	7	0
+Anna Deparnay-Grunenberg für Europa	BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	1819425944973592	Facebook	bayern	Bayern	DE	Germany	2	1	68	0	6	0
+Marco Buschmann	Marco Buschmann	1375993365821383	Facebook	bayern	Bayern	DE	Germany	1	1	67	13	1	0
+Birgit Sippel	Birgit Sippel	319398621464329	Facebook	bayern	Bayern	DE	Germany	1	1	63	12	1	0
+Grüne Augsburg	BÜNDNIS90/DIE GRÜNEN Stadtverband Augsburg	10150158634595002	Facebook	bayern	Bayern	DE	Germany	2	1	59	0	5	0
+Grüne Nordsachsen	Bündnis 90 die Grünen Kreisverband Nordsachsen	661587470556698	Facebook	bayern	Bayern	DE	Germany	2	1	49	0	4	0
+Gütersloher Verlagshaus		341789431722	Facebook	bayern	Bayern	DE	Germany	1	1	49	9	0	0
+Moritz Körner	Moritz Heimo Körner	448585188519271	Facebook	bayern	Bayern	DE	Germany	2	1	41	6	1	0
+SPD Bielefeld		131868470238091	Facebook	bayern	Bayern	DE	Germany	2	1	35	0	3	0
+SPD Berlin	SPD Berlin	134137749971478	Facebook	bayern	Bayern	DE	Germany	2	1	34	5	1	0
+MOJIITO		125984251502	Facebook	bayern	Bayern	DE	Germany	1	1	31	0	2	0
+LSU in Niedersachsen	LSU in Niedersachsen	219610088525360	Facebook	bayern	Bayern	DE	Germany	2	1	30	6	0	0
+Phibie v. Aldebaran		447772735582107	Facebook	bayern	Bayern	DE	Germany	1	1	30	6	0	0
+Familien-Partei Deutschlands		449943065100732	Facebook	bayern	Bayern	DE	Germany	2	1	27	0	2	0
+Christoph Högel - AfD	Christoph Högel	316177542661181	Facebook	bayern	Bayern	DE	Germany	1	1	22	4	0	0
+DEUTSCHLANDräumt auf - World CleanUp Day - 21. Sep. 2019	DEUTSCHLANDmacht - Let's Do It! Germany e.V.	584899344998752	Facebook	bayern	Bayern	DE	Germany	1	1	21	0	2	0
+MJZ		529557893749660	Facebook	bayern	Bayern	DE	Germany	1	1	20	0	0	0
+Oxford Club-Communiqué		2146712002244181	Facebook	bayern	Bayern	DE	Germany	1	1	17	0	1	0
+Grüne im Kreis Germersheim	BÜNDNIS 90/DIE GRÜNEN KV Germerseheim	272673066211280	Facebook	bayern	Bayern	DE	Germany	1	1	17	0	1	0
+Daniel Wald		318396151841792	Facebook	bayern	Bayern	DE	Germany	1	1	15	0	1	0
+Energiewirtschaft einfach	Carsten Eckart 	2314352768828496	Facebook	bayern	Bayern	DE	Germany	1	1	15	0	1	0
+JUNOS Studierende	JUNOS Studierende	231166380411824	Facebook	bayern	Bayern	DE	Germany	13	1	14	2	0	0
+SPD Oranienburg	Matthias Björn Henning	151967014990793	Facebook	bayern	Bayern	DE	Germany	1	1	14	0	1	0
+FDP Schleswig-Holstein		164131966966839	Facebook	bayern	Bayern	DE	Germany	1	1	14	0	1	0
+SPD Region Hannover	Ermana Nurkovic	110715173724	Facebook	bayern	Bayern	DE	Germany	1	1	13	0	1	0
+Miriam Schreiber - Social Media & Digitale Kommunikation	Miriam Erika Schreiber	1589804161093513	Facebook	bayern	Bayern	DE	Germany	1	1	12	0	1	0
+Coffeenewstom		315975755506868	Facebook	bayern	Bayern	DE	Germany	1	1	12	0	1	0
+Grüne Mainz	Bündnis 90/Die Grünen Mainz	442503965827807	Facebook	bayern	Bayern	DE	Germany	2	1	10	0	1	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	bayern	Bayern	DE	Germany	23	1	10	4	0	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	bayern	Bayern	DE	Germany	3	1	9	4	0	0
+Eva Urlitzki Acryl Art		218354455429651	Facebook	bayern	Bayern	DE	Germany	1	1	6	0	0	0
+FDP Hessen	FDP Hessen	188188564583	Facebook	bayern	Bayern	DE	Germany	4	1	6	2	0	0
+Save The Seas		2203608429682203	Facebook	bayern	Bayern	DE	Germany	1	1	5	1	0	0
+Angelika Winzig	Wirtschaftsbund Österreich	141015722773374	Facebook	bayern	Bayern	DE	Germany	1	1	4	0	0	0
+Grup Yorum Her Yerde		1593833514278594	Facebook	bayern	Bayern	DE	Germany	1	1	3	0	0	0
+Gabriela Mirescu		2618888988127707	Facebook	bayern	Bayern	DE	Germany	2	1	2	1	0	0
+Martin Hohmann, MdB	Martin Hohmann	1942497819398764	Facebook	bayern	Bayern	DE	Germany	4	1	1	0	0	0
+Free Quran Education		388655174641163	Facebook	bayern	Bayern	DE	Germany	1	1	1	0	0	0
+Uwe Gewiese - Burgenlandkreis	Uwe Gewiese	1814149425539524	Facebook	bayern	Bayern	DE	Germany	1	1	1	0	0	0
+FDP Burgdorf-Uetze	FDP OV Burgdorf-Uetze	1931006000456181	Facebook	bayern	Bayern	DE	Germany	1	1	1	0	0	0
+Catharina Rinzema		2114625695290780	Facebook	bayern	Bayern	DE	Germany	1	1	1	0	0	0
+ÖDP Sachsen	Markus Peter Taubert	912568865484871	Facebook	bayern	Bayern	DE	Germany	1	1	1	0	0	0
+Die neue SPÖ Tirol	SPÖ Tirol	172040642860223	Facebook	bayern	Bayern	DE	Germany	4	1	0	0	0	0
+JEF Hessen	JEF - Junge Europäische Föderalisten Landesverband Hessen e.V.	154111581275112	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+KPÖ PLUS	KPÖ PLUS	849742871847407	Facebook	bayern	Bayern	DE	Germany	3	1	0	0	0	0
+FDP Karlsruhe-Stadt	FDP Kreisverband Karlsruhe-Stadt	342930772424635	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	bayern	Bayern	DE	Germany	5	1	0	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+Bündnis 90/Die Grünen Schwäbisch Hall	BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	1324932424284616	Facebook	bayern	Bayern	DE	Germany	9	1	0	0	0	0
+Big News Buzz		125179374733697	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+Die Grünen Oberösterreich	Die Grünen Oberösterreich	84955135551	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+GRAS - Grüne & Alternative Student_innen	GRAS - Grüne & Alternative Student_innen	79935247286	Facebook	bayern	Bayern	DE	Germany	14	1	0	0	0	0
+Europe Thinx		335839580440114	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+Plictisescu.ro		184028071751540	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+Česká společnost ornitologická	Česká společnost ornitologická	479746075051	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+ETUC		129041250601685	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+Berlin Partner für Wirtschaft und Technologie	Berlin Partner für Wirtschaft und Technologie	490874321062716	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+Grüne Mannheim	BÜNDNIS 90/DIE GRÜNEN Kreisverband Mannheim	123290727868673	Facebook	bayern	Bayern	DE	Germany	2	1	0	0	0	0
+Manchester City		208411345454	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+BÜNDNIS 90/DIE GRÜNEN Hessen	BÜNDNIS 90/DIE GRÜNEN Hessen	22865297210	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+KPÖ Wien	KPÖ	1823664304518774	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+Apostolos Kelemidis		705234549505018	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+Jan Olsson	Jan Olsson 	1036735923117842	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+The Years Project	The Years Project	168876449866088	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+Norbert Lins	Norbert Lins MdEP	499881326786873	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+Grüne Kusel	Bündnis 90/Die Grünen Rheinland-Pfalz	407630392667824	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+Ne u moje ime		138418753446889	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+ViolavonCramon	BÜNDNIS 90/DIE GRÜNEN	126525857429764	Facebook	bayern	Bayern	DE	Germany	4	1	0	0	0	0
+DIE LINKE. Berlin	DiG Berlin	156304484388194	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+Tom MacDonald		212732770186	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+dom-i-NEEK		260052198180831	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
 Tobias Krammer	Tobias Krammer	1643134582482219	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	bayern	Bayern	DE	Germany	4	1	0	0	0	0
-Die neue SPÖ Tirol	SPÖ Tirol	172040642860223	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
-GRAS - Grüne & Alternative Student_innen	GRAS - Grüne & Alternative Student_innen	79935247286	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
-Martin Hohmann, MdB	Martin Hohmann	1942497819398764	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
-FDP Hessen	FDP Hessen	188188564583	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0
+Kommunalwahlen 2019 Ludwigshafen		607737313075178	Facebook	bayern	Bayern	DE	Germany	1	1	0	0	0	0

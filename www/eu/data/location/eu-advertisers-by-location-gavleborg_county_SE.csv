@@ -1,36 +1,196 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Moderaterna	Moderaterna	7719591155	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	18	1	20043	8268	296	67
-Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	7062	3531	163	32
-Kristdemokraterna Sundsvall	Kristdemokraterna Sundsvall	1017885421625799	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	5512	1009	50	9
-Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	4251	961	53	10
-European Parliament	European Parliament	178362315106	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	3834	1917	19	3
-ActionAid Sweden	ActionAid Sweden	18880778360	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	2531	506	23	4
-Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	2132	532	6	3
-Miljöpartiet de gröna Gävle	Johansson Evelina Sofia	127624557250669	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	1901	0	17	0
-Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	1869	373	17	3
-Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	748	374	5	1
-Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	9	1	723	90	5	0
-Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	468	93	4	0
-En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	394	73	2	0
-Fredrick Federley	Fredrick Federley	189892183097	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	229	45	2	0
-Folkstyret	Ströberg Mikael	1243789685638222	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	214	42	1	0
-KDU Sverige	KDU Sverige	177549278946958	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	204	40	1	0
-Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	201	40	1	0
-Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	181	36	1	0
-Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	171	34	1	0
-Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	4	1	163	0	1	0
-Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	159	31	0	0
-Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	137	27	1	0
-Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	112	0	1	0
-Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	103	19	0	0
-Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	75	0	0	0
-David Lega	Kristdemokraterna	251829904829983	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	58	0	0	0
-Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	38	0	0	0
-Anders Rehnberg till Europaparlamentet	Rehnberg Anders John Henry	362678667854817	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	35	0	0	0
-Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	35	0	0	0
-Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	33	0	1	0
-European Commission	European Commission	107898832590939	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	31	15	0	0
+Valmyndigheten	Valmyndigheten	1737852076287450	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	59	1	402259	176810	2382	605
+Moderaterna	Moderaterna	7719591155	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	130	1	349917	139999	5418	1297
+Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	47	1	240954	103071	3051	901
+Socialdemokraterna	Socialdemokraterna	8040892957	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	364	1	213304	73487	3972	900
+Miljöpartiet de gröna	Miljöpartiet de gröna	34780126150	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	39	1	165900	75742	1800	400
+Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	75	1	133758	44843	2077	641
+Vänsterpartiet Gävleborg	Vänsterpartiet Gävleborg	137604056369425	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	6	1	115885	25978	1531	357
+European Parliament	European Parliament	178362315106	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	20	1	108413	49299	905	330
+Centerpartiet	Centerpartiet	12690894340	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	29	1	100380	42740	1593	639
+European Commission	European Commission	107898832590939	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	25	1	91888	45311	569	187
+Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	26	1	76727	26961	515	178
+European Greens	European Greens	141366725876424	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	9	1	60591	27866	753	238
+Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	39	1	58005	15184	669	243
+SSU	SSU	45101268520	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	34	1	57707	22213	936	234
+Vänsterpartiet	Vänsterpartiet	323156205347	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	70	1	54732	13373	357	80
+Plan International Sverige	Plan International Sverige	382243262003	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	30	1	53674	22908	400	121
+Centerpartiets Ungdomsförbund	Centerpartiets Ungdomsförbund	110793008936879	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	9	1	44731	19670	427	104
+Moderaterna i Gävleborg	Moderaterna Gävleborg	115148865168902	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	8	1	36992	10000	749	148
+Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	7	1	34668	16206	730	169
+Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	22	1	30377	10260	437	114
+Vänsterpartiet Uppsala län	Bergegardh Hans Andreas Abe	326729237396677	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	28620	5724	265	53
+Rädda Barnen	Rädda Barnen	72659261793	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	93	1	25437	7055	191	38
+Stefan Löfven	Socialdemokraterna	329885883718979	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	18425	7370	682	341
+Tomas Tobé	Moderaterna	1829725353928210	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	35	1	18102	4577	294	65
+Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	28	1	17864	4511	244	71
+Operation Smile Sverige	Operation Smile Sverige	161213770567846	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	95	1	17222	3333	158	29
+Magnus Thulin - Centerpartiet	Thulin Magnus Nils Oscar	161302754576832	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	8	1	16172	3234	167	44
+Heléne Fritzon	Socialdemokraterna	767749640051136	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	20	1	15981	3535	146	32
+Fredrick Federley	Fredrick Federley	189892183097	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	5	1	15541	5692	125	38
+LO Sverige	LO Sverige	163820136238	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	15468	7078	237	47
+Svenskt Näringsliv	Svenskt Näringsliv	90882504375	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	5	1	15355	7164	353	81
+Jordens Vänner / Friends of the Earth Sweden	Jordens Vänner / Friends of the Earth Sweden	207890945895422	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	6	1	14570	5007	47	10
+Diakonia	Diakonia	42676805259	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	13	1	14344	4458	83	19
+Miljöpartiet de gröna Gävle	Johansson Evelina Sofia	127624557250669	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	11	1	14112	1000	92	0
+Kristdemokraterna Sundsvall	Kristdemokraterna Sundsvall	1017885421625799	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	5	1	12826	4580	378	74
+Sverige för UNHCR	Viva Media	643137272398136	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	12379	6157	95	19
+En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	20	1	11218	2609	81	20
+Unga Feminister	Unga Feminister	100642360004457	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	9	1	10990	3161	114	31
+Gustav Hemming	Gustav Hemming (Centerpartiet)	722853564439941	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	6	1	10604	3206	233	46
+Arabiska Teatern / أرابيسكا تياترن	Arabiska Teatern / أرابيسكا تياترن	996264337099052	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	9531	4717	44	17
+David Lega	Kristdemokraterna	251829904829983	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	6	1	8907	1972	106	21
+Feministiskt initiativ	Feministiskt initiativ	112513375470294	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	7	1	8551	1785	228	45
+Henrik Sundström - M	Sundström Claes Henrik	180745369170	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	8	1	7733	1686	39	10
+6F - Fackförbund i samverkan	6F - Fackförbund i samverkan	720556414800953	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	7564	1512	70	14
+Emma Wiesner	Emma Wiesner (Centerpartiet)	653072158104424	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	9	1	7426	1605	49	11
+Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	30	1	7318	1642	62	13
+Allan Widman	Liberalerna	540799486089503	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	7088	2890	247	49
+Sverigedemokraterna Region Stockholm	SD Stockholm	1729304067391998	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	5	1	6986	1397	66	14
+ABF	ABF	80386149597	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	6135	3068	31	7
+IF Metall	IF Metall	108492218918	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	6	1	5879	1444	50	9
+Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	6	1	5626	1434	78	16
+Annie Lööf	Centerpartiet	118943054880945	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	4	1	5621	1124	39	8
+KDU Sverige	KDU Sverige	177549278946958	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	8	1	5519	1566	93	19
+Skogsindustrierna	Skogsindustrierna 	182933185135	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	5290	2325	29	11
+Centerpartiet Västra Götaland	Centerpartiet	199121803446165	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	5281	960	48	8
+Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	5256	2114	32	6
+Kristdemokraterna i Gävle	Kristdemokraterna i Gävle	850584251725329	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	4999	1000	46	9
+Socialdemokraterna Gävleborg	Backeskog Sanna Agnes Moa	103487509736810	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	4999	1000	46	9
+Djurens parti	Eriksson Monica Maria Therese	207364469446997	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	4675	1076	41	8
+Skiftet	Skiftet	100650935646	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	4366	1015	40	9
+Liberala ungdomsförbundet	Tilstam Emilie Josefin	108941769135355	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	5	1	4312	856	41	8
+Städa Sverige - Idrottens miljöorganisation	Nilsson Patrik Topias Lennart	302156023140090	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	4232	2116	39	19
+Jonas Sjöstedt		261331320599298	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	3797	759	21	5
+Svensk Handel	Svensk Handel	120477444659925	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	5	1	3735	986	10	2
+Medborgerlig Samling	Medborgerlig Samling	189332844828330	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	3614	722	33	6
+EU-kommissionen i Sverige	EU-kommissionen i Sverige	155824787799	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	3461	1730	30	14
+Evin Incir	Socialdemokraterna i Uppsala län	1439778006254125	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	3450	690	31	6
+Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	5	1	3269	645	50	11
+Slöseriombudsmannen	Skattebetalarna	408171019221426	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	12	1	3215	1325	19	3
+Jessica Polfjärd	Moderaterna	337086006951883	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	5	1	3122	917	67	13
+Sveriges Kommunistiska Parti	Sveriges Kommunistiska Parti	133234606721672	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	3028	759	28	7
+Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	6	1	2932	765	38	8
+ActionAid Sweden	ActionAid Sweden	18880778360	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	4	1	2827	565	28	7
+Socialdemokraterna i Jönköpings län	Socialdemokraterna i Jönköpings län	390479295816	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	2533	506	23	4
+Anders Rehnberg till Europaparlamentet	Rehnberg Anders John Henry	362678667854817	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	6	1	2530	602	40	8
+En bättre framtid	Plan International Sverige	1173808162671999	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	7	1	2266	440	19	3
+Frihet	Hayrynen Lotta Ilona	1722887348013516	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	9	1	2249	1013	29	10
+Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	18	1	2215	401	27	5
+Hungerprojektet	Hungerprojektet	212049035488183	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	2153	430	20	4
+Yrkesdörren	ÖppnaDörren	1047016558650888	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	10	1	2020	614	21	8
+Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	24	1	1999	374	12	1
+Vi-skogen	Vi-skogen	356032977210	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	1962	392	18	3
+Liberala Studenter	Heimbrand Christoffer	118645251482192	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	16	1	1890	465	14	1
+Socialdemokraterna i Borås	Socialdemokraterna i Borås	104604012928735	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	1853	370	17	3
+Liberalerna Örebro län	Liberalerna i Örebro län	388964421149126	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	1803	353	16	3
+Vänsterpartiet Dalarna	Fredholm Kajsa	154956994679599	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	8	1	1581	221	29	5
+Internet Advertising		303479743893373	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	1533	306	15	3
+Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	13	1	1514	359	11	1
+Kristdemokraterna i Dalarna	Kristdemokraterna Dalarna	321670347944266	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	5	1	1440	432	93	19
+Common sense in Sweden		697826370283167	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	1398	0	12	0
+Olof Palme International Center	Olof Palme International Center	62185934430	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	5	1	1397	620	12	5
+CIVIL RIGHTS DEFENDERS	CIVIL RIGHTS DEFENDERS	128452220525979	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	1383	276	25	12
+Saco	Saco	133910158381	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	1163	232	2	1
+Centerkvinnorna	Lek Ingrid Magdalena	265585313460256	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	8	1	1155	201	14	2
+Kristdemokraterna Arboga	Stenzelius Jonas Peter Mikael	1083070925184919	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	7	1	1142	214	10	1
+WaterAid Sverige	WaterAid Sverige	175843834306	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	1111	277	3	1
+Centerpartiet i Uppsala län	Grew Hedda Anna Magdalena Jarta	801293393230795	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	5	1	1071	420	9	3
+Forum Syd	Forum Syd	152060917636	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	5	1	1054	381	9	3
+Vänsterpartiet Leksand	Fredholm Kajsa	348264571925203	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	1022	204	9	1
+Liberalerna Norrmalm	Tufvesson Elsa Christina	173275532684116	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	12	1	885	85	10	1
+Bodil Valero sida	Valero Bodil Elisabeth	300733377216643	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	865	173	8	1
+Kristdemokraterna Uppsala	Kristdemokraterna Uppsala	783969528368300	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	837	304	26	6
+Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	5	1	823	164	9	2
+Linus Lakso - MP	Miljöpartiet de gröna	1038425926323402	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	4	1	771	148	7	1
+FPlus – nyhetstjänsten för företagsamma	fPlus	130927360876045	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	4	1	724	144	6	1
+Tobias Baudin	Kommunal	614939535271869	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	711	142	10	4
+Jörgen Warborn EU-kandidat	Moderaterna	56002955332	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	678	135	6	1
+Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	10	1	658	96	2	0
+Utvecklingsmagasinet (fd Biståndsdebatten)	Edquist Kerstin Helena	162523667123095	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	596	119	3	0
+Zandra Pettersson SD politiker	Pettersson Zandra Margareta	1731576980266356	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	544	155	15	3
+20% Klimatvarning	Arleskar Carl Albin	362163934600158	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	537	205	17	3
+IOGT-NTO	IOGT-NTO	28237261288	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	521	228	21	4
+Folkstyret	Ströberg Mikael	1243789685638222	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	5	1	502	75	4	0
+Centerpartiet Uppsala Län	Grew Hedda Anna Magdalena Jarta	597947044056811	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	496	201	3	0
+Kryssa Mohammad Omran KD	Omran Mohammad	294934427940073	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	484	192	3	0
+Landsbygdspartiet oberoende	Landsbygdspartiet oberoende	1549988978561671	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	429	214	19	3
+Pietro Marchesi	Marchesi Pietro Angelo Giuseppe	412659735929497	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	4	1	396	65	6	2
+Skattebetalarnas Förening	Skattebetalarnas Förening	72832167834	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	392	196	1	0
+Susanna Gideonsson	Handelsanställdas förbund	2256836864595743	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	378	75	5	2
+Nackamoderaterna	Nackamoderaterna	132143480932	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	338	169	3	1
+Vänsterpartiet Solna	Vänsterpartiet 	273249776157066	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	336	63	3	0
+Kristdemokraterna Sörmland	Tinglöf Miriam Monica Mariana	1633975010236193	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	336	67	3	0
+Kristdemokraterna Fyrbodal	Kristdemokraterna i VGN	1764033887144522	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	330	62	14	4
+Fredsövning	ABRAHAMSSON PER-OLOV	717556358417977	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	329	65	3	0
+Socialdemokraterna Kungälv	Kungälvs Socialdemokratiska Arbetarekommun	241319269242484	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	319	58	2	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	17	1	311	134	0	0
+Gröna Studenter	Almén Henrik Carl Olof	31779071967	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	305	152	14	2
+Martin Ängeby	Angeby Martin Lennart Valdemar	354019898061233	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	279	49	3	0
+Vänsterpartiet Umeå	Sellstedt Karl Sven Andreas	237863203023150	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	279	56	2	0
+Axess Magasin & TV	Axess Magasin & TV	887305194662637	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	267	53	2	0
+Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	259	71	4	0
+Liberalerna Västmanland	Liberalerna Västmanland	112927778743586	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	255	51	2	0
+Anna Vikström		1671556912954715	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	250	50	2	0
+Eva B Arnesson - KD	Eva B Arnesson - KD	297923747637590	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	249	49	2	0
+Timbro	Timbro	237146235237	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	244	28	2	0
+Studieförbundet Bilda	Wallstedt Bo Fredrik	161514177194883	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	243	48	2	0
+Moderaterna i Håbo	Erling Björn Karl Gustaf	256926791030140	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	4	1	241	0	2	0
+KD Sigtuna	Makris Jessica Therese	2063183643940247	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	229	45	2	0
+Grön Omstart	Wallin Lena Maria	407812702944641	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	224	40	0	0
+Arbetsmarknadsnytt	Arbetsmarknadsnytt	799634660143537	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	219	43	2	0
+Centerpartiet Upplands Väsby	Magnusson Kjell Johan Sonny	1457926257795252	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	216	33	3	0
+Socialdemokraterna i Mark	Andersson Hakan Ulf Goran	528944283871109	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	216	43	2	0
+Liberalerna Västerås	Liberalerna Västerås	39940078116	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	206	41	1	0
+Miljöpartiet de gröna i Helsingborg	Miljöpartiet de gröna i Helsingborg	106956499327992	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	199	34	1	0
+Kristdemokraterna Västerbotten	Kristdemokraterna Västerbotten	414156238684191	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	195	32	3	0
+Moderaterna i Arboga	Soderland Anders Mikael	1307727569320278	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	195	39	1	0
+Vänsterpartiet Fyrbodal	Vänsterpartiet Fyrbodal	154507768394620	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	193	38	1	0
+Reformisterna	Reformisterna	2337692372925538	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	192	38	1	0
+Stiftelsen Expo	Stiftelsen Expo	208751565805849	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	189	38	1	0
+Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	185	35	3	1
+Georgia Ferris KD EU-Kandidat	Ferris Georgia Minnie Anna	407374246718043	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	183	36	1	0
+Richard Brodd Liberalerna	Brodd Karl Erik Richard	223726468440460	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	180	36	16	3
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	5	1	180	77	0	0
+KD Kungsbacka	KD Kungsbacka	2024157037852156	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	176	35	1	0
+Moderaterna i Mölndal	Brown Stjarna Amanda Charlotte	125396154314182	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	170	34	3	1
+KD Region Uppsala	KD Region Uppsala	195658617439309	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	4	1	153	0	1	0
+Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	141	28	1	0
+Fria Moderata Studentförbundet	Fria Moderata Studentförbundet	119885094691458	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	141	28	2	1
+Centerpartiet i Umeå	Centerpartiet	450620155297	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	141	0	1	0
+Marie Nilsson	IF Metall	292532504512919	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	136	23	1	0
+Jan Lenander, politiskt engagerad	Lenander Jan Richard	1834522019966466	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	3	1	132	0	1	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	130	65	0	0
+KDU Göteborg	KDU Göteborg	337673949604125	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	4	1	128	0	1	0
+Jesper Skalberg Karlsson	Skalberg Karlsson Jesper Jens J	2171970199486213	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	125	25	1	0
+Kvinna till Kvinna	Kvinna till Kvinna	153028052500	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	108	21	1	0
+Karin Karlsbro - Liberalerna.	Liberalerna	559163754139097	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	107	21	0	0
+Vänsterpartiet Region Dalarna	Fredholm Kajsa	816257315147676	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	103	0	4	0
+Kristdemokraterna i Gagnef	Kristdemokraterna Dalarna	273483286188959	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	85	0	2	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	80	37	0	0
+Stoppa höjningen av Sveriges EU-avgift	Fria Moderata Studentförbundet	306402583588293	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	77	15	1	0
+Caritas Sweden		119140545477108	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	67	0	0	0
+Arbetarekommunen	Persson Gunnar Henrik Haakan	2053389964962411	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	63	0	0	0
+Adnan Dibrani till Bryssel	Ghafari Sebastian	1308296045984813	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	55	0	0	0
+Socialdemokraterna Hässleholm	Hässleholms Socialdemokratiska arbetarekommun	838924659467812	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	49	0	0	0
+Kristdemokraterna i Örebro län	Cesar Eje Alexander	430535663641398	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	47	0	2	0
+Semantiko	MTWABP Sweden AB	656090384536434	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	38	0	0	0
+Moderaterna i Stenungsund	Renfors Anna Maria	488439967871997	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	38	0	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	33	17	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	4	1	32	12	0	0
+Kristdemokraterna Vänersborg	Nilsson Anna Maria	1436550706597391	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	29	0	0	0
+Tankar Online		114769995938282	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	28	0	2	0
+Tallis talar		1206136579519699	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	28	0	0	0
+Kommunistiska Partiet Stockholm		1572942986309050	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	22	0	0	0
+Moderaterna Kungsbacka	Moderaterna Kungsbackakretsen	121182911263997	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	19	0	0	0
+SSU Kalmar Län	SSU Kalmar län	241658249370356	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	17	0	0	0
 European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	16	8	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	2	1	9	2	0	0
-Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	2	0	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	1	0	0	0
+Free Quran Education		388655174641163	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	12	6	0	0
+Anders G Johansson	Johansson Anders Gustaf Werner	357659877249	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	12	0	0	0
+The Good Show	Assur Stagliano Stefan Giuseppe	1923750267869320	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	6	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	5	2	0	0
+Hyresgästföreningen region Mitt	Collin Petra Jessica	799284903479521	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	4	0	0	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	3	1	0	0
+Tokyo Weekender		134654693230171	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	2	0	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	1	0	0	0
+Tom MacDonald		212732770186	Facebook	gavleborg_county_SE	Gävleborg County, Sweden	1	1	1	0	0	0

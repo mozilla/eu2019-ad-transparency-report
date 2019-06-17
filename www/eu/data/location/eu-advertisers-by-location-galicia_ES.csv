@@ -1,21 +1,102 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Avaaz	Avaaz	8340223883	Facebook	galicia_ES	Galicia, Spain	9	1	150839	59313	245	61
-Marea Atlántica	Marea Atlántica	836117153066747	Facebook	galicia_ES	Galicia, Spain	4	1	109996	22000	396	0
-European Parliament	European Parliament	178362315106	Facebook	galicia_ES	Galicia, Spain	1	1	30434	12174	60	30
-Alejandro Langtry	Alejandro Langtry Cainzos	876647346005514	Facebook	galicia_ES	Galicia, Spain	3	1	29997	15000	297	0
-Reacciona y Actúa	Actúa 	1916676245053161	Facebook	galicia_ES	Galicia, Spain	15	1	29297	8174	110	0
-Sandra x Tomiño	Bloque Nacionalista Galego de Tomiño	623179161441345	Facebook	galicia_ES	Galicia, Spain	4	1	19919	3984	394	0
-PACMA - Partido Animalista	PACMA - Partido Animalista	72181181684	Facebook	galicia_ES	Galicia, Spain	2	1	19398	8751	46	8
-Populares De Ordes	Maria Dolores Caamaño Lata	1544054002507675	Facebook	galicia_ES	Galicia, Spain	5	1	8995	1000	495	0
-Markel Olano	EAJ-PNV	898191063533170	Facebook	galicia_ES	Galicia, Spain	1	1	6317	3158	31	6
-Compromís	Compromís	194053080624605	Facebook	galicia_ES	Galicia, Spain	1	1	3254	650	32	6
-Partido Por un Mundo más Justo · M+J	Partido Por un Mundo más Justo · M+J	147468905314265	Facebook	galicia_ES	Galicia, Spain	1	1	1959	391	3	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	galicia_ES	Galicia, Spain	1	1	1594	797	3	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	galicia_ES	Galicia, Spain	4	1	1162	352	2	0
-Coalición por El Bierzo	Coalición por El Bierzo	661476137308587	Facebook	galicia_ES	Galicia, Spain	1	1	1129	564	11	0
-European Commission	European Commission	107898832590939	Facebook	galicia_ES	Galicia, Spain	2	1	497	248	1	0
-IU Aragón	IU Aragón	178663732095	Facebook	galicia_ES	Galicia, Spain	1	1	357	71	7	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	galicia_ES	Galicia, Spain	2	1	195	50	0	0
+Marea Atlántica	Marea Atlántica	836117153066747	Facebook	galicia_ES	Galicia, Spain	18	1	595982	128000	1782	0
+Ciudadanos	Ciudadanos	74078667754	Facebook	galicia_ES	Galicia, Spain	19	1	541855	244411	5222	1501
+Podemos	UNIDAS PODEMOS CAMBIAR EUROPA	269212336568846	Facebook	galicia_ES	Galicia, Spain	14	1	478484	232224	7665	1788
+Avaaz	Avaaz	8340223883	Facebook	galicia_ES	Galicia, Spain	53	1	474525	193208	2351	588
+European Parliament	European Parliament	178362315106	Facebook	galicia_ES	Galicia, Spain	16	1	348465	157285	2398	490
+European Free Alliance	European Free Alliance	46708306425	Facebook	galicia_ES	Galicia, Spain	10	1	290690	134624	1594	647
+PACMA - Partido Animalista	PACMA - Partido Animalista	72181181684	Facebook	galicia_ES	Galicia, Spain	9	1	229744	108548	421	175
+Alejandro Langtry	Alejandro Langtry Cainzos	876647346005514	Facebook	galicia_ES	Galicia, Spain	15	1	225396	62681	2124	206
+BNG - Bloque Nacionalista Galego	Bloque Nacionalista Galego	128341470548824	Facebook	galicia_ES	Galicia, Spain	3	1	199997	70000	1097	200
+SEO/BirdLife	SEO/BirdLife	70020937349	Facebook	galicia_ES	Galicia, Spain	42	1	164426	63737	551	112
+Reacciona y Actúa	Actúa 	1916676245053161	Facebook	galicia_ES	Galicia, Spain	29	1	161098	66708	389	46
+Greenpeace España	Greenpeace España	133044800622	Facebook	galicia_ES	Galicia, Spain	75	1	160887	57879	645	72
+Inés Rey - PSOE	PSdeG-PSOE A Coruña	332466134032139	Facebook	galicia_ES	Galicia, Spain	7	1	157993	31000	1993	600
+Sandra x Tomiño	Bloque Nacionalista Galego de Tomiño	623179161441345	Facebook	galicia_ES	Galicia, Spain	17	1	148821	41671	1672	0
+Populares De Ordes	Maria Dolores Caamaño Lata	1544054002507675	Facebook	galicia_ES	Galicia, Spain	22	1	91978	23000	2178	0
+Partido Socialista Europeo	Partido Socialista Europeo	442423976113917	Facebook	galicia_ES	Galicia, Spain	17	1	82274	33769	244	36
+Pablo Iglesias	Unidas Podemos	414809308591481	Facebook	galicia_ES	Galicia, Spain	1	1	79950	39975	399	79
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	galicia_ES	Galicia, Spain	15	1	62865	27604	96	42
+Partido Por un Mundo más Justo · M+J	Partido Por un Mundo más Justo · M+J	147468905314265	Facebook	galicia_ES	Galicia, Spain	7	1	61929	28216	861	187
+Lídia Senra		493249967447007	Facebook	galicia_ES	Galicia, Spain	2	1	59998	15000	198	0
+BNG Vigo		955837964434782	Facebook	galicia_ES	Galicia, Spain	1	1	49999	10000	99	0
+PP de Poio	Gabinete Peregrina	308143329389594	Facebook	galicia_ES	Galicia, Spain	1	1	49999	10000	99	0
+La terraza de Javier		272955623639436	Facebook	galicia_ES	Galicia, Spain	8	1	36445	12540	649	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	galicia_ES	Galicia, Spain	3	1	26418	13013	20	3
+CicloZero.com	Raquel Del Val Villaverde	228274408053486	Facebook	galicia_ES	Galicia, Spain	4	1	25257	8339	54	0
+PSOE de Fene	PSOE de Fene	146049022108085	Facebook	galicia_ES	Galicia, Spain	3	1	24997	11000	297	0
+Volt España	Volt Europa España	2112231695664686	Facebook	galicia_ES	Galicia, Spain	11	1	23660	6717	61	0
+Amnistía Internacional España		78151799929	Facebook	galicia_ES	Galicia, Spain	1	1	21138	8455	211	42
+Somos Miel		363084687812526	Facebook	galicia_ES	Galicia, Spain	6	1	18483	5745	156	29
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	galicia_ES	Galicia, Spain	21	1	16182	5529	41	4
+European Greens	European Greens	141366725876424	Facebook	galicia_ES	Galicia, Spain	2	1	13395	6510	76	32
+Parlamento Europeo - Oficina en España	Parlamento Europeo - Oficina en España	161616883888862	Facebook	galicia_ES	Galicia, Spain	3	1	13070	2614	25	0
+Plan International España	Jose Manuel Bran Garcia	366619768708	Facebook	galicia_ES	Galicia, Spain	3	1	12827	5614	34	4
+Fundación Anesvad	Jose Manuel Bran Garcia	131231529742	Facebook	galicia_ES	Galicia, Spain	12	1	12328	3183	69	0
+Compromiso Carballo		293036537520586	Facebook	galicia_ES	Galicia, Spain	1	1	9999	5000	99	0
+Unión X Cambre	Unión por Cambre	811285152318042	Facebook	galicia_ES	Galicia, Spain	1	1	9999	5000	99	0
+Ayuda En Acción	Ayuda En Acción	245741112112300	Facebook	galicia_ES	Galicia, Spain	27	1	9865	1674	196	5
+Javi López	Javi López	370863946442242	Facebook	galicia_ES	Galicia, Spain	7	1	9786	2293	28	0
+Entreculturas	Jose Manuel Bran Garcia	45817335745	Facebook	galicia_ES	Galicia, Spain	6	1	9738	3770	34	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	galicia_ES	Galicia, Spain	3	1	9621	4732	39	4
+Coalición por El Bierzo	Coalición por El Bierzo	661476137308587	Facebook	galicia_ES	Galicia, Spain	2	1	7683	1871	24	0
+VOX España		467127060059387	Facebook	galicia_ES	Galicia, Spain	9	1	6681	1495	33	0
+Markel Olano	EAJ-PNV	898191063533170	Facebook	galicia_ES	Galicia, Spain	1	1	6145	3072	30	6
+Compromís	Compromís	194053080624605	Facebook	galicia_ES	Galicia, Spain	2	1	6057	1211	60	12
+Loli Veiga Centristas de Valdoviño		329543821053528	Facebook	galicia_ES	Galicia, Spain	1	1	4999	1000	99	0
+Óscar Rodríguez-Centrados en Viveiro		338096020232327	Facebook	galicia_ES	Galicia, Spain	1	1	4978	995	98	0
+Compromiso por Europa	Compromís	373604602781028	Facebook	galicia_ES	Galicia, Spain	2	1	4369	873	18	0
+Pablo Fernández		800470050043391	Facebook	galicia_ES	Galicia, Spain	1	1	4125	825	8	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	galicia_ES	Galicia, Spain	2	1	3696	1216	8	0
+Recortes Cero	Recortes Cero	655009961299527	Facebook	galicia_ES	Galicia, Spain	1	1	2931	586	5	0
+SOS Colabora		351877478951783	Facebook	galicia_ES	Galicia, Spain	4	1	2831	566	20	0
+Lo que de verdad importa	Komons	2267123640272827	Facebook	galicia_ES	Galicia, Spain	1	1	2504	501	49	0
+Cambiemos Orihuela	Cambiemos Orihuela - CLARO: Unidas Podemos	341229742754620	Facebook	galicia_ES	Galicia, Spain	1	1	2310	462	4	0
+Partido por la Igualdad Real	Partido por la Igualdad Real	1981091215462211	Facebook	galicia_ES	Galicia, Spain	3	1	1129	496	13	0
+Més Per Menorca	Més per Menorca	787267558020320	Facebook	galicia_ES	Galicia, Spain	11	1	1062	254	19	0
+UNRWA España		105664031745	Facebook	galicia_ES	Galicia, Spain	7	1	1038	0	102	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	galicia_ES	Galicia, Spain	3	1	1021	476	2	0
+Xuntos por Miño		1982948458463866	Facebook	galicia_ES	Galicia, Spain	1	1	999	0	99	0
+Psoe de Miño	PSOE Miño	762791540478884	Facebook	galicia_ES	Galicia, Spain	1	1	999	0	99	0
+Socialistas de Padrón		741402999230529	Facebook	galicia_ES	Galicia, Spain	1	1	999	0	99	0
+SALOU 2019 #Ilusiónatesalou		322855728579134	Facebook	galicia_ES	Galicia, Spain	1	1	974	487	9	0
+PODEM Llucmajor	Eduardo Eugenio Zúñiga Solari	1414978035452905	Facebook	galicia_ES	Galicia, Spain	3	1	783	156	15	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	galicia_ES	Galicia, Spain	5	1	779	271	3	0
+European Commission	European Commission	107898832590939	Facebook	galicia_ES	Galicia, Spain	3	1	672	302	1	0
+IU Aragón	IU Aragón	178663732095	Facebook	galicia_ES	Galicia, Spain	1	1	625	312	6	0
+IU Cieza		347850745372218	Facebook	galicia_ES	Galicia, Spain	1	1	596	119	11	0
+Partido Popular Huévar del Aljarafe		403767163122954	Facebook	galicia_ES	Galicia, Spain	1	1	495	99	9	0
+Podemos ganar Ávila		556953581118337	Facebook	galicia_ES	Galicia, Spain	1	1	461	92	9	0
+VOX Villanueva de la Torre		316903072363234	Facebook	galicia_ES	Galicia, Spain	1	1	417	83	8	0
+Wicker Brand	Wicker Brand	286043659015983	Facebook	galicia_ES	Galicia, Spain	3	1	414	66	14	0
+No es política, Es Seseña	Partido Popular Seseña	207541725927600	Facebook	galicia_ES	Galicia, Spain	4	1	349	70	6	0
+Equo Fuenlabrada	Alejandro Alvarez Carrillo	352782308243336	Facebook	galicia_ES	Galicia, Spain	1	1	321	64	6	0
+Partido Popular de Nules	Partido Popular de Casteellón	1427834000839960	Facebook	galicia_ES	Galicia, Spain	1	1	310	62	6	0
+Bruno Sanchez-Andrade Nuño	Bruno Sánchez-Andrade Nuño	577736392709846	Facebook	galicia_ES	Galicia, Spain	1	1	309	61	6	0
+Tulfo & Piltri	Carolina Carratala Camps	113875629284677	Facebook	galicia_ES	Galicia, Spain	1	1	294	58	5	0
+QuorumGlobal		375162949584552	Facebook	galicia_ES	Galicia, Spain	1	1	288	57	5	0
+Partido Popular Móstoles		289263584794550	Facebook	galicia_ES	Galicia, Spain	1	1	277	55	5	0
+Avanzamos Dos Hermanas		579353562545374	Facebook	galicia_ES	Galicia, Spain	1	1	243	48	4	0
+TSJ con Venezuela		852951178385826	Facebook	galicia_ES	Galicia, Spain	1	1	218	43	3	0
+PP Almassora	Partido Popular de Castellón	163806500332042	Facebook	galicia_ES	Galicia, Spain	1	1	210	42	4	0
+Oxfam Intermón		20108693880	Facebook	galicia_ES	Galicia, Spain	2	1	188	0	18	0
+ETUC		129041250601685	Facebook	galicia_ES	Galicia, Spain	1	1	171	34	1	0
 Zaragoza en Común	Zaragoza en Común	1404651893174804	Facebook	galicia_ES	Galicia, Spain	1	1	102	0	10	0
-VOX España		467127060059387	Facebook	galicia_ES	Galicia, Spain	1	1	25	0	2	0
-Podemos Comunidad de Madrid	Unidas Podemos Izquierda Unida Madrid en Pie	261762710669900	Facebook	galicia_ES	Galicia, Spain	1	1	4	2	0	0
+Antilop		141745753145035	Facebook	galicia_ES	Galicia, Spain	1	1	79	0	7	0
+Unidas Podemos Ciudad Real	UNIDAS PODEMOS - IZQUIERDA UNIDA - EQUO CLM	1757569474344621	Facebook	galicia_ES	Galicia, Spain	1	1	76	0	7	0
+CEMEX		275606287530	Facebook	galicia_ES	Galicia, Spain	1	1	75	37	0	0
+I vote Europe		608176689275464	Facebook	galicia_ES	Galicia, Spain	1	1	64	32	0	0
+Europe Thinx		335839580440114	Facebook	galicia_ES	Galicia, Spain	1	1	62	12	0	0
+Ingredientes que Suman		586540488142205	Facebook	galicia_ES	Galicia, Spain	1	1	52	0	5	0
+Save The Seas		2203608429682203	Facebook	galicia_ES	Galicia, Spain	1	1	41	8	0	0
+Big News Buzz		125179374733697	Facebook	galicia_ES	Galicia, Spain	1	1	32	16	0	0
+Gabriela Mirescu		2618888988127707	Facebook	galicia_ES	Galicia, Spain	2	1	27	14	0	0
+CLAYTON		122493385103	Facebook	galicia_ES	Galicia, Spain	1	1	15	3	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	galicia_ES	Galicia, Spain	1	1	12	5	0	0
+Plictisescu.ro		184028071751540	Facebook	galicia_ES	Galicia, Spain	1	1	11	5	0	0
+Eurozine		115579498521257	Facebook	galicia_ES	Galicia, Spain	1	1	9	1	0	0
+Podemos Comunidad de Madrid	Unidas Podemos Izquierda Unida Madrid en Pie	261762710669900	Facebook	galicia_ES	Galicia, Spain	1	1	8	4	0	0
+Esquerda Net	Esquerda Net	116426248469551	Facebook	galicia_ES	Galicia, Spain	1	1	6	3	0	0
+Podem Illes Balears	Podem Illes Balears	779897522101509	Facebook	galicia_ES	Galicia, Spain	1	1	3	1	0	0
+ITUC		20556338116	Facebook	galicia_ES	Galicia, Spain	1	1	3	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	galicia_ES	Galicia, Spain	2	1	2	0	0	0

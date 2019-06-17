@@ -1,36 +1,127 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Alianța 2020 USR PLUS	Alianța 2020 USR PLUS	621574984950400	Facebook	tulcea_county_RO	Tulcea County, Romania	4	1	10562	4665	24	5
-Romania #nuepsd	Future Innovation	293215748279337	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	5601	2240	2	1
-European Parliament	European Parliament	178362315106	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	5286	2114	10	5
-ALDE - Partidul Alianta Liberalilor si Democratilor	EvolveDreamSoft	1445317929104549	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	3243	1621	4	2
-Partidul Naţional Liberal	Future Innovation 	181375448581167	Facebook	tulcea_county_RO	Tulcea County, Romania	3	1	2730	1222	3	1
-Parlamentul European, Biroul de Informare în Romania	Parlamentul European, Biroul de Informare în Romania	138896782840976	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	1896	744	2	0
-Cristian Ghinea	Uniunea Salvați România	269505079808785	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	1255	621	0	0
-Viorel Catarama	Dreapta Liberala	795022763862618	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	1221	244	2	0
-Nicu Ștefănuță	Uniunea Salvați România - USR	279454772645662	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	1056	528	1	0
-Dreapta Liberală - DL	Dreapta Liberala	1881461575305499	Facebook	tulcea_county_RO	Tulcea County, Romania	3	1	848	169	0	0
-Partidul Mișcarea Populară	Amerisoft	581911828514783	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	731	146	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	572	191	0	0
-Virgil Popescu	POPESCU VIRGIL-DANIEL	1641765056062575	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	565	113	1	0
-European Commission	European Commission	107898832590939	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	527	263	1	0
-Greenpeace Romania	Greenpeace Romania	291132089193	Facebook	tulcea_county_RO	Tulcea County, Romania	9	1	501	94	1	0
-Dacian Cioloş	PLUS	107543802616247	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	452	90	0	0
-Mihai Goţiu	Uniunea Salvați România	602280189818804	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	109	54	0	0
-Raluca Amariei	USR Sibiu	183087692172986	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	104	52	0	0
-MH TIMES	MINCULEASA CLAUDIU-NICOLAE	559977200816313	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	84	16	0	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	67	33	0	0
-Socioblog.ro	ZODIAN ALEXANDRU-SERBAN	815735411826201	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	59	11	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	46	13	0	0
-Iulian Lorincz	Uniunea Salvați România - USR	924354934394338	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	46	9	0	0
-Cristian Bușoi	Rus Alexandra	112332998808842	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	40	8	0	0
-Corina Cretu	Corina Cretu	200813406761691	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	33	6	0	0
-RMDSZ	RMDSZ	102601499822802	Facebook	tulcea_county_RO	Tulcea County, Romania	3	1	30	6	0	0
-ALDE BACĂU - Partidul Alianța Liberalilor și Democraților	Partidul Alianța Liberalilor și Democraților - ALDE	535445976897124	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	12	6	0	0
-Gregoriana Tudoran	Tudoran Gregoriana Carmen	1985293741779690	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	8	0	0	0
-Legyen ELÉG	Legyen Elég	1500893963467932	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	7	1	0	0
-Kelemen Hunor	RMDSZ	175293925828191	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	5	1	0	0
-Norica Nicolai	Increase Digital	121265151226126	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	5	0	0	0
-Todoran Adrian	Deputat Adrian Todoran	378450619599004	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	5	1	0	0
-USR Galați	Uniunea Salvați România	174434106304018	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	3	0	0	0
-Kárpát-medencei Magyar Összefogás	Kárpát-medencei Magyar Összefogás	221361328752151	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	2	1	0	0
-Erdélyi magyarok Orbán Viktor mellett	Erdélyi magyarok Orbán Viktor mellett	1537537942983268	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	1	0	0	0
+Alianța 2020 USR PLUS	Alianța 2020 USR PLUS	621574984950400	Facebook	tulcea_county_RO	Tulcea County, Romania	33	1	111099	49663	148	30
+Partidul Naţional Liberal	Future Innovation 	181375448581167	Facebook	tulcea_county_RO	Tulcea County, Romania	18	1	68848	32641	159	68
+Norica Nicolai	Increase Digital	121265151226126	Facebook	tulcea_county_RO	Tulcea County, Romania	17	1	67116	15347	73	6
+European Commission	European Commission	107898832590939	Facebook	tulcea_county_RO	Tulcea County, Romania	27	1	65124	30530	168	45
+ALDE - Partidul Alianta Liberalilor si Democratilor	EvolveDreamSoft	1445317929104549	Facebook	tulcea_county_RO	Tulcea County, Romania	40	1	63555	28300	177	41
+Partidul Social Democrat	Partidul Social Democrat	291177524360702	Facebook	tulcea_county_RO	Tulcea County, Romania	12	1	60505	29287	118	24
+European Parliament	European Parliament	178362315106	Facebook	tulcea_county_RO	Tulcea County, Romania	15	1	54468	25324	153	35
+Parlamentul European, Biroul de Informare în Romania	Parlamentul European, Biroul de Informare în Romania	138896782840976	Facebook	tulcea_county_RO	Tulcea County, Romania	14	1	52983	24379	67	15
+Elena Uram		274006426583660	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	49999	10000	104	21
+Cristian Bușoi	Rus Alexandra	112332998808842	Facebook	tulcea_county_RO	Tulcea County, Romania	26	1	26806	12031	35	10
+Departamentul pentru Agricultură și Dezvoltare Rurală al PSD	Partidul Social Democrat	339365506708219	Facebook	tulcea_county_RO	Tulcea County, Romania	5	1	26232	10718	11	5
+Partidul Mișcarea Populară	Amerisoft	581911828514783	Facebook	tulcea_county_RO	Tulcea County, Romania	14	1	22943	10003	28	7
+Răcnetul Oamenilor Sătui	IOANITA MARIN-IOANA	165452684079944	Facebook	tulcea_county_RO	Tulcea County, Romania	8	1	21466	9804	22	5
+PLUS	PLUS	1903580739951981	Facebook	tulcea_county_RO	Tulcea County, Romania	4	1	20215	9621	27	6
+Calin Popescu Tariceanu	EvolveDreamSoft	227922987222524	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	12367	6183	23	11
+Cristian Ghinea	Uniunea Salvați România	269505079808785	Facebook	tulcea_county_RO	Tulcea County, Romania	11	1	11842	4912	7	1
+PRO România	Networld IT&C SRL	2177244962290894	Facebook	tulcea_county_RO	Tulcea County, Romania	20	1	11560	3378	26	6
+Ionel Dancă	ETIS Design	227578001357165	Facebook	tulcea_county_RO	Tulcea County, Romania	5	1	10294	4444	7	2
+România în primul rând	Future Innovation	770704223323599	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	10113	5057	10	2
+Romania #nuepsd	Future Innovation	293215748279337	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	9724	4862	10	2
+Greenpeace Romania	Greenpeace Romania	291132089193	Facebook	tulcea_county_RO	Tulcea County, Romania	23	1	9276	2715	21	2
+Declic	Declic	686190454826244	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	8571	3658	3	1
+Raluca Turcan	ETIS Design	360184320712594	Facebook	tulcea_county_RO	Tulcea County, Romania	5	1	7594	3683	5	1
+Viorel Catarama	Dreapta Liberala	795022763862618	Facebook	tulcea_county_RO	Tulcea County, Romania	4	1	7400	3700	18	6
+Virgil Popescu	POPESCU VIRGIL-DANIEL	1641765056062575	Facebook	tulcea_county_RO	Tulcea County, Romania	3	1	6752	2459	14	2
+Nicu Ștefănuță	Uniunea Salvați România - USR	279454772645662	Facebook	tulcea_county_RO	Tulcea County, Romania	6	1	6496	2676	8	2
+Eugen Tomac	Amerisoft	494469087244449	Facebook	tulcea_county_RO	Tulcea County, Romania	7	1	6402	2800	7	2
+Raluca Amariei	USR Sibiu	183087692172986	Facebook	tulcea_county_RO	Tulcea County, Romania	7	1	6392	2886	41	9
+Departamentul pentru Turism - Partidul Social Democrat	Partidul Social Democrat	339973510194748	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	6234	2493	1	0
+Gregoriana Tudoran	Tudoran Gregoriana Carmen	1985293741779690	Facebook	tulcea_county_RO	Tulcea County, Romania	10	1	6027	1205	8	1
+Partidul Social Democrat Departamentul pentru Politici Fiscal Bugetare	Partidul Social Democrat	2006803969624108	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	5911	2364	1	0
+Rares Bogdan	ETIS Design	204397909629079	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	5684	2273	2	1
+Departamentul pentru Comunicații și Societate Informațională al PSD	Partidul Social Democrat	346281832652995	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	5417	2167	2	1
+Antoneta Ioniță	ETIS Design	560400854158794	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	5178	1035	10	2
+Iulian Lorincz	Uniunea Salvați România - USR	924354934394338	Facebook	tulcea_county_RO	Tulcea County, Romania	10	1	5149	1139	11	2
+Pavel Emilian		1557836147771248	Facebook	tulcea_county_RO	Tulcea County, Romania	9	1	4918	1529	8	2
+Mihai Goţiu	Uniunea Salvați România	602280189818804	Facebook	tulcea_county_RO	Tulcea County, Romania	9	1	4479	1550	8	1
+George Simion	George Simion	2212856535602171	Facebook	tulcea_county_RO	Tulcea County, Romania	11	1	4419	1664	16	4
+Daniel Buda	ETIS Design	220579784732993	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	4307	2154	3	1
+Dacian Cioloş	PLUS	107543802616247	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	4226	1690	8	1
+Simona Maria Vlădica	Amerisoft	236992636715917	Facebook	tulcea_county_RO	Tulcea County, Romania	4	1	4064	1833	5	1
+Litere.net	litere.net	1504323906337545	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	3946	1578	1	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	tulcea_county_RO	Tulcea County, Romania	15	1	3558	1527	8	2
+Aresel		292847028010932	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	3055	1527	10	2
+USR Galați	Uniunea Salvați România	174434106304018	Facebook	tulcea_county_RO	Tulcea County, Romania	11	1	2930	665	6	0
+PMP TV	Amerisoft	958364000868431	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	2882	1441	1	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	2572	1286	12	2
+USR Tineret		360833174410777	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	2516	1258	5	1
+Departamentul pentru Afaceri Interne PSD	Partidul Social Democrat	797044747344438	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	2297	1148	1	0
+USR Sibiu	Uniunea Salvați România	1028428697211383	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	2172	1086	2	1
+Paralela45	Paralela45	89625862971	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	2150	1075	11	2
+Consiliul Național PSD	Partidul Social Democrat	428923027871330	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	1563	781	0	0
+Ilan Laufer		364446500390294	Facebook	tulcea_county_RO	Tulcea County, Romania	4	1	1436	304	1	0
+Violeta Alexandru	ETIS Design SRL	644108472676492	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	1398	587	1	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	tulcea_county_RO	Tulcea County, Romania	3	1	1345	492	3	0
+Inițiativa România	Inițiativa România	1847959338763696	Facebook	tulcea_county_RO	Tulcea County, Romania	6	1	1291	531	1	0
+Dreapta Liberală - DL	Dreapta Liberala	1881461575305499	Facebook	tulcea_county_RO	Tulcea County, Romania	3	1	1269	253	3	1
+EM360 cu Adi Maniutiu	EM360 cu Adi Maniutiu	201920416986321	Facebook	tulcea_county_RO	Tulcea County, Romania	14	1	1229	475	3	0
+Cornel Popa	ETIS Design	362437290495506	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	1144	572	1	0
+Costel Alexe	ETIS Design	182546041796641	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	1121	560	1	0
+Naomi Reniuț-Ursoiu	Uniunea Salvați România	708334336169853	Facebook	tulcea_county_RO	Tulcea County, Romania	4	1	1110	219	1	0
+PNL Bucuresti	Rus Alexandra	678840505584990	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	1076	538	2	1
+Ion ȘTEFAN	ETIS Design SRL	1653699758248627	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	1053	526	2	1
+Adrian Miuțescu	ETIS Design	1992712767649895	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	1023	511	2	1
+Cupşa Ioan	ETIS Design	582397865304291	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	976	488	2	1
+Florica Chereches	ETIS Design	425879067570544	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	965	483	2	1
+Victor Ponta		150967671609795	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	951	475	0	0
+Viorel Badea	ETIS Design	161582543936194	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	921	460	0	0
+Daniel Fenechiu	ETIS Design	125414364282605	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	915	457	0	0
+Siegfried Muresan	ETIS Design	731035500293728	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	901	450	1	0
+Andrei Pop	Andrei Pop	522518014611632	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	866	173	0	0
+Marilen Gabriel Pirtea	ETIS Design	446198175563566	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	861	430	1	0
+Corina Cretu	Corina Cretu	200813406761691	Facebook	tulcea_county_RO	Tulcea County, Romania	11	1	856	215	2	0
+Ziare Neamț	Media PR Grup	471673660019608	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	843	168	2	1
+Europe Direct Regiunea Centru		146911762151935	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	718	143	1	0
+MH TIMES	MINCULEASA CLAUDIU-NICOLAE	559977200816313	Facebook	tulcea_county_RO	Tulcea County, Romania	5	1	702	222	0	0
+Peter Costea		407413792695356	Facebook	tulcea_county_RO	Tulcea County, Romania	3	1	686	133	2	0
+The Trust Word - Romania	The TRUST Word News Group	640011536422545	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	598	119	0	0
+USR Olt	ANTON SILVIU-CRISTIAN	247245385651467	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	543	108	1	0
+Bogdan Huţucă	ETIS Design	370816919755641	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	512	102	1	0
+RMDSZ	RMDSZ	102601499822802	Facebook	tulcea_county_RO	Tulcea County, Romania	25	1	504	142	1	0
+Gheorghiu Bogdan	ETIS Design	267044410338956	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	489	97	1	0
+CLAYTON		122493385103	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	462	92	0	0
+European Greens	European Greens	141366725876424	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	454	184	4	0
+Monica Luisa Macovei	MACOVEI MONICA-LUISA	130380413723811	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	452	90	0	0
+Dan Vîlceanu	ETIS Design	715786165255092	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	452	90	0	0
+Silvia Dinică	Silvia Dinică	1128229287275038	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	429	85	0	0
+Ziar Piatra Neamt	Media PR Grup	183473261723511	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	381	76	0	0
+USR Teleorman	Partidul "Uniunea Salvati Romania"	694605284013356	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	330	66	0	0
+MozaiQ	MozaiQ	1156150484398630	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	270	54	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	tulcea_county_RO	Tulcea County, Romania	5	1	248	102	1	0
+ETUC		129041250601685	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	238	47	2	0
+Christ4ro News		33424557041	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	210	105	1	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	162	32	1	0
+Todoran Adrian	Deputat Adrian Todoran	378450619599004	Facebook	tulcea_county_RO	Tulcea County, Romania	3	1	127	27	0	0
+Socioblog.ro	ZODIAN ALEXANDRU-SERBAN	815735411826201	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	119	59	0	0
+UNPR Sector 6		1499561713619805	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	118	59	1	0
+Kárpát-medencei Magyar Összefogás	Kárpát-medencei Magyar Összefogás	221361328752151	Facebook	tulcea_county_RO	Tulcea County, Romania	15	1	114	32	0	0
+Gabriela Mirescu		2618888988127707	Facebook	tulcea_county_RO	Tulcea County, Romania	3	1	99	33	3	0
+EuroJobs Romania		1850976141839208	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	95	47	0	0
+Europe Thinx		335839580440114	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	91	18	0	0
+Plictisescu.ro		184028071751540	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	91	45	0	0
+Erdélyi magyarok Orbán Viktor mellett	Erdélyi magyarok Orbán Viktor mellett	1537537942983268	Facebook	tulcea_county_RO	Tulcea County, Romania	15	1	79	19	0	0
+Legyen ELÉG	Legyen Elég	1500893963467932	Facebook	tulcea_county_RO	Tulcea County, Romania	10	1	78	18	0	0
+Cristina Prună	PRUNA CRISTINA-MADALINA	281341562263123	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	66	13	0	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	66	33	0	0
+Cornel Radu Loghin	RADU-LOGHIN CORNEL	429437337859107	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	56	8	0	0
+USR Buzău		1140510482748359	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	55	11	0	0
+ALDE BACĂU - Partidul Alianța Liberalilor și Democraților	Partidul Alianța Liberalilor și Democraților - ALDE	535445976897124	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	51	10	0	0
+Marinela V. Ardelean		346137638884956	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	50	10	0	0
+Lazar I. Bogdan		363615250703159	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	47	9	0	0
+Mága Zoltán hegedűművész		164762586881530	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	46	23	0	0
+Radu Mihaiu	Mihaiu Radu-Nicolae	689386518104305	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	35	7	0	0
+Florin Bivol		2253449691332190	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	28	5	0	0
+Kelemen Hunor	RMDSZ	175293925828191	Facebook	tulcea_county_RO	Tulcea County, Romania	6	1	24	7	0	0
+Stop AAAS Ro		1640996242671731	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	16	0	1	0
+Csomortányi István	Erdélyi Magyar Néppárt	450693115669004	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	12	2	0	0
+Big News Buzz		125179374733697	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	12	6	0	0
+Vincze Loránt	Vincze Loránt	675042232534141	Facebook	tulcea_county_RO	Tulcea County, Romania	2	1	10	2	0	0
+La Pensie		1092535407579725	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	9	0	0	0
+Calculat si linistit		821298314618173	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	5	0	0	0
+USR Timiș		873737539404529	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	5	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	3	0	0	0
+Eurozine		115579498521257	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	3	0	0	0
+Un colt de suflet		1446870045551264	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	2	0	0	0
+ITUC		20556338116	Facebook	tulcea_county_RO	Tulcea County, Romania	1	1	1	0	0	0

@@ -1,21 +1,21 @@
 region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-baranya_county	Baranya County	HU	Hungary	177	33	84159	25310	263	79
-borsod_abauj_zemplen_county	Borsod-Abaúj-Zemplén County	HU	Hungary	183	35	50015	19765	150	57
-budapest	Budapest	HU	Hungary	204	42	858336	344324	2718	922
-bacs_kiskun_county	Bács-Kiskun County	HU	Hungary	181	34	24269	9517	77	31
-bekes_county	Békés County	HU	Hungary	180	34	28867	7871	74	23
-csongrad_county	Csongrád County	HU	Hungary	181	33	39794	10891	118	34
-fejer_county	Fejér County	HU	Hungary	187	36	30023	8600	90	31
-gyor_moson_sopron_county	Győr-Moson-Sopron County	HU	Hungary	177	37	27805	9817	88	31
-hajdu_bihar_county	Hajdú-Bihar County	HU	Hungary	185	35	33982	11773	116	39
-heves_county	Heves County	HU	Hungary	176	33	19097	5326	56	16
-jasz_nagykun_szolnok_county	Jász-Nagykun-Szolnok County	HU	Hungary	177	32	16704	6785	49	20
-komarom_esztergom_county	Komárom-Esztergom County	HU	Hungary	181	35	10478	3888	33	12
-nograd_county	Nógrád County	HU	Hungary	152	33	3904	1224	10	4
-pest_county	Pest County	HU	Hungary	191	36	107337	38405	334	117
-somogy_county	Somogy County	HU	Hungary	174	33	10061	3360	30	11
-szabolcs_szatmar_bereg_county	Szabolcs-Szatmár-Bereg County	HU	Hungary	181	35	135857	60577	239	67
-tolna_county	Tolna County	HU	Hungary	175	32	4204	1754	14	5
-vas_county	Vas County	HU	Hungary	174	35	12169	3459	27	10
-veszprem_county	Veszprém County	HU	Hungary	177	35	22052	6484	56	19
-zala_county	Zala County	HU	Hungary	174	34	8846	3236	27	10
+baranya_county	Baranya County	HU	Hungary	1063	101	731260	236108	2495	735
+borsod_abauj_zemplen_county	Borsod-Abaúj-Zemplén County	HU	Hungary	1073	108	908815	350398	2652	923
+budapest	Budapest	HU	Hungary	1339	136	14377776	5405108	49719	17915
+bacs_kiskun_county	Bács-Kiskun County	HU	Hungary	1090	107	1070370	350129	2869	806
+bekes_county	Békés County	HU	Hungary	1078	105	487803	145784	1467	414
+csongrad_county	Csongrád County	HU	Hungary	1078	106	1014762	344447	3398	1165
+fejer_county	Fejér County	HU	Hungary	1140	103	771159	232925	2327	739
+gyor_moson_sopron_county	Győr-Moson-Sopron County	HU	Hungary	1100	119	831081	236976	2785	772
+hajdu_bihar_county	Hajdú-Bihar County	HU	Hungary	1093	110	679327	241496	1935	572
+heves_county	Heves County	HU	Hungary	1048	96	373259	104697	1187	337
+jasz_nagykun_szolnok_county	Jász-Nagykun-Szolnok County	HU	Hungary	1057	102	514382	176670	1323	402
+komarom_esztergom_county	Komárom-Esztergom County	HU	Hungary	1130	108	449109	125702	2069	505
+nograd_county	Nógrád County	HU	Hungary	1003	104	154296	38252	481	118
+pest_county	Pest County	HU	Hungary	1214	122	1577533	593899	7161	2183
+somogy_county	Somogy County	HU	Hungary	1044	100	342229	88593	1080	283
+szabolcs_szatmar_bereg_county	Szabolcs-Szatmár-Bereg County	HU	Hungary	1091	108	1136349	365520	2303	693
+tolna_county	Tolna County	HU	Hungary	1033	99	174049	52172	653	163
+vas_county	Vas County	HU	Hungary	1088	102	769023	194013	2474	605
+veszprem_county	Veszprém County	HU	Hungary	1057	100	341925	99841	1073	306
+zala_county	Zala County	HU	Hungary	1052	100	464416	123590	1469	391

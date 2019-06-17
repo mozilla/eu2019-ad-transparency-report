@@ -1,4 +1,5 @@
 spend_code	spend_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-0_50	0 - 50	IE	Ireland	115	52	998571	229119	10763	0
-50_100	50 - 100	IE	Ireland	115	52	3117	715	33	0
-100_1k	100 - 1k	IE	Ireland	12	7	1208938	494474	5513	1704
+0_50	0 - 50	IE	Ireland	790	190	8807650	2253756	73634	0
+50_100	50 - 100	IE	Ireland	790	190	28540	7220	252	0
+100_1k	100 - 1k	IE	Ireland	222	71	17205833	6719432	104733	29714
+1k_5k	1k - 5k	IE	Ireland	20	11	8833627	4015378	80223	16047

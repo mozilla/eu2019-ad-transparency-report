@@ -1,48 +1,280 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Liberalerna Stockholm	Liberalerna Stockholm	682180208473039	Facebook	stockholm_county_SE	Stockholm County, Sweden	5	1	249995	50000	462	231
-Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	stockholm_county_SE	Stockholm County, Sweden	12	1	103456	29415	1790	439
-Moderaterna	Moderaterna	7719591155	Facebook	stockholm_county_SE	Stockholm County, Sweden	19	1	93275	37016	1176	271
-Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	33256	16628	769	153
-ActionAid Sweden	ActionAid Sweden	18880778360	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	28013	5602	259	51
-European Parliament	European Parliament	178362315106	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	16468	8234	82	16
-Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	stockholm_county_SE	Stockholm County, Sweden	4	1	14746	3411	239	75
-Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	12154	2431	112	22
-Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	stockholm_county_SE	Stockholm County, Sweden	5	1	9488	2372	32	14
-Socialdemokraterna Värmdö - Framtidspartiet	Nygren Linda Elisabet	217897918243937	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	4999	1000	46	9
-Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	stockholm_county_SE	Stockholm County, Sweden	9	1	4985	720	37	4
-Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	3735	1868	26	11
-Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	3618	723	33	6
-Evin Incir	Socialdemokraterna i Uppsala län	1439778006254125	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	2632	526	24	4
-Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	stockholm_county_SE	Stockholm County, Sweden	5	1	2464	0	22	0
-Sverigedemokraterna Norrtelje	Sverigedemokraterna Norrtelje	231584306927975	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	1998	0	18	0
-En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	stockholm_county_SE	Stockholm County, Sweden	4	1	1770	259	11	1
-Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	stockholm_county_SE	Stockholm County, Sweden	6	1	1767	0	16	0
-Kristdemokraterna Täby	Kristdemokraterna Täby	500140550093378	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	9	0
+Valmyndigheten	Valmyndigheten	1737852076287450	Facebook	stockholm_county_SE	Stockholm County, Sweden	59	1	2484950	1084347	15902	3889
+Moderaterna	Moderaterna	7719591155	Facebook	stockholm_county_SE	Stockholm County, Sweden	132	1	2019861	803897	32211	7741
+Liberalerna Stockholm	Liberalerna Stockholm	682180208473039	Facebook	stockholm_county_SE	Stockholm County, Sweden	38	1	1411920	436991	11951	2778
+Miljöpartiet de gröna	Miljöpartiet de gröna	34780126150	Facebook	stockholm_county_SE	Stockholm County, Sweden	39	1	1224883	554205	14007	3137
+SSU	SSU	45101268520	Facebook	stockholm_county_SE	Stockholm County, Sweden	58	1	1022219	393658	16069	3832
+Socialdemokraterna	Socialdemokraterna	8040892957	Facebook	stockholm_county_SE	Stockholm County, Sweden	362	1	780026	344956	16488	3395
+Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	stockholm_county_SE	Stockholm County, Sweden	47	1	727619	314667	9566	2924
+European Commission	European Commission	107898832590939	Facebook	stockholm_county_SE	Stockholm County, Sweden	26	1	662856	328671	4303	1510
+Centerpartiet	Centerpartiet	12690894340	Facebook	stockholm_county_SE	Stockholm County, Sweden	32	1	660154	295674	11160	4847
+Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	stockholm_county_SE	Stockholm County, Sweden	92	1	635441	217346	11855	3541
+Socialdemokraterna i Stockholm	Socialdemokraterna i Stockholm	117056501654820	Facebook	stockholm_county_SE	Stockholm County, Sweden	14	1	624929	266366	12313	3578
+European Parliament	European Parliament	178362315106	Facebook	stockholm_county_SE	Stockholm County, Sweden	20	1	603410	271137	5737	1974
+European Greens	European Greens	141366725876424	Facebook	stockholm_county_SE	Stockholm County, Sweden	9	1	572642	261197	7531	2266
+Karin Karlsbro - Liberalerna.	Liberalerna	559163754139097	Facebook	stockholm_county_SE	Stockholm County, Sweden	8	1	552287	206266	7218	1706
+Plan International Sverige	Plan International Sverige	382243262003	Facebook	stockholm_county_SE	Stockholm County, Sweden	32	1	511133	202149	4142	1235
+LUF Storstockholm	Emerse	321456164675366	Facebook	stockholm_county_SE	Stockholm County, Sweden	24	1	493976	143000	2118	611
+Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	stockholm_county_SE	Stockholm County, Sweden	35	1	395488	132494	5339	1521
+Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	stockholm_county_SE	Stockholm County, Sweden	30	1	360654	120507	2607	969
+Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	stockholm_county_SE	Stockholm County, Sweden	42	1	341055	105187	4889	1647
+Vänsterpartiet	Vänsterpartiet	323156205347	Facebook	stockholm_county_SE	Stockholm County, Sweden	79	1	325151	68852	2419	563
+Arba Kokalari	Moderaterna i Stockholms stad och län	355819811185620	Facebook	stockholm_county_SE	Stockholm County, Sweden	13	1	307574	62563	1902	472
+Liberalerna Botkyrka	Emerse	529270410491237	Facebook	stockholm_county_SE	Stockholm County, Sweden	60	1	269940	59000	1448	203
+Centerpartiets Ungdomsförbund	Centerpartiets Ungdomsförbund	110793008936879	Facebook	stockholm_county_SE	Stockholm County, Sweden	9	1	221909	96537	2227	532
+Rädda Barnen	Rädda Barnen	72659261793	Facebook	stockholm_county_SE	Stockholm County, Sweden	95	1	216993	57689	1869	392
+Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	stockholm_county_SE	Stockholm County, Sweden	26	1	215011	73267	3063	822
+Grön Ungdom	Grön Ungdom	113234935374946	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	210639	99818	2874	705
+Kristdemokraterna Täby	Kristdemokraterna Täby	500140550093378	Facebook	stockholm_county_SE	Stockholm County, Sweden	20	1	169980	44000	2044	453
+Botkyrka kommun	Botkyrka kommun	313066622056883	Facebook	stockholm_county_SE	Stockholm County, Sweden	4	1	164996	66000	1898	657
+Svenskt Näringsliv	Svenskt Näringsliv	90882504375	Facebook	stockholm_county_SE	Stockholm County, Sweden	7	1	157952	59923	2918	661
+Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	stockholm_county_SE	Stockholm County, Sweden	30	1	126130	31593	1695	540
+Gustav Hemming	Gustav Hemming (Centerpartiet)	722853564439941	Facebook	stockholm_county_SE	Stockholm County, Sweden	8	1	124160	31198	1938	387
+Operation Smile Sverige	Operation Smile Sverige	161213770567846	Facebook	stockholm_county_SE	Stockholm County, Sweden	119	1	121034	20565	1159	197
+Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	stockholm_county_SE	Stockholm County, Sweden	39	1	112340	23773	678	166
+Evin Incir	Socialdemokraterna i Uppsala län	1439778006254125	Facebook	stockholm_county_SE	Stockholm County, Sweden	9	1	110307	27009	996	230
+Moderaterna i Järfälla	Moderaterna i Järfälla	443813509046190	Facebook	stockholm_county_SE	Stockholm County, Sweden	4	1	109996	22000	1481	324
+Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	stockholm_county_SE	Stockholm County, Sweden	7	1	105529	48919	2328	542
+Karin Wanngård	Socialdemokraterna i Stockholm	389223741094370	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	99998	20000	925	185
+Liberala studenter Stockholm	Gronkvist Agnes Mimmie Mica Bjornsdotter	597912210359600	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	99998	20000	925	185
+Moderaterna i Stockholms stad och län	Moderaterna i Stockholms stad och län	118162038224731	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	99085	19817	550	137
+Socialdemokraterna Solna	Socialdemokraterna i Solna	286987014656068	Facebook	stockholm_county_SE	Stockholm County, Sweden	18	1	98982	18000	1063	203
+Tomas Tobé	Moderaterna	1829725353928210	Facebook	stockholm_county_SE	Stockholm County, Sweden	35	1	94182	24063	1601	353
+Socialdemokraterna i Södertälje	Socialdemokraterna i Södertälje	114736451897793	Facebook	stockholm_county_SE	Stockholm County, Sweden	13	1	91504	17608	2177	509
+Jordens Vänner / Friends of the Earth Sweden	Jordens Vänner / Friends of the Earth Sweden	207890945895422	Facebook	stockholm_county_SE	Stockholm County, Sweden	7	1	87834	27390	330	75
+Liberalerna	Liberalerna	132266740623	Facebook	stockholm_county_SE	Stockholm County, Sweden	12	1	86309	22129	1945	402
+Sverige för UNHCR	Viva Media	643137272398136	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	83460	41270	1387	277
+Unga Feminister	Unga Feminister	100642360004457	Facebook	stockholm_county_SE	Stockholm County, Sweden	9	1	79527	23006	842	236
+Skiftet	Skiftet	100650935646	Facebook	stockholm_county_SE	Stockholm County, Sweden	6	1	76347	18336	373	132
+Centerpartiet i Stockholms län	Centerpartiet i Stockholms län	154533721332462	Facebook	stockholm_county_SE	Stockholm County, Sweden	4	1	74985	20997	1434	287
+Städa Sverige - Idrottens miljöorganisation	Nilsson Patrik Topias Lennart	302156023140090	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	73014	36507	676	338
+Skogsindustrierna	Skogsindustrierna 	182933185135	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	71677	31740	395	155
+Feministiskt initiativ	Feministiskt initiativ	112513375470294	Facebook	stockholm_county_SE	Stockholm County, Sweden	7	1	67911	14266	1625	325
+Sverigedemokraterna Region Stockholm	SD Stockholm	1729304067391998	Facebook	stockholm_county_SE	Stockholm County, Sweden	10	1	66792	16359	670	193
+Miljöpartiet Södertälje	Miljöpartiet Södertälje	181419098546246	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	64994	15998	1018	231
+Miljöpartiet de gröna i Solna	Bernhard Huber	183031871858967	Facebook	stockholm_county_SE	Stockholm County, Sweden	6	1	62994	12000	619	120
+Arabiska Teatern / أرابيسكا تياترن	Arabiska Teatern / أرابيسكا تياترن	996264337099052	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	60470	29973	284	114
+Magnus Thulin - Centerpartiet	Thulin Magnus Nils Oscar	161302754576832	Facebook	stockholm_county_SE	Stockholm County, Sweden	8	1	56643	11328	592	159
+Vänsterpartiet Sundbyberg	Vänsterpartiet Sundbyberg	1592860820974499	Facebook	stockholm_county_SE	Stockholm County, Sweden	14	1	55986	16000	646	231
+S-studenter	Jordas John Anton Ingvar	123266647715651	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	54998	11000	509	101
+Emma Wiesner	Emma Wiesner (Centerpartiet)	653072158104424	Facebook	stockholm_county_SE	Stockholm County, Sweden	11	1	54966	12524	431	89
+Vänsterpartiet Södermalm	Vänsterpartiet Södermalm	376804565780243	Facebook	stockholm_county_SE	Stockholm County, Sweden	8	1	54946	19990	1387	388
+Saco	Saco	133910158381	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	51546	13299	361	108
+Miljöpartiet de gröna i Värmdö	Miljöpartiet de gröna i Värmdö	279546375195	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	49999	10000	462	92
+Centerstudenter	Centerstudenter	118486018229497	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	49999	10000	462	92
+Miljöpartiet de gröna i Botkyrka	Miljöpartiet de Gröna i Botkyrka	124443770929754	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	49999	10000	925	463
+Jörgen Warborn EU-kandidat	Moderaterna	56002955332	Facebook	stockholm_county_SE	Stockholm County, Sweden	10	1	46395	11245	704	155
+LO Sverige	LO Sverige	163820136238	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	44455	20540	735	147
+Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	stockholm_county_SE	Stockholm County, Sweden	7	1	41534	12589	867	177
+Henrik Sundström - M	Sundström Claes Henrik	180745369170	Facebook	stockholm_county_SE	Stockholm County, Sweden	8	1	41361	8581	287	71
+Kristdemokraterna i Sollentuna	Nyman Lars Thomas	242233339297081	Facebook	stockholm_county_SE	Stockholm County, Sweden	17	1	40983	6000	415	64
+Annie Lööf	Centerpartiet	118943054880945	Facebook	stockholm_county_SE	Stockholm County, Sweden	4	1	39922	7984	303	65
+ActionAid Sweden	ActionAid Sweden	18880778360	Facebook	stockholm_county_SE	Stockholm County, Sweden	9	1	39440	10035	391	114
+Fredrick Federley	Fredrick Federley	189892183097	Facebook	stockholm_county_SE	Stockholm County, Sweden	5	1	38052	13871	291	79
+Vi-skogen	Vi-skogen	356032977210	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	35248	7049	326	65
+Diakonia	Diakonia	42676805259	Facebook	stockholm_county_SE	Stockholm County, Sweden	13	1	35181	10534	223	50
+David Lega	Kristdemokraterna	251829904829983	Facebook	stockholm_county_SE	Stockholm County, Sweden	6	1	34997	8013	449	89
+Liberalerna Norrmalm	Tufvesson Elsa Christina	173275532684116	Facebook	stockholm_county_SE	Stockholm County, Sweden	33	1	34646	3219	489	123
+Socialdemokraterna på Linje 17	Socialdemokraterna på Linje 17 	174527259250554	Facebook	stockholm_county_SE	Stockholm County, Sweden	14	1	33986	5000	313	46
+Socialdemokraterna Värmdö - Framtidspartiet	Nygren Linda Elisabet	217897918243937	Facebook	stockholm_county_SE	Stockholm County, Sweden	6	1	32994	15000	1119	250
+Socialdemokraterna i Sollentuna	Jonsson Sven Joakim	465428396919164	Facebook	stockholm_county_SE	Stockholm County, Sweden	7	1	30993	6000	323	64
+Kristdemokraterna Solna	Kristdemokraterna i Solna	153194577050	Facebook	stockholm_county_SE	Stockholm County, Sweden	7	1	30993	6000	323	64
+En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	stockholm_county_SE	Stockholm County, Sweden	21	1	28845	6635	233	53
+Afram Yakoub	Yakuob Afram	1849562398465143	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	27943	6882	258	63
+Eric Luth	Eric Luth – Centerpartiet	757931234599499	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	27729	7356	480	96
+Liberalerna Kungsholmen	Johansson Maria Birgitta	1632307106990705	Facebook	stockholm_county_SE	Stockholm County, Sweden	9	1	24991	4000	341	64
+Gröna Studenter	Almén Henrik Carl Olof	31779071967	Facebook	stockholm_county_SE	Stockholm County, Sweden	5	1	23122	8063	755	204
+Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	stockholm_county_SE	Stockholm County, Sweden	5	1	22867	4542	290	63
+Sveriges Kommunistiska Parti	Sveriges Kommunistiska Parti	133234606721672	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	22649	4921	209	45
+IF Metall	IF Metall	108492218918	Facebook	stockholm_county_SE	Stockholm County, Sweden	10	1	22313	6730	152	31
+KDU Sverige	KDU Sverige	177549278946958	Facebook	stockholm_county_SE	Stockholm County, Sweden	8	1	21807	6096	366	77
+Sverigedemokraterna Norrtelje	Sverigedemokraterna Norrtelje	231584306927975	Facebook	stockholm_county_SE	Stockholm County, Sweden	5	1	20995	4000	194	37
+EU-kommissionen i Sverige	EU-kommissionen i Sverige	155824787799	Facebook	stockholm_county_SE	Stockholm County, Sweden	4	1	20140	9446	179	82
+Liberalerna Haninge	Liberalerna Haninge	183607788350923	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	19998	10000	925	185
+Vänsterpartiet Botkyrka	Vänsterpartiet Botkyrka	112154658794592	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	19997	7000	647	185
+Hyresgästföreningen	Hyresgästföreningen	126567104406	Facebook	stockholm_county_SE	Stockholm County, Sweden	4	1	19996	4000	184	37
+Jonas Sjöstedt		261331320599298	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	19842	3968	106	27
+Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	stockholm_county_SE	Stockholm County, Sweden	19	1	19764	3265	176	25
+6F - Fackförbund i samverkan	6F - Fackförbund i samverkan	720556414800953	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	19728	3945	182	36
+Allan Widman	Liberalerna	540799486089503	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	19078	7230	598	119
+Miljöpartiet de Gröna i Sundbyberg	Miljöpartiet Sundbyberg	107104919328517	Facebook	stockholm_county_SE	Stockholm County, Sweden	6	1	17994	3000	203	37
+Medborgerlig Samling	Medborgerlig Samling	189332844828330	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	17184	3436	159	31
+Liberala ungdomsförbundet	Tilstam Emilie Josefin	108941769135355	Facebook	stockholm_county_SE	Stockholm County, Sweden	5	1	16825	3325	163	32
+Slöseriombudsmannen	Skattebetalarna	408171019221426	Facebook	stockholm_county_SE	Stockholm County, Sweden	12	1	16275	6593	98	19
+Frihet	Hayrynen Lotta Ilona	1722887348013516	Facebook	stockholm_county_SE	Stockholm County, Sweden	9	1	15978	7479	224	78
+Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	stockholm_county_SE	Stockholm County, Sweden	6	1	15850	4412	228	51
+En bättre framtid	Plan International Sverige	1173808162671999	Facebook	stockholm_county_SE	Stockholm County, Sweden	7	1	15662	3036	137	26
+Zandra Pettersson SD politiker	Pettersson Zandra Margareta	1731576980266356	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	15449	4981	376	75
+Djurens parti	Eriksson Monica Maria Therese	207364469446997	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	15101	3338	134	26
+Huddingemoderaterna	Huddingemoderaterna	160210550756111	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	14998	6000	509	101
+Hungerprojektet	Hungerprojektet	212049035488183	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	14587	2917	147	36
+Moderaterna i Danderyd	Smidhammar Leo	488238954615693	Facebook	stockholm_county_SE	Stockholm County, Sweden	6	1	13994	2000	175	55
+CIVIL RIGHTS DEFENDERS	CIVIL RIGHTS DEFENDERS	128452220525979	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	13814	2762	255	127
+Ydrenäs4EU	Ydrenas Hans Rickard	1538819782888095	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	12798	2560	118	23
+Torgny Jönsson	Jonsson Bjorn Torgny	972455966286401	Facebook	stockholm_county_SE	Stockholm County, Sweden	4	1	12578	2516	143	45
+Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	stockholm_county_SE	Stockholm County, Sweden	27	1	12528	1784	87	5
+Forum Syd	Forum Syd	152060917636	Facebook	stockholm_county_SE	Stockholm County, Sweden	6	1	12156	3750	112	34
+Yrkesdörren	ÖppnaDörren	1047016558650888	Facebook	stockholm_county_SE	Stockholm County, Sweden	12	1	12096	2845	143	52
+Centerpartiet i Huddinge	Tomas Selin	167980936712785	Facebook	stockholm_county_SE	Stockholm County, Sweden	4	1	11996	2000	110	18
+Liberalerna Sollentuna	Angressved Lars Johannes	1447781535451300	Facebook	stockholm_county_SE	Stockholm County, Sweden	4	1	11996	2000	147	27
+IOGT-NTO	IOGT-NTO	28237261288	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	11831	5863	543	108
+Anders Rehnberg till Europaparlamentet	Rehnberg Anders John Henry	362678667854817	Facebook	stockholm_county_SE	Stockholm County, Sweden	6	1	11742	2645	169	38
+Liberala Studenter	Heimbrand Christoffer	118645251482192	Facebook	stockholm_county_SE	Stockholm County, Sweden	17	1	11627	3075	90	14
+ABF	ABF	80386149597	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	11575	5787	61	17
+Socialdemokraterna i Uppsala	Socialdemokraterna i Uppsala	174949672555149	Facebook	stockholm_county_SE	Stockholm County, Sweden	12	1	11478	3279	230	57
+WaterAid Sverige	WaterAid Sverige	175843834306	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	11050	2816	35	17
+Jessica Polfjärd	Moderaterna	337086006951883	Facebook	stockholm_county_SE	Stockholm County, Sweden	5	1	10929	3495	265	52
+Internet Advertising		303479743893373	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	10172	2034	101	20
+Centerpartiet i Solna	Centerpartiet i Solna	155999571265763	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	9999	5000	462	92
+Go Climate Neutral	Go Climate Neutral	1797724450537743	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	9999	5000	462	92
+Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	stockholm_county_SE	Stockholm County, Sweden	18	1	9456	1742	109	21
+Svensk Handel	Svensk Handel	120477444659925	Facebook	stockholm_county_SE	Stockholm County, Sweden	5	1	9321	2874	34	6
+Olof Palme International Center	Olof Palme International Center	62185934430	Facebook	stockholm_county_SE	Stockholm County, Sweden	5	1	8815	3714	78	32
+Vänsterpartiet Dalarna	Fredholm Kajsa	154956994679599	Facebook	stockholm_county_SE	Stockholm County, Sweden	8	1	8497	1088	173	33
+Moderaterna i Solna	Moderaterna Solna	450481758311196	Facebook	stockholm_county_SE	Stockholm County, Sweden	4	1	7996	1000	194	64
+Jan Björklund	Liberalerna	221193798389602	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	7840	3920	363	72
+Stefan Löfven	Socialdemokraterna	329885883718979	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	7822	3129	289	144
+Liberalerna Örebro län	Liberalerna i Örebro län	388964421149126	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	7464	1466	69	13
+KD Sigtuna	Makris Jessica Therese	2063183643940247	Facebook	stockholm_county_SE	Stockholm County, Sweden	4	1	7311	1097	135	27
+Liberalerna Österåker	Liberalerna i Österåker	316933851779070	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	6997	1000	64	9
+Demokratibygget	Barrett Sara Helena	536156530105433	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	6997	1000	64	9
+Socialdemokraterna i Borås	Socialdemokraterna i Borås	104604012928735	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	6977	1395	64	12
+Semantiko	MTWABP Sweden AB	656090384536434	Facebook	stockholm_county_SE	Stockholm County, Sweden	4	1	6847	987	26	0
+Stoppa höjningen av Sveriges EU-avgift	Fria Moderata Studentförbundet	306402583588293	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	6798	1360	125	62
+Heléne Fritzon	Socialdemokraterna	767749640051136	Facebook	stockholm_county_SE	Stockholm County, Sweden	20	1	6795	1537	62	14
+studietid	#studietid	637235366608588	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	5998	1000	55	9
+Moderaterna i Salem	Kalderén Bo Lennart	1408104366115145	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	5998	1000	55	9
+Kristdemokraterna Södertälje	Kristdemokraterna Södertälje	132086976967371	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	5998	1000	55	9
+Centerpartiet Upplands Väsby	Magnusson Kjell Johan Sonny	1457926257795252	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	5678	1120	55	11
+Kristdemokraterna i Dalarna	Kristdemokraterna Dalarna	321670347944266	Facebook	stockholm_county_SE	Stockholm County, Sweden	5	1	5328	1600	345	74
+Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	5181	1314	82	16
+Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	stockholm_county_SE	Stockholm County, Sweden	10	1	5064	673	21	0
+Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	stockholm_county_SE	Stockholm County, Sweden	5	1	5021	1004	53	15
+Liberalerna Sundbyberg	Liberalerna i Sundbyberg	507299542640142	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	4999	1000	46	9
+Socialdemokraterna i Älvsjö	Socialdemokraterna i Stockholm	776538829218458	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	4999	1000	46	9
+Joakim Jonsson		506344336447634	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	4999	1000	46	9
+Centerpartiet Lidingö	Patrik Buddgård	370182686393713	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	4999	1000	92	46
+Kristdemokraterna Tyresö	Kennerberg Leif Robert	268593563268202	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	4999	1000	46	9
+Kristdemokraterna Botkyrka	Kristdemokraterna Botkyrka	650240125071536	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	4999	1000	92	46
+Feminism & Gestaltning	Hillerbrand Rune Johanna Maria	182667815652758	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	4999	1000	46	9
+Carl Kangas - S Värmdö	Nygren Linda Elisabet	879887542403191	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	4999	1000	46	9
+Centerpartiet i Uppsala län	Grew Hedda Anna Magdalena Jarta	801293393230795	Facebook	stockholm_county_SE	Stockholm County, Sweden	5	1	4571	1802	42	16
+Vänsterpartiet Södertälje	Vänsterpartiet Södertälje	1491285471125054	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	4563	912	84	42
+Centerkvinnorna	Lek Ingrid Magdalena	265585313460256	Facebook	stockholm_county_SE	Stockholm County, Sweden	8	1	4513	804	56	11
+Volt Sverige	Rolf Michael Holz	939004146262372	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	4463	2232	41	20
+Miljöpartiet de gröna i Gnesta	Miljöpartiet de Gröna i Gnesta	288168764608020	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	4432	886	61	24
+Vänsterpartiet Leksand	Fredholm Kajsa	348264571925203	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	4428	885	40	8
+Pietro Marchesi	Marchesi Pietro Angelo Giuseppe	412659735929497	Facebook	stockholm_county_SE	Stockholm County, Sweden	7	1	3851	249	132	29
+Spannmålsfritt	Spannmålsfritt	886531201686249	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	3749	750	34	6
+Kristdemokraterna Uppsala	Kristdemokraterna Uppsala	783969528368300	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	3462	1246	108	26
+Kristdemokraterna Arboga	Stenzelius Jonas Peter Mikael	1083070925184919	Facebook	stockholm_county_SE	Stockholm County, Sweden	7	1	3462	635	31	5
+Centerpartiet Uppsala Län	Grew Hedda Anna Magdalena Jarta	597947044056811	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	3075	1223	19	3
+Lidingömoderaterna	Lidingömoderaterna	417744054982151	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	2997	0	101	18
+Kristdemokraterna i Värmdö	Lipinska Anna Weronika	1428064517465758	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	2997	0	27	0
+FPlus – nyhetstjänsten för företagsamma	fPlus	130927360876045	Facebook	stockholm_county_SE	Stockholm County, Sweden	4	1	2933	586	27	5
+Utvecklingsmagasinet (fd Biståndsdebatten)	Edquist Kerstin Helena	162523667123095	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	2927	585	19	3
+Bodil Valero sida	Valero Bodil Elisabeth	300733377216643	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	2750	550	25	5
+Timbro	Timbro	237146235237	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	2732	416	17	2
+Nackamoderaterna	Nackamoderaterna	132143480932	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	2527	1264	23	11
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	stockholm_county_SE	Stockholm County, Sweden	22	1	2442	1010	6	0
+Liberalerna Region Uppsala	Emerse	760092737373457	Facebook	stockholm_county_SE	Stockholm County, Sweden	6	1	2333	466	21	4
+Folkstyret	Ströberg Mikael	1243789685638222	Facebook	stockholm_county_SE	Stockholm County, Sweden	5	1	2244	352	20	3
+20% Klimatvarning	Arleskar Carl Albin	362163934600158	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	2238	924	79	15
+Vänsterpartiet Solna	Vänsterpartiet 	273249776157066	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	2174	355	20	3
+Martin Ängeby	Angeby Martin Lennart Valdemar	354019898061233	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	2115	385	26	5
+Marie Nilsson	IF Metall	292532504512919	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	2096	215	19	1
+Linus Lakso - MP	Miljöpartiet de gröna	1038425926323402	Facebook	stockholm_county_SE	Stockholm County, Sweden	5	1	2014	330	18	3
+Kristdemokraterna Fyrbodal	Kristdemokraterna i VGN	1764033887144522	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	2013	365	124	28
+Centerpartiet i Enhörna		584208725271615	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	1998	0	18	0
+Socialdemokraterna i Järfälla	Socialdemokraterna i Järfälla	125830894149167	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	1998	0	92	18
+Socialdemokraterna i Jönköpings län	Socialdemokraterna i Jönköpings län	390479295816	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	1934	386	17	3
+Philip Botström		1580590188862575	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	1863	284	17	2
+Concord Sverige	CONCORD Sverige	119628488091475	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	1789	358	16	3
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	stockholm_county_SE	Stockholm County, Sweden	8	1	1749	726	2	0
+Kryssa Mohammad Omran KD	Omran Mohammad	294934427940073	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	1700	624	11	2
+Kvinna till Kvinna	Kvinna till Kvinna	153028052500	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	1676	335	15	3
+Skattebetalarnas Förening	Skattebetalarnas Förening	72832167834	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	1599	800	7	1
+Fredsövning	ABRAHAMSSON PER-OLOV	717556358417977	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	1592	318	14	2
+Folkbildarforum	Bildningsförbundet Östergötland	164688070209892	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	1462	292	13	2
+Tobias Baudin	Kommunal	614939535271869	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	1389	277	21	9
+Kristdemokraterna Sörmland	Tinglöf Miriam Monica Mariana	1633975010236193	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	1342	268	12	2
+Susanna Gideonsson	Handelsanställdas förbund	2256836864595743	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	1336	267	18	7
+Arbetsmarknadsnytt	Arbetsmarknadsnytt	799634660143537	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	1324	264	12	2
+Miljöpartiet de gröna i Helsingborg	Miljöpartiet de gröna i Helsingborg	106956499327992	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	1314	217	12	2
+Vänsterpartiet Uppsala län	Bergegardh Hans Andreas Abe	326729237396677	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	1210	420	38	11
+Jesper Skalberg Karlsson	Skalberg Karlsson Jesper Jens J	2171970199486213	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	1171	234	10	2
+Stiftelsen Expo	Stiftelsen Expo	208751565805849	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	1134	227	10	2
+Landsbygdspartiet oberoende	Landsbygdspartiet oberoende	1549988978561671	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	1099	549	50	10
+Fria Moderata Studentförbundet	Fria Moderata Studentförbundet	119885094691458	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	1001	200	18	9
+Reformisterna	Reformisterna	2337692372925538	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	1000	200	9	1
+Centerpartiet Botkyrka - Grödinge	Alse Dag Lucas	439419836148910	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	9	0
+Anna Lipinska - Kristdemokraterna Värmdö	Lipinska Anna Weronika	176755019604222	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	9	0
+Engelbrektsmoderaterna		1445413619024688	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	9	0
+Kristdemokraterna Lidingö	Kristdemokraterna på Lidingö	703204236400845	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	9	0
+Mathias Lindow, kommunalråd -L- Österåker	Lindow Johan Mathias	1543451862565120	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	9	0
+Socialdemokraterna i Nynäshamn	Persson Gunnar Henrik Haakan	552680558109355	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	9	0
+Vänsterpartiet Sollentuna	Lindström Dira Louise Ghadir	198650703984891	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	9	0
+FUF - Föreningen för Utvecklingsfrågor	Edquist Kerstin Helena	190533360983432	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	46	9
 Malin Forsbrand kommunalråd Vaxholm	Forsbrand Malin Kristina	298053177394356	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	9	0
-Miljöpartiet de gröna i Solna	Bernhard Huber	183031871858967	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	9	0
-Vänsterpartiet Sundbyberg	Vänsterpartiet Sundbyberg	1592860820974499	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	9	0
-Miljöpartiet de Gröna i Sundbyberg	Miljöpartiet Sundbyberg	107104919328517	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	9	0
-KD Sigtuna	Makris Jessica Therese	2063183643940247	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	9	0
-Demokratibygget	Barrett Sara Helena	536156530105433	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	9	0
-Socialdemokraterna på Linje 17	Socialdemokraterna på Linje 17 	174527259250554	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	9	0
-Liberalerna Österåker	Liberalerna i Österåker	316933851779070	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	9	0
-studietid	#studietid	637235366608588	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	9	0
-Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	769	153	7	1
-Folkstyret	Ströberg Mikael	1243789685638222	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	763	152	7	1
-Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	716	143	1	0
-Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	712	142	6	1
-Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	675	135	6	1
-KDU Sverige	KDU Sverige	177549278946958	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	649	129	6	1
-Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	627	107	5	0
-Fredrick Federley	Fredrick Federley	189892183097	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	529	105	4	0
-European Commission	European Commission	107898832590939	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	480	240	1	0
-Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	369	0	3	0
-Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	292	58	2	0
-Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	202	0	1	0
-Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	146	0	6	1
-Anders Rehnberg till Europaparlamentet	Rehnberg Anders John Henry	362678667854817	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	143	0	1	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	134	67	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	stockholm_county_SE	Stockholm County, Sweden	4	1	127	28	0	0
-David Lega	Kristdemokraterna	251829904829983	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	122	0	1	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	78	18	0	0
-Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	76	0	0	0
+Lidingöpartiet - Grön skön ö.		169961746503287	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	999	0	9	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	986	463	2	0
+Grön Omstart	Wallin Lena Maria	407812702944641	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	919	157	2	0
+Axess Magasin & TV	Axess Magasin & TV	887305194662637	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	864	172	7	1
+Moderaterna i Arboga	Soderland Anders Mikael	1307727569320278	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	849	170	7	1
+Richard Brodd Liberalerna	Brodd Karl Erik Richard	223726468440460	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	847	169	78	15
+Eva B Arnesson - KD	Eva B Arnesson - KD	297923747637590	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	788	157	7	1
+Liberalerna Västmanland	Liberalerna Västmanland	112927778743586	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	778	155	7	1
+Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	774	137	13	6
+The Good Show	Assur Stagliano Stefan Giuseppe	1923750267869320	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	769	0	7	0
+Vänsterpartiet Fyrbodal	Vänsterpartiet Fyrbodal	154507768394620	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	739	147	6	1
+KD Kungsbacka	KD Kungsbacka	2024157037852156	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	709	141	6	1
+Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	690	138	6	1
+Rösta Moderat		349668178981055	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	665	0	6	0
+Moderaterna i Håbo	Erling Björn Karl Gustaf	256926791030140	Facebook	stockholm_county_SE	Stockholm County, Sweden	9	1	653	0	6	0
+Socialdemokraterna i Mark	Andersson Hakan Ulf Goran	528944283871109	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	647	129	5	1
+Liberalerna Västerås	Liberalerna Västerås	39940078116	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	636	127	5	1
+Anna Vikström		1671556912954715	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	634	126	5	1
+Georgia Ferris KD EU-Kandidat	Ferris Georgia Minnie Anna	407374246718043	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	627	125	5	1
+KD Region Uppsala	KD Region Uppsala	195658617439309	Facebook	stockholm_county_SE	Stockholm County, Sweden	4	1	624	0	5	0
+Moderaterna i Mölndal	Brown Stjarna Amanda Charlotte	125396154314182	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	613	122	11	5
+Centerpartiet i Umeå	Centerpartiet	450620155297	Facebook	stockholm_county_SE	Stockholm County, Sweden	4	1	590	0	5	0
+KDU Göteborg	KDU Göteborg	337673949604125	Facebook	stockholm_county_SE	Stockholm County, Sweden	5	1	569	0	5	0
+Studieförbundet Bilda	Wallstedt Bo Fredrik	161514177194883	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	552	110	5	1
+Socialdemokraterna Kungälv	Kungälvs Socialdemokratiska Arbetarekommun	241319269242484	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	529	66	4	0
+IRANDN		1535002403434216	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	438	0	4	0
+Vänsterpartiet Region Dalarna	Fredholm Kajsa	816257315147676	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	418	0	19	3
+Vänsterpartiet Umeå	Sellstedt Karl Sven Andreas	237863203023150	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	412	82	3	0
+Jan Lenander, politiskt engagerad	Lenander Jan Richard	1834522019966466	Facebook	stockholm_county_SE	Stockholm County, Sweden	3	1	411	0	3	0
+Common sense in Sweden		697826370283167	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	399	0	3	0
+Kristdemokraterna Västerbotten	Kristdemokraterna Västerbotten	414156238684191	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	361	59	5	1
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	340	170	0	0
+Kristdemokraterna i Gagnef	Kristdemokraterna Dalarna	273483286188959	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	307	0	8	1
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	stockholm_county_SE	Stockholm County, Sweden	5	1	215	74	0	0
+SSU Kalmar Län	SSU Kalmar län	241658249370356	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	180	0	1	0
+Tankar Online		114769995938282	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	140	0	13	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	133	66	0	0
+Kristdemokraterna Vänersborg	Nilsson Anna Maria	1436550706597391	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	130	0	1	0
+Kristdemokraterna i Örebro län	Cesar Eje Alexander	430535663641398	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	116	0	5	1
+Moderaterna i Stenungsund	Renfors Anna Maria	488439967871997	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	106	0	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	105	53	0	0
+Anders G Johansson	Johansson Anders Gustaf Werner	357659877249	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	104	0	0	0
+Kommunistiska Partiet Stockholm		1572942986309050	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	102	0	0	0
+Free Quran Education		388655174641163	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	100	44	0	0
+Arbetarekommunen	Persson Gunnar Henrik Haakan	2053389964962411	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	96	0	0	0
+Caritas Sweden		119140545477108	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	85	0	0	0
+Adnan Dibrani till Bryssel	Ghafari Sebastian	1308296045984813	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	81	0	0	0
+Socialdemokraterna Hässleholm	Hässleholms Socialdemokratiska arbetarekommun	838924659467812	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	74	0	0	0
+Tallis talar		1206136579519699	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	57	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	51	20	0	0
+Moderaterna Kungsbacka	Moderaterna Kungsbackakretsen	121182911263997	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	46	0	0	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	30	15	0	0
+Big News Buzz		125179374733697	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	26	13	0	0
+CRIF		395919323779707	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	17	8	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	stockholm_county_SE	Stockholm County, Sweden	2	1	11	2	0	0
+ETUC		129041250601685	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	5	1	0	0
+Tokyo Weekender		134654693230171	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	4	0	0	0
+Eurozine		115579498521257	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	3	0	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	2	0	0	0
+Anton Nilsson	Betalt av stödföreningen för Anton Nilsson	290501338278566	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	1	0	0	0
+Europe Thinx		335839580440114	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	1	0	0	0
+ITUC		20556338116	Facebook	stockholm_county_SE	Stockholm County, Sweden	1	1	1	0	0	0

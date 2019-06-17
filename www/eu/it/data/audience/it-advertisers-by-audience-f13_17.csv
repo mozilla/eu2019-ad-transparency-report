@@ -1,35 +1,115 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-European Commission	European Commission	107898832590939	Facebook	f13_17	female (13-17)	IT	Italy	3	1	28839	11659	30	6
-Matteo Salvini	Lega - Salvini Premier	252306033154	Facebook	f13_17	female (13-17)	IT	Italy	1	1	20383	10191	10	2
-ISPI - Istituto per gli studi di politica internazionale	ISPI - Istituto per gli studi di politica internazionale	171795872872353	Facebook	f13_17	female (13-17)	IT	Italy	2	1	11611	2322	31	0
-Angela Russo	Angela Russo 	1624334387651107	Facebook	f13_17	female (13-17)	IT	Italy	2	1	1467	293	2	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	f13_17	female (13-17)	IT	Italy	2	1	209	49	0	0
-Matteo Melato - Lega Reggio Emilia	Matteo Melato 	539466976169977	Facebook	f13_17	female (13-17)	IT	Italy	1	1	153	0	15	0
-Deputati PD	Deputati PD	104652392900508	Facebook	f13_17	female (13-17)	IT	Italy	4	1	115	35	0	0
-Giosi Ferrandino	Giosi Ferrandino	141856142632410	Facebook	f13_17	female (13-17)	IT	Italy	2	1	106	21	0	0
-Elena Gentile	Elena Gentile	1426435657576038	Facebook	f13_17	female (13-17)	IT	Italy	2	1	61	22	0	0
-Enrico Zucchi - Lega Prato	Enrico Zucchi	707579962958222	Facebook	f13_17	female (13-17)	IT	Italy	1	1	55	0	5	0
-Lorenzo Vignali	Lorenzo Vignali	229114191886	Facebook	f13_17	female (13-17)	IT	Italy	2	1	41	0	4	0
-Luca Vidoni	Luca Onorio Vidoni	392986254173330	Facebook	f13_17	female (13-17)	IT	Italy	2	1	38	5	1	0
-Per Chiesina Uzzanese	Per Chiesina Uzzanese - Di Nuovo Insieme	1402850209999395	Facebook	f13_17	female (13-17)	IT	Italy	1	1	37	0	3	0
-Eraldo Ciangherotti	Eraldo Ciangherotti	1020725961324733	Facebook	f13_17	female (13-17)	IT	Italy	1	1	33	6	0	0
-PD Palo del Colle	Gabriella Sasso	1578164322435113	Facebook	f13_17	female (13-17)	IT	Italy	1	1	28	5	0	0
-Lista Civica "ProgettiAmo Savignano"	Enrico Tagliavini	2111477435580468	Facebook	f13_17	female (13-17)	IT	Italy	1	1	23	0	2	0
-Stefano Passarini	Stefano Passarini	573828172688916	Facebook	f13_17	female (13-17)	IT	Italy	2	1	21	0	2	0
+European Commission	European Commission	107898832590939	Facebook	f13_17	female (13-17)	IT	Italy	28	1	306164	136154	351	103
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	f13_17	female (13-17)	IT	Italy	9	1	76027	29906	121	0
+Videodrome	Videodrome	1773694896182795	Facebook	f13_17	female (13-17)	IT	Italy	14	1	74226	14728	382	0
+Skuola.net	Skuola.net	126578555602	Facebook	f13_17	female (13-17)	IT	Italy	7	1	72676	26620	110	2
+ISPI - Istituto per gli studi di politica internazionale	ISPI - Istituto per gli studi di politica internazionale	171795872872353	Facebook	f13_17	female (13-17)	IT	Italy	6	1	54270	20818	128	16
+Save the Children Italia	Save the Children Italia	46590675335	Facebook	f13_17	female (13-17)	IT	Italy	1	1	32230	12892	64	32
+Stefano Passarini	Stefano Passarini	573828172688916	Facebook	f13_17	female (13-17)	IT	Italy	24	1	25197	5316	181	0
+Elena Gentile	Elena Gentile	1426435657576038	Facebook	f13_17	female (13-17)	IT	Italy	6	1	23640	9726	99	17
+Matteo Salvini	Lega - Salvini Premier	252306033154	Facebook	f13_17	female (13-17)	IT	Italy	10	1	23163	10820	134	26
+Giulia Pastorella	Giulia Pastorella | Europa per Scelta	2233320866726559	Facebook	f13_17	female (13-17)	IT	Italy	2	1	20650	4130	40	0
+Fridays For Future Torino - Italy	Luca Sardo	374899703056927	Facebook	f13_17	female (13-17)	IT	Italy	2	1	14409	2799	68	0
+Nicola Fratoianni	Nicola Fratoianni	116181541819083	Facebook	f13_17	female (13-17)	IT	Italy	8	1	13561	5576	23	8
+European Greens	European Greens	141366725876424	Facebook	f13_17	female (13-17)	IT	Italy	1	1	12963	5185	129	25
+Alfredo Posteraro	SocialCom	408876889953275	Facebook	f13_17	female (13-17)	IT	Italy	2	1	11379	2275	25	0
+Genova che osa	Genova che osa	1538926219695299	Facebook	f13_17	female (13-17)	IT	Italy	7	1	10595	3365	159	0
+Fridays for Future - Padova	Leonardo Basso	264120211150371	Facebook	f13_17	female (13-17)	IT	Italy	1	1	9041	1808	17	0
+Fridays For Future Firenze	Lara Cioni 	1971775153129220	Facebook	f13_17	female (13-17)	IT	Italy	3	1	6079	1215	18	0
+European Parliament	European Parliament	178362315106	Facebook	f13_17	female (13-17)	IT	Italy	3	1	5643	2778	30	6
+Angela Russo	Angela Russo 	1624334387651107	Facebook	f13_17	female (13-17)	IT	Italy	15	1	4660	1278	15	0
+Giovanni Guidi		134845253246587	Facebook	f13_17	female (13-17)	IT	Italy	2	1	4303	1652	107	1
+Ufficio d'informazione in Italia del Parlamento europeo	Ufficio d'informazione in Italia del Parlamento europeo	143544514130	Facebook	f13_17	female (13-17)	IT	Italy	1	1	4061	1624	4	0
+Silvia Sardone	Silvia Sardone	667483386685540	Facebook	f13_17	female (13-17)	IT	Italy	14	1	3899	837	9	0
+7 Frazioni		445466952870695	Facebook	f13_17	female (13-17)	IT	Italy	1	1	3407	1703	3	0
+Jacopo Morrone	Jacopo Morrone	574913852523601	Facebook	f13_17	female (13-17)	IT	Italy	3	1	3336	666	66	0
+Andrea Togno - Candidato M5S Elezioni Europee	Andrea Togno	364157860884983	Facebook	f13_17	female (13-17)	IT	Italy	1	1	2997	599	29	5
+Movimento Federalista Europeo (MFE)	Movimento Federalista Europeo (MFE)	232586513421372	Facebook	f13_17	female (13-17)	IT	Italy	1	1	2506	1253	24	0
+Fridays For Future Treviso	Ettore Casellato	1893610467414052	Facebook	f13_17	female (13-17)	IT	Italy	3	1	2491	1202	26	0
+Marco Masetti FDI	Marco Masetti	1733765430264000	Facebook	f13_17	female (13-17)	IT	Italy	1	1	2104	420	4	0
+Anna Robustelli	Anna Robustelli	2412525162126175	Facebook	f13_17	female (13-17)	IT	Italy	4	1	1833	416	4	0
+Prc Brescia	Luigi Tedoldi	1535861796655078	Facebook	f13_17	female (13-17)	IT	Italy	1	1	1798	899	17	0
+Luca Vidoni	Luca Onorio Vidoni	392986254173330	Facebook	f13_17	female (13-17)	IT	Italy	4	1	1411	282	27	0
+Giosi Ferrandino	Giosi Ferrandino	141856142632410	Facebook	f13_17	female (13-17)	IT	Italy	4	1	1154	421	7	0
+Morena Ferrario Sindaco di Castano Primo	Daniele Rivolta 	2198059560442881	Facebook	f13_17	female (13-17)	IT	Italy	1	1	1048	524	10	0
+Giorgio Magliocca Presidente della Provincia di Caserta	Giorgio Magliocca	1681022168583960	Facebook	f13_17	female (13-17)	IT	Italy	2	1	1044	208	2	0
+Valori.it	Valori.it	112777008752391	Facebook	f13_17	female (13-17)	IT	Italy	8	1	1014	225	14	0
+Più Europa	Più Europa	126662574668084	Facebook	f13_17	female (13-17)	IT	Italy	3	1	987	440	3	1
+Alessandro Prandi	Francesco Sancarlo	177700749801108	Facebook	f13_17	female (13-17)	IT	Italy	5	1	889	177	10	0
+Unione Universitaria - UDU Modena e Reggio Emilia	Alessio Dondi	159133554164159	Facebook	f13_17	female (13-17)	IT	Italy	2	1	875	175	17	0
+Matteo Melato - Lega Reggio Emilia	Matteo Melato 	539466976169977	Facebook	f13_17	female (13-17)	IT	Italy	1	1	769	153	15	0
+Deputati PD	Deputati PD	104652392900508	Facebook	f13_17	female (13-17)	IT	Italy	20	1	730	157	1	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	f13_17	female (13-17)	IT	Italy	5	1	680	238	2	0
+Enrico Zucchi - Lega Prato	Enrico Zucchi	707579962958222	Facebook	f13_17	female (13-17)	IT	Italy	1	1	648	324	6	0
+Fabio Candalice	Fabio Candalice	929896213793987	Facebook	f13_17	female (13-17)	IT	Italy	5	1	632	126	1	0
+Centrodestra per cambiare con Pacetti sindaco	Manuel Gianfelici	292638348325601	Facebook	f13_17	female (13-17)	IT	Italy	21	1	620	118	14	0
+Luca Garibaldi	Luca Garibaldi	1994549320790542	Facebook	f13_17	female (13-17)	IT	Italy	3	1	610	123	12	0
+Cavezzo Viva - Associazione Culturale	Enrico Malverti	619037048529553	Facebook	f13_17	female (13-17)	IT	Italy	4	1	585	117	2	0
+Lorenzo Vignali	Lorenzo Vignali	229114191886	Facebook	f13_17	female (13-17)	IT	Italy	21	1	583	54	36	0
+MalnateSostenibile	Lista civica Malnate Sostenibile	397809613568460	Facebook	f13_17	female (13-17)	IT	Italy	8	1	551	79	23	0
+Alessandro Pagano	Vanni Manuel Di Natale	40115309363	Facebook	f13_17	female (13-17)	IT	Italy	2	1	527	105	1	0
+zeroCO2	zeroCO2	360133591158746	Facebook	f13_17	female (13-17)	IT	Italy	4	1	524	104	1	0
+Gianluca Festa	Gianluca Festa	1414627525508278	Facebook	f13_17	female (13-17)	IT	Italy	11	1	521	117	9	0
+Dmitrij Palagi	Benedetto Pietro Casu	633923633714551	Facebook	f13_17	female (13-17)	IT	Italy	3	1	516	245	5	0
+Più EuropAlpi - Gruppo tematico della Montagna	Stefano Morcelli 	600034513671739	Facebook	f13_17	female (13-17)	IT	Italy	3	1	480	234	4	0
+Sara Stucchi		2387759301511108	Facebook	f13_17	female (13-17)	IT	Italy	1	1	455	91	9	0
+Lorenzo Gasperini per la Toscana	Lorenzo Gasperini	230235480357105	Facebook	f13_17	female (13-17)	IT	Italy	3	1	444	65	18	0
+Fridays For Future - Rovigo		576642682819155	Facebook	f13_17	female (13-17)	IT	Italy	1	1	443	0	43	0
+Fridays For Future - Forlì	Fridays For Future Forlì	834339196918688	Facebook	f13_17	female (13-17)	IT	Italy	4	1	426	97	2	0
+PD Palo del Colle	Gabriella Sasso	1578164322435113	Facebook	f13_17	female (13-17)	IT	Italy	1	1	342	68	0	0
+Per Chiesina Uzzanese	Per Chiesina Uzzanese - Di Nuovo Insieme	1402850209999395	Facebook	f13_17	female (13-17)	IT	Italy	3	1	336	55	11	0
+SiAmo Montefalco	Luca Preziosi 	597700853974508	Facebook	f13_17	female (13-17)	IT	Italy	2	1	328	65	0	0
+Articolo Uno Ravenna	Articolo Uno Ravenna	1858524514386544	Facebook	f13_17	female (13-17)	IT	Italy	2	1	327	0	32	0
+Danilo Oscar Lancini	Danilo Oscar Lancini	247390032110856	Facebook	f13_17	female (13-17)	IT	Italy	1	1	326	65	6	0
+Caio Mussolini	Caio Mussolini	2393234914229651	Facebook	f13_17	female (13-17)	IT	Italy	1	1	317	63	3	0
+Uniti Per Oleggio	Matteo Manfredino	319574408751434	Facebook	f13_17	female (13-17)	IT	Italy	3	1	312	39	15	0
+Chiesina Uzzanese e le Sue Frazioni	Carlo Cortesi 	893566094376642	Facebook	f13_17	female (13-17)	IT	Italy	6	1	289	109	6	0
+Massimo Ruspandini	Roberta Pugliese	1382842338499099	Facebook	f13_17	female (13-17)	IT	Italy	3	1	276	55	5	0
+Eraldo Ciangherotti	Eraldo Ciangherotti	1020725961324733	Facebook	f13_17	female (13-17)	IT	Italy	1	1	246	49	2	0
+Empoli Ecologista per Beatrice Cioni sindaco	Giuseppe Pluchino	1323687517793993	Facebook	f13_17	female (13-17)	IT	Italy	8	1	245	99	3	0
+Rete 22 Ottobre - Lombardia		190937334880928	Facebook	f13_17	female (13-17)	IT	Italy	1	1	224	112	2	0
+Gianna Gancia		412209525481643	Facebook	f13_17	female (13-17)	IT	Italy	1	1	185	37	0	0
+Luigi Augussori - Senatore Lega	Luigi Augussori 	286548979095	Facebook	f13_17	female (13-17)	IT	Italy	3	1	178	89	1	0
+Riformatori Sardi - Liberaldemocratici	Riformatori Sardi - Liberaldemocratici	113804762009156	Facebook	f13_17	female (13-17)	IT	Italy	5	1	177	39	3	0
+Giovani Democratici Bologna	Giovani Democratici Bologna	473744446074107	Facebook	f13_17	female (13-17)	IT	Italy	1	1	159	31	3	0
+Nicola Caputo	Nicola Caputo	1439514556290274	Facebook	f13_17	female (13-17)	IT	Italy	3	1	149	31	0	0
+Stefano Ciccone con La Sinistra al Parlamento Europeo	Stefano Ciccone	2125577980861018	Facebook	f13_17	female (13-17)	IT	Italy	3	1	128	64	1	0
+L'unione falla forse - Il Film	L'unione falla forse	1929392647334919	Facebook	f13_17	female (13-17)	IT	Italy	1	1	128	25	2	0
+Lista Civica "ProgettiAmo Savignano"	Enrico Tagliavini	2111477435580468	Facebook	f13_17	female (13-17)	IT	Italy	1	1	114	22	2	0
+Diego Banti - Candidato al Consiglio Comunale di Collesalvetti	Diego Banti	656768971418493	Facebook	f13_17	female (13-17)	IT	Italy	1	1	105	52	1	0
+Federico Valceschini	Federico Valceschini	395097484289044	Facebook	f13_17	female (13-17)	IT	Italy	1	1	104	0	10	0
+Insieme per Tuscania - Regino Brachetti Sindaco	Pier Paolo Pallassini 	389035505273421	Facebook	f13_17	female (13-17)	IT	Italy	3	1	104	26	0	0
+Emma Bonino	Emma Bonino	9005388225	Facebook	f13_17	female (13-17)	IT	Italy	1	1	100	50	0	0
+Rivivere Borgo con Sunil Pellanda Sindaco	Sunil Pellanda	592540437929912	Facebook	f13_17	female (13-17)	IT	Italy	7	1	96	13	4	0
+Otto Mahlknecht	Otto Mahlknecht 	106077056742524	Facebook	f13_17	female (13-17)	IT	Italy	1	1	90	18	1	0
+Gabriel Zurlo Sconosciuto, Candidato a Mesagne	Gabriel Zurlo Sconosciuto	586251125203754	Facebook	f13_17	female (13-17)	IT	Italy	1	1	88	17	1	0
+Uniti per Marano	Gian Luca Gianaroli	260582318183152	Facebook	f13_17	female (13-17)	IT	Italy	1	1	77	15	1	0
+Geri Ballo	Gerarta Ballo	2261381937462680	Facebook	f13_17	female (13-17)	IT	Italy	1	1	76	15	1	0
+Vota Essere Varazze, scrivi GUIDO	Andrea Guido	329383094403641	Facebook	f13_17	female (13-17)	IT	Italy	1	1	75	37	0	0
+Ripamonti Sindaco - Lega Usmate Velate	Francesca Capaccioli	425444267476044	Facebook	f13_17	female (13-17)	IT	Italy	8	1	70	10	2	0
+Davide Perrini - Castelletto è Tua		2276687609215791	Facebook	f13_17	female (13-17)	IT	Italy	1	1	70	0	7	0
+Piazza Grande Savigliano - per il Partito Democratico	Alessandro Ghiberti	2275887039358471	Facebook	f13_17	female (13-17)	IT	Italy	1	1	69	34	0	0
+Cantaluppi Lorenzo	Lorenzo Cantaluppi	684875511722782	Facebook	f13_17	female (13-17)	IT	Italy	2	1	67	33	0	0
+PD Bovisio Masciago	Circolo Partito Democratico Bovisio Masciago	415837031877100	Facebook	f13_17	female (13-17)	IT	Italy	4	1	62	12	1	0
+Pina Picierno	SocialCom	212896992084952	Facebook	f13_17	female (13-17)	IT	Italy	2	1	58	15	0	0
+Fabio Amendolara	Fabio Amendolara	122191987831675	Facebook	f13_17	female (13-17)	IT	Italy	5	1	50	10	0	0
+Alex Bazzaro	Alex Bazzaro	163927824248716	Facebook	f13_17	female (13-17)	IT	Italy	1	1	46	9	0	0
+Movimento Cinque Stelle Folignano	Diego Di Ovidio	363976727107282	Facebook	f13_17	female (13-17)	IT	Italy	7	1	45	8	1	0
+Partito Democratico di Padova	Partito Democratico di Padova	275657555944127	Facebook	f13_17	female (13-17)	IT	Italy	1	1	39	7	0	0
+Sanremo al Centro	Alberto Biancheri - Mandatario elettorale Mauro Giancaterino	688834634807723	Facebook	f13_17	female (13-17)	IT	Italy	3	1	38	15	0	0
+Davide Milan	Davide Milan	192738147436471	Facebook	f13_17	female (13-17)	IT	Italy	1	1	37	0	3	0
+L'Unità dei Comunisti Casa della Sinistra - Belpasso	Massimo Vallone	314161845659945	Facebook	f13_17	female (13-17)	IT	Italy	1	1	36	7	0	0
+Fratelli d'Italia - Chiesina Uzzanese	Lorenzo Vignali	838044869621504	Facebook	f13_17	female (13-17)	IT	Italy	1	1	31	6	0	0
+Luca Vecchi	Comitato Elettorale Luca Vecchi 2024	245475858955495	Facebook	f13_17	female (13-17)	IT	Italy	1	1	29	5	0	0
+Business.it	Business.it	673556626032617	Facebook	f13_17	female (13-17)	IT	Italy	2	1	24	4	0	0
+Per Casier - Guardati Sindaco	Simona Guardati	1424962564426141	Facebook	f13_17	female (13-17)	IT	Italy	2	1	19	8	0	0
 Luisa Regimenti	Luisa Regimenti	201996906606311	Facebook	f13_17	female (13-17)	IT	Italy	1	1	18	9	0	0
-MalnateSostenibile	Lista civica Malnate Sostenibile	397809613568460	Facebook	f13_17	female (13-17)	IT	Italy	2	1	15	0	1	0
-Cavezzo Viva - Associazione Culturale	Enrico Malverti	619037048529553	Facebook	f13_17	female (13-17)	IT	Italy	1	1	14	0	1	0
-Movimento Cinque Stelle Folignano	Diego Di Ovidio	363976727107282	Facebook	f13_17	female (13-17)	IT	Italy	3	1	13	2	0	0
-Partito Democratico di Padova	Partito Democratico di Padova	275657555944127	Facebook	f13_17	female (13-17)	IT	Italy	1	1	12	6	0	0
-Empoli Ecologista per Beatrice Cioni sindaco	Giuseppe Pluchino	1323687517793993	Facebook	f13_17	female (13-17)	IT	Italy	2	1	11	1	0	0
-Fridays For Future Treviso	Ettore Casellato	1893610467414052	Facebook	f13_17	female (13-17)	IT	Italy	1	1	11	0	1	0
-Giovanni Russo	Giovanni Russo	1590626850978164	Facebook	f13_17	female (13-17)	IT	Italy	1	1	11	2	0	0
-Fabio Candalice	Fabio Candalice	929896213793987	Facebook	f13_17	female (13-17)	IT	Italy	1	1	10	2	0	0
-Silvia Sardone	Silvia Sardone	667483386685540	Facebook	f13_17	female (13-17)	IT	Italy	1	1	8	0	0	0
-Fabio Amendolara	Fabio Amendolara	122191987831675	Facebook	f13_17	female (13-17)	IT	Italy	2	1	8	1	0	0
-Rivivere Borgo con Sunil Pellanda Sindaco	Sunil Pellanda	592540437929912	Facebook	f13_17	female (13-17)	IT	Italy	1	1	8	0	0	0
-Gianluca Festa	Gianluca Festa	1414627525508278	Facebook	f13_17	female (13-17)	IT	Italy	1	1	7	1	0	0
-Ripamonti Sindaco - Lega Usmate Velate	Francesca Capaccioli	425444267476044	Facebook	f13_17	female (13-17)	IT	Italy	1	1	6	0	0	0
-Fridays For Future - Forlì	Fridays For Future Forlì	834339196918688	Facebook	f13_17	female (13-17)	IT	Italy	1	1	3	0	0	0
-Genova che osa	Genova che osa	1538926219695299	Facebook	f13_17	female (13-17)	IT	Italy	1	1	3	0	0	0
-Die neue SPÖ Tirol	SPÖ Tirol	172040642860223	Facebook	f13_17	female (13-17)	IT	Italy	1	1	0	0	0	0
+Fratelli d'Italia Civita Castellana	Fratelli d'Italia Civita Castellana	799617696744055	Facebook	f13_17	female (13-17)	IT	Italy	1	1	12	2	0	0
+Giovanni Russo	Giovanni Russo	1590626850978164	Facebook	f13_17	female (13-17)	IT	Italy	1	1	12	2	0	0
+Lista  Insieme per Poirino	Pier Antonio Pasquero	478151245572856	Facebook	f13_17	female (13-17)	IT	Italy	3	1	10	0	1	0
+ITUC		20556338116	Facebook	f13_17	female (13-17)	IT	Italy	2	1	10	0	1	0
+Partito Socialista Italiano f.ne di Teramo		161399151101326	Facebook	f13_17	female (13-17)	IT	Italy	1	1	9	1	0	0
+Cgil Puglia	Giuseppe Marco Binetti	406962326129744	Facebook	f13_17	female (13-17)	IT	Italy	1	1	3	0	0	0
+RitmoLento		1197605863586683	Facebook	f13_17	female (13-17)	IT	Italy	1	1	3	0	0	0
+Die neue SPÖ Tirol	SPÖ Tirol	172040642860223	Facebook	f13_17	female (13-17)	IT	Italy	2	1	1	0	0	0
+Mahindra Rise		158304157570734	Facebook	f13_17	female (13-17)	IT	Italy	1	1	1	0	0	0

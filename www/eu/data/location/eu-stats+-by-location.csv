@@ -1,31 +1,31 @@
 location_code	location_name	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-england_UK	England, United Kingdom	1243	100	14650650	5496433	192125	19541
-flemish_region_BE	Flemish Region, Belgium	420	118	6032764	2276876	66333	12742
-nordrhein_westfalen_DE	Nordrhein-Westfalen, Germany	1745	80	5707269	1388989	116360	1045
-attica_region_EL	Attica (region), Greece	224	91	4265875	1385653	18995	1813
-baden_wurttemberg_DE	Baden-Württemberg, Germany	2315	91	4193242	733643	165468	540
-niedersachsen_DE	Niedersachsen, Germany	1664	62	3172090	629060	97624	338
-bayern_DE	Bayern, Germany	1038	70	2863271	865880	43028	2928
-budapest_HU	Budapest, Hungary	204	42	2430115	983381	8002	3031
-hessen_DE	Hessen, Germany	1477	63	2399707	445696	82659	536
-lombardia_IT	Lombardia, Italy	270	106	2382729	761106	15111	859
-vienna_AT	Vienna, Austria	116	38	2315035	886097	20474	3560
-rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1386	72	1917835	355853	73961	295
-wallonia_BE	Wallonia, Belgium	339	62	1803202	486642	23032	1124
-masovian_voivodeship_PL	Masovian Voivodeship, Poland	160	48	1801262	580790	6419	1287
-central_macedonia_EL	Central Macedonia, Greece	114	58	1684987	575873	4301	739
-emilia_romagna_IT	Emilia-Romagna, Italy	260	105	1641533	541166	13481	288
-aragon_ES	Aragón, Spain	1152	22	1523724	175464	109694	156
-lazio_IT	Lazio, Italy	220	91	1433817	506011	9229	452
-piedmont_IT	Piedmont, Italy	290	106	1355736	393053	13789	504
-comunidad_de_madrid_ES	Comunidad de Madrid, Spain	109	35	1339674	474451	12519	1266
-veneto_IT	Veneto, Italy	223	93	1338373	423482	9113	297
-capital_region_of_denmark_DK	Capital Region of Denmark, Denmark	243	73	1198644	281638	12301	2662
-cataluna_ES	Cataluña, Spain	126	37	1181500	402351	8219	719
-podkarpackie_voivodeship_PL	Podkarpackie Voivodeship, Poland	107	25	1171897	387909	3760	711
-andalusia_ES	Andalusia, Spain	65	25	1144625	428590	4174	486
-silesian_voivodeship_PL	Silesian Voivodeship, Poland	138	43	1133197	357807	4085	838
-schleswig_holstein_DE	Schleswig-Holstein, Germany	1045	59	1079930	182239	43870	111
-campania_IT	Campania, Italy	172	79	1062319	351382	5325	227
-ile_de_france_FR	Île-de-France, France	44	11	1050743	438037	2909	585
-brussels_BE	Brussels, Belgium	364	72	1021222	276135	15516	637
+england_UK	England, United Kingdom	8476	354	138811755	50148997	1894583	267142
+flemish_region_BE	Flemish Region, Belgium	3204	495	120668685	47105506	1237227	295773
+attica_region_EL	Attica (region), Greece	2245	321	68813726	27201538	304778	50471
+nordrhein_westfalen_DE	Nordrhein-Westfalen, Germany	13751	337	56654883	17708341	797491	46879
+lombardia_IT	Lombardia, Italy	2359	422	36695217	13608333	211265	32781
+baden_wurttemberg_DE	Baden-Württemberg, Germany	14129	352	36156627	10343483	724043	31234
+budapest_HU	Budapest, Hungary	1339	136	34387701	13778379	120129	44765
+bayern_DE	Bayern, Germany	11021	282	33534969	11319724	404162	44818
+wallonia_BE	Wallonia, Belgium	1819	354	30251361	10759400	240879	41833
+cataluna_ES	Cataluña, Spain	1287	187	29589446	11331651	250577	47506
+vienna_AT	Vienna, Austria	1130	148	28972110	11688709	245700	53093
+niedersachsen_DE	Niedersachsen, Germany	12699	261	27150686	7695065	466560	20719
+andalusia_ES	Andalusia, Spain	996	130	25443560	9955731	203687	38414
+central_macedonia_EL	Central Macedonia, Greece	1589	259	24773762	9868339	95476	16351
+hessen_DE	Hessen, Germany	11838	255	24725614	7772211	391022	25541
+masovian_voivodeship_PL	Masovian Voivodeship, Poland	1463	149	24384594	8603553	104343	25597
+comunidad_de_madrid_ES	Comunidad de Madrid, Spain	1001	131	23522336	9205695	240962	53353
+campania_IT	Campania, Italy	1619	313	23392722	9059417	104320	16568
+piedmont_IT	Piedmont, Italy	2230	380	23391029	8087004	150649	21564
+stockholm_county_SE	Stockholm County, Sweden	2639	279	22926768	8362694	278102	72940
+lazio_IT	Lazio, Italy	1818	336	22732042	8516913	115467	15527
+brussels_BE	Brussels, Belgium	2246	353	21775997	7414779	222639	39783
+emilia_romagna_IT	Emilia-Romagna, Italy	2110	396	21763487	7785964	125905	15321
+capital_region_of_denmark_DK	Capital Region of Denmark, Denmark	2200	277	20947029	6479016	246441	62173
+vastra_gotaland_county_SE	Västra Götaland County, Sweden	2345	258	18499475	6971091	219173	58616
+veneto_IT	Veneto, Italy	1889	377	17842390	6733731	105378	13998
+central_denmark_region_DK	Central Denmark Region, Denmark	2518	258	17472355	5442254	208930	52241
+sicilia_IT	Sicilia, Italy	1370	273	17147873	6389494	76326	11317
+tuscany_IT	Tuscany, Italy	1932	366	16269005	5854177	94568	10166
+berlin_DE	Berlin, Germany	8621	244	16156390	5225482	166293	19480

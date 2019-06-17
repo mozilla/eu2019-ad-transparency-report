@@ -1,26 +1,108 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	impression_code_filter	impression_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Remain United	Centrum Campaign Ltd	388121018451293	Facebook	10k_50k	10k - 50k	UK	United Kingdom	12	1	599986	119999	2300	231
-Conservatives	The Conservative Party	8807334278	Facebook	10k_50k	10k - 50k	UK	United Kingdom	9	1	449990	89999	1956	231
-People's Vote UK	People's Vote	748608695327755	Facebook	10k_50k	10k - 50k	UK	United Kingdom	4	1	199996	40000	1846	347
-Change UK - The Independent Group	Change UK - The Independent Group	395151614382309	Facebook	10k_50k	10k - 50k	UK	United Kingdom	4	1	199995	39999	2309	462
-GMB Union	GMB Union	103295786760891	Facebook	10k_50k	10k - 50k	UK	United Kingdom	3	1	149997	30000	343	0
-The Labour Party	The Labour Party	25749647410	Facebook	10k_50k	10k - 50k	UK	United Kingdom	3	1	149996	29999	1385	578
-Liberal Democrats	the Liberal Democrats	5883973269	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99998	20000	229	0
-Green Party of England and Wales	The Green Party of England and Wales	20995300784	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99998	20000	691	115
-Democratic Unionist Party	Democratic Unionist Party	105732052794210	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99998	20000	691	115
-38 Degrees	38 Degrees	200006375787	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99998	20000	229	0
-Eastern Region Green Party	Eastern Region Green Party 	1635570190048987	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	577	115
-South West Green Party	The Green Party of England and Wales	244490049076873	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
-West Midlands Labour	The Labour Party	1243222025739706	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
-Scottish Green Party	Scottish Green Party	17999726169	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
-Global Optimism	Global Optimism	2062802910474026	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	9999	114	0
-Tom Watson	The Labour Party. Promoted by Tom Watson on behalf of Tom Watson	470873686267967	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
-School Cuts	National Education Union	871798409656672	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
-Global Justice Now	Global Justice Now	6707857033	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
+Liberal Democrats	the Liberal Democrats	5883973269	Facebook	10k_50k	10k - 50k	UK	United Kingdom	156	1	7799844	1560000	69366	13191
+Change UK - The Independent Group	Change UK - The Independent Group	395151614382309	Facebook	10k_50k	10k - 50k	UK	United Kingdom	65	1	3249935	650000	48989	12729
+Amnesty International UK	Amnesty International UK	7624294394	Facebook	10k_50k	10k - 50k	UK	United Kingdom	37	1	1849962	369999	12570	2082
+Best For Britain	Best for Britain	1863944713844924	Facebook	10k_50k	10k - 50k	UK	United Kingdom	37	1	1849961	369999	10256	1504
+Conservatives	The Conservative Party	8807334278	Facebook	10k_50k	10k - 50k	UK	United Kingdom	36	1	1799963	359999	10720	1967
+Remain United	Centrum Campaign Ltd	388121018451293	Facebook	10k_50k	10k - 50k	UK	United Kingdom	34	1	1699952	339997	16855	3240
+Exit from Brexit	the Liberal Democrats	1600429670027154	Facebook	10k_50k	10k - 50k	UK	United Kingdom	33	1	1649967	330000	14426	2661
+Greenpeace UK	Greenpeace UK 	9250349228	Facebook	10k_50k	10k - 50k	UK	United Kingdom	32	1	1599967	319999	5517	462
+The Labour Party	The Labour Party	25749647410	Facebook	10k_50k	10k - 50k	UK	United Kingdom	32	1	1599967	319999	11766	2661
+School Cuts	National Education Union	871798409656672	Facebook	10k_50k	10k - 50k	UK	United Kingdom	16	1	799983	159999	2758	231
+Young Liberals	the Liberal Democrats	22610176568	Facebook	10k_50k	10k - 50k	UK	United Kingdom	15	1	749984	150000	7735	1504
+Scottish Labour Party	Scottish Labour Party	310039442421596	Facebook	10k_50k	10k - 50k	UK	United Kingdom	14	1	699985	139999	8199	1967
+Swatch	Swatch	297973083586150	Facebook	10k_50k	10k - 50k	UK	United Kingdom	13	1	649986	129999	6580	1272
+People's Vote UK	People's Vote	748608695327755	Facebook	10k_50k	10k - 50k	UK	United Kingdom	11	1	549978	109997	5541	1388
+38 Degrees	38 Degrees	200006375787	Facebook	10k_50k	10k - 50k	UK	United Kingdom	10	1	499990	100000	1608	115
+London Labour Party	The Labour Party	474613052643462	Facebook	10k_50k	10k - 50k	UK	United Kingdom	10	1	499989	99999	5890	1504
+Vote For Your Future	Vote For Your Future	2026046207505845	Facebook	10k_50k	10k - 50k	UK	United Kingdom	9	1	449991	89999	4734	925
+GMB Union	GMB Union	103295786760891	Facebook	10k_50k	10k - 50k	UK	United Kingdom	9	1	449991	90000	1031	0
+Pledge for the Future	Pledge for the Future	266157764008126	Facebook	10k_50k	10k - 50k	UK	United Kingdom	9	1	449991	90000	1031	0
+Labour North	Labour North, Promoted by Fiona Stanton on behalf of Labour North	685018844928882	Facebook	10k_50k	10k - 50k	UK	United Kingdom	9	1	449990	89999	7511	2892
+Liam Byrne	Liam Byrne MP	147894618876725	Facebook	10k_50k	10k - 50k	UK	United Kingdom	8	1	399992	80000	2767	462
+Fifth colour	Mehdi Jamali	720997618045137	Facebook	10k_50k	10k - 50k	UK	United Kingdom	8	1	399992	80000	4619	925
+QuoteSearch.com	QuoteSearch	2235255886787452	Facebook	10k_50k	10k - 50k	UK	United Kingdom	8	1	399991	79999	3230	578
+Friends of the Earth	Friends of the Earth	110861655604080	Facebook	10k_50k	10k - 50k	UK	United Kingdom	8	1	399988	79999	2767	462
+Social Democratic and Labour Party (SDLP)	Social Democratic and Labour Party (SDLP)	111956985487415	Facebook	10k_50k	10k - 50k	UK	United Kingdom	8	1	399988	79999	3230	578
+West Midlands Conservatives	West Midlands Conservatives	223025417884693	Facebook	10k_50k	10k - 50k	UK	United Kingdom	7	1	349993	70000	2190	347
+London Green Party	London Green Party	175350485880358	Facebook	10k_50k	10k - 50k	UK	United Kingdom	7	1	349993	70000	4042	810
+Scottish Green Party	Scottish Green Party	17999726169	Facebook	10k_50k	10k - 50k	UK	United Kingdom	7	1	349993	70000	3579	694
+South West Green Party	The Green Party of England and Wales	244490049076873	Facebook	10k_50k	10k - 50k	UK	United Kingdom	7	1	349993	70000	4620	1272
+West Midlands Green Party	West Midlands Green Party	216024651755822	Facebook	10k_50k	10k - 50k	UK	United Kingdom	7	1	349992	70000	3116	578
+Welsh Labour	Welsh Labour	159670677391384	Facebook	10k_50k	10k - 50k	UK	United Kingdom	6	1	299994	60000	4043	1157
+East Midlands Labour	The Labour Party	1104066886293096	Facebook	10k_50k	10k - 50k	UK	United Kingdom	6	1	299994	60000	2538	462
+Eastern Region Green Party	Eastern Region Green Party 	1635570190048987	Facebook	10k_50k	10k - 50k	UK	United Kingdom	6	1	299993	60000	2075	347
+Democratic Unionist Party	Democratic Unionist Party	105732052794210	Facebook	10k_50k	10k - 50k	UK	United Kingdom	6	1	299990	59999	3464	694
+Green Party of England and Wales	The Green Party of England and Wales	20995300784	Facebook	10k_50k	10k - 50k	UK	United Kingdom	5	1	249995	50000	1035	115
+West Midlands Labour	The Labour Party	1243222025739706	Facebook	10k_50k	10k - 50k	UK	United Kingdom	5	1	249995	50000	2887	578
+The Brexit Party	The Brexit Party	230416667843105	Facebook	10k_50k	10k - 50k	UK	United Kingdom	5	1	249995	50000	19666	4628
+HOPE not hate	HOPE not hate	91897231853	Facebook	10k_50k	10k - 50k	UK	United Kingdom	5	1	249995	50000	572	0
+Liana Saranga	Liana Saranga Gulcan	406430003544310	Facebook	10k_50k	10k - 50k	UK	United Kingdom	4	1	199996	40000	1383	231
+Renew	Renew  Party	1923371311278106	Facebook	10k_50k	10k - 50k	UK	United Kingdom	4	1	199996	40000	1383	231
+Labour East	The Labour Party	407402162736656	Facebook	10k_50k	10k - 50k	UK	United Kingdom	4	1	199996	40000	1846	347
+North East Lib Dems to Stop Brexit	Tom Hancock	437706210130366	Facebook	10k_50k	10k - 50k	UK	United Kingdom	4	1	199996	40000	2309	462
+InFacts	InFacts	678120165658753	Facebook	10k_50k	10k - 50k	UK	United Kingdom	4	1	199996	40000	1846	347
+Ben Houchen - Tees Valley Mayor	Ben Houchen	1934566156780439	Facebook	10k_50k	10k - 50k	UK	United Kingdom	3	1	149997	30000	1269	231
+Global Justice Now	Global Justice Now	6707857033	Facebook	10k_50k	10k - 50k	UK	United Kingdom	3	1	149997	30000	806	115
+Hackney Lib Dems	Hackney Liberal Democrats	138435322972255	Facebook	10k_50k	10k - 50k	UK	United Kingdom	3	1	149997	30000	343	0
+Andrea Venzon	Andrea Venzon	190415584911640	Facebook	10k_50k	10k - 50k	UK	United Kingdom	3	1	149997	30000	1269	231
+East Midlands Green Party	East Midlands Green Party	135118813311824	Facebook	10k_50k	10k - 50k	UK	United Kingdom	3	1	149997	30000	806	115
+Tom Watson	The Labour Party. Promoted by Tom Watson on behalf of Tom Watson	470873686267967	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99998	20000	229	0
+Green Lane Masjid	Green Lane Masjid & Community Centre	173087829397613	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99998	20000	691	115
+USR Diaspora	Uniunea Salvați România - USR	1793510380925494	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99998	19999	229	0
+Labour South East	The Labour Party	123817579216	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99998	19999	1154	231
+Bristol Green Party	The Green Party of England and Wales	249696368936	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99998	20000	1154	231
+Mike Hookem MEP	Mike Hookem MEP	628368003989904	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99998	20000	229	0
+Labour North West	The Labour Party	61950489543	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99998	20000	1154	231
+Alliance Party of Northern Ireland	The Alliance Party	10642639740	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99998	20000	1154	231
+Yorkshire and the Humber Labour Party	the Labour party	1608245282744484	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99998	20000	1154	231
+Moray SNP	Moray SNP	314918278608280	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99998	20000	229	0
+Dale Vince	Ecotricity	222595381410455	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99998	20000	1154	231
+UK Independence Party (UKIP)	UK Independence Party (UKIP)	209101162445115	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99998	20000	229	0
+Global Optimism	Global Optimism	2062802910474026	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99997	19999	691	115
+Abortion Support Network	Abortion Support Network	171179209569823	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99997	19999	1154	231
+UKIP Bishop Auckland	ALAN JOJ'Y BREEZE	185015221854196	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99997	19999	1154	231
+HOPE not hate community	HOPE not hate	187610451787582	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99997	20000	229	0
+Leeds Green Party	Central & Outer Leeds Green Party	161057677319663	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	99986	19997	691	115
+Jeremy Corbyn	The Labour Party	330250343871	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	577	115
+Brexit - The Play	Thomas George Salinsky	962944977211240	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
 Plaid Cymru	Plaid Cymru	26416930992	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	577	115
-Vote For Your Future	Vote For Your Future	2026046207505845	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	577	115
-InFacts	InFacts	678120165658753	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49998	9999	114	0
-Alex Salmond	Slainte Media	136191876445102	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49998	9999	114	0
-Scottish Labour Party	Scottish Labour Party	310039442421596	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49998	9999	577	115
-European Parliament	European Parliament	178362315106	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49997	9999	998	499
-Michael  O'Dowd for Europe	O'Dowd Michael Joseph	878147035569806	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	6	1	0	0
+Jo Swinson	Jo Swinson	20487968781	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	577	115
+Maderos	Maderos	2271010899795524	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
+Keep Britain Afloat	Keep Britain Afloat	789695304740584	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
+WWF UK	WWF UK	311627208673	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
+TW-IN	SEBASTIAN JOSEPH 4 ST JOHN	1975276162525168	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	577	115
+The Countryside Alliance	Countryside Alliance	116283685076903	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
+East Lothian SNP CA	East Lothain SNP	277373879008172	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	577	115
+Reignite	Reignite	702922223165890	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	577	115
+BCP Council	BCP Council	140445935123	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
+ourEconomy	openDemocracy	253598932237086	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	577	115
+Scottish Conservatives	the Scottish Conservative and Unionist Party	136308776480	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	577	115
+Westminster & City Lib Dems	Westminster & City Liberal Democrats	947255511978447	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
+Yorkshire & the Humber Green Party	Yorkshire & the Humber Green Party	305531639643278	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	577	115
+The Women's Equality Party	The Women's Equality Party	1567955710156124	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	577	115
+JW3	JW3	6587671199	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
+National Education Union	National Education Union	241312696375349	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	577	115
+Northumberland County Council	Northumberland County Council	352592201521	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
+Witsherface	Elizabeth Caproni	857393787643412	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
+Scots For Leave	Scots for Leave	781591985301624	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	577	115
+Reprieve	Reprieve	107485499287	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
+StoryhouseLive	StoryhouseLive	851645071581584	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
+RSPB Scotland	RSPB Scotland	184842418237207	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
+Bournemouth Green Party	South East Dorset Green Party	140064492697345	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	577	115
+Oxfordshire County Council	Oxfordshire County Council	134106130027796	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
+Care4Calais	Care4Calais	1046117708754519	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	10000	114	0
+Sky Bet		144126855607425	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49999	9999	577	115
+Dave Chrisp Comedy	David Chrisp	210713339427124	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49998	9999	114	0
+Life After Brexit UK	Life After Brexit	728114827366152	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49998	9999	114	0
+Unite the union	Unite the union	175584152579855	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	49998	10000	577	115
+Vote4Friendship		335742437041631	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	32054	6411	319	64
+Moira Fine Jewellery		644735598990369	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	11968	2393	21	0
+Europe Thinx		335839580440114	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	3875	775	6	0
+ETUC		129041250601685	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	788	157	7	1
+Cllr Liam Doherty	Doherty Liam	396453641142781	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	247	49	2	0
+CLAYTON		122493385103	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	21	4	0	0
+John McGahon	John Mcgahon	1408702926037982	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	19	3	0	0
+Michael  O'Dowd for Europe	O'Dowd Michael Joseph	878147035569806	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	17	3	0	0
+Horseworldeu		106222951129	Facebook	10k_50k	10k - 50k	UK	United Kingdom	2	1	7	1	0	0
+Green Party Ireland	Green Party Ireland	108339693065	Facebook	10k_50k	10k - 50k	UK	United Kingdom	1	1	4	0	0	0

@@ -1,29 +1,76 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	9	1	14633	6998	70	8
-Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	10	1	10037	2230	33	0
-Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	3	1	6590	2646	10	0
-SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	3	1	5513	1102	15	0
-Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	4	1	5180	1113	12	0
-HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	2726	545	5	0
-Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	2	1	2715	543	8	0
-European Parliament	European Parliament	178362315106	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	2093	418	4	0
-Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	1838	367	3	0
-Stjepan Ribić	HDZ - Hrvatska demokratska zajednica	451335681696047	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	1323	661	13	0
-Danijel Marušić	HDZ - Hrvatska demokratska zajednica	215152641879933	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	1265	253	25	0
-Jozo Radoš	Jozo Radoš	446717938731095	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	5	1	1244	374	20	0
-Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	1171	234	2	0
-Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	15	1	1149	124	64	0
-Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	4	1	617	118	14	0
-Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	2	1	506	199	6	0
-Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	2	1	504	194	6	0
-Marijana Petir	Marijana Petir	1418903245032313	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	461	230	4	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	4	1	428	196	0	0
-Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	378	189	3	0
-Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	358	179	3	0
-Krešo Beljak	Vlahovic Mario	52929105855	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	149	29	2	0
-Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	146	29	2	0
-European Commission	European Commission	107898832590939	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	2	1	83	41	0	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	75	37	0	0
-SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	53	0	5	0
+HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	49	1	190478	80288	733	189
+Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	19	1	87117	39099	255	53
+SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	16	1	84694	35964	94	4
+European Parliament	European Parliament	178362315106	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	15	1	73771	34508	212	58
+Europski parlament, Ured za informiranje u Republici Hrvatskoj	Europski parlament, Ured za informiranje u Republici Hrvatskoj	508795765833382	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	22	1	60952	27509	137	14
+Danijel Marušić	HDZ - Hrvatska demokratska zajednica	215152641879933	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	4	1	59152	17317	99	0
+Diana Topčić-Rosenberg	TOPCIC-ROSENBERG DIANA	1702271996513206	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	5	1	53158	10716	201	0
+Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	19	1	52613	21680	150	20
+Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	21	1	37261	13258	153	25
+Miro Bulj	MOST nezavisnih lista	1252295741481540	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	8	1	29885	11606	80	12
+MOST nezavisnih lista	MOST nezavisnih lista	388550077899912	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	10	1	29189	11016	112	19
+Slobodna Dalmacija	Slobodna Dalmacija	100267330025110	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	24	1	28753	8620	70	0
+Joško Klisović	Klisovic Josko	1262594650584725	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	14	1	26156	6861	67	0
+European Greens	European Greens	141366725876424	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	6	1	24507	10377	74	28
+Marijana Petir	Marijana Petir	1418903245032313	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	9	1	24398	7816	77	8
+Model European Union Zagreb - MEUZ	Divea Studio	521874817895935	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	5	1	19112	8080	23	0
+European Commission	European Commission	107898832590939	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	21	1	15703	7597	20	6
+Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	8	1	14403	4337	46	4
+Sunčana Glavak	HDZ - Hrvatska demokratska zajednica	482597361772021	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	4	1	13116	4823	76	15
+Jozo Radoš	Jozo Radoš	446717938731095	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	8	1	12924	2584	33	0
+Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	18	1	11841	2451	72	0
+Stjepan Adanić	HDZ - Hrvatska demokratska zajednica	408695383042330	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	3	1	11244	4960	30	4
+Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	20	1	10176	2546	89	0
+SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	11	1	9055	3266	50	0
+Stjepan Ribić	HDZ - Hrvatska demokratska zajednica	451335681696047	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	4	1	8649	3655	45	4
+HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	2	1	7959	3215	10	0
+Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	2	1	7704	3852	22	3
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	2	1	7493	3746	4	0
+Goran Pauk	HDZ - Hrvatska demokratska zajednica	581489628528785	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	3	1	6821	1364	13	0
+Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	5	1	6429	1393	18	0
+Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	4	1	6419	2357	36	6
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	15	1	6264	2701	11	4
+Krešo Beljak	Vlahovic Mario	52929105855	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	2	1	5653	2167	21	3
+Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	3	1	4584	916	17	1
+Dr. sc. Tomislav Sokol	HDZ - Hrvatska demokratska zajednica	136900153422435	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	3	1	4466	890	10	0
+BIOM	BIOM	138743669505642	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	6	1	3792	1136	20	0
+Ružica Vukovac		1657305064553537	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	3520	704	6	0
+Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	13	1	3376	1044	62	0
+Nikolina Brnjac	HDZ - Hrvatska demokratska zajednica	287054392229717	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	2	1	3326	665	19	3
+Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	2	1	3288	657	6	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	3013	1507	15	3
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	9	1	2772	1077	4	0
+Nova ljevica	Možemo - politička platforma	706769699498076	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	2	1	2699	539	5	0
+Marijana Balić	HDZ - Hrvatska demokratska zajednica	1274752085892321	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	2516	503	25	5
+Davor Škrlec	Zastupnik u Europskom parlamentu Davor Škrlec	1507744276110325	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	2293	458	4	0
+Hrvatska stranka umirovljenika	Hrvatska stranka umirovljenika	1437793016448632	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	2246	449	4	0
+GLAS Građansko-liberalni savez	GLAS Građansko-liberalni savez	231052047413325	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	2090	418	18	3
+Tonino Picula	Tonino Picula	156057951248853	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	2017	403	3	0
+Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	2	1	1965	482	6	0
+Sanja Radolović	Radolovic Sanja	508755779649081	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	6	1	1011	310	16	0
+Zelena lista		157025101623973	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	2	1	921	345	11	0
+Habib Tahiri	Hrvatska narodna stranka - liberalni demokrati (HNS)	750800161983664	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	2	1	814	162	1	0
+Gong	Gong	135611546456409	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	4	1	710	289	8	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	3	1	452	212	0	0
+HSS Hrvatska	Vlahovic Mario	236043376446622	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	430	215	4	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	352	176	3	0
+Informativno Dokumentacijski Centar Banije I Korduna		1902779853072038	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	243	48	4	0
+Željka Markić		210218862695602	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	189	37	3	0
+Davor Nađi	Nadi Davor	1640498249359280	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	2	1	177	72	2	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	2	1	161	32	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	5	1	116	47	0	0
+Greenpeace Hrvatska	Greenpeace Hrvatska	359170097532754	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	3	1	90	0	8	0
+Gordan Maras		451079008266520	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	78	15	1	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	74	37	0	0
+CRIF		395919323779707	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	52	26	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	52	10	0	0
+Europe Thinx		335839580440114	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	51	10	0	0
+Telegram.hr		688325737947866	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	46	0	4	0
 Hrvatske vijesti		286736758747850	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	36	0	3	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	2	1	29	8	0	0
+Radnička Fronta		770459529655215	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	35	0	3	0
+Danko Švorinić		1867610616838363	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	31	0	2	0
+Saša Poljanec-Borić	Hrvatska socijalno liberalna stranka	1914254365351413	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	18	9	0	0
+Ne u moje ime		138418753446889	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	18	3	0	0
+ITUC		20556338116	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	2	1	16	0	1	0
+ETUC		129041250601685	Facebook	brod_posavina_county_HR	Brod-Posavina County, Croatia	1	1	10	2	0	0

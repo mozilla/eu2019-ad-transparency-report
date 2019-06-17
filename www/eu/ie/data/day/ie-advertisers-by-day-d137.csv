@@ -1,35 +1,37 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	day_code_filter	day_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
 European Parliament	European Parliament	178362315106	Facebook	d137	2019-05-17	IE	Ireland	1	1	249997	99999	499	249
-Mark Durkan	Fine Gael	2002340613394109	Facebook	d137	2019-05-17	IE	Ireland	2	1	66665	33333	499	199
-Deirdre Clune MEP	Deirdre Clune MEP	516116248507364	Facebook	d137	2019-05-17	IE	Ireland	4	1	51665	10333	531	99
-Leo Varadkar T.D.	Fine Gael	178974912140818	Facebook	d137	2019-05-17	IE	Ireland	2	1	49999	19999	199	33
-Social Democrats	Social Democrats	1012851375393300	Facebook	d137	2019-05-17	IE	Ireland	8	1	45663	12000	264	0
-Malcolm Byrne	Malcolm Byrne Page	34812247970	Facebook	d137	2019-05-17	IE	Ireland	2	1	19999	5000	66	0
-Matt Carthy	Carthy Matt	580216935345125	Facebook	d137	2019-05-17	IE	Ireland	1	1	16666	3333	33	0
-Paddy Monahan Soc Dems	Social Democrats	243736776300023	Facebook	d137	2019-05-17	IE	Ireland	1	1	16666	3333	33	0
-Green Party Ireland	Green Party Ireland	108339693065	Facebook	d137	2019-05-17	IE	Ireland	1	1	16666	3333	32	0
-Cllr. Éilis Ryan for Europe	The Workers' Party of Ireland	787376334669425	Facebook	d137	2019-05-17	IE	Ireland	1	1	16666	3333	166	33
-Jen Cummins Social Democrats	Social Democrats	359027571515876	Facebook	d137	2019-05-17	IE	Ireland	1	1	16666	3333	33	0
-Paul Nolan - Social Democrats Meath East	King John	1838758749501583	Facebook	d137	2019-05-17	IE	Ireland	3	1	10664	4999	164	0
-Dominic Hannigan	Dominic Hannigan	210059959032336	Facebook	d137	2019-05-17	IE	Ireland	1	1	9999	5000	99	0
-Denise McMorrow for Dublin 2019	Mc Morrow Denise	438930423601172	Facebook	d137	2019-05-17	IE	Ireland	4	1	5332	1000	132	0
-Blaine Gaffney	Blaine O' Gamhna	371962112988652	Facebook	d137	2019-05-17	IE	Ireland	2	1	4999	1999	66	0
-Dr. Fidelma Healy Eames Independent Candidate, EU elections	Healy Eames Fidelma	395965057626422	Facebook	d137	2019-05-17	IE	Ireland	2	1	4999	2000	66	0
-Alex White	Mc Kinney Eunan Anthony	58389344622	Facebook	d137	2019-05-17	IE	Ireland	1	1	3333	1666	33	0
-Cllr.June Murphy Social Democrat candidate	Social Democrats	196651674600841	Facebook	d137	2019-05-17	IE	Ireland	1	1	3333	1666	33	0
-European Commission	European Commission	107898832590939	Facebook	d137	2019-05-17	IE	Ireland	2	1	2025	1012	5	1
-Adrienne Wallace - People Before Profit	Wallace Adrienne Catherine	1555518121383424	Facebook	d137	2019-05-17	IE	Ireland	2	1	1999	333	66	0
-Owen Hanley	Owen Hanley	234006030801926	Facebook	d137	2019-05-17	IE	Ireland	1	1	1666	333	33	0
-Cyril Brennan - People Before Profit	People Before Profit - Midlands North West	164750800796944	Facebook	d137	2019-05-17	IE	Ireland	1	1	1666	333	33	0
-Aontú	Toibin Peadar Pol	1052704411520149	Facebook	d137	2019-05-17	IE	Ireland	1	1	1666	333	33	0
+Paul Nolan - Social Democrats Meath East	King John	1838758749501583	Facebook	d137	2019-05-17	IE	Ireland	3	1	50998	10200	518	99
+Leo Varadkar T.D.	Fine Gael	178974912140818	Facebook	d137	2019-05-17	IE	Ireland	2	1	45832	19166	291	58
+Mark Durkan	Fine Gael	2002340613394109	Facebook	d137	2019-05-17	IE	Ireland	2	1	37499	18750	187	75
+Deirdre Clune MEP	Deirdre Clune MEP	516116248507364	Facebook	d137	2019-05-17	IE	Ireland	4	1	31874	13875	199	37
+Social Democrats	Social Democrats	1012851375393300	Facebook	d137	2019-05-17	IE	Ireland	8	1	28373	6375	111	0
+Malcolm Byrne	Malcolm Byrne Page	34812247970	Facebook	d137	2019-05-17	IE	Ireland	2	1	24999	5000	49	0
+Matt Carthy	Carthy Matt	580216935345125	Facebook	d137	2019-05-17	IE	Ireland	1	1	14285	7142	71	14
+Dominic Hannigan	Dominic Hannigan	210059959032336	Facebook	d137	2019-05-17	IE	Ireland	1	1	12499	6250	62	12
+Green Party Ireland	Green Party Ireland	108339693065	Facebook	d137	2019-05-17	IE	Ireland	1	1	12498	2499	124	24
+Cllr. Éilis Ryan for Europe	The Workers' Party of Ireland	787376334669425	Facebook	d137	2019-05-17	IE	Ireland	1	1	9999	2000	99	20
+Aontú	Toibin Peadar Pol	1052704411520149	Facebook	d137	2019-05-17	IE	Ireland	1	1	8333	1666	16	0
+Blaine Gaffney	Blaine O' Gamhna	371962112988652	Facebook	d137	2019-05-17	IE	Ireland	2	1	6964	1392	26	0
+Cllr.June Murphy Social Democrat candidate	Social Democrats	196651674600841	Facebook	d137	2019-05-17	IE	Ireland	1	1	6249	1250	12	0
+Paddy Monahan Soc Dems	Social Democrats	243736776300023	Facebook	d137	2019-05-17	IE	Ireland	1	1	6249	1250	12	0
+Jen Cummins Social Democrats	Social Democrats	359027571515876	Facebook	d137	2019-05-17	IE	Ireland	1	1	6249	1250	12	0
+Alex White	Mc Kinney Eunan Anthony	58389344622	Facebook	d137	2019-05-17	IE	Ireland	1	1	6249	1250	62	12
+Denise McMorrow for Dublin 2019	Mc Morrow Denise	438930423601172	Facebook	d137	2019-05-17	IE	Ireland	4	1	5165	2033	69	0
+Dublin  Bay South Greens	Dublin Bay South Green Party	474701085946722	Facebook	d137	2019-05-17	IE	Ireland	1	1	4999	1000	9	0
+Dr. Fidelma Healy Eames Independent Candidate, EU elections	Healy Eames Fidelma	395965057626422	Facebook	d137	2019-05-17	IE	Ireland	2	1	4582	1916	57	0
+Barry Andrews for Europe	Barry Andrews	188114061407	Facebook	d137	2019-05-17	IE	Ireland	3	1	2499	875	37	0
+Owen Hanley	Owen Hanley	234006030801926	Facebook	d137	2019-05-17	IE	Ireland	1	1	2499	1250	24	0
+Adrienne Wallace - People Before Profit	Wallace Adrienne Catherine	1555518121383424	Facebook	d137	2019-05-17	IE	Ireland	2	1	2249	450	44	0
 Cllr Kevin Daly	Daly Kevin	344182612453224	Facebook	d137	2019-05-17	IE	Ireland	1	1	1666	333	33	0
-Fintan Brett	Brett Fintan Peter	345949292941023	Facebook	d137	2019-05-17	IE	Ireland	1	1	1666	333	33	0
-Daniel Whooley - Ongar	Ben O'Leary Fitzpatrick 	566106640523884	Facebook	d137	2019-05-17	IE	Ireland	1	1	1666	333	33	0
-Barry Andrews for Europe	Barry Andrews	188114061407	Facebook	d137	2019-05-17	IE	Ireland	3	1	999	0	99	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	d137	2019-05-17	IE	Ireland	1	1	958	479	2	0
-Patricia O' Dwyer	Selormey Kodzo Effui	1790264301045335	Facebook	d137	2019-05-17	IE	Ireland	2	1	666	0	66	0
-Dublin  Bay South Greens	Dublin Bay South Green Party	474701085946722	Facebook	d137	2019-05-17	IE	Ireland	1	1	333	0	33	0
-Julie O'Leary	O'Leary Julie	1395595887405642	Facebook	d137	2019-05-17	IE	Ireland	1	1	333	0	33	0
-Kate O'Connell TD	O'Connell Kate	203442726495682	Facebook	d137	2019-05-17	IE	Ireland	1	1	333	0	33	0
-West Cork People Before Profit Alliance	O'Sullivan Vanessa	174190439384938	Facebook	d137	2019-05-17	IE	Ireland	1	1	332	0	33	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	d137	2019-05-17	IE	Ireland	1	1	29	14	0	0
+West Cork People Before Profit Alliance	O'Sullivan Vanessa	174190439384938	Facebook	d137	2019-05-17	IE	Ireland	1	1	1428	714	14	0
+Patricia O' Dwyer	Selormey Kodzo Effui	1790264301045335	Facebook	d137	2019-05-17	IE	Ireland	2	1	1249	250	24	0
+Kate O'Connell TD	O'Connell Kate	203442726495682	Facebook	d137	2019-05-17	IE	Ireland	1	1	1249	625	12	0
+Cyril Brennan - People Before Profit	People Before Profit - Midlands North West	164750800796944	Facebook	d137	2019-05-17	IE	Ireland	1	1	1249	250	24	0
+Daniel Whooley - Ongar	Ben O'Leary Fitzpatrick 	566106640523884	Facebook	d137	2019-05-17	IE	Ireland	1	1	1249	250	24	0
+European Commission	European Commission	107898832590939	Facebook	d137	2019-05-17	IE	Ireland	2	1	1056	528	2	0
+Julie O'Leary	O'Leary Julie	1395595887405642	Facebook	d137	2019-05-17	IE	Ireland	1	1	999	500	9	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	d137	2019-05-17	IE	Ireland	1	1	959	479	2	0
+Fintan Brett	Brett Fintan Peter	345949292941023	Facebook	d137	2019-05-17	IE	Ireland	1	1	714	142	14	0
+Holly McKeever Cairns - Social Democrat		263238917631520	Facebook	d137	2019-05-17	IE	Ireland	1	1	624	125	12	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	d137	2019-05-17	IE	Ireland	1	1	97	19	0	0
+Discover Philadelphia		60364167807	Facebook	d137	2019-05-17	IE	Ireland	1	1	77	38	0	0

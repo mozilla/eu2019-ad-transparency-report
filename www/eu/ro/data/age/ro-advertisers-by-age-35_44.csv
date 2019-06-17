@@ -1,81 +1,295 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	age_code_filter	age_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Alianța 2020 USR PLUS	Alianța 2020 USR PLUS	621574984950400	Facebook	35_44	35-44	RO	Romania	5	1	391278	163620	912	199
-USR Maramureș	USR Maramureș	1750327845246533	Facebook	35_44	35-44	RO	Romania	1	1	118301	47320	248	49
-Romania #nuepsd	Future Innovation	293215748279337	Facebook	35_44	35-44	RO	Romania	1	1	101435	40574	42	21
-ALDE - Partidul Alianta Liberalilor si Democratilor	EvolveDreamSoft	1445317929104549	Facebook	35_44	35-44	RO	Romania	2	1	59846	29923	79	39
-USR Bihor	Uniunea Salvați România Filiala Bihor	1592660281028385	Facebook	35_44	35-44	RO	Romania	4	1	55347	25133	68	13
-European Parliament	European Parliament	178362315106	Facebook	35_44	35-44	RO	Romania	1	1	54662	21865	109	54
-RMDSZ	RMDSZ	102601499822802	Facebook	35_44	35-44	RO	Romania	10	1	53049	13703	54	0
-PNL Oradea	PNL Oradea	304085190083197	Facebook	35_44	35-44	RO	Romania	7	1	46131	11615	99	15
-USR Cluj	Partidul Uniunea Salvati România	287761518247055	Facebook	35_44	35-44	RO	Romania	3	1	41600	9251	22	0
-Viorel Catarama	Dreapta Liberala	795022763862618	Facebook	35_44	35-44	RO	Romania	2	1	41567	8313	87	17
-Partidul Naţional Liberal	Future Innovation 	181375448581167	Facebook	35_44	35-44	RO	Romania	4	1	39908	15865	57	18
-Cristian Ghinea	Uniunea Salvați România	269505079808785	Facebook	35_44	35-44	RO	Romania	2	1	38175	18405	16	0
-Parlamentul European, Biroul de Informare în Romania	Parlamentul European, Biroul de Informare în Romania	138896782840976	Facebook	35_44	35-44	RO	Romania	2	1	26377	12522	29	6
-PSD Galati	Partidul Social Democrat Galati	1585170161775563	Facebook	35_44	35-44	RO	Romania	3	1	23073	4974	67	24
-USR Hunedoara	Uniunea Salvați România - USR	250986431933338	Facebook	35_44	35-44	RO	Romania	2	1	19053	3810	39	8
-Dreapta Liberală - DL	Dreapta Liberala	1881461575305499	Facebook	35_44	35-44	RO	Romania	5	1	19050	3758	30	0
-European Commission	European Commission	107898832590939	Facebook	35_44	35-44	RO	Romania	2	1	17949	8974	44	8
-Gregoriana Tudoran	Tudoran Gregoriana Carmen	1985293741779690	Facebook	35_44	35-44	RO	Romania	2	1	17886	3552	9	0
-Kelemen Hunor	RMDSZ	175293925828191	Facebook	35_44	35-44	RO	Romania	3	1	17722	4257	17	0
-Dacian Cioloş	PLUS	107543802616247	Facebook	35_44	35-44	RO	Romania	1	1	16096	3219	33	6
-Simona Maria Vlădica	Amerisoft	236992636715917	Facebook	35_44	35-44	RO	Romania	2	1	12855	2818	26	5
-USR Argeș	Uniunea Salvati Romania	987000488084806	Facebook	35_44	35-44	RO	Romania	1	1	12408	2481	5	0
-USR Sibiu	Uniunea Salvați România	1028428697211383	Facebook	35_44	35-44	RO	Romania	5	1	12242	2448	31	3
-Partidul Mișcarea Populară	Amerisoft	581911828514783	Facebook	35_44	35-44	RO	Romania	1	1	12120	2424	5	0
-Gabriel Daraban	Dumio	170290960472201	Facebook	35_44	35-44	RO	Romania	9	1	11958	3017	59	0
-USR Sector 5	Uniunea Salvați România	1460571894265803	Facebook	35_44	35-44	RO	Romania	1	1	11835	2367	4	0
-USR Caraș-Severin	Uniunea Salvați România	1556903897946498	Facebook	35_44	35-44	RO	Romania	2	1	11646	2329	6	0
+Alianța 2020 USR PLUS	Alianța 2020 USR PLUS	621574984950400	Facebook	35_44	35-44	RO	Romania	44	1	3217098	1430164	4820	1005
+Partidul Naţional Liberal	Future Innovation 	181375448581167	Facebook	35_44	35-44	RO	Romania	20	1	1628693	762803	3819	1586
+Partidul Social Democrat	Partidul Social Democrat	291177524360702	Facebook	35_44	35-44	RO	Romania	11	1	1286937	635764	2382	487
+ALDE - Partidul Alianta Liberalilor si Democratilor	EvolveDreamSoft	1445317929104549	Facebook	35_44	35-44	RO	Romania	32	1	895676	398796	2475	565
+Parlamentul European, Biroul de Informare în Romania	Parlamentul European, Biroul de Informare în Romania	138896782840976	Facebook	35_44	35-44	RO	Romania	15	1	892459	410782	1025	236
+European Parliament	European Parliament	178362315106	Facebook	35_44	35-44	RO	Romania	14	1	882425	406384	2637	630
+Norica Nicolai	Increase Digital	121265151226126	Facebook	35_44	35-44	RO	Romania	30	1	773997	245060	1321	239
+Departamentul pentru Agricultură și Dezvoltare Rurală al PSD	Partidul Social Democrat	339365506708219	Facebook	35_44	35-44	RO	Romania	5	1	659218	267800	281	134
+European Commission	European Commission	107898832590939	Facebook	35_44	35-44	RO	Romania	22	1	613169	286805	864	360
+PNL Oradea	PNL Oradea	304085190083197	Facebook	35_44	35-44	RO	Romania	39	1	598139	215923	1418	432
+RMDSZ	RMDSZ	102601499822802	Facebook	35_44	35-44	RO	Romania	65	1	476360	128282	979	189
+Cristian Bușoi	Rus Alexandra	112332998808842	Facebook	35_44	35-44	RO	Romania	26	1	462703	206517	613	194
+USR Arad	Uniunea Salvați Romania	1210260295704425	Facebook	35_44	35-44	RO	Romania	15	1	434769	177994	1268	406
+Partidul Mișcarea Populară	Amerisoft	581911828514783	Facebook	35_44	35-44	RO	Romania	16	1	428134	186656	533	138
+Csíkország	Csíkország	2229168487164126	Facebook	35_44	35-44	RO	Romania	52	1	406141	94422	798	128
+USR Bihor	Uniunea Salvați România Filiala Bihor	1592660281028385	Facebook	35_44	35-44	RO	Romania	22	1	387701	146172	547	158
+USR Iași	Uniunea Salvați România - USR	1792449434342411	Facebook	35_44	35-44	RO	Romania	12	1	361802	160020	1623	534
+USR Dolj	Uniunea Salvați România	109556372802910	Facebook	35_44	35-44	RO	Romania	24	1	339376	111812	1298	349
+USR Cluj	Partidul Uniunea Salvati România	287761518247055	Facebook	35_44	35-44	RO	Romania	16	1	323721	116963	580	166
+Cristian Ghinea	Uniunea Salvați România	269505079808785	Facebook	35_44	35-44	RO	Romania	12	1	318662	128015	205	37
+Răcnetul Oamenilor Sătui	IOANITA MARIN-IOANA	165452684079944	Facebook	35_44	35-44	RO	Romania	9	1	293844	131256	356	78
+Claudiu Manda	Partidul Social Democrat	199635566715473	Facebook	35_44	35-44	RO	Romania	4	1	284519	116066	532	119
+USR Brașov	Uniunea Salvați România	1723480164579572	Facebook	35_44	35-44	RO	Romania	9	1	280839	117485	959	235
+Fără Penali în Funcții Publice	Uniunea Salvați România - USR	275621429636078	Facebook	35_44	35-44	RO	Romania	1	1	276913	138456	581	290
+USR Argeș	Uniunea Salvati Romania	987000488084806	Facebook	35_44	35-44	RO	Romania	22	1	267797	79821	372	64
+România în primul rând	Future Innovation	770704223323599	Facebook	35_44	35-44	RO	Romania	2	1	253501	126751	266	53
+Vasile Cristian Lungu - Senator PMP	Partidul Mișcarea Populară	167669676772029	Facebook	35_44	35-44	RO	Romania	7	1	246757	100699	1201	514
+USR Sibiu	Uniunea Salvați România	1028428697211383	Facebook	35_44	35-44	RO	Romania	25	1	243161	68004	472	126
+USR Sector 6	Uniunea Salvati Romania	1656475137918717	Facebook	35_44	35-44	RO	Romania	13	1	232376	90320	606	199
+Viorel Catarama	Dreapta Liberala	795022763862618	Facebook	35_44	35-44	RO	Romania	5	1	225699	112635	642	191
+Declic	Declic	686190454826244	Facebook	35_44	35-44	RO	Romania	3	1	222344	94092	248	60
+USR Maramureș	USR Maramureș	1750327845246533	Facebook	35_44	35-44	RO	Romania	10	1	221616	88828	689	175
+USR Sector 5	Uniunea Salvați România	1460571894265803	Facebook	35_44	35-44	RO	Romania	10	1	214354	83635	398	103
+Erdélyi magyarok Orbán Viktor mellett	Erdélyi magyarok Orbán Viktor mellett	1537537942983268	Facebook	35_44	35-44	RO	Romania	37	1	213437	50340	477	79
+Romania #nuepsd	Future Innovation	293215748279337	Facebook	35_44	35-44	RO	Romania	1	1	203942	101971	214	42
+Cosette Chichirău	Uniunea Salvați România - USR	329619180721358	Facebook	35_44	35-44	RO	Romania	5	1	195901	87581	755	165
+Nicu Ștefănuță	Uniunea Salvați România - USR	279454772645662	Facebook	35_44	35-44	RO	Romania	9	1	195155	79568	251	76
+Ionel Dancă	ETIS Design	227578001357165	Facebook	35_44	35-44	RO	Romania	5	1	194696	85782	152	54
+Kárpát-medencei Magyar Összefogás	Kárpát-medencei Magyar Összefogás	221361328752151	Facebook	35_44	35-44	RO	Romania	41	1	194136	52973	335	46
+PRO România	Networld IT&C SRL	2177244962290894	Facebook	35_44	35-44	RO	Romania	20	1	187848	61768	433	122
+Calin Popescu Tariceanu	EvolveDreamSoft	227922987222524	Facebook	35_44	35-44	RO	Romania	2	1	187223	93612	355	177
+USR Sector 2	Uniunea Salvați România	706663502771254	Facebook	35_44	35-44	RO	Romania	13	1	180005	73568	1029	214
+Ionel Arsene	Ionel Arsene	298765223557508	Facebook	35_44	35-44	RO	Romania	14	1	157430	58565	295	83
+USR Olt	ANTON SILVIU-CRISTIAN	247245385651467	Facebook	35_44	35-44	RO	Romania	10	1	157385	56725	290	82
+Dacian Cioloş	PLUS	107543802616247	Facebook	35_44	35-44	RO	Romania	1	1	156972	62788	329	65
+Eugen Tomac	Amerisoft	494469087244449	Facebook	35_44	35-44	RO	Romania	8	1	156862	72023	175	72
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	35_44	35-44	RO	Romania	33	1	155658	55985	723	113
+USR Prahova	USR Prahova	1385405838141456	Facebook	35_44	35-44	RO	Romania	22	1	154321	46547	347	76
+PSD Galati	Partidul Social Democrat Galati	1585170161775563	Facebook	35_44	35-44	RO	Romania	16	1	150782	49400	524	156
+Gregoriana Tudoran	Tudoran Gregoriana Carmen	1985293741779690	Facebook	35_44	35-44	RO	Romania	16	1	149946	30990	255	46
+George Simion	George Simion	2212856535602171	Facebook	35_44	35-44	RO	Romania	12	1	147087	52631	552	141
+PNL Bucuresti	Rus Alexandra	678840505584990	Facebook	35_44	35-44	RO	Romania	15	1	139297	39705	280	62
+USR Constanța	Uniunea Salvați România filiala Constanta	698760586929790	Facebook	35_44	35-44	RO	Romania	2	1	135479	58654	425	85
+Raluca Amariei	USR Sibiu	183087692172986	Facebook	35_44	35-44	RO	Romania	7	1	135474	59370	948	214
+USR Galați	Uniunea Salvați România	174434106304018	Facebook	35_44	35-44	RO	Romania	24	1	134978	31192	303	46
+Litere.net	litere.net	1504323906337545	Facebook	35_44	35-44	RO	Romania	1	1	131496	52598	55	27
+Simona Maria Vlădica	Amerisoft	236992636715917	Facebook	35_44	35-44	RO	Romania	6	1	125683	60978	139	55
+Raluca Turcan	ETIS Design	360184320712594	Facebook	35_44	35-44	RO	Romania	5	1	125300	59149	106	33
+Mihai Goţiu	Uniunea Salvați România	602280189818804	Facebook	35_44	35-44	RO	Romania	10	1	125223	44604	211	41
+Adrian-Claudiu Prisnel	Uniunea Salvați Romania	259825811088447	Facebook	35_44	35-44	RO	Romania	6	1	118369	47105	746	200
+Kelemen Hunor	RMDSZ	175293925828191	Facebook	35_44	35-44	RO	Romania	12	1	117545	41630	181	47
+Departamentul pentru Comunicații și Societate Informațională al PSD	Partidul Social Democrat	346281832652995	Facebook	35_44	35-44	RO	Romania	1	1	110065	44026	46	23
+Adrian Mocanu	Mocanu Adrian	1750234035208501	Facebook	35_44	35-44	RO	Romania	6	1	109913	41710	208	69
+Departamentul pentru Turism - Partidul Social Democrat	Partidul Social Democrat	339973510194748	Facebook	35_44	35-44	RO	Romania	1	1	106930	42772	22	4
+Rares Bogdan	ETIS Design	204397909629079	Facebook	35_44	35-44	RO	Romania	1	1	106594	42638	44	22
+Greenpeace Romania	Greenpeace Romania	291132089193	Facebook	35_44	35-44	RO	Romania	26	1	105926	25943	227	32
+Ionel Bogdan	Rus Alexandra	1449284915381234	Facebook	35_44	35-44	RO	Romania	13	1	98930	20632	192	35
+Legyen ELÉG	Legyen Elég	1500893963467932	Facebook	35_44	35-44	RO	Romania	17	1	98652	26818	193	43
+Cristian Chirteș	EUROPA DNS	309525925854654	Facebook	35_44	35-44	RO	Romania	17	1	98391	24824	130	12
+Virgil Popescu	POPESCU VIRGIL-DANIEL	1641765056062575	Facebook	35_44	35-44	RO	Romania	7	1	94152	30502	210	39
+Pavel Emilian		1557836147771248	Facebook	35_44	35-44	RO	Romania	10	1	92497	25967	162	37
+Consiliul Național PSD	Partidul Social Democrat	428923027871330	Facebook	35_44	35-44	RO	Romania	2	1	92134	46067	48	9
+Partidul Social Democrat Departamentul pentru Politici Fiscal Bugetare	Partidul Social Democrat	2006803969624108	Facebook	35_44	35-44	RO	Romania	1	1	89677	35871	18	3
+Gabriel Daraban	Dumio	170290960472201	Facebook	35_44	35-44	RO	Romania	16	1	87894	31513	211	56
+Daniel Buda	ETIS Design	220579784732993	Facebook	35_44	35-44	RO	Romania	2	1	87499	43749	65	25
+USR Suceava	Uniunea Salvați România	506661762854386	Facebook	35_44	35-44	RO	Romania	1	1	87360	43680	458	91
+Paralela45	Paralela45	89625862971	Facebook	35_44	35-44	RO	Romania	2	1	87260	43630	458	91
+Partidul Social Democrat - Departamentul pentru românii de pretutindeni	Partidul Social Democrat	315931009106788	Facebook	35_44	35-44	RO	Romania	2	1	84516	42258	44	8
+USR Sector 3	USR Sector 3	1658924257659048	Facebook	35_44	35-44	RO	Romania	10	1	81899	24301	434	101
+USR Mehedinți	Uniunea Salvați România	1763484467225604	Facebook	35_44	35-44	RO	Romania	8	1	81570	17420	140	22
+USR Vaslui	Uniunea Salvați România	526411640878009	Facebook	35_44	35-44	RO	Romania	8	1	80914	23869	160	30
+USR Sighetu Marmației	USR Maramureș	166649027305554	Facebook	35_44	35-44	RO	Romania	4	1	78600	37791	314	77
+USR Teleorman	Partidul "Uniunea Salvati Romania"	694605284013356	Facebook	35_44	35-44	RO	Romania	5	1	78336	29659	115	23
+Iulian Lorincz	Uniunea Salvați România - USR	924354934394338	Facebook	35_44	35-44	RO	Romania	11	1	75050	16485	177	31
+ALDE  Prahova	Love to Advertise	1598333033752067	Facebook	35_44	35-44	RO	Romania	5	1	73036	28788	155	60
+Dreapta Liberală - DL	Dreapta Liberala	1881461575305499	Facebook	35_44	35-44	RO	Romania	6	1	72228	23368	449	111
+USR Baia Mare	USR Maramureș	376715579846693	Facebook	35_44	35-44	RO	Romania	2	1	67770	33885	287	71
+PNL Maramureş	Rus Alexandra	1465792233677604	Facebook	35_44	35-44	RO	Romania	12	1	67521	15387	206	37
+USR Caraș-Severin	Uniunea Salvați România	1556903897946498	Facebook	35_44	35-44	RO	Romania	8	1	62894	20176	123	22
+European Greens	European Greens	141366725876424	Facebook	35_44	35-44	RO	Romania	3	1	60779	30179	192	30
+USR Hunedoara	Uniunea Salvați România - USR	250986431933338	Facebook	35_44	35-44	RO	Romania	4	1	59545	24081	84	28
+Vincze Loránt	Vincze Loránt	675042232534141	Facebook	35_44	35-44	RO	Romania	22	1	57634	15663	113	0
+PMP TV	Amerisoft	958364000868431	Facebook	35_44	35-44	RO	Romania	1	1	54949	27474	28	5
+Aresel		292847028010932	Facebook	35_44	35-44	RO	Romania	2	1	54546	27273	179	35
+USR Filiala Brad	Uniunea Salvați România - USR	239653583422453	Facebook	35_44	35-44	RO	Romania	3	1	52507	23535	72	27
+ALDE BACĂU - Partidul Alianța Liberalilor și Democraților	Partidul Alianța Liberalilor și Democraților - ALDE	535445976897124	Facebook	35_44	35-44	RO	Romania	6	1	52441	20665	100	43
+USR Bistrița-Năsăud	Stan Calin	1097122383697273	Facebook	35_44	35-44	RO	Romania	12	1	51986	12838	165	30
+Adrian Miuțescu	ETIS Design	1992712767649895	Facebook	35_44	35-44	RO	Romania	3	1	51707	23795	83	30
+Marius Bodea	Marius Bodea	1514760912172050	Facebook	35_44	35-44	RO	Romania	4	1	50045	18110	59	9
+PSD Prahova	Georgescu Andrei-Theodor	1585243028421258	Facebook	35_44	35-44	RO	Romania	7	1	46557	10101	119	23
+ALDE - Partidul Alianta Liberalilor si Democratilor Constanta	Dumio	1573385822939865	Facebook	35_44	35-44	RO	Romania	5	1	46437	13703	97	28
+USR Sector 1	Uniunea Salvați România	885119281568843	Facebook	35_44	35-44	RO	Romania	6	1	46166	9765	135	38
+PSD Vrancea	PSD Vrancea	219073074846187	Facebook	35_44	35-44	RO	Romania	4	1	45632	9126	97	18
+Departamentul pentru Afaceri Interne PSD	Partidul Social Democrat	797044747344438	Facebook	35_44	35-44	RO	Romania	1	1	39721	19861	20	4
+Partidul Mișcarea Populară Cluj-Napoca	Partidul Miscarea Populara	2081882595470333	Facebook	35_44	35-44	RO	Romania	4	1	39576	18997	408	78
+Crina Fiorela Chilat	Groza	658327497957684	Facebook	35_44	35-44	RO	Romania	1	1	37360	18680	39	7
+Mága Zoltán hegedűművész		164762586881530	Facebook	35_44	35-44	RO	Romania	1	1	37251	18625	57	28
+USR Filiala Județeană Hunedoara	Uniunea Salvați România - USR	2380746071976634	Facebook	35_44	35-44	RO	Romania	3	1	37153	12880	77	27
+USR Sălaj	Uniunea Salvați Romania Filiala Salaj	665719730245460	Facebook	35_44	35-44	RO	Romania	2	1	37037	14818	51	10
+USR Călan	Uniunea Salvați România - USR	1942492232464096	Facebook	35_44	35-44	RO	Romania	3	1	35712	14810	74	28
+Costel Alexe	ETIS Design	182546041796641	Facebook	35_44	35-44	RO	Romania	2	1	35693	17846	51	18
+USR Ilfov	USR Ilfov	1871260176434584	Facebook	35_44	35-44	RO	Romania	11	1	35224	6815	166	56
+Ion ȘTEFAN	ETIS Design SRL	1653699758248627	Facebook	35_44	35-44	RO	Romania	2	1	34650	17325	72	36
+USR Gorj	Uniunea Salvați România	979274598853221	Facebook	35_44	35-44	RO	Romania	4	1	34090	7350	64	11
+Violeta Alexandru	ETIS Design SRL	644108472676492	Facebook	35_44	35-44	RO	Romania	2	1	32661	13505	44	8
+USR Zalău	Uniunea Salavati Romania Filiala Salaj	260094808237890	Facebook	35_44	35-44	RO	Romania	2	1	32341	12794	69	28
+USR Târgu-Lăpuș	USR Maramureș	660431470978348	Facebook	35_44	35-44	RO	Romania	2	1	31716	13202	66	27
+PSD Cluj 2016		1590115447947153	Facebook	35_44	35-44	RO	Romania	1	1	30893	15446	162	32
+Corina Cretu	Corina Cretu	200813406761691	Facebook	35_44	35-44	RO	Romania	26	1	29396	8226	95	2
+PLUS Dolj	Alianța 2020 USR-PLUS	2237102673235835	Facebook	35_44	35-44	RO	Romania	1	1	28027	14013	29	5
+Narcis George Matache	Narcis-George Matache	549972828403233	Facebook	35_44	35-44	RO	Romania	2	1	27066	11507	35	7
+European Free Alliance	European Free Alliance	46708306425	Facebook	35_44	35-44	RO	Romania	1	1	27037	13518	135	27
+Winkler Gyula	Winkler Iuliu	1560147330888040	Facebook	35_44	35-44	RO	Romania	2	1	27001	11396	35	7
+Naomi Reniuț-Ursoiu	Uniunea Salvați România	708334336169853	Facebook	35_44	35-44	RO	Romania	10	1	26226	5781	62	3
+PNL Bihor	Future Innovation	788779771236776	Facebook	35_44	35-44	RO	Romania	5	1	25460	7678	56	6
+EM360 cu Adi Maniutiu	EM360 cu Adi Maniutiu	201920416986321	Facebook	35_44	35-44	RO	Romania	16	1	24921	9315	83	0
+ALDE Municipiul Onești	Partidul Alianța Liberalilor și Democraților – ALDE	568655433550568	Facebook	35_44	35-44	RO	Romania	1	1	24432	12216	256	51
+Cornel Popa	ETIS Design	362437290495506	Facebook	35_44	35-44	RO	Romania	1	1	23690	11845	24	4
+Antal Lóránt	Diversity Advertising	490181697757865	Facebook	35_44	35-44	RO	Romania	7	1	23668	6421	36	0
+BZI	BZI	168243139877442	Facebook	35_44	35-44	RO	Romania	3	1	23318	4663	48	9
+Marius Pașcan - Partidul Mișcarea Populară Mureș	Amerisoft	401741783276003	Facebook	35_44	35-44	RO	Romania	2	1	23283	4656	48	9
+Dragos Benea	Partidul Social Democrat	447787405313835	Facebook	35_44	35-44	RO	Romania	2	1	23180	4636	25	4
+USR Petrila	Uniunea Salvați România - USR	430379350836985	Facebook	35_44	35-44	RO	Romania	1	1	21797	10898	45	22
+USR Jibou	Uniunea Salvati Romania Filala Salaj	1133497573372670	Facebook	35_44	35-44	RO	Romania	2	1	21579	4315	45	9
+USR Deva	Uniunea Salvați România - USR	712674922236299	Facebook	35_44	35-44	RO	Romania	3	1	21310	4238	46	8
+Cupşa Ioan	ETIS Design	582397865304291	Facebook	35_44	35-44	RO	Romania	1	1	21224	10612	44	22
+USR Sântămăria-Orlea	Uniunea Salvați România - USR	404903797002546	Facebook	35_44	35-44	RO	Romania	1	1	20422	10211	42	21
+Inițiativa România	Inițiativa România	1847959338763696	Facebook	35_44	35-44	RO	Romania	6	1	20320	7713	24	2
+Viorel Badea	ETIS Design	161582543936194	Facebook	35_44	35-44	RO	Romania	1	1	20046	10023	21	4
+Florica Chereches	ETIS Design	425879067570544	Facebook	35_44	35-44	RO	Romania	1	1	19936	9968	41	20
+Ilan Laufer		364446500390294	Facebook	35_44	35-44	RO	Romania	5	1	19660	4542	14	0
+Siegfried Muresan	ETIS Design	731035500293728	Facebook	35_44	35-44	RO	Romania	1	1	19156	9578	40	20
+trickSHOT Mega Mall		1377058365719163	Facebook	35_44	35-44	RO	Romania	2	1	18511	3702	38	7
+PNL Mures	EUROPA DNS	143378845861681	Facebook	35_44	35-44	RO	Romania	24	1	18428	3783	115	0
+Vlad Botoș	Uniunea Salvați România	404345336963581	Facebook	35_44	35-44	RO	Romania	1	1	18248	3649	76	38
+Gheorghiu Bogdan	ETIS Design	267044410338956	Facebook	35_44	35-44	RO	Romania	2	1	18029	3605	37	7
+Daniel Fenechiu	ETIS Design	125414364282605	Facebook	35_44	35-44	RO	Romania	1	1	17743	8871	18	3
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	35_44	35-44	RO	Romania	3	1	17519	6491	44	7
+Victor Ponta		150967671609795	Facebook	35_44	35-44	RO	Romania	1	1	16583	8291	14	0
+Silvia Dinică	Silvia Dinică	1128229287275038	Facebook	35_44	35-44	RO	Romania	1	1	16167	3233	33	6
+Tudor Polak	ETIS Design	212588722543134	Facebook	35_44	35-44	RO	Romania	1	1	16146	8073	16	3
+Ziare Neamț	Media PR Grup	471673660019608	Facebook	35_44	35-44	RO	Romania	2	1	16037	3207	49	19
+PLUS Bihor		444983296035846	Facebook	35_44	35-44	RO	Romania	2	1	15992	3198	33	6
+Daniel Ștefan Drăgulin	ETIS Design	212143985823109	Facebook	35_44	35-44	RO	Romania	1	1	15330	7665	32	16
+Radu Mihaiu	Mihaiu Radu-Nicolae	689386518104305	Facebook	35_44	35-44	RO	Romania	3	1	14756	2951	51	20
+Marilen Gabriel Pirtea	ETIS Design	446198175563566	Facebook	35_44	35-44	RO	Romania	1	1	14170	7085	29	14
+Drobeta Online - Stiri din Mehedinti	Vasilan Pavel-Mihai	1133575306806915	Facebook	35_44	35-44	RO	Romania	4	1	14081	2711	20	0
+ALDE - Găeşti		1405796699706183	Facebook	35_44	35-44	RO	Romania	2	1	14005	3538	9	0
+Elena Uram		274006426583660	Facebook	35_44	35-44	RO	Romania	1	1	13278	2655	27	5
+Peter Costea		407413792695356	Facebook	35_44	35-44	RO	Romania	3	1	12398	2397	57	0
+Radu Sidea	SIDEA RADU-IULIAN	171269757089977	Facebook	35_44	35-44	RO	Romania	3	1	12385	2477	30	4
+Cornel Radu Loghin	RADU-LOGHIN CORNEL	429437337859107	Facebook	35_44	35-44	RO	Romania	6	1	12300	2726	27	4
+Csomortányi István	Erdélyi Magyar Néppárt	450693115669004	Facebook	35_44	35-44	RO	Romania	2	1	12298	2459	14	2
+USR Limanu	Uniunea Salvați România filiala Constanța	1955680077891740	Facebook	35_44	35-44	RO	Romania	1	1	11714	2342	24	4
+Reper24h	Reper24h	271881082995170	Facebook	35_44	35-44	RO	Romania	1	1	11651	2330	24	4
+Sabotorii Gorjului	Sabotorii Gorjului	1341038645918998	Facebook	35_44	35-44	RO	Romania	1	1	11598	2319	24	4
+PMP Galați		340770676112984	Facebook	35_44	35-44	RO	Romania	1	1	11497	2299	24	4
+USR Cernavodă	Uniunea Salvați România filiala Constanța	161790827804214	Facebook	35_44	35-44	RO	Romania	1	1	11494	2299	24	4
+Csoma Botond	Div ads	1305418182809740	Facebook	35_44	35-44	RO	Romania	6	1	11456	4763	35	0
+USR Rasova	Uniunea Salvați România filiala Constanța	1848769768505779	Facebook	35_44	35-44	RO	Romania	1	1	11426	2285	23	4
+USR Baneasa	Uniunea Salvați România filiala Constanța	1018805581657311	Facebook	35_44	35-44	RO	Romania	1	1	11421	2284	23	4
+USR Vulcan Hunedoara	Uniunea Salvați România - USR	506010959904405	Facebook	35_44	35-44	RO	Romania	1	1	11154	2231	46	23
+USR Mangalia	Uniunea Salvați România filiala Constanța	283727512100172	Facebook	35_44	35-44	RO	Romania	1	1	11140	2228	23	4
+Ziar Piatra Neamt	Media PR Grup	183473261723511	Facebook	35_44	35-44	RO	Romania	3	1	11084	2908	12	0
+MH TIMES	MINCULEASA CLAUDIU-NICOLAE	559977200816313	Facebook	35_44	35-44	RO	Romania	5	1	11083	3740	13	0
+USR Eforie	Uniunea Salvați România filiala Constanța	417548315383738	Facebook	35_44	35-44	RO	Romania	1	1	11048	2209	23	4
+USR Mihail Kogălniceanu	Uniunea Salvați România filiala Constanța	296875844315712	Facebook	35_44	35-44	RO	Romania	1	1	10937	2187	22	4
 USR Hațeg	Uniunea Salvați România - USR	426799654422553	Facebook	35_44	35-44	RO	Romania	1	1	10615	2123	22	4
-USR Călan	Uniunea Salvați România - USR	1942492232464096	Facebook	35_44	35-44	RO	Romania	1	1	10103	2020	21	4
-USR Deva	Uniunea Salvați România - USR	712674922236299	Facebook	35_44	35-44	RO	Romania	2	1	9799	1936	22	4
-USR Filiala Județeană Hunedoara	Uniunea Salvați România - USR	2380746071976634	Facebook	35_44	35-44	RO	Romania	1	1	9509	1901	19	3
-USR Bistrița-Năsăud	Stan Calin	1097122383697273	Facebook	35_44	35-44	RO	Romania	4	1	9333	1781	27	3
-Greenpeace Romania	Greenpeace Romania	291132089193	Facebook	35_44	35-44	RO	Romania	10	1	8292	1613	24	2
-Adrian Mocanu	Mocanu Adrian	1750234035208501	Facebook	35_44	35-44	RO	Romania	1	1	8235	1647	17	3
-USR Sector 6	Uniunea Salvati Romania	1656475137918717	Facebook	35_44	35-44	RO	Romania	2	1	6713	2762	18	0
-Virgil Popescu	POPESCU VIRGIL-DANIEL	1641765056062575	Facebook	35_44	35-44	RO	Romania	1	1	5927	1185	12	2
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	35_44	35-44	RO	Romania	2	1	5303	1916	7	0
-Cristian Chirteș	EUROPA DNS	309525925854654	Facebook	35_44	35-44	RO	Romania	4	1	4140	828	17	0
-Nicu Ștefănuță	Uniunea Salvați România - USR	279454772645662	Facebook	35_44	35-44	RO	Romania	2	1	4073	2036	6	0
-Marius Bodea	Marius Bodea	1514760912172050	Facebook	35_44	35-44	RO	Romania	3	1	3190	638	13	0
-Drobeta Online - Stiri din Mehedinti	Vasilan Pavel-Mihai	1133575306806915	Facebook	35_44	35-44	RO	Romania	2	1	2823	1254	11	0
-Raluca Amariei	USR Sibiu	183087692172986	Facebook	35_44	35-44	RO	Romania	1	1	2768	1384	5	0
-USR Galați	Uniunea Salvați România	174434106304018	Facebook	35_44	35-44	RO	Romania	2	1	2705	541	11	0
-Erdélyi magyarok Orbán Viktor mellett	Erdélyi magyarok Orbán Viktor mellett	1537537942983268	Facebook	35_44	35-44	RO	Romania	5	1	2470	811	14	0
-PNL Bucuresti	Rus Alexandra	678840505584990	Facebook	35_44	35-44	RO	Romania	2	1	2452	1059	6	0
-USR Arad	Uniunea Salvați Romania	1210260295704425	Facebook	35_44	35-44	RO	Romania	1	1	2229	1114	4	0
-USR Zalău	Uniunea Salavati Romania Filiala Salaj	260094808237890	Facebook	35_44	35-44	RO	Romania	1	1	2011	1005	4	0
-Corina Cretu	Corina Cretu	200813406761691	Facebook	35_44	35-44	RO	Romania	3	1	1901	380	7	0
-USR Prahova	USR Prahova	1385405838141456	Facebook	35_44	35-44	RO	Romania	3	1	1746	99	28	0
-ALDE BACĂU - Partidul Alianța Liberalilor și Democraților	Partidul Alianța Liberalilor și Democraților - ALDE	535445976897124	Facebook	35_44	35-44	RO	Romania	2	1	1714	857	17	3
-Legyen ELÉG	Legyen Elég	1500893963467932	Facebook	35_44	35-44	RO	Romania	4	1	1578	301	7	0
-Vincze Loránt	Vincze Loránt	675042232534141	Facebook	35_44	35-44	RO	Romania	1	1	1526	763	3	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	35_44	35-44	RO	Romania	1	1	1498	749	3	0
-Mihai Goţiu	Uniunea Salvați România	602280189818804	Facebook	35_44	35-44	RO	Romania	1	1	1452	726	3	0
-Kárpát-medencei Magyar Összefogás	Kárpát-medencei Magyar Összefogás	221361328752151	Facebook	35_44	35-44	RO	Romania	1	1	1124	562	2	0
-Antal Lóránt	Diversity Advertising	490181697757865	Facebook	35_44	35-44	RO	Romania	1	1	1114	222	4	0
-Filimon Tezolato	FILIMON-TEZOLATO ADRIAN	319400161992089	Facebook	35_44	35-44	RO	Romania	1	1	1009	201	4	0
-MH TIMES	MINCULEASA CLAUDIU-NICOLAE	559977200816313	Facebook	35_44	35-44	RO	Romania	2	1	1009	202	4	0
+Bogdan Huţucă	ETIS Design	370816919755641	Facebook	35_44	35-44	RO	Romania	1	1	10386	2077	21	4
+USR Cehu Silvaniei	Uniunea Salvati Romania Filala Salaj	879029628954000	Facebook	35_44	35-44	RO	Romania	1	1	10343	2068	21	4
+USR Medgidia		877455379022963	Facebook	35_44	35-44	RO	Romania	1	1	10307	2061	21	4
+USR Cumpăna	Uniunea Salvați România filiala Constanța	2049581168631299	Facebook	35_44	35-44	RO	Romania	1	1	10302	2060	21	4
+USR Valu lui Traian	Uniunea Salvați România filiala Constanța	390126071746919	Facebook	35_44	35-44	RO	Romania	1	1	10155	2031	21	4
+Filimon Tezolato	FILIMON-TEZOLATO ADRIAN	319400161992089	Facebook	35_44	35-44	RO	Romania	1	1	10112	2022	21	4
+USR Corbu		2171851679794048	Facebook	35_44	35-44	RO	Romania	1	1	10105	2021	21	4
+USR Lumina	Uniunea Salvați România filiala Constanța	186923048606341	Facebook	35_44	35-44	RO	Romania	1	1	10033	2006	21	4
+trickSHOT Promenada		245584752293885	Facebook	35_44	35-44	RO	Romania	1	1	9850	4925	10	2
+USR Orăștie	Uniunea Salvați România - USR	1777410579038877	Facebook	35_44	35-44	RO	Romania	1	1	9686	1937	40	20
+USR Techirghiol	Uniunea Salvați România filiala Constanța	2061843587234288	Facebook	35_44	35-44	RO	Romania	1	1	9664	1932	20	4
+Cristina Iurisniti Deputat USR BN	Stan Calin	745975698891864	Facebook	35_44	35-44	RO	Romania	1	1	9575	1915	20	4
+Andrei Pop	Andrei Pop	522518014611632	Facebook	35_44	35-44	RO	Romania	2	1	9557	1911	3	0
+USR Năvodari	Uniunea Salvați România filiala Constanța	1859195804406999	Facebook	35_44	35-44	RO	Romania	1	1	9512	1902	19	3
+Monica Luisa Macovei	MACOVEI MONICA-LUISA	130380413723811	Facebook	35_44	35-44	RO	Romania	1	1	9305	1861	19	3
+Dan Vîlceanu	ETIS Design	715786165255092	Facebook	35_44	35-44	RO	Romania	1	1	9295	1859	19	3
+Interzis la stânga	ETIS Design	798375087197159	Facebook	35_44	35-44	RO	Romania	1	1	8757	1751	18	3
+Eugen Țapu-Nazare	ETIS Design	276092909160685	Facebook	35_44	35-44	RO	Romania	1	1	8746	1749	18	3
+Europe Direct Regiunea Centru		146911762151935	Facebook	35_44	35-44	RO	Romania	1	1	8654	1730	18	3
+Tanase Stamule		106620659474852	Facebook	35_44	35-44	RO	Romania	1	1	8620	1724	18	3
+George Ionescu	ETIS Design	582553551948127	Facebook	35_44	35-44	RO	Romania	1	1	7623	1524	15	3
+Brăila Nouă		146127302873492	Facebook	35_44	35-44	RO	Romania	1	1	7346	1469	15	3
+Mihaiela Pop		408198606674897	Facebook	35_44	35-44	RO	Romania	1	1	6934	1386	14	2
+Angelica Fădor	ETIS Design	121716891884587	Facebook	35_44	35-44	RO	Romania	1	1	6262	1252	13	2
+USR Petroșani	Uniunea Salvați România - USR	1624764627827202	Facebook	35_44	35-44	RO	Romania	2	1	6257	1220	15	2
+Antoneta Ioniță	ETIS Design	560400854158794	Facebook	35_44	35-44	RO	Romania	1	1	5487	1097	11	2
+Oláh Emese	Div ads	309748249443745	Facebook	35_44	35-44	RO	Romania	7	1	4868	934	23	0
+Todoran Adrian	Deputat Adrian Todoran	378450619599004	Facebook	35_44	35-44	RO	Romania	3	1	4504	1022	12	2
+MozaiQ	MozaiQ	1156150484398630	Facebook	35_44	35-44	RO	Romania	1	1	4460	892	9	1
+PNL IASI	Future Innovation 	185088338177066	Facebook	35_44	35-44	RO	Romania	3	1	4201	1401	13	0
+Tractari  Auto Oradea-Intern-International Rga Speed Trans	RAZAILA ADRIAN-COSMIN	116323535162294	Facebook	35_44	35-44	RO	Romania	5	1	3898	1235	17	0
+Transindex.ro	Transindex.ro	306375751406	Facebook	35_44	35-44	RO	Romania	3	1	3846	769	16	0
+Liviu Brătescu	Liviu Brătescu	209399519151264	Facebook	35_44	35-44	RO	Romania	2	1	3717	1530	10	0
+HC Caras Severin	Reper24h	1435968400019830	Facebook	35_44	35-44	RO	Romania	2	1	3644	1822	7	0
+EuroJobs Romania		1850976141839208	Facebook	35_44	35-44	RO	Romania	1	1	3589	1795	7	0
+Takacs Zoltan	Takacs Zoltan	1827240594259659	Facebook	35_44	35-44	RO	Romania	3	1	3157	631	13	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	35_44	35-44	RO	Romania	5	1	3029	1090	11	1
+Idei Si Bani	Sulica Dan	846776282039866	Facebook	35_44	35-44	RO	Romania	1	1	2970	594	12	0
+The Trust Word - Romania	The TRUST Word News Group	640011536422545	Facebook	35_44	35-44	RO	Romania	1	1	2955	591	1	0
+Cristian Seidler		150955332037774	Facebook	35_44	35-44	RO	Romania	2	1	2887	1443	6	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	35_44	35-44	RO	Romania	1	1	2442	488	24	4
+Vulpoi & Toader Management		167698206624402	Facebook	35_44	35-44	RO	Romania	1	1	2193	438	38	0
+Dc 360		321073368705699	Facebook	35_44	35-44	RO	Romania	1	1	2102	420	8	0
+ETUC		129041250601685	Facebook	35_44	35-44	RO	Romania	1	1	2087	417	20	4
+Partidul Mișcarea Populară Dej	Partidul Miscarea Populara	490109671392341	Facebook	35_44	35-44	RO	Romania	4	1	1864	0	38	0
+Mihai Tămaș	Tamas Mihai-Dan	126158454726160	Facebook	35_44	35-44	RO	Romania	2	1	1840	368	7	0
+Kolozs Megyei Ifjúsági Fórum - Kifor	DIV ad	196110100428834	Facebook	35_44	35-44	RO	Romania	7	1	1833	358	8	0
+Cristina Prună	PRUNA CRISTINA-MADALINA	281341562263123	Facebook	35_44	35-44	RO	Romania	2	1	1796	292	13	0
+USR Berzunți	PANTIRU SORIN-MIHAI	1179862085498279	Facebook	35_44	35-44	RO	Romania	1	1	1759	879	3	0
+ALDE Comuna Măgura BACĂU	Partidul Alianța Liberalilor și Democraților – ALDE	1405871476179141	Facebook	35_44	35-44	RO	Romania	1	1	1703	851	3	0
+Marius Cătană		551469802041894	Facebook	35_44	35-44	RO	Romania	1	1	1696	848	3	0
+George Țăranu		2169633483295076	Facebook	35_44	35-44	RO	Romania	1	1	1677	838	3	0
+Giurgiu-acid.ro		1938045996436420	Facebook	35_44	35-44	RO	Romania	3	1	1554	230	45	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	35_44	35-44	RO	Romania	1	1	1497	748	3	0
+Christ4ro News		33424557041	Facebook	35_44	35-44	RO	Romania	2	1	1348	674	11	0
+Alin Vandici		2570007979695010	Facebook	35_44	35-44	RO	Romania	2	1	1310	262	5	0
+Gabriela Mirescu		2618888988127707	Facebook	35_44	35-44	RO	Romania	4	1	1298	612	17	0
+UNPR Sector 6		1499561713619805	Facebook	35_44	35-44	RO	Romania	1	1	1290	645	13	2
+Partidul Mișcarea Populară Cluj	Partidul Miscarea Populara	1424043861019646	Facebook	35_44	35-44	RO	Romania	5	1	1232	0	25	0
+Plictisescu.ro		184028071751540	Facebook	35_44	35-44	RO	Romania	1	1	1200	600	2	0
+USR Buzău		1140510482748359	Facebook	35_44	35-44	RO	Romania	1	1	1106	221	4	0
+Europe Thinx		335839580440114	Facebook	35_44	35-44	RO	Romania	1	1	1074	214	1	0
+USR Adamclisi	Uniunea Salvați România filiala Constanța	3164262100266293	Facebook	35_44	35-44	RO	Romania	1	1	1057	211	4	0
+La Florin - magazin mixt		215582291878938	Facebook	35_44	35-44	RO	Romania	1	1	999	0	20	0
+Apjok Norbert		772526286220198	Facebook	35_44	35-44	RO	Romania	1	1	994	198	4	0
+Professional Clean		408558946617159	Facebook	35_44	35-44	RO	Romania	1	1	987	197	4	0
+Radu Miruţă	Uniunea Salvați România	348610102203573	Facebook	35_44	35-44	RO	Romania	1	1	976	195	4	0
 PNL Constanţa	PNL Constanţa	422079857963680	Facebook	35_44	35-44	RO	Romania	1	1	974	195	4	0
-USR Sighetu Marmației	USR Maramureș	166649027305554	Facebook	35_44	35-44	RO	Romania	1	1	936	468	1	0
-Iulian Lorincz	Uniunea Salvați România - USR	924354934394338	Facebook	35_44	35-44	RO	Romania	1	1	893	178	3	0
-Ionel Arsene	Ionel Arsene	298765223557508	Facebook	35_44	35-44	RO	Romania	1	1	838	167	3	0
-USR Petroșani	Uniunea Salvați România - USR	1624764627827202	Facebook	35_44	35-44	RO	Romania	2	1	722	113	5	0
-USR Gorj	Uniunea Salvați România	979274598853221	Facebook	35_44	35-44	RO	Romania	1	1	718	143	2	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	35_44	35-44	RO	Romania	2	1	709	178	2	0
-Cristian Bușoi	Rus Alexandra	112332998808842	Facebook	35_44	35-44	RO	Romania	1	1	659	131	2	0
-Radu Mihaiu	Mihaiu Radu-Nicolae	689386518104305	Facebook	35_44	35-44	RO	Romania	1	1	449	89	1	0
-Daniel Marinac		191781881583981	Facebook	35_44	35-44	RO	Romania	2	1	342	0	30	0
-PNL Mures	EUROPA DNS	143378845861681	Facebook	35_44	35-44	RO	Romania	2	1	250	0	5	0
-USR Vaslui	Uniunea Salvați România	526411640878009	Facebook	35_44	35-44	RO	Romania	2	1	249	0	5	0
-Todoran Adrian	Deputat Adrian Todoran	378450619599004	Facebook	35_44	35-44	RO	Romania	1	1	240	48	0	0
-Takacs Zoltan	Takacs Zoltan	1827240594259659	Facebook	35_44	35-44	RO	Romania	1	1	233	0	4	0
-Ionel Bogdan	Rus Alexandra	1449284915381234	Facebook	35_44	35-44	RO	Romania	1	1	227	0	4	0
-Socioblog.ro	ZODIAN ALEXANDRU-SERBAN	815735411826201	Facebook	35_44	35-44	RO	Romania	1	1	222	44	0	0
-Norica Nicolai	Increase Digital	121265151226126	Facebook	35_44	35-44	RO	Romania	1	1	211	0	4	0
-Vaslui pentru integritate		264022660693842	Facebook	35_44	35-44	RO	Romania	1	1	173	0	3	0
-Good Affairs		750408395070231	Facebook	35_44	35-44	RO	Romania	1	1	136	0	2	0
-ALDE - Partidul Alianta Liberalilor si Democratilor Constanta	Dumio	1573385822939865	Facebook	35_44	35-44	RO	Romania	1	1	135	0	2	0
-Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	35_44	35-44	RO	Romania	2	1	3	0	0	0
+Răzvan Timofciuc		635598146635199	Facebook	35_44	35-44	RO	Romania	1	1	875	175	3	0
+CRIF		395919323779707	Facebook	35_44	35-44	RO	Romania	1	1	746	373	3	0
+Marinela V. Ardelean		346137638884956	Facebook	35_44	35-44	RO	Romania	1	1	746	149	3	0
+Florin Bivol		2253449691332190	Facebook	35_44	35-44	RO	Romania	1	1	744	148	3	0
+PNL Valea Lupului		874083992702811	Facebook	35_44	35-44	RO	Romania	1	1	672	134	2	0
+Forum Cogitorium	Zsombor Ferencz	1039582286103020	Facebook	35_44	35-44	RO	Romania	3	1	659	104	4	0
+Filip Moisil		829046887457939	Facebook	35_44	35-44	RO	Romania	1	1	659	131	2	0
+Orasul Popesti-Leordeni		501069749993963	Facebook	35_44	35-44	RO	Romania	1	1	520	104	2	0
+Socioblog.ro	ZODIAN ALEXANDRU-SERBAN	815735411826201	Facebook	35_44	35-44	RO	Romania	1	1	480	240	0	0
+Identitatea Românească	Identitatea Românească	100519536734073	Facebook	35_44	35-44	RO	Romania	1	1	471	94	1	0
+USR - Vârfu Câmpului		426910688111310	Facebook	35_44	35-44	RO	Romania	1	1	419	83	1	0
+Lazar I. Bogdan		363615250703159	Facebook	35_44	35-44	RO	Romania	1	1	415	83	1	0
+Susțin PRO România Câmpulung Muscel		297751147530961	Facebook	35_44	35-44	RO	Romania	2	1	384	0	8	0
+Andrei Ivan		2347430905484156	Facebook	35_44	35-44	RO	Romania	1	1	356	0	7	0
+Avocat Dr. Ivan Dragos Lucian		928670197334906	Facebook	35_44	35-44	RO	Romania	1	1	289	0	25	0
+Partidul Mișcarea Populară Huedin	Partidul Miscarea Populara	225050644925789	Facebook	35_44	35-44	RO	Romania	1	1	287	0	5	0
+Partidul Mișcarea Populară Florești	Partidul Miscarea Populara	2093436807582434	Facebook	35_44	35-44	RO	Romania	1	1	269	0	5	0
+Partidul Mișcarea Populară Gherla	Partidul Miscarea Populara	232937900984571	Facebook	35_44	35-44	RO	Romania	1	1	249	0	5	0
+Big News Buzz		125179374733697	Facebook	35_44	35-44	RO	Romania	1	1	231	115	1	0
+Comunitatea PLUS+ Jucu		371511120359966	Facebook	35_44	35-44	RO	Romania	1	1	207	0	4	0
+Daniel Marinac		191781881583981	Facebook	35_44	35-44	RO	Romania	1	1	204	0	18	0
+Stop AAAS Ro		1640996242671731	Facebook	35_44	35-44	RO	Romania	2	1	193	0	12	0
+USR Ovidiu	Uniunea Salvați România filiala Constanța	311695959686140	Facebook	35_44	35-44	RO	Romania	1	1	186	0	3	0
+Vaslui pentru integritate		264022660693842	Facebook	35_44	35-44	RO	Romania	1	1	171	0	3	0
+Eurozine		115579498521257	Facebook	35_44	35-44	RO	Romania	1	1	162	32	3	0
+Constanta 100%		482887325059745	Facebook	35_44	35-44	RO	Romania	1	1	161	0	3	0
+Expirat		116581321703582	Facebook	35_44	35-44	RO	Romania	2	1	152	0	3	0
+George Moldovan		191424968074908	Facebook	35_44	35-44	RO	Romania	1	1	106	0	2	0
+Un colt de suflet		1446870045551264	Facebook	35_44	35-44	RO	Romania	1	1	96	19	0	0
+USR Timiș		873737539404529	Facebook	35_44	35-44	RO	Romania	1	1	94	0	1	0
+USR Mircești		423957871440628	Facebook	35_44	35-44	RO	Romania	1	1	90	0	1	0
+Cabinet Avocat Iulian Nedelcu		957756844612733	Facebook	35_44	35-44	RO	Romania	1	1	83	0	1	0
+ITUC		20556338116	Facebook	35_44	35-44	RO	Romania	2	1	76	0	7	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	35_44	35-44	RO	Romania	2	1	59	0	5	0
+Ujhelyi István dr.	MSZP	734217673259088	Facebook	35_44	35-44	RO	Romania	2	1	38	19	0	0
+Demokratikus Koalíció	Demokratikus Koalíció	169599166463839	Facebook	35_44	35-44	RO	Romania	5	1	27	8	0	0
+Calculat si linistit		821298314618173	Facebook	35_44	35-44	RO	Romania	1	1	24	0	0	0
+Momentum Mozgalom	Momentum Mozgalom	592204747588011	Facebook	35_44	35-44	RO	Romania	1	1	15	3	0	0
+No more bricks in the Wall		1854947667901523	Facebook	35_44	35-44	RO	Romania	1	1	15	0	1	0
+Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	35_44	35-44	RO	Romania	3	1	11	5	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	35_44	35-44	RO	Romania	1	1	4	1	0	0
+Simon Miklós országgyűlési képviselő	Dr. Simon Miklós	1792920094355738	Facebook	35_44	35-44	RO	Romania	1	1	1	0	0	0
+Avaaz	Avaaz	8340223883	Facebook	35_44	35-44	RO	Romania	1	1	0	0	0	0
 Eurolapins	Pulse of Europe France	755726434768654	Facebook	35_44	35-44	RO	Romania	1	1	0	0	0	0
+The Years Project	The Years Project	168876449866088	Facebook	35_44	35-44	RO	Romania	1	1	0	0	0	0
+Tom MacDonald		212732770186	Facebook	35_44	35-44	RO	Romania	1	1	0	0	0	0
+Tokyo Weekender		134654693230171	Facebook	35_44	35-44	RO	Romania	1	1	0	0	0	0
+Ayn Rand Institute		64676229680	Facebook	35_44	35-44	RO	Romania	1	1	0	0	0	0

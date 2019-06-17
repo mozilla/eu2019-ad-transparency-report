@@ -1,23 +1,109 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-PSOE Aragón	PSOE Aragón	170970449608409	Facebook	aragon_ES	Aragón, Spain	1059	1	1092299	10522	104074	0
-Podemos Aragón	Podemos Equo	570770963015441	Facebook	aragon_ES	Aragón, Spain	2	1	202586	101293	524	100
-Avaaz	Avaaz	8340223883	Facebook	aragon_ES	Aragón, Spain	9	1	69354	27117	126	33
-Zaragoza en Común	Zaragoza en Común	1404651893174804	Facebook	aragon_ES	Aragón, Spain	17	1	44304	7000	1615	0
-Jorge Azcón	Partido Popular Zaragoza	1005758609559650	Facebook	aragon_ES	Aragón, Spain	18	1	25982	2000	1782	0
-IU Aragón	IU Aragón	178663732095	Facebook	aragon_ES	Aragón, Spain	11	1	22017	3005	990	0
-Reacciona y Actúa	Actúa 	1916676245053161	Facebook	aragon_ES	Aragón, Spain	15	1	10653	3086	34	0
-European Parliament	European Parliament	178362315106	Facebook	aragon_ES	Aragón, Spain	1	1	10252	4101	20	10
-Arturo Aliaga López	PAR	696833660500986	Facebook	aragon_ES	Aragón, Spain	1	1	9999	5000	99	0
-Ahora Repúblicas	Esquerra Republicana de Catalunya	578942235869606	Facebook	aragon_ES	Aragón, Spain	1	1	8597	4298	21	4
-PACMA - Partido Animalista	PACMA - Partido Animalista	72181181684	Facebook	aragon_ES	Aragón, Spain	2	1	6551	2868	15	2
-Daniel Pérez Calvo	Ciudadanos Aragón	336805893626345	Facebook	aragon_ES	Aragón, Spain	1	1	4999	1000	99	0
-Pedro Santisteve Roche	Zaragoza en Común	543444259136619	Facebook	aragon_ES	Aragón, Spain	1	1	4999	1000	99	0
-Puyalón de Cuchas	Puyalon de Cuchas	265047063604121	Facebook	aragon_ES	Aragón, Spain	1	1	2979	596	59	0
-Markel Olano	EAJ-PNV	898191063533170	Facebook	aragon_ES	Aragón, Spain	1	1	2879	1439	14	2
-Partido Por un Mundo más Justo · M+J	Partido Por un Mundo más Justo · M+J	147468905314265	Facebook	aragon_ES	Aragón, Spain	1	1	1823	364	3	0
-Compromís	Compromís	194053080624605	Facebook	aragon_ES	Aragón, Spain	1	1	1275	255	12	2
-Elena Allué ZGZ	Partido Aragonés	1066267686904935	Facebook	aragon_ES	Aragón, Spain	1	1	999	0	99	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	aragon_ES	Aragón, Spain	1	1	446	223	1	0
-European Commission	European Commission	107898832590939	Facebook	aragon_ES	Aragón, Spain	2	1	371	185	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	aragon_ES	Aragón, Spain	4	1	296	90	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	aragon_ES	Aragón, Spain	2	1	57	15	0	0
+PSOE Aragón	PSOE Aragón	170970449608409	Facebook	aragon_ES	Aragón, Spain	2457	1	3125450	188645	241270	0
+Zaragoza en Común	Zaragoza en Común	1404651893174804	Facebook	aragon_ES	Aragón, Spain	59	1	1117262	314000	10373	1700
+IU Aragón	IU Aragón	178663732095	Facebook	aragon_ES	Aragón, Spain	65	1	961140	287848	9219	1000
+Jorge Azcón	Partido Popular Zaragoza	1005758609559650	Facebook	aragon_ES	Aragón, Spain	45	1	796955	194000	4455	0
+Podemos Aragón	Podemos Equo	570770963015441	Facebook	aragon_ES	Aragón, Spain	8	1	767451	368729	1867	300
+Daniel Pérez Calvo	Ciudadanos Aragón	336805893626345	Facebook	aragon_ES	Aragón, Spain	4	1	560423	214713	1190	200
+Ciudadanos Aragón	Ciudadanos Aragón	246074155529623	Facebook	aragon_ES	Aragón, Spain	8	1	406233	114248	1984	300
+Ciudadanos	Ciudadanos	74078667754	Facebook	aragon_ES	Aragón, Spain	22	1	395989	185376	3356	915
+Cs Zaragoza	Ciudadanos Zaragoza	362982070559555	Facebook	aragon_ES	Aragón, Spain	44	1	344956	75000	4356	0
+Pedro Santisteve Roche	Zaragoza en Común	543444259136619	Facebook	aragon_ES	Aragón, Spain	6	1	264994	86000	1394	200
+Podemos Zaragoza	PODEMOS - EQUO ZARAGOZA	1416966438543078	Facebook	aragon_ES	Aragón, Spain	12	1	246988	58000	1188	0
+Avaaz	Avaaz	8340223883	Facebook	aragon_ES	Aragón, Spain	49	1	211193	86814	1029	260
+Chunta Aragonesista		101179693581	Facebook	aragon_ES	Aragón, Spain	4	1	203725	73721	783	99
+Podemos	UNIDAS PODEMOS CAMBIAR EUROPA	269212336568846	Facebook	aragon_ES	Aragón, Spain	14	1	185693	90295	3220	727
+Elena Allué ZGZ	Partido Aragonés	1066267686904935	Facebook	aragon_ES	Aragón, Spain	10	1	145990	35000	990	0
+Cs Teruel	Ciudadanos Aragón	1547534802182236	Facebook	aragon_ES	Aragón, Spain	9	1	134867	32637	824	0
+European Parliament	European Parliament	178362315106	Facebook	aragon_ES	Aragón, Spain	16	1	125367	55314	897	185
+Partido Aragonés - PAR	Hugo Ismael Miquele Vela	177245072451394	Facebook	aragon_ES	Aragón, Spain	4	1	115996	56000	796	100
+CHA Ayuntamiento Zaragoza		131720017016098	Facebook	aragon_ES	Aragón, Spain	1	1	99999	50000	499	100
+Arturo Aliaga López	PAR	696833660500986	Facebook	aragon_ES	Aragón, Spain	2	1	99998	20000	598	100
+PACMA - Partido Animalista	PACMA - Partido Animalista	72181181684	Facebook	aragon_ES	Aragón, Spain	9	1	95818	45278	171	71
+SEO/BirdLife	SEO/BirdLife	70020937349	Facebook	aragon_ES	Aragón, Spain	40	1	86618	33257	293	60
+European Free Alliance	European Free Alliance	46708306425	Facebook	aragon_ES	Aragón, Spain	11	1	84089	31278	383	113
+Ahora Repúblicas		578942235869606	Facebook	aragon_ES	Aragón, Spain	2	1	81844	40922	409	81
+Ganar Teruel	Ganar Teruel	1564635077131450	Facebook	aragon_ES	Aragón, Spain	4	1	65413	15883	789	98
+Greenpeace España	Greenpeace España	133044800622	Facebook	aragon_ES	Aragón, Spain	75	1	63936	22361	260	26
+Cs Utebo	Ciudadanos Aragón	499028186926561	Facebook	aragon_ES	Aragón, Spain	3	1	60997	15000	297	0
+Con Huesca	PODEMOS-EQUO	1939500672842601	Facebook	aragon_ES	Aragón, Spain	3	1	60997	15000	297	0
+Reacciona y Actúa	Actúa 	1916676245053161	Facebook	aragon_ES	Aragón, Spain	29	1	60178	25701	144	18
+Cs Huesca	Ciudadanos Aragón	406590509518850	Facebook	aragon_ES	Aragón, Spain	4	1	57576	11515	381	0
+Espacio Municipalista por Teruel	PODEMOS - EQUO	259729308314802	Facebook	aragon_ES	Aragón, Spain	2	1	50998	10000	198	0
+Alberto Cubero	Zaragoza en Común	1173805876010899	Facebook	aragon_ES	Aragón, Spain	1	1	49999	10000	99	0
+Nacho Escartín Lasierra	PODEMOS - EQUO Nacho Escartín	1566472333633590	Facebook	aragon_ES	Aragón, Spain	1	1	49999	10000	99	0
+Podemos Teruel	PODEMOS EQUO	1438518336381730	Facebook	aragon_ES	Aragón, Spain	1	1	49999	10000	99	0
+Partido Por un Mundo más Justo · M+J	Partido Por un Mundo más Justo · M+J	147468905314265	Facebook	aragon_ES	Aragón, Spain	7	1	41443	18516	497	108
+Partido Socialista Europeo	Partido Socialista Europeo	442423976113917	Facebook	aragon_ES	Aragón, Spain	17	1	35080	14139	114	17
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	aragon_ES	Aragón, Spain	15	1	29409	12827	45	19
+Puyalón de Cuchas	Puyalon de Cuchas	265047063604121	Facebook	aragon_ES	Aragón, Spain	9	1	26567	4515	842	0
+Navarra Suma	Navarra Suma	401519690408274	Facebook	aragon_ES	Aragón, Spain	20	1	24182	5006	128	11
+Pablo Iglesias	Unidas Podemos	414809308591481	Facebook	aragon_ES	Aragón, Spain	1	1	23738	11869	118	23
+Podemos Equo Monzón	PODEMOS - EQUO	1734318420047829	Facebook	aragon_ES	Aragón, Spain	2	1	14998	6000	198	0
+Amnistía Internacional España		78151799929	Facebook	aragon_ES	Aragón, Spain	1	1	13247	5299	132	26
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	aragon_ES	Aragón, Spain	3	1	12372	6114	8	1
+Volt España	Volt Europa España	2112231695664686	Facebook	aragon_ES	Aragón, Spain	11	1	12080	3600	29	0
+Pilar Alegría 2019	PSOE Aragón	1603193216419322	Facebook	aragon_ES	Aragón, Spain	1	1	9999	5000	99	0
+Somos Miel		363084687812526	Facebook	aragon_ES	Aragón, Spain	6	1	9025	2529	77	14
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	aragon_ES	Aragón, Spain	21	1	7958	2687	17	1
+CicloZero.com	Raquel Del Val Villaverde	228274408053486	Facebook	aragon_ES	Aragón, Spain	2	1	6545	2897	5	0
+European Greens	European Greens	141366725876424	Facebook	aragon_ES	Aragón, Spain	2	1	6415	3113	36	15
+Plan International España	Jose Manuel Bran Garcia	366619768708	Facebook	aragon_ES	Aragón, Spain	3	1	6183	2754	16	2
+Mas Jaca / Podemos-Equo Jacetania	PODEMOS-EQUO	698485243552490	Facebook	aragon_ES	Aragón, Spain	1	1	4999	1000	99	0
+Javi López	Javi López	370863946442242	Facebook	aragon_ES	Aragón, Spain	7	1	4901	1159	14	0
+Fundación Anesvad	Jose Manuel Bran Garcia	131231529742	Facebook	aragon_ES	Aragón, Spain	12	1	4603	1197	26	0
+Parlamento Europeo - Oficina en España	Parlamento Europeo - Oficina en España	161616883888862	Facebook	aragon_ES	Aragón, Spain	3	1	4486	897	8	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	aragon_ES	Aragón, Spain	3	1	4433	2194	15	2
+Entreculturas	Jose Manuel Bran Garcia	45817335745	Facebook	aragon_ES	Aragón, Spain	6	1	4187	1627	11	0
+Ayuda En Acción	Ayuda En Acción	245741112112300	Facebook	aragon_ES	Aragón, Spain	21	1	4125	732	66	2
+Markel Olano	EAJ-PNV	898191063533170	Facebook	aragon_ES	Aragón, Spain	1	1	2849	1424	14	2
+Compromís	Compromís	194053080624605	Facebook	aragon_ES	Aragón, Spain	2	1	2766	553	27	5
+VOX España		467127060059387	Facebook	aragon_ES	Aragón, Spain	8	1	2700	618	14	0
+Lo que de verdad importa	Komons	2267123640272827	Facebook	aragon_ES	Aragón, Spain	1	1	1821	364	36	0
+Cambiemos Orihuela	Cambiemos Orihuela - CLARO: Unidas Podemos	341229742754620	Facebook	aragon_ES	Aragón, Spain	1	1	1678	335	3	0
+Alejandro Langtry	Alejandro Langtry Cainzos	876647346005514	Facebook	aragon_ES	Aragón, Spain	2	1	1593	318	17	2
+SOS Colabora		351877478951783	Facebook	aragon_ES	Aragón, Spain	4	1	1483	296	10	0
+Compromiso por Europa	Compromís	373604602781028	Facebook	aragon_ES	Aragón, Spain	1	1	1431	286	2	0
+Recortes Cero	Recortes Cero	655009961299527	Facebook	aragon_ES	Aragón, Spain	1	1	1253	250	2	0
+Pablo Fernández		800470050043391	Facebook	aragon_ES	Aragón, Spain	1	1	1128	225	2	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	aragon_ES	Aragón, Spain	2	1	1100	353	2	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	aragon_ES	Aragón, Spain	3	1	917	421	1	0
+Partido por la Igualdad Real	Partido por la Igualdad Real	1981091215462211	Facebook	aragon_ES	Aragón, Spain	3	1	744	329	8	0
+European Commission	European Commission	107898832590939	Facebook	aragon_ES	Aragón, Spain	3	1	452	209	1	0
+UNRWA España		105664031745	Facebook	aragon_ES	Aragón, Spain	4	1	395	0	39	0
+PODEM Llucmajor	Eduardo Eugenio Zúñiga Solari	1414978035452905	Facebook	aragon_ES	Aragón, Spain	3	1	363	72	7	0
+Gabriela Mirescu		2618888988127707	Facebook	aragon_ES	Aragón, Spain	3	1	358	143	8	0
+Més Per Menorca	Més per Menorca	787267558020320	Facebook	aragon_ES	Aragón, Spain	11	1	342	84	6	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	aragon_ES	Aragón, Spain	5	1	301	110	1	0
+SALOU 2019 #Ilusiónatesalou		322855728579134	Facebook	aragon_ES	Aragón, Spain	1	1	281	140	2	0
+Wicker Brand	Wicker Brand	286043659015983	Facebook	aragon_ES	Aragón, Spain	3	1	199	29	8	0
+Podemos ganar Ávila		556953581118337	Facebook	aragon_ES	Aragón, Spain	1	1	192	38	3	0
+IU Cieza		347850745372218	Facebook	aragon_ES	Aragón, Spain	1	1	183	36	3	0
+No es política, Es Seseña	Partido Popular Seseña	207541725927600	Facebook	aragon_ES	Aragón, Spain	4	1	181	36	3	0
+Bruno Sanchez-Andrade Nuño	Bruno Sánchez-Andrade Nuño	577736392709846	Facebook	aragon_ES	Aragón, Spain	1	1	170	34	3	0
+Partido Popular Móstoles		289263584794550	Facebook	aragon_ES	Aragón, Spain	1	1	155	31	3	0
+Partido Popular de Nules	Partido Popular de Casteellón	1427834000839960	Facebook	aragon_ES	Aragón, Spain	1	1	145	29	2	0
+Partido Popular Huévar del Aljarafe		403767163122954	Facebook	aragon_ES	Aragón, Spain	1	1	142	28	2	0
+PP Almassora	Partido Popular de Castellón	163806500332042	Facebook	aragon_ES	Aragón, Spain	1	1	140	28	2	0
+QuorumGlobal		375162949584552	Facebook	aragon_ES	Aragón, Spain	1	1	140	28	2	0
+Equo Fuenlabrada	Alejandro Alvarez Carrillo	352782308243336	Facebook	aragon_ES	Aragón, Spain	1	1	131	26	2	0
+Tulfo & Piltri	Carolina Carratala Camps	113875629284677	Facebook	aragon_ES	Aragón, Spain	1	1	119	23	2	0
+TSJ con Venezuela		852951178385826	Facebook	aragon_ES	Aragón, Spain	1	1	117	23	2	0
+VOX Villanueva de la Torre		316903072363234	Facebook	aragon_ES	Aragón, Spain	1	1	104	20	2	0
+Oxfam Intermón		20108693880	Facebook	aragon_ES	Aragón, Spain	2	1	90	0	9	0
+Avanzamos Dos Hermanas		579353562545374	Facebook	aragon_ES	Aragón, Spain	1	1	65	13	1	0
+ETUC		129041250601685	Facebook	aragon_ES	Aragón, Spain	1	1	53	10	0	0
+I vote Europe		608176689275464	Facebook	aragon_ES	Aragón, Spain	1	1	48	24	0	0
+Más Sigüenza con Latre	Populares de Sigüenza	358425714768150	Facebook	aragon_ES	Aragón, Spain	3	1	35	7	0	0
+CEMEX		275606287530	Facebook	aragon_ES	Aragón, Spain	1	1	29	14	0	0
+Big News Buzz		125179374733697	Facebook	aragon_ES	Aragón, Spain	1	1	26	13	0	0
+Save The Seas		2203608429682203	Facebook	aragon_ES	Aragón, Spain	1	1	25	5	0	0
+Europe Thinx		335839580440114	Facebook	aragon_ES	Aragón, Spain	1	1	24	4	0	0
+Unidas Podemos Ciudad Real	UNIDAS PODEMOS - IZQUIERDA UNIDA - EQUO CLM	1757569474344621	Facebook	aragon_ES	Aragón, Spain	1	1	24	0	2	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	aragon_ES	Aragón, Spain	1	1	20	8	0	0
+Plictisescu.ro		184028071751540	Facebook	aragon_ES	Aragón, Spain	1	1	7	3	0	0
+Toni Postius	Partit Demòcrata Lleida	1590048664636534	Facebook	aragon_ES	Aragón, Spain	2	1	6	1	0	0
+CLAYTON		122493385103	Facebook	aragon_ES	Aragón, Spain	1	1	5	1	0	0
+Eurozine		115579498521257	Facebook	aragon_ES	Aragón, Spain	1	1	3	0	0	0
+Amaya Fernández	PP	486996548359961	Facebook	aragon_ES	Aragón, Spain	1	1	2	0	0	0
+ITUC		20556338116	Facebook	aragon_ES	Aragón, Spain	1	1	1	0	0	0

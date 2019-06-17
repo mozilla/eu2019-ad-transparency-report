@@ -1,73 +1,296 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-CDU	CDU	78502295414	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	662	1	1395067	214867	62887	0
-FDP	FDP	21289227249	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	359	1	131449	24828	2324	13
-European Parliament	European Parliament	178362315106	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	49661	24831	248	49
-Landtag Rheinland-Pfalz	Landtag Rheinland-Pfalz	1339267256128796	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	45612	12122	454	71
-Party of the European Left	Franziska Laskowski	160598290012	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	27588	11035	27	5
-BÜNDNIS 90/DIE GRÜNEN	BÜNDNIS 90/DIE GRÜNEN	47217143218	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	78	1	26182	8469	550	0
-Ralf Lottermann - Für den Wormser Stadtrat	Ralf Lottermann	364491737725008	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	24997	11000	297	0
-Demokratie in Europa - Diem25	Demokratie in Europa - DiEM25	267443093828699	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	20	1	21705	8987	160	16
-Europäisches Parlament - Verbindungsbüro in Deutschland	Europäisches Parlament - Verbindungsbüro in Deutschland	294494163510	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	20671	10335	80	33
-AfD Rheinland-Pfalz	AfD Rheinland-Pfalz	162707793881819	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	10	1	17990	2000	990	0
-Verband der Chemischen Industrie e.V.	Chemie Wirtschaftsförderungs GmbH	921326477983554	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	79	1	16996	1499	1143	0
-PARTEI MENSCH UMWELT TIERSCHUTZ	PARTEI MENSCH UMWELT TIERSCHUTZ	108568039165729	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	6	1	9262	1838	104	17
-MENSCHLICHE WELT	Menschliche Welt	245758938922923	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	7	1	7382	1893	63	5
-Jusos in der SPD	Jusos in der SPD	40415227476	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	7312	1462	14	0
-Pascal Badziong	Pascal Badziong	1414539822143557	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	6978	996	296	0
-Alternative für Deutschland Mayen-Koblenz	Alternative für Deutschland Mayen-Koblenz	160882790765796	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	8	1	6399	74	604	0
-ver.di	la red	252085013582	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	6357	3178	63	31
-Grüne im Kreis Germersheim	BÜNDNIS 90/DIE GRÜNEN KV Germerseheim	272673066211280	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	6296	1000	227	0
-CDU Brohltal	CDU Brohltal	956080184452111	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	6	1	5994	0	594	0
-Alternative für Deutschland AfD - Koblenz - Ratsfraktion und Kreisverband	AfD Rheinland-Pfalz	334979833311527	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	6	1	5994	0	594	0
-Junge Liberale JuLis	Junge Liberale	110976485656573	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	5168	1033	51	10
-Arbeitgeberverband Gesamtmetall	Arbeitgeberverband Gesamtmetall	169367889785454	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	8	1	5022	1088	50	0
-FDP Worms	FDP Worms	423656078410758	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	4999	1000	99	0
-CDU Rhein-Hunsrück	CDU Rhein-Hunsrück	253060498157297	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	4999	1000	99	0
+CDU	CDU	78502295414	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1908	1	4711127	904821	180832	63
+BÜNDNIS 90/DIE GRÜNEN	BÜNDNIS 90/DIE GRÜNEN	47217143218	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1226	1	1925602	502616	27944	1647
+SPD	SPD	47930567748	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4212	1	1437618	327064	32522	685
+FDP	FDP	21289227249	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1017	1	931140	298290	7787	470
+Katarina Barley	SPD	1522202731410785	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	790	1	418608	104261	5450	146
+DIE LINKE	DIE LINKE	47694585682	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	82	1	353404	91516	3882	38
+Nicola Beer	FDP	206866712830769	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	67	1	347582	142501	3190	720
+Ralf Lottermann - Für den Wormser Stadtrat	Ralf Lottermann	364491737725008	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	5	1	299995	90000	1395	500
+European Parliament	European Parliament	178362315106	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	13	1	270031	125035	1686	365
+Demokratie in Europa - Diem25	Demokratie in Europa - DiEM25	267443093828699	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	99	1	248044	92861	1290	314
+Avaaz	Avaaz	8340223883	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	27	1	244344	106487	2271	439
+Ökologisch-Demokratische Partei (ÖDP)	Ökologisch-Demokratische Partei (ÖDP)	120655374567	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	15	1	194508	96231	615	146
+Thalia Buchhandlung - Thalia.de	Thalia Buchhandlung - Thalia.de	342884401877	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	15	1	163181	72972	2616	586
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	32	1	155911	68104	1205	269
+ABOUT YOU	ABOUT YOU	689801517732186	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	5	1	149513	71823	940	215
+CDU Kreisverband Ahrweiler	CDU Kreisverband Ahrweiler	400923533270421	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	23	1	149366	34856	2268	0
+Die Offene Gesellschaft	die Initiative Offene Gesellschaft mit Facebook-Werbegutschrift	912255502235222	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	451	1	148417	32973	3218	116
+Landtag Rheinland-Pfalz	Landtag Rheinland-Pfalz	1339267256128796	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	135036	27007	947	170
+Kialo	Kialo	729627343834501	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	65	1	130280	29920	1268	248
+Sven Giegold	Sven Giegold	1391306014465513	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	21	1	114610	42331	1022	197
+Campact e.V.	Campact e.V.	82734241364	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	6	1	111881	53458	897	209
+Europäisches Parlament - Verbindungsbüro in Deutschland	Europäisches Parlament - Verbindungsbüro in Deutschland	294494163510	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	101812	45076	800	160
+AfD Rheinland-Pfalz	AfD Rheinland-Pfalz	162707793881819	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	20	1	100980	23000	1980	0
+CDU Neustadt an der Weinstraße	CDU Kreisverband Neustadt	139619772887950	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	49	1	92951	11000	4851	0
+PARTEI MENSCH UMWELT TIERSCHUTZ	PARTEI MENSCH UMWELT TIERSCHUTZ	108568039165729	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	14	1	92736	38153	905	261
+Alternative für Deutschland Mayen-Koblenz	Alternative für Deutschland Mayen-Koblenz	160882790765796	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	27	1	85797	15394	2486	0
+Grüne Mannheim	BÜNDNIS 90/DIE GRÜNEN Kreisverband Mannheim	123290727868673	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4	1	71654	25207	423	69
+Sozialdemokratische Partei Europas	Sozialdemokratische Partei Europas	338549033673221	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	16	1	66187	27796	253	42
+Partei der Humanisten	Partei der Humanisten	499613946840551	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	8	1	62276	27294	655	156
+SPD Rheinland-Pfalz	SPD Rheinland-Pfalz	330165526782	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	58144	14073	579	100
+Deine Würde - Eine Initiative zum 70. Jubiläum des Grundgesetzes	Deine Würde - Eine Initiative zum 70. Jubiläum des Grundgesetzes	316160725982888	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	57326	28663	286	57
+Alternative für Deutschland AfD - Koblenz - Ratsfraktion und Kreisverband	AfD Rheinland-Pfalz	334979833311527	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	11	1	55989	14000	1089	0
+Worms mit Herz und Hand	CDU Worms	2501298519941988	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	54998	11000	598	100
+FDP Worms	FDP Worms	423656078410758	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	54998	11000	198	0
+Rheinland-Pfalz	Rheinland-Pfalz	189617674514883	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	49999	10000	499	100
+Dipl.-Ing. Bärbel Sehy	Thanh-Long Vo 	286228292328742	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	49999	10000	499	100
+Bündnis 90/Die Grünen KV Birkenfeld	Bündnis 90/Die Grünen Rheinland-Pfalz	302540573168231	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	49820	9964	497	99
+MENSCHLICHE WELT	Menschliche Welt	245758938922923	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	24	1	49451	17400	648	138
+Party of the European Left	Franziska Laskowski	160598290012	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	49291	19716	275	71
+European Greens	European Greens	141366725876424	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	8	1	47178	23038	264	62
+Senatsverwaltung für Kultur und Europa		247450562347746	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	46567	20744	103	35
+CDU Rhein-Hunsrück	CDU Rhein-Hunsrück	253060498157297	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	7	1	44993	15000	693	0
+Grüner Fisher Investments	Grüner Fisher Investments	138832469593845	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	166	1	44842	7980	2442	302
+Social Media Ads	Alexander Dietrich	561953460655717	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	7	1	44720	21448	418	0
+Initiative Neue Soziale Marktwirtschaft (INSM)	Initiative Neue Soziale Marktwirtschaft (INSM)	121678260974	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	101	1	43756	10408	663	0
+Junge Liberale JuLis	Junge Liberale	110976485656573	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	5	1	41904	16815	578	114
+Volt Deutschland	Volt Deutschland	134209407129787	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	99	1	40197	9136	591	9
+Grüne Rhein-Pfalz-Kreis	Maurice Kuhn 	1873999882830833	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	18	1	40191	6343	1468	0
+AfD	AfD	540404695989874	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	5	1	39838	19919	198	60
+Jusos in der SPD	Jusos in der SPD	40415227476	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	18	1	37924	12787	310	53
+Grüne Frankenthal	Bündnis 90/Die Grünen Kreisverband Frankenthal	1890824571150959	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	11	1	34989	6000	1089	0
+Monika Hohlmeier	Monika Hohlmeier	139065632780165	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	5	1	33711	15528	159	30
+DGB Bundesvorstand	Deutscher Gewerkschaftsbund (DGB)	147245511963527	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	32244	12898	322	64
+Greenpeace Deutschland	Greenpeace Deutschland	22541752487	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	15	1	31810	9083	229	40
+SPD-Bundestagsfraktion	SPD-Bundestagsfraktion	144380008933707	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	8	1	30648	8788	90	8
+Neue Liberale - Die Sozialliberalen		730976676939532	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	30017	11356	33	5
+Verband der Chemischen Industrie e.V.	Chemie Wirtschaftsförderungs GmbH	921326477983554	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	96	1	28829	6967	1202	11
+DIE LINKE. Mannheim	Die Linke Kreisverband Mannheim	138048962930334	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	7	1	28756	5681	242	0
+Bundesregierung	Bundesregierung	768905426534529	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	28648	11459	286	57
+Talking Europe	Diskutier Mit Mir e.V.	316028505828375	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	6	1	28053	9919	278	53
+CDU Kreisverband Germersheim	CDU Kreisverband Germersheim	326178750781527	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	8	1	27992	5000	792	0
+AfD Trier	Hubertus Michael Frisch 	649172151796727	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	24997	11000	1097	200
+Pascal Badziong	Pascal Badziong	1414539822143557	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	8	1	23917	3985	790	0
+WWF Deutschland	WWF Deutschland	218786540044	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	6	1	23472	10369	234	103
+Europäische Kommission – Vertretung in Deutschland	Europäische Kommission – Vertretung in Deutschland	123332714357231	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	13	1	23192	5193	205	35
+Tierschutz hier	Rudolf Görg 	2309063122705796	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	12	1	22838	5065	147	21
+Grüne Jugend	Grüne Jugend	159474940754336	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	5	1	22719	9849	120	47
+CDU Grafschaft	CDU Grafschaft	124943844303250	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	12	1	22642	2842	1117	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4	1	22061	8795	225	44
+CDU Brohltal	CDU Brohltal	956080184452111	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	8	1	19992	3000	792	0
+Friedrich-Naumann-Stiftung für die Freiheit	Friedrich-Naumann-Stiftung für die Freiheit	140889782312	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	12	1	19037	5918	140	20
+Arbeitgeberverband Gesamtmetall	Arbeitgeberverband Gesamtmetall	169367889785454	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	32	1	18255	3612	205	0
+IG Metall	IG Metall	249296718436	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	17941	8238	43	7
+Diakonie Deutschland	Diakonie Deutschland	41509493347	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	9	1	17168	3590	103	13
+Bayernpartei	Bayernpartei	78309442751	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4	1	15989	6614	183	85
+Graue Panther wählen	Rudolf Görg 	2014695908579485	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	10	1	15450	3952	172	28
+Demokratie in Bewegung	Demokratie in Bewegung	1799478453653006	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	13	1	15407	5010	151	23
+#NatürlichEuropa	Deutscher Naturschutzring DNR e.V.	255657841991242	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	14668	7334	82	35
+CDU Ortsverband Schwegenheim	CDU Ortsverband Schwegenheim	200875150700863	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	14417	2884	285	0
+FWG Bad Neuenahr-Ahrweiler e. V.	Robert Eckert	1115896348592202	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	13799	6900	136	0
+Freie Wähler Bundesvereinigung	Freie Wähler Bundesvereinigung	204327886385912	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	13324	5404	87	17
+European Commission	European Commission	107898832590939	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	21	1	13210	6093	22	6
+thyssenkrupp	thyssenkrupp	644063045675734	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	12832	6416	32	6
+Klima-Allianz Deutschland	Klima-Allianz Deutschland	110521004952	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4	1	12549	5280	83	29
+Demokratie in Bewegung Sachsen-Anhalt	Demokratie in Bewegung Sachsen-Anhalt	1907967889415631	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	11980	5916	34	5
+Manuela Ripa	Manuela Magda Franca Maria Ripa	271226510199428	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	7	1	11839	2326	163	44
+Eko Fresh	Christoph Friedrich Brust	103824796345976	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	5	1	11760	3454	99	19
+BÜNDNIS 90/DIE GRÜNEN Rheinland-Pfalz	Bündnis 90/Die Grünen Rheinland-Pfalz	88331883353	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	10998	5000	198	0
+FDP Stadtverband Bad Kreuznach	FDP Stadtverband Bad Kreuznach 	343904723087264	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	10997	2000	297	0
+Bündnis 90 / Die Grünen Alzey-Worms	Bündnis 90/Die Grünen Rheinland-Pfalz	141951685994812	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	10946	1992	295	0
+Sebastian Rutten	Sebastian Rutten - FDP WIesbaden	344889229443918	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	10365	2073	108	19
+Grüne Mainz	Bündnis 90/Die Grünen Mainz	442503965827807	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4	1	10243	2000	222	0
+Grüne im Kreis Germersheim	BÜNDNIS 90/DIE GRÜNEN KV Germerseheim	272673066211280	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	10169	2000	214	0
+Freie Wähler Koblenz	Freie Wähler Koblenz	294738176051	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	9999	5000	99	0
+CDU Stadtverband Neuwied	CDU Stadtverband Neuwied 	381665481945049	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	9999	5000	99	0
+SPD Speyer	SPD Speyer	217718761742805	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	9998	2000	198	0
+Bündnis 90/Die Grünen Kreisverband Ludwigshafen	Bündnis 90/Die Grünen Rheinland-Pfalz	253112118202381	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	9998	2000	198	0
+Grüne KV Bad Kreuznach	Bündnis 90/Die Grünen Rheinland-Pfalz	180267572509731	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	9987	1997	197	0
+Grüne Kusel	Bündnis 90/Die Grünen Rheinland-Pfalz	407630392667824	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	9933	4967	98	0
+Bündnis Grundeinkommen	Bündnis Grundeinkommen	548285578684618	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	13	1	9854	2868	126	15
+Progressives Bad Kreuznach	Progressives Bad Kreuznach	2153883651391345	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	9637	4819	95	0
+Mike Mohring	CDU Weimarer Land	188677361503511	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	9	1	9579	2342	76	0
+Change.org	Change.org e.V.	530905320274921	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	9321	1864	18	0
+FinanzAgenda	Union Investment	276690259403364	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	19	1	9223	1977	140	6
+Özlem Alev Demirel	DIE LINKE. NRW	602487899802568	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	9086	4543	45	22
+Bernhard Braun	Maurice Kuhn 	710894025774211	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	9079	1816	179	0
+Konrad-Adenauer-Stiftung	Konrad-Adenauer-Stiftung	44511549119	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	5	1	8081	1616	32	0
+Andrea Nahles	SPD	161929783920704	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	8040	1608	80	16
+LiSL Deutschland	Michael Kauch	223782884301813	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	6	1	6780	1472	86	15
+SPD Grafschaft	Axel Bend	185413701557817	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	6534	1307	129	0
+UDO VOIGT für Deutschland in Europa	UDO VOIGT für Deutschland in Europa	598011190253742	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	6487	3243	64	32
+ver.di	la red	252085013582	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	6358	3179	63	31
+Junge Union Kreis Altenkirchen	Justus Brühl	161397033931051	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	6264	1053	203	0
+Jan Petry	Jan Oliver Petry	351383802114927	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	5998	1000	198	0
+CDU Ortsverband Kell	Stefan Otto Kaufmann	399599873930393	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	5998	1000	198	0
+Bündnis 90/Die Grünen KV Rhein-Hunsrück	Bündnis 90/Die Grünen Rheinland-Pfalz	180599695477992	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	5998	1000	198	0
+GRÜNE Bonn	BÜNDNIS 90 / DIE GRÜNEN Kreisverband Bonn	337333856328097	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	6	1	5976	1313	57	10
+Robert Farle	Robert Farle	1565754943752371	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	5848	1154	65	11
+Delara Burkhardt	SPD Schleswig-Holstein	260587924600836	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4	1	5710	2752	12	0
+FDP Fraktion Bundestag	Fraktion der Freien Demokraten	341486659645594	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	22	1	5701	1451	123	0
+Bündnis 90/Die Grünen Mainz-Bingen	Bündnis 90/Die Grünen Rheinland-Pfalz	1414685082192525	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	5672	934	191	0
+Deutsches Kinderhilfswerk e.V.	Deutsches Kinderhilfswerk e.V.	107407945980041	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	5462	1092	56	10
+Mehr Wirtschaft wagen	Arbeitgeberverband Gesamtmetall	1805769829749530	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	8	1	5172	992	55	0
+USR Diaspora	Uniunea Salvați România - USR	1793510380925494	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	5136	2568	25	5
+ÖDP Mainz-Stadt		350663078345150	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	5058	2529	252	50
+Jusos Mainz	Jusos Mainz	390715747605823	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	4999	1000	99	0
+Bündnis 90 / Die Grünen Kreisverband Neuwied	Bündnis 90/Die Grünen Rheinland-Pfalz	300264553458856	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	4999	1000	99	0
+Grüne Neustadt/Weinstrasse		147561962001281	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	4999	1000	99	0
+GRÜNE Altrip	Maurice Kuhn 	841193702677465	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	4999	1000	99	0
+CDU Niederzissen	CDU Niederzissen	701331996576388	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	4999	1000	99	0
 Grüne Kaiserslautern	Niko Markus	151451551553337	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	4999	1000	99	0
-SPD-Bundestagsfraktion	SPD-Bundestagsfraktion	144380008933707	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	4219	843	8	0
-Grüne Mannheim	BÜNDNIS 90/DIE GRÜNEN Kreisverband Mannheim	123290727868673	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	4147	1878	75	0
-DIE LINKE	DIE LINKE	47694585682	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4	1	3887	944	43	5
-Monika Hohlmeier	Monika Hohlmeier	139065632780165	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	3172	634	31	6
-Bayernpartei	Bayernpartei	78309442751	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	3038	607	30	6
-CDU Kreisverband Germersheim	CDU Kreisverband Germersheim	326178750781527	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	2997	0	297	0
-SPD	SPD	47930567748	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	18	1	2912	384	136	0
-Partei der Humanisten	Partei der Humanisten	499613946840551	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4	1	2691	530	17	0
-Katarina Barley	SPD	1522202731410785	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	12	1	2454	437	69	0
-European Free Alliance	European Free Alliance	46708306425	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	2338	456	50	22
-CDU Kreisverband Ahrweiler	CDU Kreisverband Ahrweiler	400923533270421	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	1998	0	198	0
-CDU Grafschaft	CDU Grafschaft	124943844303250	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	1827	0	181	0
-Sven Giegold	Sven Giegold	1391306014465513	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	1788	894	17	0
-Arbeitnehmer und Rentner Union ARU	Peter Otto Arthur Rippler 	408239062653173	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	1541	530	23	0
-FDP Fraktion Bundestag	Fraktion der Freien Demokraten	341486659645594	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4	1	1299	452	24	0
-GRÜNE Bonn	BÜNDNIS 90 / DIE GRÜNEN Kreisverband Bonn	337333856328097	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	1263	252	2	0
-Grüne Frankenthal	Bündnis 90/Die Grünen Kreisverband Frankenthal	1890824571150959	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	999	0	99	0
-CDU Niederzissen	CDU Niederzissen	701331996576388	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	999	0	99	0
+Andreas Steier	Andreas Steier	635959036592480	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	4995	999	98	0
+Grüne KV Trier-Saarburg	Bündnis 90/Die Grünen Rheinland-Pfalz	934286336747631	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	4992	998	98	0
+Arbeitnehmer und Rentner Union ARU	Peter Otto Arthur Rippler 	408239062653173	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	5	1	4973	1396	34	0
+GoodJobs	GoodJobs	1004883576238809	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	11	1	4958	982	73	0
+BÜNDNIS 90/DIE GRÜNEN Ahrweiler	Bündnis 90/Die Grünen Rheinland-Pfalz	456516127773656	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	4956	991	98	0
+Adenauer Campus	Konrad-Adenauer-Stiftung	225123097665916	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	44	1	4838	942	198	0
+Carolin Henseler	Carolin Nicola Henseler	201743000578232	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	4783	2291	117	22
+Bündnis 90 /Die Grünen - Kreisverband Rhein-Lahn	Bündnis 90/Die Grünen Rheinland-Pfalz	612797985583478	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	4742	948	93	0
+FDP Bremen	FDP Bremen	152934608113175	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	4667	1144	78	14
+Bundesministerium für Arbeit und Soziales	Bundesministerium für Arbeit und Soziales	108268845888673	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	4443	1070	13	0
+Junges Freiburg	Junges Freiburg e.V.	244355055724023	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	4423	1121	19	0
+Deutsche gegen Rassismus	BIG Partei Deutschland	2367349223545054	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	10	1	4160	832	29	0
+Bündnis C - Christen für Deutschland	Bündnis C - Christen für Deutschland	675671552542620	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	4144	828	41	8
+Kleiner Fünf	Kleiner Fünf	1768812013390432	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	4125	825	41	8
+Karsten Hilse	Karsten Hilse 	358099231236311	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4	1	3929	777	21	0
+Ortsbeiratsliste Gelsdorf - SPD Grafschaft	Axel Bend	389734388547572	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	3848	643	126	0
+Danke, Freihandel.	VDMA	226651401514704	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	14	1	3800	1247	90	0
+Marie-Agnes Strack-Zimmermann	Marie-Agnes Strack-Zimmermann	782677895144628	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	3578	715	40	6
+UNO-Flüchtlingshilfe	UNO-Flüchtlingshilfe	236934790401	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	8	1	3501	830	36	0
+Norbert Kleinwächter		346613215704870	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	3479	695	6	0
+Reinhard Bütikofer	Reinhard Bütikofer	328884927228588	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4	1	3422	646	24	0
+Paul Ziemiak	Paul Ziemiak	1067821176570031	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4	1	3162	767	76	26
+Michael Bloss	Michael Bloss	587477178350898	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	3128	625	11	0
+FDP Wahlkampf	Philippe André Westenfelder	393722064802394	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	3031	751	9	0
+Thomas Sattelberger	Thomas Sattelberger	1714244788796089	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	2862	572	5	0
+CDU in Niedersachsen	CDU in Niedersachsen	109460782417586	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	2826	1133	18	3
+Lars Klingbeil	Lars Klingbeil	355456486093	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	2753	550	55	27
+BIG Partei Deutschland	BIG Partei Deutschland	353378298097249	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	5	1	2738	528	39	4
+Quorum	European Exchange	3138731056152846	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	2709	678	12	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	2672	534	26	5
+LKR Schwarzwald-Bodensee	Günther Hückmann	2037176893193945	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	2660	532	52	0
+Hannes Jaenicke	David Michel Löwe 	731404243600603	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	2587	517	5	0
+Junge Union Deutschlands	Junge Union Deutschlands	46098347293	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	8	1	2567	674	66	5
+VoteEuropa Deutschland	Verena Katharina Riedmiller	628787484249066	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	2544	558	25	4
+Karsten Klein	Karsten Klein	120519827980254	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	7	1	2540	951	38	0
+SPD Sachsen	SPD Sachsen	50169278122	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	5	1	2476	1186	26	0
+LKR-Fraktion Ludwigshafen		975059855866906	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	2466	493	48	0
+Piratenpartei	Piratenpartei	149871337782	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	2430	486	48	24
+Schule ohne Rassismus - Schule mit Courage Bundeskoordination	Schule ohne Rassismus - Schule mit Courage Bundeskoordination	244755398898581	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	2398	479	4	0
+Markenverband e.V.	Markenverband e.V.	482176671952628	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	8	1	2394	430	66	0
+LOVE- Dmitry Kuzmin		1431285403818547	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	2274	454	22	4
+Hannah Neumann	Bündnis 90/Die Grünen Berlin-Lichtenberg	316076495487717	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	2228	445	24	4
+enorm Magazin	GoodJobs	273110452731	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	1926	385	7	0
+Sozialistische Gleichheitspartei, IV Internationale - SGP	Helmut Wilhelm Arens	90523314133	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	1839	367	18	3
+Tabitha Elkins- Politikerin		966605413470428	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	1830	0	181	0
+Jens Spahn	Jens Spahn	92576009043	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	6	1	1771	718	47	0
+GEW Saarland	GEW Saarland	223078917757220	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	1720	344	34	0
+FDP Hessen	FDP Hessen	188188564583	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	1555	742	16	0
+FDP Karlsruhe-Stadt	FDP Kreisverband Karlsruhe-Stadt	342930772424635	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	1540	249	53	0
+Michael Kauch	Michael Kauch	68189497138	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4	1	1512	619	38	4
+Daniel Freund	Bündnis 90 / Die Grünen Kreisverband Aachen	566872987051379	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	1492	746	5	1
+AfD Homburg		223740151305282	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	1450	290	28	0
+Johannes Vogel	Johannes Vogel	486203081469505	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	6	1	1409	445	30	0
+mymuesli		20393019390	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	1353	270	2	0
+Udo Bullmann	Udo Bullmann	68936775929	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	1295	647	12	0
+Moira Fine Jewellery		644735598990369	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	1295	259	2	0
+Berliner Stadtwerke	Berliner Stadtwerke	765844936882239	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	1236	618	6	3
+Rainer Keller	Rainer Keller	2324783081132960	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	7	1	1167	158	53	0
+BÜNDNIS 90/DIE GRÜNEN Hessen	BÜNDNIS 90/DIE GRÜNEN Hessen	22865297210	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	1165	181	43	0
+Apostolos Kelemidis		705234549505018	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	1118	223	22	11
+Phil Hackemann	Philip Fritz Hermann Hackemann	234193444126795	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	5	1	1116	341	25	0
+Jo Leinen	Jo Leinen	290293517710818	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4	1	1098	219	21	0
+IG BCE Jugend Nordrhein	IG BCE Landesbezirk Nordrhein	124363604315424	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	1096	548	54	10
+Fridays for Future Deutschland	Together for Future e.V. 	2010920999000602	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	10	1	1080	135	53	0
+JU-Kreisverband Deggendorf	Stefan Johann Zitzelsberger	377562525780294	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	1022	204	20	0
+Arndt Kohn	SPD-Unterbezirk in der Städteregion Aachen	1232732846774130	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	7	1	1008	348	10	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	20	1	1004	363	3	0
+FDP Linz am Rhein		1414419275507766	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	999	0	99	0
+GRÜNE Kreisverband Mayen-Koblenz	Bündnis 90/Die Grünen Rheinland-Pfalz	1658220697780168	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	999	0	99	0
 Alternative für Deutschland Kreisverband Rhein - Pfalz - Kreis		1190983027642287	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	999	0	99	0
-Tabitha Elkins- Politikerin		966605413470428	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	999	0	99	0
-Konrad-Adenauer-Stiftung	Konrad-Adenauer-Stiftung	44511549119	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	980	196	19	0
-GoodJobs	GoodJobs	1004883576238809	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	715	143	14	0
-Robert Farle	Robert Farle	1565754943752371	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	621	272	13	0
-Adenauer Campus	Konrad-Adenauer-Stiftung	225123097665916	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	8	1	507	38	34	0
-JU-Kreisverband Deggendorf	Stefan Johann Zitzelsberger	377562525780294	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	433	86	8	0
-Marie-Agnes Strack-Zimmermann	Marie-Agnes Strack-Zimmermann	782677895144628	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	396	59	15	0
-Junge Union Deutschlands	Junge Union Deutschlands	46098347293	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	386	64	12	0
-Bündnis Grundeinkommen	Bündnis Grundeinkommen	548285578684618	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	345	61	10	0
-Karsten Klein	Karsten Klein	120519827980254	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	309	61	6	0
-European Commission	European Commission	107898832590939	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	301	150	0	0
-Demokratie in Bewegung	Demokratie in Bewegung	1799478453653006	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	294	58	5	0
-Phil Hackemann	Philip Fritz Hermann Hackemann	234193444126795	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	290	58	5	0
-Graue Panther wählen	Rudolf Görg 	2014695908579485	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	264	52	5	0
-FDP Wahlkampf	Philippe André Westenfelder	393722064802394	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	244	48	4	0
-Rainer Keller	Rainer Keller	2324783081132960	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	202	0	20	0
-LiSL Deutschland	Michael Kauch	223782884301813	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	194	34	5	0
-VoteEuropa Deutschland	Verena Katharina Riedmiller	628787484249066	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	134	26	2	0
-Greenpeace Deutschland	Greenpeace Deutschland	22541752487	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	100	0	9	0
-Tierschutz hier	Rudolf Görg 	2309063122705796	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	96	0	9	0
-Corinna Miazga	Corinna Miazga	1720472504912063	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	82	0	8	0
-CDU Lohmar	CDU Lohmar	870550286426379	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	66	0	6	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	59	29	0	0
-Karsten Hilse	Karsten Hilse 	358099231236311	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	50	0	5	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4	1	49	13	0	0
-Europa Terra Nostra	Europa Terra Nostra e.V.	273074413028074	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	30	0	3	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	8	1	0	0
-Gary Diderich	Gary Diderich	73144437219	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	4	0	0	0
+Linksjugend ['solid] Saar	Sebastian Oliver Borchart	125474557497350	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	989	197	19	0
+DIE LINKE. im Lahn-Dill-Kreis	DIE LINKE Lahn-Dill	450531351694799	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	5	1	924	175	22	0
+DIE LINKE. NRW	DIE LINKE. NRW	150480805043795	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	891	445	4	0
+SPD Stadtverband Wadern	Eric Meyer	1216829358406353	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	875	437	8	0
+Corinna Miazga	Corinna Miazga	1720472504912063	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	848	157	21	0
+Friedrich Jeschke	Friedrich Jeschke	603303090083496	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	817	408	8	0
+Freedom4press.de	Alexander Schlesiger	448953542522854	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	814	300	11	0
+LSU in Niedersachsen	LSU in Niedersachsen	219610088525360	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	760	152	15	0
+Jutta Paulus	Jutta Paulus	398641690243628	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	715	357	7	0
+JEF Hessen	JEF - Junge Europäische Föderalisten Landesverband Hessen e.V.	154111581275112	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4	1	680	0	67	0
+Europa Terra Nostra	Europa Terra Nostra e.V.	273074413028074	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4	1	678	133	14	0
+Grüne Neukölln	Georg Bonsiepe	101495919923314	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	654	130	12	0
+I vote Europe		608176689275464	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	628	314	6	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	571	251	1	0
+gimmemore.com		1766066203666578	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	566	283	5	0
+Bosch Global		185652704861747	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	558	111	11	0
+AJC Berlin	AJC Berlin	282637388468069	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	516	200	19	3
+Tiemo Wölken	Tiemo Wölken	1747943185455863	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	499	249	4	0
+BFZ - Bündnis Fürstenwalder Zukunft e.V.	Bündnis Fürstenwalder Zukunft e.V.	578250582267178	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	482	96	9	0
+DEMOCRACY Deutschland	DEMOCRACY Deutschland e.V. 	1453504428281386	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	456	228	4	0
+Weunite	weunite.eu	843723189339313	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	442	200	8	0
+BDI - Bundesverband der Deutschen Industrie	BDI - Bundesverband der Deutschen Industrie	186206440652	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	5	1	430	54	20	0
+CDU Lohmar	CDU Lohmar	870550286426379	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	6	1	424	0	42	0
+Niklas Nienaß	Bündnis 90/Die Grünen Mecklenburg-Vorpommern	2280286458870451	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	415	207	4	0
+Service- und Kompetenzzentrum: Kommunaler Klimaschutz - SK:KK	Service- und Kompetenzzentrum: Kommunaler Klimaschutz (SK:KK) am Deutschen Institut für Urbanistik gGmbH	353503884759841	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	399	58	16	0
+DIE LINKE. Herne / Wanne-Eickel	Patrick Gawliczek	137962769704818	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	4	1	397	48	20	0
+Give Us A Voice Lëtzebuerg		1505184473073824	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	379	189	9	1
+Verein Recht und Freiheit		1162229030454420	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	374	57	14	0
+Birgit Sippel	Birgit Sippel	319398621464329	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	346	69	6	0
+Partei Demokratie Direkt	Lukas Michael Knecht	289988518287493	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	340	68	6	0
+Maria Loheide	Diakonie Deutschland	944393298952238	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	326	55	10	0
+Deutschland Kurier		336677843601760	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	324	64	6	0
+Kommunalwahlen 2019 Ludwigshafen		607737313075178	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	323	0	28	0
+Marco Buschmann	Marco Buschmann	1375993365821383	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	305	61	6	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	303	78	4	0
+A Solution to Plastic Pollution - First International Online Summit		1098001547034272	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	302	151	2	0
+Moritz Körner	Moritz Heimo Körner	448585188519271	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	299	45	11	0
+Ausgewählt.eu		476088266069935	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	289	57	5	0
+Lukas Bimmerle	Lukas Bimmerle	673326593122106	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	285	0	28	0
+Herz der Wirtschaft	Arbeitgeberverband Gesamtmetall	156977237732393	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	284	51	7	0
+Liberal - Konservative Reformer Regionsverband Südbaden		1255716807818192	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	282	56	5	0
+Lena Düpont	Lena Düpont	241903739847716	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	273	47	8	0
+Beautiful underwater world		349842062556508	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	255	51	4	0
+FDP Altona	Freie Demokratische Partei FDP Bezirksverband Altona	603208893090843	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	249	49	4	0
+Deutsche Post	Deutsche Post	485303194814631	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	239	47	4	0
+Sense Mesura		1606564102740842	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	12	1	233	0	23	0
+BLOOMY DAYS	Fleurop.de	151936418263116	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	228	45	4	0
+Gütersloher Verlagshaus		341789431722	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	224	45	4	0
+Nemetschek Stiftung	Nemetschek Stiftung	186375644742050	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	222	90	2	0
+Diether Dehm	Diether Dehm	51091986850	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	211	105	2	0
+Grüne Nordsachsen	Bündnis 90 die Grünen Kreisverband Nordsachsen	661587470556698	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	163	0	16	0
+Phibie v. Aldebaran		447772735582107	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	160	32	3	0
+Familien-Partei Deutschlands		449943065100732	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	119	0	11	0
+Anna Deparnay-Grunenberg für Europa	BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	1819425944973592	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	113	0	11	0
+Piratenpartei Bonn	Piratenpartei	150291295093342	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	111	22	2	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	90	36	0	0
+SPD Region Hannover	Ermana Nurkovic	110715173724	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	88	0	8	0
+Catharina Rinzema		2114625695290780	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	85	17	0	0
+Gert-Uwe Mende	Evelyn Barbara Susanne Otto	2171790612879542	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	78	36	0	0
+Manchester City		208411345454	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	76	38	0	0
+Coffeenewstom		315975755506868	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	73	0	7	0
+Piraten Bezierk Osten		141480992729926	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	71	14	0	0
+Energiewirtschaft einfach	Carsten Eckart 	2314352768828496	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	69	0	6	0
+SPD Berlin	SPD Berlin	134137749971478	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	67	10	2	0
+Miriam Schreiber - Social Media & Digitale Kommunikation	Miriam Erika Schreiber	1589804161093513	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	62	0	6	0
+Volt Luxembourg	Volt Luxembourg	766459183561998	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	61	27	0	0
+Daniel Wald		318396151841792	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	60	0	5	0
+SPD Oranienburg	Matthias Björn Henning	151967014990793	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	60	0	5	0
+Vivant   Ostbelgien	Vivant Ostbelgien	1440393739538888	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	3	1	59	16	0	0
+MOJIITO		125984251502	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	54	0	4	0
+Save The Seas		2203608429682203	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	53	10	1	0
+SPD Bielefeld		131868470238091	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	52	0	5	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	5	1	45	13	0	0
+Grüne Augsburg	BÜNDNIS90/DIE GRÜNEN Stadtverband Augsburg	10150158634595002	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	42	0	4	0
+Gabriela Mirescu		2618888988127707	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	41	20	0	0
+DEUTSCHLANDräumt auf - World CleanUp Day - 21. Sep. 2019	DEUTSCHLANDmacht - Let's Do It! Germany e.V.	584899344998752	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	41	0	4	0
+Oxford Club-Communiqué		2146712002244181	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	41	0	4	0
+FDP Schleswig-Holstein		164131966966839	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	40	0	4	0
+Ulrich Lechte	Ulrich Werner Maria Lechte	259242574566478	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	39	0	3	0
+NPD-Fraktion Wetzlar		293398401003744	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	39	7	0	0
+Gary Diderich	Gary Diderich	73144437219	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	37	7	0	0
+Big News Buzz		125179374733697	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	34	17	0	0
+Free Quran Education		388655174641163	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	32	16	0	0
+Eva Urlitzki Acryl Art		218354455429651	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	27	0	2	0
+Villa Lessing	Villa Lessing - Liberale Stiftung Saar e.V.	124587084403413	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	25	0	2	0
+Stefan Berger	Stefan Berger	279808529194	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	2	1	20	4	0	0
+Alain Mertes	Vivant Ostbelgien	168912413949537	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	15	3	0	0
+ETUC		129041250601685	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	11	2	0	0
+Dr. Peter Liese, MdEP	Dieter Berger	62058563854	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	5	0	0	0
+Minister Harald Mollers	Harald Mollers	1869992013240347	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	5	1	0	0
+Axel Voss	MdEP Axel Voss	165291693567021	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	4	0	0	0
+ÖDP Nordrhein-Westfalen	Ökologisch-Demokratische Partei (ÖDP) NRW	138480036196810	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	3	0	0	0
+Tom MacDonald		212732770186	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	1	0	0	0
+Tokyo Weekender		134654693230171	Facebook	rheinland_pfalz_DE	Rheinland-Pfalz, Germany	1	1	1	0	0	0

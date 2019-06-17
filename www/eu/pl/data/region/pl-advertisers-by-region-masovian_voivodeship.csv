@@ -1,49 +1,150 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	region_code_filter	region_name_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Krzysztof Bosak	Konfederacja KORWiN Braun Liroy Narodowcy	141833139301	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	15	1	187963	39395	699	93
-Michał Boni	KKW Koalicja Europejska PO PSL SLD .N Zieloni	693499534003775	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	3	1	149997	30000	162	23
-Włodzimierz Cimoszewicz. Europa i Konstytucja.	KKW Koalicja Europejska PO PSL SLD .N Zieloni	1945383395767575	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	4	1	110996	25000	487	162
-Prawo i Sprawiedliwość	Komitet Wyborczy Prawo i Sprawiedliwość	157458232131	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	5	1	102940	43488	212	42
-Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	6	1	80455	23594	301	59
-Adam Bielan	Adam Bielan	228951150597089	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	54587	12294	126	23
-Paweł Pudłowski	Selectivv	404295586445224	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	49999	10000	116	23
-Wiosna Biedronia	KW Wiosna Roberta Biedronia	2246647628925721	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	4	1	25980	10629	101	45
-Konfederacja KORWiN Braun Liroy Narodowcy	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1971966879776579	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	19	1	25156	9527	84	22
-Paweł Tanajno	Paweł Jan Tanajno	469702339755768	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	5	1	21995	7000	115	0
-Andrzej Halicki	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	370319116027	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	6	1	21994	4000	138	0
-European Parliament	European Parliament	178362315106	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	15395	6158	153	30
-Jolanta Hibner - polityk	Grzegorz Mrózek	2912819075610107	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	14998	6000	46	0
-Zbigniew Kuźmiuk	Przemysław Balmowski 	286259248181285	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	11329	4165	37	0
-Sebastian Kaleta	KW Prawo i Sprawiedliwość	1643686859194259	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	9999	5000	23	0
-Danuta Hübner	KKW Koalicja Europejska PO SLD PSL .N Zieloni	458440260940195	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	5	1	8995	1000	115	0
-Amnesty International Polska	Amnesty International Polska	57544755889	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	3	1	6081	1437	20	4
-Kamila Gasiuk-Pihowicz	Kamila Gasiuk-PIhowicz KKW Koalicja Europejska PO PSL SLD .N Zieloni	150412465290475	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	5998	1000	46	0
-Dominika Chorosińska	Komitet Wyborczy Prawo i Sprawiedliwość	580557092422382	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	4999	1000	23	0
-Konstanty Radziwiłł	Konstanty Radziwiłł	928240283878303	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	4999	1000	116	23
-Patryk Fajdek	KW Wiosna Roberta Biedronia	396085477167186	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	5	1	4995	0	115	0
-Front Europejski	Medium: agencja reklamowa	590514511295079	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	6	1	4895	1072	14	2
-KUKIZ'15	Komitet Wyborczy Wyborców Kukiz'15	328170794051845	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	20	1	4718	1589	17	2
+Adam Bielan	KW PRAWO I SPRAWIEDLIWOŚĆ	228951150597089	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	50	1	2557769	995953	10131	2766
+Konstanty Radziwiłł	KW PRAWO I SPRAWIEDLIWOŚĆ	928240283878303	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	41	1	2267934	827987	8784	2698
+Krzysztof Bosak	Konfederacja KORWiN Braun Liroy Narodowcy	141833139301	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	59	1	1006964	215533	5667	1485
+Michał Boni	KKW Koalicja Europejska PO PSL SLD .N Zieloni	693499534003775	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	50	1	989950	275000	3803	790
+Włodzimierz Cimoszewicz. Europa i Konstytucja.	KKW Koalicja Europejska PO PSL SLD .N Zieloni	1945383395767575	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	8	1	850992	300000	3510	1674
+Kamila Gasiuk-Pihowicz	Kamila Gasiuk-PIhowicz KKW Koalicja Europejska PO PSL SLD .N Zieloni	150412465290475	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	25	1	686975	155000	2739	860
+Paweł Wojtunik	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N ZIELONI	406777400148454	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	13	1	620604	247745	1039	251
+Stanisław Tyszka - Kukiz'15	Komitet Wyborczy Wyborców KUKIZ15	930978763646427	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	60	1	582940	143000	3149	442
+Paweł Tanajno	Paweł Jan Tanajno	469702339755768	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	18	1	548982	178000	2740	721
+Dariusz Rosati	CommSense	238903929634988	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	11	1	439989	157000	1137	348
+Andrzej Halicki	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	370319116027	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	33	1	407967	99000	2179	418
+Zbigniew Kuźmiuk	Przemysław Balmowski 	286259248181285	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	8	1	351401	106269	664	186
+Jakub Kulesza #NowePokolenie	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1494905190821954	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	5	1	314896	125961	2673	534
+Dominika Chorosińska	Komitet Wyborczy Prawo i Sprawiedliwość	580557092422382	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	3	1	309997	155000	2441	488
+Krzysztof Gawkowski	KW Wiosna Roberta Biedronia	268366156599556	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	3	1	299997	150000	3488	697
+Konfederacja KORWiN Braun Liroy Narodowcy	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1971966879776579	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	60	1	255991	111288	954	228
+Platforma Obywatelska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	102931488739	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	35	1	220623	71804	907	214
+Paweł Pudłowski	Selectivv	404295586445224	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	5	1	209995	45000	929	395
+Sebastian Kaleta	KW Prawo i Sprawiedliwość	1643686859194259	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	5	1	169995	40000	1627	325
+Adam Traczyk	KW Wiosna Roberta Biedronia	385541738945328	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	5	1	164995	36000	720	279
+Jolanta Hibner - polityk	Grzegorz Mrózek	2912819075610107	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	4	1	159996	35000	464	93
+Danuta Hübner	KKW Koalicja Europejska PO SLD PSL .N Zieloni	458440260940195	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	50	1	153950	26000	1151	0
+Patryk Fajdek	KW Wiosna Roberta Biedronia	396085477167186	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	32	1	141198	38446	724	0
+Prawo i Sprawiedliwość	Komitet Wyborczy Prawo i Sprawiedliwość	157458232131	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	31	1	121378	58417	175	39
+Wiosna Biedronia	KW Wiosna Roberta Biedronia	2246647628925721	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	23	1	118656	53359	723	146
+Anna Grodzka	KKW Lewica Razem - Razem, Unia Pracy, RSS	259175827459379	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	4	1	114996	26000	371	69
+Front Europejski	Medium: agencja reklamowa	590514511295079	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	63	1	113948	29485	468	108
+European Parliament	European Parliament	178362315106	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	16	1	112889	48361	595	139
+Agata Witkowska • Kukiz'15	Komitet Wyborczy Wyborców KUKIZ15	268523123751424	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	109998	55000	255	116
+Lidia Sankowska-Grabczuk	Komitet Wyborczy Wyborców KUKIZ15	460952641054841	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	6	1	98596	19553	274	39
+Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	19	1	97322	28008	354	62
+Maciej Małecki	Maciej Małecki 	533251443444200	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	4	1	96629	19126	354	120
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	33	1	91771	19746	709	81
+European Greens	European Greens	141366725876424	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	5	1	82673	39012	513	102
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	8	1	78256	15878	337	87
+Wojciech Kubalewski - Partia Zieloni	KKW Koalicja Europejska PO PSL SLD .N Zieloni	2197489437193415	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	71679	14336	166	33
+Edukacja dla Dobrego Klimatu	Wojciech Makowski	798249970192065	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	24	1	71462	29843	371	96
+Borkowski Łukasz - KUKIZ 15	Komitet Wyborczy Wyborców KUKIZ15	660434801037022	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	5	1	66995	16000	208	23
+KUKIZ'15	Komitet Wyborczy Wyborców Kukiz'15	328170794051845	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	135	1	66741	17997	193	41
+European Commission	European Commission	107898832590939	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	32	1	56507	26301	337	62
+Krytyka Polityczna	Krytyka Polityczna	74863922834	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	3	1	53518	10703	118	23
+Razem	KKW Lewica Razem - Razem, Unia Pracy, RSS	430323810469014	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	20	1	52991	22114	223	46
+K MAG	K MAG	317722036029	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	50964	10193	118	23
+Anna Tarczyńska	KW Wiosna Roberta Biedronia	2162224773873936	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	49999	10000	116	23
+Urszula Sara Zielińska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	505787423224273	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	49999	10000	232	116
+Ewa Głowacka - Kandydat do PE z ramienia SBB, lista Kukiz'15, poz.5	Komitet Wyborczy Wyborców KUKIZ15	2249846945096856	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	11	1	44989	14000	346	23
+Marian Piłka	Komitet Wyborczy Wyborców KUKIZ15	363606376045	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	4	1	42180	8320	125	16
+Gazeta Wyborcza	Gazeta Wyborcza	63563473556	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	78	1	41261	12756	89	13
+Amnesty International Polska	Amnesty International Polska	57544755889	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	9	1	37698	12899	177	61
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	8	1	29231	11252	74	11
+KlimatAlert	Wojciech Makowski	342956762998558	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	14	1	28457	9741	137	28
+Polska Fundacja im. Roberta Schumana	Polska Fundacja im. Roberta Schumana	150617698324166	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	4	1	26090	11218	257	47
+Piotr Ikonowicz	KKW Lewica Razem - Razem, Unia Pracy, RSS	121066958084066	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	3	1	25906	12678	145	31
+Partia Zieloni	KKW Koalicja Europejska PO PSL SLD .N Zieloni	48391402694	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	8	1	25126	9204	131	37
+Magdalena Wojakowska - kandydatka do PE	Komitet Wyborczy Wyborców KUKIZ15	352612782266151	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	5	1	20995	4000	115	0
+MamPrawoWiedziec.pl	Picture Doc Foundation	219298606466	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	7	1	17139	3474	74	0
+Stop Korki na Bałuckiego		204126866871498	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	3	1	10997	2000	69	0
+Krzysztof Jurgiel	Overs sp. z o.o.	465990636788016	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	5	1	10522	2586	26	3
+Filip Pelc	KW Wiosna Roberta Biedronia	1689193481306475	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	9999	5000	116	23
+Pracownicza Demokracja		168540019842341	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	9999	5000	23	0
+Patryk Jaki	KW Prawo i Sprawiedliwość	199877710116314	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	9998	2000	232	46
+Michał Korolko - profil publiczny	KKW Koalicja Europejska PO PSL SLD .N Zieloni (Michał Korolko)	334123340547325	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	15	1	9109	1994	22	4
+Parlament Europejski - Biuro we Wrocławiu	Parlament Europejski - Biuro we Wrocławiu	426735034064813	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	7875	3150	18	3
+Parlament Europejski - Biuro w Polsce	Parlament Europejski - Biuro w Polsce	405326618416	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	23	1	6990	1502	6	0
+Paweł Bejda	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	587380481330698	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	34	1	6621	2478	12	0
+Prawica Rzeczypospolitej	Komitet Wyborczy Wyborców KUKIZ15	262966184846	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	4	1	6173	1226	15	6
+Kurier Ząbkowski	Tomasz Kalata 	1507827496163615	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	5009	1000	23	0
+Exclusive home	Kamila Gburzyńska	277151879830281	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	4999	1000	23	0
+PiS Mazowieckie	lite	312380839407375	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	4999	1000	23	0
+Polski Klub Ekologiczny Koło Miejskie w Gliwicach	Maria Wanda Staniszewska	291839444209363	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	4779	1983	46	11
+Fundacja Czyste Powietrze	Magdalena Strózik 	282404075935482	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	3	1	4486	897	6	1
+Dom Otwarty	Dom Otwarty	649621911846280	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	3507	1753	8	4
+Polonia Semper Fidelis	Polonia Semper Fidelis	155770611655343	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	3081	616	9	3
+Nie Wstydzę Się Jezusa	Nie Wstydzę Się Jezusa	174848285894374	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	3	1	2969	1172	7	2
+Jacek Wilk	KWW Konfederacja Korwin Braun Liroy Narodowcy	499646073441042	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	2606	1303	4	1
+Norbert Kaczmarczyk Poseł na Sejm RP	Kukiz'15 • Posłowie	814991668621838	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	4	1	2435	487	5	1
+Grzegorz Schetyna	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	1077045142306060	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	2037	469	10	4
+Protestuj.pl	Protestuj.pl	450781218391641	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	2015	403	4	0
 Zarabiajwdomu	Piotr Adrian Tyrkalski	1725825690853452	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	1998	0	46	0
-Stop Korki na Bałuckiego		204126866871498	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	1998	0	46	0
-Polski Klub Ekologiczny Koło Miejskie w Gliwicach	Maria Wanda Staniszewska	291839444209363	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	1291	258	2	0
-Maciej Małecki	Maciej Małecki 	533251443444200	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	970	0	22	0
-Nie Wstydzę Się Jezusa	Nie Wstydzę Się Jezusa	174848285894374	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	893	178	2	0
-Michał Korolko - profil publiczny	KKW Koalicja Europejska PO PSL SLD .N Zieloni (Michał Korolko)	334123340547325	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	7	1	820	180	3	0
-Platforma Obywatelska	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	102931488739	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	765	184	1	0
-Norbert Kaczmarczyk Poseł na Sejm RP	Kukiz'15 • Posłowie	814991668621838	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	528	105	0	0
-Parlament Europejski - Biuro w Polsce	Parlament Europejski - Biuro w Polsce	405326618416	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	521	104	0	0
-Jan Olbrycht	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	153098244704447	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	235	117	2	0
-Paweł Bejda	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	587380481330698	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	180	90	0	0
+Plastic Free Polska	Plastic Free Polska	2162232717176151	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	8	1	1574	356	3	0
+adidas		182162001806727	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	1563	312	3	0
+Jarosław Duda	KKW Koalicja Europejska PO PSL SLD .N ZIELONI	100666510056063	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	1380	276	3	0
+Grzegorz Tobiszowski	KW Prawo i Sprawiedliwość	146655395680362	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	1032	206	2	0
+Zabia Wola - Gminą ludzi przedsiębiorczych		488103921327485	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	999	0	23	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	850	170	1	0
+Sojusz Lewicy Demokratycznej - Koalicja Europejska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	137877409609952	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	818	409	1	0
+Aiqulle Fillo		194956887722931	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	3	1	564	0	49	0
+Karol Karski	Komitet Wyborczy Prawa i Sprawiedliwości	612725748801524	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	6	1	516	84	4	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	4	1	507	101	1	0
+Hanna Gill-Piątek	KW Wiosna Roberta Biedronia	1025086447521656	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	478	95	1	0
+Lepiej wybierz	Katarzyna Stańczak	304972010400039	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	8	1	351	77	1	0
+Jan Olbrycht	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	153098244704447	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	3	1	348	174	2	0
+Błękitny Węgiel	Błękitny Węgiel	567066860335135	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	320	64	0	0
+Wiktor Idzikowski	KW Wiosna Roberta Biedronia	340063453455898	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	284	56	1	0
+Ministerstwo Rodziny, Pracy i Polityki Społecznej		380485532115847	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	262	121	0	0
+Zdecentralizowana Rzeczpospolita	Anna Aleksandra Wojciuk	270581597199597	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	222	44	1	0
+Stanisław Żmijan	MarkNeting Sp. z o.o.	436755540466865	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	5	1	185	36	0	0
+Włącz oszczędzanie	Łukasz Tadeusz Pająk	1599655186922126	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	3	1	177	33	0	0
+Lambda Warszawa		38339083373	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	169	84	0	0
 Nomada Stowarzyszenie		114318528622863	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	144	28	0	0
-European Commission	European Commission	107898832590939	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	45	22	0	0
-Monika Falej	KW Wiosna Roberta Biedronia	380133332829228	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	3	1	36	10	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	144	72	0	0
+Fine Dine	Angelika Katarzyna Borysiak	1650498151902140	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	142	28	0	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	20	1	116	36	0	0
+Joanna Skrzydlewska	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	274904002573727	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	109	54	0	0
+Monika Falej	KW Wiosna Roberta Biedronia	380133332829228	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	3	1	102	34	0	0
+Bolesław Piecha - poseł do Parlamentu Europejskiego	Agencja reklamowa NXT	704363502985858	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	86	35	0	0
+Jarosław Rzepa	KKW Koalicja Europejska PO PSL SLD .N Zieloni	187622121427045	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	84	16	0	0
+Krzysztof Brejza	KKW Koalicja Europejska PO PSL SLD .N Zieloni	120766181437537	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	4	1	70	14	0	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	3	1	68	30	0	0
+To ja jestem Polską. Głosuję.		2253325488072521	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	68	0	6	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	5	1	40	13	0	0
+Artur Mazur - Partia Zieloni & Koalicja Europejska	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	172287049543925	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	38	7	0	0
+Renata Caban	Tomasz Mirosław Kowalski	288542178541100	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	3	1	37	7	0	0
 Pracownia Architektury Krajobrazu Anna Zbrzezna		510672049016743	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	30	0	2	0
-Joanna Skrzydlewska	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	274904002573727	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	16	0	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	13	3	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	4	1	10	2	0	0
-Krzysztof Hetman	Krzysztof Hetman KKW Koalicja Europejska PO PSL SLD .N Zieloni	1607487699534202	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	0	0	0	0
+FRU.PL - Bilety Lotnicze i Hotele		166901739910	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	23	0	0	0
+MJZ		529557893749660	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	20	0	0	0
+Bożena Lisowska	Paweł Galewski	1164052730286958	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	20	4	0	0
+Ewa Jeżak	KW Wiosna Roberta Biedronia	1934052153566297	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	18	9	0	0
+Patryk Marjan	Komitet Wyborczy Wyborców Konfederacja Korwin Braun Liroy Narodowcy	1224502281011628	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	5	1	16	3	0	0
+Jacek Wezgraj	KW Wiosna Roberta Biedronia	213293582024781	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	16	0	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	3	1	15	3	0	0
+Skuteczna modlitwa. Przewodnik		2118896628162986	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	13	0	0	0
+Paweł Krutul	Komitet Wyborczy Wiosna Roberta Biedronia	1798798630436202	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	10	0	0	0
+Krzysztof Hetman	Krzysztof Hetman KKW Koalicja Europejska PO PSL SLD .N Zieloni	1607487699534202	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	16	1	8	2	0	0
+Solier nieruchomości	Paulina Olszak	401350997318333	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	6	1	0	0
+Michał Drewnicki - wiceprzewodniczący Rady Miasta Krakowa		561843337248654	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	4	0	0	0
+Anna Krupka	Komitet Wyborczy Prawo i Sprawiedliwość  	130727956973250	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	4	0	0	0
+Filcomp.pl	Paweł Seweryn Pietrusiak	391230480943892	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	3	0	0	0
+CRIF		395919323779707	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	2	1	0	0
+Tomasz Terlecki	KW Wiosna Roberta Biedronia	2272893249704364	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	2	0	0	0
+ANTICLIMBERS		1008414972688083	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	1	0	0	0
+Saaczech		1891172680926309	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	1	0	0	0
+Eurozine		115579498521257	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	1	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	0	0	0	0
+Big News Buzz		125179374733697	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	0	0	0	0
+Europe Thinx		335839580440114	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	0	0	0	0
 Bogusław Sonik	KWW KOALICJA EUROPEJSKA PO PSL SLD .N ZIELONI	75775141409	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	0	0	0	0
-Dr Zbigniew Girzyński	KW Prawo i Sprawiedliwość	195400413904081	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	0	0	0	0
-Krzysztof Brejza	KKW Koalicja Europejska PO PSL SLD .N Zieloni	120766181437537	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	0	0	0	0
+ETUC		129041250601685	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	0	0	0	0
+Aleksandra Knapik Wiosna Biedronia	KW Wiosna Roberta Biedronia	1856463364470576	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	3	1	0	0	0	0
+Beata Mateusiak-Pielucha - Poseł na Sejm RP	Komitet Wyborczy Prawo i Sprawiedliwość	169112936501251	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	0	0	0	0
 Anita Sowińska	KW Wiosna Roberta Biedronia	2154797738169705	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	0	0	0	0
-Joanna Kopcińska	KW Prawo i Sprawiedliowość	1324558754300684	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	0	0	0	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	0	0	0	0
+ITUC		20556338116	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	0	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	0	0	0	0
+Grzegorz Majewski	Grzegorz Piotr Majewski	2199237327027242	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	0	0	0	0
+Joanna Kopcińska	KW Prawo i Sprawiedliowość	1324558754300684	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	0	0	0	0
+Joanna Mucha	KKW Koalicja Europejska PO PSL SLD .N Zieloni	308920973786	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	4	1	0	0	0	0
+Riad Haidar	Marcin Kochnio	258716947488467	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	0	0	0	0
+Dr Zbigniew Girzyński	KW Prawo i Sprawiedliwość	195400413904081	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	2	1	0	0	0	0
+Tom MacDonald		212732770186	Facebook	masovian_voivodeship	Masovian Voivodeship	PL	Poland	1	1	0	0	0	0

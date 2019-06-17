@@ -1,31 +1,120 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Antton Rönnholm	Antton Rönnholm	575908612596562	Facebook	paijat_hame_FI	Päijät-Häme, Finland	5	1	5641	1185	33	0
-European Parliament	European Parliament	178362315106	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	3198	1599	31	15
-Sirpa Pietikäinen	Sirpa Pietikäinen	140188405326	Facebook	paijat_hame_FI	Päijät-Häme, Finland	2	1	2376	599	23	3
-Kristillisdemokraatit	Kristillisdemokraatit	157614802920	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	2211	433	28	3
-Karri Ollila Europarlamenttiin 2019	Karri Ollila	300059733998436	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	677	338	6	0
-Olli Kotro Euroopan parlamenttiin 2019	Kauko Niko Aleksanteri	2211654885785838	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	376	68	10	0
-Irja Sokka Poliitikko	Irja Sokka Poliitikko	689010728162410	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	271	54	5	0
-Arto Luukkanen	Riekkovaara Niko Tapani	1527478777519070	Facebook	paijat_hame_FI	Päijät-Häme, Finland	2	1	249	43	7	0
-Henna Virkkunen	Henna Virkkunen	120537424633927	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	215	43	4	0
-Tuomas Tikkanen	Tikkanen Juho Tuomas	2139907472900957	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	214	42	4	0
+Kokoomus	Kokoomus	201285237101	Facebook	paijat_hame_FI	Päijät-Häme, Finland	27	1	120692	32937	1489	166
+Vasemmistoliitto	Vasemmistoliitto	60390955171	Facebook	paijat_hame_FI	Päijät-Häme, Finland	101	1	71007	20790	833	153
+Perussuomalaiset	Perussuomalaiset	181106108341	Facebook	paijat_hame_FI	Päijät-Häme, Finland	6	1	55153	21907	618	133
+European Greens	European Greens	141366725876424	Facebook	paijat_hame_FI	Päijät-Häme, Finland	8	1	50804	21316	659	131
+Antton Rönnholm	Antton Rönnholm	575908612596562	Facebook	paijat_hame_FI	Päijät-Häme, Finland	41	1	49635	10851	372	39
+European Parliament	European Parliament	178362315106	Facebook	paijat_hame_FI	Päijät-Häme, Finland	16	1	45093	20641	501	125
+Sosialidemokraatit SDP	Sosialidemokraatit SDP	108945982480217	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	37853	10435	330	80
+Vihreät - De Gröna	Vihreät - De Gröna	33722070600	Facebook	paijat_hame_FI	Päijät-Häme, Finland	16	1	37300	17116	216	72
+Anna Mäkipää	Mäkipää Anna Marjatta	410045932385582	Facebook	paijat_hame_FI	Päijät-Häme, Finland	8	1	21028	4703	311	58
+Miapetra Kumpula-Natri	Euroopassa Suomen tähden  / Miapetra Kumpula-Natri	922311201130062	Facebook	paijat_hame_FI	Päijät-Häme, Finland	7	1	20301	8849	108	30
+Henna Virkkunen	Henna Virkkunen	120537424633927	Facebook	paijat_hame_FI	Päijät-Häme, Finland	18	1	19883	7195	212	31
+Satu Jaatinen 216		611696415923639	Facebook	paijat_hame_FI	Päijät-Häme, Finland	6	1	15842	5908	332	62
+Ville Niinistö	Ville Niinistö	153186884700042	Facebook	paijat_hame_FI	Päijät-Häme, Finland	4	1	13904	6911	85	41
+Jouni Kemppainen	Kemppainen Jouni Petteri	387812258475026	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	11589	5293	82	36
+Arto Luukkanen	Riekkovaara Niko Tapani	1527478777519070	Facebook	paijat_hame_FI	Päijät-Häme, Finland	15	1	11362	2495	175	27
+Mikko Ohela	Mikko Ohela	201647537374497	Facebook	paijat_hame_FI	Päijät-Häme, Finland	12	1	10977	2386	66	6
+Elisa Lientola, Vasemmistoliitto	Elisa Lientolan tukiryhmä	1481965412047542	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	10855	2428	240	8
+Tomi Kontkanen	Finlands svenska socialdemokrater	2211545855568908	Facebook	paijat_hame_FI	Päijät-Häme, Finland	6	1	10590	4206	60	9
+Teuvo Hakkarainen	Riekkovaara Niko Tapani	198979100169761	Facebook	paijat_hame_FI	Päijät-Häme, Finland	12	1	10195	2152	103	14
+Pekka Shemeikka	Nokela Matti Juhani Philip	591986911282315	Facebook	paijat_hame_FI	Päijät-Häme, Finland	9	1	9952	2920	90	16
+Sirpa Pietikäinen	Sirpa Pietikäinen	140188405326	Facebook	paijat_hame_FI	Päijät-Häme, Finland	8	1	9881	2023	118	31
+Petri Sarvamaa	Petri Sarvamaa	164624737027350	Facebook	paijat_hame_FI	Päijät-Häme, Finland	11	1	8599	1562	223	11
+Kristillisdemokraatit	Kristillisdemokraatit	157614802920	Facebook	paijat_hame_FI	Päijät-Häme, Finland	5	1	8068	2848	66	11
+Janne Parkkila - Vasemmistoliitto	Janne Parkkilan tukiyhdistys ry	354424931606915	Facebook	paijat_hame_FI	Päijät-Häme, Finland	11	1	7876	2768	91	14
+Suomiduunari	Riekkovaara Niko Tapani	244224963187036	Facebook	paijat_hame_FI	Päijät-Häme, Finland	4	1	6835	2325	59	9
+Mirja Vehkaperä	Vehkaperä Mirja Tellervo	237130593122439	Facebook	paijat_hame_FI	Päijät-Häme, Finland	4	1	6268	1253	30	3
+Matleena Käppi	Matleena Käpin vuoden 2019 vaalien tukiyhdistys	1806983809518838	Facebook	paijat_hame_FI	Päijät-Häme, Finland	6	1	5056	1723	61	3
+Tiina Heikkinen	Heikkinen Tiina Maria	252243572053482	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	4964	2482	124	24
+Satu Taavitsainen	Taavitsainen Satu Johanna	803596373025380	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	4530	1302	76	0
+YOU.and.EU	Nordstrom Laura Helena	250361215678222	Facebook	paijat_hame_FI	Päijät-Häme, Finland	5	1	4228	845	18	0
+Allianssi	Allianssi	189362187761641	Facebook	paijat_hame_FI	Päijät-Häme, Finland	17	1	4186	1178	59	3
+Olli Kotro Euroopan parlamenttiin 2019	Kauko Niko Aleksanteri	2211654885785838	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	4089	935	40	7
+Svenska folkpartiet i Finland - RKP	Svenska folkpartiet i Finland - RKP	191883307265	Facebook	paijat_hame_FI	Päijät-Häme, Finland	14	1	3962	870	15	1
+Jukka Linna	Jukka Linnan tukiyhdistys	2313503042310251	Facebook	paijat_hame_FI	Päijät-Häme, Finland	6	1	3791	758	53	8
+Miikka Keränen	Keranen Miikka Markus	126768630726940	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	3529	1719	48	18
+Tuomas Tikkanen	Tikkanen Juho Tuomas	2139907472900957	Facebook	paijat_hame_FI	Päijät-Häme, Finland	2	1	3386	677	33	6
+Elsi Katainen	Katainen Elsi Kaarina	190042298268350	Facebook	paijat_hame_FI	Päijät-Häme, Finland	2	1	3305	661	32	6
+Karri Ollila Europarlamenttiin 2019	Karri Ollila	300059733998436	Facebook	paijat_hame_FI	Päijät-Häme, Finland	4	1	3138	1213	58	9
+Anna Sirkiä	Anna Sirkiä	115751458577078	Facebook	paijat_hame_FI	Päijät-Häme, Finland	18	1	2961	531	138	0
+Eurooppalainen Suomi ry	Eurooppalainen Suomi ry	163903613685550	Facebook	paijat_hame_FI	Päijät-Häme, Finland	2	1	2944	588	17	2
+Kokoomusnuoret	Kokoomusnuoret	28469960111	Facebook	paijat_hame_FI	Päijät-Häme, Finland	2	1	2724	544	27	5
+Kimmo Sasi	Sasi Kimmo Kalevi Immeri	311253592006	Facebook	paijat_hame_FI	Päijät-Häme, Finland	5	1	2656	638	49	7
+Mikkel Näkkäläjärvi	Nakkalajarvi Mikkel Antte Iisakki	617733068345315	Facebook	paijat_hame_FI	Päijät-Häme, Finland	4	1	2467	638	27	3
+Aura Salla	Salla Aura Maria	357502994332188	Facebook	paijat_hame_FI	Päijät-Häme, Finland	6	1	2460	725	20	0
+Susanna Kisner	Susanna Kisnerin tukiryhmä	1569715913292949	Facebook	paijat_hame_FI	Päijät-Häme, Finland	7	1	2281	634	53	8
+Leena Zittling - Eurovaaliehdokas 2019 - KOK	Miettinen Pasi Olavi	804330503290879	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	1989	397	19	3
+Petteri Orpo	Kokoomus	154256701288026	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	1945	389	19	3
+Kaisa Penny	Kaisa Penny	259256970891807	Facebook	paijat_hame_FI	Päijät-Häme, Finland	4	1	1883	444	22	2
+Perussuomalaiset Nuoret		133551219988558	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	1797	359	17	3
+Suomen Lähetysseura	Suomen Lähetysseura	8265674748	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	1795	359	3	0
+Matilda af Hällström	af Hällström Matilda Linnea Alice	430195364409025	Facebook	paijat_hame_FI	Päijät-Häme, Finland	2	1	1774	887	17	7
+Hans Adolf Ehrnrooth	Turvallinen ja vakaa Eurooppa ry	747915358921075	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	1688	337	16	3
+BirdLife Suomi		254403722807	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	1687	337	16	3
+Vihreät nuoret	Vihreät nuoret	362064961211	Facebook	paijat_hame_FI	Päijät-Häme, Finland	15	1	1549	358	46	0
+Max Schulman	Svenska folkpartiet i Finland - RKP	2186035071663314	Facebook	paijat_hame_FI	Päijät-Häme, Finland	2	1	1523	304	15	3
+Simo Grönroos	Gronroos Simo Juhani	445988248775782	Facebook	paijat_hame_FI	Päijät-Häme, Finland	2	1	1454	291	15	2
+Trasek ry	Trasek ry	384673691545854	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	1426	285	2	0
+European Commission	European Commission	107898832590939	Facebook	paijat_hame_FI	Päijät-Häme, Finland	21	1	1360	652	6	0
+Petra Schulze Steinen	Schulze-Steinen Petra Elina Marjatta	266912807301110	Facebook	paijat_hame_FI	Päijät-Häme, Finland	11	1	1308	213	43	0
+Nils Torvalds	Nils Torvalds	343089085765596	Facebook	paijat_hame_FI	Päijät-Häme, Finland	11	1	1284	485	19	0
+Piia Kurki	Piia Kurki	270567833058986	Facebook	paijat_hame_FI	Päijät-Häme, Finland	7	1	1261	445	38	3
+Sonja Falk	Falk Mika Tapio	164696826881379	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	1200	600	59	12
+Kimmo Kautio - Kokoaan Suurempi Suomi	Kautio Kimmo Jaakko Tapio	315479585304528	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	856	171	16	0
+Irja Sokka Poliitikko	Irja Sokka Poliitikko	689010728162410	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	839	285	12	0
+Jussi Nurmi	Nurmi Jussi Tapio	1895217903938885	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	825	370	25	3
+Feministinen puolue	Feministinen puolue	246435052396654	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	796	193	4	0
+Greenpeace Suomi	Greenpeace Suomi	9227859351	Facebook	paijat_hame_FI	Päijät-Häme, Finland	9	1	794	129	27	0
+Niko Eskelinen poliitikko	Eskelinen Niko Olavi	1337176579662419	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	761	152	15	0
+Janne Kaisanlahti	Kaisanlahti Janne Kalervo	309381625805373	Facebook	paijat_hame_FI	Päijät-Häme, Finland	4	1	569	107	13	0
+Silja Keränen	Silja Keräsen tukiryhmä	159315454207327	Facebook	paijat_hame_FI	Päijät-Häme, Finland	6	1	565	90	19	0
+Finnwatch	Finnwatch	127195574005414	Facebook	paijat_hame_FI	Päijät-Häme, Finland	4	1	539	207	11	0
+Olli-Pekka Nyberg	NYBERG OLLI-PEKKA	291483185114189	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	525	105	10	0
+Paula Aikio-Tallgren EU-vaaliehdokas	Pohjoisen asian osaajat ry	510346432432044	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	500	188	8	0
+Henrik Wickström	Wickström 2019	448116415229902	Facebook	paijat_hame_FI	Päijät-Häme, Finland	6	1	480	91	11	0
+Filip Björklöf	Filip Björklöfs understödsförening	432450826819256	Facebook	paijat_hame_FI	Päijät-Häme, Finland	7	1	455	104	7	0
+Radio Dei	Radio Dei	106745452698752	Facebook	paijat_hame_FI	Päijät-Häme, Finland	2	1	454	90	9	0
+Vasemmistonuoret	Vasemmistonuoret	302480422335	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	440	88	8	0
+Elsi Ranta	Ranta Elsi Inkeri	544178606104826	Facebook	paijat_hame_FI	Päijät-Häme, Finland	5	1	414	63	16	0
+Teuvo Hatva - eurovaaliehdokas	Maury Aino Maija	948715928850182	Facebook	paijat_hame_FI	Päijät-Häme, Finland	2	1	376	75	7	0
+Yannick Lahti	Lahti Yannick Duncan Olavi	1779172592405294	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	368	73	7	0
+Tero Hannula		350628269116805	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	321	59	8	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	paijat_hame_FI	Päijät-Häme, Finland	9	1	319	137	0	0
+SLC	SLC r.f.	126812894035597	Facebook	paijat_hame_FI	Päijät-Häme, Finland	5	1	287	93	3	0
+Minna Karvonen		311176426363089	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	279	139	2	0
+Sean Bergenheim	Svenska folkpartiet i Finland - RKP	266603130709392	Facebook	paijat_hame_FI	Päijät-Häme, Finland	2	1	270	135	13	2
+Ida-Maria Skytte	Skytte Sofia Ida-Maria	1854582881493142	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	261	130	2	0
+Kaksin - Tvåsamhet	Kaksin - Tvåsamhet	2110443792388818	Facebook	paijat_hame_FI	Päijät-Häme, Finland	9	1	255	59	6	0
 Tekniikan Maailma	Rainisto Sami Pasi Kalevi	309780042465696	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	208	41	4	0
-Mikkel Näkkäläjärvi	Nakkalajarvi Mikkel Antte Iisakki	617733068345315	Facebook	paijat_hame_FI	Päijät-Häme, Finland	2	1	206	30	8	0
-Mikko Ohela	Mikko Ohela	201647537374497	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	189	38	3	0
-Perussuomalaiset	Perussuomalaiset	181106108341	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	184	36	3	0
 Miikka-Markus Leskinen europarlamenttiin	Leskinen Miikka-Markus	1964589417153542	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	183	36	1	0
-Matleena Käppi	Matleena Käpin vuoden 2019 vaalien tukiyhdistys	1806983809518838	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	170	34	3	0
-Äänioikeus.fi		753565071658403	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	160	32	3	0
-Paula Aikio-Tallgren EU-vaaliehdokas	Pohjoisen asian osaajat ry	510346432432044	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	149	29	2	0
-Kaisa Penny	Kaisa Penny	259256970891807	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	142	28	2	0
-Anna Sirkiä	Anna Sirkiä	115751458577078	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	90	18	1	0
-Petra Schulze Steinen	Schulze-Steinen Petra Elina Marjatta	266912807301110	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	78	4	5	0
-Eurooppalainen Suomi ry	Eurooppalainen Suomi ry	163903613685550	Facebook	paijat_hame_FI	Päijät-Häme, Finland	2	1	56	0	5	0
-Allianssi	Allianssi	189362187761641	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	51	0	5	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	paijat_hame_FI	Päijät-Häme, Finland	15	1	176	72	0	0
+Helena Marttila	Uudenmaan Sosialidemokraatit ry	373811376519125	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	162	32	3	0
+Tommi Aalto		650991871774294	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	161	32	3	0
+Äänioikeus.fi		753565071658403	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	159	31	3	0
+Asseri Kinnunen	Kinnunen Henri Asseri	1159967857373678	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	105	21	2	0
+Frida Sigfrids	Svenska folkpartiet i Finland - RKP	1506788009337272	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	102	20	2	0
+Kaakkois-Suomen Sosialidemokraatit	Kaakkois-Suomen Sosialidemokraatit ry	648135815208333	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	94	18	1	0
+Svensk Ungdom - RKP-nuoret	Svensk Ungdom - RKP-nuoret	172659206933	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	89	44	0	0
+Silja Borgarsdóttir Sandelin	Svenska folkpartiet i Finland - RKP	145265965535213	Facebook	paijat_hame_FI	Päijät-Häme, Finland	2	1	80	16	2	0
+Jussi Mäkipelto - Eurovaaliehdokas 105 - Liberaalipuolue	Makipel To Jussi Markus	1057558317751103	Facebook	paijat_hame_FI	Päijät-Häme, Finland	2	1	75	0	7	0
+VIKES Viestintä ja kehitys -säätiö	Viestintä ja kehitys -säätiö	381290523932	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	66	13	1	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	57	28	0	0
+Heidi Hautala		116940668479201	Facebook	paijat_hame_FI	Päijät-Häme, Finland	2	1	48	0	4	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	paijat_hame_FI	Päijät-Häme, Finland	3	1	47	23	0	0
+Stina Wahlsten	Wahlsten Stina Sofia	247410845719596	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	43	8	0	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	paijat_hame_FI	Päijät-Häme, Finland	2	1	42	4	3	0
 Riku Eskelinen	Riku Eskelisen eurovaalien tukiyhdistys Herttoniemen Keskustaseura ry	312837175579728	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	36	0	3	0
-Olli-Pekka Nyberg	NYBERG OLLI-PEKKA	291483185114189	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	31	0	3	0
-Henrik Wickström	Wickström 2019	448116415229902	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	24	0	2	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	8	4	0	0
-European Commission	European Commission	107898832590939	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	7	3	0	0
-Pekka Shemeikka	Nokela Matti Juhani Philip	591986911282315	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	5	1	0	0
-Filip Björklöf	Filip Björklöfs understödsförening	432450826819256	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	2	0	0	0
+Makuja Järvikylästä		457310120990526	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	36	0	3	0
+Anton Nilsson	Betalt av stödföreningen för Anton Nilsson	290501338278566	Facebook	paijat_hame_FI	Päijät-Häme, Finland	9	1	28	6	0	0
+Maailman Kuvalehti	Fingo ry - Suomalaiset kehitysjärjestöt	245967315440131	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	27	0	2	0
+Ramieza Mahdi	Mahdi Ramieza Abdirahman Mohamed	268670670234757	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	20	0	2	0
+University of Helsinki	University of Helsinki	200739723082	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	10	0	1	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	8	4	0	0
+Svenska Kvinnoförbundet	Svenska folkpartiet i Finland - RKP	388661630444	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	5	1	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	4	0	0	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	3	1	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	2	1	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	1	0	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	1	0	0	0
+Veli Liikanen		176972545646377	Facebook	paijat_hame_FI	Päijät-Häme, Finland	1	1	1	0	0	0

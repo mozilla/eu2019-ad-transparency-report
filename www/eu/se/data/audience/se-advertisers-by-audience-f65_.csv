@@ -1,97 +1,447 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Moderaterna	Moderaterna	7719591155	Facebook	f65_	female (65+)	SE	Sweden	20	1	84787	29959	1098	264
-European Parliament	European Parliament	178362315106	Facebook	f65_	female (65+)	SE	Sweden	1	1	36791	18395	183	36
-Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	f65_	female (65+)	SE	Sweden	4	1	15841	3341	178	42
-Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	f65_	female (65+)	SE	Sweden	8	1	15749	4745	301	72
-Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	f65_	female (65+)	SE	Sweden	1	1	14481	7240	335	67
-ActionAid Sweden	ActionAid Sweden	18880778360	Facebook	f65_	female (65+)	SE	Sweden	2	1	8644	1729	80	16
-Liberalerna Stockholm	Liberalerna Stockholm	682180208473039	Facebook	f65_	female (65+)	SE	Sweden	5	1	5963	1192	11	5
-Eric Luth	Eric Luth – Centerpartiet	757931234599499	Facebook	f65_	female (65+)	SE	Sweden	2	1	4744	1921	163	32
-Moderaterna i Örebro län	Moderaterna i Örebro län	1622018661360930	Facebook	f65_	female (65+)	SE	Sweden	5	1	4431	886	54	19
-Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	f65_	female (65+)	SE	Sweden	3	1	4363	1303	23	9
-Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	f65_	female (65+)	SE	Sweden	3	1	4326	1443	120	29
-Centerpartiet Gotland	Ahlin Siv Eva Marie	513330082107760	Facebook	f65_	female (65+)	SE	Sweden	3	1	2800	560	25	5
-Socialdemokraterna Västmanland	Socialdemokraterna Västmanland	439408222749809	Facebook	f65_	female (65+)	SE	Sweden	2	1	2753	550	12	4
-Sverigedemokraterna Kalmar län	Kotanen Mika Erik	117200235024372	Facebook	f65_	female (65+)	SE	Sweden	13	1	2623	616	17	2
-Sverigedemokraterna Värmlands län	Grahn Mats Andreas Johnny	336384546384299	Facebook	f65_	female (65+)	SE	Sweden	2	1	2338	1078	21	9
-Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	f65_	female (65+)	SE	Sweden	9	1	2336	291	17	1
-Socialdemokraterna i Skåne	Socialdemokraterna i Skåne	102414309949126	Facebook	f65_	female (65+)	SE	Sweden	3	1	2141	997	19	9
-Miljöpartiet de gröna i Örebro län	Miljöpartiet de gröna i Örebro län	518485684936538	Facebook	f65_	female (65+)	SE	Sweden	1	1	1990	398	18	3
-Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	f65_	female (65+)	SE	Sweden	2	1	1690	338	7	1
-Liberalerna Luleå	Liberalerna Luleå	588513591196975	Facebook	f65_	female (65+)	SE	Sweden	3	1	1668	212	15	1
-Socialdemokraterna Värmdö - Framtidspartiet	Nygren Linda Elisabet	217897918243937	Facebook	f65_	female (65+)	SE	Sweden	1	1	1435	287	13	2
-LO-distriktet i Västsverige	LO-distriktet i Västsverige	213326548681872	Facebook	f65_	female (65+)	SE	Sweden	2	1	1269	206	11	1
-Moderaterna i Mölndal	Brown Stjarna Amanda Charlotte	125396154314182	Facebook	f65_	female (65+)	SE	Sweden	1	1	1184	236	10	2
-Fredrick Federley	Fredrick Federley	189892183097	Facebook	f65_	female (65+)	SE	Sweden	1	1	1156	231	10	2
-Kristdemokraterna Fyrbodal	Kristdemokraterna i VGN	1764033887144522	Facebook	f65_	female (65+)	SE	Sweden	1	1	1118	223	2	0
-Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	f65_	female (65+)	SE	Sweden	2	1	1084	216	10	2
-Moderaterna i Region Västmanland	Moderaterna Västmanland	161086337290646	Facebook	f65_	female (65+)	SE	Sweden	1	1	1057	211	9	1
-Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	f65_	female (65+)	SE	Sweden	1	1	1022	204	9	1
-Conny Brännberg	Brannberg Conny Ruben	656908278084235	Facebook	f65_	female (65+)	SE	Sweden	1	1	1015	203	9	1
-Karin Östring Bergman / Centerpartiet	Ostring Bergman Karin Maria	95356393777	Facebook	f65_	female (65+)	SE	Sweden	1	1	1012	202	9	1
+Moderaterna	Moderaterna	7719591155	Facebook	f65_	female (65+)	SE	Sweden	140	1	974026	383587	17861	4383
+Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	f65_	female (65+)	SE	Sweden	39	1	550800	236274	7131	2483
+Socialdemokraterna	Socialdemokraterna	8040892957	Facebook	f65_	female (65+)	SE	Sweden	60	1	482954	193641	13281	2897
+Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	f65_	female (65+)	SE	Sweden	124	1	482836	162272	8741	2742
+European Parliament	European Parliament	178362315106	Facebook	f65_	female (65+)	SE	Sweden	18	1	328722	151486	2084	763
+Valmyndigheten	Valmyndigheten	1737852076287450	Facebook	f65_	female (65+)	SE	Sweden	55	1	315138	138470	2066	553
+Centerpartiet	Centerpartiet	12690894340	Facebook	f65_	female (65+)	SE	Sweden	24	1	289043	113052	4200	1499
+Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	f65_	female (65+)	SE	Sweden	29	1	257710	76727	2291	807
+Plan International Sverige	Plan International Sverige	382243262003	Facebook	f65_	female (65+)	SE	Sweden	31	1	186672	76151	1619	467
+Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	f65_	female (65+)	SE	Sweden	40	1	147988	37848	2469	866
+SSU	SSU	45101268520	Facebook	f65_	female (65+)	SE	Sweden	4	1	113451	52668	1783	487
+Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	f65_	female (65+)	SE	Sweden	11	1	91816	39500	1826	418
+Tomas Tobé	Moderaterna	1829725353928210	Facebook	f65_	female (65+)	SE	Sweden	35	1	89719	24757	1710	373
+Vänsterpartiet	Vänsterpartiet	323156205347	Facebook	f65_	female (65+)	SE	Sweden	28	1	89688	22866	650	165
+Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	f65_	female (65+)	SE	Sweden	17	1	85590	28777	1461	370
+Liberalerna Stockholm	Liberalerna Stockholm	682180208473039	Facebook	f65_	female (65+)	SE	Sweden	37	1	84987	20805	901	204
+LO Sverige	LO Sverige	163820136238	Facebook	f65_	female (65+)	SE	Sweden	3	1	77425	32684	1330	266
+Magnus Thulin - Centerpartiet	Thulin Magnus Nils Oscar	161302754576832	Facebook	f65_	female (65+)	SE	Sweden	13	1	64954	13259	698	184
+Sverigedemokraterna Värmlands län	Sverigedemokraterna Värmlands län	336384546384299	Facebook	f65_	female (65+)	SE	Sweden	9	1	63321	12629	724	224
+Socialdemokraterna i Stockholm	Socialdemokraterna i Stockholm	117056501654820	Facebook	f65_	female (65+)	SE	Sweden	14	1	62624	28204	1174	314
+Vänsterpartiet Göteborg	Vänsterpartiet Göteborg	175873745789190	Facebook	f65_	female (65+)	SE	Sweden	7	1	58089	22264	654	130
+Operation Smile Sverige	Operation Smile Sverige	161213770567846	Facebook	f65_	female (65+)	SE	Sweden	24	1	57300	12902	500	105
+Socialdemokraterna Västmanland	Socialdemokraterna Västmanland	439408222749809	Facebook	f65_	female (65+)	SE	Sweden	7	1	49266	11917	504	103
+Kristdemokraterna i Dalarna	Kristdemokraterna Dalarna	321670347944266	Facebook	f65_	female (65+)	SE	Sweden	25	1	44660	10725	1038	226
+Jörgen Warborn EU-kandidat	Moderaterna	56002955332	Facebook	f65_	female (65+)	SE	Sweden	14	1	44037	11386	720	153
+Moderaterna i Örebro län	Moderaterna i Örebro län	1622018661360930	Facebook	f65_	female (65+)	SE	Sweden	11	1	43711	9163	594	158
+David Lega	Kristdemokraterna	251829904829983	Facebook	f65_	female (65+)	SE	Sweden	7	1	42224	9380	506	101
+Socialdemokraterna i Skåne	Socialdemokraterna i Skåne	102414309949126	Facebook	f65_	female (65+)	SE	Sweden	14	1	38219	9882	518	139
+Fredrick Federley	Fredrick Federley	189892183097	Facebook	f65_	female (65+)	SE	Sweden	5	1	37124	13541	297	88
+Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	f65_	female (65+)	SE	Sweden	26	1	36897	10373	573	145
+Nya Moderaterna i Kalmar län	Hemgard Lars Peter	159513904100440	Facebook	f65_	female (65+)	SE	Sweden	6	1	36322	7264	336	67
+Feministiskt initiativ	Feministiskt initiativ	112513375470294	Facebook	f65_	female (65+)	SE	Sweden	2	1	35357	7071	1387	277
+Diakonia	Diakonia	42676805259	Facebook	f65_	female (65+)	SE	Sweden	13	1	35087	9941	254	60
+Henrik Sundström - M	Sundström Claes Henrik	180745369170	Facebook	f65_	female (65+)	SE	Sweden	10	1	32997	7442	204	64
+Stefan Löfven	Socialdemokraterna	329885883718979	Facebook	f65_	female (65+)	SE	Sweden	1	1	32720	13088	1212	606
+Miljöpartiet de gröna i Örebro län	Miljöpartiet de gröna i Örebro län	518485684936538	Facebook	f65_	female (65+)	SE	Sweden	7	1	32031	7286	299	69
+Vi-skogen	Vi-skogen	356032977210	Facebook	f65_	female (65+)	SE	Sweden	2	1	30259	6051	280	56
+Gustav Hemming	Gustav Hemming (Centerpartiet)	722853564439941	Facebook	f65_	female (65+)	SE	Sweden	9	1	28394	8014	555	110
+Djurens parti	Eriksson Monica Maria Therese	207364469446997	Facebook	f65_	female (65+)	SE	Sweden	3	1	27955	6289	248	49
+Liberalerna Västsverige	Liberalerna Västsverige	106102553268601	Facebook	f65_	female (65+)	SE	Sweden	6	1	27447	7509	407	172
+Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	f65_	female (65+)	SE	Sweden	10	1	26716	5779	223	59
+Karin Karlsbro - Liberalerna.	Liberalerna	559163754139097	Facebook	f65_	female (65+)	SE	Sweden	8	1	26368	8600	602	144
+Centerpartiet Gotland	Ahlin Siv Eva Marie	513330082107760	Facebook	f65_	female (65+)	SE	Sweden	7	1	24971	6224	184	51
+Sverigedemokraterna Region Stockholm	SD Stockholm	1729304067391998	Facebook	f65_	female (65+)	SE	Sweden	10	1	24379	5183	235	55
+Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	f65_	female (65+)	SE	Sweden	5	1	23097	5082	270	54
+Miljöpartiet de gröna i Örebro	Miljöpartiet de gröna i Örebro	149671858392184	Facebook	f65_	female (65+)	SE	Sweden	9	1	23079	5443	889	184
+Vänsterpartiet Uppsala län	Bergegardh Hans Andreas Abe	326729237396677	Facebook	f65_	female (65+)	SE	Sweden	7	1	22306	4774	269	58
+En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	f65_	female (65+)	SE	Sweden	21	1	22033	4919	152	38
+Sverige för UNHCR	Viva Media	643137272398136	Facebook	f65_	female (65+)	SE	Sweden	3	1	22002	10963	361	72
+Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	f65_	female (65+)	SE	Sweden	31	1	21812	4943	180	40
+Sverigedemokraterna Kalmar län	Kotanen Mika Erik	117200235024372	Facebook	f65_	female (65+)	SE	Sweden	17	1	21563	5229	79	29
+Skiftet	Skiftet	100650935646	Facebook	f65_	female (65+)	SE	Sweden	6	1	20943	4513	156	37
+Liberalerna	Liberalerna	132266740623	Facebook	f65_	female (65+)	SE	Sweden	12	1	20557	5349	645	135
+Jordens Vänner / Friends of the Earth Sweden	Jordens Vänner / Friends of the Earth Sweden	207890945895422	Facebook	f65_	female (65+)	SE	Sweden	9	1	20190	8071	80	17
+Svenskt Näringsliv	Svenskt Näringsliv	90882504375	Facebook	f65_	female (65+)	SE	Sweden	4	1	20053	8698	384	80
+Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	f65_	female (65+)	SE	Sweden	10	1	19515	4532	247	77
+Socialdemokraterna Örebro kommun	Nerelius Carin Isabelle	223141487866750	Facebook	f65_	female (65+)	SE	Sweden	11	1	19281	4830	284	59
+Allan Widman	Liberalerna	540799486089503	Facebook	f65_	female (65+)	SE	Sweden	2	1	18999	5783	420	84
+Eric Luth	Eric Luth – Centerpartiet	757931234599499	Facebook	f65_	female (65+)	SE	Sweden	3	1	18845	5220	238	56
+Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	f65_	female (65+)	SE	Sweden	7	1	18460	4247	374	78
+Ydrenäs4EU	Ydrenas Hans Rickard	1538819782888095	Facebook	f65_	female (65+)	SE	Sweden	6	1	17955	3559	166	32
+Socialdemokraterna Solna	Socialdemokraterna i Solna	286987014656068	Facebook	f65_	female (65+)	SE	Sweden	10	1	17379	3013	193	36
+Moderaterna i Kävlinge	Bengtsson Patrik Mikael	108304136037279	Facebook	f65_	female (65+)	SE	Sweden	4	1	17222	3389	144	30
+Kristdemokraterna Fyrbodal	Kristdemokraterna i VGN	1764033887144522	Facebook	f65_	female (65+)	SE	Sweden	20	1	16954	5114	434	111
+Annie Lööf	Centerpartiet	118943054880945	Facebook	f65_	female (65+)	SE	Sweden	6	1	16681	3612	71	23
+Hungerprojektet	Hungerprojektet	212049035488183	Facebook	f65_	female (65+)	SE	Sweden	2	1	16581	3316	159	35
+KDU Sverige	KDU Sverige	177549278946958	Facebook	f65_	female (65+)	SE	Sweden	8	1	16193	4524	281	58
+Jessica Polfjärd	Moderaterna	337086006951883	Facebook	f65_	female (65+)	SE	Sweden	5	1	16097	5042	385	76
+Miljöpartiet de gröna i Växjö	Miljöpartiet de gröna i Växjö	115219002018409	Facebook	f65_	female (65+)	SE	Sweden	8	1	15966	3990	220	48
+Miljöpartiet de gröna Jämtland Härjedalen	Miljöpartiet de gröna Jämtland/Härjedalen	573954772674425	Facebook	f65_	female (65+)	SE	Sweden	4	1	15863	4751	341	68
+Zandra Pettersson SD politiker	Pettersson Zandra Margareta	1731576980266356	Facebook	f65_	female (65+)	SE	Sweden	6	1	15800	3566	216	52
+Centerpartiet Västra Götaland	Centerpartiet	199121803446165	Facebook	f65_	female (65+)	SE	Sweden	5	1	15173	2892	140	26
+Kristdemokraterna Helsingborg	Lindholm 	119710274891528	Facebook	f65_	female (65+)	SE	Sweden	8	1	15067	3560	155	46
+Moderaterna i Värmland	Moderaterna i Värmland	1458035847741432	Facebook	f65_	female (65+)	SE	Sweden	3	1	15028	3005	139	27
+Vänsterpartiet Gävleborg	Vänsterpartiet Gävleborg	137604056369425	Facebook	f65_	female (65+)	SE	Sweden	4	1	14956	2991	152	39
+Miljöpartiet de gröna i Värmland	Miljöpartiet de gröna i Värmland	325179334216792	Facebook	f65_	female (65+)	SE	Sweden	3	1	14856	6742	624	137
+Liberalerna Malmö	Karlson Christoffer Johan	109988009048564	Facebook	f65_	female (65+)	SE	Sweden	9	1	14638	2832	216	81
+Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	f65_	female (65+)	SE	Sweden	14	1	14620	5389	141	54
+European Commission	European Commission	107898832590939	Facebook	f65_	female (65+)	SE	Sweden	9	1	14266	2889	141	28
+Socialdemokraterna i Helsingborg	Socialdemokraterna Helsingborg	303070626373544	Facebook	f65_	female (65+)	SE	Sweden	13	1	13038	3424	172	52
+Maria Weimer	Weimer Maria Eva Margareta	467374630087356	Facebook	f65_	female (65+)	SE	Sweden	16	1	12890	4985	448	100
+Kristdemokraterna Täby	Kristdemokraterna Täby	500140550093378	Facebook	f65_	female (65+)	SE	Sweden	20	1	12736	3819	244	53
+ABF	ABF	80386149597	Facebook	f65_	female (65+)	SE	Sweden	2	1	12572	6286	64	17
+Nyheter i Västerbotten	Bergstrom Carl Erik Anton	1400334680268097	Facebook	f65_	female (65+)	SE	Sweden	2	1	12474	2494	115	23
+Socialdemokraterna i Malmö	Socialdemokraterna i Malmö	133148933394485	Facebook	f65_	female (65+)	SE	Sweden	9	1	12277	2775	124	25
+Centerkvinnorna i Göteborg	Ostring Bergman Karin Maria	170111706526814	Facebook	f65_	female (65+)	SE	Sweden	3	1	12243	6122	341	85
+Botkyrka kommun	Botkyrka kommun	313066622056883	Facebook	f65_	female (65+)	SE	Sweden	2	1	12069	6034	168	62
+Liberalerna Stenungsund	Emerse	635481149919229	Facebook	f65_	female (65+)	SE	Sweden	15	1	11977	2868	58	14
+Socialdemokraterna i Södertälje	Socialdemokraterna i Södertälje	114736451897793	Facebook	f65_	female (65+)	SE	Sweden	9	1	11820	2278	399	97
+Socialdemokraterna Gotland	Andersson Charlotte Kristina	182610765125197	Facebook	f65_	female (65+)	SE	Sweden	1	1	11349	2269	105	21
+ActionAid Sweden	ActionAid Sweden	18880778360	Facebook	f65_	female (65+)	SE	Sweden	9	1	11299	2662	111	29
+Miljöpartiet de Gröna i Västerbotten	Lemontzis Sofie Olga	70208617833	Facebook	f65_	female (65+)	SE	Sweden	1	1	11235	5617	520	104
+CIVIL RIGHTS DEFENDERS	CIVIL RIGHTS DEFENDERS	128452220525979	Facebook	f65_	female (65+)	SE	Sweden	1	1	10999	2199	203	101
+Kristdemokraterna Västerbotten	Kristdemokraterna Västerbotten	414156238684191	Facebook	f65_	female (65+)	SE	Sweden	14	1	10736	2679	199	45
+Miljöpartiet de gröna i Katrineholm	Miljöpartiet de gröna i Katrineholm	744040148974429	Facebook	f65_	female (65+)	SE	Sweden	10	1	10328	2995	175	41
+Centerpartiet i Skåne	Centerpartiet i Skåne	109030109129243	Facebook	f65_	female (65+)	SE	Sweden	2	1	10267	4922	101	50
+Olof Palme International Center	Olof Palme International Center	62185934430	Facebook	f65_	female (65+)	SE	Sweden	3	1	10203	5102	84	39
+Kristdemokraterna Sundsvall	Kristdemokraterna Sundsvall	1017885421625799	Facebook	f65_	female (65+)	SE	Sweden	2	1	9895	2455	150	30
+Kristdemokraterna i Sollentuna	Nyman Lars Thomas	242233339297081	Facebook	f65_	female (65+)	SE	Sweden	15	1	9871	1481	98	15
+Liberalerna Värmland	Liberalerna Värmland	201659616523774	Facebook	f65_	female (65+)	SE	Sweden	6	1	9661	2100	40	11
+LO-distriktet i Västsverige	LO-distriktet i Västsverige	213326548681872	Facebook	f65_	female (65+)	SE	Sweden	8	1	9639	2711	99	30
+Socialdemokraterna i Borås	Socialdemokraterna i Borås	104604012928735	Facebook	f65_	female (65+)	SE	Sweden	6	1	9567	1918	88	17
+Emma Wiesner	Emma Wiesner (Centerpartiet)	653072158104424	Facebook	f65_	female (65+)	SE	Sweden	6	1	9558	1895	88	17
+Moderaterna i Norrbotten	Moderaterna Norrbotten	195594843916366	Facebook	f65_	female (65+)	SE	Sweden	16	1	9313	2020	179	47
+Arba Kokalari	Moderaterna i Stockholms stad och län	355819811185620	Facebook	f65_	female (65+)	SE	Sweden	3	1	9312	1862	39	11
+Gröna Studenter	Almén Henrik Carl Olof	31779071967	Facebook	f65_	female (65+)	SE	Sweden	5	1	9104	3594	333	83
+Socialdemokraterna i Uppsala	Socialdemokraterna i Uppsala	174949672555149	Facebook	f65_	female (65+)	SE	Sweden	17	1	8925	2223	140	39
+Socialdemokraterna Kungsbacka	Strand Bo Jonas	250833255029427	Facebook	f65_	female (65+)	SE	Sweden	3	1	8658	1731	80	16
+Liberalerna Norrköping	Liberalerna Norrköping	225505640849010	Facebook	f65_	female (65+)	SE	Sweden	12	1	8657	1731	97	30
+Slöseriombudsmannen	Skattebetalarna	408171019221426	Facebook	f65_	female (65+)	SE	Sweden	12	1	8629	3185	57	11
+Miljöpartiet de gröna i Värmdö	Miljöpartiet de gröna i Värmdö	279546375195	Facebook	f65_	female (65+)	SE	Sweden	1	1	7989	1597	73	14
+Vänsterpartiet Södermalm	Vänsterpartiet Södermalm	376804565780243	Facebook	f65_	female (65+)	SE	Sweden	8	1	7534	2609	195	55
+Miljöpartiet Södertälje	Miljöpartiet Södertälje	181419098546246	Facebook	f65_	female (65+)	SE	Sweden	3	1	7435	1956	131	28
+IF Metall	IF Metall	108492218918	Facebook	f65_	female (65+)	SE	Sweden	6	1	7357	1775	63	12
+Moderaterna i Jönköpings Län	Moderaterna i Jönköpings län	164355807916	Facebook	f65_	female (65+)	SE	Sweden	10	1	7327	1877	182	59
+Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	f65_	female (65+)	SE	Sweden	18	1	7295	1297	91	18
+Sverigedemokraterna Eskilstuna	Fredriksson Kim David	161935043870264	Facebook	f65_	female (65+)	SE	Sweden	4	1	7219	1382	75	19
+Kristdemokraterna i Nässjö	Kristdemokraterna Nässjö kommun	397392223956552	Facebook	f65_	female (65+)	SE	Sweden	1	1	7147	1429	66	13
+Moderaterna i Mölndal	Brown Stjarna Amanda Charlotte	125396154314182	Facebook	f65_	female (65+)	SE	Sweden	8	1	7141	1428	185	62
+Moderaterna i Gävleborg	Moderaterna Gävleborg	115148865168902	Facebook	f65_	female (65+)	SE	Sweden	8	1	7115	1781	123	24
+Liberalerna Botkyrka	Emerse	529270410491237	Facebook	f65_	female (65+)	SE	Sweden	58	1	7012	1313	41	4
+Linus Lakso - MP	Miljöpartiet de gröna	1038425926323402	Facebook	f65_	female (65+)	SE	Sweden	9	1	6830	1818	57	10
+Medborgerlig Samling	Medborgerlig Samling	189332844828330	Facebook	f65_	female (65+)	SE	Sweden	2	1	6785	1357	62	12
+Moderaterna i Västerbotten	Moderaterna i Västerbotten	267640803634611	Facebook	f65_	female (65+)	SE	Sweden	4	1	6684	1605	181	36
+Socialdemokraterna Värmdö - Framtidspartiet	Nygren Linda Elisabet	217897918243937	Facebook	f65_	female (65+)	SE	Sweden	6	1	6614	2893	240	51
+Sverigedemokraterna Uppland	Sverigedemokraterna Uppland	479236215426943	Facebook	f65_	female (65+)	SE	Sweden	2	1	6575	1315	32	8
+Moderaterna i Region Västmanland	Moderaterna Västmanland	161086337290646	Facebook	f65_	female (65+)	SE	Sweden	4	1	6487	2721	244	53
+Forum Syd	Forum Syd	152060917636	Facebook	f65_	female (65+)	SE	Sweden	6	1	6298	2104	58	19
+Liberalerna Örebro län	Liberalerna i Örebro län	388964421149126	Facebook	f65_	female (65+)	SE	Sweden	5	1	6145	1136	67	13
+En bättre framtid	Plan International Sverige	1173808162671999	Facebook	f65_	female (65+)	SE	Sweden	7	1	6132	1175	54	10
+Centerpartiet i Uppsala län	Grew Hedda Anna Magdalena Jarta	801293393230795	Facebook	f65_	female (65+)	SE	Sweden	7	1	6076	2192	67	29
+6F - Fackförbund i samverkan	6F - Fackförbund i samverkan	720556414800953	Facebook	f65_	female (65+)	SE	Sweden	3	1	6005	1201	55	11
+Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	f65_	female (65+)	SE	Sweden	26	1	5998	1486	25	2
+S-studenter	Jordas John Anton Ingvar	123266647715651	Facebook	f65_	female (65+)	SE	Sweden	2	1	5842	1168	54	10
+Arabiska Teatern / أرابيسكا تياترن	Arabiska Teatern / أرابيسكا تياترن	996264337099052	Facebook	f65_	female (65+)	SE	Sweden	3	1	5828	2897	27	11
+Liberalerna Varberg	Liberalerna Varberg	780698325379963	Facebook	f65_	female (65+)	SE	Sweden	8	1	5624	1096	62	16
+Centerpartiet i Jönköpings län	Luth Eric Gunnar Johan	226810677402741	Facebook	f65_	female (65+)	SE	Sweden	1	1	5598	1119	51	10
+Liberalerna Norrmalm	Tufvesson Elsa Christina	173275532684116	Facebook	f65_	female (65+)	SE	Sweden	31	1	5584	421	64	12
+Moderaterna i Järfälla	Moderaterna i Järfälla	443813509046190	Facebook	f65_	female (65+)	SE	Sweden	4	1	5535	1107	65	17
+Liberalerna Luleå	Liberalerna Luleå	588513591196975	Facebook	f65_	female (65+)	SE	Sweden	7	1	5395	1584	49	14
+Svensk Handel	Svensk Handel	120477444659925	Facebook	f65_	female (65+)	SE	Sweden	6	1	5260	1298	23	4
+KDU Skåne	Lindholm 	250864784955763	Facebook	f65_	female (65+)	SE	Sweden	1	1	5233	1046	48	9
+Kristdemokraterna Uppsala	Kristdemokraterna Uppsala	783969528368300	Facebook	f65_	female (65+)	SE	Sweden	6	1	5070	1498	119	31
+Miljöpartiet de gröna region Kalmar	Miljöpartiet de gröna Kalmar län	161091964101674	Facebook	f65_	female (65+)	SE	Sweden	6	1	4862	917	65	19
+Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	f65_	female (65+)	SE	Sweden	19	1	4669	676	49	7
+Torgny Jönsson	Jonsson Bjorn Torgny	972455966286401	Facebook	f65_	female (65+)	SE	Sweden	4	1	4629	926	50	14
+Socialdemokraterna i Norrbotten	Friberg Camilla Kristina	60068877157	Facebook	f65_	female (65+)	SE	Sweden	7	1	4619	784	52	9
+Centerpartiet Västernorrland	Sjolund Anne-Li Marie	2117823355168432	Facebook	f65_	female (65+)	SE	Sweden	3	1	4616	1588	39	12
+Socialdemokraterna i Jönköpings län	Socialdemokraterna i Jönköpings län	390479295816	Facebook	f65_	female (65+)	SE	Sweden	2	1	4615	923	42	8
+Miljöpartiet de gröna i Botkyrka	Miljöpartiet de Gröna i Botkyrka	124443770929754	Facebook	f65_	female (65+)	SE	Sweden	1	1	4608	921	85	42
+Kristdemokraterna Skaraborg	Kristdemokraterna Skaraborg	123405474354465	Facebook	f65_	female (65+)	SE	Sweden	5	1	4598	868	47	9
+Socialdemokraterna i Sollentuna	Jonsson Sven Joakim	465428396919164	Facebook	f65_	female (65+)	SE	Sweden	7	1	4531	891	44	8
+Sveriges Kommunistiska Parti	Sveriges Kommunistiska Parti	133234606721672	Facebook	f65_	female (65+)	SE	Sweden	2	1	4295	983	39	9
+Kristdemokraterna i Karlstad	Kristdemokraterna i Karlstad	184527058316756	Facebook	f65_	female (65+)	SE	Sweden	9	1	4293	776	49	9
+Miljöpartiet Borlänge	Miljöpartiet Borlänge	282739598890951	Facebook	f65_	female (65+)	SE	Sweden	6	1	4250	769	82	33
+Liberalerna Västmanland	Liberalerna Västmanland	112927778743586	Facebook	f65_	female (65+)	SE	Sweden	4	1	4145	829	38	7
+Afram Yakoub	Yakuob Afram	1849562398465143	Facebook	f65_	female (65+)	SE	Sweden	2	1	3977	1041	36	9
+Socialdemokraterna Blekinge	 Johansson Jan Magnus	154369674717313	Facebook	f65_	female (65+)	SE	Sweden	5	1	3919	784	58	24
+Landskronamoderaterna	Tingstrom Emil Gustaf Eric	216527871697704	Facebook	f65_	female (65+)	SE	Sweden	6	1	3912	1214	40	12
+Bodil Valero sida	Valero Bodil Elisabeth	300733377216643	Facebook	f65_	female (65+)	SE	Sweden	2	1	3902	780	36	7
+Vänsterpartiet Östergötland	Ellehammar Lundstrom M J Nicklas	475427706138827	Facebook	f65_	female (65+)	SE	Sweden	4	1	3887	1751	156	31
+KD Mölndal	Karlsson Sven Anders Mattias	679052525613883	Facebook	f65_	female (65+)	SE	Sweden	7	1	3871	699	41	7
+Conny Brännberg	Brannberg Conny Ruben	656908278084235	Facebook	f65_	female (65+)	SE	Sweden	5	1	3853	1470	43	20
+Liberalerna Region Uppsala	Emerse	760092737373457	Facebook	f65_	female (65+)	SE	Sweden	3	1	3792	758	18	4
+Dalarnas unika kontakt med Fredrick Federley	Persson Robert Gote	2312353715706687	Facebook	f65_	female (65+)	SE	Sweden	5	1	3787	711	35	6
+Frihet	Hayrynen Lotta Ilona	1722887348013516	Facebook	f65_	female (65+)	SE	Sweden	4	1	3761	1409	34	13
+Linköpingsmoderaterna	Moderaterna Linköping	108239705998001	Facebook	f65_	female (65+)	SE	Sweden	3	1	3703	1043	34	9
+Anna Vikström		1671556912954715	Facebook	f65_	female (65+)	SE	Sweden	1	1	3676	735	33	6
+Socialdemokraterna på Linje 17	Socialdemokraterna på Linje 17 	174527259250554	Facebook	f65_	female (65+)	SE	Sweden	14	1	3672	434	33	4
+Jan Björklund	Liberalerna	221193798389602	Facebook	f65_	female (65+)	SE	Sweden	2	1	3638	1819	168	33
+Liberalerna Haninge	Liberalerna Haninge	183607788350923	Facebook	f65_	female (65+)	SE	Sweden	2	1	3628	1814	168	33
+Hyresgästföreningen	Hyresgästföreningen	126567104406	Facebook	f65_	female (65+)	SE	Sweden	4	1	3618	723	33	6
+Moderaterna i Östergötland	Moderaterna i Östergötland	435489349877161	Facebook	f65_	female (65+)	SE	Sweden	2	1	3567	1783	108	25
+Sverigedemokraterna Linköping	Sverigedemokraterna Linköping	147672065396607	Facebook	f65_	female (65+)	SE	Sweden	5	1	3521	704	65	32
+Moderaterna i Varberg	Moderaterna	665682436792792	Facebook	f65_	female (65+)	SE	Sweden	11	1	3515	622	32	5
+Miljöpartiet de Gröna i Sundbyberg	Miljöpartiet Sundbyberg	107104919328517	Facebook	f65_	female (65+)	SE	Sweden	6	1	3461	572	38	7
+Kristdemokraterna Jämtlands Län	Kristdemokraterna i Jämtlands län	276637759146677	Facebook	f65_	female (65+)	SE	Sweden	3	1	3451	642	31	5
+Socialdemokraterna Dalarna	Socialdemokraterna Dalarna	362970427153858	Facebook	f65_	female (65+)	SE	Sweden	2	1	3429	686	31	6
+Miljöpartiet Västra Götaland	Miljöpartiet Västra Götaland	835842266433861	Facebook	f65_	female (65+)	SE	Sweden	2	1	3387	1539	142	31
+Karin Östring Bergman / Centerpartiet	Ostring Bergman Karin Maria	95356393777	Facebook	f65_	female (65+)	SE	Sweden	2	1	3359	1679	124	27
+Jonas Sjöstedt		261331320599298	Facebook	f65_	female (65+)	SE	Sweden	1	1	3289	657	30	6
+Vänsterpartiet Jönköping	Vänsterpartiet Jönköping	169508586461	Facebook	f65_	female (65+)	SE	Sweden	4	1	3282	656	30	6
+Kristdemokraterna i Jönköpings län	Kristdemokraterna Jönköpings län	116545538368003	Facebook	f65_	female (65+)	SE	Sweden	4	1	3249	777	56	28
+Kristdemokraterna Arboga	Stenzelius Jonas Peter Mikael	1083070925184919	Facebook	f65_	female (65+)	SE	Sweden	7	1	3231	601	29	5
+Tobias Baudin	Kommunal	614939535271869	Facebook	f65_	female (65+)	SE	Sweden	2	1	3176	635	41	15
+Kristdemokraterna Solna	Kristdemokraterna i Solna	153194577050	Facebook	f65_	female (65+)	SE	Sweden	7	1	3144	595	35	7
+Susanna Gideonsson	Handelsanställdas förbund	2256836864595743	Facebook	f65_	female (65+)	SE	Sweden	2	1	3143	628	47	20
+Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	f65_	female (65+)	SE	Sweden	4	1	3087	634	246	49
+Sverigedemokraterna Fryksdalen	Sverigedemokraterna Värmlands län	176537522685841	Facebook	f65_	female (65+)	SE	Sweden	2	1	3018	1509	65	18
+Kristdemokraterna Sörmland	Tinglöf Miriam Monica Mariana	1633975010236193	Facebook	f65_	female (65+)	SE	Sweden	3	1	2949	947	27	8
+Huddingemoderaterna	Huddingemoderaterna	160210550756111	Facebook	f65_	female (65+)	SE	Sweden	2	1	2903	1296	115	23
+Miljöpartiet de gröna Gävle	Johansson Evelina Sofia	127624557250669	Facebook	f65_	female (65+)	SE	Sweden	6	1	2866	0	26	0
+Sverigedemokraterna Norrtelje	Sverigedemokraterna Norrtelje	231584306927975	Facebook	f65_	female (65+)	SE	Sweden	5	1	2797	493	25	4
+Centerpartiet Västerbotten	Andersson Ase Amandah	281642088439	Facebook	f65_	female (65+)	SE	Sweden	5	1	2758	474	39	7
+Centerpartiet i Hällefors	Nygren Ingemar Tobias	189736311810878	Facebook	f65_	female (65+)	SE	Sweden	3	1	2744	548	35	13
+Kristdemokraterna Varberg	Kardemark Benny Roger	1604039079717231	Facebook	f65_	female (65+)	SE	Sweden	1	1	2741	548	25	5
+Hyresgästföreningen region Mitt	Collin Petra Jessica	799284903479521	Facebook	f65_	female (65+)	SE	Sweden	5	1	2733	289	25	2
+Miljöpartiet de Gröna i Östergötland	LINDELL JENS-OLOF BERTIL	166934049354	Facebook	f65_	female (65+)	SE	Sweden	3	1	2658	531	24	4
+Vänsterpartiet Fyrbodal	Vänsterpartiet Fyrbodal	154507768394620	Facebook	f65_	female (65+)	SE	Sweden	2	1	2654	1073	91	18
+Liberalerna Kungsholmen	Johansson Maria Birgitta	1632307106990705	Facebook	f65_	female (65+)	SE	Sweden	9	1	2651	381	40	7
+Centerpartiet Halland	ENEVOLDSEN SONJA ANN-KRISTIN	303963156401468	Facebook	f65_	female (65+)	SE	Sweden	3	1	2571	491	35	11
+Liberalerna Helsingborg	Martensen Axel Erik Alfons	136883253004732	Facebook	f65_	female (65+)	SE	Sweden	3	1	2560	953	146	30
+Georgia Ferris KD EU-Kandidat	Ferris Georgia Minnie Anna	407374246718043	Facebook	f65_	female (65+)	SE	Sweden	2	1	2541	491	23	4
+Moderaterna i Håbo	Erling Björn Karl Gustaf	256926791030140	Facebook	f65_	female (65+)	SE	Sweden	11	1	2517	456	56	8
+Vänsterpartiet Leksand	Fredholm Kajsa	348264571925203	Facebook	f65_	female (65+)	SE	Sweden	3	1	2480	496	22	4
+FPlus – nyhetstjänsten för företagsamma	fPlus	130927360876045	Facebook	f65_	female (65+)	SE	Sweden	3	1	2448	489	22	4
+Vänsterpartiet Sundbyberg	Vänsterpartiet Sundbyberg	1592860820974499	Facebook	f65_	female (65+)	SE	Sweden	5	1	2382	357	27	4
+Vänsterpartiet Dalarna	Fredholm Kajsa	154956994679599	Facebook	f65_	female (65+)	SE	Sweden	8	1	2369	287	50	9
+Socialdemokraterna Kungälv	Kungälvs Socialdemokratiska Arbetarekommun	241319269242484	Facebook	f65_	female (65+)	SE	Sweden	5	1	2365	406	21	3
+Maric politik	Marić Maria Charlotta	389748451834422	Facebook	f65_	female (65+)	SE	Sweden	3	1	2221	444	20	4
+Saco	Saco	133910158381	Facebook	f65_	female (65+)	SE	Sweden	1	1	2213	442	4	2
+Fredrik Elgh  Centerpartiet		254722685215936	Facebook	f65_	female (65+)	SE	Sweden	2	1	2209	441	20	4
+Sverigedemokraterna Uppsala	SD Uppsala	1649460475294700	Facebook	f65_	female (65+)	SE	Sweden	3	1	2201	440	20	4
+Kristdemokraterna Jönköpings Kommun	Kristdemokraterna Jönköpings kommun	836852369693689	Facebook	f65_	female (65+)	SE	Sweden	2	1	2148	429	33	14
+Common sense in Sweden		697826370283167	Facebook	f65_	female (65+)	SE	Sweden	3	1	2144	0	19	0
+IOGT-NTO	IOGT-NTO	28237261288	Facebook	f65_	female (65+)	SE	Sweden	1	1	2074	1037	96	19
+Centerpartiet Upplands Väsby	Magnusson Kjell Johan Sonny	1457926257795252	Facebook	f65_	female (65+)	SE	Sweden	3	1	2048	365	27	5
+Moderaterna i Danderyd	Smidhammar Leo	488238954615693	Facebook	f65_	female (65+)	SE	Sweden	6	1	2038	278	26	8
+Demokratibygget	Barrett Sara Helena	536156530105433	Facebook	f65_	female (65+)	SE	Sweden	3	1	2032	338	18	3
+Moderaterna Skellefteå	Bergstrom Carl Erik Anton	153150404966	Facebook	f65_	female (65+)	SE	Sweden	2	1	2032	406	110	27
+Socialdemokraterna Hässleholm	Hässleholms Socialdemokratiska arbetarekommun	838924659467812	Facebook	f65_	female (65+)	SE	Sweden	3	1	2007	364	26	9
+Vänsterpartiet Norrköping	Carlstein Hans Olof	534898423283520	Facebook	f65_	female (65+)	SE	Sweden	4	1	1950	390	26	10
+Utvecklingsmagasinet (fd Biståndsdebatten)	Edquist Kerstin Helena	162523667123095	Facebook	f65_	female (65+)	SE	Sweden	3	1	1878	375	14	2
+Lina Eriksson	Lina Eriksson	273049170050654	Facebook	f65_	female (65+)	SE	Sweden	7	1	1854	256	21	3
+Socialdemokraterna Ystad	Martensson Hans Inge Marten	358016594293864	Facebook	f65_	female (65+)	SE	Sweden	6	1	1849	289	17	2
+Västerbottensmedjan	Abrahamsson Markku Johannes	309711879702623	Facebook	f65_	female (65+)	SE	Sweden	3	1	1849	370	17	3
+Moderaterna i Växjö kommun	Moderaterna Kronoberg	262695680545557	Facebook	f65_	female (65+)	SE	Sweden	2	1	1838	791	85	17
+Centerpartiets Ungdomsförbund	Centerpartiets Ungdomsförbund	110793008936879	Facebook	f65_	female (65+)	SE	Sweden	3	1	1830	664	74	16
+Centerpartiet i Huddinge	Tomas Selin	167980936712785	Facebook	f65_	female (65+)	SE	Sweden	4	1	1821	290	16	2
+Eva B Arnesson - KD	Eva B Arnesson - KD	297923747637590	Facebook	f65_	female (65+)	SE	Sweden	7	1	1818	181	43	8
+Moderaterna i Arboga	Soderland Anders Mikael	1307727569320278	Facebook	f65_	female (65+)	SE	Sweden	2	1	1779	821	16	7
+Moderaterna Kungsbacka	Moderaterna Kungsbackakretsen	121182911263997	Facebook	f65_	female (65+)	SE	Sweden	6	1	1753	286	20	3
+Miljöpartiet de gröna i Solna	Bernhard Huber	183031871858967	Facebook	f65_	female (65+)	SE	Sweden	5	1	1751	283	22	4
+Skaramoderaterna	Grönlund Plöen Anna Lotta	1757410027826711	Facebook	f65_	female (65+)	SE	Sweden	2	1	1721	344	15	3
+Liberalerna Blekinge	Liberalerna i Blekinge	337623463039217	Facebook	f65_	female (65+)	SE	Sweden	2	1	1711	730	67	15
+Andreas Sturesson, kommunalråd	Kristdemokraterna Jönköpings Kommun	189699774387238	Facebook	f65_	female (65+)	SE	Sweden	3	1	1710	499	41	12
+Vänsterpartiet Falun	Vänsterpartiet Falun	274157822060	Facebook	f65_	female (65+)	SE	Sweden	3	1	1696	307	15	2
+Liberalerna Västerås	Liberalerna Västerås	39940078116	Facebook	f65_	female (65+)	SE	Sweden	3	1	1687	315	25	8
+Kristdemokraterna på Orust	Kristdemokraterna	159407334910426	Facebook	f65_	female (65+)	SE	Sweden	2	1	1671	765	15	7
+LO Skåne	LO-distriktet i Skåne	196081621460	Facebook	f65_	female (65+)	SE	Sweden	4	1	1664	309	12	2
+Kristdemokraterna i Marks kommun	Hermansson Per-Olof Ingvar	511527222310641	Facebook	f65_	female (65+)	SE	Sweden	2	1	1621	324	14	3
+Moderaterna i Skåne	Moderaterna i Skåne	336995309750321	Facebook	f65_	female (65+)	SE	Sweden	2	1	1613	288	28	13
+Studieförbundet Bilda	Wallstedt Bo Fredrik	161514177194883	Facebook	f65_	female (65+)	SE	Sweden	1	1	1564	312	14	2
+Socialdemokraterna Tidaholm	Socialdemokraterna Tidaholm	665730566798078	Facebook	f65_	female (65+)	SE	Sweden	2	1	1559	312	14	2
+Centerkvinnorna	Lek Ingrid Magdalena	265585313460256	Facebook	f65_	female (65+)	SE	Sweden	8	1	1549	274	17	3
+Miljöpartiet de gröna i Gnesta	Miljöpartiet de Gröna i Gnesta	288168764608020	Facebook	f65_	female (65+)	SE	Sweden	2	1	1516	303	21	9
+Jesper Skalberg Karlsson	Skalberg Karlsson Jesper Jens J	2171970199486213	Facebook	f65_	female (65+)	SE	Sweden	3	1	1502	300	13	2
+20% Klimatvarning	Arleskar Carl Albin	362163934600158	Facebook	f65_	female (65+)	SE	Sweden	2	1	1497	585	49	9
+Kristdemokraterna Göteborg	Kristdemokraterna Göteborg	1139097292843761	Facebook	f65_	female (65+)	SE	Sweden	2	1	1466	264	13	2
+Kristdemokraterna i Mörbylånga kommun	Dicksson Eric Jan	459355064132583	Facebook	f65_	female (65+)	SE	Sweden	2	1	1414	203	13	1
+Folkbildarforum	Bildningsförbundet Östergötland	164688070209892	Facebook	f65_	female (65+)	SE	Sweden	1	1	1414	282	13	2
+Moderaterna Alingsås	Thim Jens Lennart Thomas	206273962768960	Facebook	f65_	female (65+)	SE	Sweden	1	1	1389	694	12	6
+Kristdemokraterna i Gagnef	Kristdemokraterna Dalarna	273483286188959	Facebook	f65_	female (65+)	SE	Sweden	7	1	1378	134	23	3
+Liberalerna Sollentuna	Angressved Lars Johannes	1447781535451300	Facebook	f65_	female (65+)	SE	Sweden	4	1	1364	195	17	3
+Kristdemokraterna i Ludvika/Smedjebacken	Kristdemokraterna i Ludvika/Smedjebacken	1766734230288122	Facebook	f65_	female (65+)	SE	Sweden	1	1	1359	271	12	2
+KD Sigtuna	Makris Jessica Therese	2063183643940247	Facebook	f65_	female (65+)	SE	Sweden	4	1	1342	227	20	4
+Centerstudenter	Centerstudenter	118486018229497	Facebook	f65_	female (65+)	SE	Sweden	1	1	1337	267	12	2
+Liberalerna Västernorrland	Karlsson Sarah Emma Viola	300741530026956	Facebook	f65_	female (65+)	SE	Sweden	1	1	1314	657	12	6
+Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	f65_	female (65+)	SE	Sweden	10	1	1311	169	5	0
+Socialdemokraterna Falkenberg - Hela kommunens framtidsparti	Svensson Per Johan Klas	1383867568544212	Facebook	f65_	female (65+)	SE	Sweden	3	1	1280	256	13	3
+Sverigedemokraterna Jönköping	Andersson Bjorn Per Mikael	918971688179392	Facebook	f65_	female (65+)	SE	Sweden	1	1	1257	628	58	11
+Borlänge kommun	Borlänge kommun	1540851856197497	Facebook	f65_	female (65+)	SE	Sweden	1	1	1253	626	11	5
+Reformisterna	Reformisterna	2337692372925538	Facebook	f65_	female (65+)	SE	Sweden	1	1	1249	249	11	2
+Partiet Vändpunkt	Partiet Vändpunkt	334741620478680	Facebook	f65_	female (65+)	SE	Sweden	3	1	1212	331	13	4
+Vänsterpartiet Jönköpings län	Vänsterpartiet Jönköpings län	433323816696224	Facebook	f65_	female (65+)	SE	Sweden	4	1	1207	225	14	2
+Moderaterna i Mellerud	Moderaterna i Mellerud	1696828960384153	Facebook	f65_	female (65+)	SE	Sweden	2	1	1202	208	11	1
+Socialdemokraterna Värmland	Socialdemokraterna Värmland	273755455974802	Facebook	f65_	female (65+)	SE	Sweden	1	1	1197	239	11	2
+Liberalerna i Karlstad	Liberalerna Karlstad	108881742481938	Facebook	f65_	female (65+)	SE	Sweden	4	1	1158	421	7	1
+Sundsvallspartiet	Ammor Else	271369483068463	Facebook	f65_	female (65+)	SE	Sweden	1	1	1138	569	5	1
+Centerpartiet Dalarna	Persson Robert Gote	300963926616	Facebook	f65_	female (65+)	SE	Sweden	2	1	1127	177	10	1
+KD Region Uppsala	KD Region Uppsala	195658617439309	Facebook	f65_	female (65+)	SE	Sweden	7	1	1113	0	10	0
+Kristdemokraterna i Örebro län	Cesar Eje Alexander	430535663641398	Facebook	f65_	female (65+)	SE	Sweden	4	1	1106	110	14	2
+Joakim Jonsson		506344336447634	Facebook	f65_	female (65+)	SE	Sweden	1	1	1068	213	9	1
+Kristdemokraterna Tyresö	Kennerberg Leif Robert	268593563268202	Facebook	f65_	female (65+)	SE	Sweden	1	1	1066	213	9	1
+Miljöpartiet de gröna i Kalmar	Miljöpartiet de gröna i Kalmar	700878769933437	Facebook	f65_	female (65+)	SE	Sweden	4	1	1063	201	11	2
+Kristdemokraterna Eslöv	Estenlund Per Samuel	156298131645410	Facebook	f65_	female (65+)	SE	Sweden	1	1	1062	531	49	9
+Sverigedemokraterna Östergötland	Svensson Jan Hubert	386410271448008	Facebook	f65_	female (65+)	SE	Sweden	1	1	1062	531	49	9
+Ulricehamns kommun	Ulricehamns kommun	195221297179003	Facebook	f65_	female (65+)	SE	Sweden	2	1	1059	192	9	1
+Moderaterna i Stenungsund	Renfors Anna Maria	488439967871997	Facebook	f65_	female (65+)	SE	Sweden	3	1	1045	158	9	1
+Centerpartiet i Solna	Centerpartiet i Solna	155999571265763	Facebook	f65_	female (65+)	SE	Sweden	1	1	1031	515	47	9
+Philip Botström		1580590188862575	Facebook	f65_	female (65+)	SE	Sweden	2	1	1028	178	9	1
+Centerpartiet Lidingö	Patrik Buddgård	370182686393713	Facebook	f65_	female (65+)	SE	Sweden	1	1	1019	203	18	9
 Liberalerna Mariestad	Bergstrom Viktor Gunnar Lexer	1450259805246166	Facebook	f65_	female (65+)	SE	Sweden	1	1	1008	201	9	1
-Kristdemokraterna Västerbotten	Kristdemokraterna Västerbotten	414156238684191	Facebook	f65_	female (65+)	SE	Sweden	1	1	980	196	9	1
-En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	f65_	female (65+)	SE	Sweden	4	1	965	132	6	0
-Zandra Pettersson SD politiker	Pettersson Zandra Margareta	1731576980266356	Facebook	f65_	female (65+)	SE	Sweden	1	1	958	191	17	8
-Centerkvinnorna i Göteborg	Ostring Bergman Karin Maria	170111706526814	Facebook	f65_	female (65+)	SE	Sweden	2	1	870	82	8	0
-Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	f65_	female (65+)	SE	Sweden	6	1	857	0	7	0
-KDU Sverige	KDU Sverige	177549278946958	Facebook	f65_	female (65+)	SE	Sweden	1	1	812	162	7	1
-Moderaterna i Jönköpings Län	Moderaterna i Jönköpings län	164355807916	Facebook	f65_	female (65+)	SE	Sweden	1	1	694	139	12	6
-David Lega	Kristdemokraterna	251829904829983	Facebook	f65_	female (65+)	SE	Sweden	2	1	682	0	6	0
-Centerpartiet i Jönköpings län	Luth Eric Gunnar Johan	226810677402741	Facebook	f65_	female (65+)	SE	Sweden	1	1	672	134	6	1
-Byggnads Skåne	Sjoberg Jonas Fredrik	294444197371898	Facebook	f65_	female (65+)	SE	Sweden	1	1	566	113	5	1
-Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	f65_	female (65+)	SE	Sweden	2	1	560	95	5	0
-LO Skåne	LO-distriktet i Skåne	196081621460	Facebook	f65_	female (65+)	SE	Sweden	1	1	528	105	4	0
-Sverigedemokraterna Norrtelje	Sverigedemokraterna Norrtelje	231584306927975	Facebook	f65_	female (65+)	SE	Sweden	2	1	497	0	4	0
-Miljöpartiet de gröna Gävle	Johansson Evelina Sofia	127624557250669	Facebook	f65_	female (65+)	SE	Sweden	1	1	486	0	4	0
-Socialdemokraterna i Helsingborg	Socialdemokraterna Helsingborg	303070626373544	Facebook	f65_	female (65+)	SE	Sweden	1	1	463	0	21	4
-Moderaterna i Varberg	Moderaterna	665682436792792	Facebook	f65_	female (65+)	SE	Sweden	3	1	455	75	4	0
-Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	f65_	female (65+)	SE	Sweden	2	1	434	0	3	0
-Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	f65_	female (65+)	SE	Sweden	5	1	362	0	3	0
-Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	f65_	female (65+)	SE	Sweden	2	1	346	0	3	0
-Kristdemokraterna i Marks kommun	Hermansson Per-Olof Ingvar	511527222310641	Facebook	f65_	female (65+)	SE	Sweden	2	1	342	0	3	0
-Malin Forsbrand kommunalråd Vaxholm	Forsbrand Malin Kristina	298053177394356	Facebook	f65_	female (65+)	SE	Sweden	1	1	325	0	2	0
-Linus Lakso - MP	Miljöpartiet de gröna	1038425926323402	Facebook	f65_	female (65+)	SE	Sweden	2	1	284	0	2	0
-Kristdemokraterna på Gotland	Kristdemokraterna på Gotland	1375539726041747	Facebook	f65_	female (65+)	SE	Sweden	2	1	277	0	2	0
-Folkstyret	Ströberg Mikael	1243789685638222	Facebook	f65_	female (65+)	SE	Sweden	1	1	265	53	2	0
-Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	f65_	female (65+)	SE	Sweden	1	1	264	52	2	0
-Miljöpartiet de Gröna i Sundbyberg	Miljöpartiet Sundbyberg	107104919328517	Facebook	f65_	female (65+)	SE	Sweden	1	1	249	0	2	0
-Liberalerna Österåker	Liberalerna i Österåker	316933851779070	Facebook	f65_	female (65+)	SE	Sweden	1	1	244	0	2	0
-Kristdemokraterna i Örebro län	Cesar Eje Alexander	430535663641398	Facebook	f65_	female (65+)	SE	Sweden	2	1	243	0	2	0
-Socialdemokraterna i Malmö	Socialdemokraterna i Malmö	133148933394485	Facebook	f65_	female (65+)	SE	Sweden	2	1	237	38	2	0
-Moderaterna i Östergötland	Moderaterna i Östergötland	435489349877161	Facebook	f65_	female (65+)	SE	Sweden	1	1	224	0	10	2
-Kristdemokraterna i Gagnef	Kristdemokraterna Dalarna	273483286188959	Facebook	f65_	female (65+)	SE	Sweden	1	1	215	0	1	0
-Kristdemokraterna i Ulricehamn	Kristdemokraterna i Ulricehamn	204903883423715	Facebook	f65_	female (65+)	SE	Sweden	1	1	199	0	1	0
-Socialdemokraterna på Linje 17	Socialdemokraterna på Linje 17 	174527259250554	Facebook	f65_	female (65+)	SE	Sweden	1	1	179	0	1	0
-Miljöpartiet de gröna region Kalmar	Miljöpartiet de gröna Kalmar län	161091964101674	Facebook	f65_	female (65+)	SE	Sweden	1	1	168	0	1	0
-Kristdemokraterna Halland	Ferris Georgia Minnie Anna	727605503925235	Facebook	f65_	female (65+)	SE	Sweden	1	1	167	0	1	0
-Socialdemokraterna Dalarna	Socialdemokraterna Dalarna	362970427153858	Facebook	f65_	female (65+)	SE	Sweden	1	1	164	0	1	0
-Sverigedemokraterna Östergötland	Svensson Jan Hubert	386410271448008	Facebook	f65_	female (65+)	SE	Sweden	1	1	160	0	1	0
-Demokratibygget	Barrett Sara Helena	536156530105433	Facebook	f65_	female (65+)	SE	Sweden	1	1	154	0	1	0
-Kristdemokraterna Lysekil	Kristdemokraterna	347568685423907	Facebook	f65_	female (65+)	SE	Sweden	1	1	149	0	1	0
-Liberalerna Malmö	Karlson Christoffer Johan	109988009048564	Facebook	f65_	female (65+)	SE	Sweden	1	1	145	0	1	0
-Vänsterpartiet Helsingborg	Mattiasson Saarinen Ingrid Kristina	732887920091032	Facebook	f65_	female (65+)	SE	Sweden	1	1	142	0	1	0
-Kristdemokraterna på Orust	Kristdemokraterna	159407334910426	Facebook	f65_	female (65+)	SE	Sweden	1	1	140	0	1	0
-Kristdemokraterna i Dalarna	Kristdemokraterna Dalarna	321670347944266	Facebook	f65_	female (65+)	SE	Sweden	1	1	135	0	6	1
-Miljöpartiet de gröna i Katrineholm	Miljöpartiet de gröna i Katrineholm	744040148974429	Facebook	f65_	female (65+)	SE	Sweden	1	1	128	0	1	0
-Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	f65_	female (65+)	SE	Sweden	1	1	122	0	5	1
-Kristdemokraterna Göteborg	Kristdemokraterna Göteborg	1139097292843761	Facebook	f65_	female (65+)	SE	Sweden	1	1	116	0	1	0
-Kristdemokraterna Falkenberg	Ferris Georgia Minnie Anna	184270554952699	Facebook	f65_	female (65+)	SE	Sweden	1	1	114	0	5	1
-Kommunistiska Partiet Göteborg	Kommunistiska Partiet Göteborg	355113523668	Facebook	f65_	female (65+)	SE	Sweden	1	1	105	0	0	0
-Eva B Arnesson - KD	Eva B Arnesson - KD	297923747637590	Facebook	f65_	female (65+)	SE	Sweden	1	1	95	0	0	0
-Miljöpartiet de gröna i Solna	Bernhard Huber	183031871858967	Facebook	f65_	female (65+)	SE	Sweden	1	1	84	0	0	0
-Georgia Ferris KD EU-Kandidat	Ferris Georgia Minnie Anna	407374246718043	Facebook	f65_	female (65+)	SE	Sweden	1	1	83	0	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	f65_	female (65+)	SE	Sweden	4	1	76	17	0	0
-KD Sigtuna	Makris Jessica Therese	2063183643940247	Facebook	f65_	female (65+)	SE	Sweden	1	1	73	0	0	0
-EslövsModeraterna	Malmborg Rikard	1563356257213073	Facebook	f65_	female (65+)	SE	Sweden	1	1	62	0	0	0
-Charlotte Nordström	Nordstrom Charlotte Astrid	1470292919905819	Facebook	f65_	female (65+)	SE	Sweden	1	1	49	0	0	0
-Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	f65_	female (65+)	SE	Sweden	1	1	49	0	0	0
-European Commission	European Commission	107898832590939	Facebook	f65_	female (65+)	SE	Sweden	2	1	41	20	0	0
-Maric politik	Marić Maria Charlotta	389748451834422	Facebook	f65_	female (65+)	SE	Sweden	1	1	40	0	0	0
-Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	f65_	female (65+)	SE	Sweden	1	1	32	6	0	0
-KDMaria	Nilsson Anna Maria	250279129252623	Facebook	f65_	female (65+)	SE	Sweden	1	1	31	0	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	f65_	female (65+)	SE	Sweden	2	1	28	7	0	0
-studietid	#studietid	637235366608588	Facebook	f65_	female (65+)	SE	Sweden	1	1	28	0	0	0
-Kristdemokraterna Täby	Kristdemokraterna Täby	500140550093378	Facebook	f65_	female (65+)	SE	Sweden	1	1	27	0	0	0
-Socialdemokraterna i Borås	Socialdemokraterna i Borås	104604012928735	Facebook	f65_	female (65+)	SE	Sweden	1	1	2	0	0	0
-Mette Thiesen	Mette Thiesen	718327901589937	Facebook	f65_	female (65+)	SE	Sweden	3	1	2	0	0	0
+Skattebetalarnas Förening	Skattebetalarnas Förening	72832167834	Facebook	f65_	female (65+)	SE	Sweden	1	1	1003	501	4	0
+Landsbygdspartiet oberoende	Landsbygdspartiet oberoende	1549988978561671	Facebook	f65_	female (65+)	SE	Sweden	1	1	1001	500	46	9
+Liberalerna Österåker	Liberalerna i Österåker	316933851779070	Facebook	f65_	female (65+)	SE	Sweden	3	1	981	90	9	0
+Fria Moderata Studentförbundet	Fria Moderata Studentförbundet	119885094691458	Facebook	f65_	female (65+)	SE	Sweden	1	1	980	196	18	9
+Vänsterpartiet Västmanland	Vänsterpartiet Västmanland	1438013249820378	Facebook	f65_	female (65+)	SE	Sweden	1	1	975	195	9	1
+Socialdemokraterna i Katrineholm		126125844249254	Facebook	f65_	female (65+)	SE	Sweden	2	1	957	0	8	0
+VadstenaModeraterna	Sjöberg Arne Lennart	560250150734818	Facebook	f65_	female (65+)	SE	Sweden	1	1	945	189	8	1
+Fredrik Holmbom		747661682030643	Facebook	f65_	female (65+)	SE	Sweden	1	1	926	185	1	0
+Kristdemokraterna i Tibro	Kristdemokraterna i Tibro	127956383885303	Facebook	f65_	female (65+)	SE	Sweden	1	1	915	183	8	1
+Socialdemokraterna i Nyköping	Socialdemokraterna i Nyköping	109911525800180	Facebook	f65_	female (65+)	SE	Sweden	1	1	910	182	8	1
+Axess Magasin & TV	Axess Magasin & TV	887305194662637	Facebook	f65_	female (65+)	SE	Sweden	1	1	906	181	8	1
+Kristdemokraterna Sotenäs	Kristdemokraterna	887339628029300	Facebook	f65_	female (65+)	SE	Sweden	1	1	904	180	16	8
+Moderaterna Kronoberg	Moderaterna Kronoberg	234282713350536	Facebook	f65_	female (65+)	SE	Sweden	1	1	901	180	8	1
+Byggnads Skåne	Sjoberg Jonas Fredrik	294444197371898	Facebook	f65_	female (65+)	SE	Sweden	4	1	888	177	8	1
+Liberalerna Kumla	Liberalerna i Örebro län	109612275862342	Facebook	f65_	female (65+)	SE	Sweden	1	1	869	434	8	4
+Fredrik Brange	Norrman Brange Fredrik Oskar	1992227544209769	Facebook	f65_	female (65+)	SE	Sweden	1	1	835	167	7	1
+Kristdemokraterna i Gävle	Kristdemokraterna i Gävle	850584251725329	Facebook	f65_	female (65+)	SE	Sweden	1	1	805	161	7	1
+Eva Ahlin - Centerpartist	Ahlin Siv Eva Marie	334933870387484	Facebook	f65_	female (65+)	SE	Sweden	1	1	805	161	7	1
+Liberalerna Kristianstad		150526214995429	Facebook	f65_	female (65+)	SE	Sweden	1	1	792	158	7	1
+KDMaria	Nilsson Anna Maria	250279129252623	Facebook	f65_	female (65+)	SE	Sweden	6	1	784	0	10	0
+Moderaterna i Solna	Moderaterna Solna	450481758311196	Facebook	f65_	female (65+)	SE	Sweden	4	1	777	114	19	7
+Nya Moderaterna Karlskoga	Moderaterna i Karlskoga	164539323567730	Facebook	f65_	female (65+)	SE	Sweden	1	1	776	155	7	1
+Richard Brodd Liberalerna	Brodd Karl Erik Richard	223726468440460	Facebook	f65_	female (65+)	SE	Sweden	1	1	761	152	70	14
+Christoffer Nordmark	Christoffer Nordmark	2407206712838704	Facebook	f65_	female (65+)	SE	Sweden	8	1	761	92	5	0
+Kristdemokraterna Vansbro	Ilar Lars André	573126923032007	Facebook	f65_	female (65+)	SE	Sweden	1	1	742	148	13	6
+Socialdemokraterna i Kristianstad	Socialdemokraterna i Skåne	209827375704176	Facebook	f65_	female (65+)	SE	Sweden	1	1	742	148	6	1
+Kristdemokraterna Botkyrka	Kristdemokraterna Botkyrka	650240125071536	Facebook	f65_	female (65+)	SE	Sweden	1	1	733	146	13	6
+Stiftelsen Expo	Stiftelsen Expo	208751565805849	Facebook	f65_	female (65+)	SE	Sweden	1	1	714	142	6	1
+Stoppa höjningen av Sveriges EU-avgift	Fria Moderata Studentförbundet	306402583588293	Facebook	f65_	female (65+)	SE	Sweden	2	1	713	142	13	6
+Socialdemokraterna i Mark	Andersson Hakan Ulf Goran	528944283871109	Facebook	f65_	female (65+)	SE	Sweden	2	1	711	93	6	0
+KDU Göteborg	KDU Göteborg	337673949604125	Facebook	f65_	female (65+)	SE	Sweden	5	1	704	0	6	0
+Socialdemokraterna i Staffanstorp	Socialdemokraterna i Skåne	119684144775996	Facebook	f65_	female (65+)	SE	Sweden	1	1	694	138	6	1
+Vänsterpartiet Södertälje	Vänsterpartiet Södertälje	1491285471125054	Facebook	f65_	female (65+)	SE	Sweden	1	1	691	138	12	6
+Jan Lenander, politiskt engagerad	Lenander Jan Richard	1834522019966466	Facebook	f65_	female (65+)	SE	Sweden	4	1	689	43	6	0
+Grön Omstart	Wallin Lena Maria	407812702944641	Facebook	f65_	female (65+)	SE	Sweden	2	1	665	117	1	0
+Carl Kangas - S Värmdö	Nygren Linda Elisabet	879887542403191	Facebook	f65_	female (65+)	SE	Sweden	1	1	661	132	6	1
+Marie Nilsson	IF Metall	292532504512919	Facebook	f65_	female (65+)	SE	Sweden	3	1	655	66	6	0
+Kristdemokraterna på Gotland	Kristdemokraterna på Gotland	1375539726041747	Facebook	f65_	female (65+)	SE	Sweden	5	1	651	0	18	3
+Vänsterpartiet Örebro	Vänsterpartiet Örebro kommun	297546973785228	Facebook	f65_	female (65+)	SE	Sweden	1	1	616	123	11	5
+Go Climate Neutral	Go Climate Neutral	1797724450537743	Facebook	f65_	female (65+)	SE	Sweden	1	1	614	307	28	5
+Liberalerna Sundbyberg	Liberalerna i Sundbyberg	507299542640142	Facebook	f65_	female (65+)	SE	Sweden	1	1	609	121	5	1
+Liberalerna i Karlshamn	Liberalerna i Karlshamn	142412302620892	Facebook	f65_	female (65+)	SE	Sweden	1	1	593	118	5	1
+Folkstyret	Ströberg Mikael	1243789685638222	Facebook	f65_	female (65+)	SE	Sweden	5	1	576	81	5	0
+Kommunistiska Partiet Göteborg	Kommunistiska Partiet Göteborg	355113523668	Facebook	f65_	female (65+)	SE	Sweden	1	1	574	115	5	1
+Kristdemokraterna Södertälje	Kristdemokraterna Södertälje	132086976967371	Facebook	f65_	female (65+)	SE	Sweden	2	1	568	88	5	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	f65_	female (65+)	SE	Sweden	1	1	559	279	1	0
+Liberala Studenter	Heimbrand Christoffer	118645251482192	Facebook	f65_	female (65+)	SE	Sweden	3	1	540	121	4	0
+KD Kungsbacka	KD Kungsbacka	2024157037852156	Facebook	f65_	female (65+)	SE	Sweden	1	1	537	107	4	0
+Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	f65_	female (65+)	SE	Sweden	1	1	528	105	4	0
+Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	f65_	female (65+)	SE	Sweden	2	1	517	86	8	4
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	f65_	female (65+)	SE	Sweden	14	1	500	161	2	0
+Funktionsrätt Göteborg	Green Karin Maria Johanna	392199114162215	Facebook	f65_	female (65+)	SE	Sweden	2	1	488	83	7	1
+Adnan Dibrani till Bryssel	Ghafari Sebastian	1308296045984813	Facebook	f65_	female (65+)	SE	Sweden	1	1	477	0	4	0
+Kristdemokraterna Arvika	Kristensen Daniel Zatteri Of Harbo	182675985548698	Facebook	f65_	female (65+)	SE	Sweden	1	1	419	83	3	0
+Socialdemokraterna i Älvsjö	Socialdemokraterna i Stockholm	776538829218458	Facebook	f65_	female (65+)	SE	Sweden	1	1	413	82	3	0
+Lidingömoderaterna	Lidingömoderaterna	417744054982151	Facebook	f65_	female (65+)	SE	Sweden	3	1	408	0	15	2
+Kristdemokraterna i Ulricehamn	Kristdemokraterna i Ulricehamn	204903883423715	Facebook	f65_	female (65+)	SE	Sweden	2	1	403	0	18	3
+Anna Lipinska - Kristdemokraterna Värmdö	Lipinska Anna Weronika	176755019604222	Facebook	f65_	female (65+)	SE	Sweden	1	1	399	0	3	0
+Nackamoderaterna	Nackamoderaterna	132143480932	Facebook	f65_	female (65+)	SE	Sweden	1	1	398	199	3	1
+Vänsterpartiet Umeå	Sellstedt Karl Sven Andreas	237863203023150	Facebook	f65_	female (65+)	SE	Sweden	1	1	385	77	3	0
+Moderaterna i Salem	Kalderén Bo Lennart	1408104366115145	Facebook	f65_	female (65+)	SE	Sweden	2	1	354	56	3	0
+Socialdemokraterna i Järfälla	Socialdemokraterna i Järfälla	125830894149167	Facebook	f65_	female (65+)	SE	Sweden	2	1	349	0	16	3
+Tallis talar		1206136579519699	Facebook	f65_	female (65+)	SE	Sweden	1	1	342	0	3	0
+Socialdemokraterna i Lund	Persson Arne Roger Sebastian	140849879424265	Facebook	f65_	female (65+)	SE	Sweden	1	1	339	67	3	0
+Liberalerna Höör	Lundgren Lena Marianne	1484746431743125	Facebook	f65_	female (65+)	SE	Sweden	2	1	323	0	14	2
+Kommunistiska Partiet i Halmstad	Halldin Ulf Hakan	1415814235348542	Facebook	f65_	female (65+)	SE	Sweden	2	1	315	0	2	0
+Kristdemokraterna Lidingö	Kristdemokraterna på Lidingö	703204236400845	Facebook	f65_	female (65+)	SE	Sweden	1	1	309	0	2	0
+Torkild Strandberg	Howard Liselotte Caroline	773867402653937	Facebook	f65_	female (65+)	SE	Sweden	2	1	297	0	2	0
+KD Uddevalla	Kristdemokraterna	1415631785342345	Facebook	f65_	female (65+)	SE	Sweden	3	1	295	0	10	2
+Anders G Johansson	Johansson Anders Gustaf Werner	357659877249	Facebook	f65_	female (65+)	SE	Sweden	2	1	290	0	2	0
+Sverigedemokraterna Sjöbo		613881641983158	Facebook	f65_	female (65+)	SE	Sweden	2	1	290	0	2	0
+Socialdemokraterna i Sjöbo	Socialdemokraterna i Skåne	1442470486024831	Facebook	f65_	female (65+)	SE	Sweden	1	1	278	0	2	0
+Arbetsmarknadsnytt	Arbetsmarknadsnytt	799634660143537	Facebook	f65_	female (65+)	SE	Sweden	1	1	246	49	2	0
+Mathias Lindow, kommunalråd -L- Österåker	Lindow Johan Mathias	1543451862565120	Facebook	f65_	female (65+)	SE	Sweden	1	1	242	0	2	0
+studietid	#studietid	637235366608588	Facebook	f65_	female (65+)	SE	Sweden	2	1	239	38	2	0
+Centerpartiet i Umeå	Centerpartiet	450620155297	Facebook	f65_	female (65+)	SE	Sweden	4	1	227	0	2	0
+Caritas Sweden		119140545477108	Facebook	f65_	female (65+)	SE	Sweden	1	1	226	0	2	0
+Moderaterna i Halland	Moderaterna	687371547986856	Facebook	f65_	female (65+)	SE	Sweden	1	1	223	0	2	0
+Liberalerna Landskrona	Strandberg Torkild Soren	635025056686844	Facebook	f65_	female (65+)	SE	Sweden	1	1	222	0	2	0
+Vänsterpartiet Solna	Vänsterpartiet 	273249776157066	Facebook	f65_	female (65+)	SE	Sweden	2	1	220	9	2	0
+Tankar Online		114769995938282	Facebook	f65_	female (65+)	SE	Sweden	1	1	211	0	20	0
+Europa Direkt Skåne		192860510041	Facebook	f65_	female (65+)	SE	Sweden	1	1	208	0	1	0
+Malin Forsbrand kommunalråd Vaxholm	Forsbrand Malin Kristina	298053177394356	Facebook	f65_	female (65+)	SE	Sweden	1	1	207	0	1	0
+Vänsterpartiet Sollentuna	Lindström Dira Louise Ghadir	198650703984891	Facebook	f65_	female (65+)	SE	Sweden	1	1	205	0	1	0
+EslövsModeraterna	Malmborg Rikard	1563356257213073	Facebook	f65_	female (65+)	SE	Sweden	2	1	204	0	1	0
+Moderaterna i Eskilstuna		278736088808574	Facebook	f65_	female (65+)	SE	Sweden	1	1	199	0	1	0
+Vänsterpartiet Helsingborg	Mattiasson Saarinen Ingrid Kristina	732887920091032	Facebook	f65_	female (65+)	SE	Sweden	1	1	187	0	1	0
+Kristdemokraterna i Tidaholm		427648701368670	Facebook	f65_	female (65+)	SE	Sweden	1	1	187	0	1	0
+Kristdemokraterna Vänersborg	Nilsson Anna Maria	1436550706597391	Facebook	f65_	female (65+)	SE	Sweden	1	1	183	0	1	0
+Centerpartiet i Enhörna		584208725271615	Facebook	f65_	female (65+)	SE	Sweden	1	1	181	0	1	0
+Charlotte Nordström	Nordstrom Charlotte Astrid	1470292919905819	Facebook	f65_	female (65+)	SE	Sweden	2	1	177	0	1	0
+Vänsterpartiet Ystad	Brante Goran	513520638755798	Facebook	f65_	female (65+)	SE	Sweden	1	1	175	0	1	0
+Vänsterpartiet Region Dalarna	Fredholm Kajsa	816257315147676	Facebook	f65_	female (65+)	SE	Sweden	1	1	173	0	8	1
+Gabriella Hammarskjöld - C	Hammarskjold Eva Gabriella	1818298128486692	Facebook	f65_	female (65+)	SE	Sweden	1	1	160	0	7	1
+Arbetarekommunen	Persson Gunnar Henrik Haakan	2053389964962411	Facebook	f65_	female (65+)	SE	Sweden	1	1	155	0	1	0
+Centerpartiet i Jämtlands län	Fallman Eva Kristina Jeanette	121396547892591	Facebook	f65_	female (65+)	SE	Sweden	1	1	154	0	7	1
+Miljöpartiet de gröna i Helsingborg	Miljöpartiet de gröna i Helsingborg	106956499327992	Facebook	f65_	female (65+)	SE	Sweden	2	1	148	9	1	0
+Kristdemokraterna Halland	Ferris Georgia Minnie Anna	727605503925235	Facebook	f65_	female (65+)	SE	Sweden	1	1	147	0	1	0
+Moderaterna i Södermanland	Moderaterna	144955505526463	Facebook	f65_	female (65+)	SE	Sweden	2	1	146	0	1	0
+Liberalerna Kalmar kommun		143303167656	Facebook	f65_	female (65+)	SE	Sweden	1	1	145	72	0	0
+Rösta Moderat		349668178981055	Facebook	f65_	female (65+)	SE	Sweden	1	1	142	0	1	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	f65_	female (65+)	SE	Sweden	2	1	141	70	0	0
+Kryssa Mohammad Omran KD	Omran Mohammad	294934427940073	Facebook	f65_	female (65+)	SE	Sweden	2	1	137	38	1	0
+SPI Välfärden Nybro		214732125748828	Facebook	f65_	female (65+)	SE	Sweden	1	1	137	0	1	0
+Miljöpartiet de gröna i Västerås	Miljöpartiet de gröna i Västerås	170276156377688	Facebook	f65_	female (65+)	SE	Sweden	1	1	134	0	1	0
+Vänsterpartiet Hammarö	HESSELSTEDT JAN-OLOF	348216195261594	Facebook	f65_	female (65+)	SE	Sweden	1	1	129	0	1	0
+Centerpartiet Uppsala Län	Grew Hedda Anna Magdalena Jarta	597947044056811	Facebook	f65_	female (65+)	SE	Sweden	2	1	124	47	0	0
+Kristdemokraterna Lysekil	Kristdemokraterna	347568685423907	Facebook	f65_	female (65+)	SE	Sweden	1	1	115	0	5	1
+Frivilliga Familjehem i Österåker		126710901300090	Facebook	f65_	female (65+)	SE	Sweden	1	1	115	0	1	0
+Kristdemokraterna Falkenberg	Ferris Georgia Minnie Anna	184270554952699	Facebook	f65_	female (65+)	SE	Sweden	1	1	113	0	5	1
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	f65_	female (65+)	SE	Sweden	5	1	100	39	0	0
+Kristdemokraterna i Åmål	Kristdemokraterna	673797989636777	Facebook	f65_	female (65+)	SE	Sweden	1	1	94	0	4	0
+Socialdemokraterna i Nynäshamn	Persson Gunnar Henrik Haakan	552680558109355	Facebook	f65_	female (65+)	SE	Sweden	1	1	92	0	0	0
+Semantiko	MTWABP Sweden AB	656090384536434	Facebook	f65_	female (65+)	SE	Sweden	2	1	84	14	0	0
+Global Strike For Future Kungsbacka	Borg Bjorn Gustav Emanuel Simon	2421479197884767	Facebook	f65_	female (65+)	SE	Sweden	1	1	83	0	3	0
+Kommunistiska Partiet Stockholm		1572942986309050	Facebook	f65_	female (65+)	SE	Sweden	1	1	79	0	0	0
+Fredsövning	ABRAHAMSSON PER-OLOV	717556358417977	Facebook	f65_	female (65+)	SE	Sweden	2	1	77	15	0	0
+ABF Östergötland		146714875382706	Facebook	f65_	female (65+)	SE	Sweden	1	1	75	0	0	0
+Engelbrektsmoderaterna		1445413619024688	Facebook	f65_	female (65+)	SE	Sweden	1	1	67	0	0	0
+Pietro Marchesi	Marchesi Pietro Angelo Giuseppe	412659735929497	Facebook	f65_	female (65+)	SE	Sweden	2	1	63	0	1	0
+Kristdemokraterna i Värmdö	Lipinska Anna Weronika	1428064517465758	Facebook	f65_	female (65+)	SE	Sweden	2	1	62	0	0	0
+Timbro	Timbro	237146235237	Facebook	f65_	female (65+)	SE	Sweden	2	1	57	4	0	0
+Lidingöpartiet - Grön skön ö.		169961746503287	Facebook	f65_	female (65+)	SE	Sweden	1	1	55	0	0	0
+FUF - Föreningen för Utvecklingsfrågor	Edquist Kerstin Helena	190533360983432	Facebook	f65_	female (65+)	SE	Sweden	1	1	37	0	1	0
+SSU Kalmar Län	SSU Kalmar län	241658249370356	Facebook	f65_	female (65+)	SE	Sweden	1	1	34	0	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	f65_	female (65+)	SE	Sweden	1	1	23	11	0	0
+Socialdemokratiet	Socialdemokratiet	41459763029	Facebook	f65_	female (65+)	SE	Sweden	1	1	19	3	0	0
+Centerpartiet Botkyrka - Grödinge	Alse Dag Lucas	439419836148910	Facebook	f65_	female (65+)	SE	Sweden	1	1	15	0	0	0
+Peter Skaarup	Dansk Folkeparti	691707047549076	Facebook	f65_	female (65+)	SE	Sweden	2	1	15	3	0	0
+Sophie Løhde	Sophie Løhde	699619700116377	Facebook	f65_	female (65+)	SE	Sweden	11	1	7	2	0	0
+Mette Thiesen	Mette Thiesen	718327901589937	Facebook	f65_	female (65+)	SE	Sweden	7	1	7	1	0	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	f65_	female (65+)	SE	Sweden	1	1	7	3	0	0
+Big News Buzz		125179374733697	Facebook	f65_	female (65+)	SE	Sweden	1	1	7	3	0	0
+CRIF		395919323779707	Facebook	f65_	female (65+)	SE	Sweden	1	1	5	2	0	0
+Kunsthal Charlottenborg	Kunsthal Charlottenborg	210190795661724	Facebook	f65_	female (65+)	SE	Sweden	3	1	3	0	0	0
+Free Quran Education		388655174641163	Facebook	f65_	female (65+)	SE	Sweden	2	1	3	1	0	0
+ETUC		129041250601685	Facebook	f65_	female (65+)	SE	Sweden	1	1	3	0	0	0
+Miikka Keränen	Keranen Miikka Markus	126768630726940	Facebook	f65_	female (65+)	SE	Sweden	2	1	1	0	0	0
+Rune Frøding	Frøding Rune	493940517678048	Facebook	f65_	female (65+)	SE	Sweden	3	1	1	0	0	0
+Jacob Rosenberg	Rosenberg Jacob	804239283072976	Facebook	f65_	female (65+)	SE	Sweden	1	1	1	0	0	0
+Janne Kaisanlahti	Kaisanlahti Janne Kalervo	309381625805373	Facebook	f65_	female (65+)	SE	Sweden	1	1	1	0	0	0
+Morten Helveg Petersen	Morten Helveg Petersen	442403485851495	Facebook	f65_	female (65+)	SE	Sweden	2	1	1	0	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	f65_	female (65+)	SE	Sweden	1	1	1	0	0	0
+Thomas Thomsen	Thomsen Thomas	155006118510945	Facebook	f65_	female (65+)	SE	Sweden	2	1	1	0	0	0
+Jacob Netteberg	Netteberg Jacob	1438856909487306	Facebook	f65_	female (65+)	SE	Sweden	2	1	0	0	0	0
+Bergur Larsson Løkke Rasmussen	Bergur Løkke Rasmussen	141378109375840	Facebook	f65_	female (65+)	SE	Sweden	1	1	0	0	0	0
+Petra Schulze Steinen	Schulze-Steinen Petra Elina Marjatta	266912807301110	Facebook	f65_	female (65+)	SE	Sweden	1	1	0	0	0	0
+Anton Nilsson	Betalt av stödföreningen för Anton Nilsson	290501338278566	Facebook	f65_	female (65+)	SE	Sweden	1	1	0	0	0	0
+Ruben Kidde	Ruben Kidde	113588132144811	Facebook	f65_	female (65+)	SE	Sweden	2	1	0	0	0	0
+Camilla Kampmann	Kampmann Camila	1071071099585942	Facebook	f65_	female (65+)	SE	Sweden	2	1	0	0	0	0
+Erik Poulsen - kandidat til Europa-Parlamentet	Erik Poulsen - kandidat til Europa-Parlamentet	203735820417737	Facebook	f65_	female (65+)	SE	Sweden	1	1	0	0	0	0
+Claus Hasselmann - Folketingskandidat	Hasselmann Claus	611297145887529	Facebook	f65_	female (65+)	SE	Sweden	2	1	0	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	f65_	female (65+)	SE	Sweden	1	1	0	0	0	0
+Theresa Scavenius	Theresa Scavenius	406921453049822	Facebook	f65_	female (65+)	SE	Sweden	2	1	0	0	0	0
+Jan E. Jørgensen	Jørgensen Jan Ejnar	329413910880676	Facebook	f65_	female (65+)	SE	Sweden	1	1	0	0	0	0
+Europe Thinx		335839580440114	Facebook	f65_	female (65+)	SE	Sweden	1	1	0	0	0	0
+Liberal Alliance	Liberal Alliance	106952222676974	Facebook	f65_	female (65+)	SE	Sweden	1	1	0	0	0	0
+Per Larsen i Folketinget	Det Konservative Folkeparti	129802704387687	Facebook	f65_	female (65+)	SE	Sweden	1	1	0	0	0	0
+Eurozine		115579498521257	Facebook	f65_	female (65+)	SE	Sweden	1	1	0	0	0	0
+Martin Henriksen	Dansk Folkeparti	1604502423155684	Facebook	f65_	female (65+)	SE	Sweden	1	1	0	0	0	0
+Tom MacDonald		212732770186	Facebook	f65_	female (65+)	SE	Sweden	1	1	0	0	0	0
+dom-i-NEEK		260052198180831	Facebook	f65_	female (65+)	SE	Sweden	1	1	0	0	0	0
+Tokyo Weekender		134654693230171	Facebook	f65_	female (65+)	SE	Sweden	1	1	0	0	0	0

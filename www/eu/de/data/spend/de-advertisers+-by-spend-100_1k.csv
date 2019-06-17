@@ -1,19 +1,26 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	spend_code_filter	spend_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Party of the European Left	Franziska Laskowski	160598290012	Facebook	100_1k	100 - 1k	DE	Germany	1	1	499998	199999	498	99
-Europäisches Parlament - Verbindungsbüro in Deutschland	Europäisches Parlament - Verbindungsbüro in Deutschland	294494163510	Facebook	100_1k	100 - 1k	DE	Germany	2	1	399997	199999	1497	600
-Demokratie in Europa - Diem25	Demokratie in Europa - DiEM25	267443093828699	Facebook	100_1k	100 - 1k	DE	Germany	5	1	399995	170000	2495	500
-Berliner Stadtwerke	Berliner Stadtwerke	765844936882239	Facebook	100_1k	100 - 1k	DE	Germany	3	1	199997	70000	1497	300
-Bayernpartei	Bayernpartei	78309442751	Facebook	100_1k	100 - 1k	DE	Germany	4	1	199995	39999	1995	399
-FDP	FDP	21289227249	Facebook	100_1k	100 - 1k	DE	Germany	3	1	149997	30000	1497	300
-PARTEI MENSCH UMWELT TIERSCHUTZ	PARTEI MENSCH UMWELT TIERSCHUTZ	108568039165729	Facebook	100_1k	100 - 1k	DE	Germany	3	1	149996	29999	1496	299
-ver.di	la red	252085013582	Facebook	100_1k	100 - 1k	DE	Germany	1	1	99999	50000	999	500
-BÜNDNIS 90/DIE GRÜNEN	BÜNDNIS 90/DIE GRÜNEN	47217143218	Facebook	100_1k	100 - 1k	DE	Germany	2	1	99998	20000	998	200
-Peter Gillo	Peter Gillo	578310722649724	Facebook	100_1k	100 - 1k	DE	Germany	2	1	99998	20000	998	200
-Junge Liberale JuLis	Junge Liberale	110976485656573	Facebook	100_1k	100 - 1k	DE	Germany	2	1	99997	19999	997	199
-Monika Hohlmeier	Monika Hohlmeier	139065632780165	Facebook	100_1k	100 - 1k	DE	Germany	1	1	49999	10000	499	100
-European Free Alliance	European Free Alliance	46708306425	Facebook	100_1k	100 - 1k	DE	Germany	1	1	49999	10000	999	500
-DIE LINKE	DIE LINKE	47694585682	Facebook	100_1k	100 - 1k	DE	Germany	1	1	49998	9999	498	99
-MENSCHLICHE WELT	Menschliche Welt	245758938922923	Facebook	100_1k	100 - 1k	DE	Germany	1	1	49998	10000	498	100
-Landtag Rheinland-Pfalz	Landtag Rheinland-Pfalz	1339267256128796	Facebook	100_1k	100 - 1k	DE	Germany	1	1	49989	9998	498	99
-European Commission	European Commission	107898832590939	Facebook	100_1k	100 - 1k	DE	Germany	2	1	8314	4157	20	4
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	100_1k	100 - 1k	DE	Germany	1	1	1417	708	3	0
+BÜNDNIS 90/DIE GRÜNEN	BÜNDNIS 90/DIE GRÜNEN	47217143218	Facebook	100_1k	100 - 1k	DE	Germany	243	1	18294755	6600999	130256	31499
+SPD	SPD	47930567748	Facebook	100_1k	100 - 1k	DE	Germany	113	1	7124888	2346000	56887	11699
+FDP	FDP	21289227249	Facebook	100_1k	100 - 1k	DE	Germany	52	1	5359947	2364999	26448	5599
+Demokratie in Europa - Diem25	Demokratie in Europa - DiEM25	267443093828699	Facebook	100_1k	100 - 1k	DE	Germany	46	1	5059949	2114997	27453	8199
+Nicola Beer	FDP	206866712830769	Facebook	100_1k	100 - 1k	DE	Germany	32	1	2684967	1115999	19467	5999
+Ökologisch-Demokratische Partei (ÖDP)	Ökologisch-Demokratische Partei (ÖDP)	120655374567	Facebook	100_1k	100 - 1k	DE	Germany	8	1	2299990	1149999	4991	1599
+Kialo	Kialo	729627343834501	Facebook	100_1k	100 - 1k	DE	Germany	45	1	2139954	469999	22954	4899
+Katarina Barley	SPD	1522202731410785	Facebook	100_1k	100 - 1k	DE	Germany	28	1	1804971	600999	13971	2799
+Sozialdemokratische Partei Europas	Sozialdemokratische Partei Europas	338549033673221	Facebook	100_1k	100 - 1k	DE	Germany	13	1	1399985	699999	6486	1299
+DIE LINKE	DIE LINKE	47694585682	Facebook	100_1k	100 - 1k	DE	Germany	14	1	1299985	560000	6985	1399
+Avaaz	Avaaz	8340223883	Facebook	100_1k	100 - 1k	DE	Germany	11	1	1249990	580000	5989	1500
+PARTEI MENSCH UMWELT TIERSCHUTZ	PARTEI MENSCH UMWELT TIERSCHUTZ	108568039165729	Facebook	100_1k	100 - 1k	DE	Germany	12	1	1209853	464973	7986	2799
+CSU (Christlich-Soziale Union)	CSU (Christlich-Soziale Union)	81386795687	Facebook	100_1k	100 - 1k	DE	Germany	6	1	1099994	500000	3494	1000
+European Parliament	European Parliament	178362315106	Facebook	100_1k	100 - 1k	DE	Germany	4	1	1009996	401999	2996	1199
+Die Offene Gesellschaft	die Initiative Offene Gesellschaft mit Facebook-Werbegutschrift	912255502235222	Facebook	100_1k	100 - 1k	DE	Germany	19	1	1009977	264999	9480	1899
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	100_1k	100 - 1k	DE	Germany	20	1	907033	375144	6580	2539
+Senatsverwaltung für Kultur und Europa		247450562347746	Facebook	100_1k	100 - 1k	DE	Germany	3	1	899996	399999	1996	699
+BÜNDNIS 90/DIE GRÜNEN Schleswig-Holstein	BÜNDNIS 90/DIE GRÜNEN Schleswig-Holstein	1608463192727453	Facebook	100_1k	100 - 1k	DE	Germany	15	1	899985	270000	7485	1500
+Landeszentrale für politische Bildung Thüringen	Landeszentrale für politische Bildung Thüringen	215460201802938	Facebook	100_1k	100 - 1k	DE	Germany	23	1	869977	222000	11477	2300
+Bayernpartei	Bayernpartei	78309442751	Facebook	100_1k	100 - 1k	DE	Germany	13	1	849986	289999	9986	4099
+Sven Giegold	Sven Giegold	1391306014465513	Facebook	100_1k	100 - 1k	DE	Germany	12	1	759987	244999	5987	1199
+Monika Hohlmeier	Monika Hohlmeier	139065632780165	Facebook	100_1k	100 - 1k	DE	Germany	8	1	749991	329999	3991	799
+#NatürlichEuropa	Deutscher Naturschutzring DNR e.V.	255657841991242	Facebook	100_1k	100 - 1k	DE	Germany	10	1	709989	264999	5489	1399
+Delara Burkhardt	SPD Schleswig-Holstein	260587924600836	Facebook	100_1k	100 - 1k	DE	Germany	7	1	699993	320000	3993	1100
+Berliner Stadtwerke	Berliner Stadtwerke	765844936882239	Facebook	100_1k	100 - 1k	DE	Germany	7	1	649993	250000	4493	1500

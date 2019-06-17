@@ -1,4 +1,4 @@
 gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-f	female	BG	Bulgaria	55	23	326328	123453	1765	49
-m	male	BG	Bulgaria	55	23	377077	132987	2693	75
-u	unknown	BG	Bulgaria	45	20	1885	710	11	0
+f	female	BG	Bulgaria	455	92	14349292	5926343	50819	9130
+m	male	BG	Bulgaria	453	92	15669282	6373439	54690	9667
+u	unknown	BG	Bulgaria	435	88	102882	42245	396	73

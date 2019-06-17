@@ -1,73 +1,354 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-CDH - Centre Démocrate Humaniste	CDH - Centre Démocrate Humaniste	189649407806135	Facebook	brussels_BE	Brussels, Belgium	34	1	163892	54510	704	0
-Parti Populaire - Le Peuple	Parti Populaire - Le Peuple	482811111771571	Facebook	brussels_BE	Brussels, Belgium	1	1	137868	55147	1378	275
-PS Région bruxelloise	PS Région bruxelloise	279112515484034	Facebook	brussels_BE	Brussels, Belgium	8	1	120389	29298	1500	186
-MR - Mouvement Réformateur	MR - Mouvement Réformateur	236330169511	Facebook	brussels_BE	Brussels, Belgium	187	1	107127	10477	6988	0
-Greenpeace Belgium	Greenpeace Belgium	73232790238	Facebook	brussels_BE	Brussels, Belgium	8	1	78122	16882	287	0
-one brussels	one.brussels	244157445635331	Facebook	brussels_BE	Brussels, Belgium	4	1	69996	17000	396	0
-Pascal Smet	one.brussels	148221008918941	Facebook	brussels_BE	Brussels, Belgium	2	1	50587	10117	143	0
+Parti Socialiste (PS)	Parti Socialiste (PS)	518402351504731	Facebook	brussels_BE	Brussels, Belgium	37	1	1275857	420338	17302	5746
+Vlaams Belang Brussel	Vlaams Belang	499682940133305	Facebook	brussels_BE	Brussels, Belgium	18	1	1213829	514143	32387	8173
+CDH - Centre Démocrate Humaniste	CDH - Centre Démocrate Humaniste	189649407806135	Facebook	brussels_BE	Brussels, Belgium	44	1	1145611	467537	3028	841
+Sabine de Bethune	Sabine de Bethune	254157758598438	Facebook	brussels_BE	Brussels, Belgium	13	1	1106462	470776	4834	914
+Benjamin Dalle	Benjamin Dalle	232597487340084	Facebook	brussels_BE	Brussels, Belgium	6	1	885147	391795	19874	3936
+Groen	Groen	84920854319	Facebook	brussels_BE	Brussels, Belgium	136	1	712312	264943	6268	997
+MR - Mouvement Réformateur	MR - Mouvement Réformateur	236330169511	Facebook	brussels_BE	Brussels, Belgium	283	1	709328	172678	12314	851
+Régionale ECOLO Bruxelles	Régionale Ecolo Bruxelles	136555119816983	Facebook	brussels_BE	Brussels, Belgium	4	1	659996	265000	2096	700
+one brussels	one.brussels	244157445635331	Facebook	brussels_BE	Brussels, Belgium	17	1	644983	141000	2883	300
+Pascal Smet	one.brussels	148221008918941	Facebook	brussels_BE	Brussels, Belgium	23	1	629461	160417	3917	442
+PS Région bruxelloise	PS Région bruxelloise	279112515484034	Facebook	brussels_BE	Brussels, Belgium	55	1	587227	190440	7423	787
+European Parliament	European Parliament	178362315106	Facebook	brussels_BE	Brussels, Belgium	26	1	532746	227211	3887	820
+Be.One	Abou Jahjah Dyab	203646696858225	Facebook	brussels_BE	Brussels, Belgium	29	1	524971	128000	4071	300
+Ecolo	Ecolo	38296327361	Facebook	brussels_BE	Brussels, Belgium	30	1	442816	184477	2301	490
+Vincent De Wolf	Vincent Gilles De Wolf	399983396831282	Facebook	brussels_BE	Brussels, Belgium	18	1	390097	108758	3024	575
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	brussels_BE	Brussels, Belgium	45	1	387872	139013	4582	403
+Lydia Dujardin Desloover	Desloover Lydia Adriana J	491955424673557	Facebook	brussels_BE	Brussels, Belgium	25	1	373026	100465	3653	297
+CD&V	CD&V	52997544531	Facebook	brussels_BE	Brussels, Belgium	49	1	358733	111319	7375	1331
+European Greens	European Greens	141366725876424	Facebook	brussels_BE	Brussels, Belgium	10	1	353737	158735	2912	923
+Parti Populaire - Le Peuple	Parti Populaire - Le Peuple	482811111771571	Facebook	brussels_BE	Brussels, Belgium	4	1	340827	157853	2414	532
+Dyab Abou Jahjah	Abou Jahjah Dyab	650597568382274	Facebook	brussels_BE	Brussels, Belgium	13	1	339987	71000	2087	200
+Rachid Azaoum	Rachid Azaoum	1016780215187655	Facebook	brussels_BE	Brussels, Belgium	8	1	328437	104483	3579	697
+Greenpeace Belgium	Greenpeace Belgium	73232790238	Facebook	brussels_BE	Brussels, Belgium	67	1	318404	98451	3824	276
+Open Vld	Open Vld	53668151866	Facebook	brussels_BE	Brussels, Belgium	34	1	307277	112140	2604	870
+Franc Bogovic	Bogovic Franc Mathijs J	517272151683918	Facebook	brussels_BE	Brussels, Belgium	11	1	264989	122000	1489	100
+European Youth Forum	European Youth Forum	80161254850	Facebook	brussels_BE	Brussels, Belgium	2	1	255979	117235	1817	363
+Delhaize	Delhaize	30102123042	Facebook	brussels_BE	Brussels, Belgium	11	1	226182	87068	1724	316
+Kathleen Van Brempt	Kathleen Van Brempt	206193139504506	Facebook	brussels_BE	Brussels, Belgium	7	1	221279	104004	1104	185
+Elias Kartout	Nieuw-Vlaamse Alliantie	2593268540690171	Facebook	brussels_BE	Brussels, Belgium	3	1	199997	70000	1497	300
+Optimiste pour Bruxelles	MR - Mouvement Réformateur	570826640096148	Facebook	brussels_BE	Brussels, Belgium	17	1	191379	42757	3319	447
+Candice Vanhecke	Abou Jahjah Dyab	583228032160687	Facebook	brussels_BE	Brussels, Belgium	10	1	190990	44000	990	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	brussels_BE	Brussels, Belgium	16	1	176948	85174	710	90
+Listes Destexhe	Listes Destexhe	983524558703058	Facebook	brussels_BE	Brussels, Belgium	6	1	170651	39659	754	67
+Groen Brussel	Groen Brussel	144986545155	Facebook	brussels_BE	Brussels, Belgium	5	1	164995	36000	2095	400
+PTB	PTB	53838654385	Facebook	brussels_BE	Brussels, Belgium	8	1	163629	75454	940	316
+Aymeric DE LAMOTTE	Aymeric Jean De Lamotte 	841559215859811	Facebook	brussels_BE	Brussels, Belgium	4	1	154996	31000	1996	400
+Lander Piccart	Piccart Lander 	654200285025844	Facebook	brussels_BE	Brussels, Belgium	7	1	141179	39093	1419	191
+Ahmed Laaouej	Ahmed Laaouej	672031322849835	Facebook	brussels_BE	Brussels, Belgium	3	1	140650	28130	1403	281
+Jan Cornillie	Cornillie Jan	980619838787000	Facebook	brussels_BE	Brussels, Belgium	6	1	120189	40579	459	62
+Jong Groen		293486792731	Facebook	brussels_BE	Brussels, Belgium	1	1	117642	58821	293	58
+Michel De Maegd	Michel De Maegd 	402910770265916	Facebook	brussels_BE	Brussels, Belgium	3	1	109707	24942	296	0
+Stéphane Obeid	Stephane Jean Obeid	263813223728024	Facebook	brussels_BE	Brussels, Belgium	3	1	109479	51896	1045	189
+DéFI	DéFI	173518112695794	Facebook	brussels_BE	Brussels, Belgium	6	1	108489	22974	887	138
+Lucien Rigaux - 67e PS à la Région de Bruxelles-Capitale	Lucien Rigaux	697600227298160	Facebook	brussels_BE	Brussels, Belgium	6	1	101450	19891	1288	178
+CD&V Brussel	CD&V Brussel	650865328369779	Facebook	brussels_BE	Brussels, Belgium	16	1	97816	20795	1473	0
+Peter Mertens	PVDA	236485149843971	Facebook	brussels_BE	Brussels, Belgium	38	1	97285	37356	787	225
+Olivier Chastel	MR - Mouvement Réformateur	36858143935	Facebook	brussels_BE	Brussels, Belgium	7	1	95719	24534	1043	315
+sp.a	sp.a	57253967150	Facebook	brussels_BE	Brussels, Belgium	10	1	94143	35867	378	108
+Theo Francken	Nieuw-Vlaamse Alliantie	483497581789280	Facebook	brussels_BE	Brussels, Belgium	2	1	94094	37891	104	20
+UNICEF Belgium	UNICEF Belgium	60589646095	Facebook	brussels_BE	Brussels, Belgium	13	1	80564	17386	643	97
+Sven Gatz	Gatz Sven Peter A	100947845480	Facebook	brussels_BE	Brussels, Belgium	5	1	75953	20988	894	99
+Petra De Sutter	Groen	372776579930604	Facebook	brussels_BE	Brussels, Belgium	6	1	74774	15535	439	69
+Yasmine Kherbache - volksvertegenwoordiger	Sp.a Antwerpen	189145821274552	Facebook	brussels_BE	Brussels, Belgium	11	1	72344	14469	221	0
+Cécile Vainsel	Cécile Vainsel	587081831694116	Facebook	brussels_BE	Brussels, Belgium	3	1	64997	16000	297	0
+Frédérique Ries	Frédérique Ries	121508211203759	Facebook	brussels_BE	Brussels, Belgium	3	1	64802	29259	1337	257
+European Commission	European Commission	107898832590939	Facebook	brussels_BE	Brussels, Belgium	22	1	63721	29338	126	32
+Gautier CALOMNE	Gautier Calomne	82157651986	Facebook	brussels_BE	Brussels, Belgium	3	1	60526	14905	692	99
+Claude Moniquet	Claude André A Moniquet	1021310417915887	Facebook	brussels_BE	Brussels, Belgium	2	1	59998	15000	998	200
+Wacky Politicians	Ladbrokes Belgium	325449998160769	Facebook	brussels_BE	Brussels, Belgium	16	1	59808	21901	267	16
+Campagne Tam Tam		227222077819248	Facebook	brussels_BE	Brussels, Belgium	3	1	59032	25723	192	30
+Nahyd Meskini - 9ème suppléante à la Chambre		262389797971976	Facebook	brussels_BE	Brussels, Belgium	2	1	58151	14076	516	89
+Jonathan de Patoul - DéFI	Jonathan Daniël S de Patoul	2069381119775596	Facebook	brussels_BE	Brussels, Belgium	4	1	56996	11000	396	0
+Volt België	Volt België	1620310611353628	Facebook	brussels_BE	Brussels, Belgium	6	1	55058	10809	329	30
+Pro Bruxsel	Alain Walter P Maskens	43144395107	Facebook	brussels_BE	Brussels, Belgium	2	1	54998	11000	598	100
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	brussels_BE	Brussels, Belgium	2	1	53046	11523	506	101
+Peter Van Kemseke	Van Kemseke Peter Leo S	397455370285369	Facebook	brussels_BE	Brussels, Belgium	1	1	49999	10000	499	100
+N-VA Brussels Hoofdstedelijk Gewest	Nieuw-Vlaamse Alliantie	1480604288895159	Facebook	brussels_BE	Brussels, Belgium	1	1	49999	10000	499	100
+Delphine Chabbert, candidate d'ouverture, 4e à Bruxelles #touteslesfamilles	Delphine Chabbert	989742204557872	Facebook	brussels_BE	Brussels, Belgium	1	1	49999	10000	499	100
+Sandra Ferretti WB	Sandra Gabriella Ferretti	610075355737867	Facebook	brussels_BE	Brussels, Belgium	1	1	49999	10000	99	0
+ABVV		188590271170028	Facebook	brussels_BE	Brussels, Belgium	1	1	49999	10000	499	100
+Laura Van Eeckhout	Van Eeckhout Laura Karin	2007508699375704	Facebook	brussels_BE	Brussels, Belgium	1	1	49999	10000	99	0
+Gilles Verstraeten	Nieuw-Vlaamse Alliantie	2151512408274426	Facebook	brussels_BE	Brussels, Belgium	1	1	49999	10000	499	100
 Yannick de Wilde d'Estmael	Yannick de Wilde d'Estmael 	2194262913922415	Facebook	brussels_BE	Brussels, Belgium	1	1	49999	10000	99	0
-Listes Destexhe	Listes Destexhe	983524558703058	Facebook	brussels_BE	Brussels, Belgium	1	1	33809	6762	337	67
-Open Vld	Open Vld	53668151866	Facebook	brussels_BE	Brussels, Belgium	15	1	30350	11578	292	13
-BirdLife Europe and Central Asia	BirdLife Europe and Central Asia	174656216277326	Facebook	brussels_BE	Brussels, Belgium	2	1	20443	4088	40	0
-European Parliament	European Parliament	178362315106	Facebook	brussels_BE	Brussels, Belgium	2	1	17126	3425	170	34
-Parti Socialiste (PS)	Parti Socialiste (PS)	518402351504731	Facebook	brussels_BE	Brussels, Belgium	2	1	14229	2846	88	0
-Vlaams Belang Brussel	Vlaams Belang	499682940133305	Facebook	brussels_BE	Brussels, Belgium	2	1	10925	4963	197	0
+Elio Di Rupo	Parti Socialiste (PS)	16301530829	Facebook	brussels_BE	Brussels, Belgium	16	1	49591	18252	531	106
+Alain Destexhe	Alain Robert O.Destexhe	222804197775919	Facebook	brussels_BE	Brussels, Belgium	3	1	48463	9527	589	88
+Hassan Bousetta 3e à l'Europe		33770596902	Facebook	brussels_BE	Brussels, Belgium	3	1	48078	20540	221	36
+Delphine De Valkeneer	Delphine Isabelle L De Valkeneer	609693995773726	Facebook	brussels_BE	Brussels, Belgium	2	1	47061	9212	558	92
+PS de Watermael-Boitsfort		402092416496556	Facebook	brussels_BE	Brussels, Belgium	1	1	47016	9403	93	0
+Françoise Schepmans		179436225887095	Facebook	brussels_BE	Brussels, Belgium	1	1	45388	9077	452	90
+Martin Maréchal - 6e Suppléant PS Bruxelles à la Chambre	Martin Maréchal	372918879915830	Facebook	brussels_BE	Brussels, Belgium	5	1	44995	21000	495	0
+Alexandra Philippe - DéFI	Alexandra Philippe	2134095363490260	Facebook	brussels_BE	Brussels, Belgium	8	1	44992	12000	792	0
+Paul Magnette		29384148415	Facebook	brussels_BE	Brussels, Belgium	1	1	43724	21862	218	109
+Thierry Gilson	Thierry Gilson	445076859592979	Facebook	brussels_BE	Brussels, Belgium	1	1	43616	8723	435	87
+Wim Soons	Soons Wim	598618930329580	Facebook	brussels_BE	Brussels, Belgium	1	1	42863	21431	106	21
+Pritty Kaur	sp.a	413843202368855	Facebook	brussels_BE	Brussels, Belgium	7	1	39660	9176	252	0
+Meyrem Almaci	Meyrem Almaci	1943402032590802	Facebook	brussels_BE	Brussels, Belgium	2	1	38208	19104	190	38
+Kristof Calvo	Kristof Calvo	345099982367937	Facebook	brussels_BE	Brussels, Belgium	7	1	38083	18842	133	18
+Olivier Colin		1238449286242627	Facebook	brussels_BE	Brussels, Belgium	1	1	36470	7294	72	0
+Anja Vanrobaeys	Vanrobaeys Anja Maurits	795798820785493	Facebook	brussels_BE	Brussels, Belgium	4	1	36322	7670	222	13
+Leila Agic	Leila Agic	229313714293949	Facebook	brussels_BE	Brussels, Belgium	11	1	35026	6207	1010	0
+Stéphanie Heng	Théry Alexandre J Bourgoignie	340587286371062	Facebook	brussels_BE	Brussels, Belgium	11	1	34443	8334	390	0
+Didrik - 48e candidat à la Région de Bruxelles	Didrik de Schaetzen	349509471801299	Facebook	brussels_BE	Brussels, Belgium	10	1	30800	6781	752	0
+AurelieCzekalski	Aurélie Bénédicte Czekalski	572079523148892	Facebook	brussels_BE	Brussels, Belgium	15	1	30564	4000	1443	0
+Karine Lalieux	Karine Madeleine M Lalieux 	1520851034620904	Facebook	brussels_BE	Brussels, Belgium	4	1	29986	11996	395	0
+Enio Cucurachi	Cucurachi Enio Antonio	2196293330408303	Facebook	brussels_BE	Brussels, Belgium	5	1	29570	5914	59	0
+Philippe Lamberts	Philippe Henri L Lamberts	553328368142057	Facebook	brussels_BE	Brussels, Belgium	2	1	25368	5073	148	24
+Ecolo + Arlon		150705241982353	Facebook	brussels_BE	Brussels, Belgium	1	1	25330	12665	126	25
+Marcela Valkova	Valkova Marcela	810377005974686	Facebook	brussels_BE	Brussels, Belgium	2	1	25270	6770	95	0
+Vossaert Michaël	Michaël Vossaert	237845390282626	Facebook	brussels_BE	Brussels, Belgium	4	1	24996	8000	396	0
+DierAnimal		258395278031128	Facebook	brussels_BE	Brussels, Belgium	7	1	21545	4302	109	0
+BirdLife Europe and Central Asia	BirdLife Europe and Central Asia	174656216277326	Facebook	brussels_BE	Brussels, Belgium	2	1	21177	4235	41	0
+Evi Robert voor Europa	Robert Evi Melanie	277540613176324	Facebook	brussels_BE	Brussels, Belgium	9	1	20796	6808	159	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	brussels_BE	Brussels, Belgium	4	1	20304	4060	40	0
+Patrick Lenaers	Patrick Lenaers 	1635110123370943	Facebook	brussels_BE	Brussels, Belgium	2	1	19998	10000	198	0
+Joëlle Maison	Joëlle Maison	382790095089911	Facebook	brussels_BE	Brussels, Belgium	3	1	19997	7000	297	0
+Babette Brusselmans	Brusselmans Babette	173356493548795	Facebook	brussels_BE	Brussels, Belgium	3	1	19339	3867	160	30
+Marc Minneboo	Anthony Lackner	2138144842945429	Facebook	brussels_BE	Brussels, Belgium	2	1	18387	3677	36	0
+Leen Dierick	D'hauwer Pieter	279936192533387	Facebook	brussels_BE	Brussels, Belgium	2	1	17774	8834	17	0
+Hendrik Bogaert	Bogaert Hendrik Frank	277636928983663	Facebook	brussels_BE	Brussels, Belgium	39	1	17279	5668	203	13
+Marc Loewenstein	Marco Loewenstein	664636000270959	Facebook	brussels_BE	Brussels, Belgium	4	1	16996	6000	396	0
+EPP Group in the European Committee of the Regions	EPP Group in the European Committee of the Regions	200559876664896	Facebook	brussels_BE	Brussels, Belgium	1	1	16603	3320	165	33
+Vlaams Belang	Vlaams Belang	56605856504	Facebook	brussels_BE	Brussels, Belgium	9	1	16486	7360	171	63
+Tom Van Grieken	Vlaams Belang	584806884924010	Facebook	brussels_BE	Brussels, Belgium	6	1	16435	7593	497	136
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	brussels_BE	Brussels, Belgium	24	1	16365	5709	71	8
+Glenn Van Herrewege Page	Volt België	552144098602067	Facebook	brussels_BE	Brussels, Belgium	2	1	15966	4975	158	20
+Tom Kersemans	Tom Maria L Kersemans	353496071904485	Facebook	brussels_BE	Brussels, Belgium	4	1	15139	4105	213	38
+Jelmen Haaze	Haaze Jelmen Ed T	628369674250461	Facebook	brussels_BE	Brussels, Belgium	3	1	14997	3000	297	0
+Hilde Crevits	Hilde Crevits	384632394957341	Facebook	brussels_BE	Brussels, Belgium	2	1	14706	6403	225	45
+Groen Lebbeke	Pollet Tim	579893498817499	Facebook	brussels_BE	Brussels, Belgium	1	1	14696	2939	29	0
+Omar Ba Groen plaats Nr 3 Europa	Vancoillie Sofie	459979281475594	Facebook	brussels_BE	Brussels, Belgium	1	1	14620	2924	28	0
+Eva De Bleeker-pagina	De Bleeker Eva Maria A	652427761837497	Facebook	brussels_BE	Brussels, Belgium	3	1	13968	5556	141	8
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	brussels_BE	Brussels, Belgium	2	1	13719	6016	30	11
+Helga Stevens	N-VA	213362252188490	Facebook	brussels_BE	Brussels, Belgium	3	1	13369	2673	134	27
+Jong N-VA		106265382759554	Facebook	brussels_BE	Brussels, Belgium	1	1	13328	2665	133	26
+CDU Brüssel-Belgien	CDU-Auslandsverband Brüssel-Belgien	498837460204117	Facebook	brussels_BE	Brussels, Belgium	8	1	12490	2123	320	15
+Tom Vandenkendelaere	Tom Vandenkendelaere	676737302477960	Facebook	brussels_BE	Brussels, Belgium	2	1	12404	2509	25	0
+Conner Rousseau	Conner Rousseau	942750852588816	Facebook	brussels_BE	Brussels, Belgium	17	1	12094	2531	71	11
+WWF-Belgium	WWF-Belgium	110844205773	Facebook	brussels_BE	Brussels, Belgium	6	1	11952	2544	83	0
+Geert Bourgeois	Nieuw-Vlaamse Alliantie	649429725077632	Facebook	brussels_BE	Brussels, Belgium	1	1	11407	4563	114	22
+Centre d'Action Laïque	Centre d'Action Laïque	176170955780752	Facebook	brussels_BE	Brussels, Belgium	1	1	11099	2220	21	0
+Olivier De Schutter	Ecolo	319786285375557	Facebook	brussels_BE	Brussels, Belgium	1	1	10969	2193	109	21
+Laure Nkundakozera Uwase #23		1844087905686822	Facebook	brussels_BE	Brussels, Belgium	1	1	10604	2120	105	21
 Rudi Vervoort		75793785999	Facebook	brussels_BE	Brussels, Belgium	2	1	10533	4767	193	0
-Rachid Azaoum	Rachid Azaoum	1016780215187655	Facebook	brussels_BE	Brussels, Belgium	1	1	9983	4992	98	0
-Gautier CALOMNE	Gautier Calomne	82157651986	Facebook	brussels_BE	Brussels, Belgium	1	1	9911	4956	98	0
-Peter Mertens	PVDA	236485149843971	Facebook	brussels_BE	Brussels, Belgium	6	1	9871	4697	49	9
-Lucien Rigaux - 67e PS à la Région de Bruxelles-Capitale	Lucien Rigaux	697600227298160	Facebook	brussels_BE	Brussels, Belgium	1	1	9032	4516	89	0
-PTB	PTB	53838654385	Facebook	brussels_BE	Brussels, Belgium	3	1	8890	1578	177	15
-Dyab Abou Jahjah	Abou Jahjah Dyab	650597568382274	Facebook	brussels_BE	Brussels, Belgium	2	1	5998	1000	198	0
-Be.One	Abou Jahjah Dyab	203646696858225	Facebook	brussels_BE	Brussels, Belgium	2	1	5998	1000	198	0
-Vlaams Belang	Vlaams Belang	56605856504	Facebook	brussels_BE	Brussels, Belgium	5	1	5964	2673	60	26
-Jonathan de Patoul - DéFI	Jonathan Daniël S de Patoul	2069381119775596	Facebook	brussels_BE	Brussels, Belgium	4	1	3996	0	396	0
-Alain Destexhe	Alain Robert O.Destexhe	222804197775919	Facebook	brussels_BE	Brussels, Belgium	1	1	3311	662	65	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	brussels_BE	Brussels, Belgium	1	1	3039	1519	7	1
-European Commission	European Commission	107898832590939	Facebook	brussels_BE	Brussels, Belgium	2	1	2701	1351	6	1
-CD&V Oostkamp	CD&V Oostkamp	2062142307347631	Facebook	brussels_BE	Brussels, Belgium	1	1	2599	1299	12	2
-Geert Bourgeois	Nieuw-Vlaamse Alliantie	649429725077632	Facebook	brussels_BE	Brussels, Belgium	1	1	2287	1143	11	2
+Brecht Warnez	Warnez Brecht Luc T	998887823550443	Facebook	brussels_BE	Brussels, Belgium	84	1	10434	2434	224	0
+VB - nos gens d'abord	Vlaams Belang	816130908786112	Facebook	brussels_BE	Brussels, Belgium	14	1	10429	3966	96	22
+sp.a West-Vlaanderen	sp.a West-Vlaanderen	269157793205215	Facebook	brussels_BE	Brussels, Belgium	9	1	10421	3380	90	18
+EESC - European Economic and Social Committee	EESC - European Economic and Social Committee	144709575593854	Facebook	brussels_BE	Brussels, Belgium	1	1	9999	5000	99	0
+Candidate Raquel Gomes David	Gomes David Raquel	364123120866777	Facebook	brussels_BE	Brussels, Belgium	1	1	9999	5000	99	0
+Volt Belgique	Volt Belgique	275758083142875	Facebook	brussels_BE	Brussels, Belgium	1	1	9999	5000	99	0
+Annabel Tavernier	Nieuw-Vlaamse Alliantie	329027807799398	Facebook	brussels_BE	Brussels, Belgium	1	1	9999	5000	499	100
+DéFi Jamila Sahraoui		1321317508006602	Facebook	brussels_BE	Brussels, Belgium	2	1	9998	2000	198	0
+Fatima Abbach	Fatima Abbach	1721280034665554	Facebook	brussels_BE	Brussels, Belgium	2	1	9998	2000	198	0
+Audrey Henry	Audrey Henry	502988170105713	Facebook	brussels_BE	Brussels, Belgium	10	1	9990	0	990	0
+Olivier Coppens	Olivier Coppens	2086435664734819	Facebook	brussels_BE	Brussels, Belgium	1	1	9983	4992	98	0
+Martine PAYFA		146007879380821	Facebook	brussels_BE	Brussels, Belgium	3	1	9901	1924	123	19
+Charis Kamoen	Kamoen Charis Oswald M	207387513240677	Facebook	brussels_BE	Brussels, Belgium	2	1	9800	1960	107	17
+Det Radikale Venstre i Bruxelles	Espelund Morten	146464325502929	Facebook	brussels_BE	Brussels, Belgium	1	1	9624	1924	96	19
+MR Koekelberg soutien à Lucas Ducarme et Philippe Pivin	Lucas Denis E Ducarme	1706672722902391	Facebook	brussels_BE	Brussels, Belgium	1	1	9129	4565	90	0
+Denis Collard candidat		1414424415483804	Facebook	brussels_BE	Brussels, Belgium	1	1	8902	1780	17	0
+Maggie De Block	Maggie De Block	1410219772556421	Facebook	brussels_BE	Brussels, Belgium	16	1	8490	1924	119	22
+Anne Decortis Listes Destexhe	Anne Jenny F Decortis 	423493048193576	Facebook	brussels_BE	Brussels, Belgium	1	1	8195	4098	409	81
+RTBF Info	RTBF Info	143068588877	Facebook	brussels_BE	Brussels, Belgium	1	1	7783	1556	15	0
+Debating Europe	Debating Europe	132011730204757	Facebook	brussels_BE	Brussels, Belgium	3	1	7752	1550	153	0
+N-VA	Nieuw-Vlaamse Alliantie	334361224413	Facebook	brussels_BE	Brussels, Belgium	1	1	7707	3853	192	38
+Matthias Diependaele	Nieuw-Vlaamse Alliantie	543319679114946	Facebook	brussels_BE	Brussels, Belgium	6	1	7461	1501	75	15
+Centrale Générale - FGTB	Centrale Générale - FGTB	201359506543663	Facebook	brussels_BE	Brussels, Belgium	1	1	6623	1324	13	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	brussels_BE	Brussels, Belgium	1	1	6613	3306	16	3
+CD&V Oostkamp	CD&V Oostkamp	2062142307347631	Facebook	brussels_BE	Brussels, Belgium	4	1	6587	2795	28	5
+Monica De Coninck - Europese verkiezingen	De Coninck Monica Josephine L	336638023665298	Facebook	brussels_BE	Brussels, Belgium	4	1	6515	2741	81	0
+Jesuit Refugee Service Europe - JRS	JRS Europe	1568112950115984	Facebook	brussels_BE	Brussels, Belgium	4	1	6509	2928	154	17
+Bert Maertens	N-VA	230657213955622	Facebook	brussels_BE	Brussels, Belgium	3	1	6268	2656	16	2
+Christophe Calis	Calis Christophe Koenraad R.	2396791870539800	Facebook	brussels_BE	Brussels, Belgium	7	1	6085	982	213	0
+Groen Schaarbeek		201489859938533	Facebook	brussels_BE	Brussels, Belgium	2	1	5998	1000	198	0
+Opaline Meunier	Opaline Meunier	1003984536437712	Facebook	brussels_BE	Brussels, Belgium	4	1	5895	2353	27	3
+Alexandra D'Archambeau	D'Archambeau Alexandra Sylvie O	213637018831903	Facebook	brussels_BE	Brussels, Belgium	1	1	5694	2847	56	0
+Les Grenades - RTBF	Les Grenades - RTBF	1010298882498268	Facebook	brussels_BE	Brussels, Belgium	3	1	5572	1114	110	0
+CD&V Sint Agatha Berchem	Claes Léna Alice N	186110514876743	Facebook	brussels_BE	Brussels, Belgium	2	1	5269	880	173	0
+Robrecht Bothuyne	D'hauwer Pieter	365185737579327	Facebook	brussels_BE	Brussels, Belgium	3	1	5106	1170	93	0
+John Crombez	sp.a	264131406977201	Facebook	brussels_BE	Brussels, Belgium	1	1	5096	2548	12	2
+Lara Thommès - 20e sur liste PS à la Région bruxelloise	Lara Julie M.Thommes	2176100615739401	Facebook	brussels_BE	Brussels, Belgium	1	1	4999	1000	99	0
+Danielle Godderis T'Jonck	N-VA	239999043457805	Facebook	brussels_BE	Brussels, Belgium	4	1	4840	968	38	7
+Björn Anseeuw	Nieuw-Vlaamse Alliantie	145963782413441	Facebook	brussels_BE	Brussels, Belgium	1	1	4649	2324	11	2
+Koenraad Degroote	Nieuw-Vlaamse Alliantie	1892098237771732	Facebook	brussels_BE	Brussels, Belgium	1	1	4627	2313	23	11
+Vincent Granville	Vincent Granville	393048054042295	Facebook	brussels_BE	Brussels, Belgium	3	1	4592	918	90	0
+Dirk Rochtus, plaats 27 voor het Vlaams Parlement, Provincie Antwerpen	Dirk Rochtus	381494492700046	Facebook	brussels_BE	Brussels, Belgium	6	1	4263	822	96	0
+Jos D'Haese	PVDA	1397002987227704	Facebook	brussels_BE	Brussels, Belgium	8	1	4147	1286	35	6
+Eda Öztürk	Ozturk Eda	256652841853645	Facebook	brussels_BE	Brussels, Belgium	1	1	3803	1902	37	0
+Sander Loones	Nieuw-Vlaamse Alliantie	575160279283539	Facebook	brussels_BE	Brussels, Belgium	4	1	3722	744	10	0
+Aaron Ooms	Ooms Aaron Maria W	127953044627536	Facebook	brussels_BE	Brussels, Belgium	3	1	3624	852	36	6
+Guy D'haeseleer	Vlaams Belang	1070595116362186	Facebook	brussels_BE	Brussels, Belgium	2	1	3551	1658	35	14
+CDH liste à la Chambre province de Liège	CDH - Centre Démocrate Humaniste	268478507423505	Facebook	brussels_BE	Brussels, Belgium	1	1	3499	699	34	6
+Kyriakidis David		2786326408074980	Facebook	brussels_BE	Brussels, Belgium	2	1	3409	1335	45	0
+Wouter Vermeersch	Vlaams Belang	1819099895078637	Facebook	brussels_BE	Brussels, Belgium	14	1	3397	1208	37	2
+Johan Vande Lanotte	Johan Vande Lanotte	326674124027240	Facebook	brussels_BE	Brussels, Belgium	3	1	3383	784	22	3
+Consulat de Belgique en Republique Dominicaine 2005_2016		796900477392786	Facebook	brussels_BE	Brussels, Belgium	1	1	3278	655	57	0
+Vlaams Belang Mechelen		468360273215685	Facebook	brussels_BE	Brussels, Belgium	1	1	2970	594	29	5
+Wilfried Vandaele	N-VA	134830590539925	Facebook	brussels_BE	Brussels, Belgium	2	1	2960	592	18	3
+Dimitry Soenen	Van Isacker Bernard Andre J	256022915307211	Facebook	brussels_BE	Brussels, Belgium	2	1	2844	1141	18	3
+Jong Groen Middenkust	De Lille Robin Raymond R	622145671160375	Facebook	brussels_BE	Brussels, Belgium	2	1	2821	564	28	5
+Ecolo Hainaut	Ecolo Hainaut	121653681195914	Facebook	brussels_BE	Brussels, Belgium	5	1	2772	554	27	5
+Bieke Moerman	Bieke Moerman	498415337201849	Facebook	brussels_BE	Brussels, Belgium	5	1	2737	968	20	4
+Ecolo Braine Le Comte	Ecolo Braine-le-Comte	775758055853342	Facebook	brussels_BE	Brussels, Belgium	4	1	2679	455	85	0
+Jurgen Vanlerberghe	Vanlerberghe Jurgen Maurits P	1664229433634791	Facebook	brussels_BE	Brussels, Belgium	7	1	2557	585	20	2
+Yngvild Ingels	Nieuw-Vlaamse Alliantie	585897671936036	Facebook	brussels_BE	Brussels, Belgium	2	1	2429	485	24	4
+Annick Lambrecht	Lambrecht Annick Jacques M	2229481170658339	Facebook	brussels_BE	Brussels, Belgium	2	1	2301	460	4	0
+Brecht Vermeulen	Nieuw-Vlaamse Alliantie	167165610745178	Facebook	brussels_BE	Brussels, Belgium	1	1	2264	1132	11	2
+An Capoen	Nieuw-Vlaamse Alliantie	128105340557056	Facebook	brussels_BE	Brussels, Belgium	1	1	2252	1126	11	2
+Sense Mesura		1606564102740842	Facebook	brussels_BE	Brussels, Belgium	38	1	2250	0	223	0
+Jan De Volder	CD&V	250105722223585	Facebook	brussels_BE	Brussels, Belgium	3	1	2220	750	33	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	brussels_BE	Brussels, Belgium	5	1	2218	777	8	0
 Comac étudiants	PTB	386211174868638	Facebook	brussels_BE	Brussels, Belgium	2	1	2150	430	42	0
-Candice Vanhecke	Abou Jahjah Dyab	583228032160687	Facebook	brussels_BE	Brussels, Belgium	2	1	1998	0	198	0
-Optimiste pour Bruxelles	MR - Mouvement Réformateur	570826640096148	Facebook	brussels_BE	Brussels, Belgium	2	1	1678	0	166	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	brussels_BE	Brussels, Belgium	4	1	1622	513	3	0
-CDU Brüssel-Belgien	CDU-Auslandsverband Brüssel-Belgien	498837460204117	Facebook	brussels_BE	Brussels, Belgium	3	1	1248	0	123	0
-Charis Kamoen	Kamoen Charis Oswald M	207387513240677	Facebook	brussels_BE	Brussels, Belgium	1	1	1129	225	22	0
-Det Radikale Venstre i Bruxelles	Espelund Morten	146464325502929	Facebook	brussels_BE	Brussels, Belgium	1	1	1123	224	22	0
-Aaron Ooms	Ooms Aaron Maria W	127953044627536	Facebook	brussels_BE	Brussels, Belgium	1	1	1039	207	2	0
-Jelmen Haaze	Haaze Jelmen Ed T	628369674250461	Facebook	brussels_BE	Brussels, Belgium	1	1	999	0	99	0
-Vincent De Wolf	Vincent Gilles De Wolf	399983396831282	Facebook	brussels_BE	Brussels, Belgium	1	1	999	0	99	0
-Marc Loewenstein	Marco Loewenstein	664636000270959	Facebook	brussels_BE	Brussels, Belgium	1	1	999	0	99	0
-Didrik - 48e candidat à la Région de Bruxelles	Didrik de Schaetzen	349509471801299	Facebook	brussels_BE	Brussels, Belgium	1	1	999	0	99	0
-CD&V Brussel	CD&V Brussel	650865328369779	Facebook	brussels_BE	Brussels, Belgium	1	1	889	0	88	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	brussels_BE	Brussels, Belgium	2	1	686	162	2	0
-Ecolo Hainaut	Ecolo Hainaut	121653681195914	Facebook	brussels_BE	Brussels, Belgium	2	1	617	150	1	0
-Conner Rousseau	Conner Rousseau	942750852588816	Facebook	brussels_BE	Brussels, Belgium	2	1	607	303	6	0
-Evi Van Camp	Van Camp Evi	1758937624358952	Facebook	brussels_BE	Brussels, Belgium	1	1	495	99	9	0
-Marcela Valkova	Valkova Marcela	810377005974686	Facebook	brussels_BE	Brussels, Belgium	1	1	488	0	48	0
-Enio Cucurachi	Cucurachi Enio Antonio	2196293330408303	Facebook	brussels_BE	Brussels, Belgium	1	1	461	92	9	0
-Barbara Pas	Vlaams Belang	365242667182267	Facebook	brussels_BE	Brussels, Belgium	1	1	330	165	1	0
-Jurgen Vanlerberghe	Vanlerberghe Jurgen Maurits P	1664229433634791	Facebook	brussels_BE	Brussels, Belgium	1	1	201	100	1	0
-Hendrik Bogaert	Bogaert Hendrik Frank	277636928983663	Facebook	brussels_BE	Brussels, Belgium	5	1	194	32	6	0
-Christophe Calis	Calis Christophe Koenraad R.	2396791870539800	Facebook	brussels_BE	Brussels, Belgium	1	1	162	0	16	0
-Bert Maertens	N-VA	230657213955622	Facebook	brussels_BE	Brussels, Belgium	1	1	152	30	3	0
-Wouter Vermeersch	Vlaams Belang	1819099895078637	Facebook	brussels_BE	Brussels, Belgium	1	1	142	71	1	0
-Danielle Godderis T'Jonck	N-VA	239999043457805	Facebook	brussels_BE	Brussels, Belgium	1	1	134	26	2	0
-Gijs Degrande	N-VA	2343399459056104	Facebook	brussels_BE	Brussels, Belgium	1	1	122	24	2	0
-Evi Robert voor Europa	Robert Evi Melanie	277540613176324	Facebook	brussels_BE	Brussels, Belgium	1	1	110	0	10	0
-Jan De Volder	CD&V	250105722223585	Facebook	brussels_BE	Brussels, Belgium	1	1	76	0	7	0
-Groen	Groen	84920854319	Facebook	brussels_BE	Brussels, Belgium	2	1	61	0	6	0
-Maggie De Block	Maggie De Block	1410219772556421	Facebook	brussels_BE	Brussels, Belgium	2	1	60	0	5	0
-Koen Geens	CD&V	294055357407926	Facebook	brussels_BE	Brussels, Belgium	2	1	50	0	5	0
-Groen West-Vlaanderen	Sabels Jordy	2498060896894670	Facebook	brussels_BE	Brussels, Belgium	2	1	39	0	3	0
-Cindy Franssen.	Franssen Cindy	404939213355109	Facebook	brussels_BE	Brussels, Belgium	1	1	36	0	3	0
-Jos D'Haese	PVDA	1397002987227704	Facebook	brussels_BE	Brussels, Belgium	1	1	33	6	0	0
-Stijn De Roo	De Roo Stijn Emiel E	251722678703408	Facebook	brussels_BE	Brussels, Belgium	1	1	15	0	1	0
-Natalie Eggermont	PVDA	415595709204858	Facebook	brussels_BE	Brussels, Belgium	1	1	13	0	1	0
-Els Van Hoof-pagina	Van Hoof Els Walter H	315278555648437	Facebook	brussels_BE	Brussels, Belgium	1	1	13	2	0	0
-Vlaams Belang Jongeren	Vlaams Belang Jongeren	203903005659	Facebook	brussels_BE	Brussels, Belgium	1	1	12	0	1	0
-Joris Vandenbroucke	Vandenbroucke Joris Jeroen J	984867054996076	Facebook	brussels_BE	Brussels, Belgium	1	1	12	2	0	0
-Michelle Ginée	Ginee Michelle	1059190017557242	Facebook	brussels_BE	Brussels, Belgium	1	1	10	2	0	0
-N-VA Temse	N-VA Temse	157739524296696	Facebook	brussels_BE	Brussels, Belgium	1	1	8	1	0	0
-Sébastien Dewailly	Sébastien Dewailly	347034845930735	Facebook	brussels_BE	Brussels, Belgium	1	1	6	0	0	0
+Barbara Pas	Vlaams Belang	365242667182267	Facebook	brussels_BE	Brussels, Belgium	2	1	2057	999	20	9
+Axel Ronse	N-VA	2375576969141695	Facebook	brussels_BE	Brussels, Belgium	2	1	2035	407	12	2
+Melissa Depraetere	DEPRAETERE MELISSA MARIA J.	2101118869952701	Facebook	brussels_BE	Brussels, Belgium	2	1	2017	403	30	11
+Lionel Bajart		416342682225563	Facebook	brussels_BE	Brussels, Belgium	2	1	1998	0	198	0
+Michiel Vandewalle		623661894685605	Facebook	brussels_BE	Brussels, Belgium	1	1	1895	379	3	0
+Ecolo Mons-Borinage / Hauts-Pays	Bravin Geoffrey 	235500823177113	Facebook	brussels_BE	Brussels, Belgium	5	1	1869	370	30	1
+Fédération des Etudiants Libéraux	Fédération des Etudiants Libéraux 	6520274567	Facebook	brussels_BE	Brussels, Belgium	1	1	1851	370	36	0
+Vlaams Belang Jongeren	Vlaams Belang Jongeren	203903005659	Facebook	brussels_BE	Brussels, Belgium	5	1	1820	428	17	3
+Franky Demon	Demon Franky Laurent G	806143506178116	Facebook	brussels_BE	Brussels, Belgium	2	1	1690	338	16	3
+Koen Geens	CD&V	294055357407926	Facebook	brussels_BE	Brussels, Belgium	15	1	1679	465	50	9
+Catharina Rinzema		2114625695290780	Facebook	brussels_BE	Brussels, Belgium	1	1	1675	335	3	0
+Tess Minnens	Minnens Tess Veerie L	131791854353190	Facebook	brussels_BE	Brussels, Belgium	2	1	1667	759	22	1
+Jan-Baptist Lemaire	Lemaire Jan-Baptist Catherine J	436626493747712	Facebook	brussels_BE	Brussels, Belgium	3	1	1600	299	39	0
+Sander Vandecapelle	Vandecapelle Sander 	288654088488077	Facebook	brussels_BE	Brussels, Belgium	1	1	1559	311	30	0
+Lieve Wierinck	Wierinck Godelieve Joanna	994682667310188	Facebook	brussels_BE	Brussels, Belgium	3	1	1467	209	62	0
+Hilde Vautmans		1121251937901508	Facebook	brussels_BE	Brussels, Belgium	1	1	1416	708	14	0
+Rita Gantois	N-VA	306815242860827	Facebook	brussels_BE	Brussels, Belgium	1	1	1385	277	2	0
+N-VA Aalter	Tillieu Jelle Gerard M	183728085015968	Facebook	brussels_BE	Brussels, Belgium	1	1	1346	269	13	2
+Gijs Degrande	N-VA	2343399459056104	Facebook	brussels_BE	Brussels, Belgium	2	1	1273	254	13	2
+Evi Van Camp	Van Camp Evi	1758937624358952	Facebook	brussels_BE	Brussels, Belgium	1	1	1229	615	12	0
+Rina Rabau - Plaats 4, Federaal Parlement	Rabau Nikandu-Rina	477573972668735	Facebook	brussels_BE	Brussels, Belgium	1	1	1215	243	24	0
+Tom De Meester	PVDA	409051602452966	Facebook	brussels_BE	Brussels, Belgium	1	1	1205	602	11	0
+Bart Somers		596946040405796	Facebook	brussels_BE	Brussels, Belgium	1	1	1201	601	60	12
+ITUC		20556338116	Facebook	brussels_BE	Brussels, Belgium	1	1	1187	594	11	0
+Philippe Close		467344056705679	Facebook	brussels_BE	Brussels, Belgium	1	1	999	0	99	0
+Mouvement Demain	Pierre Eyben	203507300150906	Facebook	brussels_BE	Brussels, Belgium	1	1	999	0	99	0
+Open Vld Brussel		1589760981258549	Facebook	brussels_BE	Brussels, Belgium	1	1	999	0	99	0
+Steve Vandenberghe	Vanderberghe Steve Louis W	405020113176546	Facebook	brussels_BE	Brussels, Belgium	1	1	967	193	1	0
+Nathalie Muylle	Nathalie Muylle	1230985333669070	Facebook	brussels_BE	Brussels, Belgium	1	1	967	193	1	0
+Jean de Bethune	De Bethune Jean Baptiste E	425691141175605	Facebook	brussels_BE	Brussels, Belgium	1	1	924	184	1	0
+Thijs Morlion	Morlion Thijs Wim C	379011616013698	Facebook	brussels_BE	Brussels, Belgium	1	1	923	184	1	0
+Liesbeth Claesen		616717792057494	Facebook	brussels_BE	Brussels, Belgium	8	1	922	253	16	0
+Kasper Vandecasteele	Vandecasteele Kasper	525551311288918	Facebook	brussels_BE	Brussels, Belgium	2	1	879	175	8	1
+PVDA	PVDA	54970503767	Facebook	brussels_BE	Brussels, Belgium	1	1	869	434	4	0
+André Antoine	André Antoine	16123379845	Facebook	brussels_BE	Brussels, Belgium	3	1	815	163	16	0
+Health and Environment Alliance (HEAL)	The Health and Environment Alliance (HEAL)	208410145872548	Facebook	brussels_BE	Brussels, Belgium	1	1	796	159	15	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	brussels_BE	Brussels, Belgium	3	1	785	314	3	0
+Dries Van Langenhove	Vlaams Belang	1585072555117186	Facebook	brussels_BE	Brussels, Belgium	1	1	772	386	19	3
+Christine Gonay MR 4ème eff Europe		1867216703377890	Facebook	brussels_BE	Brussels, Belgium	1	1	713	142	14	0
+Marie Christine Marghem	Marie Christine Marghem	341830209277848	Facebook	brussels_BE	Brussels, Belgium	2	1	712	188	2	0
+Bekir Kablan	Kablan Bekir Emre	650745248703181	Facebook	brussels_BE	Brussels, Belgium	3	1	705	246	7	0
+Groen West-Vlaanderen	Sabels Jordy	2498060896894670	Facebook	brussels_BE	Brussels, Belgium	6	1	674	134	13	0
+Louis Ide	N-VA	614969692296780	Facebook	brussels_BE	Brussels, Belgium	2	1	659	329	1	0
+Tiffany Fevery		257582104357616	Facebook	brussels_BE	Brussels, Belgium	1	1	652	326	6	0
+Georges Balon Perin, Erasmus kandidaat bij GROEN		820663108311661	Facebook	brussels_BE	Brussels, Belgium	3	1	642	184	6	0
+PS Mons-Borinage		132596773464688	Facebook	brussels_BE	Brussels, Belgium	2	1	641	117	10	1
+CD&V Diksmuide	CD&V Diksmuide	625936054280293	Facebook	brussels_BE	Brussels, Belgium	2	1	612	150	1	0
+Marine Chenoy 4ème sur la liste Fédérale PS pour Namur	Marine Chenoy	2131801880435129	Facebook	brussels_BE	Brussels, Belgium	1	1	588	117	11	0
+Lise Vandecasteele	PVDA	2433030616715564	Facebook	brussels_BE	Brussels, Belgium	3	1	558	241	6	0
+Steven Kindt	Kindt Steven Karel A	934178266778547	Facebook	brussels_BE	Brussels, Belgium	1	1	510	102	1	0
+Filef Nuova Emigrazione - Belgio	Pietro Lunetto	614768311990403	Facebook	brussels_BE	Brussels, Belgium	1	1	504	0	49	0
+JONG CD&V	JONG CD&V	638247042856542	Facebook	brussels_BE	Brussels, Belgium	1	1	502	251	4	0
+Dominique Coucke-pagina		1968318183496025	Facebook	brussels_BE	Brussels, Belgium	5	1	475	50	27	0
+Pieter De Crem	CD&V	795215224016947	Facebook	brussels_BE	Brussels, Belgium	3	1	461	92	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	brussels_BE	Brussels, Belgium	2	1	438	147	7	1
+Rezi Friedman	Friedman Rezi	249135725796994	Facebook	brussels_BE	Brussels, Belgium	2	1	413	189	22	3
+Timothy Rowies	Rowies Timothy	230172250986880	Facebook	brussels_BE	Brussels, Belgium	1	1	396	79	7	3
+Stijn De Roo	De Roo Stijn Emiel E	251722678703408	Facebook	brussels_BE	Brussels, Belgium	3	1	390	78	5	0
+Steven Arrazola de Oñate	Arrazola de Oñate Steven Raymond H	578017509235623	Facebook	brussels_BE	Brussels, Belgium	3	1	387	71	10	0
+Belgian Military Interests		246810655463132	Facebook	brussels_BE	Brussels, Belgium	1	1	387	77	7	0
+Vrouw & Maatschappij - CD&V politica	Vrouw & Maatschappij	268844173157989	Facebook	brussels_BE	Brussels, Belgium	1	1	370	74	7	0
+Alexander De Croo	Alexander De Croo	228307843991539	Facebook	brussels_BE	Brussels, Belgium	4	1	364	92	3	0
+Edwin Korver	Korver Edwin Hendrik	1026660687522073	Facebook	brussels_BE	Brussels, Belgium	4	1	361	0	35	0
+Roel Van Elsacker	Van Elsacker Roel	755735138160727	Facebook	brussels_BE	Brussels, Belgium	1	1	358	71	7	0
+Issam Benali	Benali Issam	92011327952	Facebook	brussels_BE	Brussels, Belgium	3	1	346	61	9	0
+Adeline Bouché	Bouché Adeline Danielle P	474944862932729	Facebook	brussels_BE	Brussels, Belgium	1	1	320	160	15	3
+Oona Wyns	Wyns Oona Elisa J	285090205488587	Facebook	brussels_BE	Brussels, Belgium	1	1	313	62	0	0
+Big News Buzz		125179374733697	Facebook	brussels_BE	Brussels, Belgium	1	1	301	151	1	0
+Sébastien Dewailly	Sébastien Dewailly	347034845930735	Facebook	brussels_BE	Brussels, Belgium	1	1	294	58	2	0
+Maarten Van Tieghem	Maarten Van Tieghem	815412612126096	Facebook	brussels_BE	Brussels, Belgium	2	1	282	137	1	0
+Robin De Lille	De Lille Robin Raymond R	768512923515237	Facebook	brussels_BE	Brussels, Belgium	1	1	280	140	2	0
+Joris Vandenbroucke	Vandenbroucke Joris Jeroen J	984867054996076	Facebook	brussels_BE	Brussels, Belgium	5	1	277	65	3	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	brussels_BE	Brussels, Belgium	1	1	272	0	27	0
+Pieter-Jan Verhoye	Verhoye Pieter-Jan	300513937202082	Facebook	brussels_BE	Brussels, Belgium	1	1	270	135	2	0
+Wouter De Vriendt	Sabels Jordy	2148775248546904	Facebook	brussels_BE	Brussels, Belgium	2	1	267	53	5	0
+Province : il est temps de faire bouger les choses avec ECOLO		2132853950059181	Facebook	brussels_BE	Brussels, Belgium	1	1	262	52	2	0
+N-VA Gent	Nieuw-Vlaamse Alliantie	125138890876117	Facebook	brussels_BE	Brussels, Belgium	2	1	261	126	1	0
+Dirk De fauw	De Fauw Dirk Mark L	904083546394929	Facebook	brussels_BE	Brussels, Belgium	1	1	254	50	5	0
+Natalie Eggermont	PVDA	415595709204858	Facebook	brussels_BE	Brussels, Belgium	2	1	253	126	2	0
+Sabine Vermeulen	N-VA	214103642510187	Facebook	brussels_BE	Brussels, Belgium	3	1	243	48	0	0
+Janna Bauters	Bauters Janna Linda D	355343038399994	Facebook	brussels_BE	Brussels, Belgium	2	1	240	117	0	0
+Jeremie Vaneeckhout	Sabels Jordy	1373626132778895	Facebook	brussels_BE	Brussels, Belgium	1	1	234	117	2	0
+Dirk Devroey - Lijstduwer Kamer Vlaams-Brabant		2372256669453633	Facebook	brussels_BE	Brussels, Belgium	1	1	234	0	23	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	brussels_BE	Brussels, Belgium	1	1	217	87	0	0
+Nele Caus		297954777655834	Facebook	brussels_BE	Brussels, Belgium	1	1	205	41	4	0
+Niko Larock		266688844168039	Facebook	brussels_BE	Brussels, Belgium	1	1	197	98	1	0
+PVDA West-Vlaanderen	PVDA	1661103980836335	Facebook	brussels_BE	Brussels, Belgium	1	1	177	88	1	0
+Elke Sleurs	N-VA	571227032971640	Facebook	brussels_BE	Brussels, Belgium	3	1	170	68	2	0
+CDH  Binche		761441187280813	Facebook	brussels_BE	Brussels, Belgium	1	1	168	84	1	0
+PVDA Oostende-Middenkust	PVDA	271488549672371	Facebook	brussels_BE	Brussels, Belgium	1	1	161	32	3	0
+Karin Brouwers	Karin Francisca Brouwers	862762280563277	Facebook	brussels_BE	Brussels, Belgium	6	1	157	31	1	0
+Maurits Vande Reyde	Vande Reyde Maurits Jozef	1797427180478228	Facebook	brussels_BE	Brussels, Belgium	13	1	151	40	1	0
+PVDA Brugge	PVDA	581383855270720	Facebook	brussels_BE	Brussels, Belgium	1	1	150	30	2	0
+Els Van Hoof-pagina	Van Hoof Els Walter H	315278555648437	Facebook	brussels_BE	Brussels, Belgium	5	1	143	68	1	0
+Valérie De Bue	Valérie De Bue	261617251408	Facebook	brussels_BE	Brussels, Belgium	1	1	135	27	2	0
+Peter Van Rompuy	CD&V	257794051588457	Facebook	brussels_BE	Brussels, Belgium	9	1	132	51	2	0
+CD&V Erpe-Mere	Van Vaerenbergh Johan August G	287188131471344	Facebook	brussels_BE	Brussels, Belgium	1	1	124	24	1	0
+Daan De Veuster	De Veuster Daan Jozef D	1753693034925883	Facebook	brussels_BE	Brussels, Belgium	1	1	116	58	1	0
+Johanna Huylenbroeck	Schiettecat Tom Pierre J	390331084889844	Facebook	brussels_BE	Brussels, Belgium	1	1	115	23	0	0
+Groen Vlaams-Brabant	Groen Vlaams-Brabant	60637191219	Facebook	brussels_BE	Brussels, Belgium	1	1	114	22	1	0
+Dorothée Tomasetig, 2ème effective sur la liste du CDH au Brabant Wallon		2183758281702845	Facebook	brussels_BE	Brussels, Belgium	1	1	113	22	1	0
+Aiqulle Fillo		194956887722931	Facebook	brussels_BE	Brussels, Belgium	3	1	112	0	9	0
+ETUC		129041250601685	Facebook	brussels_BE	Brussels, Belgium	1	1	110	22	1	0
+Dreambeats	Dreambeats	206075566263314	Facebook	brussels_BE	Brussels, Belgium	1	1	105	21	2	0
+N-VA Temse	N-VA Temse	157739524296696	Facebook	brussels_BE	Brussels, Belgium	5	1	104	20	2	0
+Catherine Fonck	Catherine Marie Fonck	514448208744860	Facebook	brussels_BE	Brussels, Belgium	1	1	95	47	0	0
+Veerle Baeyens	N-VA	1402339926704301	Facebook	brussels_BE	Brussels, Belgium	1	1	89	17	0	0
+N-VA Groot Aalst	Nieuw-Vlaamse Alliantie	274961409207861	Facebook	brussels_BE	Brussels, Belgium	1	1	88	17	0	0
+Klimaatzaak	Klimaatzaak	1493008137629540	Facebook	brussels_BE	Brussels, Belgium	1	1	87	0	8	0
+Anneleen Van Bossuyt	N-VA	1375436739430055	Facebook	brussels_BE	Brussels, Belgium	1	1	83	16	0	0
+LE Prince D'orange asbl		948913781890014	Facebook	brussels_BE	Brussels, Belgium	1	1	81	16	1	0
+Justine Hollevoet	Justine Liliane Hollevoet 	314364712376727	Facebook	brussels_BE	Brussels, Belgium	1	1	80	16	1	0
+Tom Bogman	Tom Bogman	329170017640552	Facebook	brussels_BE	Brussels, Belgium	2	1	76	20	0	0
+PVDA Diksmuide Veurne Westkust	PVDA	495401140483679	Facebook	brussels_BE	Brussels, Belgium	1	1	74	14	1	0
+I vote Europe		608176689275464	Facebook	brussels_BE	Brussels, Belgium	1	1	74	37	0	0
+Minister Harald Mollers	Harald Mollers	1869992013240347	Facebook	brussels_BE	Brussels, Belgium	1	1	70	0	6	0
+Siegfried Bracke	N-VA	219849638569609	Facebook	brussels_BE	Brussels, Belgium	3	1	70	16	0	0
+Kim Martens	Martens Kim Kurt K	2055261121428802	Facebook	brussels_BE	Brussels, Belgium	1	1	69	13	1	0
+Cindy Franssen.	Franssen Cindy	404939213355109	Facebook	brussels_BE	Brussels, Belgium	1	1	69	0	6	0
+L'affaire climat	Affaire Climat asbl	874181082603060	Facebook	brussels_BE	Brussels, Belgium	1	1	61	0	6	0
+Valerie Taeldeman	Taeldeman Valerie	779919915793661	Facebook	brussels_BE	Brussels, Belgium	1	1	58	11	1	0
+Koen Daniëls	N-VA	711452742279820	Facebook	brussels_BE	Brussels, Belgium	1	1	57	11	0	0
+PVDA Kortrijk	PVDA	126912660759418	Facebook	brussels_BE	Brussels, Belgium	1	1	51	10	1	0
+Open Vld Moerbeke		146748925343154	Facebook	brussels_BE	Brussels, Belgium	1	1	51	10	0	0
+Eurozine		115579498521257	Facebook	brussels_BE	Brussels, Belgium	1	1	49	9	0	0
+Gérald vanderlin	Gerald Vanderlin	2225854367682548	Facebook	brussels_BE	Brussels, Belgium	1	1	46	9	0	0
+Michelle Ginée	Ginee Michelle	1059190017557242	Facebook	brussels_BE	Brussels, Belgium	3	1	39	16	0	0
+Van San Jeroen	Van San Jeroen Edward C	1944788102310986	Facebook	brussels_BE	Brussels, Belgium	1	1	32	6	0	0
+sp.a Vlaams-Brabant	sp.a	299844037256	Facebook	brussels_BE	Brussels, Belgium	2	1	32	12	0	0
+Bart Smans, 17e plaats N-VA Vlaams Parlement	N-VA	800585406798122	Facebook	brussels_BE	Brussels, Belgium	1	1	31	0	3	0
+Norbert De Mey		168939573787459	Facebook	brussels_BE	Brussels, Belgium	1	1	27	5	0	0
+No more bricks in the Wall		1854947667901523	Facebook	brussels_BE	Brussels, Belgium	1	1	19	0	1	0
+Wendy Hendrickx - N-VA Mechelen		551722081924188	Facebook	brussels_BE	Brussels, Belgium	1	1	19	3	0	0
+Free Quran Education		388655174641163	Facebook	brussels_BE	Brussels, Belgium	1	1	18	3	0	0
+Magalie Verstraelen	Magalie Stephan Verstraelen	478865082572412	Facebook	brussels_BE	Brussels, Belgium	1	1	16	0	1	0
+An Moerenhout	Groen	1952296711545946	Facebook	brussels_BE	Brussels, Belgium	1	1	15	7	0	0
+Sébastien Doutreloup	Sébastien Camille C.Doutreloup	2605782112772045	Facebook	brussels_BE	Brussels, Belgium	1	1	13	0	1	0
+Kim Aluwé	Aluwé Kim Lilianna M	266386214287406	Facebook	brussels_BE	Brussels, Belgium	2	1	11	2	0	0
+Europe Thinx		335839580440114	Facebook	brussels_BE	Brussels, Belgium	1	1	11	2	0	0
+Ne u moje ime		138418753446889	Facebook	brussels_BE	Brussels, Belgium	1	1	11	2	0	0
+GroenPlus		130349730380	Facebook	brussels_BE	Brussels, Belgium	1	1	10	2	0	0
+Miranda Van Eetvelde	Van Eetvelde Miranda Paula A	123242867697182	Facebook	brussels_BE	Brussels, Belgium	1	1	8	1	0	0
+Plictisescu.ro		184028071751540	Facebook	brussels_BE	Brussels, Belgium	1	1	5	2	0	0
+Jan Van Hee		1703384279918792	Facebook	brussels_BE	Brussels, Belgium	1	1	5	1	0	0
+Andries Gryffroy	N-VA	277891335706685	Facebook	brussels_BE	Brussels, Belgium	1	1	5	0	0	0
+Europa Anno Zero		308939363141901	Facebook	brussels_BE	Brussels, Belgium	1	1	5	0	0	0
+VoteEuropa - France	Jules Nicolas André Bejot 	2031732090462417	Facebook	brussels_BE	Brussels, Belgium	2	1	4	0	0	0
+Sarah Smeyers	N-VA	95712061024	Facebook	brussels_BE	Brussels, Belgium	1	1	4	0	0	0
+Perrine Marchal	Perrine Nathalie G.Marchal	1816421541797483	Facebook	brussels_BE	Brussels, Belgium	1	1	4	2	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	brussels_BE	Brussels, Belgium	1	1	1	0	0	0
+dom-i-NEEK		260052198180831	Facebook	brussels_BE	Brussels, Belgium	1	1	1	0	0	0
+Tokyo Weekender		134654693230171	Facebook	brussels_BE	Brussels, Belgium	1	1	1	0	0	0

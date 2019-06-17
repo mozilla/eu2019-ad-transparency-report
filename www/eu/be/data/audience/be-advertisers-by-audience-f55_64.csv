@@ -1,128 +1,570 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Vlaams Belang	Vlaams Belang	56605856504	Facebook	f55_64	female (55-64)	BE	Belgium	8	1	97173	48547	1208	485
-Open Vld	Open Vld	53668151866	Facebook	f55_64	female (55-64)	BE	Belgium	29	1	72990	26275	503	75
-Tom Van Grieken	Vlaams Belang	584806884924010	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	55657	22105	714	139
-CDH - Centre Démocrate Humaniste	CDH - Centre Démocrate Humaniste	189649407806135	Facebook	f55_64	female (55-64)	BE	Belgium	14	1	29923	7461	68	0
-Parti Populaire - Le Peuple	Parti Populaire - Le Peuple	482811111771571	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	25707	9409	235	42
-Peter Mertens	PVDA	236485149843971	Facebook	f55_64	female (55-64)	BE	Belgium	7	1	24896	11181	115	21
-European Parliament	European Parliament	178362315106	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	24730	4946	246	49
-CDH liste à la Chambre province de Liège	CDH - Centre Démocrate Humaniste	268478507423505	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	13268	2653	45	0
-PS Région bruxelloise	PS Région bruxelloise	279112515484034	Facebook	f55_64	female (55-64)	BE	Belgium	8	1	12682	3100	158	19
-Maggie De Block	Maggie De Block	1410219772556421	Facebook	f55_64	female (55-64)	BE	Belgium	24	1	11481	2500	288	0
-Barbara Pas	Vlaams Belang	365242667182267	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	11237	5618	56	28
-Frédéric Daerden	Frédéric Charles R Daerden	341897923206486	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	9661	1932	118	14
-CD&V	CD&V	52997544531	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	9099	3052	64	7
-Parti Socialiste (PS)	Parti Socialiste (PS)	518402351504731	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	8918	1783	20	0
-Lise Vandecasteele	PVDA	2433030616715564	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	8613	1722	17	0
-sp.a	sp.a	57253967150	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	7391	2749	27	4
-Ecolo Hainaut	Ecolo Hainaut	121653681195914	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	6821	1602	19	0
-John Crombez	sp.a	264131406977201	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	6709	1341	30	4
+Open Vld	Open Vld	53668151866	Facebook	f55_64	female (55-64)	BE	Belgium	117	1	1051842	446739	11730	2915
+Tom Van Grieken	Vlaams Belang	584806884924010	Facebook	f55_64	female (55-64)	BE	Belgium	41	1	566522	245886	8557	2606
+N-VA	Nieuw-Vlaamse Alliantie	334361224413	Facebook	f55_64	female (55-64)	BE	Belgium	17	1	528688	252111	5941	2169
+Vlaams Belang	Vlaams Belang	56605856504	Facebook	f55_64	female (55-64)	BE	Belgium	36	1	470814	206810	7109	1660
+CD&V	CD&V	52997544531	Facebook	f55_64	female (55-64)	BE	Belgium	109	1	398149	153647	3178	578
+sp.a	sp.a	57253967150	Facebook	f55_64	female (55-64)	BE	Belgium	35	1	317799	135258	1116	311
+Peter Mertens	PVDA	236485149843971	Facebook	f55_64	female (55-64)	BE	Belgium	44	1	276952	114444	2293	621
+European Parliament	European Parliament	178362315106	Facebook	f55_64	female (55-64)	BE	Belgium	26	1	270082	117020	1594	365
+John Crombez	sp.a	264131406977201	Facebook	f55_64	female (55-64)	BE	Belgium	23	1	235290	107515	1759	379
+Groen	Groen	84920854319	Facebook	f55_64	female (55-64)	BE	Belgium	42	1	220856	81101	1889	340
+Frédéric Daerden	Frédéric Charles R Daerden	341897923206486	Facebook	f55_64	female (55-64)	BE	Belgium	18	1	182953	38674	1878	359
+Elio Di Rupo	Parti Socialiste (PS)	16301530829	Facebook	f55_64	female (55-64)	BE	Belgium	16	1	174517	62754	1839	368
+Parti Populaire - Le Peuple	Parti Populaire - Le Peuple	482811111771571	Facebook	f55_64	female (55-64)	BE	Belgium	7	1	172665	75421	1342	299
+CDH - Centre Démocrate Humaniste	CDH - Centre Démocrate Humaniste	189649407806135	Facebook	f55_64	female (55-64)	BE	Belgium	20	1	166296	69941	415	119
+VB - nos gens d'abord	Vlaams Belang	816130908786112	Facebook	f55_64	female (55-64)	BE	Belgium	14	1	156122	56351	1464	361
+Maggie De Block	Maggie De Block	1410219772556421	Facebook	f55_64	female (55-64)	BE	Belgium	45	1	155165	49581	3559	658
+Parti Socialiste (PS)	Parti Socialiste (PS)	518402351504731	Facebook	f55_64	female (55-64)	BE	Belgium	34	1	135208	35637	1868	731
+CDH BW	cdH Brabant wallon	156559267857740	Facebook	f55_64	female (55-64)	BE	Belgium	21	1	112298	29548	1308	286
+Guy D'haeseleer	Vlaams Belang	1070595116362186	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	106979	50773	1069	453
+Les Wallons ne sont pas des parasites.Les Belges d'abord.		159664670746380	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	102523	51261	512	102
+Ecolo	Ecolo	38296327361	Facebook	f55_64	female (55-64)	BE	Belgium	19	1	90716	40727	696	186
+CD&V Limburg	CD&V Limburg	495564387205601	Facebook	f55_64	female (55-64)	BE	Belgium	19	1	89746	18415	945	174
+Koen Geens	CD&V	294055357407926	Facebook	f55_64	female (55-64)	BE	Belgium	41	1	86606	32716	1557	374
+Delhaize	Delhaize	30102123042	Facebook	f55_64	female (55-64)	BE	Belgium	11	1	80691	29043	574	100
+Alexander De Croo	Alexander De Croo	228307843991539	Facebook	f55_64	female (55-64)	BE	Belgium	14	1	78539	21115	734	191
+Koen Van den Heuvel	Koen Van den Heuvel	1953990651532264	Facebook	f55_64	female (55-64)	BE	Belgium	79	1	78006	26439	878	77
+Olivier Chastel	MR - Mouvement Réformateur	36858143935	Facebook	f55_64	female (55-64)	BE	Belgium	19	1	74803	18309	743	152
+Kim De Witte	PVDA	315662412174661	Facebook	f55_64	female (55-64)	BE	Belgium	12	1	68819	19189	625	142
+Barbara Pas	Vlaams Belang	365242667182267	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	67852	32625	678	326
+Vlaams Belang Brussel	Vlaams Belang	499682940133305	Facebook	f55_64	female (55-64)	BE	Belgium	18	1	66789	27645	1592	415
+Theo Francken	Nieuw-Vlaamse Alliantie	483497581789280	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	63511	25806	858	417
+Maurits Vande Reyde	Vande Reyde Maurits Jozef	1797427180478228	Facebook	f55_64	female (55-64)	BE	Belgium	29	1	63244	14305	727	109
+PS Région bruxelloise	PS Région bruxelloise	279112515484034	Facebook	f55_64	female (55-64)	BE	Belgium	52	1	58507	18352	726	73
+Commission Européenne en Belgique / Europese Commissie in Belgie	Commission Européenne en Belgique / Europese Commissie in Belgie	295165170561769	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	57797	23119	577	115
+Hendrik Bogaert	Bogaert Hendrik Frank	277636928983663	Facebook	f55_64	female (55-64)	BE	Belgium	43	1	50643	14934	567	48
+CDH liste à la Chambre province de Liège	CDH - Centre Démocrate Humaniste	268478507423505	Facebook	f55_64	female (55-64)	BE	Belgium	14	1	50223	17894	395	58
+Christian Leysen	Christian Leysen	403864600161608	Facebook	f55_64	female (55-64)	BE	Belgium	15	1	50193	11627	592	150
+UNICEF Belgium	UNICEF Belgium	60589646095	Facebook	f55_64	female (55-64)	BE	Belgium	13	1	49852	10822	370	56
+Jean-Claude Marcourt - Officiel	Gael René Lambinon	214672635464	Facebook	f55_64	female (55-64)	BE	Belgium	7	1	47259	9452	471	94
+Wouter Beke	Wouter Beke	311935738907850	Facebook	f55_64	female (55-64)	BE	Belgium	12	1	46648	10981	733	200
+PTB	PTB	53838654385	Facebook	f55_64	female (55-64)	BE	Belgium	8	1	46071	21754	291	68
+MR - Mouvement Réformateur	MR - Mouvement Réformateur	236330169511	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	45886	14868	413	112
+sp.a West-Vlaanderen	sp.a West-Vlaanderen	269157793205215	Facebook	f55_64	female (55-64)	BE	Belgium	10	1	43498	11565	462	92
+Hilde Crevits	Hilde Crevits	384632394957341	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	41344	20672	1033	206
+Kristof Hendrickx	Kristof Hendrickx, N-VA	125105154858140	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	41294	17709	352	98
+Peter Van Rompuy	CD&V	257794051588457	Facebook	f55_64	female (55-64)	BE	Belgium	13	1	40918	12229	720	222
+Open Vld Kapellen	Dirk Van Mechelen	491116271027288	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	39485	15794	394	78
+Benjamin Dalle	Benjamin Dalle	232597487340084	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	39034	17158	876	174
+Lynn Wesenbeek - Lijstduwer Open Vld Europa	Arendsoog	280977886188439	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	36495	12076	417	157
+Greenpeace Belgium	Greenpeace Belgium	73232790238	Facebook	f55_64	female (55-64)	BE	Belgium	47	1	36326	12180	533	33
+Zuhal Demir	Nieuw-Vlaamse Alliantie	453932394796444	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	34642	12341	311	91
+Sabine de Bethune	Sabine de Bethune	254157758598438	Facebook	f55_64	female (55-64)	BE	Belgium	13	1	33575	12305	196	38
+Hans Verreyt	Verreyt Hans Breatrijs H	252441445625720	Facebook	f55_64	female (55-64)	BE	Belgium	30	1	33234	12612	369	56
+Karin Brouwers	Karin Francisca Brouwers	862762280563277	Facebook	f55_64	female (55-64)	BE	Belgium	7	1	32323	6477	322	64
+Gwendolyn Rutten	Gwendolyn Rutten	149158155084	Facebook	f55_64	female (55-64)	BE	Belgium	33	1	30142	13329	312	13
+Dries Van Langenhove	Vlaams Belang	1585072555117186	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	30110	14427	721	144
+Bert Maertens	N-VA	230657213955622	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	28922	8116	65	3
+Ecolo Hainaut	Ecolo Hainaut	121653681195914	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	28757	5751	287	57
+Frédérique Ries	Frédérique Ries	121508211203759	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	28483	12334	547	104
+Partij Voor De Dieren - Vlaanderen	Vlaams Belang	926587627730432	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	28165	8875	443	88
+Brecht Warnez	Warnez Brecht Luc T	998887823550443	Facebook	f55_64	female (55-64)	BE	Belgium	87	1	28133	5827	733	0
+Peter Van Kemseke	Van Kemseke Peter Leo S	397455370285369	Facebook	f55_64	female (55-64)	BE	Belgium	12	1	27834	9074	289	79
+Lise Vandecasteele	PVDA	2433030616715564	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	27480	5799	215	34
+Vincent De Wolf	Vincent Gilles De Wolf	399983396831282	Facebook	f55_64	female (55-64)	BE	Belgium	15	1	26509	7577	201	42
+Bieke Moerman	Bieke Moerman	498415337201849	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	25549	9084	188	37
+Steven Matheï	CD&V	118068899059774	Facebook	f55_64	female (55-64)	BE	Belgium	10	1	23858	4669	305	42
+Vivant   Ostbelgien	Vivant Ostbelgien	1440393739538888	Facebook	f55_64	female (55-64)	BE	Belgium	7	1	23060	7338	84	7
+Vrouw & Maatschappij - CD&V politica	Vrouw & Maatschappij	268844173157989	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	21717	9959	367	108
+Leen Dierick	D'hauwer Pieter	279936192533387	Facebook	f55_64	female (55-64)	BE	Belgium	16	1	21716	6234	205	14
+Paul Magnette		29384148415	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	21660	9644	127	52
+Geert Bourgeois	Nieuw-Vlaamse Alliantie	649429725077632	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	21280	8512	212	42
+Conner Rousseau	Conner Rousseau	942750852588816	Facebook	f55_64	female (55-64)	BE	Belgium	14	1	20296	5000	131	15
+Nele Lijnen	Lijnen Nele	1583308831974521	Facebook	f55_64	female (55-64)	BE	Belgium	20	1	20080	5101	314	30
+ProDG	ProDG	89846075866	Facebook	f55_64	female (55-64)	BE	Belgium	20	1	19725	4496	142	9
+Steven Vandeput	Nieuw-Vlaamse Alliantie	983442595060481	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	19338	8878	163	65
+DierAnimal		258395278031128	Facebook	f55_64	female (55-64)	BE	Belgium	7	1	18362	3615	146	0
+Jurgen Vanlerberghe	Vanlerberghe Jurgen Maurits P	1664229433634791	Facebook	f55_64	female (55-64)	BE	Belgium	13	1	18224	4400	193	16
+Régionale ECOLO Bruxelles	Régionale Ecolo Bruxelles	136555119816983	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	17522	7204	54	16
+Johan Vande Lanotte	Johan Vande Lanotte	326674124027240	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	16937	3802	98	13
+Joris Vandenbroucke	Vandenbroucke Joris Jeroen J	984867054996076	Facebook	f55_64	female (55-64)	BE	Belgium	8	1	15959	4429	229	38
+Franky Demon	Demon Franky Laurent G	806143506178116	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	15900	3180	158	31
+André Antoine	André Antoine	16123379845	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	15751	3150	172	28
+Wim Dries	Dries Wim Jozef L	147307255351530	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	15693	7846	78	39
+Be.One	Abou Jahjah Dyab	203646696858225	Facebook	f55_64	female (55-64)	BE	Belgium	21	1	15388	3698	95	1
+Marc Lejeune - 3ème au CDH à la Région	Marc Jean-Marie P Lejeune	1115141181990895	Facebook	f55_64	female (55-64)	BE	Belgium	81	1	15315	1957	715	0
+WWF-Belgium	WWF-Belgium	110844205773	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	15246	3700	80	0
+Matthias Diependaele	Nieuw-Vlaamse Alliantie	543319679114946	Facebook	f55_64	female (55-64)	BE	Belgium	9	1	14878	3500	236	37
+Listes Destexhe	Listes Destexhe	983524558703058	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	14660	3175	35	0
+Lydia Dujardin Desloover	Desloover Lydia Adriana J	491955424673557	Facebook	f55_64	female (55-64)	BE	Belgium	25	1	14375	3647	141	10
+Ben Weyts	Nieuw-Vlaamse Alliantie	133467219125	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	14285	7143	155	45
+Wacky Politicians	Ladbrokes Belgium	325449998160769	Facebook	f55_64	female (55-64)	BE	Belgium	15	1	14265	5211	44	3
+Denis Ducarme	Denis Gaston Ducarme	367577357909	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	14064	2812	140	28
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	f55_64	female (55-64)	BE	Belgium	24	1	14011	4501	165	14
+Rachid Azaoum	Rachid Azaoum	1016780215187655	Facebook	f55_64	female (55-64)	BE	Belgium	8	1	13988	4577	166	31
+SP Ostbelgien	SP Ostbelgien	183856108612877	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	13608	2721	101	18
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	13437	6090	60	28
+N-VA Gent	Nieuw-Vlaamse Alliantie	125138890876117	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	13170	4902	93	30
+Wouter Vermeersch	Vlaams Belang	1819099895078637	Facebook	f55_64	female (55-64)	BE	Belgium	15	1	13085	4049	95	4
+Simon Lejeune	Lejuene Simon Paul F	1721305591241017	Facebook	f55_64	female (55-64)	BE	Belgium	10	1	12791	2536	152	12
+Helga Stevens	N-VA	213362252188490	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	12508	2501	175	65
+Robrecht Bothuyne	D'hauwer Pieter	365185737579327	Facebook	f55_64	female (55-64)	BE	Belgium	13	1	12466	3091	179	12
+Mark Demesmaeker	Nieuw-Vlaamse Alliantie	397796871009992	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	12317	5123	62	12
+Enio Cucurachi	Cucurachi Enio Antonio	2196293330408303	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	12227	2444	32	0
+Wim Soons	Soons Wim	598618930329580	Facebook	f55_64	female (55-64)	BE	Belgium	9	1	12090	5173	92	9
+Burgemeester Mark Vos	CD&V	1461377154117342	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	11994	3312	253	45
+Chris Janssens	Vlaams Belang	2169582779959649	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	11716	2888	197	38
+Philippe Muyters	Nieuw-Vlaamse Alliantie	197625717055207	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	11357	2271	113	22
+Johan Van Overtveldt	Nieuw-Vlaamse Alliantie	275607285891320	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	11327	2265	83	15
+Axel Ronse	N-VA	2375576969141695	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	11197	2239	70	12
+Ecolo Brabant wallon	Ecolo Brabant wallon	1712357138983896	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	11096	2469	110	20
+Luc Deconinck	Nieuw-Vlaamse Alliantie	1459140487653544	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	11050	4533	71	14
+sp.a Limburg	sp.a Limburg	885074558184212	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	10922	3258	148	21
+Pascal Smet	one.brussels	148221008918941	Facebook	f55_64	female (55-64)	BE	Belgium	14	1	10893	2194	104	8
+N-VA Limburg	Nieuw-Vlaamse Alliantie	1599226510296139	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	10791	2158	107	21
+Tom Kersemans	Tom Maria L Kersemans	353496071904485	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	10776	2696	154	29
+Pascal Goergen - DéFI	Pascal Albert J Goergen	2247464518706948	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	10771	5385	53	26
+Marc Minneboo	Anthony Lackner	2138144842945429	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	10547	2109	20	0
+Jos D'Haese	PVDA	1397002987227704	Facebook	f55_64	female (55-64)	BE	Belgium	8	1	10450	2257	141	23
+CD&V Oostkamp	CD&V Oostkamp	2062142307347631	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	10444	4034	41	6
+Marianne Verhaert	Marianne Christine H Verhaert	307263369958026	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	10404	3931	103	39
+Sébastien de Jonge	De Jonge Sébastien Edouard	370249413831637	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	10271	2054	102	20
+Koen Metsu	VAN DER AUWERA PIETER TOM T.	536864973078981	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	10211	3215	85	15
+Bart Callaert	Callaert Bart Eduard M	2334802816594579	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	10042	4592	101	45
+Elias Kartout	Nieuw-Vlaamse Alliantie	2593268540690171	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	9816	3527	71	14
+Campagne Tam Tam		227222077819248	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	9811	4468	31	5
+Babette Brusselmans	Brusselmans Babette	173356493548795	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	9602	1920	88	17
+Pieter De Crem	CD&V	795215224016947	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	9482	1896	67	12
+Alain Mertes	Vivant Ostbelgien	168912413949537	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	9427	1885	18	0
+Georges-Louis Bouchez	Georges-Louis Bouchez	341174129258800	Facebook	f55_64	female (55-64)	BE	Belgium	7	1	9400	2388	103	13
+Volt België	Volt België	1620310611353628	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	9371	1870	30	2
+Tony Coonen	Tony Coonen sp.a	2012732799023622	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	9330	1866	93	18
+Björn Anseeuw	Nieuw-Vlaamse Alliantie	145963782413441	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	9153	4576	22	4
+Melissa Depraetere	DEPRAETERE MELISSA MARIA J.	2101118869952701	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	9081	1816	142	59
+CD&V Brussel	CD&V Brussel	650865328369779	Facebook	f55_64	female (55-64)	BE	Belgium	15	1	8975	1964	147	0
+Raf Terwingen	Raf Terwingen	421841541630421	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	8964	1792	89	17
+Optimiste pour Bruxelles	MR - Mouvement Réformateur	570826640096148	Facebook	f55_64	female (55-64)	BE	Belgium	17	1	8912	2363	311	46
+DéFI	DéFI	173518112695794	Facebook	f55_64	female (55-64)	BE	Belgium	8	1	8905	2825	76	11
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	f55_64	female (55-64)	BE	Belgium	14	1	8829	4239	39	4
+Jos Lantmeeters	Nieuw-Vlaamse Alliantie	2253398908319094	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	8674	4337	86	43
+PVDA	PVDA	54970503767	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	8635	4317	43	8
+CSP Ostbelgien	CSP Ostbelgien	119271231424655	Facebook	f55_64	female (55-64)	BE	Belgium	26	1	8634	1661	165	6
+Kathleen Van Brempt	Kathleen Van Brempt	206193139504506	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	8610	4296	46	8
+Bert Wollants	Nieuw-Vlaamse Alliantie	122123487813722	Facebook	f55_64	female (55-64)	BE	Belgium	9	1	8550	2270	121	17
+Bart Somers		596946040405796	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	8535	4267	426	85
+Koenraad Degroote	Nieuw-Vlaamse Alliantie	1892098237771732	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	8516	4258	42	21
+Pritty Kaur	sp.a	413843202368855	Facebook	f55_64	female (55-64)	BE	Belgium	16	1	8391	1884	65	0
+CD&V Izegem	CD&V Izegem	214309558599122	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	8297	1659	16	0
+Wilfried Vandaele	N-VA	134830590539925	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	8269	1654	47	7
+Georges Balon Perin, Erasmus kandidaat bij GROEN		820663108311661	Facebook	f55_64	female (55-64)	BE	Belgium	8	1	8253	1928	58	7
+Lieve Maes	Nieuw-Vlaamse Aliiantie	287293904752254	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	8202	4101	40	8
+Groen Gent	Groen Gent	156982520361	Facebook	f55_64	female (55-64)	BE	Belgium	9	1	8181	1668	92	14
+Ecolo Luxembourg	Ecolo	265430440298543	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	8052	1610	80	16
+Elke Sleurs	N-VA	571227032971640	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	8046	2761	92	27
+Ine Tombeur	Tombeur Ine	120236914663605	Facebook	f55_64	female (55-64)	BE	Belgium	8	1	7957	1553	75	0
+Ecolo + Arlon		150705241982353	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	7810	3905	38	7
+Sabine Vermeulen	N-VA	214103642510187	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	7781	1533	54	0
+Pro Bruxsel	Alain Walter P Maskens	43144395107	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	7767	1553	84	14
+Annick De Ridder	Nieuw-Vlaamse Alliantie	260207497491940	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	7753	1746	77	14
+CD&V Putte		269551619726540	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	7738	1547	77	15
+PS Mons-Borinage		132596773464688	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	7687	1491	97	14
+Darya Safai	Nieuw-Vlaamse Alliantie	1803761789672954	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	7643	1528	57	10
+Petra De Sutter	Groen	372776579930604	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	7616	1626	64	11
+Aymeric DE LAMOTTE	Aymeric Jean De Lamotte 	841559215859811	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	7557	1511	120	24
+Aaron Ooms	Ooms Aaron Maria W	127953044627536	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	7514	1964	74	11
+Kristien Van Vaerenbergh-pagina	Nieuw-Vlaamse Alliantie	404666830363654	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	7419	1483	74	14
+Ecolo Ostbelgien	Ecolo Ostbelgien	321847415140	Facebook	f55_64	female (55-64)	BE	Belgium	20	1	7399	1715	113	0
+Sander Loones	Nieuw-Vlaamse Alliantie	575160279283539	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	7201	1440	16	0
+Claude Moniquet	Claude André A Moniquet	1021310417915887	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	7135	2015	149	29
+Hassan Bousetta 3e à l'Europe		33770596902	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	7127	2315	32	3
+MR Charleroi	MR - Mouvement Réformateur	176691749116050	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	7082	1416	70	14
+Franc Bogovic	Bogovic Franc Mathijs J	517272151683918	Facebook	f55_64	female (55-64)	BE	Belgium	10	1	7053	3262	35	2
+Caroline De Meerleer	De Meerleer Caroline Jeanne F	278233629764740	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	6946	2212	110	22
+Greet Daems	PVDA	403035570476052	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	6903	1380	68	13
+CD&V Haacht	Mouligneau Brigitte	281093128647513	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	6882	3441	68	34
+Tom Bogman	Tom Bogman	329170017640552	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	6845	1876	43	0
+Dyab Abou Jahjah	Abou Jahjah Dyab	650597568382274	Facebook	f55_64	female (55-64)	BE	Belgium	10	1	6825	1478	62	7
+Danielle Godderis T'Jonck	N-VA	239999043457805	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	6817	1363	43	7
+CDU Brüssel-Belgien	CDU-Auslandsverband Brüssel-Belgien	498837460204117	Facebook	f55_64	female (55-64)	BE	Belgium	8	1	6799	1342	93	9
+Johan Klaps	Nieuw-Vlaamse Alliantie	260032781587113	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	6790	1358	67	13
+Christophe Lacroix	Denis De Nicolo 	487300758065559	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	6776	1355	67	13
+Ecolo Centre	Ecolo Centre	230433080453073	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	6760	3251	40	6
+Peter Gysbrechts	Neys Tom	363197027117917	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	6748	1734	35	0
+Ilse Van Eetvelde politiek	Ilse Van Eetvelde politiek	620289881717694	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	6731	1346	67	13
+Dimitry Soenen	Van Isacker Bernard Andre J	256022915307211	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	6514	2846	39	7
 Yannick de Wilde d'Estmael	Yannick de Wilde d'Estmael 	2194262913922415	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	6451	1290	12	0
-Lynn Wesenbeek - Lijstduwer Open Vld Europa	Arendsoog	280977886188439	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	6115	1223	61	12
-Gwendolyn Rutten	Gwendolyn Rutten	149158155084	Facebook	f55_64	female (55-64)	BE	Belgium	23	1	5521	796	173	0
-Greenpeace Belgium	Greenpeace Belgium	73232790238	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	5214	1042	15	0
-Geert Bourgeois	Nieuw-Vlaamse Alliantie	649429725077632	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	4041	2020	20	4
-Peter Van Kemseke	Van Kemseke Peter Leo S	397455370285369	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	4026	805	40	8
-Jos D'Haese	PVDA	1397002987227704	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	3506	701	20	0
-sp.a West-Vlaanderen	sp.a West-Vlaanderen	269157793205215	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	3488	697	6	0
-Kim De Witte	PVDA	315662412174661	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	3442	688	43	5
-Aaron Ooms	Ooms Aaron Maria W	127953044627536	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2873	574	5	0
-CD&V Oostkamp	CD&V Oostkamp	2062142307347631	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2867	1433	14	2
-Bert Maertens	N-VA	230657213955622	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2402	480	47	0
-PTB	PTB	53838654385	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	2342	368	67	3
-Christian Leysen	Christian Leysen	403864600161608	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	1946	656	29	0
-Hendrik Bogaert	Bogaert Hendrik Frank	277636928983663	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	1884	338	52	0
-Simon Lejeune	Lejuene Simon Paul F	1721305591241017	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	1646	321	35	0
-Wouter Beke	Wouter Beke	311935738907850	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1555	778	15	0
-Heidi Van Gaever	Van Gaever Adelheid Fabiola E	242905366574089	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1467	293	29	0
-Vrouw & Maatschappij - CD&V politica	Vrouw & Maatschappij	268844173157989	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1456	291	28	0
-Conner Rousseau	Conner Rousseau	942750852588816	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	1367	683	13	0
-BirdLife Europe and Central Asia	BirdLife Europe and Central Asia	174656216277326	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1209	241	2	0
-Jurgen Vanlerberghe	Vanlerberghe Jurgen Maurits P	1664229433634791	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	1195	484	15	0
+Simon Bultot, 3ème à la Chambre, Liste PS	Simon Fabrice Bultot	2180842748675219	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	6393	1672	23	0
+Lode Ceyssens	Lode Ceyssens	690224427744073	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	6373	1274	12	0
+Dirk Van der Maelen	Van Der Maelen Dirk Leon	2164165116954267	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	6355	1542	63	10
+Louis Ide	N-VA	614969692296780	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	6198	3099	16	3
+Stijn De Roo	De Roo Stijn Emiel E	251722678703408	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	6134	1227	79	8
+Els Van Hoof-pagina	Van Hoof Els Walter H	315278555648437	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	6054	1819	30	0
+Veerle Baeyens	N-VA	1402339926704301	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	6011	1202	64	11
+Maxime Prévot	Maxime Patrick R Prévot	151415551700582	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	5960	2980	29	5
+Philippe Lamberts	Philippe Henri L Lamberts	553328368142057	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	5846	1169	37	6
+Françoise Schepmans		179436225887095	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	5732	1146	57	11
+Anja Vanrobaeys	Vanrobaeys Anja Maurits	795798820785493	Facebook	f55_64	female (55-64)	BE	Belgium	7	1	5729	1928	145	20
+Alexander Binon	N-VA Oud-Heverlee	573104879470554	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	5659	1127	30	2
+Martine PAYFA		146007879380821	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	5606	1083	72	10
+Opaline Meunier	Opaline Meunier	1003984536437712	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	5543	1108	10	0
+Jong Groen		293486792731	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	5494	2747	13	2
+Sophie De Wit	Nieuw-Vlaamse Alliantie	165796101293	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	5367	1073	53	10
+Sabine Laruelle	MR province de Namur	294920323902754	Facebook	f55_64	female (55-64)	BE	Belgium	7	1	5310	2346	62	0
+Alain Destexhe	Alain Robert O.Destexhe	222804197775919	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	5223	1017	65	9
+CD&V Diksmuide	CD&V Diksmuide	625936054280293	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	5167	1310	17	0
+Annick Laloux-Ruelle	Frédéric Ruelle	630009867450719	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	5140	1028	51	10
+Anneleen Van Bossuyt	N-VA	1375436739430055	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	5138	1027	56	9
+Groen Brussel	Groen Brussel	144986545155	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	5131	1066	59	10
+Frederick Vandeput		422591634553611	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	5126	1025	10	0
+RTBF Info	RTBF Info	143068588877	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	4951	990	9	0
+Annick Lambrecht	Lambrecht Annick Jacques M	2229481170658339	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	4947	989	9	0
+Centrale Générale - FGTB	Centrale Générale - FGTB	201359506543663	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	4922	984	9	0
+Rudy Delhaise - Bourgmestre d'Eghezée	MR Province de Namur	659081287825798	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	4855	971	46	9
+Yasmine Kherbache - volksvertegenwoordiger	Sp.a Antwerpen	189145821274552	Facebook	f55_64	female (55-64)	BE	Belgium	10	1	4834	967	71	0
+Delphine Chabbert, candidate d'ouverture, 4e à Bruxelles #touteslesfamilles	Delphine Chabbert	989742204557872	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	4744	948	47	9
+CD&V Dilbeek		274553566257369	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	4726	945	41	8
+Bart Smans, 17e plaats N-VA Vlaams Parlement	N-VA	800585406798122	Facebook	f55_64	female (55-64)	BE	Belgium	11	1	4639	1128	46	0
+Claire Stappaerts	Claire Stappaerts	285540382349131	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	4494	899	17	0
+Liesbeth Claesen		616717792057494	Facebook	f55_64	female (55-64)	BE	Belgium	14	1	4438	1339	75	0
+Vlaams Belang Mechelen		468360273215685	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	4418	883	44	8
+Centre d'Action Laïque	Centre d'Action Laïque	176170955780752	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	4375	875	8	0
+Frieda Gijbels	Nieuw-Vlaamse Alliantie	1985027248380103	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	4372	874	43	8
+Van San Jeroen	Van San Jeroen Edward C	1944788102310986	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	4370	874	43	8
+Cécile Vainsel	Cécile Vainsel	587081831694116	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	4361	1049	19	0
+Eva De Bleeker-pagina	De Bleeker Eva Maria A	652427761837497	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	4360	1053	53	6
+Karolien Grosemans	Nieuw-Vlaamse Alliantie	619991148451012	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	4352	870	43	8
+Peter De Roover	N-VA	1661453500556261	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	4325	865	43	8
+Rita Gantois	N-VA	306815242860827	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	4271	854	8	0
+EPP Group in the European Committee of the Regions	EPP Group in the European Committee of the Regions	200559876664896	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	4264	852	42	8
+one brussels	one.brussels	244157445635331	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	4245	1049	32	1
+Gautier CALOMNE	Gautier Calomne	82157651986	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	4100	924	47	7
+Kasper Vandecasteele	Vandecasteele Kasper	525551311288918	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	4095	819	26	4
+Kris Peeters	Kris Peeters	192181027566488	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	4047	809	40	8
+Bond Beter Leefmilieu	Bond Beter Leefmilieu	143447890251	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	4031	956	12	0
+Sander Vandecapelle	Vandecapelle Sander 	288654088488077	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	4008	1044	75	13
+Nahyd Meskini - 9ème suppléante à la Chambre		262389797971976	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	3919	1347	79	14
+Marie Christine Marghem	Marie Christine Marghem	341830209277848	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	3828	1130	17	0
+sp.a Vlaams-Brabant	sp.a	299844037256	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	3795	759	37	7
+N-VA Brugge	Nieuw-Vlaamse Alliantie	103746756361685	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	3720	744	24	4
+PSAnderlues	Philippe Henri M Tison	197214344323855	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	3600	694	48	6
+Jan Cornillie	Cornillie Jan	980619838787000	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	3569	864	32	5
+Nadia Sminate	Nieuw-Vlaamse Alliantie	223932588102815	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	3553	710	35	7
+Veerle Heeren	Heeren Veerle Gaston M	257966507711216	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	3536	707	35	7
+Ahmed Laaouej	Ahmed Laaouej	672031322849835	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	3528	705	35	7
+Candice Vanhecke	Abou Jahjah Dyab	583228032160687	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	3486	692	26	0
+Orry Van de Wauwer	Orry Van de Wauwer	100752223802681	Facebook	f55_64	female (55-64)	BE	Belgium	9	1	3486	702	45	0
+Jérome Chantraine - Parti Populaire		286258851985076	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	3468	693	34	6
+Brecht Vermeulen	Nieuw-Vlaamse Alliantie	167165610745178	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	3429	1714	17	3
+Allessia Claes	Nieuw-Vlaamse Alliantie	606388719448095	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	3414	682	34	6
+Michel De Maegd	Michel De Maegd 	402910770265916	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	3408	833	10	0
+Daan De Veuster	De Veuster Daan Jozef D	1753693034925883	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	3402	1392	49	0
+N-VA Mechelen	Nieuw-Vlaamse Alliantie	250836601610919	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	3347	669	33	6
+Maxime Hardy	Maxime Marc C Hardy	1160832417389494	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	3301	660	9	0
+Sébastien Doutreloup	Sébastien Camille C.Doutreloup	2605782112772045	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	3265	1015	58	0
+Gijs Degrande	N-VA	2343399459056104	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	3191	628	37	5
+Karine Lalieux	Karine Madeleine M Lalieux 	1520851034620904	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	3155	1282	40	0
+Groen Vlaams-Brabant	Groen Vlaams-Brabant	60637191219	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	3144	628	31	6
+Sébastien Dewailly	Sébastien Dewailly	347034845930735	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	3137	627	31	6
+Les Grenades - RTBF	Les Grenades - RTBF	1010298882498268	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	3106	621	61	0
+Assita Kanko	Nieuw-Vlaamse Alliantie	150977208365420	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	3096	619	30	6
+PVDA West-Vlaanderen	PVDA	1661103980836335	Facebook	f55_64	female (55-64)	BE	Belgium	8	1	3049	1160	54	8
+Paul Cordy	Nieuw-Vlaamse Alliantie	650813488672073	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	2987	597	59	0
+Oona Wyns	Wyns Oona Elisa J	285090205488587	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2979	595	5	0
+N-VA Mol	N-VA Mol	293016180727875	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	2956	1281	35	0
+Nathalie Muylle	Nathalie Muylle	1230985333669070	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	2954	996	16	0
+Stéphanie Heng	Théry Alexandre J Bourgoignie	340587286371062	Facebook	f55_64	female (55-64)	BE	Belgium	10	1	2947	752	46	0
+Jonathan de Patoul - DéFI	Jonathan Daniël S de Patoul	2069381119775596	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	2936	539	30	0
+Elections du 26 mai 2019	Baudouin Henri M Schellen	330193751003087	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2919	583	29	5
+Matthieu Daele - Ecolo	Matthieu Marie T.Daele	1425316804418663	Facebook	f55_64	female (55-64)	BE	Belgium	9	1	2874	1356	39	0
+Denis Collard candidat		1414424415483804	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2850	570	5	0
+N-VA Brussels Hoofdstedelijk Gewest	Nieuw-Vlaamse Alliantie	1480604288895159	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2848	569	28	5
+PVDA Antwerpen	PVDA	241932369235970	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2846	569	28	5
+Pieter-Jan Verhoye	Verhoye Pieter-Jan	300513937202082	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	2843	712	9	0
+Hugues Bayet	Julien Fanuel 	538840262914740	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	2824	565	31	5
+Kim Alloo	Alloo Kim	2165082146846340	Facebook	f55_64	female (55-64)	BE	Belgium	11	1	2798	802	62	0
+Det Radikale Venstre i Bruxelles	Espelund Morten	146464325502929	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2763	552	27	5
+Sp.a Hasselt		341171816001580	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2719	543	5	0
+Timothy Rowies	Rowies Timothy	230172250986880	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2698	539	53	26
+Groen Lebbeke	Pollet Tim	579893498817499	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2647	529	5	0
+Laure Nkundakozera Uwase #23		1844087905686822	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2640	528	26	5
+Yngvild Ingels	Nieuw-Vlaamse Alliantie	585897671936036	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	2636	527	26	5
+Babette Jandrain	Babette Fanny M Jandrain	2153260948330322	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2618	523	5	0
+Maarten Van Tieghem	Maarten Van Tieghem	815412612126096	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	2614	1296	13	2
+Olivier De Schutter	Ecolo	319786285375557	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2598	519	25	5
+Junge Mitte	Junge Mitte	1567710236826303	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2569	513	5	0
+Gilles Verstraeten	Nieuw-Vlaamse Alliantie	2151512408274426	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2568	513	25	5
+Tess Minnens	Minnens Tess Veerie L	131791854353190	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	2543	1201	26	2
+sp.a Gent	sp.a Gent	145214795544742	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	2515	794	83	8
+Steve Vandenberghe	Vanderberghe Steve Louis W	405020113176546	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2505	501	4	0
+Grégory Vidal	Grégory Vidal	347251118652585	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	2503	1252	24	0
+Monica De Coninck - Europese verkiezingen	De Coninck Monica Josephine L	336638023665298	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	2495	938	34	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	f55_64	female (55-64)	BE	Belgium	15	1	2480	791	13	1
+Evi Robert voor Europa	Robert Evi Melanie	277540613176324	Facebook	f55_64	female (55-64)	BE	Belgium	9	1	2433	1018	33	0
+Jong N-VA		106265382759554	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2378	475	23	4
+Heidi Van Gaever	Van Gaever Adelheid Fabiola E	242905366574089	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2339	1169	23	0
+Olivier Colin		1238449286242627	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2312	462	4	0
+Vera Jans	Jans Vera Maria J	543240579353490	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	2306	1153	22	0
+Catherine Fonck	Catherine Marie Fonck	514448208744860	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2271	1136	22	0
+Faye Van Impe		529592387474876	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2238	447	22	4
+Ecolo Chaudfontaine	Thelen Lionel Willy	1615520988700439	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	2236	447	44	0
+Clarinval David		246392898737221	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2206	441	4	0
+Joëlle Maison	Joëlle Maison	382790095089911	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	2176	754	32	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	2166	729	14	2
+Thierry Gilson	Thierry Gilson	445076859592979	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2160	432	21	4
+Didrik - 48e candidat à la Région de Bruxelles	Didrik de Schaetzen	349509471801299	Facebook	f55_64	female (55-64)	BE	Belgium	9	1	2130	393	60	0
+Yoleen Van Camp	Nieuw-Vlaamse Alliantie	533686686730041	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2049	409	20	4
+Ecolo Mons-Borinage / Hauts-Pays	Bravin Geoffrey 	235500823177113	Facebook	f55_64	female (55-64)	BE	Belgium	8	1	2014	390	43	0
+Steven Arrazola de Oñate	Arrazola de Oñate Steven Raymond H	578017509235623	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	2013	388	45	0
+sp.a Hemiksem - Waa zien H geire	Talboom Rodney	189913087722338	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	2011	1005	100	20
+Frank Vroonen	Vroonen Frank Gert H	372220956948780	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2010	402	20	4
+CD&V Erpe-Mere	Van Vaerenbergh Johan August G	287188131471344	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1987	397	19	3
+Sandra Ferretti WB	Sandra Gabriella Ferretti	610075355737867	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1953	390	3	0
+Siegfried Bracke	N-VA	219849638569609	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	1935	664	15	0
+Catharina Rinzema		2114625695290780	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1930	386	3	0
+ABVV		188590271170028	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1900	380	18	3
+Pieter Konings²	Konings Pieter	277457939649994	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	1876	609	34	0
+Jean de Bethune	De Bethune Jean Baptiste E	425691141175605	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1871	374	3	0
+Tiffany Fevery		257582104357616	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1853	927	18	0
+Lanjri Nahima	Lanjri Nahima	160499887883548	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	1840	362	13	0
+Ralph Packet	Packet Ralph Arthur F	2009966045768110	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	1834	352	29	2
+Alain Glibert élections 2019	Alain Hélène D Glibert	396705514417296	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	1832	345	35	0
+Elke Wouters		413400298718667	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1832	366	18	3
+Stefaan Vercamer	Vercamer Stefaan	767608903251471	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1771	354	17	3
+Patrick Lenaers	Patrick Lenaers 	1635110123370943	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	1735	867	17	0
+Gianmarco Persico DéFI		409353332981610	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1734	867	17	0
+Vincent Granville	Vincent Granville	393048054042295	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	1732	346	34	0
+Charis Kamoen	Kamoen Charis Oswald M	207387513240677	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	1709	326	25	2
+An Capoen	Nieuw-Vlaamse Alliantie	128105340557056	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1683	841	8	1
+Michiel Vandewalle		623661894685605	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1672	334	3	0
+Steven Kindt	Kindt Steven Karel A	934178266778547	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1664	332	3	0
+Dirk Rochtus, plaats 27 voor het Vlaams Parlement, Provincie Antwerpen	Dirk Rochtus	381494492700046	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	1655	316	38	0
+Thomas Wellens	Wellens Thomas	444370912980803	Facebook	f55_64	female (55-64)	BE	Belgium	10	1	1652	351	60	0
+Carrera Neefs Campagne Dagboek	Neefs Carrera Peggy R	1047450252106555	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	1642	493	27	0
+N-VA Temse	N-VA Temse	157739524296696	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	1638	327	32	0
+N-VA Stad Antwerpen	Nieuw-Vlaamse Alliantie	379749768826697	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1594	318	15	3
+CDH  Binche		761441187280813	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	1568	710	28	0
+Open VLD Machelen - Diegem		1188353354600120	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1562	312	15	3
+Dirk Melis		1996993963743892	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1531	306	15	3
+Natalie Eggermont	PVDA	415595709204858	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	1522	761	15	0
+Delphine De Valkeneer	Delphine Isabelle L De Valkeneer	609693995773726	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	1515	286	22	2
+Vlaams Belang Zutendaal		168469827080277	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1502	300	14	3
+Stéphane Obeid	Stephane Jean Obeid	263813223728024	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	1484	449	53	8
+Janna Bauters	Bauters Janna Linda D	355343038399994	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	1451	719	1	0
+GroenPlus		130349730380	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	1450	290	28	0
+Olivier Maroy	Olivier François M Maroy	950095165072382	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	1426	285	28	0
+Johanna Huylenbroeck	Schiettecat Tom Pierre J	390331084889844	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1411	705	13	0
+Vossaert Michaël	Michaël Vossaert	237845390282626	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	1381	455	21	0
+Koen Daniëls	N-VA	711452742279820	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1373	274	13	2
+Kyriakidis David		2786326408074980	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	1369	569	17	0
+Laura Van Eeckhout	Van Eeckhout Laura Karin	2007508699375704	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1363	272	2	0
+B.U.B Liège		374191459802847	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1363	681	13	0
+Jean-Denis Lejeune Cdh		360742941209626	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	1360	638	21	0
+Jan De Volder	CD&V	250105722223585	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	1334	463	19	0
+N-VA Aalter	Tillieu Jelle Gerard M	183728085015968	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1332	266	13	2
+Sven Gatz	Gatz Sven Peter A	100947845480	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	1327	455	20	0
+Groen Antwerpen	Groen Antwerpen	189169954496226	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	1312	224	41	0
+Osons la vérité		2313182062233879	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1252	626	12	0
+Christoph D'Haese-pagina		2155418157834414	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1200	600	11	0
+Tom De Meester	PVDA	409051602452966	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	1197	476	15	0
+Evi Van Camp	Van Camp Evi	1758937624358952	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	1171	585	11	0
+Audrey Henry	Audrey Henry	502988170105713	Facebook	f55_64	female (55-64)	BE	Belgium	10	1	1164	0	115	0
+Julien Vandenhoucke	Vandenhoucke Julien Serge M	772643609793854	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	1157	263	31	0
+Alexandra Philippe - DéFI	Alexandra Philippe	2134095363490260	Facebook	f55_64	female (55-64)	BE	Belgium	8	1	1140	259	21	0
 Rudi Vervoort		75793785999	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	1133	519	19	0
-Jos Lantmeeters	Nieuw-Vlaamse Alliantie	2253398908319094	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1036	518	10	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	983	491	2	0
-Jean-Claude Marcourt - Officiel	Gael René Lambinon	214672635464	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	865	432	8	0
-Cindy Franssen.	Franssen Cindy	404939213355109	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	824	0	81	0
-Daan De Veuster	De Veuster Daan Jozef D	1753693034925883	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	790	158	15	0
-Enio Cucurachi	Cucurachi Enio Antonio	2196293330408303	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	767	153	15	0
-Gautier CALOMNE	Gautier Calomne	82157651986	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	745	373	7	0
-Brecht Warnez	Warnez Brecht Luc T	998887823550443	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	684	136	13	0
-one brussels	one.brussels	244157445635331	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	653	130	12	0
-Lode Ceyssens	Lode Ceyssens	690224427744073	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	636	117	5	0
-Bart Smans, 17e plaats N-VA Vlaams Parlement	N-VA	800585406798122	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	631	315	6	0
-Koen Van den Heuvel	Koen Van den Heuvel	1953990651532264	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	622	115	15	0
-Joris Vandenbroucke	Vandenbroucke Joris Jeroen J	984867054996076	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	620	124	12	0
-Vlaams Belang Brussel	Vlaams Belang	499682940133305	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	591	295	5	0
-Alain Mertes	Vivant Ostbelgien	168912413949537	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	591	118	11	0
-Ecolo Ostbelgien	Ecolo Ostbelgien	321847415140	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	561	112	11	0
-Steven Vandeput	Nieuw-Vlaamse Alliantie	983442595060481	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	540	270	5	0
-PVDA West-Vlaanderen	PVDA	1661103980836335	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	523	104	10	0
-Steven Matheï	CD&V	118068899059774	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	513	0	50	0
-ProDG	ProDG	89846075866	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	487	90	12	0
-Zuhal Demir	Nieuw-Vlaamse Alliantie	453932394796444	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	483	96	9	0
-Ine Tombeur	Tombeur Ine	120236914663605	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	473	94	9	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	469	122	1	0
-Wouter Vermeersch	Vlaams Belang	1819099895078637	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	428	177	10	0
-Ecolo Mons-Borinage / Hauts-Pays	Bravin Geoffrey 	235500823177113	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	424	84	8	0
-N-VA Mechelen	Nieuw-Vlaamse Alliantie	250836601610919	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	392	78	7	0
-Vlaams Belang Bilzen	Vlaams Belang	1796765513978532	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	368	73	7	0
-Maurits Vande Reyde	Vande Reyde Maurits Jozef	1797427180478228	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	343	0	33	0
-N-VA Temse	N-VA Temse	157739524296696	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	331	66	6	0
-Kim Alloo	Alloo Kim	2165082146846340	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	324	30	20	0
-Det Radikale Venstre i Bruxelles	Espelund Morten	146464325502929	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	324	64	6	0
-Rachid Azaoum	Rachid Azaoum	1016780215187655	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	314	157	3	0
-Peter Gysbrechts	Neys Tom	363197027117917	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	310	62	6	0
-Orry Van de Wauwer	Orry Van de Wauwer	100752223802681	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	305	152	3	0
-sp.a Gent	sp.a Gent	145214795544742	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	302	0	30	0
-De Beleefhoek - Koffie & Klets vzw	Desmet Emmelien	958236627700857	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	299	0	29	0
-Jonathan de Patoul - DéFI	Jonathan Daniël S de Patoul	2069381119775596	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	288	0	28	0
-Sébastien Doutreloup	Sébastien Camille C.Doutreloup	2605782112772045	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	282	56	5	0
-Charis Kamoen	Kamoen Charis Oswald M	207387513240677	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	275	55	5	0
-Optimiste pour Bruxelles	MR - Mouvement Réformateur	570826640096148	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	269	0	26	0
-Danielle Godderis T'Jonck	N-VA	239999043457805	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	259	51	5	0
-Els Van Hoof-pagina	Van Hoof Els Walter H	315278555648437	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	249	49	4	0
-Pascal Smet	one.brussels	148221008918941	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	233	46	4	0
-European Commission	European Commission	107898832590939	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	214	107	0	0
-Evi Van Camp	Van Camp Evi	1758937624358952	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	197	39	3	0
-Michelle Ginée	Ginee Michelle	1059190017557242	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	194	38	3	0
-Vlaams Belang Kortrijk	Vlaams Belang	1657893191169110	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	188	0	18	0
-CD&V Limburg	CD&V Limburg	495564387205601	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	184	0	18	0
-Be.One	Abou Jahjah Dyab	203646696858225	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	168	33	3	0
-Gijs Degrande	N-VA	2343399459056104	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	164	32	3	0
-Koen Geens	CD&V	294055357407926	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	162	0	16	0
-Grégory Vidal	Grégory Vidal	347251118652585	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	153	0	15	0
-Thomas Wellens	Wellens Thomas	444370912980803	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	140	0	13	0
-Alain Destexhe	Alain Robert O.Destexhe	222804197775919	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	131	26	2	0
-CD&V Brussel	CD&V Brussel	650865328369779	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	123	0	12	0
-Marc Loewenstein	Marco Loewenstein	664636000270959	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	111	0	11	0
-Groen	Groen	84920854319	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	107	0	10	0
-Hans Maes	Maes Hans Bert	1181238155301995	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	103	51	1	0
-Jelmen Haaze	Haaze Jelmen Ed T	628369674250461	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	99	0	9	0
-Yasmine Kherbache - volksvertegenwoordiger	Sp.a Antwerpen	189145821274552	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	95	0	9	0
-CDU Brüssel-Belgien	CDU-Auslandsverband Brüssel-Belgien	498837460204117	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	92	0	9	0
-CD&V Ravels	Andriessen Nic	107574269395562	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	92	0	9	0
-N-VA Mol	N-VA Mol	293016180727875	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	90	0	8	0
-Bram Heylen	Heylen Bram	812636525751167	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	89	0	8	0
-Vlaams Belang Jabbeke	Vlaams Belang Jabbeke	400158513505219	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	80	0	7	0
-Sébastien Dewailly	Sébastien Dewailly	347034845930735	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	76	0	7	0
-Didrik - 48e candidat à la Région de Bruxelles	Didrik de Schaetzen	349509471801299	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	74	0	7	0
-Jan De Volder	CD&V	250105722223585	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	68	0	6	0
-Stijn De Roo	De Roo Stijn Emiel E	251722678703408	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	65	0	6	0
-Nicolas Stilmant - 2e effectif - liste Chambre	Nicolas Stilmant	371323650128015	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	63	0	6	0
-Sien Vandevelde	Vandevelde Sien Natalie S	1716420288443469	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	61	0	6	0
-Jong N-VA Regio Waregem	De Waele Glen	242316996585154	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	61	0	6	0
-Paul Cordy	Nieuw-Vlaamse Alliantie	650813488672073	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	60	0	6	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	57	14	0	0
-Natalie Eggermont	PVDA	415595709204858	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	56	0	5	0
-Evi Robert voor Europa	Robert Evi Melanie	277540613176324	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	55	0	5	0
-Lucien Rigaux - 67e PS à la Région de Bruxelles-Capitale	Lucien Rigaux	697600227298160	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	55	27	0	0
-Ecolo au coeur du changement - Province de Liège	Ecolo - province de Liège 	580163825784309	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	49	0	4	0
-Pieter-Jan Verhoye	Verhoye Pieter-Jan	300513937202082	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	41	0	4	0
-Dyab Abou Jahjah	Abou Jahjah Dyab	650597568382274	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	38	6	1	0
-Vincent De Wolf	Vincent Gilles De Wolf	399983396831282	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	35	0	3	0
-Kim Aluwé	Aluwé Kim Lilianna M	266386214287406	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	31	0	3	0
-Jeroen Lenaers	Jeroen Lenaers	316960281776479	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	27	5	0	0
-Benoît Dispa	Benoit Bruno E.Dispa	738567722908916	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	20	0	2	0
-Christophe Calis	Calis Christophe Koenraad R.	2396791870539800	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	18	0	1	0
-LSAP	Lëtzebuerger Sozialistesch Aarbechterpartei	47216059667	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1	0	0	0
+Marc Loewenstein	Marco Loewenstein	664636000270959	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	1127	300	37	0
+Debating Europe	Debating Europe	132011730204757	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	1091	218	21	0
+Gwenaëlle Grovonius Députée PS, 2ème à la Région pour Namur	Géraldine Christine C. Georges	852013494856695	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	1079	215	21	0
+Karen Maes - Groen		432558754220528	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	1074	399	15	0
+Dominique Coucke-pagina		1968318183496025	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	1067	120	57	0
+Vlaams Belang Kortrijk	Vlaams Belang	1657893191169110	Facebook	f55_64	female (55-64)	BE	Belgium	7	1	1055	174	35	0
+Ecolo Braine Le Comte	Ecolo Braine-le-Comte	775758055853342	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	1054	172	36	0
+European Commission	European Commission	107898832590939	Facebook	f55_64	female (55-64)	BE	Belgium	10	1	1016	442	2	0
+Tine Soens	Tine Joselyne Soens	1778402815798036	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	981	196	1	0
+Rezi Friedman	Friedman Rezi	249135725796994	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	969	467	50	9
+Omar Ba Groen plaats Nr 3 Europa	Vancoillie Sofie	459979281475594	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	965	193	1	0
+Fernand Van Trimpont	Van Trimpont Fernand August M	954988921279692	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	960	192	19	0
+Lucien Rigaux - 67e PS à la Région de Bruxelles-Capitale	Lucien Rigaux	697600227298160	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	952	171	22	0
+Issam Benali	Benali Issam	92011327952	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	926	166	25	0
+Hans Maes	Maes Hans Bert	1181238155301995	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	915	183	5	0
+Province : il est temps de faire bouger les choses avec ECOLO		2132853950059181	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	904	180	9	1
+BirdLife Europe and Central Asia	BirdLife Europe and Central Asia	174656216277326	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	894	178	1	0
+Freya Perdaens	Nieuw-Vlaamse Alliantie	1411253522462277	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	887	443	44	8
+Simon De Boeck - 1e schepen Gooik	De Boeck Simon	781750292026149	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	871	157	23	0
+Sara Moors	Moors Sara Rita J	378340112764943	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	869	174	17	0
+Katrien Schryvers		143895972907981	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	853	427	8	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	842	399	1	0
+Eliane Tillieux	Eliane Maria J Tillieux	515506935187700	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	836	167	8	1
+Maryam Jamshid	Jamshid Maryam	245016762713020	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	831	90	46	0
+Miranda Van Eetvelde	Van Eetvelde Miranda Paula A	123242867697182	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	827	165	16	0
+Hicham El Mzairh	Hicham El Mzairh	39050546817	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	824	164	5	0
+André Gantman		706694489351772	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	824	412	8	0
+S-Plus Bond "Achille Van Acker"		1308067459262948	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	805	161	15	0
+Nicolas Stilmant - 2e effectif - liste Chambre	Nicolas Stilmant	371323650128015	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	796	146	20	0
+N-VA Landen		186705558021609	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	792	158	15	0
+N-VA Merksplas		1015975858428193	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	787	393	7	0
+Jelmen Haaze	Haaze Jelmen Ed T	628369674250461	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	787	157	15	0
+Ben Segers - Antwerpen	Segers Ben	467059900446915	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	785	211	13	0
+CD&V Sint Agatha Berchem	Claes Léna Alice N	186110514876743	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	782	128	26	0
+Gérald vanderlin	Gerald Vanderlin	2225854367682548	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	771	154	15	0
+Cindy Franssen.	Franssen Cindy	404939213355109	Facebook	f55_64	female (55-64)	BE	Belgium	6	1	766	0	75	0
+Linda Lauwers -  18de plaats Kamer N-VA	Meeus Yannick	700417286687969	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	756	151	14	0
+Deniz Özkan	Özkan Can Deniz	2093182260713257	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	740	315	9	0
+Steff Nouws	Nouws Steff	175452716389521	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	736	147	1	0
+DéFi Jamila Sahraoui		1321317508006602	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	730	146	14	0
+Thomas Geuens	Geuens Thomas	1800565136675003	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	726	145	14	0
+Justine Hollevoet	Justine Liliane Hollevoet 	314364712376727	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	726	141	15	0
+Jean-Albert Nyssens		129345197844371	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	723	144	14	0
+JONG CD&V	JONG CD&V	638247042856542	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	715	357	7	0
+Luk Lemmens		589889954680599	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	714	357	35	7
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	707	353	1	0
+N-VA Groot Aalst	Nieuw-Vlaamse Alliantie	274961409207861	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	702	175	7	1
+Valerie Taeldeman	Taeldeman Valerie	779919915793661	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	699	139	13	0
+Sarah Smeyers	N-VA	95712061024	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	694	139	13	0
+Tomas Roggeman	N-VA	583612691972550	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	690	138	13	0
+Christophe Calis	Calis Christophe Koenraad R.	2396791870539800	Facebook	f55_64	female (55-64)	BE	Belgium	7	1	681	118	20	0
+Vlaams Belang Herentals		494842930591626	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	659	115	19	0
+Lieve Wierinck	Wierinck Godelieve Joanna	994682667310188	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	654	88	29	0
+Michelle Ginée	Ginee Michelle	1059190017557242	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	652	267	8	0
+Perrine Marchal	Perrine Nathalie G.Marchal	1816421541797483	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	639	319	6	0
+An Moerenhout	Groen	1952296711545946	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	639	319	6	0
+Willy Segers	Nieuw-Vlaamse Alliantie	172565137927	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	634	126	12	0
+sp.a Haaltert		386740204712694	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	628	125	12	0
+Nawal Farih.	Farih Nawal	456946584775620	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	627	211	9	0
+Valérie De Bue	Valérie De Bue	261617251408	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	625	125	12	0
+Meyrem Almaci	Meyrem Almaci	1943402032590802	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	624	312	3	0
+Ditjon Kraja - Election 2019	Ditjon Kraja	306781353351999	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	609	121	12	0
+Benjamin Jacobs	Jacobs Benjamin Emiel J	2066413053688356	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	597	70	31	0
+Filip Michiels  8e plaats Vlaams Parlement Open Vld	Michiels Filip Paul M	541237359573609	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	590	118	11	0
+Sp.a+ Ingelmunster	sp.a+ Ingelmunster	330707510330732	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	579	115	11	0
+Hilde Vautmans		1121251937901508	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	576	288	5	0
+Fatima Abbach	Fatima Abbach	1721280034665554	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	570	114	11	0
+Ecolo au coeur du changement - Province de Liège	Ecolo - province de Liège 	580163825784309	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	565	113	11	0
+Annabel Tavernier	Nieuw-Vlaamse Alliantie	329027807799398	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	548	274	27	5
+Anne Decortis Listes Destexhe	Anne Jenny F Decortis 	423493048193576	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	537	269	26	5
+Manu Douette		727590607265719	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	530	17	45	0
+CD&V Ravels	Andriessen Nic	107574269395562	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	529	105	10	0
+Lorin Parys	Nieuw-Vlaamse Alliantie	699243700236299	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	526	263	5	0
+Vlaams Belang Jabbeke	Vlaams Belang Jabbeke	400158513505219	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	525	91	15	0
+I love Mortsel	Vllazeria  Amarildo	331619486900252	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	515	103	10	0
+Mon DéFI pour l'Europe		2016860498363572	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	501	100	8	0
+Jeroen Overmeer		1766530456782481	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	496	99	9	0
+Stéphanie Scailquin, 100% d'engagement pour Namur		1188596014497103	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	489	97	9	0
+Nele Caus		297954777655834	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	486	97	9	0
+Moad El Boudaati		1435989583212818	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	461	92	40	8
+PS de Watermael-Boitsfort		402092416496556	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	460	92	0	0
+Candidate Raquel Gomes David	Gomes David Raquel	364123120866777	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	460	230	4	0
+Tina Feys		201068713855619	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	460	92	9	0
+Consulat de Belgique en Republique Dominicaine 2005_2016		796900477392786	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	456	91	8	0
+Dirk De fauw	De Fauw Dirk Mark L	904083546394929	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	444	89	8	0
+N-VA Ieper	Van Isacker Bernard Andre J	637075649732468	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	443	88	8	0
+N-VA Ronse	N-VA Ronse	166525380128528	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	441	88	8	0
+Adeline Bouché	Bouché Adeline Danielle P	474944862932729	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	438	219	21	4
+Vlaams Belang Bilzen	Vlaams Belang	1796765513978532	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	435	87	8	0
+PFF	Gregor Friedrich E Freches	75534801064	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	434	86	8	0
+PVDA Diksmuide Veurne Westkust	PVDA	495401140483679	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	422	84	8	0
+PVDA Oostende-Middenkust	PVDA	271488549672371	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	419	83	8	0
+Jong N-VA Regio Waregem	De Waele Glen	242316996585154	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	416	83	8	0
+Sam Voeten	Voeten Sam	529123987163459	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	414	83	8	0
+Kim Aluwé	Aluwé Kim Lilianna M	266386214287406	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	408	66	14	0
+Griet Smaers	Smaers Griet Maria K	796925490507562	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	407	203	20	4
+Lara Thommès - 20e sur liste PS à la Région bruxelloise	Lara Julie M.Thommes	2176100615739401	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	404	80	8	0
+Jan Van Hee		1703384279918792	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	403	80	7	0
+CD&V Oost-Vlaanderen		604371212959441	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	403	80	7	0
+Christine Gonay MR 4ème eff Europe		1867216703377890	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	402	80	7	0
+Wendy Hendrickx - N-VA Mechelen		551722081924188	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	383	76	7	0
+Alexander Miesen	Alexander Marcellus Miesen	136747073688457	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	368	73	7	0
+DéFI - Régional Namur 2019 - Liste 11		281739902702371	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	358	71	7	0
+Kim Martens	Martens Kim Kurt K	2055261121428802	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	356	71	7	0
+Tom Herremans	Herremans Tom Robert L	1013289718876034	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	352	53	13	0
+An Christiaens	Christiaens An Liliane B	427409014327861	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	351	175	17	3
+Pierre-Yves Dupuis - DéFI NAMUR	Pierre-Yves Christian Dupuis	227832097899216	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	348	69	6	0
+EESC - European Economic and Social Committee	EESC - European Economic and Social Committee	144709575593854	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	329	164	3	0
+De Beleefhoek - Koffie & Klets vzw	Desmet Emmelien	958236627700857	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	328	0	32	0
+Glenn Anné - 1e plaats Open Vld Aartselaar	Anné Glenn	183088062341632	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	325	65	6	0
+Rina Rabau - Plaats 4, Federaal Parlement	Rabau Nikandu-Rina	477573972668735	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	323	64	6	0
+PVDA Kortrijk	PVDA	126912660759418	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	321	64	6	0
+Groen Schaarbeek		201489859938533	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	320	49	12	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	317	114	5	1
+Lander Piccart	Piccart Lander 	654200285025844	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	316	105	8	0
+Kris Verbeeck	Verbeeck Kris	1950393285282665	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	311	155	3	0
+Belgian Military Interests		246810655463132	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	306	61	6	0
+Groen Menen		484261904940355	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	303	45	11	0
+Benoît Dispa	Benoit Bruno E.Dispa	738567722908916	Facebook	f55_64	female (55-64)	BE	Belgium	4	1	302	59	6	0
+Margot Desmet	Desmet Margot	253943212160826	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	294	58	5	0
+Leila Agic	Leila Agic	229313714293949	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	289	45	10	0
+Marine Chenoy 4ème sur la liste Fédérale PS pour Namur	Marine Chenoy	2131801880435129	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	284	56	5	0
+Minister Harald Mollers	Harald Mollers	1869992013240347	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	283	45	9	0
+Mouvement Demain	Pierre Eyben	203507300150906	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	280	44	10	0
+Health and Environment Alliance (HEAL)	The Health and Environment Alliance (HEAL)	208410145872548	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	280	56	5	0
+Sihame El Kaouakibi		595882667132447	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	274	137	13	2
+Kristof Calvo	Kristof Calvo	345099982367937	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	268	134	2	0
+Groen&Co		406342676073040	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	268	53	5	0
+Roel Van Elsacker	Van Elsacker Roel	755735138160727	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	267	53	5	0
+MR Koekelberg soutien à Lucas Ducarme et Philippe Pivin	Lucas Denis E Ducarme	1706672722902391	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	267	133	2	0
+Tom Vandenkendelaere	Tom Vandenkendelaere	676737302477960	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	261	71	1	0
+Olivier Coppens	Olivier Coppens	2086435664734819	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	250	125	2	0
+Centre démocrate humaniste de Wezembeek-Oppem		166108943839	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	249	0	24	0
+Jesuit Refugee Service Europe - JRS	JRS Europe	1568112950115984	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	249	124	2	0
+Melanie Blesgen, Candidate aux élections régionales 2019	Melanie Blesgen	408261873079490	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	242	48	4	0
+Niko Larock		266688844168039	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	238	119	2	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	236	89	0	0
+PVDA Brugge	PVDA	581383855270720	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	234	46	4	0
+Volt Belgique	Volt Belgique	275758083142875	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	230	115	2	0
+Bart Vanmarcke Vl. Verk. 2019		399783740868216	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	220	110	2	0
+Etienne Roba		436019293087773	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	214	0	21	0
+PARTI Populaire Fosses-la-Ville		265930274100596	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	213	42	0	0
+Fédération des Etudiants Libéraux	Fédération des Etudiants Libéraux 	6520274567	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	213	42	4	0
+Simon Smagghe		326048831465151	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	193	96	1	0
+Sam Van de Putte	Van De Putte Sam	56415453436	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	187	37	18	3
+Ryan Sabkhi - DierAnimal		423057578273662	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	179	0	17	0
+Alexandra D'Archambeau	D'Archambeau Alexandra Sylvie O	213637018831903	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	163	81	1	0
+Open Vld Langemark-Poelkapelle	Hoornaert Laurent	506406522812492	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	152	30	3	0
+Andries Gryffroy	N-VA	277891335706685	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	136	0	13	0
+Koen Anciaux		1791465157760052	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	119	0	11	0
+Aubry Meyers - Défi Liège	Meyers Aubry Eric	480986099012384	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	117	0	11	0
+Bram Heylen	Heylen Bram	812636525751167	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	92	0	9	0
+Filef Nuova Emigrazione - Belgio	Pietro Lunetto	614768311990403	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	90	0	8	0
+Els Verté	Verté Elsje Martine	421879891957030	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	90	18	1	0
+Lieselotte Thys	Thys Lieselotte	1060715860647129	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	86	43	0	0
+LE Prince D'orange asbl		948913781890014	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	82	16	1	0
+Jeroen Lenaers	Jeroen Lenaers	316960281776479	Facebook	f55_64	female (55-64)	BE	Belgium	5	1	73	36	0	0
+AurelieCzekalski	Aurélie Bénédicte Czekalski	572079523148892	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	72	0	7	0
+Big News Buzz		125179374733697	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	67	33	0	0
+Lionel Bajart		416342682225563	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	67	0	6	0
+Sense Mesura		1606564102740842	Facebook	f55_64	female (55-64)	BE	Belgium	14	1	66	0	6	0
+Norbert De Mey		168939573787459	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	65	13	1	0
+Dirk Devroey - Lijstduwer Kamer Vlaams-Brabant		2372256669453633	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	62	0	6	0
+Jan-Baptist Lemaire	Lemaire Jan-Baptist Catherine J	436626493747712	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	59	8	2	0
+Partij voor de Dieren	Partij voor de Dieren	102287806490622	Facebook	f55_64	female (55-64)	BE	Belgium	16	1	59	22	0	0
+Sien Vandevelde	Vandevelde Sien Natalie S	1716420288443469	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	54	0	5	0
+Magalie Verstraelen	Magalie Stephan Verstraelen	478865082572412	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	50	0	4	0
+L'affaire climat	Affaire Climat asbl	874181082603060	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	49	0	4	0
+ITUC		20556338116	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	42	21	0	0
+Daniel Freund	Bündnis 90 / Die Grünen Kreisverband Aachen	566872987051379	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	41	20	0	0
+Give Us A Voice Lëtzebuerg		1505184473073824	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	39	19	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	34	9	0	0
+ETUC		129041250601685	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	34	6	0	0
+Klimaatzaak	Klimaatzaak	1493008137629540	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	32	0	3	0
+Philippe Close		467344056705679	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	29	0	2	0
+Ilou Barma		1591164557803263	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	29	5	0	0
+Kenan Akyil	Akyil Kenan	268876507340385	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	28	4	1	0
+LSAP	Lëtzebuerger Sozialistesch Aarbechterpartei	47216059667	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	21	4	0	0
+Vlaams Belang Jongeren	Vlaams Belang Jongeren	203903005659	Facebook	f55_64	female (55-64)	BE	Belgium	2	1	14	2	0	0
+Piraten Bezierk Osten		141480992729926	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	11	2	0	0
+Open Vld Brussel		1589760981258549	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	8	0	0	0
+Tom Berendsen	2R Development	2301184920146129	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	6	1	0	0
+Europe Thinx		335839580440114	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	5	1	0	0
+Toine Manders		435867793202351	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	5	1	0	0
+Jimmy Bastings	Bastings Jimmy Anna Hubertus	2262432790696805	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	5	2	0	0
+Agnes Jongerius	Partij van de Arbeid (PvdA)	764061133777036	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	4	0	0	0
+CDU Kreisverband Aachen Land	CDU Kreisverband Aachen Land	107652402721043	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	2	0	0	0
+Partij van de Arbeid (PvdA)	Partij van de Arbeid (PvdA)	113895885305052	Facebook	f55_64	female (55-64)	BE	Belgium	3	1	2	1	0	0
+Eurozine		115579498521257	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	2	0	0	0
+Volt Deutschland	Volt Deutschland	134209407129787	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1	0	0	0
+Plictisescu.ro		184028071751540	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1	0	0	0
+D66	D66	52985377549	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	1	0	0	0
+Friedrich Jeschke	Friedrich Jeschke	603303090083496	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	0	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	0	0	0	0
+Free Quran Education		388655174641163	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	0	0	0	0
+USR Diaspora	Uniunea Salvați România - USR	1793510380925494	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	0	0	0	0
+Piratepartei Bezierk Norden		494284087327520	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	0	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	0	0	0	0
+DIE LINKE. NRW	DIE LINKE. NRW	150480805043795	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	0	0	0	0
+The Years Project	The Years Project	168876449866088	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	0	0	0	0
+Ne u moje ime		138418753446889	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	0	0	0	0
+Tom MacDonald		212732770186	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	0	0	0	0
+dom-i-NEEK		260052198180831	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	0	0	0	0
+Tokyo Weekender		134654693230171	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	0	0	0	0
+Defense de la famille traditionnelle		690409728062994	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	0	0	0	0
+Europa Anno Zero		308939363141901	Facebook	f55_64	female (55-64)	BE	Belgium	1	1	0	0	0	0

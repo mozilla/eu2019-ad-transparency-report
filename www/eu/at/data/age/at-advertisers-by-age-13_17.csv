@@ -1,35 +1,118 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	age_code_filter	age_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Beate Meinl-Reisinger	NEOS	243225039137708	Facebook	13_17	13-17	AT	Austria	3	1	20135	10067	105	24
-SPÖ	SPÖ	77393060080	Facebook	13_17	13-17	AT	Austria	17	1	18959	4497	242	25
-Harald Vilimsky	FPÖ	547597092025909	Facebook	13_17	13-17	AT	Austria	4	1	12658	4447	21	3
-Die neue SPÖ Tirol	SPÖ Tirol	172040642860223	Facebook	13_17	13-17	AT	Austria	1	1	8842	1768	17	0
-Werner Kogler	Die Grünen	133612666671985	Facebook	13_17	13-17	AT	Austria	2	1	4972	1915	49	9
-Grüne Jugend Steiermark	Grüne Jugend Steiermark	278628109523836	Facebook	13_17	13-17	AT	Austria	2	1	4835	967	95	0
-Andreas Schieder	SPÖ	290881691011354	Facebook	13_17	13-17	AT	Austria	3	1	4544	2139	53	20
-Die Grünen Steiermark	Die Grünen Steiermark	97997637890	Facebook	13_17	13-17	AT	Austria	3	1	4403	805	117	0
-Angelika Winzig	Wirtschaftsbund Österreich	141015722773374	Facebook	13_17	13-17	AT	Austria	2	1	3529	706	7	0
-1Europa	Peter Glawischnig	320389701908367	Facebook	13_17	13-17	AT	Austria	2	1	3145	629	62	0
-Die Grünen	Die Grünen	21759893033	Facebook	13_17	13-17	AT	Austria	2	1	2436	487	48	0
-Österreichische Gesellschaft für Europapolitik	Österreichische Gesellschaft für Europapolitik	290449626693	Facebook	13_17	13-17	AT	Austria	1	1	2410	482	47	0
-Tobias Krammer	Tobias Krammer	1643134582482219	Facebook	13_17	13-17	AT	Austria	1	1	2405	481	47	0
-Wilfried Haslauer	Salzburger Volkspartei	49835536470	Facebook	13_17	13-17	AT	Austria	2	1	1801	360	8	1
-Claudia Gamon	NEOS	447992848717452	Facebook	13_17	13-17	AT	Austria	2	1	1171	234	11	2
-SPÖ Kärnten	SPÖ Kärnten	10150145829810364	Facebook	13_17	13-17	AT	Austria	2	1	951	476	9	0
-Lukas Mandl	Verein VSM - Vorzugsstimmen für Mandl	436914289678818	Facebook	13_17	13-17	AT	Austria	10	1	837	167	16	0
-Peter Hametner	Peter Hametner	388385461980020	Facebook	13_17	13-17	AT	Austria	1	1	687	137	1	0
-SPÖ Obersteiermark Ost	SPÖ Obersteiermark Ost	639538052795950	Facebook	13_17	13-17	AT	Austria	1	1	554	110	10	0
+Harald Vilimsky	FPÖ	547597092025909	Facebook	13_17	13-17	AT	Austria	37	1	243457	99757	2980	605
+European Greens	European Greens	141366725876424	Facebook	13_17	13-17	AT	Austria	8	1	216730	101385	1925	411
+1Europa	Peter Glawischnig	320389701908367	Facebook	13_17	13-17	AT	Austria	23	1	215150	73852	1846	336
+SPÖ	SPÖ	77393060080	Facebook	13_17	13-17	AT	Austria	68	1	184982	76828	1595	427
+Die Grünen	Die Grünen	21759893033	Facebook	13_17	13-17	AT	Austria	32	1	180649	77683	2087	585
+Stadt Wien	Stadt Wien	110971788921077	Facebook	13_17	13-17	AT	Austria	8	1	147404	50617	542	62
+Grüne Jugend - Grünalternative Jugend	Grüne Jugend - Grünalternative Jugend	533665483708070	Facebook	13_17	13-17	AT	Austria	14	1	144185	55454	642	38
+Christian Zoll	Vorarlberger Volkspartei	601419393620184	Facebook	13_17	13-17	AT	Austria	2	1	119782	47893	124	23
+Alexander Van der Bellen	Österreichische Präsidentschaftskanzlei	138508202860897	Facebook	13_17	13-17	AT	Austria	1	1	113833	56916	569	113
+Claudia Gamon	NEOS	447992848717452	Facebook	13_17	13-17	AT	Austria	38	1	104369	36149	726	132
+Europäisches Parlament Österreich	Europäisches Parlament Österreich	124468054313069	Facebook	13_17	13-17	AT	Austria	4	1	79664	31862	504	84
+Angelika Winzig	Wirtschaftsbund Österreich	141015722773374	Facebook	13_17	13-17	AT	Austria	320	1	79091	20167	1698	58
+Österreichische Gesellschaft für Europapolitik	Österreichische Gesellschaft für Europapolitik	290449626693	Facebook	13_17	13-17	AT	Austria	2	1	68953	29837	1491	298
+Sebastian Kurz	Volkspartei	105151752909840	Facebook	13_17	13-17	AT	Austria	18	1	65079	28666	874	195
+Norbert Hofer	FPÖ	1650580648552563	Facebook	13_17	13-17	AT	Austria	9	1	58338	22021	487	169
+Lukas Mandl	Verein VSM - Vorzugsstimmen für Mandl	436914289678818	Facebook	13_17	13-17	AT	Austria	85	1	51483	13135	445	30
+Grüne Jugend Steiermark	Grüne Jugend Steiermark	278628109523836	Facebook	13_17	13-17	AT	Austria	3	1	38476	7695	118	0
+Günther Sidl	BSA Niederösterreich	806694216374998	Facebook	13_17	13-17	AT	Austria	7	1	37390	17531	271	44
+Die neue SPÖ Tirol	SPÖ Tirol	172040642860223	Facebook	13_17	13-17	AT	Austria	8	1	33935	13001	291	41
+Evelyn Regner	SPÖ	291746820967544	Facebook	13_17	13-17	AT	Austria	3	1	28281	8675	232	46
+Herbert Kickl	FPÖ	1977684662509834	Facebook	13_17	13-17	AT	Austria	5	1	27660	12023	199	47
+FPÖ	FPÖ	169051073236170	Facebook	13_17	13-17	AT	Austria	12	1	26831	12078	265	76
+Die Grünen Steiermark	Die Grünen Steiermark	97997637890	Facebook	13_17	13-17	AT	Austria	14	1	25925	9309	564	0
+GPA-djp	GPA-djp	214499840736	Facebook	13_17	13-17	AT	Austria	1	1	25182	5036	49	0
+Andreas Schieder	SPÖ	290881691011354	Facebook	13_17	13-17	AT	Austria	9	1	25158	8220	185	47
+Volkspartei Niederösterreich	Volkspartei Niederösterreich	185269004912086	Facebook	13_17	13-17	AT	Austria	54	1	24355	8677	289	47
+Beate Meinl-Reisinger	NEOS	243225039137708	Facebook	13_17	13-17	AT	Austria	5	1	23273	11636	155	34
+NEOS	NEOS	327450964017497	Facebook	13_17	13-17	AT	Austria	12	1	23232	6627	198	45
+Die Tiroler Grünen	Die Tiroler Grünen	112941499555	Facebook	13_17	13-17	AT	Austria	8	1	22279	5341	274	34
+FPÖ Tirol - die Tiroler Freiheitlichen	FPÖ Tirol - die Tiroler Freiheitlichen	197677003596231	Facebook	13_17	13-17	AT	Austria	5	1	21492	4298	127	21
+European Parliament	European Parliament	178362315106	Facebook	13_17	13-17	AT	Austria	7	1	20859	7074	73	10
+FPÖ Niederösterreich	FPÖ Niederösterreich	150623338441911	Facebook	13_17	13-17	AT	Austria	8	1	19939	8988	207	89
+Tobias Krammer	Tobias Krammer	1643134582482219	Facebook	13_17	13-17	AT	Austria	1	1	19838	3967	39	0
+Werner Kogler	Die Grünen	133612666671985	Facebook	13_17	13-17	AT	Austria	6	1	19490	8909	114	30
+Christian Dax	SPÖ Burgenland	1232990493514860	Facebook	13_17	13-17	AT	Austria	8	1	18846	4704	207	27
+KPÖ PLUS	KPÖ PLUS	849742871847407	Facebook	13_17	13-17	AT	Austria	7	1	16492	3298	123	22
+Wilfried Haslauer	Salzburger Volkspartei	49835536470	Facebook	13_17	13-17	AT	Austria	6	1	15274	5940	213	38
+OÖVP - die Oberösterreichische Volkspartei	Oberösterreichische Volkspartei	289163077789256	Facebook	13_17	13-17	AT	Austria	25	1	13958	3439	84	7
+Alex Bernhuber	Niederösterreichischer Bauernbund	382872055842390	Facebook	13_17	13-17	AT	Austria	10	1	12342	2623	88	14
+LET'S CEE Film Festival	LET'S CEE Film Festival	374807339208829	Facebook	13_17	13-17	AT	Austria	7	1	12160	5141	275	0
+European Commission	European Commission	107898832590939	Facebook	13_17	13-17	AT	Austria	15	1	12140	5546	11	3
+Team Kurz	Volkspartei	1446536545429987	Facebook	13_17	13-17	AT	Austria	5	1	9632	4634	118	27
+Severin Mayr	Die Grünen Oberösterreich	292307661332245	Facebook	13_17	13-17	AT	Austria	7	1	9460	1607	300	0
+Christofer Ranzmaier	Christofer Ranzmaier	187449428281036	Facebook	13_17	13-17	AT	Austria	4	1	9142	2017	104	15
+Thomas Stelzer	OÖVP - die Oberösterreichische Volkspartei	1786588968220782	Facebook	13_17	13-17	AT	Austria	15	1	8724	2719	56	5
+Markus Hein	FPÖ Linz	624525897689879	Facebook	13_17	13-17	AT	Austria	6	1	8689	2750	138	0
+Dominik Nepp	FPÖ-Wien	135953609780627	Facebook	13_17	13-17	AT	Austria	3	1	8126	4063	66	23
+Peter Hametner	Peter Hametner	388385461980020	Facebook	13_17	13-17	AT	Austria	9	1	7552	1854	58	6
+Europa-Wahl 2019	Michael Eisenriegler Bakk Phil	489866264465481	Facebook	13_17	13-17	AT	Austria	22	1	6939	1385	138	0
+Maximilian Kurz	FPÖ Tirol - die Tiroler Freiheitlichen	531971217283322	Facebook	13_17	13-17	AT	Austria	7	1	6043	787	289	4
+SPÖ Kärnten	SPÖ Kärnten	10150145829810364	Facebook	13_17	13-17	AT	Austria	6	1	5612	1428	60	8
+SPÖ Obersteiermark Ost	SPÖ Obersteiermark Ost	639538052795950	Facebook	13_17	13-17	AT	Austria	4	1	5464	1093	51	0
+Sozialistische Jugend Steiermark	Sozialistische Jugend Steiermark	132022020234948	Facebook	13_17	13-17	AT	Austria	1	1	5336	1067	10	0
+Tierschutzvolksbegehren	Tierschutzvolksbegehren	1642678769161065	Facebook	13_17	13-17	AT	Austria	9	1	5058	957	121	0
+Sebastian Bohrn Mena	Tierschutzvolksbegehren	1583324305255890	Facebook	13_17	13-17	AT	Austria	13	1	4780	695	198	0
+Maximilian Krauss	FPÖ-Wien	590930261019192	Facebook	13_17	13-17	AT	Austria	1	1	4655	2327	232	46
+Die Grünen Linz	Die Grünen - Die Grüne Alternative Linz	112824921274	Facebook	13_17	13-17	AT	Austria	1	1	4494	898	44	8
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	13_17	13-17	AT	Austria	9	1	4410	1943	6	0
+KSV Graz	KSV Graz	268242501289	Facebook	13_17	13-17	AT	Austria	14	1	3939	483	181	0
+Markus Abwerzger	FPÖ Tirol - die Tiroler Freiheitlichen	190177211135791	Facebook	13_17	13-17	AT	Austria	1	1	3563	1781	35	17
+SPÖ Oberösterreich	SPÖ Oberösterreich	208930355786005	Facebook	13_17	13-17	AT	Austria	6	1	3402	767	28	2
+Volkspartei	Volkspartei	15078244418	Facebook	13_17	13-17	AT	Austria	2	1	3357	1198	49	24
+KJÖ Graz	KJÖ Graz	128624867158781	Facebook	13_17	13-17	AT	Austria	1	1	2701	540	53	0
+Freiheitliche Jugend	Freiheitliche Jugend	261850724850	Facebook	13_17	13-17	AT	Austria	3	1	2425	1012	30	0
+Othmar Karas	Volkspartei	395638503864459	Facebook	13_17	13-17	AT	Austria	5	1	2222	978	39	9
+Josef Pühringer	OÖVP - die Oberösterreichische Volkspartei	47373762091	Facebook	13_17	13-17	AT	Austria	3	1	2156	501	14	2
+Salzburger Volkspartei	Salzburger Volkspartei	243190742384882	Facebook	13_17	13-17	AT	Austria	1	1	2132	1066	21	0
+Christine Haberlander	OÖVP - die Oberösterreichische Volkspartei	739265356233278	Facebook	13_17	13-17	AT	Austria	2	1	1772	354	17	3
+Markus Achleitner	OÖVP - die Oberösterreichische Volkspartei	2188880727831144	Facebook	13_17	13-17	AT	Austria	2	1	1689	337	16	3
+Max Hiegelsberger	OÖVP - die Oberösterreichische Volkspartei	943198402357632	Facebook	13_17	13-17	AT	Austria	2	1	1685	337	10	1
+Michael Raml	FPÖ Linz	1499759610320321	Facebook	13_17	13-17	AT	Austria	5	1	1668	267	88	0
+KOSMO	KOSMO	191576624211837	Facebook	13_17	13-17	AT	Austria	7	1	1644	455	11	0
+Mario Kunasek	FPÖ - Landespartei Steiermark	66095458281	Facebook	13_17	13-17	AT	Austria	1	1	1513	302	15	3
+Politik muss wieder für die einfachen Menschen gemacht werden.	Georg Krejci	2060122567590322	Facebook	13_17	13-17	AT	Austria	4	1	1306	255	28	0
+Hermann Schützenhöfer	Steirische Volkspartei	141720165842248	Facebook	13_17	13-17	AT	Austria	2	1	1146	77	79	0
+Wandel	Wandel	441927269154538	Facebook	13_17	13-17	AT	Austria	5	1	1047	5	101	0
+Freiheitliche Jugend Vorarlberg	Freiheitliche Jugend Vorarlberg	1562178404024823	Facebook	13_17	13-17	AT	Austria	1	1	1041	208	10	2
+VSStÖ Med Wien	Eva Sager 	1557561051146053	Facebook	13_17	13-17	AT	Austria	2	1	982	0	97	0
+Ahmed Husagić	SPÖ	1617700101837646	Facebook	13_17	13-17	AT	Austria	4	1	826	184	15	0
+I LOVE GERASDORF	ÖVP Gerasdorf	225716772430	Facebook	13_17	13-17	AT	Austria	3	1	758	324	9	0
+Wirtschaftsbund Österreich	Wirtschaftsbund Österreich	385183128166442	Facebook	13_17	13-17	AT	Austria	4	1	755	245	4	0
+Junge Generation in der SPÖ Oberösterreich	SPÖ Oberösterreich	291805967500051	Facebook	13_17	13-17	AT	Austria	1	1	736	147	7	1
+Maysara Soliman	Maysara Soliman	169929840584692	Facebook	13_17	13-17	AT	Austria	2	1	659	0	65	0
+Udo Landbauer	FPÖ Niederösterreich	494195290313	Facebook	13_17	13-17	AT	Austria	5	1	646	231	9	0
+Sarah Wiener	Die Grünen	970529566390833	Facebook	13_17	13-17	AT	Austria	1	1	635	317	3	0
+Freiheitliche Jugend Kärnten		536956663016520	Facebook	13_17	13-17	AT	Austria	1	1	622	124	12	0
+Die Grünen Wien	Die Grünen Wien	88676876113	Facebook	13_17	13-17	AT	Austria	2	1	585	117	6	0
+scoop.me		100745679654	Facebook	13_17	13-17	AT	Austria	1	1	506	101	8	0
+Herwig Mahr	Freiheitlicher Landtagsklub Oberösterreich	212990319049096	Facebook	13_17	13-17	AT	Austria	2	1	498	156	4	0
+JUNOS Studierende	JUNOS Studierende	231166380411824	Facebook	13_17	13-17	AT	Austria	5	1	466	135	3	0
 kontrast.at	kontrast.at	1079650008770485	Facebook	13_17	13-17	AT	Austria	1	1	398	79	0	0
-OÖVP - die Oberösterreichische Volkspartei	Oberösterreichische Volkspartei	289163077789256	Facebook	13_17	13-17	AT	Austria	3	1	372	152	4	0
-Alex Bernhuber	Niederösterreichischer Bauernbund	382872055842390	Facebook	13_17	13-17	AT	Austria	1	1	361	180	3	0
-Norbert Hofer	FPÖ	1650580648552563	Facebook	13_17	13-17	AT	Austria	1	1	330	66	6	0
-Sebastian Bohrn Mena	Tierschutzvolksbegehren	1583324305255890	Facebook	13_17	13-17	AT	Austria	1	1	268	0	26	0
-Die Grünen Wien	Die Grünen Wien	88676876113	Facebook	13_17	13-17	AT	Austria	1	1	258	51	5	0
-Politik muss wieder für die einfachen Menschen gemacht werden.	Georg Krejci	2060122567590322	Facebook	13_17	13-17	AT	Austria	3	1	242	0	24	0
-Christian Dax	SPÖ Burgenland	1232990493514860	Facebook	13_17	13-17	AT	Austria	1	1	158	0	15	0
-European Commission	European Commission	107898832590939	Facebook	13_17	13-17	AT	Austria	2	1	123	61	0	0
-GRAS Innsbruck	Grüne & Alternative Student_innen	169544599829393	Facebook	13_17	13-17	AT	Austria	2	1	87	14	3	0
-Christian Zoll	Vorarlberger Volkspartei	601419393620184	Facebook	13_17	13-17	AT	Austria	1	1	47	0	4	0
-Herwig Mahr	Freiheitlicher Landtagsklub Oberösterreich	212990319049096	Facebook	13_17	13-17	AT	Austria	1	1	45	22	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	13_17	13-17	AT	Austria	2	1	5	1	0	0
-KPÖ Graz	KPÖ Graz	167792116901542	Facebook	13_17	13-17	AT	Austria	1	1	1	0	0	0
+NEOS Niederösterreich	NEOS Niederösterreich	441223455916739	Facebook	13_17	13-17	AT	Austria	1	1	388	77	7	0
+SPÖ Burgenland	SPÖ Burgenland	237290919634390	Facebook	13_17	13-17	AT	Austria	2	1	344	61	23	0
+VSStÖ Juridicum	Eva Sager 	331632570217876	Facebook	13_17	13-17	AT	Austria	1	1	284	57	5	0
+Gottfried Waldhäusl	FPÖ Niederösterreich	627580790692097	Facebook	13_17	13-17	AT	Austria	2	1	254	103	3	0
+SPÖ Stadtorganisation Amstetten	SPÖ Stadtorganisation Amstetten	912354165459699	Facebook	13_17	13-17	AT	Austria	1	1	252	50	4	0
+Freiheitliche Arbeitnehmer Oberösterreich	Freiheitliche Arbeitnehmer Oberösterreich	346842098763288	Facebook	13_17	13-17	AT	Austria	2	1	222	10	17	0
+SPÖ Hainfeld	Robert Steineck	378862102263329	Facebook	13_17	13-17	AT	Austria	1	1	196	39	3	0
+Thomas Waitz	Die Grünen	235816017203590	Facebook	13_17	13-17	AT	Austria	1	1	160	80	1	0
+Freiheitliche Bauernschaft Oberösterreich	Freiheitliche Bauernschaft Oberösterreich	124298681063701	Facebook	13_17	13-17	AT	Austria	1	1	140	70	1	0
+GRAS Innsbruck	Grüne & Alternative Student_innen	169544599829393	Facebook	13_17	13-17	AT	Austria	2	1	99	16	3	0
+Pamela Rendi-Wagner	SPÖ-Parlamentsklub	1673371229636129	Facebook	13_17	13-17	AT	Austria	1	1	98	49	0	0
+KPÖ Graz	KPÖ Graz	167792116901542	Facebook	13_17	13-17	AT	Austria	1	1	66	33	0	0
+Nurten Yilmaz	Nurten Yilmaz	160128484173405	Facebook	13_17	13-17	AT	Austria	2	1	57	11	1	0
+Bildungsverein der KPÖ Steiermark	KPÖ Steiermark	124940167578420	Facebook	13_17	13-17	AT	Austria	1	1	50	10	1	0
+Austrian World Summit	R2o Austria & EU	1852365868311086	Facebook	13_17	13-17	AT	Austria	4	1	24	1	1	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	13_17	13-17	AT	Austria	5	1	16	5	0	0
+Ne u moje ime		138418753446889	Facebook	13_17	13-17	AT	Austria	1	1	12	2	0	0
+GRAS - Grüne & Alternative Student_innen	GRAS - Grüne & Alternative Student_innen	79935247286	Facebook	13_17	13-17	AT	Austria	2	1	5	1	0	0
+Wolfram Pirchner	Österreichischer Seniorenbund	296676857050295	Facebook	13_17	13-17	AT	Austria	1	1	4	1	0	0
+Barbara M. Thaler	Tiroler Volkspartei	1945277729020140	Facebook	13_17	13-17	AT	Austria	1	1	2	1	0	0
+Tiroler Volkspartei	Tiroler Volkspartei	217386655005525	Facebook	13_17	13-17	AT	Austria	1	1	1	0	0	0
 Alexander Hannes	CSU Kreisverband Regen	287380818788155	Facebook	13_17	13-17	AT	Austria	1	1	0	0	0	0
+Volt Deutschland	Volt Deutschland	134209407129787	Facebook	13_17	13-17	AT	Austria	4	1	0	0	0	0
+Ágh Péter	Ágh Péter	694941900537141	Facebook	13_17	13-17	AT	Austria	1	1	0	0	0	0
+FDP Oberbayern	Peter Anton Corticelli	285059978218487	Facebook	13_17	13-17	AT	Austria	1	1	0	0	0	0
+ITUC		20556338116	Facebook	13_17	13-17	AT	Austria	1	1	0	0	0	0

@@ -1,58 +1,259 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	region_code_filter	region_name_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Moderaterna	Moderaterna	7719591155	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	19	1	17842	7301	256	56
-Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	4	1	10286	5057	48	9
-Eric Luth	Eric Luth – Centerpartiet	757931234599499	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	9715	4309	89	23
-Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	7969	1438	113	45
-Centerkvinnorna i Göteborg	Ostring Bergman Karin Maria	170111706526814	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	5998	1000	55	9
-Miljöpartiet Västra Götaland	Miljöpartiet Västra Götaland	835842266433861	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	5998	1000	55	9
-Zandra Pettersson SD politiker	Pettersson Zandra Margareta	1731576980266356	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	4999	1000	92	46
-Karin Östring Bergman / Centerpartiet	Ostring Bergman Karin Maria	95356393777	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	4999	1000	46	9
-Kristdemokraterna Fyrbodal	Kristdemokraterna i VGN	1764033887144522	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	4999	1000	9	0
+Vänsterpartiet Göteborg	Vänsterpartiet Göteborg	175873745789190	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	7	1	1328806	511939	14940	2988
+Valmyndigheten	Valmyndigheten	1737852076287450	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	59	1	343190	150607	2131	536
+Miljöpartiet de gröna	Miljöpartiet de gröna	34780126150	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	44	1	340904	146334	3424	1033
+Moderaterna	Moderaterna	7719591155	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	131	1	324537	129446	5109	1225
+Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	101	1	308508	126435	3446	1327
+Liberalerna Västsverige	Liberalerna Västsverige	106102553268601	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	7	1	306764	107072	3523	1358
+Liberalerna Stenungsund	Emerse	635481149919229	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	15	1	303985	72000	1517	379
+Miljöpartiet Västra Götaland	Miljöpartiet Västra Götaland	835842266433861	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	12	1	250988	86027	3179	996
+Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	9	1	158112	41897	3195	666
+Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	48	1	157744	67537	2090	622
+Zandra Pettersson SD politiker	Pettersson Zandra Margareta	1731576980266356	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	4	1	128943	25789	1240	275
+Socialdemokraterna	Socialdemokraterna	8040892957	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	366	1	113119	46196	2212	463
+SSU	SSU	45101268520	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	58	1	111826	41269	1545	413
+European Commission	European Commission	107898832590939	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	26	1	105964	52574	683	233
+LO-distriktet i Västsverige	LO-distriktet i Västsverige	213326548681872	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	8	1	100686	24540	991	260
+Centerpartiet	Centerpartiet	12690894340	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	32	1	95483	41560	1558	657
+European Parliament	European Parliament	178362315106	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	19	1	94368	42812	854	307
+Kristdemokraterna Fyrbodal	Kristdemokraterna i VGN	1764033887144522	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	21	1	89437	28885	2154	533
+Socialdemokraterna i Borås	Socialdemokraterna i Borås	104604012928735	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	7	1	77334	18268	669	132
+European Greens	European Greens	141366725876424	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	9	1	71348	32614	933	282
+Socialdemokraterna Kungsbacka	Strand Bo Jonas	250833255029427	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	61015	12203	564	113
+Centerpartiet Västra Götaland	Centerpartiet	199121803446165	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	58583	11348	506	96
+David Lega	Kristdemokraterna	251829904829983	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	7	1	57604	11735	559	111
+Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	43	1	56897	17193	749	256
+Plan International Sverige	Plan International Sverige	382243262003	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	31	1	55670	24074	422	130
+Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	29	1	54546	17525	480	173
+Skövde kommun	Skövde kommun	147868325286010	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	49999	10000	462	92
+Jörgen Warborn EU-kandidat	Moderaterna	56002955332	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	14	1	49844	11425	579	123
+Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	25	1	44431	14971	642	171
+Vänsterpartiet	Vänsterpartiet	323156205347	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	76	1	41496	9004	289	64
+Eric Luth	Eric Luth – Centerpartiet	757931234599499	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	7	1	36174	8029	334	74
+Conny Brännberg	Brannberg Conny Ruben	656908278084235	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	34995	13000	416	194
+Centerpartiets Ungdomsförbund	Centerpartiets Ungdomsförbund	110793008936879	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	9	1	34835	15221	355	84
+Moderaterna i Mölndal	Brown Stjarna Amanda Charlotte	125396154314182	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	8	1	32742	6549	890	280
+Centerkvinnorna i Göteborg	Ostring Bergman Karin Maria	170111706526814	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	29997	15000	1018	231
+Rädda Barnen	Rädda Barnen	72659261793	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	95	1	26857	7311	219	45
+Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	31	1	24502	8585	245	70
+KD Mölndal	Karlsson Sven Anders Mattias	679052525613883	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	7	1	22993	4000	249	46
+Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	7	1	22765	10444	473	110
+Svenskt Näringsliv	Svenskt Näringsliv	90882504375	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	7	1	21596	7157	350	76
+Karin Östring Bergman / Centerpartiet	Ostring Bergman Karin Maria	95356393777	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	19998	10000	555	138
+Jordens Vänner / Friends of the Earth Sweden	Jordens Vänner / Friends of the Earth Sweden	207890945895422	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	7	1	18114	5240	98	20
+Eva B Arnesson - KD	Eva B Arnesson - KD	297923747637590	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	8	1	17848	2871	223	41
+Operation Smile Sverige	Operation Smile Sverige	161213770567846	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	108	1	17374	3045	161	27
+Evin Incir	Socialdemokraterna i Uppsala län	1439778006254125	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	9	1	16546	4246	147	34
+Tomas Tobé	Moderaterna	1829725353928210	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	35	1	15324	3933	259	57
+Kristdemokraterna Skaraborg	Kristdemokraterna Skaraborg	123405474354465	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	15110	2623	176	33
+Grön Ungdom	Grön Ungdom	113234935374946	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	14635	6762	198	48
+IF Metall	IF Metall	108492218918	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	10	1	14333	4821	82	17
+Linus Glanzelius till EU	SSU	410320602850904	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	12289	3705	149	62
+Maric politik	Marić Maria Charlotta	389748451834422	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	11908	2382	110	22
+Sverige för UNHCR	Viva Media	643137272398136	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	11356	5639	158	31
+Vänsterpartiet Fyrbodal	Vänsterpartiet Fyrbodal	154507768394620	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	11148	5030	473	92
+Kristdemokraterna på Orust	Kristdemokraterna	159407334910426	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	10998	5000	101	46
+Skogsindustrierna	Skogsindustrierna 	182933185135	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	10689	4793	57	23
+Magnus Thulin - Centerpartiet	Thulin Magnus Nils Oscar	161302754576832	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	8	1	10484	2097	109	29
+Moderaterna Alingsås	Thim Jens Lennart Thomas	206273962768960	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	9999	5000	92	46
+Lina Bodestad - Centerpartiet Ale	Bodestad Lina Eva	448679432228672	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	9999	5000	46	9
+Skaramoderaterna	Grönlund Plöen Anna Lotta	1757410027826711	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	9998	2000	92	18
+Socialdemokraterna Tidaholm	Socialdemokraterna Tidaholm	665730566798078	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	9998	2000	92	18
+Centerpartiet i Göteborg	Centerpartiet i Göteborg	116621488352172	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	9998	2000	92	18
+Henrik Sundström - M	Sundström Claes Henrik	180745369170	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	8	1	9693	2058	57	15
+Unga Feminister	Unga Feminister	100642360004457	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	9	1	9540	2792	95	25
+Jesper Skalberg Karlsson	Skalberg Karlsson Jesper Jens J	2171970199486213	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	9520	1904	88	17
+LO Sverige	LO Sverige	163820136238	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	9485	4279	155	31
+Fredrick Federley	Fredrick Federley	189892183097	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	9395	3496	75	22
+Feministiskt initiativ	Feministiskt initiativ	112513375470294	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	7	1	9318	1951	212	42
+Kristdemokraterna i Marks kommun	Hermansson Per-Olof Ingvar	511527222310641	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	9025	1805	83	16
+Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	33	1	8742	1946	74	16
+Arabiska Teatern / أرابيسكا تياترن	Arabiska Teatern / أرابيسكا تياترن	996264337099052	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	7747	3831	36	14
+Diakonia	Diakonia	42676805259	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	13	1	7705	2328	49	11
+Socialdemokraterna Kungälv	Kungälvs Socialdemokratiska Arbetarekommun	241319269242484	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	7420	1079	68	9
+Liberalerna	Liberalerna	132266740623	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	12	1	7362	1895	170	35
+Moderaterna i Mellerud	Moderaterna i Mellerud	1696828960384153	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	6835	971	63	8
+Emma Wiesner	Emma Wiesner (Centerpartiet)	653072158104424	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	11	1	6479	1441	47	10
+Gustav Hemming	Gustav Hemming (Centerpartiet)	722853564439941	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	6091	2195	177	35
+Moderaterna i Stenungsund	Renfors Anna Maria	488439967871997	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	6071	1000	56	9
+Annie Lööf	Centerpartiet	118943054880945	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	4	1	6043	1208	44	9
+Funktionsrätt Göteborg	Green Karin Maria Johanna	392199114162215	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	5998	1000	92	18
+Kristdemokraterna Göteborg	Kristdemokraterna Göteborg	1139097292843761	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	5998	1000	55	9
+En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	21	1	5920	1407	47	11
+Arba Kokalari	Moderaterna i Stockholms stad och län	355819811185620	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	5634	1127	52	10
+KDMaria	Nilsson Anna Maria	250279129252623	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	6	1	5623	0	88	9
+Sverigedemokraterna Region Stockholm	SD Stockholm	1729304067391998	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	5392	1078	51	11
+Vi-skogen	Vi-skogen	356032977210	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	5138	1027	47	9
+Kristdemokraterna Sotenäs	Kristdemokraterna	887339628029300	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	4999	1000	92	46
+Kristdemokraterna i Tibro	Kristdemokraterna i Tibro	127956383885303	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	4999	1000	46	9
+Kommunistiska Partiet Göteborg	Kommunistiska Partiet Göteborg	355113523668	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	4999	1000	46	9
+Emil Forslund - Politiker	Forslund Emil Jonathan	629056647456278	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	4999	1000	46	9
 Liberalerna Mariestad	Bergstrom Viktor Gunnar Lexer	1450259805246166	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	4999	1000	46	9
-Conny Brännberg	Brannberg Conny Ruben	656908278084235	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	4999	1000	46	9
-Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	4953	2476	114	22
-Moderaterna i Mölndal	Brown Stjarna Amanda Charlotte	125396154314182	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	4543	908	42	8
-Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	4432	886	41	8
-LO-distriktet i Västsverige	LO-distriktet i Västsverige	213326548681872	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	4362	705	40	6
-Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	4234	936	50	10
-European Parliament	European Parliament	178362315106	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	2982	1491	14	2
-ActionAid Sweden	ActionAid Sweden	18880778360	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	2746	549	25	5
-Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	1895	477	5	2
-Kristdemokraterna i Marks kommun	Hermansson Per-Olof Ingvar	511527222310641	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	1762	0	16	0
-David Lega	Kristdemokraterna	251829904829983	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	1011	0	9	0
-Kristdemokraterna Lysekil	Kristdemokraterna	347568685423907	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	999	0	9	0
-Maric politik	Marić Maria Charlotta	389748451834422	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	999	0	9	0
-Socialdemokraterna i Borås	Socialdemokraterna i Borås	104604012928735	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	999	0	9	0
-Kommunistiska Partiet Göteborg	Kommunistiska Partiet Göteborg	355113523668	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	999	0	9	0
-Charlotte Nordström	Nordstrom Charlotte Astrid	1470292919905819	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	999	0	9	0
-Kristdemokraterna på Orust	Kristdemokraterna	159407334910426	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	999	0	9	0
-Kristdemokraterna Göteborg	Kristdemokraterna Göteborg	1139097292843761	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	999	0	9	0
-Emil Forslund - Politiker	Forslund Emil Jonathan	629056647456278	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	999	0	9	0
-Kristdemokraterna i Ulricehamn	Kristdemokraterna i Ulricehamn	204903883423715	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	999	0	9	0
-Eva B Arnesson - KD	Eva B Arnesson - KD	297923747637590	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	942	0	8	0
-KDMaria	Nilsson Anna Maria	250279129252623	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	764	0	7	0
-Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	703	352	4	1
-Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	9	1	696	93	5	0
-Evin Incir	Socialdemokraterna i Uppsala län	1439778006254125	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	492	98	4	0
-En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	4	1	272	49	1	0
-Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	164	32	1	0
-Folkstyret	Ströberg Mikael	1243789685638222	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	156	31	1	0
-Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	154	30	1	0
-Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	151	30	1	0
-KDU Sverige	KDU Sverige	177549278946958	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	133	26	1	0
-Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	116	23	1	0
-Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	115	0	1	0
-Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	106	17	0	0
-Fredrick Federley	Fredrick Federley	189892183097	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	96	19	0	0
-Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	95	0	0	0
-Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	89	17	0	0
-Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	46	0	0	0
-Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	44	0	0	0
-Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	39	0	0	0
-Anders Rehnberg till Europaparlamentet	Rehnberg Anders John Henry	362678667854817	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	33	0	0	0
-Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	25	0	1	0
-Moderaterna i Örebro län	Moderaterna i Örebro län	1622018661360930	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	5	1	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	0	0	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	4	1	0	0	0	0
-European Commission	European Commission	107898832590939	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	0	0	0	0
+Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	6	1	4971	1226	66	13
+Jan Lenander, politiskt engagerad	Lenander Jan Richard	1834522019966466	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	4	1	4939	954	45	8
+Saco	Saco	133910158381	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	4638	927	34	7
+Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	4603	1794	29	5
+Moderaterna Kungsbacka	Moderaterna Kungsbackakretsen	121182911263997	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	4368	735	40	6
+KDU Sverige	KDU Sverige	177549278946958	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	8	1	4271	1183	69	14
+ActionAid Sweden	ActionAid Sweden	18880778360	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	8	1	4163	1156	40	12
+Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	3954	784	51	11
+Allan Widman	Liberalerna	540799486089503	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	3828	1483	124	24
+Ulricehamns kommun	Ulricehamns kommun	195221297179003	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	3780	647	34	5
+EU-kommissionen i Sverige	EU-kommissionen i Sverige	155824787799	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	3204	1516	28	13
+Skiftet	Skiftet	100650935646	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	3172	710	29	6
+Djurens parti	Eriksson Monica Maria Therese	207364469446997	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	3040	669	27	5
+Jonas Sjöstedt		261331320599298	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	3021	604	16	4
+KD Uddevalla	Kristdemokraterna	1415631785342345	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	2997	0	101	18
+Medborgerlig Samling	Medborgerlig Samling	189332844828330	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	2864	572	26	5
+6F - Fackförbund i samverkan	6F - Fackförbund i samverkan	720556414800953	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	2833	566	26	5
+Liberala ungdomsförbundet	Tilstam Emilie Josefin	108941769135355	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	2676	529	25	5
+Jessica Polfjärd	Moderaterna	337086006951883	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	2589	775	57	11
+ABF	ABF	80386149597	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	2541	1270	12	3
+Slöseriombudsmannen	Skattebetalarna	408171019221426	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	12	1	2511	1006	15	3
+Stefan Löfven	Socialdemokraterna	329885883718979	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	2323	929	86	43
+En bättre framtid	Plan International Sverige	1173808162671999	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	7	1	2236	436	19	3
+Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	6	1	2132	571	28	6
+Heléne Fritzon	Socialdemokraterna	767749640051136	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	20	1	2067	459	18	4
+Anders Rehnberg till Europaparlamentet	Rehnberg Anders John Henry	362678667854817	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	6	1	2050	479	31	7
+Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	18	1	2041	365	25	5
+Charlotte Nordström	Nordstrom Charlotte Astrid	1470292919905819	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	1998	0	18	0
+Kristdemokraterna i Ulricehamn	Kristdemokraterna i Ulricehamn	204903883423715	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	1998	0	92	18
+Svensk Handel	Svensk Handel	120477444659925	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	1951	571	6	1
+Afram Yakoub	Yakuob Afram	1849562398465143	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	1919	477	17	4
+Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	25	1	1841	359	11	0
+Hungerprojektet	Hungerprojektet	212049035488183	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	1819	363	18	4
+Socialdemokraterna i Jönköpings län	Socialdemokraterna i Jönköpings län	390479295816	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	1679	335	15	3
+Frihet	Hayrynen Lotta Ilona	1722887348013516	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	9	1	1652	768	22	8
+WaterAid Sverige	WaterAid Sverige	175843834306	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	1624	411	5	2
+Liberala Studenter	Heimbrand Christoffer	118645251482192	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	16	1	1600	428	11	1
+Internet Advertising		303479743893373	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	1600	320	15	3
+Liberalerna Örebro län	Liberalerna i Örebro län	388964421149126	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	1577	310	14	2
+CIVIL RIGHTS DEFENDERS	CIVIL RIGHTS DEFENDERS	128452220525979	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	1416	283	26	13
+Partiet Vändpunkt	Partiet Vändpunkt	334741620478680	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	1401	453	16	7
+Ydrenäs4EU	Ydrenas Hans Rickard	1538819782888095	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	1393	276	12	2
+Yrkesdörren	ÖppnaDörren	1047016558650888	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	11	1	1240	367	13	4
+Centerpartiet i Uppsala län	Grew Hedda Anna Magdalena Jarta	801293393230795	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	1123	418	10	3
+Socialdemokraterna i Mark	Andersson Hakan Ulf Goran	528944283871109	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	1116	23	10	0
+Anders G Johansson	Johansson Anders Gustaf Werner	357659877249	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	1082	0	9	0
+Olof Palme International Center	Olof Palme International Center	62185934430	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	1077	461	10	4
+Torgny Jönsson	Jonsson Bjorn Torgny	972455966286401	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	4	1	1067	213	12	3
+Forum Syd	Forum Syd	152060917636	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	1017	382	9	3
+Kristdemokraterna i Åmål	Kristdemokraterna	673797989636777	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	999	0	46	9
+Sverigedemokraterna Sotenäs		227238350776236	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	999	0	9	0
+Kristdemokraterna Lysekil	Kristdemokraterna	347568685423907	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	999	0	46	9
+Kristdemokraterna i Tidaholm		427648701368670	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	999	0	9	0
+Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	13	1	890	203	8	1
+RKU – Revolutionär Kommunistisk Ungdom	Gustafsson Arvid	328797072776	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	845	0	7	0
+Kristdemokraterna Arboga	Stenzelius Jonas Peter Mikael	1083070925184919	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	7	1	819	152	7	1
+Kristdemokraterna i Dalarna	Kristdemokraterna Dalarna	321670347944266	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	763	228	48	10
+Centerkvinnorna	Lek Ingrid Magdalena	265585313460256	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	8	1	744	136	8	1
+Spannmålsfritt	Spannmålsfritt	886531201686249	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	731	146	6	1
+Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	703	140	7	2
+Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	10	1	669	89	2	0
+Liberalerna Norrmalm	Tufvesson Elsa Christina	173275532684116	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	13	1	633	51	7	0
+FPlus – nyhetstjänsten för företagsamma	fPlus	130927360876045	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	4	1	563	112	5	1
+Jan Björklund	Liberalerna	221193798389602	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	561	280	25	5
+Bodil Valero sida	Valero Bodil Elisabeth	300733377216643	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	481	96	4	0
+KDU Jönköpings län	KDU Jönköpings län	1502764403290092	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	453	117	7	1
+Volt Sverige	Rolf Michael Holz	939004146262372	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	432	216	4	2
+Sveriges Kommunistiska Parti	Sveriges Kommunistiska Parti	133234606721672	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	425	180	3	1
+Pietro Marchesi	Marchesi Pietro Angelo Giuseppe	412659735929497	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	4	1	421	73	6	1
+Kryssa Mohammad Omran KD	Omran Mohammad	294934427940073	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	416	165	2	0
+KDU Göteborg	KDU Göteborg	337673949604125	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	409	0	3	0
+Centerpartiet Uppsala Län	Grew Hedda Anna Magdalena Jarta	597947044056811	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	408	163	2	0
+Martin Ängeby	Angeby Martin Lennart Valdemar	354019898061233	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	399	73	4	0
+Utvecklingsmagasinet (fd Biståndsdebatten)	Edquist Kerstin Helena	162523667123095	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	397	79	2	0
+20% Klimatvarning	Arleskar Carl Albin	362163934600158	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	397	155	13	2
+Folkstyret	Ströberg Mikael	1243789685638222	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	394	62	3	0
+Tobias Baudin	Kommunal	614939535271869	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	394	78	6	2
+Kristdemokraterna Uppsala	Kristdemokraterna Uppsala	783969528368300	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	377	139	12	3
+Marie Nilsson	IF Metall	292532504512919	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	369	68	3	0
+Linus Lakso - MP	Miljöpartiet de gröna	1038425926323402	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	357	64	3	0
+Fredsövning	ABRAHAMSSON PER-OLOV	717556358417977	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	337	67	3	0
+Susanna Gideonsson	Handelsanställdas förbund	2256836864595743	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	286	57	4	1
+Vänsterpartiet Jönköping	Vänsterpartiet Jönköping	169508586461	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	4	1	274	54	2	0
+Skattebetalarnas Förening	Skattebetalarnas Förening	72832167834	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	269	134	1	0
+Philip Botström		1580590188862575	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	252	33	2	0
+Vänsterpartiet Solna	Vänsterpartiet 	273249776157066	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	251	48	2	0
+Gröna Studenter	Almén Henrik Carl Olof	31779071967	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	248	124	11	2
+Landsbygdspartiet oberoende	Landsbygdspartiet oberoende	1549988978561671	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	246	123	11	2
+IOGT-NTO	IOGT-NTO	28237261288	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	244	98	9	1
+Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	218	42	2	0
+Karin Karlsbro - Liberalerna.	Liberalerna	559163754139097	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	199	39	1	0
+Kristdemokraterna Sörmland	Tinglöf Miriam Monica Mariana	1633975010236193	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	191	38	1	0
+Richard Brodd Liberalerna	Brodd Karl Erik Richard	223726468440460	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	188	37	17	3
+Grön Omstart	Wallin Lena Maria	407812702944641	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	181	28	0	0
+Concord Sverige	CONCORD Sverige	119628488091475	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	177	35	1	0
+Miljöpartiet de gröna i Helsingborg	Miljöpartiet de gröna i Helsingborg	106956499327992	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	156	27	1	0
+Anna Vikström		1671556912954715	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	156	31	1	0
+Timbro	Timbro	237146235237	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	153	21	1	0
+Georgia Ferris KD EU-Kandidat	Ferris Georgia Minnie Anna	407374246718043	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	152	30	1	0
+Stiftelsen Expo	Stiftelsen Expo	208751565805849	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	149	29	1	0
+Nackamoderaterna	Nackamoderaterna	132143480932	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	143	72	1	0
+Kristdemokraterna i Jönköpings län	Kristdemokraterna Jönköpings län	116545538368003	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	139	27	2	1
+Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	134	22	2	1
+Kvinna till Kvinna	Kvinna till Kvinna	153028052500	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	133	26	1	0
+Arbetsmarknadsnytt	Arbetsmarknadsnytt	799634660143537	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	133	26	1	0
+KD Kungsbacka	KD Kungsbacka	2024157037852156	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	131	26	1	0
+Studieförbundet Bilda	Wallstedt Bo Fredrik	161514177194883	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	122	24	1	0
+Liberalerna Västmanland	Liberalerna Västmanland	112927778743586	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	121	24	1	0
+Centerpartiet Upplands Väsby	Magnusson Kjell Johan Sonny	1457926257795252	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	121	20	1	0
+Fria Moderata Studentförbundet	Fria Moderata Studentförbundet	119885094691458	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	121	24	2	1
+Vänsterpartiet Jönköpings län	Vänsterpartiet Jönköpings län	433323816696224	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	4	1	113	21	1	0
+Liberalerna Västerås	Liberalerna Västerås	39940078116	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	107	21	0	0
+VadstenaModeraterna	Sjöberg Arne Lennart	560250150734818	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	102	20	0	0
+Moderaterna i Örebro län	Moderaterna i Örebro län	1622018661360930	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	101	20	0	0
+Moderaterna i Arboga	Soderland Anders Mikael	1307727569320278	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	97	19	0	0
+Reformisterna	Reformisterna	2337692372925538	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	94	18	0	0
+Sverigedemokraterna Jönköping	Andersson Bjorn Per Mikael	918971688179392	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	90	45	4	0
+Axess Magasin & TV	Axess Magasin & TV	887305194662637	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	89	17	0	0
+Vänsterpartiet Umeå	Sellstedt Karl Sven Andreas	237863203023150	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	89	17	0	0
+KD Sigtuna	Makris Jessica Therese	2063183643940247	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	88	17	0	0
+Folkbildarforum	Bildningsförbundet Östergötland	164688070209892	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	84	16	0	0
+KD Region Uppsala	KD Region Uppsala	195658617439309	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	4	1	80	0	0	0
+Stoppa höjningen av Sveriges EU-avgift	Fria Moderata Studentförbundet	306402583588293	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	78	15	1	0
+Tallis talar		1206136579519699	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	73	0	0	0
+Moderaterna i Håbo	Erling Björn Karl Gustaf	256926791030140	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	4	1	61	0	0	0
+Semantiko	MTWABP Sweden AB	656090384536434	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	53	0	0	0
+Centerpartiet i Umeå	Centerpartiet	450620155297	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	4	1	45	0	0	0
+IRANDN		1535002403434216	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	38	0	0	0
+Kristdemokraterna i Gagnef	Kristdemokraterna Dalarna	273483286188959	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	37	0	1	0
+Kristdemokraterna Vänersborg	Nilsson Anna Maria	1436550706597391	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	36	0	0	0
+Kommunistiska Partiet Stockholm		1572942986309050	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	35	0	0	0
+Kristdemokraterna Västerbotten	Kristdemokraterna Västerbotten	414156238684191	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	33	5	0	0
+Adnan Dibrani till Bryssel	Ghafari Sebastian	1308296045984813	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	31	0	0	0
+Socialdemokraterna Hässleholm	Hässleholms Socialdemokratiska arbetarekommun	838924659467812	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	30	0	0	0
+Tankar Online		114769995938282	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	23	0	2	0
+Rösta Moderat		349668178981055	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	20	0	0	0
+Kristdemokraterna i Örebro län	Cesar Eje Alexander	430535663641398	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	19	0	0	0
+Caritas Sweden		119140545477108	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	16	0	0	0
+Socialdemokraterna Värmland	Socialdemokraterna Värmland	273755455974802	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	15	3	0	0
+SSU Kalmar Län	SSU Kalmar län	241658249370356	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	13	0	0	0
+Arbetarekommunen	Persson Gunnar Henrik Haakan	2053389964962411	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	8	0	0	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	23	1	5	2	0	0
+Liberalerna Varberg	Liberalerna Varberg	780698325379963	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	8	1	3	0	0	0
+Common sense in Sweden		697826370283167	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	1	0	0	0
+The Good Show	Assur Stagliano Stefan Giuseppe	1923750267869320	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	1	0	0	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	3	1	1	0	0	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	1	0	0	0
+Socialdemokraterna i Stockholm	Socialdemokraterna i Stockholm	117056501654820	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	0	0	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	5	1	0	0	0	0
+Erik Poulsen - kandidat til Europa-Parlamentet	Erik Poulsen - kandidat til Europa-Parlamentet	203735820417737	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	0	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	0	0	0	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	0	0	0	0
 European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	0	0	0	0
+Big News Buzz		125179374733697	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	0	0	0	0
+Liberalerna Värmland	Liberalerna Värmland	201659616523774	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	0	0	0	0
+Free Quran Education		388655174641163	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	0	0	0	0
+Europe Thinx		335839580440114	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	0	0	0	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	8	1	0	0	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	0	0	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	0	0	0	0
+ETUC		129041250601685	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	0	0	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	0	0	0	0
+ITUC		20556338116	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	0	0	0	0
+Per Larsen i Folketinget	Det Konservative Folkeparti	129802704387687	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	0	0	0	0
+Thomas Thomsen	Thomsen Thomas	155006118510945	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	0	0	0	0
+Liberalerna i Karlstad	Liberalerna Karlstad	108881742481938	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	2	1	0	0	0	0
+Eurozine		115579498521257	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	0	0	0	0
+Nya Moderaterna Karlskoga	Moderaterna i Karlskoga	164539323567730	Facebook	vastra_gotaland_county	Västra Götaland County	SE	Sweden	1	1	0	0	0	0

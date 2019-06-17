@@ -1,18 +1,55 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-European Parliament	European Parliament	178362315106	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	14425	7212	14	0
-Nicos Tornaritis - Νίκος Τορναρίτης	Nicos Tornaritis - Νίκος Τορναρίτης	115653995162093	Facebook	f35_44	female (35-44)	CY	Cyprus	4	1	9651	2176	44	0
-Δρ. ΕΛΕΝΗ ΘΕΟΧΑΡΟΥΣ - Dr. ELENI THEOCHAROUS	Δρ. ΕΛΕΝΗ ΘΕΟΧΑΡΟΥΣ - Dr. ELENI THEOCHAROUS	46620712083	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	8853	1770	17	0
-Costas Mavrides - Κώστας Μαυρίδης	Costas Mavrides - Κώστας Μαυρίδης	197874087030899	Facebook	f35_44	female (35-44)	CY	Cyprus	4	1	6547	1473	17	0
-European Commission	European Commission	107898832590939	Facebook	f35_44	female (35-44)	CY	Cyprus	2	1	2082	1041	5	1
-ΛΕΥΤΕΡΗΣ ΔΗΜΗΤΡΙΟΥ	Eleftherios Demetriou	609745702447737	Facebook	f35_44	female (35-44)	CY	Cyprus	2	1	919	183	5	0
-Παναγιώτης Σεντώνας - Panayiotis Sentonas	Παναγιώτης Σεντώνας - Panayiotis Sentonas	436419753766608	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	806	403	7	0
-Κίνημα Σοσιαλδημοκρατών ΕΔΕΚ	EDEK	489124984493054	Facebook	f35_44	female (35-44)	CY	Cyprus	2	1	594	119	11	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	452	226	1	0
-Marinos Mousiouttas	Andreas Nikitaras	306684270037168	Facebook	f35_44	female (35-44)	CY	Cyprus	2	1	405	70	12	0
-Λευτέρης Χριστοφόρου - Lefteris Christoforou	Λευτέρης Χριστοφόρου - Lefteris Christoforou	832972046731724	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	310	62	6	0
+European Parliament	European Parliament	178362315106	Facebook	f35_44	female (35-44)	CY	Cyprus	19	1	212577	99421	629	116
+Γραφείο Τύπου και Πληροφοριών - Press and Information Office	PIO Cyprus	620027974738907	Facebook	f35_44	female (35-44)	CY	Cyprus	4	1	118373	51122	319	115
+Nicos Tornaritis - Νίκος Τορναρίτης	Nicos Tornaritis - Νίκος Τορναρίτης	115653995162093	Facebook	f35_44	female (35-44)	CY	Cyprus	14	1	88010	34736	231	23
+Κίνημα Σοσιαλδημοκρατών ΕΔΕΚ	EDEK	489124984493054	Facebook	f35_44	female (35-44)	CY	Cyprus	20	1	76015	28962	205	16
+ΑΚΕΛ - AKEL	ΑΚΕΛ - AKEL	117799504920552	Facebook	f35_44	female (35-44)	CY	Cyprus	109	1	73866	17810	621	4
+Marinos Mousiouttas	Andreas Nikitaras	306684270037168	Facebook	f35_44	female (35-44)	CY	Cyprus	35	1	56258	16659	322	9
+Δρ. ΕΛΕΝΗ ΘΕΟΧΑΡΟΥΣ - Dr. ELENI THEOCHAROUS	Δρ. ΕΛΕΝΗ ΘΕΟΧΑΡΟΥΣ - Dr. ELENI THEOCHAROUS	46620712083	Facebook	f35_44	female (35-44)	CY	Cyprus	12	1	50834	12085	127	6
+Costas Mavrides - Κώστας Μαυρίδης	Costas Mavrides - Κώστας Μαυρίδης	197874087030899	Facebook	f35_44	female (35-44)	CY	Cyprus	18	1	47417	11284	158	9
+Συμμαχία Πολιτών	ΣΥΜΜΑΧΙΑ ΠΟΛΙΤΩΝ	470323203056530	Facebook	f35_44	female (35-44)	CY	Cyprus	28	1	45892	10577	196	0
+Λευτέρης Χριστοφόρου - Lefteris Christoforou	Λευτέρης Χριστοφόρου - Lefteris Christoforou	832972046731724	Facebook	f35_44	female (35-44)	CY	Cyprus	24	1	42263	10603	153	8
+Katerina Christophidou	Katerina Christophidou	131599480586562	Facebook	f35_44	female (35-44)	CY	Cyprus	15	1	34777	9328	245	0
+ΛΕΥΤΕΡΗΣ ΔΗΜΗΤΡΙΟΥ	Eleftherios Demetriou	609745702447737	Facebook	f35_44	female (35-44)	CY	Cyprus	18	1	34621	9032	118	9
+European Greens	European Greens	141366725876424	Facebook	f35_44	female (35-44)	CY	Cyprus	3	1	29970	13623	217	43
+Κόμμα Δικαιοσύνης - ΟΑΔ	Michael Minas	404386316397983	Facebook	f35_44	female (35-44)	CY	Cyprus	14	1	29919	9152	156	23
+Τζώρτζια Κωνσταντίνου-Παναγιώτου / Georgia Constantinou-Panayiotou		Georgia Constantinou Panayiotou	270213387069072	Facebook	f35_44	female (35-44)	CY	Cyprus	6	1	27986	10108	129	12
+Δημοκρατικός Συναγερμός	Δημοκρατικός Συναγερμός	64330641883	Facebook	f35_44	female (35-44)	CY	Cyprus	13	1	27115	11773	160	13
+European Commission	European Commission	107898832590939	Facebook	f35_44	female (35-44)	CY	Cyprus	19	1	25103	11876	49	12
+Ξαναμπές στο Παιχνίδι - Ευρωεκλογές 2019		1820884184678798	Facebook	f35_44	female (35-44)	CY	Cyprus	31	1	22083	4591	133	0
+Παναγιώτης Σεντώνας - Panayiotis Sentonas	Παναγιώτης Σεντώνας - Panayiotis Sentonas	436419753766608	Facebook	f35_44	female (35-44)	CY	Cyprus	11	1	16019	3671	56	0
+Δημήτρης Παπαδάκης	Δημήτρης Παπαδάκης - Demetris Papadakis	1406872809567447	Facebook	f35_44	female (35-44)	CY	Cyprus	8	1	12060	2787	43	0
+Νικόλας Παπαδόπουλος	Constantinos Georgallides	998046016880140	Facebook	f35_44	female (35-44)	CY	Cyprus	6	1	10228	4198	28	0
+Ιακώβου Βάκης	Γιωργος Αλεξανδρου	332523037613071	Facebook	f35_44	female (35-44)	CY	Cyprus	4	1	8914	1878	25	0
+Ψηφίζω Δρ. Μαρδαπήττα Χρύσανθο		326882297995016	Facebook	f35_44	female (35-44)	CY	Cyprus	2	1	7789	3070	10	0
+Loucasfourlas	Isidoros Kolotas	315840879071640	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	6366	3183	6	0
+Dr. Eleni Stavrou	Eleni Stavrou	822417261217421	Facebook	f35_44	female (35-44)	CY	Cyprus	11	1	6029	1923	67	0
+Δημοκρατικό Κόμμα	Constantinos Georgallides	293704380825571	Facebook	f35_44	female (35-44)	CY	Cyprus	4	1	5860	2355	12	0
+ΚΩΝΣΤΑΝΤΙΝΟΣ ΟΔΥΣΣΕΩΣ	Κωνσταντινος Οδυσσεως	311289838967373	Facebook	f35_44	female (35-44)	CY	Cyprus	4	1	5463	1191	22	0
+Κίνημα Οικολόγων - Συνεργασία Πολιτών		406404342873724	Facebook	f35_44	female (35-44)	CY	Cyprus	2	1	3672	709	19	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	f35_44	female (35-44)	CY	Cyprus	9	1	2982	1319	6	0
+Prof. Dr. Niyazi Kızılyürek	Niyazi Kızılyürek	878208312216203	Facebook	f35_44	female (35-44)	CY	Cyprus	3	1	2835	966	16	0
+Kim Nicolaou - Artist	Kyriacos Nicolaou	642656172469187	Facebook	f35_44	female (35-44)	CY	Cyprus	3	1	2219	444	43	0
+UCLan Cyprus		414896181866054	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	1914	957	18	0
+garagErasmus Foundation		126673650730964	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	1854	371	3	0
+Awareness of Cyprus	Alexander Zelitchenko	731667146982325	Facebook	f35_44	female (35-44)	CY	Cyprus	2	1	1531	306	30	0
+Μαρία Παστελλά	Eftychios Michail	408568246617951	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	1009	504	9	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	f35_44	female (35-44)	CY	Cyprus	3	1	1002	200	2	0
+Medi4all Center Health &beauty Spa	Δημητρα Τουναρη	257405711275169	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	879	175	17	0
+AKEL Türkçe	ΑΚΕΛ - AKEL	811609932267686	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	776	388	7	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	454	227	1	0
+TC Square Ltd		107530896035156	Facebook	f35_44	female (35-44)	CY	Cyprus	2	1	423	68	13	0
+Dialogos	Dialogos	715275145197045	Facebook	f35_44	female (35-44)	CY	Cyprus	4	1	396	159	6	0
+Άρθρα Κείμενα Εκπομπές Μιχάλη Παρασκευά		884248208260775	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	173	34	3	0
 Μεγάλη Ελλάδα / Megali Ellada	Eleftherios Demetriou	401156360637381	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	136	27	2	0
-Συμμαχία Πολιτών	ΣΥΜΜΑΧΙΑ ΠΟΛΙΤΩΝ	470323203056530	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	111	22	2	0
-Τζώρτζια Κωνσταντίνου-Παναγιώτου / Georgia Constantinou-Panayiotou		Georgia Constantinou Panayiotou	270213387069072	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	110	0	10	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	f35_44	female (35-44)	CY	Cyprus	2	1	30	7	0	0
-Δημοκρατικό Κόμμα	Μανωλης Κυριακου	293704380825571	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	15	0	1	0
-Νικόλας Παπαδόπουλος	Μανωλης Κυριακου	998046016880140	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	13	0	1	0
+UK-Cyprus Enterprise Council	UK-Cyprus Enterprise Council 	1837120569879342	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	91	18	2	0
+CRIF		395919323779707	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	87	43	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	f35_44	female (35-44)	CY	Cyprus	5	1	82	28	0	0
+Europe Thinx		335839580440114	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	34	6	0	0
+No more bricks in the Wall		1854947667901523	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	13	0	1	0
+ETUC		129041250601685	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	6	1	0	0
+ITUC		20556338116	Facebook	f35_44	female (35-44)	CY	Cyprus	2	1	4	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	f35_44	female (35-44)	CY	Cyprus	2	1	4	0	0	0
+IronStone Legal		1779470342266633	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	1	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	f35_44	female (35-44)	CY	Cyprus	2	1	0	0	0	0
+Tom MacDonald		212732770186	Facebook	f35_44	female (35-44)	CY	Cyprus	1	1	0	0	0	0

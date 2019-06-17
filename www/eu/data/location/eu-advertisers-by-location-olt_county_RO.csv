@@ -1,32 +1,125 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Alianța 2020 USR PLUS	Alianța 2020 USR PLUS	621574984950400	Facebook	olt_county_RO	Olt County, Romania	4	1	18172	7975	36	9
-Romania #nuepsd	Future Innovation	293215748279337	Facebook	olt_county_RO	Olt County, Romania	1	1	11835	4734	4	2
-Partidul Naţional Liberal	Future Innovation 	181375448581167	Facebook	olt_county_RO	Olt County, Romania	4	1	11180	2989	20	4
-European Parliament	European Parliament	178362315106	Facebook	olt_county_RO	Olt County, Romania	1	1	6924	2769	13	6
-ALDE - Partidul Alianta Liberalilor si Democratilor	EvolveDreamSoft	1445317929104549	Facebook	olt_county_RO	Olt County, Romania	2	1	5131	2565	6	3
-Parlamentul European, Biroul de Informare în Romania	Parlamentul European, Biroul de Informare în Romania	138896782840976	Facebook	olt_county_RO	Olt County, Romania	2	1	2878	1251	3	0
-Nicu Ștefănuță	Uniunea Salvați România - USR	279454772645662	Facebook	olt_county_RO	Olt County, Romania	2	1	2533	1266	2	0
-Cristian Ghinea	Uniunea Salvați România	269505079808785	Facebook	olt_county_RO	Olt County, Romania	2	1	2420	1198	0	0
-Viorel Catarama	Dreapta Liberala	795022763862618	Facebook	olt_county_RO	Olt County, Romania	2	1	2189	437	4	0
-Dreapta Liberală - DL	Dreapta Liberala	1881461575305499	Facebook	olt_county_RO	Olt County, Romania	4	1	1185	234	1	0
-Virgil Popescu	POPESCU VIRGIL-DANIEL	1641765056062575	Facebook	olt_county_RO	Olt County, Romania	1	1	899	179	1	0
-Partidul Mișcarea Populară	Amerisoft	581911828514783	Facebook	olt_county_RO	Olt County, Romania	1	1	898	179	0	0
-European Commission	European Commission	107898832590939	Facebook	olt_county_RO	Olt County, Romania	2	1	817	408	2	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	olt_county_RO	Olt County, Romania	2	1	693	219	1	0
-Greenpeace Romania	Greenpeace Romania	291132089193	Facebook	olt_county_RO	Olt County, Romania	9	1	611	116	2	0
-Dacian Cioloş	PLUS	107543802616247	Facebook	olt_county_RO	Olt County, Romania	1	1	570	114	1	0
-Raluca Amariei	USR Sibiu	183087692172986	Facebook	olt_county_RO	Olt County, Romania	1	1	181	90	0	0
-MH TIMES	MINCULEASA CLAUDIU-NICOLAE	559977200816313	Facebook	olt_county_RO	Olt County, Romania	2	1	156	31	0	0
-Mihai Goţiu	Uniunea Salvați România	602280189818804	Facebook	olt_county_RO	Olt County, Romania	1	1	154	77	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	olt_county_RO	Olt County, Romania	2	1	96	26	0	0
-Corina Cretu	Corina Cretu	200813406761691	Facebook	olt_county_RO	Olt County, Romania	1	1	83	16	0	0
-Socioblog.ro	ZODIAN ALEXANDRU-SERBAN	815735411826201	Facebook	olt_county_RO	Olt County, Romania	1	1	74	14	0	0
-Todoran Adrian	Deputat Adrian Todoran	378450619599004	Facebook	olt_county_RO	Olt County, Romania	1	1	73	14	0	0
-Cristian Bușoi	Rus Alexandra	112332998808842	Facebook	olt_county_RO	Olt County, Romania	1	1	69	13	0	0
+USR Olt	ANTON SILVIU-CRISTIAN	247245385651467	Facebook	olt_county_RO	Olt County, Romania	10	1	660681	255138	1155	357
+Alianța 2020 USR PLUS	Alianța 2020 USR PLUS	621574984950400	Facebook	olt_county_RO	Olt County, Romania	35	1	198202	88584	265	54
+Partidul Naţional Liberal	Future Innovation 	181375448581167	Facebook	olt_county_RO	Olt County, Romania	19	1	129694	59019	299	124
+Claudiu Manda	Partidul Social Democrat	199635566715473	Facebook	olt_county_RO	Olt County, Romania	4	1	115764	48090	193	48
+European Commission	European Commission	107898832590939	Facebook	olt_county_RO	Olt County, Romania	27	1	111077	52411	276	72
+Parlamentul European, Biroul de Informare în Romania	Parlamentul European, Biroul de Informare în Romania	138896782840976	Facebook	olt_county_RO	Olt County, Romania	14	1	107942	49526	120	27
+Partidul Social Democrat	Partidul Social Democrat	291177524360702	Facebook	olt_county_RO	Olt County, Romania	12	1	105171	50924	197	40
+ALDE - Partidul Alianta Liberalilor si Democratilor	EvolveDreamSoft	1445317929104549	Facebook	olt_county_RO	Olt County, Romania	40	1	103713	46512	286	65
+European Parliament	European Parliament	178362315106	Facebook	olt_county_RO	Olt County, Romania	15	1	83899	39077	234	54
+Cristian Bușoi	Rus Alexandra	112332998808842	Facebook	olt_county_RO	Olt County, Romania	26	1	47494	21178	62	18
+Răcnetul Oamenilor Sătui	IOANITA MARIN-IOANA	165452684079944	Facebook	olt_county_RO	Olt County, Romania	8	1	46009	21338	37	8
+PLUS	PLUS	1903580739951981	Facebook	olt_county_RO	Olt County, Romania	4	1	41854	20062	54	11
+Nicu Ștefănuță	Uniunea Salvați România - USR	279454772645662	Facebook	olt_county_RO	Olt County, Romania	7	1	38761	18751	27	6
+Partidul Mișcarea Populară	Amerisoft	581911828514783	Facebook	olt_county_RO	Olt County, Romania	16	1	37103	16099	48	12
+Departamentul pentru Agricultură și Dezvoltare Rurală al PSD	Partidul Social Democrat	339365506708219	Facebook	olt_county_RO	Olt County, Romania	5	1	37096	15146	15	7
+Norica Nicolai	Increase Digital	121265151226126	Facebook	olt_county_RO	Olt County, Romania	15	1	30546	9922	60	11
+Cristian Ghinea	Uniunea Salvați România	269505079808785	Facebook	olt_county_RO	Olt County, Romania	11	1	23277	9795	13	2
+Romania #nuepsd	Future Innovation	293215748279337	Facebook	olt_county_RO	Olt County, Romania	1	1	22336	11168	23	4
+Calin Popescu Tariceanu	EvolveDreamSoft	227922987222524	Facebook	olt_county_RO	Olt County, Romania	2	1	22297	11148	43	21
+Ionel Dancă	ETIS Design	227578001357165	Facebook	olt_county_RO	Olt County, Romania	5	1	21740	9351	14	5
+România în primul rând	Future Innovation	770704223323599	Facebook	olt_county_RO	Olt County, Romania	1	1	20687	10344	21	4
+Raluca Turcan	ETIS Design	360184320712594	Facebook	olt_county_RO	Olt County, Romania	5	1	16580	7991	12	3
+PRO România	Networld IT&C SRL	2177244962290894	Facebook	olt_county_RO	Olt County, Romania	20	1	16406	5107	35	9
+Litere.net	litere.net	1504323906337545	Facebook	olt_county_RO	Olt County, Romania	1	1	16305	6522	6	3
+Declic	Declic	686190454826244	Facebook	olt_county_RO	Olt County, Romania	2	1	15950	6763	7	2
+Greenpeace Romania	Greenpeace Romania	291132089193	Facebook	olt_county_RO	Olt County, Romania	21	1	15715	5006	29	5
+Viorel Catarama	Dreapta Liberala	795022763862618	Facebook	olt_county_RO	Olt County, Romania	4	1	12769	6384	35	11
+Rares Bogdan	ETIS Design	204397909629079	Facebook	olt_county_RO	Olt County, Romania	1	1	12595	5038	5	2
+Raluca Amariei	USR Sibiu	183087692172986	Facebook	olt_county_RO	Olt County, Romania	7	1	10197	4607	65	14
+Virgil Popescu	POPESCU VIRGIL-DANIEL	1641765056062575	Facebook	olt_county_RO	Olt County, Romania	3	1	10104	3691	21	4
+Eugen Tomac	Amerisoft	494469087244449	Facebook	olt_county_RO	Olt County, Romania	7	1	10035	4524	11	4
+Gregoriana Tudoran	Tudoran Gregoriana Carmen	1985293741779690	Facebook	olt_county_RO	Olt County, Romania	10	1	9239	1847	13	2
+Pavel Emilian		1557836147771248	Facebook	olt_county_RO	Olt County, Romania	9	1	8371	2639	14	3
+Daniel Buda	ETIS Design	220579784732993	Facebook	olt_county_RO	Olt County, Romania	2	1	8274	4137	6	2
+George Simion	George Simion	2212856535602171	Facebook	olt_county_RO	Olt County, Romania	11	1	7942	3154	29	6
+Partidul Social Democrat Departamentul pentru Politici Fiscal Bugetare	Partidul Social Democrat	2006803969624108	Facebook	olt_county_RO	Olt County, Romania	1	1	7904	3162	1	0
+Dacian Cioloş	PLUS	107543802616247	Facebook	olt_county_RO	Olt County, Romania	1	1	7822	3129	16	3
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	olt_county_RO	Olt County, Romania	15	1	7795	3286	15	5
+Departamentul pentru Turism - Partidul Social Democrat	Partidul Social Democrat	339973510194748	Facebook	olt_county_RO	Olt County, Romania	1	1	7772	3109	1	0
+Departamentul pentru Comunicații și Societate Informațională al PSD	Partidul Social Democrat	346281832652995	Facebook	olt_county_RO	Olt County, Romania	1	1	7737	3095	3	1
+Mihai Goţiu	Uniunea Salvați România	602280189818804	Facebook	olt_county_RO	Olt County, Romania	9	1	7300	2532	13	2
+Consiliul Național PSD	Partidul Social Democrat	428923027871330	Facebook	olt_county_RO	Olt County, Romania	1	1	6623	3311	3	0
+Simona Maria Vlădica	Amerisoft	236992636715917	Facebook	olt_county_RO	Olt County, Romania	4	1	5584	2566	6	2
+Aresel		292847028010932	Facebook	olt_county_RO	Olt County, Romania	2	1	5295	2648	17	3
+USR Tineret		360833174410777	Facebook	olt_county_RO	Olt County, Romania	2	1	4495	2247	10	2
+European Free Alliance	European Free Alliance	46708306425	Facebook	olt_county_RO	Olt County, Romania	1	1	4446	2223	22	4
+Departamentul pentru Afaceri Interne PSD	Partidul Social Democrat	797044747344438	Facebook	olt_county_RO	Olt County, Romania	1	1	4112	2056	2	0
+PMP TV	Amerisoft	958364000868431	Facebook	olt_county_RO	Olt County, Romania	1	1	4075	2037	2	0
+Iulian Lorincz	Uniunea Salvați România - USR	924354934394338	Facebook	olt_county_RO	Olt County, Romania	9	1	3738	900	9	1
+USR Sibiu	Uniunea Salvați România	1028428697211383	Facebook	olt_county_RO	Olt County, Romania	1	1	3162	1581	3	1
+Violeta Alexandru	ETIS Design SRL	644108472676492	Facebook	olt_county_RO	Olt County, Romania	2	1	3041	1258	4	0
+Paralela45	Paralela45	89625862971	Facebook	olt_county_RO	Olt County, Romania	1	1	2683	1341	14	2
+Dreapta Liberală - DL	Dreapta Liberala	1881461575305499	Facebook	olt_county_RO	Olt County, Romania	4	1	2306	458	7	2
+Daniel Fenechiu	ETIS Design	125414364282605	Facebook	olt_county_RO	Olt County, Romania	1	1	2053	1026	2	0
+Ilan Laufer		364446500390294	Facebook	olt_county_RO	Olt County, Romania	5	1	2039	456	2	0
+Cupşa Ioan	ETIS Design	582397865304291	Facebook	olt_county_RO	Olt County, Romania	1	1	2022	1011	4	2
+Costel Alexe	ETIS Design	182546041796641	Facebook	olt_county_RO	Olt County, Romania	1	1	1968	984	2	0
+Florica Chereches	ETIS Design	425879067570544	Facebook	olt_county_RO	Olt County, Romania	1	1	1956	978	4	2
+Inițiativa România	Inițiativa România	1847959338763696	Facebook	olt_county_RO	Olt County, Romania	6	1	1923	731	2	0
+Adrian Miuțescu	ETIS Design	1992712767649895	Facebook	olt_county_RO	Olt County, Romania	1	1	1894	947	3	1
+Ion ȘTEFAN	ETIS Design SRL	1653699758248627	Facebook	olt_county_RO	Olt County, Romania	1	1	1878	939	3	1
+Corina Cretu	Corina Cretu	200813406761691	Facebook	olt_county_RO	Olt County, Romania	11	1	1875	485	5	0
+Siegfried Muresan	ETIS Design	731035500293728	Facebook	olt_county_RO	Olt County, Romania	1	1	1845	922	3	1
+Cornel Popa	ETIS Design	362437290495506	Facebook	olt_county_RO	Olt County, Romania	1	1	1829	914	1	0
+Marilen Gabriel Pirtea	ETIS Design	446198175563566	Facebook	olt_county_RO	Olt County, Romania	1	1	1793	896	3	1
+EM360 cu Adi Maniutiu	EM360 cu Adi Maniutiu	201920416986321	Facebook	olt_county_RO	Olt County, Romania	14	1	1738	675	4	0
+Andrei Pop	Andrei Pop	522518014611632	Facebook	olt_county_RO	Olt County, Romania	2	1	1721	344	0	0
+Ziare Neamț	Media PR Grup	471673660019608	Facebook	olt_county_RO	Olt County, Romania	2	1	1707	341	5	2
+Victor Ponta		150967671609795	Facebook	olt_county_RO	Olt County, Romania	1	1	1702	851	1	0
+PNL Bucuresti	Rus Alexandra	678840505584990	Facebook	olt_county_RO	Olt County, Romania	1	1	1701	850	3	1
+MH TIMES	MINCULEASA CLAUDIU-NICOLAE	559977200816313	Facebook	olt_county_RO	Olt County, Romania	5	1	1639	555	1	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	olt_county_RO	Olt County, Romania	3	1	1620	569	5	0
+Viorel Badea	ETIS Design	161582543936194	Facebook	olt_county_RO	Olt County, Romania	1	1	1604	802	1	0
+Naomi Reniuț-Ursoiu	Uniunea Salvați România	708334336169853	Facebook	olt_county_RO	Olt County, Romania	4	1	1567	311	2	0
+Ziar Piatra Neamt	Media PR Grup	183473261723511	Facebook	olt_county_RO	Olt County, Romania	1	1	1040	208	0	0
+Silvia Dinică	Silvia Dinică	1128229287275038	Facebook	olt_county_RO	Olt County, Romania	1	1	1008	201	2	0
+Peter Costea		407413792695356	Facebook	olt_county_RO	Olt County, Romania	2	1	967	190	2	0
+Todoran Adrian	Deputat Adrian Todoran	378450619599004	Facebook	olt_county_RO	Olt County, Romania	3	1	960	218	2	0
+Gheorghiu Bogdan	ETIS Design	267044410338956	Facebook	olt_county_RO	Olt County, Romania	1	1	948	189	1	0
+Monica Luisa Macovei	MACOVEI MONICA-LUISA	130380413723811	Facebook	olt_county_RO	Olt County, Romania	1	1	946	189	1	0
+CLAYTON		122493385103	Facebook	olt_county_RO	Olt County, Romania	1	1	935	187	1	0
+RMDSZ	RMDSZ	102601499822802	Facebook	olt_county_RO	Olt County, Romania	30	1	926	265	3	0
+Bogdan Huţucă	ETIS Design	370816919755641	Facebook	olt_county_RO	Olt County, Romania	1	1	909	181	1	0
+Europe Direct Regiunea Centru		146911762151935	Facebook	olt_county_RO	Olt County, Romania	1	1	891	178	1	0
+Dan Vîlceanu	ETIS Design	715786165255092	Facebook	olt_county_RO	Olt County, Romania	1	1	833	166	1	0
+The Trust Word - Romania	The TRUST Word News Group	640011536422545	Facebook	olt_county_RO	Olt County, Romania	1	1	694	138	0	0
+USR Teleorman	Partidul "Uniunea Salvati Romania"	694605284013356	Facebook	olt_county_RO	Olt County, Romania	5	1	630	169	1	0
+European Greens	European Greens	141366725876424	Facebook	olt_county_RO	Olt County, Romania	2	1	547	220	5	1
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	olt_county_RO	Olt County, Romania	5	1	531	215	2	0
+MozaiQ	MozaiQ	1156150484398630	Facebook	olt_county_RO	Olt County, Romania	1	1	419	83	0	0
+ETUC		129041250601685	Facebook	olt_county_RO	Olt County, Romania	1	1	397	79	3	0
+Christ4ro News		33424557041	Facebook	olt_county_RO	Olt County, Romania	2	1	365	182	3	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	olt_county_RO	Olt County, Romania	1	1	228	45	2	0
+EuroJobs Romania		1850976141839208	Facebook	olt_county_RO	Olt County, Romania	1	1	224	112	0	0
+Plictisescu.ro		184028071751540	Facebook	olt_county_RO	Olt County, Romania	1	1	171	85	0	0
+Cristina Prună	PRUNA CRISTINA-MADALINA	281341562263123	Facebook	olt_county_RO	Olt County, Romania	2	1	160	25	1	0
+Kárpát-medencei Magyar Összefogás	Kárpát-medencei Magyar Összefogás	221361328752151	Facebook	olt_county_RO	Olt County, Romania	19	1	149	51	0	0
+Socioblog.ro	ZODIAN ALEXANDRU-SERBAN	815735411826201	Facebook	olt_county_RO	Olt County, Romania	1	1	146	73	0	0
+Europe Thinx		335839580440114	Facebook	olt_county_RO	Olt County, Romania	1	1	134	26	0	0
+UNPR Sector 6		1499561713619805	Facebook	olt_county_RO	Olt County, Romania	1	1	126	63	1	0
+Lazar I. Bogdan		363615250703159	Facebook	olt_county_RO	Olt County, Romania	1	1	103	20	0	0
+Gabriela Mirescu		2618888988127707	Facebook	olt_county_RO	Olt County, Romania	2	1	101	50	0	0
+Erdélyi magyarok Orbán Viktor mellett	Erdélyi magyarok Orbán Viktor mellett	1537537942983268	Facebook	olt_county_RO	Olt County, Romania	17	1	100	23	0	0
+USR Buzău		1140510482748359	Facebook	olt_county_RO	Olt County, Romania	1	1	82	16	0	0
+Legyen ELÉG	Legyen Elég	1500893963467932	Facebook	olt_county_RO	Olt County, Romania	11	1	81	18	0	0
+Radu Mihaiu	Mihaiu Radu-Nicolae	689386518104305	Facebook	olt_county_RO	Olt County, Romania	1	1	80	16	0	0
+Cornel Radu Loghin	RADU-LOGHIN CORNEL	429437337859107	Facebook	olt_county_RO	Olt County, Romania	2	1	75	11	0	0
+Marinela V. Ardelean		346137638884956	Facebook	olt_county_RO	Olt County, Romania	1	1	72	14	0	0
+Mága Zoltán hegedűművész		164762586881530	Facebook	olt_county_RO	Olt County, Romania	1	1	68	34	0	0
+Florin Bivol		2253449691332190	Facebook	olt_county_RO	Olt County, Romania	1	1	62	12	0	0
 European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	olt_county_RO	Olt County, Romania	1	1	52	26	0	0
-Iulian Lorincz	Uniunea Salvați România - USR	924354934394338	Facebook	olt_county_RO	Olt County, Romania	1	1	51	10	0	0
-Norica Nicolai	Increase Digital	121265151226126	Facebook	olt_county_RO	Olt County, Romania	1	1	23	0	0	0
-Gregoriana Tudoran	Tudoran Gregoriana Carmen	1985293741779690	Facebook	olt_county_RO	Olt County, Romania	1	1	8	0	0	0
-RMDSZ	RMDSZ	102601499822802	Facebook	olt_county_RO	Olt County, Romania	2	1	8	2	0	0
-Legyen ELÉG	Legyen Elég	1500893963467932	Facebook	olt_county_RO	Olt County, Romania	3	1	6	1	0	0
-Erdélyi magyarok Orbán Viktor mellett	Erdélyi magyarok Orbán Viktor mellett	1537537942983268	Facebook	olt_county_RO	Olt County, Romania	1	1	4	2	0	0
+Un colt de suflet		1446870045551264	Facebook	olt_county_RO	Olt County, Romania	2	1	47	5	0	0
+Stop AAAS Ro		1640996242671731	Facebook	olt_county_RO	Olt County, Romania	2	1	31	0	2	0
+Kelemen Hunor	RMDSZ	175293925828191	Facebook	olt_county_RO	Olt County, Romania	4	1	18	4	0	0
+Csomortányi István	Erdélyi Magyar Néppárt	450693115669004	Facebook	olt_county_RO	Olt County, Romania	1	1	12	2	0	0
+Big News Buzz		125179374733697	Facebook	olt_county_RO	Olt County, Romania	1	1	12	6	0	0
+Vincze Loránt	Vincze Loránt	675042232534141	Facebook	olt_county_RO	Olt County, Romania	2	1	11	2	0	0
+USR Argeș	Uniunea Salvati Romania	987000488084806	Facebook	olt_county_RO	Olt County, Romania	3	1	11	2	0	0
+USR Timiș		873737539404529	Facebook	olt_county_RO	Olt County, Romania	1	1	11	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	olt_county_RO	Olt County, Romania	2	1	6	0	0	0
+La Pensie		1092535407579725	Facebook	olt_county_RO	Olt County, Romania	1	1	6	0	0	0
+Calculat si linistit		821298314618173	Facebook	olt_county_RO	Olt County, Romania	1	1	5	0	0	0
+ITUC		20556338116	Facebook	olt_county_RO	Olt County, Romania	1	1	1	0	0	0
+Tom MacDonald		212732770186	Facebook	olt_county_RO	Olt County, Romania	1	1	1	0	0	0

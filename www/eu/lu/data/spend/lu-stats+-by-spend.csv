@@ -1,4 +1,5 @@
 spend_code	spend_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-0_50	0 - 50	LU	Luxembourg	33	16	246535	56931	2463	0
-50_100	50 - 100	LU	Luxembourg	33	16	769	177	7	0
-100_1k	100 - 1k	LU	Luxembourg	3	2	3516	1758	8	1
+0_50	0 - 50	LU	Luxembourg	239	51	3654694	874034	17793	0
+50_100	50 - 100	LU	Luxembourg	239	51	11414	2729	55	0
+100_1k	100 - 1k	LU	Luxembourg	151	30	5096668	1556747	41164	8556
+1k_5k	1k - 5k	LU	Luxembourg	4	3	203945	101848	4965	993

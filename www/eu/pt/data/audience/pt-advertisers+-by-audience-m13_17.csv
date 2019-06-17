@@ -1,3 +1,7 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-European Commission	European Commission	107898832590939	Facebook	m13_17	male (13-17)	PT	Portugal	2	1	835	417	2	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	m13_17	male (13-17)	PT	Portugal	2	1	164	42	0	0
+European Commission	European Commission	107898832590939	Facebook	m13_17	male (13-17)	PT	Portugal	20	1	50815	24086	65	20
+European Parliament	European Parliament	178362315106	Facebook	m13_17	male (13-17)	PT	Portugal	4	1	15783	7850	49	9
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	m13_17	male (13-17)	PT	Portugal	9	1	4808	1861	11	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	m13_17	male (13-17)	PT	Portugal	5	1	499	182	2	0
+Movimento Pelas Nações		2605012812858169	Facebook	m13_17	male (13-17)	PT	Portugal	3	1	23	0	2	0
+ITUC		20556338116	Facebook	m13_17	male (13-17)	PT	Portugal	2	1	6	0	0	0

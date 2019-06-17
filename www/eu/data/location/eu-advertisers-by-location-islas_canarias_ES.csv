@@ -1,15 +1,104 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Avaaz	Avaaz	8340223883	Facebook	islas_canarias_ES	Islas Canarias, Spain	9	1	141766	56060	204	50
-Reacciona y Actúa	Actúa 	1916676245053161	Facebook	islas_canarias_ES	Islas Canarias, Spain	15	1	32300	9329	92	0
-European Parliament	European Parliament	178362315106	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	22045	8818	44	22
-Ahora Repúblicas	Esquerra Republicana de Catalunya	578942235869606	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	16557	8278	41	8
-PACMA - Partido Animalista	PACMA - Partido Animalista	72181181684	Facebook	islas_canarias_ES	Islas Canarias, Spain	2	1	11890	5192	28	4
-Antonio Morales Méndez	Nueva Canarias	972435506102094	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	4999	1000	99	0
-Markel Olano	EAJ-PNV	898191063533170	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	3183	1591	15	3
-Compromís	Compromís	194053080624605	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	3084	616	30	6
-Partido Por un Mundo más Justo · M+J	Partido Por un Mundo más Justo · M+J	147468905314265	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	2067	413	4	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	islas_canarias_ES	Islas Canarias, Spain	4	1	1044	291	2	0
-European Commission	European Commission	107898832590939	Facebook	islas_canarias_ES	Islas Canarias, Spain	2	1	874	437	2	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	693	346	1	0
-IU Aragón	IU Aragón	178663732095	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	285	57	5	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	islas_canarias_ES	Islas Canarias, Spain	2	1	222	51	0	0
+PSOE Canarias	PSOE Canarias	271931812851156	Facebook	islas_canarias_ES	Islas Canarias, Spain	8	1	2749992	1260000	4192	1400
+Ciudadanos	Ciudadanos	74078667754	Facebook	islas_canarias_ES	Islas Canarias, Spain	19	1	590361	264409	5692	1641
+Fernando Clavijo	Coalición Canaria	234189353400425	Facebook	islas_canarias_ES	Islas Canarias, Spain	13	1	579987	271000	2887	400
+Avaaz	Avaaz	8340223883	Facebook	islas_canarias_ES	Islas Canarias, Spain	53	1	479984	195781	2431	601
+José Manuel Bermúdez	Coalicion Canaria	179844672027190	Facebook	islas_canarias_ES	Islas Canarias, Spain	27	1	409973	123000	3873	300
+Pedro Quevedo Iturbe	Nueva Canarias	960849937289013	Facebook	islas_canarias_ES	Islas Canarias, Spain	10	1	369990	77000	1790	200
+Rosa Dávila	Coalicion Canaria	795108214204276	Facebook	islas_canarias_ES	Islas Canarias, Spain	3	1	349997	160000	1097	200
+Coalicion Canaria	Coalicion Canaria	1499578240271320	Facebook	islas_canarias_ES	Islas Canarias, Spain	4	1	304996	121000	796	100
+Antonio Morales Méndez	Nueva Canarias	972435506102094	Facebook	islas_canarias_ES	Islas Canarias, Spain	9	1	279991	89000	1691	200
+Podemos	UNIDAS PODEMOS CAMBIAR EUROPA	269212336568846	Facebook	islas_canarias_ES	Islas Canarias, Spain	13	1	277134	134370	4689	1073
+Nueva Canarias Las Palmas de Gran Canaria	Nueva Canarias	342077645945305	Facebook	islas_canarias_ES	Islas Canarias, Spain	9	1	257991	51000	891	0
+European Parliament	European Parliament	178362315106	Facebook	islas_canarias_ES	Islas Canarias, Spain	16	1	241275	107021	1743	356
+Tenerifegana	Coalición Canaria	1840231536105942	Facebook	islas_canarias_ES	Islas Canarias, Spain	5	1	209995	45000	1295	200
+PACMA - Partido Animalista	PACMA - Partido Animalista	72181181684	Facebook	islas_canarias_ES	Islas Canarias, Spain	9	1	192916	91906	351	146
+Greenpeace España	Greenpeace España	133044800622	Facebook	islas_canarias_ES	Islas Canarias, Spain	75	1	187256	66188	730	79
+SEO/BirdLife	SEO/BirdLife	70020937349	Facebook	islas_canarias_ES	Islas Canarias, Spain	42	1	180373	70647	578	126
+Reacciona y Actúa	Actúa 	1916676245053161	Facebook	islas_canarias_ES	Islas Canarias, Spain	29	1	179894	78804	426	59
+Antonio García Marichal	Antonio Miguel García Marichal	266888690629486	Facebook	islas_canarias_ES	Islas Canarias, Spain	12	1	175985	52998	1187	0
+Ahora Repúblicas		578942235869606	Facebook	islas_canarias_ES	Islas Canarias, Spain	2	1	159414	79707	796	159
+European Free Alliance	European Free Alliance	46708306425	Facebook	islas_canarias_ES	Islas Canarias, Spain	11	1	118639	42441	739	188
+Compromiso por Europa	Compromís	373604602781028	Facebook	islas_canarias_ES	Islas Canarias, Spain	3	1	103252	50650	507	100
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	islas_canarias_ES	Islas Canarias, Spain	15	1	81921	35942	123	55
+Partido Socialista Europeo	Partido Socialista Europeo	442423976113917	Facebook	islas_canarias_ES	Islas Canarias, Spain	13	1	75419	31140	215	30
+Gabriel Mato	Gabriel Mato Adrover	629830667519269	Facebook	islas_canarias_ES	Islas Canarias, Spain	3	1	69997	20000	697	100
+Partido Por un Mundo más Justo · M+J	Partido Por un Mundo más Justo · M+J	147468905314265	Facebook	islas_canarias_ES	Islas Canarias, Spain	7	1	67157	30515	919	199
+Pablo Iglesias	Unidas Podemos	414809308591481	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	57130	28565	285	57
+Estamos Hartos		327764797813082	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	49999	10000	99	0
+Román Rodríguez		757713757627296	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	49999	10000	99	0
+Cs Lanzarote		919686194749568	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	49999	10000	99	0
+Pablo Rodríguez		178720995125	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	49999	10000	99	0
+Podemos Telde	Saul Rodriguez Noda	592123944240438	Facebook	islas_canarias_ES	Islas Canarias, Spain	12	1	48988	12000	1188	0
+Amnistía Internacional España		78151799929	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	24266	9706	242	48
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	islas_canarias_ES	Islas Canarias, Spain	21	1	22493	7604	54	5
+Volt España	Volt Europa España	2112231695664686	Facebook	islas_canarias_ES	Islas Canarias, Spain	11	1	22192	5887	58	0
+Alicia Vanoostende	Roberto Miguel Vicente Nazco	727202517464550	Facebook	islas_canarias_ES	Islas Canarias, Spain	2	1	19998	10000	198	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	islas_canarias_ES	Islas Canarias, Spain	3	1	17277	8494	14	2
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	islas_canarias_ES	Islas Canarias, Spain	3	1	16762	8291	59	8
+Plan International España	Jose Manuel Bran Garcia	366619768708	Facebook	islas_canarias_ES	Islas Canarias, Spain	3	1	16052	6977	45	5
+Círculo Podemos Santa Brígida	Saul Rodriguez Noda	1450410485213943	Facebook	islas_canarias_ES	Islas Canarias, Spain	3	1	14997	3000	297	0
+Somos Miel		363084687812526	Facebook	islas_canarias_ES	Islas Canarias, Spain	6	1	14774	3946	139	27
+Fundación Anesvad	Jose Manuel Bran Garcia	131231529742	Facebook	islas_canarias_ES	Islas Canarias, Spain	12	1	14680	3755	85	0
+Ayuda En Acción	Ayuda En Acción	245741112112300	Facebook	islas_canarias_ES	Islas Canarias, Spain	27	1	12464	2023	290	6
+European Greens	European Greens	141366725876424	Facebook	islas_canarias_ES	Islas Canarias, Spain	2	1	11682	5666	67	28
+Entreculturas	Jose Manuel Bran Garcia	45817335745	Facebook	islas_canarias_ES	Islas Canarias, Spain	6	1	11381	4337	44	0
+Javi López	Javi López	370863946442242	Facebook	islas_canarias_ES	Islas Canarias, Spain	7	1	10072	2420	30	0
+Psc Psoe San Miguel	Samuel De Leon Paez	1434494450176553	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	9999	5000	99	0
+HIJOS de Canarias		104622647031678	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	9999	5000	99	0
+Parlamento Europeo - Oficina en España	Parlamento Europeo - Oficina en España	161616883888862	Facebook	islas_canarias_ES	Islas Canarias, Spain	5	1	7891	1748	25	0
+Compromís	Compromís	194053080624605	Facebook	islas_canarias_ES	Islas Canarias, Spain	2	1	5002	1000	49	10
+Nueva Canarias Santa Úrsula		395967544537308	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	4999	1000	99	0
+Somos Lanzarote		1632900360271233	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	4999	1000	99	0
+Ahora Canarias Aguimes	Olegario De La Cruz Vega	249850985949345	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	4999	1000	99	0
+Juventudes Socialistas de Canarias		253926151402445	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	4999	1000	99	0
+VOX España		467127060059387	Facebook	islas_canarias_ES	Islas Canarias, Spain	8	1	3998	904	17	0
+SOS Colabora		351877478951783	Facebook	islas_canarias_ES	Islas Canarias, Spain	4	1	3609	721	20	0
+Markel Olano	EAJ-PNV	898191063533170	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	3203	1601	15	3
+Cambiemos Orihuela	Cambiemos Orihuela - CLARO: Unidas Podemos	341229742754620	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	2947	589	5	0
+Alejandro Langtry	Alejandro Langtry Cainzos	876647346005514	Facebook	islas_canarias_ES	Islas Canarias, Spain	2	1	2801	560	29	5
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	islas_canarias_ES	Islas Canarias, Spain	2	1	2254	658	4	0
+Pablo Fernández		800470050043391	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	1939	387	3	0
+Recortes Cero	Recortes Cero	655009961299527	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	1584	316	3	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	islas_canarias_ES	Islas Canarias, Spain	3	1	1262	582	2	0
+Partido por la Igualdad Real	Partido por la Igualdad Real	1981091215462211	Facebook	islas_canarias_ES	Islas Canarias, Spain	3	1	1236	531	15	0
+European Commission	European Commission	107898832590939	Facebook	islas_canarias_ES	Islas Canarias, Spain	3	1	1125	506	2	0
+Sí se puede Valle Gran Rey		1482497545361719	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	999	0	99	0
+Candidatura Socialista Arucas 2019 #Creandofuturo		437726850117323	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	999	0	99	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	islas_canarias_ES	Islas Canarias, Spain	5	1	976	336	3	0
+PODEM Llucmajor	Eduardo Eugenio Zúñiga Solari	1414978035452905	Facebook	islas_canarias_ES	Islas Canarias, Spain	3	1	900	180	17	0
+IU Aragón	IU Aragón	178663732095	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	597	298	5	0
+UNRWA España		105664031745	Facebook	islas_canarias_ES	Islas Canarias, Spain	4	1	548	0	54	0
+SALOU 2019 #Ilusiónatesalou		322855728579134	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	525	262	5	0
+Avanzamos Dos Hermanas		579353562545374	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	422	84	8	0
+Wicker Brand	Wicker Brand	286043659015983	Facebook	islas_canarias_ES	Islas Canarias, Spain	3	1	390	40	22	0
+Tulfo & Piltri	Carolina Carratala Camps	113875629284677	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	380	76	7	0
+TSJ con Venezuela		852951178385826	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	370	74	6	0
+No es política, Es Seseña	Partido Popular Seseña	207541725927600	Facebook	islas_canarias_ES	Islas Canarias, Spain	4	1	304	60	6	0
+VOX Villanueva de la Torre		316903072363234	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	269	53	5	0
+Equo Fuenlabrada	Alejandro Alvarez Carrillo	352782308243336	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	223	44	4	0
+QuorumGlobal		375162949584552	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	221	44	4	0
+PP Almassora	Partido Popular de Castellón	163806500332042	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	204	40	4	0
+Bruno Sanchez-Andrade Nuño	Bruno Sánchez-Andrade Nuño	577736392709846	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	189	37	3	0
+Més Per Menorca	Més per Menorca	787267558020320	Facebook	islas_canarias_ES	Islas Canarias, Spain	11	1	174	43	3	0
+Oxfam Intermón		20108693880	Facebook	islas_canarias_ES	Islas Canarias, Spain	2	1	164	0	16	0
+Partido Popular Huévar del Aljarafe		403767163122954	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	145	29	2	0
+Partido Popular Móstoles		289263584794550	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	137	27	2	0
+ETUC		129041250601685	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	117	23	1	0
+Europe Thinx		335839580440114	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	104	20	0	0
+Big News Buzz		125179374733697	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	92	46	0	0
+Partido Popular de Nules	Partido Popular de Casteellón	1427834000839960	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	89	17	1	0
+Antilop		141745753145035	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	79	0	7	0
+Unidas Podemos Ciudad Real	UNIDAS PODEMOS - IZQUIERDA UNIDA - EQUO CLM	1757569474344621	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	78	0	7	0
+Podemos ganar Ávila		556953581118337	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	78	15	1	0
+IU Cieza		347850745372218	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	78	15	1	0
+I vote Europe		608176689275464	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	59	29	0	0
+CEMEX		275606287530	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	50	25	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	47	19	0	0
+Save The Seas		2203608429682203	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	36	7	0	0
+Gabriela Mirescu		2618888988127707	Facebook	islas_canarias_ES	Islas Canarias, Spain	2	1	30	15	0	0
+CLAYTON		122493385103	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	21	4	0	0
+Eurozine		115579498521257	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	13	2	0	0
+ITUC		20556338116	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	10	0	1	0
+Plictisescu.ro		184028071751540	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	9	4	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	islas_canarias_ES	Islas Canarias, Spain	1	1	2	0	0	0

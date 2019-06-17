@@ -1,26 +1,60 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Ian Borg	Ian Borg	151496594943131	Facebook	gozo_MT	Gozo, Malta	5	1	13059	2817	39	0
-Partit Nazzjonalista	Partit Nazzjonalista	159249234115841	Facebook	gozo_MT	Gozo, Malta	2	1	8395	1679	48	8
-European Parliament	European Parliament	178362315106	Facebook	gozo_MT	Gozo, Malta	2	1	7767	1553	45	7
-Michael Briguglio	Michael Briguglio	1040577706078198	Facebook	gozo_MT	Gozo, Malta	9	1	4163	750	115	0
-Robert Micallef for MEP	Robert James Bugeja	2123200014472283	Facebook	gozo_MT	Gozo, Malta	1	1	3784	756	7	0
-David Casa	David Casa	193035580892638	Facebook	gozo_MT	Gozo, Malta	1	1	3476	695	6	0
-Martin Cauchi Inglott II	Martin Cauchi Inglott 	381424722583691	Facebook	gozo_MT	Gozo, Malta	1	1	2954	590	5	0
-Roberta Metsola	Roberta Metsola	406824526101449	Facebook	gozo_MT	Gozo, Malta	5	1	2871	880	46	0
-Miriam Dalli	Miriam Dalli	277980849002904	Facebook	gozo_MT	Gozo, Malta	5	1	2438	751	47	0
-Cyrus Engerer	Cyrus Engerer	212468218793878	Facebook	gozo_MT	Gozo, Malta	8	1	2236	407	59	0
-Frank Psaila	Frank Psaila	458318884361628	Facebook	gozo_MT	Gozo, Malta	3	1	1846	729	32	0
-Alfred Sant	Alfred Sant	537789116260209	Facebook	gozo_MT	Gozo, Malta	5	1	1439	277	32	0
-Alex Agius Saliba	Alex Agius Saliba	656955664383156	Facebook	gozo_MT	Gozo, Malta	4	1	1388	264	32	0
-Francis Zammit Dimech	Francis Zammit Dimech	117406495021568	Facebook	gozo_MT	Gozo, Malta	5	1	1115	166	44	0
-Roselyn Borg Knight	Roselyn Borg	446487702156732	Facebook	gozo_MT	Gozo, Malta	5	1	1089	196	30	0
-Josef Caruana	Josef Caruana	166617437361908	Facebook	gozo_MT	Gozo, Malta	2	1	889	178	17	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	gozo_MT	Gozo, Malta	1	1	807	403	2	0
-Malta Independent	Malta Independent	480288348662981	Facebook	gozo_MT	Gozo, Malta	5	1	688	61	43	0
-European Commission	European Commission	107898832590939	Facebook	gozo_MT	Gozo, Malta	2	1	570	285	1	0
-Live Communications for MEP Elections May 2019	Stephen Florian	962042630582450	Facebook	gozo_MT	Gozo, Malta	3	1	510	74	20	0
-Dr. Anthony Buttigieg	Buttigieg Anthony Emanuel	410157219370162	Facebook	gozo_MT	Gozo, Malta	2	1	488	85	14	0
-European Parliament Office in Malta	European Parliament Office in Malta	116353271736965	Facebook	gozo_MT	Gozo, Malta	1	1	388	77	7	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	gozo_MT	Gozo, Malta	2	1	55	14	0	0
-Ralph Puli: Kap tal-Kunsilliera PN f'Hal Qormi	Ralph Puli	312887412236411	Facebook	gozo_MT	Gozo, Malta	1	1	52	0	5	0
-Common Sense	Peter Mercieca	144274229676499	Facebook	gozo_MT	Gozo, Malta	1	1	45	0	4	0
+Partit Nazzjonalista	Partit Nazzjonalista	159249234115841	Facebook	gozo_MT	Gozo, Malta	10	1	206106	87164	1785	418
+Alfred Sant	Alfred Sant	537789116260209	Facebook	gozo_MT	Gozo, Malta	28	1	146786	55553	516	99
+Adrian Delia	Partit Nazzjonalista	1442808799090985	Facebook	gozo_MT	Gozo, Malta	11	1	127159	61164	607	119
+David Stellini	David Stellini	1911257335785088	Facebook	gozo_MT	Gozo, Malta	7	1	84130	21794	670	126
+Cyrus Engerer	Cyrus Engerer	212468218793878	Facebook	gozo_MT	Gozo, Malta	33	1	83525	18683	247	0
+David Casa	David Casa	193035580892638	Facebook	gozo_MT	Gozo, Malta	23	1	83400	29490	407	56
+Roberta Metsola	Roberta Metsola	406824526101449	Facebook	gozo_MT	Gozo, Malta	24	1	79005	17944	282	0
+Joseph Muscat	Partit Laburista	63887949740	Facebook	gozo_MT	Gozo, Malta	9	1	66340	28348	935	205
+Francis Zammit Dimech	Francis Zammit Dimech	117406495021568	Facebook	gozo_MT	Gozo, Malta	60	1	62904	15625	482	6
+Michael Briguglio	Michael Briguglio	1040577706078198	Facebook	gozo_MT	Gozo, Malta	62	1	60282	13750	618	0
+European Parliament	European Parliament	178362315106	Facebook	gozo_MT	Gozo, Malta	15	1	60150	25793	304	53
+Alex Agius Saliba	Alex Agius Saliba	656955664383156	Facebook	gozo_MT	Gozo, Malta	22	1	48245	15348	226	17
+Robert Micallef for MEP	Robert James Bugeja	2123200014472283	Facebook	gozo_MT	Gozo, Malta	13	1	34842	10587	168	0
+Roselyn Borg Knight	Roselyn Borg	446487702156732	Facebook	gozo_MT	Gozo, Malta	23	1	33700	13927	245	23
+Ian Borg	Ian Borg	151496594943131	Facebook	gozo_MT	Gozo, Malta	8	1	30629	9060	57	0
+Josef Caruana	Josef Caruana	166617437361908	Facebook	gozo_MT	Gozo, Malta	7	1	26952	8139	85	8
+Frank Psaila	Frank Psaila	458318884361628	Facebook	gozo_MT	Gozo, Malta	10	1	26011	5424	181	0
+Peter Agius	Peter Agius	263881160919130	Facebook	gozo_MT	Gozo, Malta	6	1	23653	8192	138	0
+Lovin Malta	Lovin Malta	1700937210129433	Facebook	gozo_MT	Gozo, Malta	5	1	22382	6712	186	37
+European Commission	European Commission	107898832590939	Facebook	gozo_MT	Gozo, Malta	20	1	21267	10419	86	17
+Live Communications for MEP Elections May 2019	Stephen Florian	962042630582450	Facebook	gozo_MT	Gozo, Malta	14	1	18181	4787	85	0
+Kevin Cauchi - Ghajnsielem	Kevin Cauchi	325758517614182	Facebook	gozo_MT	Gozo, Malta	7	1	18129	6771	400	0
+Miriam Dalli	Miriam Dalli	277980849002904	Facebook	gozo_MT	Gozo, Malta	12	1	17874	5152	99	0
+Ralph Puli: Kap tal-Kunsilliera PN f'Hal Qormi	Ralph Puli	312887412236411	Facebook	gozo_MT	Gozo, Malta	14	1	17142	3661	114	5
+European Parliament Office in Malta	European Parliament Office in Malta	116353271736965	Facebook	gozo_MT	Gozo, Malta	5	1	12355	2695	39	0
+Friends of the Earth Malta	Friends of the Earth Malta	137236009675929	Facebook	gozo_MT	Gozo, Malta	6	1	11896	2824	71	7
+Malta Independent	Malta Independent	480288348662981	Facebook	gozo_MT	Gozo, Malta	25	1	10111	2408	187	0
+Dr. Anthony Buttigieg	Buttigieg Anthony Emanuel	410157219370162	Facebook	gozo_MT	Gozo, Malta	9	1	8807	2961	58	0
+Joe Sammut	Joe Sammut	433245190070343	Facebook	gozo_MT	Gozo, Malta	2	1	8790	1758	87	17
+Alternattiva Demokratika - The Green Party	Alternattiva Demokratika - The Green Party	309359272432391	Facebook	gozo_MT	Gozo, Malta	5	1	8118	1853	34	0
+FŻL - Forum Żgħażagħ Laburisti	FŻL - Forum Żgħażagħ Laburisti	40870184668	Facebook	gozo_MT	Gozo, Malta	2	1	7678	1535	15	0
+Martin Cauchi Inglott II	Martin Cauchi Inglott 	381424722583691	Facebook	gozo_MT	Gozo, Malta	2	1	7100	1420	70	14
+European Greens	European Greens	141366725876424	Facebook	gozo_MT	Gozo, Malta	4	1	6785	2422	49	9
+Dr. Rebecca Dalli Gonzi		265708320989344	Facebook	gozo_MT	Gozo, Malta	3	1	5775	1155	20	0
+Noel Cassar	Noel Caesar	290329184871610	Facebook	gozo_MT	Gozo, Malta	1	1	4775	955	9	0
+Mercieca Michael		2178422028892229	Facebook	gozo_MT	Gozo, Malta	1	1	3524	704	6	0
+Sephora Cutajar	Sephora Cutajar	370176067131807	Facebook	gozo_MT	Gozo, Malta	5	1	1735	309	49	0
+Luke Caruana	Alternattiva Demokratika - The Green Party	289569618166195	Facebook	gozo_MT	Gozo, Malta	1	1	1009	504	9	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	gozo_MT	Gozo, Malta	1	1	802	401	2	0
+Exodus prog		1708791049357843	Facebook	gozo_MT	Gozo, Malta	2	1	794	387	9	0
+Mary Gauci		1733645339991743	Facebook	gozo_MT	Gozo, Malta	1	1	774	155	15	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	gozo_MT	Gozo, Malta	3	1	672	277	1	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	gozo_MT	Gozo, Malta	1	1	647	324	1	0
+Common Sense	Peter Mercieca	144274229676499	Facebook	gozo_MT	Gozo, Malta	2	1	443	88	8	0
+Vote16+		149809275605377	Facebook	gozo_MT	Gozo, Malta	2	1	431	73	13	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	gozo_MT	Gozo, Malta	9	1	382	163	0	0
+Europe Thinx		335839580440114	Facebook	gozo_MT	Gozo, Malta	1	1	218	43	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	gozo_MT	Gozo, Malta	5	1	214	70	0	0
+Felix Busuttil		1698335456918274	Facebook	gozo_MT	Gozo, Malta	1	1	184	0	18	0
+Elenia Desira		636015460129738	Facebook	gozo_MT	Gozo, Malta	1	1	167	33	3	0
+CRIF		395919323779707	Facebook	gozo_MT	Gozo, Malta	1	1	106	53	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	gozo_MT	Gozo, Malta	2	1	51	10	0	0
+Saaczech		1891172680926309	Facebook	gozo_MT	Gozo, Malta	1	1	43	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	gozo_MT	Gozo, Malta	2	1	39	0	3	0
+Big News Buzz		125179374733697	Facebook	gozo_MT	Gozo, Malta	1	1	12	6	0	0
+ETUC		129041250601685	Facebook	gozo_MT	Gozo, Malta	1	1	6	1	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	gozo_MT	Gozo, Malta	1	1	1	0	0	0
+ITUC		20556338116	Facebook	gozo_MT	Gozo, Malta	1	1	1	0	0	0
+Tokyo Weekender		134654693230171	Facebook	gozo_MT	Gozo, Malta	1	1	1	0	0	0

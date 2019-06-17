@@ -1,63 +1,355 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	region_code_filter	region_name_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-CDH - Centre Démocrate Humaniste	CDH - Centre Démocrate Humaniste	189649407806135	Facebook	wallonia	Wallonia	BE	Belgium	34	1	482550	142010	1989	0
-Parti Populaire - Le Peuple	Parti Populaire - Le Peuple	482811111771571	Facebook	wallonia	Wallonia	BE	Belgium	3	1	313193	114894	2820	524
-MR - Mouvement Réformateur	MR - Mouvement Réformateur	236330169511	Facebook	wallonia	Wallonia	BE	Belgium	190	1	121166	12009	7634	0
-CDH liste à la Chambre province de Liège	CDH - Centre Démocrate Humaniste	268478507423505	Facebook	wallonia	Wallonia	BE	Belgium	4	1	113358	22672	299	0
-Ecolo Hainaut	Ecolo Hainaut	121653681195914	Facebook	wallonia	Wallonia	BE	Belgium	2	1	57861	14465	190	0
-Frédéric Daerden	Frédéric Charles R Daerden	341897923206486	Facebook	wallonia	Wallonia	BE	Belgium	2	1	54998	11000	598	100
-Sébastien de Jonge	De Jonge Sébastien Edouard	370249413831637	Facebook	wallonia	Wallonia	BE	Belgium	1	1	48681	9736	485	97
-PTB	PTB	53838654385	Facebook	wallonia	Wallonia	BE	Belgium	3	1	35961	7092	403	70
-Parti Socialiste (PS)	Parti Socialiste (PS)	518402351504731	Facebook	wallonia	Wallonia	BE	Belgium	2	1	29913	5982	66	0
-European Parliament	European Parliament	178362315106	Facebook	wallonia	Wallonia	BE	Belgium	2	1	20792	4158	207	41
-Greenpeace Belgium	Greenpeace Belgium	73232790238	Facebook	wallonia	Wallonia	BE	Belgium	8	1	17890	4099	53	0
-Jean-Claude Marcourt - Officiel	Gael René Lambinon	214672635464	Facebook	wallonia	Wallonia	BE	Belgium	1	1	9999	5000	99	0
+CDH - Centre Démocrate Humaniste	CDH - Centre Démocrate Humaniste	189649407806135	Facebook	wallonia	Wallonia	BE	Belgium	44	1	2987644	1254122	7416	2022
+VB - nos gens d'abord	Vlaams Belang	816130908786112	Facebook	wallonia	Wallonia	BE	Belgium	14	1	1728628	664171	15800	3710
+Ecolo	Ecolo	38296327361	Facebook	wallonia	Wallonia	BE	Belgium	36	1	1396526	600452	7718	1742
+Elio Di Rupo	Parti Socialiste (PS)	16301530829	Facebook	wallonia	Wallonia	BE	Belgium	16	1	1381557	498389	15181	3039
+Parti Populaire - Le Peuple	Parti Populaire - Le Peuple	482811111771571	Facebook	wallonia	Wallonia	BE	Belgium	7	1	1163460	523233	7755	1721
+MR - Mouvement Réformateur	MR - Mouvement Réformateur	236330169511	Facebook	wallonia	Wallonia	BE	Belgium	284	1	1119576	317134	17026	1617
+CDH BW	cdH Brabant wallon	156559267857740	Facebook	wallonia	Wallonia	BE	Belgium	26	1	1056501	284317	10830	2353
+Frédéric Daerden	Frédéric Charles R Daerden	341897923206486	Facebook	wallonia	Wallonia	BE	Belgium	24	1	1030976	215000	11176	2200
+Les Wallons ne sont pas des parasites.Les Belges d'abord.		159664670746380	Facebook	wallonia	Wallonia	BE	Belgium	1	1	942785	471393	4712	942
+CDH liste à la Chambre province de Liège	CDH - Centre Démocrate Humaniste	268478507423505	Facebook	wallonia	Wallonia	BE	Belgium	14	1	873602	394163	4023	689
+PTB	PTB	53838654385	Facebook	wallonia	Wallonia	BE	Belgium	11	1	601947	293627	2618	808
+Jean-Claude Marcourt - Officiel	Gael René Lambinon	214672635464	Facebook	wallonia	Wallonia	BE	Belgium	12	1	599988	120000	5988	1200
+Olivier Chastel	MR - Mouvement Réformateur	36858143935	Facebook	wallonia	Wallonia	BE	Belgium	19	1	589710	138427	6878	1409
+European Parliament	European Parliament	178362315106	Facebook	wallonia	Wallonia	BE	Belgium	26	1	516549	235823	2662	622
+Commission Européenne en Belgique / Europese Commissie in Belgie	Commission Européenne en Belgique / Europese Commissie in Belgie	295165170561769	Facebook	wallonia	Wallonia	BE	Belgium	1	1	499999	200000	4999	1000
+Parti Socialiste (PS)	Parti Socialiste (PS)	518402351504731	Facebook	wallonia	Wallonia	BE	Belgium	23	1	481463	165364	4885	1250
+Delhaize	Delhaize	30102123042	Facebook	wallonia	Wallonia	BE	Belgium	11	1	433259	169481	3193	573
+European Greens	European Greens	141366725876424	Facebook	wallonia	Wallonia	BE	Belgium	8	1	345786	151133	2880	788
+ProDG	ProDG	89846075866	Facebook	wallonia	Wallonia	BE	Belgium	20	1	340980	80000	2780	200
+Vivant   Ostbelgien	Vivant Ostbelgien	1440393739538888	Facebook	wallonia	Wallonia	BE	Belgium	7	1	263031	87250	1064	96
+Sébastien de Jonge	De Jonge Sébastien Edouard	370249413831637	Facebook	wallonia	Wallonia	BE	Belgium	4	1	245025	78162	1960	392
+Ecolo Hainaut	Ecolo Hainaut	121653681195914	Facebook	wallonia	Wallonia	BE	Belgium	5	1	240359	48072	2398	480
+Maxime Hardy	Maxime Marc C Hardy	1160832417389494	Facebook	wallonia	Wallonia	BE	Belgium	8	1	224992	48000	792	0
+Wacky Politicians	Ladbrokes Belgium	325449998160769	Facebook	wallonia	Wallonia	BE	Belgium	4	1	215931	85474	567	70
+Marc Lejeune - 3ème au CDH à la Région	Marc Jean-Marie P Lejeune	1115141181990895	Facebook	wallonia	Wallonia	BE	Belgium	84	1	212859	29989	8315	0
+DéFI	DéFI	173518112695794	Facebook	wallonia	Wallonia	BE	Belgium	5	1	203070	71055	1359	233
+Denis Ducarme	Denis Gaston Ducarme	367577357909	Facebook	wallonia	Wallonia	BE	Belgium	4	1	199996	40000	1996	400
+Pascal Goergen - DéFI	Pascal Albert J Goergen	2247464518706948	Facebook	wallonia	Wallonia	BE	Belgium	1	1	199827	99914	998	499
+Enio Cucurachi	Cucurachi Enio Antonio	2196293330408303	Facebook	wallonia	Wallonia	BE	Belgium	8	1	177086	35018	630	0
+Theo Francken	Nieuw-Vlaamse Alliantie	483497581789280	Facebook	wallonia	Wallonia	BE	Belgium	2	1	171714	68686	171	34
+Rudy Delhaise - Bourgmestre d'Eghezée	MR Province de Namur	659081287825798	Facebook	wallonia	Wallonia	BE	Belgium	6	1	165994	36000	1394	200
+Greenpeace Belgium	Greenpeace Belgium	73232790238	Facebook	wallonia	Wallonia	BE	Belgium	63	1	154203	68165	916	104
+Opaline Meunier	Opaline Meunier	1003984536437712	Facebook	wallonia	Wallonia	BE	Belgium	5	1	153792	61108	837	92
+Paul Magnette		29384148415	Facebook	wallonia	Wallonia	BE	Belgium	2	1	152955	64147	968	361
+CSP Ostbelgien	CSP Ostbelgien	119271231424655	Facebook	wallonia	Wallonia	BE	Belgium	26	1	150974	29000	2974	100
+SP Ostbelgien	SP Ostbelgien	183856108612877	Facebook	wallonia	Wallonia	BE	Belgium	3	1	147169	29434	1077	196
+Frédérique Ries	Frédérique Ries	121508211203759	Facebook	wallonia	Wallonia	BE	Belgium	3	1	146644	63949	2866	550
+Georges-Louis Bouchez	Georges-Louis Bouchez	341174129258800	Facebook	wallonia	Wallonia	BE	Belgium	7	1	134993	33000	1493	200
+Ecolo Ostbelgien	Ecolo Ostbelgien	321847415140	Facebook	wallonia	Wallonia	BE	Belgium	20	1	133980	29000	1980	0
+Simon Bultot, 3ème à la Chambre, Liste PS	Simon Fabrice Bultot	2180842748675219	Facebook	wallonia	Wallonia	BE	Belgium	5	1	129800	34957	494	0
+Campagne Tam Tam		227222077819248	Facebook	wallonia	Wallonia	BE	Belgium	3	1	129149	56203	349	48
+Ecolo Brabant wallon	Ecolo Brabant wallon	1712357138983896	Facebook	wallonia	Wallonia	BE	Belgium	4	1	119509	29756	1191	200
+PSAnderlues	Philippe Henri M Tison	197214344323855	Facebook	wallonia	Wallonia	BE	Belgium	4	1	105953	20991	1195	199
+Ecolo Centre	Ecolo Centre	230433080453073	Facebook	wallonia	Wallonia	BE	Belgium	2	1	104998	51000	598	100
+Maxime Prévot	Maxime Patrick R Prévot	151415551700582	Facebook	wallonia	Wallonia	BE	Belgium	1	1	99999	50000	499	100
+Ecolo Luxembourg	Ecolo	265430440298543	Facebook	wallonia	Wallonia	BE	Belgium	2	1	99998	20000	998	200
+Alain Mertes	Vivant Ostbelgien	168912413949537	Facebook	wallonia	Wallonia	BE	Belgium	2	1	96307	19261	190	0
+Sébastien Doutreloup	Sébastien Camille C.Doutreloup	2605782112772045	Facebook	wallonia	Wallonia	BE	Belgium	7	1	85356	22842	684	0
+European Youth Forum	European Youth Forum	80161254850	Facebook	wallonia	Wallonia	BE	Belgium	2	1	84707	37002	690	138
+Ecolo Mons-Borinage / Hauts-Pays	Bravin Geoffrey 	235500823177113	Facebook	wallonia	Wallonia	BE	Belgium	8	1	76361	15082	1114	96
+Hassan Bousetta 3e à l'Europe		33770596902	Facebook	wallonia	Wallonia	BE	Belgium	3	1	70768	26092	328	40
+DierAnimal		258395278031128	Facebook	wallonia	Wallonia	BE	Belgium	7	1	62932	12586	284	0
+Sabine Laruelle	MR province de Namur	294920323902754	Facebook	wallonia	Wallonia	BE	Belgium	11	1	60989	18000	1089	0
+Alain Glibert élections 2019	Alain Hélène D Glibert	396705514417296	Facebook	wallonia	Wallonia	BE	Belgium	4	1	60987	11998	395	0
+UNICEF Belgium	UNICEF Belgium	60589646095	Facebook	wallonia	Wallonia	BE	Belgium	13	1	59248	13174	431	64
+Marc Minneboo	Anthony Lackner	2138144842945429	Facebook	wallonia	Wallonia	BE	Belgium	2	1	56938	11387	112	0
+Ecolo + Arlon		150705241982353	Facebook	wallonia	Wallonia	BE	Belgium	1	1	55754	27877	278	55
+Philippe Lamberts	Philippe Henri L Lamberts	553328368142057	Facebook	wallonia	Wallonia	BE	Belgium	2	1	55702	11140	337	56
+Marie Christine Marghem	Marie Christine Marghem	341830209277848	Facebook	wallonia	Wallonia	BE	Belgium	2	1	55073	13718	180	0
+Hugues Bayet	Julien Fanuel 	538840262914740	Facebook	wallonia	Wallonia	BE	Belgium	2	1	54998	11000	598	100
+Claire Stappaerts	Claire Stappaerts	285540382349131	Facebook	wallonia	Wallonia	BE	Belgium	2	1	54095	10819	195	0
+André Antoine	André Antoine	16123379845	Facebook	wallonia	Wallonia	BE	Belgium	3	1	51422	10285	589	87
+PARTI Populaire Fosses-la-Ville		265930274100596	Facebook	wallonia	Wallonia	BE	Belgium	1	1	49999	10000	99	0
+Babette Jandrain	Babette Fanny M Jandrain	2153260948330322	Facebook	wallonia	Wallonia	BE	Belgium	1	1	49999	10000	99	0
+Jérome Chantraine - Parti Populaire		286258851985076	Facebook	wallonia	Wallonia	BE	Belgium	1	1	49999	10000	499	100
+Junge Mitte	Junge Mitte	1567710236826303	Facebook	wallonia	Wallonia	BE	Belgium	1	1	49999	10000	99	0
+MR Charleroi	MR - Mouvement Réformateur	176691749116050	Facebook	wallonia	Wallonia	BE	Belgium	1	1	49934	9987	498	99
+Clarinval David		246392898737221	Facebook	wallonia	Wallonia	BE	Belgium	1	1	49929	9986	98	0
+Elections du 26 mai 2019	Baudouin Henri M Schellen	330193751003087	Facebook	wallonia	Wallonia	BE	Belgium	1	1	49341	9868	492	98
+Christophe Lacroix	Denis De Nicolo 	487300758065559	Facebook	wallonia	Wallonia	BE	Belgium	1	1	49141	9828	490	98
+PS Mons-Borinage		132596773464688	Facebook	wallonia	Wallonia	BE	Belgium	2	1	48248	9478	557	94
+Wim Soons	Soons Wim	598618930329580	Facebook	wallonia	Wallonia	BE	Belgium	1	1	47774	23887	119	23
+Annick Laloux-Ruelle	Frédéric Ruelle	630009867450719	Facebook	wallonia	Wallonia	BE	Belgium	1	1	46379	9276	462	92
+Eliane Tillieux	Eliane Maria J Tillieux	515506935187700	Facebook	wallonia	Wallonia	BE	Belgium	1	1	45124	9025	450	90
+Matthieu Daele - Ecolo	Matthieu Marie T.Daele	1425316804418663	Facebook	wallonia	Wallonia	BE	Belgium	9	1	43991	17000	891	0
+Dorothée Tomasetig, 2ème effective sur la liste du CDH au Brabant Wallon		2183758281702845	Facebook	wallonia	Wallonia	BE	Belgium	1	1	41528	8305	414	83
+Leen Dierick	D'hauwer Pieter	279936192533387	Facebook	wallonia	Wallonia	BE	Belgium	2	1	40194	20097	39	0
+Centrale Générale - FGTB	Centrale Générale - FGTB	201359506543663	Facebook	wallonia	Wallonia	BE	Belgium	1	1	34910	6982	69	0
+RTBF Info	RTBF Info	143068588877	Facebook	wallonia	Wallonia	BE	Belgium	1	1	34282	6856	67	0
+Denis Collard candidat		1414424415483804	Facebook	wallonia	Wallonia	BE	Belgium	1	1	33778	6755	66	0
+WWF-Belgium	WWF-Belgium	110844205773	Facebook	wallonia	Wallonia	BE	Belgium	6	1	32435	6380	167	0
+Olivier De Schutter	Ecolo	319786285375557	Facebook	wallonia	Wallonia	BE	Belgium	1	1	30466	6093	304	60
+Stéphanie Heng	Théry Alexandre J Bourgoignie	340587286371062	Facebook	wallonia	Wallonia	BE	Belgium	11	1	29823	8213	386	0
+Centre d'Action Laïque	Centre d'Action Laïque	176170955780752	Facebook	wallonia	Wallonia	BE	Belgium	1	1	25906	5181	51	0
+Martine PAYFA		146007879380821	Facebook	wallonia	Wallonia	BE	Belgium	3	1	25767	4858	388	48
+Ecolo au coeur du changement - Province de Liège	Ecolo - province de Liège 	580163825784309	Facebook	wallonia	Wallonia	BE	Belgium	5	1	24912	4983	493	0
+Nicolas Stilmant - 2e effectif - liste Chambre	Nicolas Stilmant	371323650128015	Facebook	wallonia	Wallonia	BE	Belgium	5	1	21890	6954	492	0
+Grégory Vidal	Grégory Vidal	347251118652585	Facebook	wallonia	Wallonia	BE	Belgium	2	1	19998	10000	198	0
+Ecolo Chaudfontaine	Thelen Lionel Willy	1615520988700439	Facebook	wallonia	Wallonia	BE	Belgium	4	1	19996	4000	396	0
+Benoît Dispa	Benoit Bruno E.Dispa	738567722908916	Facebook	wallonia	Wallonia	BE	Belgium	6	1	17994	3000	594	0
+Gwenaëlle Grovonius Députée PS, 2ème à la Région pour Namur	Géraldine Christine C. Georges	852013494856695	Facebook	wallonia	Wallonia	BE	Belgium	3	1	14997	3000	297	0
+CDU Brüssel-Belgien	CDU-Auslandsverband Brüssel-Belgien	498837460204117	Facebook	wallonia	Wallonia	BE	Belgium	8	1	12941	2575	171	18
+PFF	Gregor Friedrich E Freches	75534801064	Facebook	wallonia	Wallonia	BE	Belgium	4	1	11996	2000	396	0
+Jean-Denis Lejeune Cdh		360742941209626	Facebook	wallonia	Wallonia	BE	Belgium	2	1	10998	5000	198	0
+Helga Stevens	N-VA	213362252188490	Facebook	wallonia	Wallonia	BE	Belgium	1	1	10550	2110	105	21
+CDH  Binche		761441187280813	Facebook	wallonia	Wallonia	BE	Belgium	2	1	10361	4681	191	0
+Gianmarco Persico DéFI		409353332981610	Facebook	wallonia	Wallonia	BE	Belgium	1	1	9999	5000	99	0
+Osons la vérité		2313182062233879	Facebook	wallonia	Wallonia	BE	Belgium	1	1	9999	5000	99	0
+B.U.B Liège		374191459802847	Facebook	wallonia	Wallonia	BE	Belgium	1	1	9999	5000	99	0
+Olivier Maroy	Olivier François M Maroy	950095165072382	Facebook	wallonia	Wallonia	BE	Belgium	2	1	9998	2000	198	0
+Catherine Fonck	Catherine Marie Fonck	514448208744860	Facebook	wallonia	Wallonia	BE	Belgium	1	1	9449	4725	93	0
+Open Vld	Open Vld	53668151866	Facebook	wallonia	Wallonia	BE	Belgium	28	1	8425	2645	99	47
+Listes Destexhe	Listes Destexhe	983524558703058	Facebook	wallonia	Wallonia	BE	Belgium	6	1	8238	1649	35	4
+Kyriakidis David		2786326408074980	Facebook	wallonia	Wallonia	BE	Belgium	2	1	7666	3120	99	0
+Tiffany Fevery		257582104357616	Facebook	wallonia	Wallonia	BE	Belgium	1	1	7632	3816	75	0
+Manu Douette		727590607265719	Facebook	wallonia	Wallonia	BE	Belgium	4	1	7625	925	388	0
+Didrik - 48e candidat à la Région de Bruxelles	Didrik de Schaetzen	349509471801299	Facebook	wallonia	Wallonia	BE	Belgium	3	1	7023	3459	78	0
+Ecolo Braine Le Comte	Ecolo Braine-le-Comte	775758055853342	Facebook	wallonia	Wallonia	BE	Belgium	4	1	6716	1112	224	0
 Comac étudiants	PTB	386211174868638	Facebook	wallonia	Wallonia	BE	Belgium	2	1	6173	1234	122	0
-ProDG	ProDG	89846075866	Facebook	wallonia	Wallonia	BE	Belgium	2	1	5998	1000	198	0
-Ecolo Mons-Borinage / Hauts-Pays	Bravin Geoffrey 	235500823177113	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4999	1000	99	0
-Ecolo Ostbelgien	Ecolo Ostbelgien	321847415140	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4999	1000	99	0
-Sébastien Doutreloup	Sébastien Camille C.Doutreloup	2605782112772045	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4968	993	98	0
-Alain Mertes	Vivant Ostbelgien	168912413949537	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4776	955	94	0
-BirdLife Europe and Central Asia	BirdLife Europe and Central Asia	174656216277326	Facebook	wallonia	Wallonia	BE	Belgium	2	1	4694	938	9	0
-Enio Cucurachi	Cucurachi Enio Antonio	2196293330408303	Facebook	wallonia	Wallonia	BE	Belgium	1	1	3482	696	68	0
-Benoît Dispa	Benoit Bruno E.Dispa	738567722908916	Facebook	wallonia	Wallonia	BE	Belgium	3	1	2997	0	297	0
-Listes Destexhe	Listes Destexhe	983524558703058	Facebook	wallonia	Wallonia	BE	Belgium	1	1	2349	469	23	4
-Grégory Vidal	Grégory Vidal	347251118652585	Facebook	wallonia	Wallonia	BE	Belgium	2	1	1998	0	198	0
-Open Vld	Open Vld	53668151866	Facebook	wallonia	Wallonia	BE	Belgium	13	1	1585	710	4	0
-Mathieu Bihet	Mathieu BIHET	189423617853111	Facebook	wallonia	Wallonia	BE	Belgium	1	1	999	0	99	0
-Nicolas Stilmant - 2e effectif - liste Chambre	Nicolas Stilmant	371323650128015	Facebook	wallonia	Wallonia	BE	Belgium	1	1	999	0	99	0
-Ecolo au coeur du changement - Province de Liège	Ecolo - province de Liège 	580163825784309	Facebook	wallonia	Wallonia	BE	Belgium	1	1	980	0	97	0
-Det Radikale Venstre i Bruxelles	Espelund Morten	146464325502929	Facebook	wallonia	Wallonia	BE	Belgium	1	1	421	84	8	0
-Alain Destexhe	Alain Robert O.Destexhe	222804197775919	Facebook	wallonia	Wallonia	BE	Belgium	1	1	292	58	5	0
-CDU Brüssel-Belgien	CDU-Auslandsverband Brüssel-Belgien	498837460204117	Facebook	wallonia	Wallonia	BE	Belgium	3	1	228	0	22	0
-Vlaams Belang	Vlaams Belang	56605856504	Facebook	wallonia	Wallonia	BE	Belgium	4	1	152	76	1	0
-Lode Ceyssens	Lode Ceyssens	690224427744073	Facebook	wallonia	Wallonia	BE	Belgium	2	1	97	19	0	0
-Koen Geens	CD&V	294055357407926	Facebook	wallonia	Wallonia	BE	Belgium	2	1	85	0	8	0
-Hendrik Bogaert	Bogaert Hendrik Frank	277636928983663	Facebook	wallonia	Wallonia	BE	Belgium	3	1	65	13	1	0
-Charis Kamoen	Kamoen Charis Oswald M	207387513240677	Facebook	wallonia	Wallonia	BE	Belgium	1	1	32	6	0	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	wallonia	Wallonia	BE	Belgium	1	1	11	5	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	wallonia	Wallonia	BE	Belgium	4	1	6	2	0	0
-Pascal Smet	one.brussels	148221008918941	Facebook	wallonia	Wallonia	BE	Belgium	1	1	3	0	0	0
-Conner Rousseau	Conner Rousseau	942750852588816	Facebook	wallonia	Wallonia	BE	Belgium	2	1	2	1	0	0
-Evi Van Camp	Van Camp Evi	1758937624358952	Facebook	wallonia	Wallonia	BE	Belgium	1	1	2	0	0	0
-Jan De Volder	CD&V	250105722223585	Facebook	wallonia	Wallonia	BE	Belgium	1	1	1	0	0	0
-Optimiste pour Bruxelles	MR - Mouvement Réformateur	570826640096148	Facebook	wallonia	Wallonia	BE	Belgium	2	1	1	0	0	0
-Els Van Hoof-pagina	Van Hoof Els Walter H	315278555648437	Facebook	wallonia	Wallonia	BE	Belgium	1	1	1	0	0	0
-European Commission	European Commission	107898832590939	Facebook	wallonia	Wallonia	BE	Belgium	2	1	1	0	0	0
-Maggie De Block	Maggie De Block	1410219772556421	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
-Sébastien Dewailly	Sébastien Dewailly	347034845930735	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
-LSAP	Lëtzebuerger Sozialistesch Aarbechterpartei	47216059667	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Matthias Diependaele	Nieuw-Vlaamse Alliantie	543319679114946	Facebook	wallonia	Wallonia	BE	Belgium	1	1	5849	1169	58	11
+Les Grenades - RTBF	Les Grenades - RTBF	1010298882498268	Facebook	wallonia	Wallonia	BE	Belgium	3	1	5780	1156	114	0
+Vincent Granville	Vincent Granville	393048054042295	Facebook	wallonia	Wallonia	BE	Belgium	3	1	5588	1117	110	0
+Koen Geens	CD&V	294055357407926	Facebook	wallonia	Wallonia	BE	Belgium	17	1	5474	1447	103	20
+Mouvement Demain	Pierre Eyben	203507300150906	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4999	1000	99	0
+Jeunes MR Chaudfontaine	Laurent Marc S Radermecker	1509877552632496	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4999	1000	99	0
+Mon DéFI pour l'Europe		2016860498363572	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4999	1000	88	0
+Ilou Barma		1591164557803263	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4999	1000	99	0
+Jean-Albert Nyssens		129345197844371	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4999	1000	99	0
+Mathieu Bihet	Mathieu BIHET	189423617853111	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4999	1000	99	0
+DéFI - Régional Namur 2019 - Liste 11		281739902702371	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4999	1000	99	0
+Pierre-Yves Dupuis - DéFI NAMUR	Pierre-Yves Christian Dupuis	227832097899216	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4993	998	98	0
+Stéphanie Scailquin, 100% d'engagement pour Namur		1188596014497103	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4990	998	98	0
+Alexander Miesen	Alexander Marcellus Miesen	136747073688457	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4915	983	97	0
+Gérald vanderlin	Gerald Vanderlin	2225854367682548	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4906	981	97	0
+LE Prince D'orange asbl		948913781890014	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4758	951	94	0
+EPP Group in the European Committee of the Regions	EPP Group in the European Committee of the Regions	200559876664896	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4727	945	47	9
+Ditjon Kraja - Election 2019	Ditjon Kraja	306781353351999	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4672	934	92	0
+Minister Harald Mollers	Harald Mollers	1869992013240347	Facebook	wallonia	Wallonia	BE	Belgium	2	1	4643	923	93	0
+Valérie De Bue	Valérie De Bue	261617251408	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4543	908	89	0
+BirdLife Europe and Central Asia	BirdLife Europe and Central Asia	174656216277326	Facebook	wallonia	Wallonia	BE	Belgium	2	1	4543	908	8	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	wallonia	Wallonia	BE	Belgium	4	1	4440	888	8	0
+Vlaams Belang Mechelen		468360273215685	Facebook	wallonia	Wallonia	BE	Belgium	1	1	3998	799	39	7
+Melanie Blesgen, Candidate aux élections régionales 2019	Melanie Blesgen	408261873079490	Facebook	wallonia	Wallonia	BE	Belgium	1	1	3861	772	76	0
+Det Radikale Venstre i Bruxelles	Espelund Morten	146464325502929	Facebook	wallonia	Wallonia	BE	Belgium	1	1	3857	771	38	7
+sp.a	sp.a	57253967150	Facebook	wallonia	Wallonia	BE	Belgium	9	1	3787	1339	12	3
+Marine Chenoy 4ème sur la liste Fédérale PS pour Namur	Marine Chenoy	2131801880435129	Facebook	wallonia	Wallonia	BE	Belgium	1	1	3626	725	71	0
+Christine Gonay MR 4ème eff Europe		1867216703377890	Facebook	wallonia	Wallonia	BE	Belgium	1	1	3357	671	66	0
+Jesuit Refugee Service Europe - JRS	JRS Europe	1568112950115984	Facebook	wallonia	Wallonia	BE	Belgium	4	1	2441	1004	82	10
+Frank Vroonen	Vroonen Frank Gert H	372220956948780	Facebook	wallonia	Wallonia	BE	Belgium	1	1	2394	478	23	4
+Fédération des Etudiants Libéraux	Fédération des Etudiants Libéraux 	6520274567	Facebook	wallonia	Wallonia	BE	Belgium	1	1	1743	348	34	0
+ITUC		20556338116	Facebook	wallonia	Wallonia	BE	Belgium	2	1	1651	825	16	0
+Olivier Colin		1238449286242627	Facebook	wallonia	Wallonia	BE	Belgium	1	1	1401	280	2	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	wallonia	Wallonia	BE	Belgium	3	1	1260	630	6	1
+Jong Groen		293486792731	Facebook	wallonia	Wallonia	BE	Belgium	1	1	1038	519	2	0
+Fédé PS de Charleroi		933376160013291	Facebook	wallonia	Wallonia	BE	Belgium	1	1	999	0	99	0
+Aubry Meyers - Défi Liège	Meyers Aubry Eric	480986099012384	Facebook	wallonia	Wallonia	BE	Belgium	1	1	999	0	99	0
+Ryan Sabkhi - DierAnimal		423057578273662	Facebook	wallonia	Wallonia	BE	Belgium	1	1	999	0	99	0
+Etienne Roba		436019293087773	Facebook	wallonia	Wallonia	BE	Belgium	1	1	999	0	99	0
+Jan Cornillie	Cornillie Jan	980619838787000	Facebook	wallonia	Wallonia	BE	Belgium	1	1	886	443	4	0
+Philippe Nys		494359031036431	Facebook	wallonia	Wallonia	BE	Belgium	1	1	688	137	6	1
+An Christiaens	Christiaens An Liliane B	427409014327861	Facebook	wallonia	Wallonia	BE	Belgium	1	1	681	340	34	6
+Tom Vandenkendelaere	Tom Vandenkendelaere	676737302477960	Facebook	wallonia	Wallonia	BE	Belgium	2	1	610	224	3	0
+Sara Moors	Moors Sara Rita J	378340112764943	Facebook	wallonia	Wallonia	BE	Belgium	3	1	584	116	11	0
+Health and Environment Alliance (HEAL)	The Health and Environment Alliance (HEAL)	208410145872548	Facebook	wallonia	Wallonia	BE	Belgium	1	1	555	111	10	0
+Debating Europe	Debating Europe	132011730204757	Facebook	wallonia	Wallonia	BE	Belgium	3	1	544	108	10	0
+Fernand Van Trimpont	Van Trimpont Fernand August M	954988921279692	Facebook	wallonia	Wallonia	BE	Belgium	1	1	527	105	10	0
+Volt België	Volt België	1620310611353628	Facebook	wallonia	Wallonia	BE	Belgium	3	1	527	105	1	0
+Kasper Vandecasteele	Vandecasteele Kasper	525551311288918	Facebook	wallonia	Wallonia	BE	Belgium	2	1	513	102	4	0
+Pritty Kaur	sp.a	413843202368855	Facebook	wallonia	Wallonia	BE	Belgium	6	1	480	96	3	0
+Leila Agic	Leila Agic	229313714293949	Facebook	wallonia	Wallonia	BE	Belgium	1	1	464	92	9	0
+Consulat de Belgique en Republique Dominicaine 2005_2016		796900477392786	Facebook	wallonia	Wallonia	BE	Belgium	1	1	353	70	6	0
+Alain Destexhe	Alain Robert O.Destexhe	222804197775919	Facebook	wallonia	Wallonia	BE	Belgium	3	1	332	65	6	0
+Roel Van Elsacker	Van Elsacker Roel	755735138160727	Facebook	wallonia	Wallonia	BE	Belgium	1	1	309	61	6	0
+Yasmine Kherbache - volksvertegenwoordiger	Sp.a Antwerpen	189145821274552	Facebook	wallonia	Wallonia	BE	Belgium	11	1	283	56	0	0
+Jong Groen Middenkust	De Lille Robin Raymond R	622145671160375	Facebook	wallonia	Wallonia	BE	Belgium	2	1	283	56	2	0
+Filef Nuova Emigrazione - Belgio	Pietro Lunetto	614768311990403	Facebook	wallonia	Wallonia	BE	Belgium	1	1	239	0	23	0
+European Commission	European Commission	107898832590939	Facebook	wallonia	Wallonia	BE	Belgium	22	1	232	111	0	0
+Hendrik Bogaert	Bogaert Hendrik Frank	277636928983663	Facebook	wallonia	Wallonia	BE	Belgium	23	1	195	72	3	0
+Belgian Military Interests		246810655463132	Facebook	wallonia	Wallonia	BE	Belgium	1	1	178	35	3	0
+Dries Van Langenhove	Vlaams Belang	1585072555117186	Facebook	wallonia	Wallonia	BE	Belgium	1	1	171	85	4	0
+Vlaams Belang	Vlaams Belang	56605856504	Facebook	wallonia	Wallonia	BE	Belgium	8	1	169	84	0	0
+Sp.a Hasselt		341171816001580	Facebook	wallonia	Wallonia	BE	Belgium	1	1	168	33	0	0
+Charis Kamoen	Kamoen Charis Oswald M	207387513240677	Facebook	wallonia	Wallonia	BE	Belgium	2	1	160	32	1	0
+Thierry Gilson	Thierry Gilson	445076859592979	Facebook	wallonia	Wallonia	BE	Belgium	1	1	137	27	1	0
+Steve Vandenberghe	Vanderberghe Steve Louis W	405020113176546	Facebook	wallonia	Wallonia	BE	Belgium	1	1	134	26	0	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	wallonia	Wallonia	BE	Belgium	16	1	134	59	0	0
+Anja Vanrobaeys	Vanrobaeys Anja Maurits	795798820785493	Facebook	wallonia	Wallonia	BE	Belgium	4	1	132	26	0	0
+JONG CD&V	JONG CD&V	638247042856542	Facebook	wallonia	Wallonia	BE	Belgium	1	1	131	65	1	0
+Laure Nkundakozera Uwase #23		1844087905686822	Facebook	wallonia	Wallonia	BE	Belgium	1	1	123	24	1	0
+AurelieCzekalski	Aurélie Bénédicte Czekalski	572079523148892	Facebook	wallonia	Wallonia	BE	Belgium	1	1	122	0	12	0
+Raf Terwingen	Raf Terwingen	421841541630421	Facebook	wallonia	Wallonia	BE	Belgium	1	1	120	24	1	0
+Lode Ceyssens	Lode Ceyssens	690224427744073	Facebook	wallonia	Wallonia	BE	Belgium	3	1	109	21	0	0
+Burgemeester Mark Vos	CD&V	1461377154117342	Facebook	wallonia	Wallonia	BE	Belgium	1	1	108	21	1	0
+Maryam Jamshid	Jamshid Maryam	245016762713020	Facebook	wallonia	Wallonia	BE	Belgium	4	1	99	19	2	0
+CD&V Izegem	CD&V Izegem	214309558599122	Facebook	wallonia	Wallonia	BE	Belgium	1	1	97	19	0	0
+Monica De Coninck - Europese verkiezingen	De Coninck Monica Josephine L	336638023665298	Facebook	wallonia	Wallonia	BE	Belgium	4	1	74	32	0	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	wallonia	Wallonia	BE	Belgium	15	1	74	32	0	0
+Groen Lebbeke	Pollet Tim	579893498817499	Facebook	wallonia	Wallonia	BE	Belgium	1	1	71	14	0	0
+Optimiste pour Bruxelles	MR - Mouvement Réformateur	570826640096148	Facebook	wallonia	Wallonia	BE	Belgium	16	1	60	15	1	0
+Jean de Bethune	De Bethune Jean Baptiste E	425691141175605	Facebook	wallonia	Wallonia	BE	Belgium	1	1	51	10	0	0
+Liesbeth Claesen		616717792057494	Facebook	wallonia	Wallonia	BE	Belgium	9	1	45	9	0	0
+Wouter Vermeersch	Vlaams Belang	1819099895078637	Facebook	wallonia	Wallonia	BE	Belgium	12	1	45	11	0	0
+Edwin Korver	Korver Edwin Hendrik	1026660687522073	Facebook	wallonia	Wallonia	BE	Belgium	2	1	43	0	4	0
+Conner Rousseau	Conner Rousseau	942750852588816	Facebook	wallonia	Wallonia	BE	Belgium	17	1	42	8	0	0
+Jan De Volder	CD&V	250105722223585	Facebook	wallonia	Wallonia	BE	Belgium	3	1	42	12	0	0
+Maggie De Block	Maggie De Block	1410219772556421	Facebook	wallonia	Wallonia	BE	Belgium	15	1	40	8	0	0
+Dominique Coucke-pagina		1968318183496025	Facebook	wallonia	Wallonia	BE	Belgium	5	1	37	0	3	0
+Georges Balon Perin, Erasmus kandidaat bij GROEN		820663108311661	Facebook	wallonia	Wallonia	BE	Belgium	3	1	34	8	0	0
+Veerle Heeren	Heeren Veerle Gaston M	257966507711216	Facebook	wallonia	Wallonia	BE	Belgium	1	1	33	6	0	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	wallonia	Wallonia	BE	Belgium	2	1	32	15	0	0
+Groen	Groen	84920854319	Facebook	wallonia	Wallonia	BE	Belgium	22	1	31	5	0	0
+Timothy Rowies	Rowies Timothy	230172250986880	Facebook	wallonia	Wallonia	BE	Belgium	1	1	31	6	0	0
+Jong N-VA		106265382759554	Facebook	wallonia	Wallonia	BE	Belgium	1	1	31	6	0	0
+Sense Mesura		1606564102740842	Facebook	wallonia	Wallonia	BE	Belgium	27	1	28	0	2	0
+Orry Van de Wauwer	Orry Van de Wauwer	100752223802681	Facebook	wallonia	Wallonia	BE	Belgium	1	1	24	0	2	0
+Kathleen Van Brempt	Kathleen Van Brempt	206193139504506	Facebook	wallonia	Wallonia	BE	Belgium	1	1	24	12	0	0
+Pascal Smet	one.brussels	148221008918941	Facebook	wallonia	Wallonia	BE	Belgium	2	1	20	4	0	0
+Peter Mertens	PVDA	236485149843971	Facebook	wallonia	Wallonia	BE	Belgium	4	1	18	3	0	0
+Annick Lambrecht	Lambrecht Annick Jacques M	2229481170658339	Facebook	wallonia	Wallonia	BE	Belgium	2	1	18	3	0	0
+Catharina Rinzema		2114625695290780	Facebook	wallonia	Wallonia	BE	Belgium	1	1	18	3	0	0
+Els Van Hoof-pagina	Van Hoof Els Walter H	315278555648437	Facebook	wallonia	Wallonia	BE	Belgium	3	1	14	7	0	0
+Nathalie Muylle	Nathalie Muylle	1230985333669070	Facebook	wallonia	Wallonia	BE	Belgium	2	1	14	2	0	0
+Wim Dries	Dries Wim Jozef L	147307255351530	Facebook	wallonia	Wallonia	BE	Belgium	1	1	14	7	0	0
+Dreambeats	Dreambeats	206075566263314	Facebook	wallonia	Wallonia	BE	Belgium	1	1	13	2	0	0
+Kim Martens	Martens Kim Kurt K	2055261121428802	Facebook	wallonia	Wallonia	BE	Belgium	1	1	13	2	0	0
+Meyrem Almaci	Meyrem Almaci	1943402032590802	Facebook	wallonia	Wallonia	BE	Belgium	1	1	13	6	0	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	wallonia	Wallonia	BE	Belgium	1	1	12	6	0	0
+Lieve Wierinck	Wierinck Godelieve Joanna	994682667310188	Facebook	wallonia	Wallonia	BE	Belgium	3	1	12	0	1	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	wallonia	Wallonia	BE	Belgium	1	1	11	0	1	0
+Groen Vlaams-Brabant	Groen Vlaams-Brabant	60637191219	Facebook	wallonia	Wallonia	BE	Belgium	1	1	11	2	0	0
+Adeline Bouché	Bouché Adeline Danielle P	474944862932729	Facebook	wallonia	Wallonia	BE	Belgium	1	1	10	5	0	0
+Pieter Konings²	Konings Pieter	277457939649994	Facebook	wallonia	Wallonia	BE	Belgium	5	1	9	1	0	0
+Kim De Witte	PVDA	315662412174661	Facebook	wallonia	Wallonia	BE	Belgium	12	1	9	2	0	0
+Steven Arrazola de Oñate	Arrazola de Oñate Steven Raymond H	578017509235623	Facebook	wallonia	Wallonia	BE	Belgium	3	1	9	1	0	0
+Françoise Schepmans		179436225887095	Facebook	wallonia	Wallonia	BE	Belgium	1	1	8	1	0	0
+Tess Minnens	Minnens Tess Veerie L	131791854353190	Facebook	wallonia	Wallonia	BE	Belgium	1	1	7	0	0	0
+PS de Watermael-Boitsfort		402092416496556	Facebook	wallonia	Wallonia	BE	Belgium	1	1	7	1	0	0
+MR Koekelberg soutien à Lucas Ducarme et Philippe Pivin	Lucas Denis E Ducarme	1706672722902391	Facebook	wallonia	Wallonia	BE	Belgium	1	1	6	3	0	0
+Alexander De Croo	Alexander De Croo	228307843991539	Facebook	wallonia	Wallonia	BE	Belgium	9	1	6	1	0	0
+Norbert De Mey		168939573787459	Facebook	wallonia	Wallonia	BE	Belgium	1	1	6	1	0	0
+Johan Vande Lanotte	Johan Vande Lanotte	326674124027240	Facebook	wallonia	Wallonia	BE	Belgium	3	1	5	1	0	0
+Anne Decortis Listes Destexhe	Anne Jenny F Decortis 	423493048193576	Facebook	wallonia	Wallonia	BE	Belgium	1	1	5	2	0	0
+Evi Van Camp	Van Camp Evi	1758937624358952	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4	2	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	wallonia	Wallonia	BE	Belgium	2	1	4	1	0	0
+Natalie Eggermont	PVDA	415595709204858	Facebook	wallonia	Wallonia	BE	Belgium	2	1	4	2	0	0
+PVDA Kortrijk	PVDA	126912660759418	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4	0	0	0
+Eda Öztürk	Ozturk Eda	256652841853645	Facebook	wallonia	Wallonia	BE	Belgium	1	1	4	2	0	0
+Jurgen Vanlerberghe	Vanlerberghe Jurgen Maurits P	1664229433634791	Facebook	wallonia	Wallonia	BE	Belgium	4	1	3	1	0	0
+CD&V Erpe-Mere	Van Vaerenbergh Johan August G	287188131471344	Facebook	wallonia	Wallonia	BE	Belgium	1	1	3	0	0	0
+N-VA Landen		186705558021609	Facebook	wallonia	Wallonia	BE	Belgium	1	1	3	0	0	0
+Tom Kersemans	Tom Maria L Kersemans	353496071904485	Facebook	wallonia	Wallonia	BE	Belgium	3	1	2	0	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	wallonia	Wallonia	BE	Belgium	5	1	2	1	0	0
+CD&V Diksmuide	CD&V Diksmuide	625936054280293	Facebook	wallonia	Wallonia	BE	Belgium	2	1	2	1	0	0
+Groen West-Vlaanderen	Sabels Jordy	2498060896894670	Facebook	wallonia	Wallonia	BE	Belgium	6	1	2	0	0	0
+Province : il est temps de faire bouger les choses avec ECOLO		2132853950059181	Facebook	wallonia	Wallonia	BE	Belgium	1	1	2	0	0	0
+I vote Europe		608176689275464	Facebook	wallonia	Wallonia	BE	Belgium	1	1	2	1	0	0
+Thijs Morlion	Morlion Thijs Wim C	379011616013698	Facebook	wallonia	Wallonia	BE	Belgium	1	1	2	0	0	0
+Oona Wyns	Wyns Oona Elisa J	285090205488587	Facebook	wallonia	Wallonia	BE	Belgium	1	1	2	0	0	0
+Christophe Calis	Calis Christophe Koenraad R.	2396791870539800	Facebook	wallonia	Wallonia	BE	Belgium	1	1	1	0	0	0
+LSAP	Lëtzebuerger Sozialistesch Aarbechterpartei	47216059667	Facebook	wallonia	Wallonia	BE	Belgium	1	1	1	0	0	0
+Daniel Freund	Bündnis 90 / Die Grünen Kreisverband Aachen	566872987051379	Facebook	wallonia	Wallonia	BE	Belgium	3	1	1	0	0	0
+PVDA West-Vlaanderen	PVDA	1661103980836335	Facebook	wallonia	Wallonia	BE	Belgium	1	1	1	0	0	0
+PVDA Diksmuide Veurne Westkust	PVDA	495401140483679	Facebook	wallonia	Wallonia	BE	Belgium	1	1	1	0	0	0
+Give Us A Voice Lëtzebuerg		1505184473073824	Facebook	wallonia	Wallonia	BE	Belgium	1	1	1	0	0	0
+Tony Coonen	Tony Coonen sp.a	2012732799023622	Facebook	wallonia	Wallonia	BE	Belgium	3	1	1	0	0	0
+Margot Desmet	Desmet Margot	253943212160826	Facebook	wallonia	Wallonia	BE	Belgium	1	1	1	0	0	0
+L'affaire climat	Affaire Climat asbl	874181082603060	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+CDU Kreisverband Aachen Land	CDU Kreisverband Aachen Land	107652402721043	Facebook	wallonia	Wallonia	BE	Belgium	3	1	0	0	0	0
+Volt Deutschland	Volt Deutschland	134209407129787	Facebook	wallonia	Wallonia	BE	Belgium	3	1	0	0	0	0
+Steven Vandeput	Nieuw-Vlaamse Alliantie	983442595060481	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+N-VA	Nieuw-Vlaamse Alliantie	334361224413	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Zuhal Demir	Nieuw-Vlaamse Alliantie	453932394796444	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Maurits Vande Reyde	Vande Reyde Maurits Jozef	1797427180478228	Facebook	wallonia	Wallonia	BE	Belgium	10	1	0	0	0	0
+Bart Somers		596946040405796	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+John Crombez	sp.a	264131406977201	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
 Joris Vandenbroucke	Vandenbroucke Joris Jeroen J	984867054996076	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
-Bert Maertens	N-VA	230657213955622	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
-VoteEuropa - France	Jules Nicolas André Bejot 	2031732090462417	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
-Peter Mertens	PVDA	236485149843971	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
-Natalie Eggermont	PVDA	415595709204858	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
-Kim De Witte	PVDA	315662412174661	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
-Pieter Konings²	Konings Pieter	277457939649994	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
-Groen West-Vlaanderen	Sabels Jordy	2498060896894670	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
-Jurgen Vanlerberghe	Vanlerberghe Jurgen Maurits P	1664229433634791	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
-VoteEuropa Nederland	Lacsamana Marlon Toledo	373618906826123	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
-Wouter Vermeersch	Vlaams Belang	1819099895078637	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
-Vlaams Belang Kortrijk	Vlaams Belang	1657893191169110	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
-Barbara Pas	Vlaams Belang	365242667182267	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Friedrich Jeschke	Friedrich Jeschke	603303090083496	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Magalie Verstraelen	Magalie Stephan Verstraelen	478865082572412	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Jan-Baptist Lemaire	Lemaire Jan-Baptist Catherine J	436626493747712	Facebook	wallonia	Wallonia	BE	Belgium	3	1	0	0	0	0
+Koen Metsu	VAN DER AUWERA PIETER TOM T.	536864973078981	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+CD&V	CD&V	52997544531	Facebook	wallonia	Wallonia	BE	Belgium	35	1	0	0	0	0
+Rachid Azaoum	Rachid Azaoum	1016780215187655	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+Lise Vandecasteele	PVDA	2433030616715564	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Wouter De Vriendt	Sabels Jordy	2148775248546904	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+Jeremie Vaneeckhout	Sabels Jordy	1373626132778895	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+CD&V Limburg	CD&V Limburg	495564387205601	Facebook	wallonia	Wallonia	BE	Belgium	3	1	0	0	0	0
+Partij van de Arbeid (PvdA)	Partij van de Arbeid (PvdA)	113895885305052	Facebook	wallonia	Wallonia	BE	Belgium	3	1	0	0	0	0
+sp.a Limburg	sp.a Limburg	885074558184212	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Peter Van Rompuy	CD&V	257794051588457	Facebook	wallonia	Wallonia	BE	Belgium	7	1	0	0	0	0
+Issam Benali	Benali Issam	92011327952	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+Sander Vandecapelle	Vandecapelle Sander 	288654088488077	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Tom De Meester	PVDA	409051602452966	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Sander Loones	Nieuw-Vlaamse Alliantie	575160279283539	Facebook	wallonia	Wallonia	BE	Belgium	3	1	0	0	0	0
+Vlaams Belang Jongeren	Vlaams Belang Jongeren	203903005659	Facebook	wallonia	Wallonia	BE	Belgium	5	1	0	0	0	0
+Janna Bauters	Bauters Janna Linda D	355343038399994	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Maarten Van Tieghem	Maarten Van Tieghem	815412612126096	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Steven Kindt	Kindt Steven Karel A	934178266778547	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Karin Brouwers	Karin Francisca Brouwers	862762280563277	Facebook	wallonia	Wallonia	BE	Belgium	6	1	0	0	0	0
+Big News Buzz		125179374733697	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Brecht Warnez	Warnez Brecht Luc T	998887823550443	Facebook	wallonia	Wallonia	BE	Belgium	20	1	0	0	0	0
+N-VA Aalter	Tillieu Jelle Gerard M	183728085015968	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Robrecht Bothuyne	D'hauwer Pieter	365185737579327	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+Bekir Kablan	Kablan Bekir Emre	650745248703181	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+Europe Thinx		335839580440114	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Daan De Veuster	De Veuster Daan Jozef D	1753693034925883	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Axel Ronse	N-VA	2375576969141695	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+USR Diaspora	Uniunea Salvați România - USR	1793510380925494	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Vlaams Belang Kortrijk	Vlaams Belang	1657893191169110	Facebook	wallonia	Wallonia	BE	Belgium	3	1	0	0	0	0
+Wouter Beke	Wouter Beke	311935738907850	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+Partij voor de Dieren	Partij voor de Dieren	102287806490622	Facebook	wallonia	Wallonia	BE	Belgium	6	1	0	0	0	0
+sp.a West-Vlaanderen	sp.a West-Vlaanderen	269157793205215	Facebook	wallonia	Wallonia	BE	Belgium	6	1	0	0	0	0
+Dirk Rochtus, plaats 27 voor het Vlaams Parlement, Provincie Antwerpen	Dirk Rochtus	381494492700046	Facebook	wallonia	Wallonia	BE	Belgium	5	1	0	0	0	0
+Dirk Devroey - Lijstduwer Kamer Vlaams-Brabant		2372256669453633	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Pieter-Jan Verhoye	Verhoye Pieter-Jan	300513937202082	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Plictisescu.ro		184028071751540	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Jeroen Lenaers	Jeroen Lenaers	316960281776479	Facebook	wallonia	Wallonia	BE	Belgium	3	1	0	0	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	wallonia	Wallonia	BE	Belgium	3	1	0	0	0	0
+Kris Peeters	Kris Peeters	192181027566488	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Van San Jeroen	Van San Jeroen Edward C	1944788102310986	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Miranda Van Eetvelde	Van Eetvelde Miranda Paula A	123242867697182	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+ETUC		129041250601685	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Justine Hollevoet	Justine Liliane Hollevoet 	314364712376727	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Johanna Huylenbroeck	Schiettecat Tom Pierre J	390331084889844	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Hilde Crevits	Hilde Crevits	384632394957341	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+VoteEuropa - France	Jules Nicolas André Bejot 	2031732090462417	Facebook	wallonia	Wallonia	BE	Belgium	6	1	0	0	0	0
+Danielle Godderis T'Jonck	N-VA	239999043457805	Facebook	wallonia	Wallonia	BE	Belgium	3	1	0	0	0	0
+Dimitry Soenen	Van Isacker Bernard Andre J	256022915307211	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+VoteEuropa Nederland	Lacsamana Marlon Toledo	373618906826123	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+Jan Van Hee		1703384279918792	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Perrine Marchal	Perrine Nathalie G.Marchal	1816421541797483	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Gijs Degrande	N-VA	2343399459056104	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+PVDA Oostende-Middenkust	PVDA	271488549672371	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+PVDA Brugge	PVDA	581383855270720	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Piratepartei Bezierk Norden		494284087327520	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+CD&V Oostkamp	CD&V Oostkamp	2062142307347631	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Barbara Pas	Vlaams Belang	365242667182267	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+Guy D'haeseleer	Vlaams Belang	1070595116362186	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+DIE LINKE. NRW	DIE LINKE. NRW	150480805043795	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Rita Gantois	N-VA	306815242860827	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Jimmy Bastings	Bastings Jimmy Anna Hubertus	2262432790696805	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Yngvild Ingels	Nieuw-Vlaamse Alliantie	585897671936036	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+Koenraad Degroote	Nieuw-Vlaamse Alliantie	1892098237771732	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+CD&V Oost-Vlaanderen		604371212959441	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Björn Anseeuw	Nieuw-Vlaamse Alliantie	145963782413441	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+An Moerenhout	Groen	1952296711545946	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Bart Callaert	Callaert Bart Eduard M	2334802816594579	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Bert Maertens	N-VA	230657213955622	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+An Capoen	Nieuw-Vlaamse Alliantie	128105340557056	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Brecht Vermeulen	Nieuw-Vlaamse Alliantie	167165610745178	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Eurozine		115579498521257	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Ne u moje ime		138418753446889	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+sp.a Vlaams-Brabant	sp.a	299844037256	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+Wilfried Vandaele	N-VA	134830590539925	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+Louis Ide	N-VA	614969692296780	Facebook	wallonia	Wallonia	BE	Belgium	2	1	0	0	0	0
+Robin De Lille	De Lille Robin Raymond R	768512923515237	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Sébastien Dewailly	Sébastien Dewailly	347034845930735	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Michiel Vandewalle		623661894685605	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Piraten Bezierk Osten		141480992729926	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Tokyo Weekender		134654693230171	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+GroenPlus		130349730380	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Defense de la famille traditionnelle		690409728062994	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
+Open Vld Moerbeke		146748925343154	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0
 Geert Bourgeois	Nieuw-Vlaamse Alliantie	649429725077632	Facebook	wallonia	Wallonia	BE	Belgium	1	1	0	0	0	0

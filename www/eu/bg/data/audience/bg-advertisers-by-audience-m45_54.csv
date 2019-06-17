@@ -1,24 +1,91 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Росен Богомилов	Ivanov Hristo	1183492355137046	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	14483	5218	51	7
-Радан Кънев	Радан Кънев	1461853244069926	Facebook	m45_54	male (45-54)	BG	Bulgaria	4	1	10758	2861	51	0
-Приоритети	БЗНС	1163987410423594	Facebook	m45_54	male (45-54)	BG	Bulgaria	14	1	10334	2540	204	0
-Ваня Григорова - независим кандидат за евродепутат	Vanya Grigorova 	344617396401957	Facebook	m45_54	male (45-54)	BG	Bulgaria	3	1	9271	1992	38	0
-European Parliament	European Parliament	178362315106	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	6162	3081	6	0
-Лиляна Павлова	Лиляна Павлова	119576588238010	Facebook	m45_54	male (45-54)	BG	Bulgaria	4	1	5480	1365	68	0
-informo.bg	informo.bg	262524054082832	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	5333	2666	5	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	4855	2427	12	2
-Демократична България	Демократична България	995342840629890	Facebook	m45_54	male (45-54)	BG	Bulgaria	3	1	3567	1722	46	0
-Кристиян Шкварек	Oblakov Nikolay	651747871952382	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	1333	246	34	0
-European Commission	European Commission	107898832590939	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	1210	605	3	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	829	253	3	0
-Ангел Джамбазки	Войчин Мирчо	139581756144530	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	779	127	26	0
-Постоянна ромска конференция	Roma Standing Conference	2169116143357997	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	639	128	12	0
-Пламена Заячка	Zayachka Plamena	265202954078265	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	552	83	19	0
-Любомира Ганчева	Gancheva Lyubomira	483954725396036	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	542	108	9	0
-Зелените ставаме Зелено движение	Ivanov Hristo	247214619360	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	499	99	9	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	130	31	0	0
+Приоритети	БЗНС	1163987410423594	Facebook	m45_54	male (45-54)	BG	Bulgaria	35	1	496647	210405	2320	410
+Демократична България	Демократична България	995342840629890	Facebook	m45_54	male (45-54)	BG	Bulgaria	30	1	345875	156087	1941	405
+European Parliament	European Parliament	178362315106	Facebook	m45_54	male (45-54)	BG	Bulgaria	13	1	283780	115590	737	173
+Стефан Тафров	Стефан Тафров	233810563693016	Facebook	m45_54	male (45-54)	BG	Bulgaria	17	1	237379	98855	597	177
+Крум Дончев/Krum Donchev	Крум Дончев/Krum Donchev	155516354469476	Facebook	m45_54	male (45-54)	BG	Bulgaria	15	1	226838	83708	619	200
+Радан Кънев	Радан Кънев	1461853244069926	Facebook	m45_54	male (45-54)	BG	Bulgaria	27	1	193031	78446	559	47
+Движение ВОЛЯ	Движение Воля	289082018098560	Facebook	m45_54	male (45-54)	BG	Bulgaria	5	1	113039	45215	112	22
+Росен Богомилов	Ivanov Hristo	1183492355137046	Facebook	m45_54	male (45-54)	BG	Bulgaria	11	1	99821	48911	404	79
+Ваня Григорова - независим кандидат за евродепутат	Vanya Grigorova 	344617396401957	Facebook	m45_54	male (45-54)	BG	Bulgaria	16	1	89744	18134	212	0
+informo.bg	informo.bg	262524054082832	Facebook	m45_54	male (45-54)	BG	Bulgaria	5	1	86116	38889	68	6
+ПП Глас народен	ПП Глас народен	127457487402289	Facebook	m45_54	male (45-54)	BG	Bulgaria	10	1	66277	20980	208	25
+Път на младите	Път на младите	2051476654950711	Facebook	m45_54	male (45-54)	BG	Bulgaria	13	1	62260	29285	195	33
+Алина Добрева	Алина Добрева	330889637493030	Facebook	m45_54	male (45-54)	BG	Bulgaria	3	1	43399	18998	189	34
+Емил А. Георгиев	Georgiev Emil	1228198117206814	Facebook	m45_54	male (45-54)	BG	Bulgaria	8	1	43283	10759	141	0
+Веселин Марешки		427091487494895	Facebook	m45_54	male (45-54)	BG	Bulgaria	3	1	41205	17382	57	10
+Постоянна ромска конференция	Roma Standing Conference	2169116143357997	Facebook	m45_54	male (45-54)	BG	Bulgaria	5	1	31256	10699	108	16
+Кристиян Шкварек	Oblakov Nikolay	651747871952382	Facebook	m45_54	male (45-54)	BG	Bulgaria	10	1	28628	7343	147	0
+Зелените ставаме Зелено движение	Ivanov Hristo	247214619360	Facebook	m45_54	male (45-54)	BG	Bulgaria	3	1	24681	10977	145	29
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	m45_54	male (45-54)	BG	Bulgaria	5	1	23479	8670	44	8
+Лиляна Павлова	Лиляна Павлова	119576588238010	Facebook	m45_54	male (45-54)	BG	Bulgaria	13	1	21950	7634	199	0
+Консерваторъ	Oblakov Nikolay	1840027882991452	Facebook	m45_54	male (45-54)	BG	Bulgaria	3	1	20945	4189	41	0
+Valeri Simeonov	Smart Media Consult Ltd	1967166133516609	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	20140	10070	100	20
+European Commission	European Commission	107898832590939	Facebook	m45_54	male (45-54)	BG	Bulgaria	11	1	20021	9520	24	7
+Петър Клисаров	ПП Пряка Демокрация	2041389956077700	Facebook	m45_54	male (45-54)	BG	Bulgaria	8	1	15191	5799	66	0
+ПП ГЕРБ - Стара Загора	ПП ГЕРБ - Стара Загора	229586070497595	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	15156	7528	33	6
+Инициатива "Правосъдие за всеки"	Инициатива "Правосъдие за всеки"	364788430386875	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	15044	6234	19	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	13211	6605	53	10
+Българска Социалистическа Партия	Българска Социалистическа Партия	1367672173297067	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	12528	2505	24	0
+За Земята	Keremidchieva Violeta	404421529636122	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	11888	2377	23	0
+ПП АТАКА		243868101610	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	11217	5608	55	11
+Ilhan Kyuchyuk	Kyuchyuk Ilhan	1637403469881344	Facebook	m45_54	male (45-54)	BG	Bulgaria	4	1	10536	2321	26	0
+Христо Иванов	Демократична България	401246707396255	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	10187	5093	50	10
+Дани Каназирева		448500651897944	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	9057	1811	15	0
+Ивелина Василева		1438646326347103	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	8945	1789	15	0
+Gimme5EUblogs	City Eng	1704673382966894	Facebook	m45_54	male (45-54)	BG	Bulgaria	3	1	7503	1789	26	0
+Д-р Георги Димов		586177848546662	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	7015	1403	13	0
+Емил Стоименов	Stoimenov Emil	964108183935122	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	6998	1399	13	0
+Пламена Заячка	Zayachka Plamena	265202954078265	Facebook	m45_54	male (45-54)	BG	Bulgaria	19	1	6700	1155	183	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	6673	2896	6	1
+Тома Белев/ Toma Belev	Ivanov Hristo	772069009528514	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	6379	1275	63	12
+Любомира Ганчева	Gancheva Lyubomira	483954725396036	Facebook	m45_54	male (45-54)	BG	Bulgaria	4	1	6210	1170	41	0
+БСП - област Варна	Aleksandrova Yana	455026288638982	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	6024	1204	11	0
+Опозиция на светло	Chobanov Petar	133256490183691	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	4782	956	47	9
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	m45_54	male (45-54)	BG	Bulgaria	15	1	4624	1893	13	2
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	m45_54	male (45-54)	BG	Bulgaria	3	1	4463	2039	8	2
+Карлос Контрера	Войчин Мирчо	734105799990582	Facebook	m45_54	male (45-54)	BG	Bulgaria	6	1	3944	981	71	0
+CRIF		395919323779707	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	3542	1771	17	3
+Ангел Джамбазки	Войчин Мирчо	139581756144530	Facebook	m45_54	male (45-54)	BG	Bulgaria	3	1	3290	1141	49	0
+Димитър Данчев	Danchev Dimitar	143711812472902	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	2021	404	40	0
+За Петър Чобанов	Chobanov Petar	762986410409232	Facebook	m45_54	male (45-54)	BG	Bulgaria	4	1	2004	836	25	0
+Hawaiiyak		825305624475174	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	1484	296	26	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	852	170	1	0
+ДПС Видин - DPS Vidin	Anastassov Stanislav	1522108701339201	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	841	168	16	0
+dmfilipov		305015120425184	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	637	127	1	0
+AgroClub.bg		2341992705829624	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	569	113	11	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	538	107	5	1
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	m45_54	male (45-54)	BG	Bulgaria	5	1	525	186	2	0
+Boris Borissov - Борис Борисов		179988009453617	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	481	96	8	0
+За политиката с пристрастие	Asparuch Asparuchov Panov	433308026820335	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	395	79	7	0
+News FLASH		530061577519431	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	332	66	5	0
+ETUC		129041250601685	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	318	63	3	0
 ВМРО Горна Оряховица		245988949432379	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	112	0	9	0
-БСП Русе - Мъдрост и ново начало		732480440438324	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	85	0	7	0
-Simona Maria Vlădica	Amerisoft	236992636715917	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	6	1	0	0
-Βασιλική Λαζαράκου	Βασιλική Λαζαράκου 	443842809693601	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	1	0	0	0
+ПС"Възход"		2360848954033054	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	95	0	8	0
+БСП Русе - Мъдрост и ново начало		732480440438324	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	84	0	7	0
+Коалиция за България		524358618088095	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	81	0	7	0
+Евро Приоритети за България		2623558631048860	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	66	0	5	0
+Claudiu Manda	Partidul Social Democrat	199635566715473	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	41	16	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	23	0	2	0
+Nikolai Nenchev		2294171434153478	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	23	0	2	0
+VOA - Глас на Америка		176413438620	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	19	0	1	0
+ITUC		20556338116	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	18	0	1	0
+Simona Maria Vlădica	Amerisoft	236992636715917	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	14	7	0	0
+Eurozine		115579498521257	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	12	2	0	0
+Big News Buzz		125179374733697	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	9	4	0	0
+USR Teleorman	Partidul "Uniunea Salvati Romania"	694605284013356	Facebook	m45_54	male (45-54)	BG	Bulgaria	4	1	9	3	0	0
+Възраждане - Дряново	Nikolov Deyan	406238943516117	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	9	4	0	0
+Βασιλική Λαζαράκου	Βασιλική Λαζαράκου 	443842809693601	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	2	0	0	0
 INBOX	New Digital Media	369693523475596	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	1	0	0	0
+Ανεξάρτητοι 'Ελληνες	Start Business Hellas	343233902394715	Facebook	m45_54	male (45-54)	BG	Bulgaria	4	1	1	0	0	0
+Πέτρος Κόκκαλης - Petros Kokkalis	Πέτρος Κόκκαλης - Petros Kokkalis	234040963454964	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	1	0	0	0
+فيزا للعراقيين الى تركيا.		271079256752407	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	1	0	0	0
+Νότης Μαριάς, Ανεξάρτητος Ευρωβουλευτής	Επαμεινωνδας Μαριας	337788662974718	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	0	0	0	0
+Οικολόγοι ΠΡΑΣΙΝΟΙ	Οικολόγοι ΠΡΑΣΙΝΟΙ	54211966212	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	0	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	m45_54	male (45-54)	BG	Bulgaria	2	1	0	0	0	0
+Περιφέρεια σε Δράση - Κωστής Σιμιτσής	Κωστής Σιμιτσής	527150297793347	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	0	0	0	0
+The Years Project	The Years Project	168876449866088	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	0	0	0	0
+Στέργιος Τζίντζιος Υπ.Ευρωβουλευτής	Stergios Tzintzios	264947847745022	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	0	0	0	0
+Tom MacDonald		212732770186	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	0	0	0	0
+Tokyo Weekender		134654693230171	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	0	0	0	0
+Ayn Rand Institute		64676229680	Facebook	m45_54	male (45-54)	BG	Bulgaria	1	1	0	0	0	0

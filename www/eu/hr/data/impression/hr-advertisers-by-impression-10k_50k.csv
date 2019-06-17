@@ -1,14 +1,62 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	impression_code_filter	impression_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	10k_50k	10k - 50k	HR	Croatia	5	1	249995	49999	495	0
-Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	10k_50k	10k - 50k	HR	Croatia	4	1	199995	39999	795	100
-Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	10k_50k	10k - 50k	HR	Croatia	3	1	149996	29999	296	0
-SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	10k_50k	10k - 50k	HR	Croatia	2	1	99998	20000	198	0
-Ruža Kovačević Bilić	Hrvatska narodna stranka - liberalni demokrati (HNS)	2268602929863854	Facebook	10k_50k	10k - 50k	HR	Croatia	2	1	99997	20000	198	0
-Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49999	10000	99	0
-Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49999	9999	99	0
-European Parliament	European Parliament	178362315106	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49998	10000	98	0
-HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49998	10000	99	0
-Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49998	9999	98	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	10k_50k	10k - 50k	HR	Croatia	2	1	2656	531	5	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	1919	383	3	0
-Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	10k_50k	10k - 50k	HR	Croatia	2	1	26	5	0	0
+Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	10k_50k	10k - 50k	HR	Croatia	18	1	899913	179986	3781	500
+HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	10k_50k	10k - 50k	HR	Croatia	14	1	699985	139999	3385	499
+Slobodna Dalmacija	Slobodna Dalmacija	100267330025110	Facebook	10k_50k	10k - 50k	HR	Croatia	13	1	649987	130000	1287	0
+Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	10k_50k	10k - 50k	HR	Croatia	13	1	649987	130000	3687	600
+SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	10k_50k	10k - 50k	HR	Croatia	10	1	499989	99999	989	0
+Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	10k_50k	10k - 50k	HR	Croatia	8	1	399991	79999	791	0
+Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	10k_50k	10k - 50k	HR	Croatia	8	1	399991	80000	792	0
+MOST nezavisnih lista	MOST nezavisnih lista	388550077899912	Facebook	10k_50k	10k - 50k	HR	Croatia	6	1	299994	60000	884	89
+Joško Klisović	Klisovic Josko	1262594650584725	Facebook	10k_50k	10k - 50k	HR	Croatia	6	1	299993	59999	593	0
+Jozo Radoš	Jozo Radoš	446717938731095	Facebook	10k_50k	10k - 50k	HR	Croatia	6	1	299993	59999	593	0
+Ruža Kovačević Bilić	Hrvatska narodna stranka - liberalni demokrati (HNS)	2268602929863854	Facebook	10k_50k	10k - 50k	HR	Croatia	6	1	299993	59999	593	0
+Marijana Petir	Marijana Petir	1418903245032313	Facebook	10k_50k	10k - 50k	HR	Croatia	6	1	299863	59973	993	99
+Europski parlament, Ured za informiranje u Republici Hrvatskoj	Europski parlament, Ured za informiranje u Republici Hrvatskoj	508795765833382	Facebook	10k_50k	10k - 50k	HR	Croatia	5	1	249995	50000	495	0
+Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	10k_50k	10k - 50k	HR	Croatia	5	1	249995	50000	495	0
+Miro Bulj	MOST nezavisnih lista	1252295741481540	Facebook	10k_50k	10k - 50k	HR	Croatia	5	1	249992	49999	440	0
+Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	10k_50k	10k - 50k	HR	Croatia	4	1	199996	39999	795	100
+GLAS Građansko-liberalni savez	GLAS Građansko-liberalni savez	231052047413325	Facebook	10k_50k	10k - 50k	HR	Croatia	4	1	199996	40000	1064	178
+BIOM	BIOM	138743669505642	Facebook	10k_50k	10k - 50k	HR	Croatia	4	1	199940	39988	395	0
+Danijel Marušić	HDZ - Hrvatska demokratska zajednica	215152641879933	Facebook	10k_50k	10k - 50k	HR	Croatia	3	1	149997	30000	297	0
+Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	10k_50k	10k - 50k	HR	Croatia	3	1	149997	29999	297	0
+Goran Pauk	HDZ - Hrvatska demokratska zajednica	581489628528785	Facebook	10k_50k	10k - 50k	HR	Croatia	3	1	149997	30000	297	0
+Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	10k_50k	10k - 50k	HR	Croatia	3	1	149996	29999	296	0
+Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	10k_50k	10k - 50k	HR	Croatia	3	1	149996	29999	697	100
+Sunčana Glavak	HDZ - Hrvatska demokratska zajednica	482597361772021	Facebook	10k_50k	10k - 50k	HR	Croatia	3	1	149996	29999	1496	299
+Nova ljevica	Možemo - politička platforma	706769699498076	Facebook	10k_50k	10k - 50k	HR	Croatia	2	1	99998	20000	198	0
+Model European Union Zagreb - MEUZ	Divea Studio	521874817895935	Facebook	10k_50k	10k - 50k	HR	Croatia	2	1	99998	20000	198	0
+Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	10k_50k	10k - 50k	HR	Croatia	2	1	99998	20000	198	0
+Dr. sc. Tomislav Sokol	HDZ - Hrvatska demokratska zajednica	136900153422435	Facebook	10k_50k	10k - 50k	HR	Croatia	2	1	99997	19999	197	0
+Nikolina Brnjac	HDZ - Hrvatska demokratska zajednica	287054392229717	Facebook	10k_50k	10k - 50k	HR	Croatia	2	1	99997	19999	597	100
+Habib Tahiri	Hrvatska narodna stranka - liberalni demokrati (HNS)	750800161983664	Facebook	10k_50k	10k - 50k	HR	Croatia	2	1	99997	19999	197	0
+European Parliament	European Parliament	178362315106	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49999	10000	499	100
+European Greens	European Greens	141366725876424	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49999	10000	99	0
+Stjepan Adanić	HDZ - Hrvatska demokratska zajednica	408695383042330	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49999	10000	98	0
+Bulešić 4 EU	Hrvatska narodna stranka - liberalni demokrati (HNS)	2550012408361701	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49999	10000	99	0
+HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49999	10000	98	0
+Hrvatska stranka umirovljenika	Hrvatska stranka umirovljenika	1437793016448632	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49999	10000	99	0
+Krešo Beljak	Vlahovic Mario	52929105855	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49999	10000	99	0
+Tonino Picula	Tonino Picula	156057951248853	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49999	10000	99	0
+Stjepan Ribić	HDZ - Hrvatska demokratska zajednica	451335681696047	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49998	9999	98	0
+Marijana Balić	HDZ - Hrvatska demokratska zajednica	1274752085892321	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49998	9999	498	99
+SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49998	9999	98	0
+Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49998	9999	99	0
+Ružica Vukovac		1657305064553537	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49998	9999	98	0
+Davor Škrlec	Zastupnik u Europskom parlamentu Davor Škrlec	1507744276110325	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49998	10000	99	0
+Tomislav Stojak	Hrvatska narodna stranka - liberalni demokrati (HNS)	442201595870855	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	49992	9998	98	0
+Diana Topčić-Rosenberg	TOPCIC-ROSENBERG DIANA	1702271996513206	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	48956	9791	96	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	10k_50k	10k - 50k	HR	Croatia	6	1	9630	1926	70	12
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	10k_50k	10k - 50k	HR	Croatia	2	1	3830	766	7	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	10k_50k	10k - 50k	HR	Croatia	2	1	3416	683	6	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	1617	323	16	3
+Europe Thinx		335839580440114	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	1415	283	2	0
+European Commission	European Commission	107898832590939	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	1085	217	2	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	1014	202	2	0
+Ne u moje ime		138418753446889	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	650	130	1	0
+ETUC		129041250601685	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	491	98	4	0
+Franc Bogovič	Slovenska ljudska stranka (SLS)	288826994603012	Facebook	10k_50k	10k - 50k	HR	Croatia	7	1	356	71	0	0
+Federica Sabbati	Federica Sabbati	834884563535291	Facebook	10k_50k	10k - 50k	HR	Croatia	2	1	25	5	0	0
+Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	10	2	0	0
+Antonio Silvio Calò	Antonio Silvio Calò	740380199679755	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	6	1	0	0
+Carla Franchini	MIRTA QUAGLIAROLI, Mandatario elettorale del candidato  Carla Franchini	686106498236150	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	5	1	0	0
+Simone Polesello per il Fvg	Simone Polesello	155754657821240	Facebook	10k_50k	10k - 50k	HR	Croatia	1	1	4	0	0	0

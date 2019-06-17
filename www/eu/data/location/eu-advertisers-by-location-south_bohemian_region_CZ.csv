@@ -1,27 +1,107 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-European Parliament	European Parliament	178362315106	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	2	1	10634	5317	53	10
-Zelení - Strana zelených	Zelení - Strana zelených	39371299263	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	5	1	6540	1410	26	6
-Andrej Bóna	Vokoun Tomas	321165708610626	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	5015	2507	19	9
-Veronika Luňáková	ODS - Občanská demokratická strana	311589326158964	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	3434	686	1	0
-HLAS	První prezidentská	320144481956623	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	4	1	3156	590	12	2
-Starostové a nezávislí	Starostové (STAN) s regionálními partnery a TOP 09	370583064327	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	2972	739	12	3
-ODS - Občanská demokratická strana	ODS - Občanská demokratická strana	30575632699	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	2812	562	10	2
-Radka Trylčová do Evropského parlamentu	ODS - Občanská demokratická strana	388570561882834	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	4	1	2363	0	9	0
-ČSSD	ČSSD	111041662264882	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	27	1	1271	239	14	3
-Strana nezávislosti České republiky	Strana nezávislosti České republiky	1199083776860090	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	1168	415	2	0
-Talíř do Bruselu	KDU-ČSL	2108659169383946	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	432	86	1	0
-Ing.Alexandr Gegalčij, kandidat-Europarlament, Rozumní&Národní Demokracie	Gegalczij Alexandr	386508422184056	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	419	63	1	0
-Eva Decroix	ODS - Občanská demokratická strana	567229570370422	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	315	63	1	0
-Pavel Svoboda	Křesťanská a demokratická unie - Československá strana lidová	1451376028412024	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	279	0	1	0
-Dita Charanzová	ANO	219333261570307	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	2	1	258	41	1	0
-Info.cz	Info.cz	1269502056393120	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	247	49	0	0
-Radek Hlaváček	Hlavacek Radek	294674561247936	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	233	46	0	0
-Organizace pro pomoc uprchlíkům, z.s.	Organizace pro pomoc uprchlíkům, z.s.	188235971211201	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	196	39	0	0
-Vlastibor Čermák, kandidát SPD do EP 2019	Chodzajan Akop	435237393688140	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	183	36	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	101	45	0	0
-MUDr. Gabriela Pecková - TOP 09	Vondryska Jan	113755299053	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	84	0	0	0
-Národní Noviny	Hrubon Rudolf	267806570729225	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	72	0	0	0
-European Commission	European Commission	107898832590939	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	2	1	49	24	0	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	44	22	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	2	1	5	1	0	0
-Tobias Krammer	Tobias Krammer	1643134582482219	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	2	0	0	0
+Česká pirátská strana	Česká pirátská strana	109323929038	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	11	1	227913	109236	1257	490
+Strana nezávislosti České republiky	Strana nezávislosti České republiky	1199083776860090	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	16	1	183012	80917	547	127
+European Commission	European Commission	107898832590939	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	21	1	143409	68569	629	125
+European Parliament	European Parliament	178362315106	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	13	1	132899	55248	928	183
+Andrej Babiš	ANO	214827221987263	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	12	1	128483	59476	800	242
+ČSSD	ČSSD	111041662264882	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	158	1	114440	40006	1157	254
+Piráti České Budějovice	Hansal Jaroslav	153535188480725	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	109997	25000	427	97
+Radka Trylčová do Evropského parlamentu	ODS - Občanská demokratická strana	388570561882834	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	45	1	91125	24318	484	115
+Nenechme to tak	ATG Principal GROUP	224923858400165	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	10	1	59885	22032	437	200
+Pavel Poc	Poc Pavel	202974613060409	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	17	1	55548	18079	149	30
+Veronika Luňáková	ODS - Občanská demokratická strana	311589326158964	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	9	1	51922	21923	72	17
+Info.cz	Info.cz	1269502056393120	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	23	1	47582	10927	183	41
+Svobodní	Svobodní	43855944703	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	30	1	47365	10174	213	44
+Pavel Svoboda	Křesťanská a demokratická unie - Československá strana lidová	1451376028412024	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	11	1	45374	18407	111	24
+Zelení - Strana zelených	Zelení - Strana zelených	39371299263	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	15	1	41932	16360	141	47
+Jan Zahradil	ODS - Občanská demokratická strana	400970967000022	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	20	1	39205	14428	126	36
+ODS - Občanská demokratická strana	ODS - Občanská demokratická strana	30575632699	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	10	1	35919	13818	61	20
+HLAS	První prezidentská	320144481956623	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	14	1	31218	11607	34	12
+Kancelář Evropského parlamentu	Kancelář Evropského parlamentu	278212515809	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	4	1	22052	10066	47	16
+Josef Valihrach - kandidát do Evropského parlamentu	Soukromníci  - Strana soukromníků České republiky	1055203891355904	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	11	1	21679	4992	25	12
+Volime-Hynka-007	ODS - Občanská demokratická strana	339021716804527	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	12	1	19044	4054	95	19
+Talíř do Bruselu	KDU-ČSL	2108659169383946	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	16	1	18667	4075	73	18
+Greenpeace Česká republika	Greenpeace Česká republika	55876739776	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	18487	8475	138	32
+Evropa společně	Evropa společně	535611970260854	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	17791	8102	39	12
+Starostové a nezávislí	Starostové a nezávislí	370583064327	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	7	1	16001	5911	70	30
+Tomáš Hanuš	Kricfalusi Jiri	298486534052289	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	7	1	13567	3240	34	10
+Ondřej Krutílek - kandidát do Evropského parlamentu	ODS	1220066088147062	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	4	1	13399	4642	48	9
+Juraj Seman kandidát do Evropského parlamentu	Seman Juraj	447733512640347	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	9	1	12631	3291	65	14
+Michaela Šojdrová	KDU-ČSL	733410133337387	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	7	1	12310	2838	63	19
+Vlastibor Čermák, kandidát SPD do EP 2019	Cermak Vlastibor	435237393688140	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	5	1	10903	2180	43	9
+Roman Kriz	Kriz Roman	382745889213194	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	10	1	9851	2099	57	18
+Andrej Bóna	Vokoun Tomas	321165708610626	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	2	1	9267	4634	180	36
+Marek Ženíšek	TOP 09	523450094407778	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	7	1	9080	1928	36	8
+MUDr. Gabriela Pecková - TOP 09	Vondryska Jan	113755299053	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	11	1	8864	2047	44	9
+KDU-ČSL	KDU-ČSL	251656685576	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	11	1	8024	2102	40	10
+Tomáš Zdechovský	KDU-ČSL	275042429350706	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	8003	1600	31	6
+Dita Charanzová	ANO	219333261570307	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	7	1	7743	1672	53	16
+Ing. Jaromír Kohlíček, CSc.	Kohlicek Jaromir	162310277268109	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	24	1	6836	1391	8	0
+Eva Decroix	ODS - Občanská demokratická strana	567229570370422	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	9	1	6707	1441	29	8
+Jindřich Vobořil - kandidát do europarlamentu	ODS - Občanská demokratická strana	751475201891213	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	8	1	6298	1407	25	5
+Kateřina Konečná	Konecna Katerina	119624098506	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	4	1	6200	1540	39	7
+Olga Sehnalová	Olga Sehnalová	474594005906021	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	6128	1473	36	7
+Organizace pro pomoc uprchlíkům, z.s.	Organizace pro pomoc uprchlíkům, z.s.	188235971211201	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	5879	1175	22	4
+YOU.and.EU	Nordstrom Laura Helena	250361215678222	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	5	1	5669	1502	21	5
+Tvůj kandidát	Konečný Daniel	599435753834732	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	8	1	5588	1203	29	6
+Fórum 50 %	Fórum 50 %	136248513192	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	2	1	5484	1096	11	3
+Česká společnost ornitologická	Česká společnost ornitologická	479746075051	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	5329	2664	103	20
+Petr Fiala	ODS - Občanská demokratická strana	487445514669670	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	13	1	5075	1484	32	8
+Nina Nováková	KDU-ČSL	337821749739175	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	4924	984	19	3
+TOPAZ	Polkova Marketa	541077242579260	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	4471	1000	22	4
+Národní Noviny	Hrubon Rudolf	267806570729225	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	13	1	4393	2000	61	13
+Soukromníci  - Strana soukromníků České republiky	Soukromníci  - Strana soukromníků České republiky	106046725258	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	3220	835	12	3
+Díky EU	MACH Jiří	404468833684516	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	2737	764	21	4
+Radek Hlaváček	Hlavacek Radek	294674561247936	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	7	1	2618	596	11	2
+Hnutí DUHA - Přátelé Země Česká republika	Hnutí DUHA - Přátelé Země Česká republika	58887737763	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	2602	520	20	10
+Jiří Drahoš	Jiří Drahoš	462447430809625	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	2559	511	9	1
+Plus, pravicově-konzervativní křídlo		252574801885347	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	2436	487	1	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	2022	1011	5	1
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	18	1	1887	601	4	0
+Míša Tejmlová	Tejmlová Michaela	170261140345723	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	4	1	1514	376	6	1
+Marian Jurečka	Lambert Vojtech	356451014434612	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	6	1	1339	267	4	0
+Zachraňme lesy	Hnutí DUHA - Přátelé Země Česká republika	299124538476	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	1305	572	4	1
+Ing.Alexandr Gegalčij, kandidat-Europarlament, Rozumní&Národní Demokracie	Gegalczij Alexandr	386508422184056	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	4	1	1233	246	4	1
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	4	1	1080	448	1	0
+Petr Kutílek	Zelení - Strana zelených	211638332512206	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	7	1	985	112	4	1
+PhDr. Jan Hrnčíř	Hrnčíř Jan	632369483479043	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	879	302	9	1
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	861	421	0	0
+Balahura Milan	Balahura Milan	2307673269493501	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	665	129	2	0
+Slušní lidé		947847402044555	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	506	253	1	0
+European Greens	European Greens	141366725876424	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	500	100	0	0
+Jaroslav Suchý	Lambert Vojtech	778460319203526	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	494	247	9	1
+Martin Bílek - kandidát do Evropského parlamentu	BILEK MARTIN, Bc.	821968848137300	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	2	1	493	95	1	0
+PROČesko	Kňava Radek	2037399133257293	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	488	244	9	1
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	432	194	0	0
+David Pokorný	Soska Marek	1675252432766963	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	5	1	409	69	2	0
+Programy do voleb	Štěpán Ryšavý - Programy do voleb	1033702273421005	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	336	67	0	0
+Česká pirátská strana - Piráti Plzeňský kraj	Kubat Josef	115602606970	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	2	1	311	73	1	0
+Veronika Vrecionová	ODS - Občanská demokratická strana	273367223021327	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	310	62	12	2
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	2	1	287	70	4	0
+Daniel Herman	Vasek Jiri	378072105614553	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	2	1	287	49	2	0
+Spolek Pejskařů		265421693630349	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	275	55	1	0
+Pascal do europarlamentu	Vecer Michael Pascal	388373825336893	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	270	54	1	0
+Libor Michálek		140406832679685	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	254	50	0	0
+Přírodno		373974520024851	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	236	47	0	0
+Liberální institut	Liberální institut	120343698070515	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	217	43	0	0
+Český soběstačný dům		1034759736587732	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	206	0	0	0
+Moje Evropa	Moje Evropa	1701718886552103	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	203	40	0	0
+Senátor Václav Hampl	Höfer Karel	524288824339961	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	156	31	0	0
+Mona Nechvátalová - hnutí HLAS		2136921333063029	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	84	0	7	0
+Charita ve světě		849315472073267	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	2	1	82	0	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	2	1	74	25	1	0
+Kateřina Jacques	Kateřina Bursíková Jacques	51832713011	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	52	10	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	2	1	43	8	0	0
+Saaczech		1891172680926309	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	43	0	0	0
+Peak.cz		378827025796132	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	41	0	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	4	1	31	13	0	0
+JUNOS Studierende	JUNOS Studierende	231166380411824	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	4	1	26	5	0	0
+Tobias Krammer	Tobias Krammer	1643134582482219	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	25	5	0	0
+Europe Thinx		335839580440114	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	22	4	0	0
+JU-Kreisverband Deggendorf	Stefan Johann Zitzelsberger	377562525780294	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	2	1	14	5	0	0
+Petr Štěpánek	Zelení - Strana zelených	224430782640	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	11	0	0	0
+ETUC		129041250601685	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	10	2	0	0
+Volt Deutschland	Volt Deutschland	134209407129787	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	7	1	0	0
+GRAS - Grüne & Alternative Student_innen	GRAS - Grüne & Alternative Student_innen	79935247286	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	3	1	6	2	0	0
+Alexander Hannes	CSU Kreisverband Regen	287380818788155	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	4	0	0	0
+ITUC		20556338116	Facebook	south_bohemian_region_CZ	South Bohemian Region, Czechia	1	1	3	0	0	0

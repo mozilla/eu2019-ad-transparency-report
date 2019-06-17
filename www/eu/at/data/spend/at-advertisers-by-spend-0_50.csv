@@ -1,62 +1,211 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	spend_code_filter	spend_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-NR KLUB JETZT	NR KLUB JETZT	833013456857401	Facebook	0_50	0 - 50	AT	Austria	11	1	228276	50841	1085	0
-Harald Vilimsky	FPÖ	547597092025909	Facebook	0_50	0 - 50	AT	Austria	2	1	99686	19937	197	0
-Alma Zadic	NR KLUB JETZT	1891626681100935	Facebook	0_50	0 - 50	AT	Austria	9	1	70770	15950	888	0
-FSG - Fraktion Sozialdemokratischer GewerkschafterInnen	GewerkschafterInnen in der SPÖ	364093897023468	Facebook	0_50	0 - 50	AT	Austria	4	1	69778	16947	394	0
-Angelika Winzig	Wirtschaftsbund Österreich	141015722773374	Facebook	0_50	0 - 50	AT	Austria	2	1	54826	10965	197	0
-Lukas Mandl	Verein VSM - Vorzugsstimmen für Mandl	436914289678818	Facebook	0_50	0 - 50	AT	Austria	13	1	52822	9968	1282	0
-Wilfried Haslauer	Salzburger Volkspartei	49835536470	Facebook	0_50	0 - 50	AT	Austria	1	1	49843	9968	98	0
-Peter Hametner	Peter Hametner	388385461980020	Facebook	0_50	0 - 50	AT	Austria	1	1	49843	9968	98	0
-kontrast.at	kontrast.at	1079650008770485	Facebook	0_50	0 - 50	AT	Austria	1	1	49843	9968	98	0
-Wirtschaftskammer	Wirtschaftskammer	125946327466544	Facebook	0_50	0 - 50	AT	Austria	1	1	49843	9968	98	0
-Die neue SPÖ Tirol	SPÖ Tirol	172040642860223	Facebook	0_50	0 - 50	AT	Austria	1	1	49832	9966	98	0
-GRAS - Grüne & Alternative Student_innen	GRAS - Grüne & Alternative Student_innen	79935247286	Facebook	0_50	0 - 50	AT	Austria	1	1	49814	9963	98	0
-SPÖ	SPÖ	77393060080	Facebook	0_50	0 - 50	AT	Austria	15	1	46838	7975	1480	0
-OÖVP - die Oberösterreichische Volkspartei	Oberösterreichische Volkspartei	289163077789256	Facebook	0_50	0 - 50	AT	Austria	3	1	24919	10965	296	0
-SPÖ Kärnten	SPÖ Kärnten	10150145829810364	Facebook	0_50	0 - 50	AT	Austria	3	1	20931	9968	296	0
-Peter Pilz	NR KLUB JETZT	127399223970566	Facebook	0_50	0 - 50	AT	Austria	2	1	14951	5981	197	0
-Sebastian Bohrn Mena	Tierschutzvolksbegehren	1583324305255890	Facebook	0_50	0 - 50	AT	Austria	5	1	12954	1993	493	0
-Die Grünen Steiermark	Die Grünen Steiermark	97997637890	Facebook	0_50	0 - 50	AT	Austria	4	1	11958	1993	394	0
-KSV Graz	KSV Graz	268242501289	Facebook	0_50	0 - 50	AT	Austria	7	1	10958	996	690	0
+JUNOS Studierende	JUNOS Studierende	231166380411824	Facebook	0_50	0 - 50	AT	Austria	49	1	1332851	334762	4833	0
+Lukas Mandl	Verein VSM - Vorzugsstimmen für Mandl	436914289678818	Facebook	0_50	0 - 50	AT	Austria	189	1	1212018	323985	18652	0
+NR KLUB JETZT	NR KLUB JETZT	833013456857401	Facebook	0_50	0 - 50	AT	Austria	73	1	914071	217321	7204	0
+Angelika Winzig	Wirtschaftsbund Österreich	141015722773374	Facebook	0_50	0 - 50	AT	Austria	313	1	739312	122617	30883	0
+Barbara M. Thaler	Tiroler Volkspartei	1945277729020140	Facebook	0_50	0 - 50	AT	Austria	299	1	707491	96698	29508	0
+SPÖ	SPÖ	77393060080	Facebook	0_50	0 - 50	AT	Austria	53	1	645925	171463	5230	0
+OÖVP - die Oberösterreichische Volkspartei	Oberösterreichische Volkspartei	289163077789256	Facebook	0_50	0 - 50	AT	Austria	20	1	495433	125607	1973	0
+Volkspartei Niederösterreich	Volkspartei Niederösterreich	185269004912086	Facebook	0_50	0 - 50	AT	Austria	57	1	427505	121594	5624	0
+Sozialdemokratische Partei Europas	Sozialdemokratische Partei Europas	338549033673221	Facebook	0_50	0 - 50	AT	Austria	10	1	423667	120623	986	0
+Stadt Wien	Stadt Wien	110971788921077	Facebook	0_50	0 - 50	AT	Austria	11	1	414694	85732	1085	0
+GPA-djp	GPA-djp	214499840736	Facebook	0_50	0 - 50	AT	Austria	11	1	304039	75763	1085	0
+kontrast.at	kontrast.at	1079650008770485	Facebook	0_50	0 - 50	AT	Austria	16	1	296059	85732	1579	0
+Pamela Rendi-Wagner	SPÖ-Parlamentsklub	1673371229636129	Facebook	0_50	0 - 50	AT	Austria	14	1	275127	72772	1381	0
+Die Grünen	Die Grünen	21759893033	Facebook	0_50	0 - 50	AT	Austria	8	1	270148	59813	789	0
+Grüne Jugend - Grünalternative Jugend	Grüne Jugend - Grünalternative Jugend	533665483708070	Facebook	0_50	0 - 50	AT	Austria	14	1	262167	66791	1381	0
+Thomas Stelzer	OÖVP - die Oberösterreichische Volkspartei	1786588968220782	Facebook	0_50	0 - 50	AT	Austria	12	1	260175	66791	1184	0
+Claudia Gamon	NEOS	447992848717452	Facebook	0_50	0 - 50	AT	Austria	17	1	260170	78754	1677	0
+KPÖ PLUS	KPÖ PLUS	849742871847407	Facebook	0_50	0 - 50	AT	Austria	13	1	247210	57818	1282	0
+GRAS - Grüne & Alternative Student_innen	GRAS - Grüne & Alternative Student_innen	79935247286	Facebook	0_50	0 - 50	AT	Austria	6	1	179370	44843	591	0
+European Parliament	European Parliament	178362315106	Facebook	0_50	0 - 50	AT	Austria	8	1	166472	32897	789	0
+Wochenblick	Wochenblick	991628130904203	Facebook	0_50	0 - 50	AT	Austria	5	1	164481	35887	493	0
+KSV Graz	KSV Graz	268242501289	Facebook	0_50	0 - 50	AT	Austria	56	1	160443	23925	5526	0
+Alex Bernhuber	Niederösterreichischer Bauernbund	382872055842390	Facebook	0_50	0 - 50	AT	Austria	4	1	159498	34891	394	0
+Sebastian Kurz	Volkspartei	105151752909840	Facebook	0_50	0 - 50	AT	Austria	3	1	149530	29906	296	0
+Alma Zadic	NR KLUB JETZT	1891626681100935	Facebook	0_50	0 - 50	AT	Austria	34	1	123580	22928	3355	0
+1Europa	Peter Glawischnig	320389701908367	Facebook	0_50	0 - 50	AT	Austria	14	1	120609	56822	1381	0
+Die Grünen Steiermark	Die Grünen Steiermark	97997637890	Facebook	0_50	0 - 50	AT	Austria	23	1	120600	40872	2269	0
+GRAS Innsbruck	Grüne & Alternative Student_innen	169544599829393	Facebook	0_50	0 - 50	AT	Austria	20	1	117612	24922	1973	0
+Andreas Schieder	SPÖ	290881691011354	Facebook	0_50	0 - 50	AT	Austria	3	1	109654	24922	296	0
+Greenpeace Österreich	Greenpeace Österreich	32984679070	Facebook	0_50	0 - 50	AT	Austria	31	1	106636	29906	3059	0
+Europa-Wahl 2019	Michael Eisenriegler Bakk Phil	489866264465481	Facebook	0_50	0 - 50	AT	Austria	22	1	105648	20934	2171	0
+Tiroler Volkspartei	Tiroler Volkspartei	217386655005525	Facebook	0_50	0 - 50	AT	Austria	3	1	104670	20934	296	0
+Grüne Jugend Steiermark	Grüne Jugend Steiermark	278628109523836	Facebook	0_50	0 - 50	AT	Austria	3	1	104670	20934	296	0
+NEOS Tirol	NEOS Tirol	459133680794363	Facebook	0_50	0 - 50	AT	Austria	3	1	104670	20934	296	0
+Harald Vilimsky	FPÖ	547597092025909	Facebook	0_50	0 - 50	AT	Austria	10	1	100675	25919	986	0
+Arbeit&Wirtschaft Magazin	Arbeit&Wirtschaft Magazin	312134126182731	Facebook	0_50	0 - 50	AT	Austria	6	1	89713	26915	592	0
+KOSMO	KOSMO	191576624211837	Facebook	0_50	0 - 50	AT	Austria	7	1	89712	23925	690	0
+Peter Hametner	Peter Hametner	388385461980020	Facebook	0_50	0 - 50	AT	Austria	6	1	84729	22928	592	0
+Die Tiroler Grünen	Die Tiroler Grünen	112941499555	Facebook	0_50	0 - 50	AT	Austria	18	1	83720	21931	1776	0
+NEOS	NEOS	327450964017497	Facebook	0_50	0 - 50	AT	Austria	4	1	79746	24922	394	0
+FSG - Fraktion Sozialdemokratischer GewerkschafterInnen	GewerkschafterInnen in der SPÖ	364093897023468	Facebook	0_50	0 - 50	AT	Austria	6	1	75757	17943	592	0
+SPÖ Oberösterreich	SPÖ Oberösterreich	208930355786005	Facebook	0_50	0 - 50	AT	Austria	5	1	70774	16947	493	0
+Keinen Millimeter	Michael Dorner	356665748284436	Facebook	0_50	0 - 50	AT	Austria	3	1	69779	19937	296	0
+Wolfram Pirchner	Österreichischer Seniorenbund	296676857050295	Facebook	0_50	0 - 50	AT	Austria	4	1	69778	16947	394	0
+Amnesty International Austria	Amnesty International Austria	30925241455	Facebook	0_50	0 - 50	AT	Austria	3	1	64794	15950	296	0
+SPÖ Obersteiermark Ost	SPÖ Obersteiermark Ost	639538052795950	Facebook	0_50	0 - 50	AT	Austria	4	1	64793	12959	394	0
+Wilfried Haslauer	Salzburger Volkspartei	49835536470	Facebook	0_50	0 - 50	AT	Austria	2	1	59811	14953	197	0
+Georg Strasser	Georg Strasser	1450886738334945	Facebook	0_50	0 - 50	AT	Austria	2	1	59811	14953	197	0
+Josef Pühringer	OÖVP - die Oberösterreichische Volkspartei	47373762091	Facebook	0_50	0 - 50	AT	Austria	2	1	59811	14953	197	0
+Europäisches Parlament Österreich	Europäisches Parlament Österreich	124468054313069	Facebook	0_50	0 - 50	AT	Austria	2	1	59811	14953	197	0
+Nurten Yilmaz	Nurten Yilmaz	160128484173405	Facebook	0_50	0 - 50	AT	Austria	3	1	59810	11962	296	0
+Die Grünen Oberösterreich	Die Grünen Oberösterreich	84955135551	Facebook	0_50	0 - 50	AT	Austria	2	1	54826	10965	197	0
+Die Grünen Wien	Die Grünen Wien	88676876113	Facebook	0_50	0 - 50	AT	Austria	2	1	54826	10965	197	0
+Wirtschaftsbund Österreich	Wirtschaftsbund Österreich	385183128166442	Facebook	0_50	0 - 50	AT	Austria	4	1	52831	9968	394	0
+FPÖ Tirol - die Tiroler Freiheitlichen	FPÖ Tirol - die Tiroler Freiheitlichen	197677003596231	Facebook	0_50	0 - 50	AT	Austria	2	1	50839	9968	197	0
+Maysara Soliman	Maysara Soliman	169929840584692	Facebook	0_50	0 - 50	AT	Austria	2	1	50839	9968	197	0
+Max Hiegelsberger	OÖVP - die Oberösterreichische Volkspartei	943198402357632	Facebook	0_50	0 - 50	AT	Austria	1	1	49843	9968	98	0
+FPÖ	FPÖ	169051073236170	Facebook	0_50	0 - 50	AT	Austria	1	1	49843	9968	98	0
+Team Kurz	Volkspartei	1446536545429987	Facebook	0_50	0 - 50	AT	Austria	1	1	49843	9968	98	0
+VSStÖ - Verband sozialistischer Student_innen	VSStÖ - Verband sozialistischer Student_innen	69881866093	Facebook	0_50	0 - 50	AT	Austria	1	1	49843	9968	98	0
+Sozialistische Jugend Steiermark	Sozialistische Jugend Steiermark	132022020234948	Facebook	0_50	0 - 50	AT	Austria	1	1	49843	9968	98	0
+Unser Niederösterreich	Unser Niederösterreich	469284460250113	Facebook	0_50	0 - 50	AT	Austria	1	1	49843	9968	98	0
+Irmgard Griss	Irmgard Griss	1505949083037195	Facebook	0_50	0 - 50	AT	Austria	1	1	49843	9968	98	0
+Markus Hein	FPÖ Linz	624525897689879	Facebook	0_50	0 - 50	AT	Austria	6	1	49838	21931	592	0
+Tobias Krammer	Tobias Krammer	1643134582482219	Facebook	0_50	0 - 50	AT	Austria	1	1	49768	9953	98	0
+Sebastian Bohrn Mena	Tierschutzvolksbegehren	1583324305255890	Facebook	0_50	0 - 50	AT	Austria	21	1	48826	6978	2072	0
+Junge Generation in der SPÖ	Junge Generation in der SPÖ	138952762862969	Facebook	0_50	0 - 50	AT	Austria	9	1	45847	11962	888	0
+Die Innsbrucker Grünen	Die Innsbrucker Grünen	185943534768550	Facebook	0_50	0 - 50	AT	Austria	6	1	39869	13956	592	0
+Ahmed Husagić	SPÖ	1617700101837646	Facebook	0_50	0 - 50	AT	Austria	7	1	39868	10965	690	0
+Tierschutzvolksbegehren	Tierschutzvolksbegehren	1642678769161065	Facebook	0_50	0 - 50	AT	Austria	13	1	36871	5981	1282	0
+SPÖ Kärnten	SPÖ Kärnten	10150145829810364	Facebook	0_50	0 - 50	AT	Austria	5	1	35882	15950	493	0
+Udo Landbauer	FPÖ Niederösterreich	494195290313	Facebook	0_50	0 - 50	AT	Austria	5	1	34886	12959	493	0
+LET'S CEE Film Festival	LET'S CEE Film Festival	374807339208829	Facebook	0_50	0 - 50	AT	Austria	9	1	34882	11962	888	0
+Christian Dax	SPÖ Burgenland	1232990493514860	Facebook	0_50	0 - 50	AT	Austria	5	1	34826	12929	492	0
+ZARA - Zivilcourage und Anti-Rassismus-Arbeit	ZARA - Zivilcourage und Anti-Rassismus-Arbeit	100290843377097	Facebook	0_50	0 - 50	AT	Austria	6	1	29900	5981	592	0
+Severin Mayr	Die Grünen Oberösterreich	292307661332245	Facebook	0_50	0 - 50	AT	Austria	7	1	26908	4984	690	0
+Peter Pilz	NR KLUB JETZT	127399223970566	Facebook	0_50	0 - 50	AT	Austria	5	1	25914	7975	493	0
+Michael Raml	FPÖ Linz	1499759610320321	Facebook	0_50	0 - 50	AT	Austria	5	1	25914	7975	493	0
+Freiheitliche Jugend	Freiheitliche Jugend	261850724850	Facebook	0_50	0 - 50	AT	Austria	3	1	24919	10965	296	0
+Simone Schmiedtbauer	Bauernbund	2423163447708524	Facebook	0_50	0 - 50	AT	Austria	3	1	24919	10965	296	0
+I LOVE GERASDORF	ÖVP Gerasdorf	225716772430	Facebook	0_50	0 - 50	AT	Austria	3	1	24919	10965	296	0
+bagru GRAS boku	bagru*GRAS*boku	110449662370582	Facebook	0_50	0 - 50	AT	Austria	7	1	23918	6978	690	0
+Maximilian Kurz	FPÖ Tirol - die Tiroler Freiheitlichen	531971217283322	Facebook	0_50	0 - 50	AT	Austria	6	1	22922	6978	592	0
+NEOS Wien	NEOS Wien	580791221952500	Facebook	0_50	0 - 50	AT	Austria	3	1	20931	9968	296	0
+Die neue SPÖ Tirol	SPÖ Tirol	172040642860223	Facebook	0_50	0 - 50	AT	Austria	4	1	20926	6976	394	0
+Österreichische Gesellschaft für Europapolitik	Österreichische Gesellschaft für Europapolitik	290449626693	Facebook	0_50	0 - 50	AT	Austria	3	1	19934	6978	296	0
+Günther Sidl	BSA Niederösterreich	806694216374998	Facebook	0_50	0 - 50	AT	Austria	8	1	19929	2990	789	0
+Austrian World Summit	R2o Austria & EU	1852365868311086	Facebook	0_50	0 - 50	AT	Austria	12	1	19925	1993	1184	0
+mymuesli		20393019390	Facebook	0_50	0 - 50	AT	Austria	1	1	19554	3911	38	0
+SPÖ Burgenland	SPÖ Burgenland	237290919634390	Facebook	0_50	0 - 50	AT	Austria	3	1	15947	5981	296	0
+Christofer Ranzmaier	Christofer Ranzmaier	187449428281036	Facebook	0_50	0 - 50	AT	Austria	3	1	15947	5981	296	0
+Lui Hofmann	Ing. Mag. Ludwig Harald Hofmann	1571665456409772	Facebook	0_50	0 - 50	AT	Austria	4	1	15946	2990	394	0
+Politik muss wieder für die einfachen Menschen gemacht werden.	Georg Krejci	2060122567590322	Facebook	0_50	0 - 50	AT	Austria	4	1	15946	2990	394	0
+Junge Generation Wien	Junge Generation Wien	554259997948372	Facebook	0_50	0 - 50	AT	Austria	2	1	14951	5981	197	0
+Wirtschaftsbund Niederösterreich	Wirtschaftsbund Niederösterreich	150609794968507	Facebook	0_50	0 - 50	AT	Austria	2	1	14951	5981	197	0
+Gottfried Waldhäusl	FPÖ Niederösterreich	627580790692097	Facebook	0_50	0 - 50	AT	Austria	2	1	14951	5981	197	0
+AktionsGemeinschaft Uni Wien	AktionsGemeinschaft	185474925851	Facebook	0_50	0 - 50	AT	Austria	3	1	14950	2990	296	0
+wienerinnen.at	Valeria Foglar-Deinhardstein 	293185317391782	Facebook	0_50	0 - 50	AT	Austria	3	1	14950	2990	296	0
+Steffi Krisper	Stephanie Krisper	170392456839307	Facebook	0_50	0 - 50	AT	Austria	3	1	14950	2990	296	0
+Wandel	Wandel	441927269154538	Facebook	0_50	0 - 50	AT	Austria	7	1	14946	1993	690	0
+FPÖ Niederösterreich	FPÖ Niederösterreich	150623338441911	Facebook	0_50	0 - 50	AT	Austria	4	1	11958	1993	394	0
+Partei der Arbeit	Partei der Arbeit	298693416922933	Facebook	0_50	0 - 50	AT	Austria	2	1	10963	4984	197	0
+NEOS Niederösterreich	NEOS Niederösterreich	441223455916739	Facebook	0_50	0 - 50	AT	Austria	3	1	10962	1993	296	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	0_50	0 - 50	AT	Austria	15	1	10554	4005	18	0
+Christian Pirker	Christian Sigmund Pirker 	200189984169557	Facebook	0_50	0 - 50	AT	Austria	1	1	9967	4984	98	0
 Herwig Mahr	Freiheitlicher Landtagsklub Oberösterreich	212990319049096	Facebook	0_50	0 - 50	AT	Austria	1	1	9967	4984	98	0
-Europäisches Parlament Österreich	Europäisches Parlament Österreich	124468054313069	Facebook	0_50	0 - 50	AT	Austria	1	1	9967	4984	98	0
-Alex Bernhuber	Niederösterreichischer Bauernbund	382872055842390	Facebook	0_50	0 - 50	AT	Austria	1	1	9967	4984	98	0
-1Europa	Peter Glawischnig	320389701908367	Facebook	0_50	0 - 50	AT	Austria	2	1	9966	1993	197	0
-Grüne Jugend Steiermark	Grüne Jugend Steiermark	278628109523836	Facebook	0_50	0 - 50	AT	Austria	2	1	9966	1993	197	0
-Die Grünen	Die Grünen	21759893033	Facebook	0_50	0 - 50	AT	Austria	2	1	9966	1993	197	0
-Die Tiroler Grünen	Die Tiroler Grünen	112941499555	Facebook	0_50	0 - 50	AT	Austria	2	1	9966	1993	197	0
-Österreichische Gesellschaft für Europapolitik	Österreichische Gesellschaft für Europapolitik	290449626693	Facebook	0_50	0 - 50	AT	Austria	4	1	7971	996	394	0
-Junge Generation in der SPÖ	Junge Generation in der SPÖ	138952762862969	Facebook	0_50	0 - 50	AT	Austria	7	1	6971	0	690	0
-Andreas Schieder	SPÖ	290881691011354	Facebook	0_50	0 - 50	AT	Austria	2	1	5979	996	197	0
-Die Innsbrucker Grünen	Die Innsbrucker Grünen	185943534768550	Facebook	0_50	0 - 50	AT	Austria	2	1	5979	996	197	0
-Steffi Krisper	Stephanie Krisper	170392456839307	Facebook	0_50	0 - 50	AT	Austria	2	1	5979	996	197	0
-GRAS Innsbruck	Grüne & Alternative Student_innen	169544599829393	Facebook	0_50	0 - 50	AT	Austria	2	1	5979	996	197	0
-Norbert Hofer	FPÖ	1650580648552563	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
-SPÖ Obersteiermark Ost	SPÖ Obersteiermark Ost	639538052795950	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
-Die Grünen Wien	Die Grünen Wien	88676876113	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
-Partei der Arbeit	Partei der Arbeit	298693416922933	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
-Markus Ornig	NEOS Wien	1604393142995063	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
-Tobias Krammer	Tobias Krammer	1643134582482219	Facebook	0_50	0 - 50	AT	Austria	1	1	4977	995	98	0
-Keinen Millimeter	Michael Dorner	356665748284436	Facebook	0_50	0 - 50	AT	Austria	3	1	2987	0	296	0
-Politik muss wieder für die einfachen Menschen gemacht werden.	Georg Krejci	2060122567590322	Facebook	0_50	0 - 50	AT	Austria	3	1	2987	0	296	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	0_50	0 - 50	AT	Austria	4	1	1046	312	2	0
-Gerald Loacker	Gerald Loacker	457682787636207	Facebook	0_50	0 - 50	AT	Austria	1	1	995	0	98	0
-Christian Dax	SPÖ Burgenland	1232990493514860	Facebook	0_50	0 - 50	AT	Austria	1	1	995	0	98	0
-NEOS Niederösterreich	NEOS Niederösterreich	441223455916739	Facebook	0_50	0 - 50	AT	Austria	1	1	995	0	98	0
-KPÖ Graz	KPÖ Graz	167792116901542	Facebook	0_50	0 - 50	AT	Austria	1	1	995	0	98	0
-KPÖ PLUS Salzburg	KPÖ PLUS	548091638575123	Facebook	0_50	0 - 50	AT	Austria	1	1	995	0	98	0
+Freiheitliche Bauernschaft Oberösterreich	Freiheitliche Bauernschaft Oberösterreich	124298681063701	Facebook	0_50	0 - 50	AT	Austria	1	1	9967	4984	98	0
+Junge ÖVP	Junge ÖVP	38896933646	Facebook	0_50	0 - 50	AT	Austria	1	1	9967	4984	98	0
+SPÖ Niederösterreich	SPÖ Niederösterreich	106739889401505	Facebook	0_50	0 - 50	AT	Austria	1	1	9967	4984	98	0
+Salzburger Volkspartei	Salzburger Volkspartei	243190742384882	Facebook	0_50	0 - 50	AT	Austria	1	1	9967	4984	98	0
+WahlSwiper		111883876144163	Facebook	0_50	0 - 50	AT	Austria	1	1	9967	4984	98	0
+Werner Kogler	Die Grünen	133612666671985	Facebook	0_50	0 - 50	AT	Austria	1	1	9967	4984	98	0
+Thomas Waitz	Die Grünen	235816017203590	Facebook	0_50	0 - 50	AT	Austria	1	1	9967	4984	98	0
+SPÖ Felixdorf	SPÖ Felixdorf	148243776026237	Facebook	0_50	0 - 50	AT	Austria	1	1	9967	4984	98	0
+Christoph Wiederkehr	NEOS Wien	1047221682152437	Facebook	0_50	0 - 50	AT	Austria	1	1	9967	4984	98	0
+KPÖ Graz	KPÖ Graz	167792116901542	Facebook	0_50	0 - 50	AT	Austria	1	1	9967	4984	98	0
+Markus Ornig	NEOS Wien	1604393142995063	Facebook	0_50	0 - 50	AT	Austria	2	1	9966	1993	197	0
+Othmar Karas	Volkspartei	395638503864459	Facebook	0_50	0 - 50	AT	Austria	2	1	9966	1993	197	0
+Solidarität - Für faire Löhne & Arbeitsbedingungen	Martin Gutlederer	1987368681572469	Facebook	0_50	0 - 50	AT	Austria	2	1	9966	1993	197	0
+KPÖ Wien	KPÖ	1823664304518774	Facebook	0_50	0 - 50	AT	Austria	2	1	9965	1993	197	0
+Österreich&Europa	Johann Eichhorn	396597551187061	Facebook	0_50	0 - 50	AT	Austria	10	1	9958	0	986	0
+Norbert Hofer	FPÖ	1650580648552563	Facebook	0_50	0 - 50	AT	Austria	2	1	5979	996	197	0
+KPÖ PLUS Salzburg	KPÖ PLUS	548091638575123	Facebook	0_50	0 - 50	AT	Austria	2	1	5979	996	197	0
+Freiheitliche Arbeitnehmer Oberösterreich	Freiheitliche Arbeitnehmer Oberösterreich	346842098763288	Facebook	0_50	0 - 50	AT	Austria	2	1	5979	996	197	0
+VSStÖ Innsbruck - Verband Sozialistischer StudentInnen Sektion Innsbruck	Sophia Maria Amprosi 	154146876422	Facebook	0_50	0 - 50	AT	Austria	2	1	5979	996	197	0
+scoop.me		100745679654	Facebook	0_50	0 - 50	AT	Austria	2	1	5771	962	169	0
+Elke Kahr	KPÖ Graz	130884396971665	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
+KJÖ Graz	KJÖ Graz	128624867158781	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
+GRAS Linz - Grüne und Alternative Student_innen	GRAS Linz - Grüne und Alternative Student_innen	1738792296441731	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
+Bildungsverein der KPÖ Steiermark	KPÖ Steiermark	124940167578420	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
+BIBER	BIBER	20236828906	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
+Michael Ludwig	SPÖ Wien	328018270709073	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
+SPÖ Hainfeld	Robert Steineck	378862102263329	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
+Michael Bernhard	Michael Bernhard	217394141743074	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
+Sozialdemokratischer Wirtschaftsverband Wien	Sozialdemokratischer Wirtschaftsverband Wien	217664835989	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
+Die GRÜNEN Salzburg	Die GRÜNEN Salzburg	127656051119	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
+VSStÖ Wien	Eva Sager 	310569117205	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
+VSStÖ Juridicum	Eva Sager 	331632570217876	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
+Grüne Wirtschaft	Grüne Wirtschaft	134093926635579	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
+SPÖ Stadtorganisation Amstetten	SPÖ Stadtorganisation Amstetten	912354165459699	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
+FPÖ Linz	FPÖ Linz	422002897965438	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
+Petra Steger	Petra Steger	1525366237690952	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
+Freiheitliche Jugend Kärnten		536956663016520	Facebook	0_50	0 - 50	AT	Austria	1	1	4983	996	98	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	0_50	0 - 50	AT	Austria	6	1	3442	1388	7	0
+Sense Mesura		1606564102740842	Facebook	0_50	0 - 50	AT	Austria	43	1	3319	0	329	0
+Volksmacht AT / Presse-Stelle		294218140927490	Facebook	0_50	0 - 50	AT	Austria	3	1	2987	0	296	0
+VSStÖ Med Wien	Eva Sager 	1557561051146053	Facebook	0_50	0 - 50	AT	Austria	3	1	2987	0	296	0
+European Commission	European Commission	107898832590939	Facebook	0_50	0 - 50	AT	Austria	2	1	2955	1301	3	0
+A Solution to Plastic Pollution - First International Online Summit		1098001547034272	Facebook	0_50	0 - 50	AT	Austria	1	1	2303	1152	22	0
+Phibie v. Aldebaran		447772735582107	Facebook	0_50	0 - 50	AT	Austria	1	1	2027	405	40	0
+Gütersloher Verlagshaus		341789431722	Facebook	0_50	0 - 50	AT	Austria	1	1	1168	233	23	0
+Grüne Jugend Vorarlberg	Samuel Moosmann	217456242381835	Facebook	0_50	0 - 50	AT	Austria	1	1	995	0	98	0
+Europäische Kommission - Vertretung in Österreich	Europäische Kommission - Vertretung in Österreich	187626534620326	Facebook	0_50	0 - 50	AT	Austria	1	1	995	0	98	0
+Harry Koller	Harry Koller	1021082958087651	Facebook	0_50	0 - 50	AT	Austria	1	1	995	0	98	0
+Hermann Schützenhöfer	Steirische Volkspartei	141720165842248	Facebook	0_50	0 - 50	AT	Austria	1	1	995	0	98	0
 Christian Zoll	Vorarlberger Volkspartei	601419393620184	Facebook	0_50	0 - 50	AT	Austria	1	1	995	0	98	0
-bagru GRAS boku	bagru*GRAS*boku	110449662370582	Facebook	0_50	0 - 50	AT	Austria	1	1	995	0	98	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	0_50	0 - 50	AT	Austria	2	1	125	27	0	0
+Laurenz Pöttinger		462537767460195	Facebook	0_50	0 - 50	AT	Austria	1	1	995	0	98	0
+Gerald Loacker	Gerald Loacker	457682787636207	Facebook	0_50	0 - 50	AT	Austria	1	1	995	0	98	0
+European Greens	European Greens	141366725876424	Facebook	0_50	0 - 50	AT	Austria	2	1	629	0	62	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	0_50	0 - 50	AT	Austria	3	1	495	98	1	0
+Renate Holzeisen	Team Köllensperger	840785932926956	Facebook	0_50	0 - 50	AT	Austria	13	1	398	82	0	0
+INA D		47534907213	Facebook	0_50	0 - 50	AT	Austria	1	1	379	0	37	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	0_50	0 - 50	AT	Austria	4	1	281	72	0	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	0_50	0 - 50	AT	Austria	1	1	200	100	0	0
+Aleksander Jevšek	Socialni demokrati (SD)	1459898434295068	Facebook	0_50	0 - 50	AT	Austria	2	1	150	50	2	0
+BÜNDNIS 90/DIE GRÜNEN	BÜNDNIS 90/DIE GRÜNEN	47217143218	Facebook	0_50	0 - 50	AT	Austria	9	1	137	32	4	0
+Ondrej Prostredník • Prostredník medzi Vami a Európou	Progresívne Slovensko	951009345100113	Facebook	0_50	0 - 50	AT	Austria	6	1	107	43	1	0
+Eurozine		115579498521257	Facebook	0_50	0 - 50	AT	Austria	1	1	91	18	1	0
+Jaroslav Paška	Pašková Juliana	480862355305905	Facebook	0_50	0 - 50	AT	Austria	3	1	90	17	0	0
+Paul Köllensperger	Team Koellensperger	779347678751107	Facebook	0_50	0 - 50	AT	Austria	4	1	86	17	0	0
+Zora Jaurová • Progresívne Slovensko	MPhilms o.z.	267456060571592	Facebook	0_50	0 - 50	AT	Austria	4	1	65	30	0	0
 Martin Hojsík • Progresívne Slovensko	Hojsik Martin	147166706140048	Facebook	0_50	0 - 50	AT	Austria	1	1	63	31	0	0
-Magyar Kétfarkú Kutya Párt	Magyar Kétfarkú Kutya Párt	14792493292	Facebook	0_50	0 - 50	AT	Austria	1	1	45	9	0	0
-Lucia Kleštincová	EUpositive.sk	1933440166748185	Facebook	0_50	0 - 50	AT	Austria	1	1	43	8	0	0
-Renate Holzeisen	Team Köllensperger	840785932926956	Facebook	0_50	0 - 50	AT	Austria	2	1	24	12	0	0
-SMER - SD Bratislava V	SMER - SD	1023617851143344	Facebook	0_50	0 - 50	AT	Austria	2	1	11	2	0	0
-Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	0_50	0 - 50	AT	Austria	2	1	9	1	0	0
-GoodJobs	GoodJobs	1004883576238809	Facebook	0_50	0 - 50	AT	Austria	1	1	7	1	0	0
-Aleksander Jevšek	Socialni demokrati (SD)	1459898434295068	Facebook	0_50	0 - 50	AT	Austria	1	1	6	0	0	0
-Zora Jaurová • Progresívne Slovensko	MPhilms o.z.	267456060571592	Facebook	0_50	0 - 50	AT	Austria	1	1	5	1	0	0
+Ne u moje ime		138418753446889	Facebook	0_50	0 - 50	AT	Austria	1	1	61	12	0	0
+Progresívne Slovensko	Progresívne Slovensko	557862947737785	Facebook	0_50	0 - 50	AT	Austria	1	1	60	30	0	0
+Franc Bogovič	Slovenska ljudska stranka (SLS)	288826994603012	Facebook	0_50	0 - 50	AT	Austria	2	1	57	27	0	0
+Magyar Kétfarkú Kutya Párt	Magyar Kétfarkú Kutya Párt	14792493292	Facebook	0_50	0 - 50	AT	Austria	1	1	42	8	0	0
+Tomáš Dentico, váš hlas rešpektovaný v Europarlamente	SPOLU - občianska demokracia	1172318522948253	Facebook	0_50	0 - 50	AT	Austria	2	1	38	14	0	0
+Volt Deutschland	Volt Deutschland	134209407129787	Facebook	0_50	0 - 50	AT	Austria	8	1	33	7	0	0
+SPOLU - občianska demokracia	SPOLU - občianska demokracia	1057020590987528	Facebook	0_50	0 - 50	AT	Austria	3	1	33	12	1	0
+Pirati	Pirati	98358327274	Facebook	0_50	0 - 50	AT	Austria	1	1	27	13	0	0
+Angelika Niebler	Angelika Niebler	183448258342806	Facebook	0_50	0 - 50	AT	Austria	2	1	26	5	0	0
+Demokratikus Koalíció	Demokratikus Koalíció	169599166463839	Facebook	0_50	0 - 50	AT	Austria	2	1	25	12	0	0
+Michal Šimečka • Progresívne Slovensko	Projekt Európa o.z.	194278021265803	Facebook	0_50	0 - 50	AT	Austria	1	1	25	5	0	0
+SMER - SD Bratislava V	SMER - SD	1023617851143344	Facebook	0_50	0 - 50	AT	Austria	5	1	23	4	0	0
+Mojca Erjavec - Ravne	Mojca Erjavec	154346651925224	Facebook	0_50	0 - 50	AT	Austria	2	1	21	5	0	0
+Simone Polesello per il Fvg	Simone Polesello	155754657821240	Facebook	0_50	0 - 50	AT	Austria	2	1	21	5	0	0
+Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	0_50	0 - 50	AT	Austria	3	1	20	8	0	0
+Europe Thinx		335839580440114	Facebook	0_50	0 - 50	AT	Austria	1	1	19	3	0	0
+JU-Kreisverband Deggendorf	Stefan Johann Zitzelsberger	377562525780294	Facebook	0_50	0 - 50	AT	Austria	2	1	19	9	0	0
+Otto Mahlknecht	Otto Mahlknecht 	106077056742524	Facebook	0_50	0 - 50	AT	Austria	1	1	12	6	0	0
+CLAYTON		122493385103	Facebook	0_50	0 - 50	AT	Austria	1	1	10	2	0	0
+GoodJobs	GoodJobs	1004883576238809	Facebook	0_50	0 - 50	AT	Austria	2	1	9	1	0	0
+MN Benito		1273446302821491	Facebook	0_50	0 - 50	AT	Austria	1	1	9	0	0	0
+Free Quran Education		388655174641163	Facebook	0_50	0 - 50	AT	Austria	1	1	8	1	0	0
+Vladimír Bilčík SPOLU - občianska demokracia	SPOLU - občianska demokracia	1501859650125625	Facebook	0_50	0 - 50	AT	Austria	3	1	8	1	0	0
+Hydrogene Technologies Hungary	Nagy Tamás	406305670209771	Facebook	0_50	0 - 50	AT	Austria	2	1	7	2	0	0
+Balahura Milan	Balahura Milan	2307673269493501	Facebook	0_50	0 - 50	AT	Austria	1	1	4	0	0	0
+Dr. Varga-Damm Andrea		319848491555131	Facebook	0_50	0 - 50	AT	Austria	1	1	4	0	0	0
 Landhotel Tannenhof***S		110369589038456	Facebook	0_50	0 - 50	AT	Austria	1	1	4	0	0	0
-Hydrogene Technologies Hungary	Nagy Tamás	406305670209771	Facebook	0_50	0 - 50	AT	Austria	1	1	2	0	0	0
+Ágh Péter	Ágh Péter	694941900537141	Facebook	0_50	0 - 50	AT	Austria	1	1	3	1	0	0
+dom-i-NEEK		260052198180831	Facebook	0_50	0 - 50	AT	Austria	1	1	3	0	0	0
 Alexander Hannes	CSU Kreisverband Regen	287380818788155	Facebook	0_50	0 - 50	AT	Austria	1	1	2	0	0	0
+FDP Oberbayern	Peter Anton Corticelli	285059978218487	Facebook	0_50	0 - 50	AT	Austria	1	1	2	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	0_50	0 - 50	AT	Austria	1	1	2	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	0_50	0 - 50	AT	Austria	1	1	1	0	0	0
+Olga Sehnalová	Olga Sehnalová	474594005906021	Facebook	0_50	0 - 50	AT	Austria	1	1	1	0	0	0
+Nina Nováková	KDU-ČSL	337821749739175	Facebook	0_50	0 - 50	AT	Austria	1	1	1	0	0	0
+ITUC		20556338116	Facebook	0_50	0 - 50	AT	Austria	1	1	1	0	0	0
+Tokyo Weekender		134654693230171	Facebook	0_50	0 - 50	AT	Austria	1	1	1	0	0	0
+Tom MacDonald		212732770186	Facebook	0_50	0 - 50	AT	Austria	1	1	0	0	0	0

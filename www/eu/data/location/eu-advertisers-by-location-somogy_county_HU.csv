@@ -1,34 +1,101 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Fidesz	Fidesz	9844779306	Facebook	somogy_county_HU	Somogy County, Hungary	18	1	97707	44611	439	195
-Momentum Mozgalom	Momentum Mozgalom	592204747588011	Facebook	somogy_county_HU	Somogy County, Hungary	36	1	44544	18518	101	31
-Gyöngyösi Márton	Országgyűlés Hivatala Jobbik Frakció	781030738624077	Facebook	somogy_county_HU	Somogy County, Hungary	4	1	24150	10581	57	28
-Jobbik Magyarországért Mozgalom	Országgyűlés Hivatala Jobbik Frakció	287770891404	Facebook	somogy_county_HU	Somogy County, Hungary	3	1	23225	9898	58	29
-Jakab Péter	Országgyűlés Hivatala Jobbik Frakció	781150971947219	Facebook	somogy_county_HU	Somogy County, Hungary	3	1	15864	7932	44	20
-Cseh Katalin - Momentum	Momentum Mozgalom	682448271826776	Facebook	somogy_county_HU	Somogy County, Hungary	8	1	8001	1999	35	7
-Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	somogy_county_HU	Somogy County, Hungary	8	1	7995	1653	25	5
-Párbeszéd Magyarországért	Párbeszéd Magyarországért	113684438795574	Facebook	somogy_county_HU	Somogy County, Hungary	4	1	7372	2698	16	3
-Dr. Lukács László György	Országgyűlés Hivatala Jobbik Frakció	490006464353222	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	6733	3366	20	10
-European Parliament	European Parliament	178362315106	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	6386	3193	15	3
-Alfahír	Alfahír Hírportál	525574220799452	Facebook	somogy_county_HU	Somogy County, Hungary	5	1	5672	1217	17	3
-Demokratikus Koalíció	Demokratikus Koalíció	169599166463839	Facebook	somogy_county_HU	Somogy County, Hungary	8	1	5582	1513	19	5
-Mi Hazánk Mozgalom		620030171664750	Facebook	somogy_county_HU	Somogy County, Hungary	2	1	3439	687	1	0
-MSZP	MSZP	115388925185513	Facebook	somogy_county_HU	Somogy County, Hungary	3	1	2867	373	7	1
-KDNP és Frakciója	KDNP és Frakciója	230385242742	Facebook	somogy_county_HU	Somogy County, Hungary	22	1	2771	497	7	1
+Fidesz	Fidesz	9844779306	Facebook	somogy_county_HU	Somogy County, Hungary	118	1	779486	343351	3900	1671
+Jobbik Magyarországért Mozgalom	Jobbik Magyarországért Mozgalom	287770891404	Facebook	somogy_county_HU	Somogy County, Hungary	23	1	277129	127354	865	398
+Demokratikus Koalíció	Demokratikus Koalíció	169599166463839	Facebook	somogy_county_HU	Somogy County, Hungary	51	1	269602	74493	829	213
+Momentum Mozgalom	Momentum Mozgalom	592204747588011	Facebook	somogy_county_HU	Somogy County, Hungary	84	1	213415	93338	573	246
+Kálmán Olga Hivatalos oldala	Kálmán Olga Hivatalos oldala	1878531865537365	Facebook	somogy_county_HU	Somogy County, Hungary	108	1	197694	77986	561	208
+MSZP	MSZP	115388925185513	Facebook	somogy_county_HU	Somogy County, Hungary	29	1	159737	65963	477	200
+Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	somogy_county_HU	Somogy County, Hungary	37	1	117842	44180	372	134
+Partizán	Gulyás Márton Ferenc	1406386486355924	Facebook	somogy_county_HU	Somogy County, Hungary	66	1	116360	43738	201	72
+Alfahír	Alfahír Hírportál	525574220799452	Facebook	somogy_county_HU	Somogy County, Hungary	50	1	104432	41857	329	137
+Jakab Péter	Jobbik Magyarországért Mozgalom	781150971947219	Facebook	somogy_county_HU	Somogy County, Hungary	9	1	100144	41659	209	93
+Párbeszéd Magyarországért	Párbeszéd Magyarországért	113684438795574	Facebook	somogy_county_HU	Somogy County, Hungary	24	1	98975	40395	148	52
+European Commission	European Commission	107898832590939	Facebook	somogy_county_HU	Somogy County, Hungary	28	1	94757	45258	375	84
+European Parliament	European Parliament	178362315106	Facebook	somogy_county_HU	Somogy County, Hungary	17	1	82728	35797	325	72
+European Greens	European Greens	141366725876424	Facebook	somogy_county_HU	Somogy County, Hungary	10	1	79332	36202	479	107
+LMP - Lehet Más a Politika	LMP - Lehet Más a Politika	47198507012	Facebook	somogy_county_HU	Somogy County, Hungary	7	1	75379	30517	54	23
+Gyurcsány Ferenc	Demokratikus Koalíció	187301974635606	Facebook	somogy_county_HU	Somogy County, Hungary	21	1	73648	33299	191	86
+Gyöngyösi Márton	Jobbik Magyarországért Mozgalom	781030738624077	Facebook	somogy_county_HU	Somogy County, Hungary	12	1	66205	23062	163	61
+Európai Parlament Tájékoztatási Irodája	Európai Parlament Tájékoztatási Irodája	126893087354793	Facebook	somogy_county_HU	Somogy County, Hungary	29	1	58681	22710	65	24
+Cseh Katalin - Momentum	Momentum Mozgalom	682448271826776	Facebook	somogy_county_HU	Somogy County, Hungary	20	1	57665	21667	155	56
+Dr. Steinmetz Ádám	Jobbik Magyarországért Mozgalom	909857259153313	Facebook	somogy_county_HU	Somogy County, Hungary	2	1	54842	10968	169	33
+Schmuck Erzsébet	LMP - Lehet Más a Politika	1461534750733248	Facebook	somogy_county_HU	Somogy County, Hungary	4	1	40878	16915	41	20
+KDNP és Frakciója	KDNP és Frakciója	230385242742	Facebook	somogy_county_HU	Somogy County, Hungary	43	1	33931	10741	57	16
+Jobbik Ifjúsági Tagozat	Jobbik Magyarországért Mozgalom	129382163754757	Facebook	somogy_county_HU	Somogy County, Hungary	4	1	29162	13123	71	28
+Demeter Márta	LMP - Lehet Más a Politika	1372750529476614	Facebook	somogy_county_HU	Somogy County, Hungary	3	1	27658	12277	28	14
+PestiSracok.hu	PestiSrácok.hu	264517713636590	Facebook	somogy_county_HU	Somogy County, Hungary	15	1	24044	5681	67	16
+Nemzeti Televízió	Alfahír Hírportál	164061553749320	Facebook	somogy_county_HU	Somogy County, Hungary	5	1	18940	9418	33	15
+Csárdi Antal	LMP - Lehet Más a Politika	136387873164491	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	17622	7049	10	5
+Jávor Benedek	Párbeszéd Magyarországért	131797633528377	Facebook	somogy_county_HU	Somogy County, Hungary	16	1	15359	4233	48	10
+Dr. Molnár Csaba	Demokratikus Koalíció	306318386058001	Facebook	somogy_county_HU	Somogy County, Hungary	9	1	14787	4198	54	14
+Magyar Természetvédők Szövetsége- Föld Barátai Magyarország	Magyar Természetvédők Szövetsége- Föld Barátai Magyarország	124991704202615	Facebook	somogy_county_HU	Somogy County, Hungary	7	1	11346	4353	23	5
+Sneider Tamás	Országgyűlés Hivatala Jobbik Frakció	329107800543535	Facebook	somogy_county_HU	Somogy County, Hungary	4	1	9802	3950	35	16
+Semjén Zsolt	Országgyűlés Hivatala KDNP frakció	228731803847927	Facebook	somogy_county_HU	Somogy County, Hungary	9	1	8856	2111	8	4
+Dr. Lukács László György	Jobbik Magyarországért Mozgalom	490006464353222	Facebook	somogy_county_HU	Somogy County, Hungary	3	1	8556	3812	26	11
+Magyar Kétfarkú Kutya Párt	Magyar Kétfarkú Kutya Párt	14792493292	Facebook	somogy_county_HU	Somogy County, Hungary	5	1	8034	2616	8	1
+888.hu	888.hu	748348838626461	Facebook	somogy_county_HU	Somogy County, Hungary	5	1	7802	1560	16	3
+Indítsuk Be Magyarországot Alapítvány	Indítsuk Be Magyarországot Alapítvány	422399638586608	Facebook	somogy_county_HU	Somogy County, Hungary	8	1	7775	2453	45	19
+Dr. Tóth Bertalan	MSZP	1425355697692924	Facebook	somogy_county_HU	Somogy County, Hungary	5	1	7698	2702	27	8
+Bana Tibor	Jobbik Magyarországért Mozgalom	184890488198962	Facebook	somogy_county_HU	Somogy County, Hungary	3	1	7618	1657	17	3
+Alapjogokért Központ	Alapjogokért Központ	594088897289853	Facebook	somogy_county_HU	Somogy County, Hungary	4	1	6532	1306	20	4
+Vágó Gábor	LMP - Lehet Más a Politika	453253875264	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	6171	3085	19	9
+Harrach Péter	Országgyűlés Hivatala KDNP frakció	206160682739388	Facebook	somogy_county_HU	Somogy County, Hungary	8	1	5738	1614	16	4
+Kocsis Máté	Kocsis Máté	149061108240	Facebook	somogy_county_HU	Somogy County, Hungary	7	1	5369	1430	11	3
+Dr. Brenner Koloman	Országgyűlés Hivatala Jobbik Frakció	180924612473518	Facebook	somogy_county_HU	Somogy County, Hungary	3	1	5333	1130	16	3
+Menczer Tamás	Tamás Menczer	2074269302652716	Facebook	somogy_county_HU	Somogy County, Hungary	3	1	4924	984	15	3
+Comedy Central Magyarország	Comedy Central Magyarország	287863594432	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	4860	2430	7	3
+Greenpeace Magyarország	Greenpeace Magyarország	35634348348	Facebook	somogy_county_HU	Somogy County, Hungary	5	1	4479	1641	5	1
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	somogy_county_HU	Somogy County, Hungary	10	1	3905	1531	6	1
+European Free Alliance	European Free Alliance	46708306425	Facebook	somogy_county_HU	Somogy County, Hungary	2	1	3631	1685	20	4
+Szabó Tímea	Párbeszéd Magyarországért	156847374371871	Facebook	somogy_county_HU	Somogy County, Hungary	2	1	3534	706	6	1
+Mi Hazánk Mozgalom		620030171664750	Facebook	somogy_county_HU	Somogy County, Hungary	2	1	3437	687	1	0
+Dúró Dóra	Sipos 	191946490841225	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	3339	1669	10	5
+Stummer János	Országgyűlés Hivatala Jobbik Frakció	134984140045777	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	3228	1614	4	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	somogy_county_HU	Somogy County, Hungary	3	1	2998	1450	3	0
+Mága Zoltán hegedűművész		164762586881530	Facebook	somogy_county_HU	Somogy County, Hungary	2	1	2938	587	5	1
+Ökopolisz Alapítvány	Ökopolisz Alapítvány	244669668913278	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	2705	1352	8	4
+Nacsa Lőrinc	Nacsa Lőrinc	959798297495473	Facebook	somogy_county_HU	Somogy County, Hungary	4	1	2600	520	8	1
+Magyar Zoltán	Országgyűlés Hivatala Jobbik Frakció	281527466391	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	2228	445	1	0
+aHang	aHang	150836998898897	Facebook	somogy_county_HU	Somogy County, Hungary	9	1	2129	983	18	4
+Kádár Gábor	Párbeszéd Magyarországért	734724533343964	Facebook	somogy_county_HU	Somogy County, Hungary	3	1	1912	375	5	1
 Dr. Szoboszlay György Csaba, közszereplő, LMP	Szoboszlay György Csaba	202727753244884	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	1893	378	5	1
-Indítsuk Be Magyarországot Alapítvány	Indítsuk Be Magyarországot Alapítvány	422399638586608	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	938	187	2	0
-Gyurcsány Ferenc	Demokratikus Koalíció	187301974635606	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	766	153	2	0
-Semjén Zsolt	Országgyűlés Hivatala KDNP frakció	228731803847927	Facebook	somogy_county_HU	Somogy County, Hungary	4	1	657	236	1	0
-Jávor Benedek	Párbeszéd Magyarországért	131797633528377	Facebook	somogy_county_HU	Somogy County, Hungary	4	1	593	110	2	0
-Partizán	Gulyás Márton Ferenc	1406386486355924	Facebook	somogy_county_HU	Somogy County, Hungary	14	1	418	0	0	0
+Political Capital (HU)	Political Capital (HU)	115230488549915	Facebook	somogy_county_HU	Somogy County, Hungary	2	1	1837	367	5	1
+Magyar Munkáspárt	Magyar Munkáspárt	447556782025193	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	1767	353	5	1
+Z. Kárpát Dániel	Jobbik Magyarországért Mozgalom	208726209161904	Facebook	somogy_county_HU	Somogy County, Hungary	2	1	1738	337	5	1
+Dr. Keresztes László Lóránt	LMP - Lehet Más a Politika	132593883577930	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	1726	345	5	1
+K-Monitor	K-Monitor	170834092937469	Facebook	somogy_county_HU	Somogy County, Hungary	2	1	1684	425	1	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	somogy_county_HU	Somogy County, Hungary	3	1	1492	701	2	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	somogy_county_HU	Somogy County, Hungary	9	1	1437	663	2	0
+DK Nagykanizsa	Demokratikus Koalíció	704399322958470	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	1398	279	4	0
+ÉFOÉSZ Központ	Nati Kovács	1510195069274380	Facebook	somogy_county_HU	Somogy County, Hungary	3	1	1392	362	8	1
+Momentum TizenX	Momentum Mozgalom	1992543104404776	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	1153	230	3	0
+Amnesty International Magyarország	Amnesty International Magyarország	44847086574	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	1067	213	0	0
+A kiló nem százat jelent.	Antlfinger Edvárd	172924162721825	Facebook	somogy_county_HU	Somogy County, Hungary	5	1	817	297	8	1
+MSZP Nyíregyháza	MSZP	740771415954618	Facebook	somogy_county_HU	Somogy County, Hungary	4	1	718	322	0	0
+II. kerületi Fidesz	II. Kerületi Fidesz	1936388216579939	Facebook	somogy_county_HU	Somogy County, Hungary	2	1	577	243	1	0
+Hydrogene Technologies Hungary	Nagy Tamás	406305670209771	Facebook	somogy_county_HU	Somogy County, Hungary	2	1	561	221	0	0
+Székely Sándor, a Szolidaritás országgyűlési képviselője	SZOLIDARITÁS	1560795780732708	Facebook	somogy_county_HU	Somogy County, Hungary	3	1	419	81	1	0
+Ádám Kósa Mep	Adam Kosa, Member of the European Parliament	237088069704442	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	412	206	1	0
+Szanyi Tibor		212006518894490	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	358	179	0	0
 Polkorrekt		345406462731106	Facebook	somogy_county_HU	Somogy County, Hungary	2	1	353	70	2	1
-Harrach Péter	Országgyűlés Hivatala KDNP frakció	206160682739388	Facebook	somogy_county_HU	Somogy County, Hungary	5	1	337	37	1	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	somogy_county_HU	Somogy County, Hungary	4	1	305	132	0	0
-Hydrogene Technologies Hungary	Nagy Tamás	406305670209771	Facebook	somogy_county_HU	Somogy County, Hungary	2	1	241	38	0	0
-Kádár Gábor	Párbeszéd Magyarországért	734724533343964	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	178	35	0	0
-Political Capital (HU)	Political Capital (HU)	115230488549915	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	174	34	0	0
-Kocsis Máté	Kocsis Máté	149061108240	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	161	32	0	0
-European Commission	European Commission	107898832590939	Facebook	somogy_county_HU	Somogy County, Hungary	2	1	146	73	0	0
-A kiló nem százat jelent.	Antlfinger Edvárd	172924162721825	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	88	17	0	0
-MSZP Nyíregyháza	MSZP	740771415954618	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	85	17	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	somogy_county_HU	Somogy County, Hungary	2	1	76	23	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	somogy_county_HU	Somogy County, Hungary	5	1	324	133	1	0
+Europe Thinx		335839580440114	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	320	64	0	0
+Fekete-Győr András	Momentum Mozgalom	128573907819549	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	310	155	0	0
+Centre for Euro-Atlantic Integration and Democracy	Centre for Euro-Atlantic Integration and Democracy	260922190745812	Facebook	somogy_county_HU	Somogy County, Hungary	3	1	284	53	0	0
+Herczeg Tamás	Nagy Sándor	292787761246129	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	278	139	0	0
+Tégy az abortusz ellen	Karácsonyi Zoltán	200615179974476	Facebook	somogy_county_HU	Somogy County, Hungary	2	1	235	35	0	0
+Donáth Anna Júlia	Momentum Mozgalom	294815374340858	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	175	87	0	0
+Promotions.hu	Promotions.hu	780542761958375	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	174	34	0	0
+Karácsony Gergely	Párbeszéd Magyarországért	193944440638410	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	173	34	0	0
+LMP Tolna megye	LMP - Lehet Más a Politika	507090339333245	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	131	65	0	0
+Mérce		85568463466	Facebook	somogy_county_HU	Somogy County, Hungary	2	1	65	0	5	0
+ETUC		129041250601685	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	63	12	0	0
+Györgyey János	Györgyey János	1263261490396127	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	37	0	0	0
+Privátbankár.hu	Privátbankár.hu	10150143942470099	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	36	0	0	0
+Turbók János		117416418915735	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	28	0	0	0
+MSZP Budapest	MSZP Budapest	414715951917446	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	12	0	0	0
 European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	12	6	0	0
+Marijana Petir	Marijana Petir	1418903245032313	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	9	1	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	somogy_county_HU	Somogy County, Hungary	2	1	2	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	1	0	0	0
+ITUC		20556338116	Facebook	somogy_county_HU	Somogy County, Hungary	1	1	1	0	0	0

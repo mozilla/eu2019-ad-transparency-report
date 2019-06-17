@@ -1,38 +1,188 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Avaaz	Avaaz	8340223883	Facebook	cataluna_ES	Cataluña, Spain	9	1	444719	174791	744	197
-Esquerra Republicana de Catalunya	Esquerra Republicana de Catalunya	150234575797	Facebook	cataluna_ES	Cataluña, Spain	18	1	162982	67000	2182	100
-En Comú Podem	En Comú Podem	463627663844039	Facebook	cataluna_ES	Cataluña, Spain	2	1	99998	20000	998	200
-European Parliament	European Parliament	178362315106	Facebook	cataluna_ES	Cataluña, Spain	1	1	78777	31511	157	78
-Esquerra Barcelona	Esquerra Barcelona	374070875952519	Facebook	cataluna_ES	Cataluña, Spain	4	1	74996	21000	396	0
-Barcelona en Comú	Barcelona en Comú	247118052078814	Facebook	cataluna_ES	Cataluña, Spain	3	1	69997	20000	697	100
-Todos a una per L'Hospitalet	PSC Partit dels  Socialistes de Catalunya	946528468690932	Facebook	cataluna_ES	Cataluña, Spain	2	1	59998	15000	198	0
-Reacciona y Actúa	Actúa 	1916676245053161	Facebook	cataluna_ES	Cataluña, Spain	15	1	42637	12182	136	0
-PACMA - Partido Animalista	PACMA - Partido Animalista	72181181684	Facebook	cataluna_ES	Cataluña, Spain	2	1	28366	12102	67	10
-Instituto Internacional de Derecho y Medio Ambiente (IIDMA)	Laura Fernández Dobarro	219220477095	Facebook	cataluna_ES	Cataluña, Spain	2	1	22714	4543	44	0
-Markel Olano	EAJ-PNV	898191063533170	Facebook	cataluna_ES	Cataluña, Spain	1	1	10317	5158	51	10
-Guanyem Badalona en Comú	Esquerra Republicana de Catalunya	445003612308437	Facebook	cataluna_ES	Cataluña, Spain	1	1	9999	5000	99	0
-Anna Erra	Partit Demòcrata	358953041585237	Facebook	cataluna_ES	Cataluña, Spain	2	1	9998	2000	198	0
-Compromís	Compromís	194053080624605	Facebook	cataluna_ES	Cataluña, Spain	1	1	9990	1998	99	19
-Lourdes Ciuró	Partit Demòcrata	553752911726041	Facebook	cataluna_ES	Cataluña, Spain	5	1	8995	1000	495	0
-Izquierda Nacional de los Trabajadores - INTRA -  Figueres	Jaime Farrerons Sanchez	398513670329567	Facebook	cataluna_ES	Cataluña, Spain	2	1	5998	1000	198	0
-Partit Demòcrata Palafrugell	Partit Demòcrata	1519791624941798	Facebook	cataluna_ES	Cataluña, Spain	1	1	4999	1000	99	0
-Jaume Dulsat	Partit Demòcrata	815191145191798	Facebook	cataluna_ES	Cataluña, Spain	1	1	4999	1000	99	0
-Miquel Noguer	Partit Demòcrata	894210980661764	Facebook	cataluna_ES	Cataluña, Spain	1	1	4999	1000	99	0
-Junts Pel Vendrell	Partit Demòcrata	835384499831767	Facebook	cataluna_ES	Cataluña, Spain	1	1	4999	1000	99	0
-European Commission	European Commission	107898832590939	Facebook	cataluna_ES	Cataluña, Spain	2	1	3455	1727	8	1
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	cataluna_ES	Cataluña, Spain	4	1	2742	804	6	0
-Puyalón de Cuchas	Puyalon de Cuchas	265047063604121	Facebook	cataluna_ES	Cataluña, Spain	1	1	2016	403	39	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	cataluna_ES	Cataluña, Spain	1	1	1814	907	4	0
-Esquerra d'Amposta	Esquerra Republicana	716042308461017	Facebook	cataluna_ES	Cataluña, Spain	1	1	999	0	99	0
-Carles Ruiz Novella	Partit dels Socialistes de Catalunya	157520837699129	Facebook	cataluna_ES	Cataluña, Spain	1	1	999	0	99	0
-Junts per l'Ametlla de Mar	Partit Demòcrata	644189849026398	Facebook	cataluna_ES	Cataluña, Spain	1	1	999	0	99	0
-Junts per Catalunya	Junts per Catalunya	386166375144833	Facebook	cataluna_ES	Cataluña, Spain	1	1	999	0	99	0
-Junts per Catalunya - Vidreres	Partit Demòcrata Vidreres	265760857701334	Facebook	cataluna_ES	Cataluña, Spain	1	1	999	0	99	0
+Esquerra Republicana de Catalunya	Esquerra Republicana de Catalunya	150234575797	Facebook	cataluna_ES	Cataluña, Spain	143	1	6176857	2409000	45157	8000
+Esquerra Barcelona	Esquerra Barcelona	374070875952519	Facebook	cataluna_ES	Cataluña, Spain	38	1	3420962	1409000	28762	6400
+Psc Barcelona	PSC Partit dels  Socialistes de Catalunya	439957149400799	Facebook	cataluna_ES	Cataluña, Spain	24	1	2555976	1061000	40776	9900
+Junts per Catalunya	Junts per Catalunya	386166375144833	Facebook	cataluna_ES	Cataluña, Spain	21	1	1620979	630000	10479	3200
+PSOE		189318235003	Facebook	cataluna_ES	Cataluña, Spain	14	1	1499986	550000	2586	300
+Avaaz	Avaaz	8340223883	Facebook	cataluna_ES	Cataluña, Spain	53	1	1256870	512056	6277	1554
+Ciudadanos	Ciudadanos	74078667754	Facebook	cataluna_ES	Cataluña, Spain	19	1	1236019	570977	11825	3771
+Podemos	UNIDAS PODEMOS CAMBIAR EUROPA	269212336568846	Facebook	cataluna_ES	Cataluña, Spain	14	1	1097930	528924	18520	4258
+European Parliament	European Parliament	178362315106	Facebook	cataluna_ES	Cataluña, Spain	16	1	1053340	464126	7296	1529
+European Free Alliance	European Free Alliance	46708306425	Facebook	cataluna_ES	Cataluña, Spain	4	1	828075	333254	8595	1719
+Barcelona en Comú	Barcelona en Comú	247118052078814	Facebook	cataluna_ES	Cataluña, Spain	35	1	696965	155000	8665	1300
+Greenpeace España	Greenpeace España	133044800622	Facebook	cataluna_ES	Cataluña, Spain	75	1	560169	196685	2219	245
+SEO/BirdLife	SEO/BirdLife	70020937349	Facebook	cataluna_ES	Cataluña, Spain	42	1	529398	201820	1798	367
+PACMA - Partido Animalista	PACMA - Partido Animalista	72181181684	Facebook	cataluna_ES	Cataluña, Spain	9	1	528899	251122	993	411
+Álex Pastor	PSC Badalona	2053966338189807	Facebook	cataluna_ES	Cataluña, Spain	31	1	488969	102000	4669	400
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	cataluna_ES	Cataluña, Spain	33	1	460815	182676	1503	249
+En Comú Podem	En Comú Podem	463627663844039	Facebook	cataluna_ES	Cataluña, Spain	5	1	404995	171000	2095	400
+Reacciona y Actúa	Actúa 	1916676245053161	Facebook	cataluna_ES	Cataluña, Spain	29	1	274045	118808	687	96
+Dídac Nadal Abad	Partit Demòcrata Europeu Català	876740939186071	Facebook	cataluna_ES	Cataluña, Spain	6	1	259994	55000	594	0
+European Greens	European Greens	141366725876424	Facebook	cataluna_ES	Cataluña, Spain	3	1	244067	120902	1275	604
+Jordi Graupera Garcia-Milà		2150908641840958	Facebook	cataluna_ES	Cataluña, Spain	1	1	199999	100000	499	100
+Junts per Vilafranca	Junts per Vilafranca	1160033834115342	Facebook	cataluna_ES	Cataluña, Spain	11	1	191989	44000	2289	300
+Pablo Iglesias	Unidas Podemos	414809308591481	Facebook	cataluna_ES	Cataluña, Spain	1	1	167399	83700	836	167
+Toni Postius	Partit Demòcrata Lleida	1590048664636534	Facebook	cataluna_ES	Cataluña, Spain	13	1	151980	32998	1686	100
+Guanyem Badalona en Comú	Esquerra Republicana de Catalunya	445003612308437	Facebook	cataluna_ES	Cataluña, Spain	3	1	149997	30000	297	0
+Izquierda Nacional de los Trabajadores - INTRA -  Figueres	Jaime Farrerons Sanchez	398513670329567	Facebook	cataluna_ES	Cataluña, Spain	3	1	149997	30000	1497	300
+Partido Por un Mundo más Justo · M+J	Partido Por un Mundo más Justo · M+J	147468905314265	Facebook	cataluna_ES	Cataluña, Spain	8	1	144044	55390	1382	303
+Partido Socialista Europeo	Partido Socialista Europeo	442423976113917	Facebook	cataluna_ES	Cataluña, Spain	17	1	142075	57300	479	70
+Anna Erra	Partit Demòcrata	358953041585237	Facebook	cataluna_ES	Cataluña, Spain	8	1	139992	34000	792	0
+Amnistía Internacional España		78151799929	Facebook	cataluna_ES	Cataluña, Spain	1	1	139416	55766	1393	278
+Junts per Catalunya - Girona	OKMarketing	942049819146312	Facebook	cataluna_ES	Cataluña, Spain	7	1	131993	35000	1493	200
+Eduard Vallhonesta2019	Eduard Vallhonesta Alarcon	2146850768970550	Facebook	cataluna_ES	Cataluña, Spain	3	1	109997	52000	697	100
+Todos a una per L'Hospitalet	PSC Partit dels  Socialistes de Catalunya	946528468690932	Facebook	cataluna_ES	Cataluña, Spain	4	1	109996	22000	796	100
+Ciutats per la democràcia		2316658411949319	Facebook	cataluna_ES	Cataluña, Spain	3	1	100997	20000	1097	200
+Javi López	Javi López	370863946442242	Facebook	cataluna_ES	Cataluña, Spain	12	1	73486	25536	609	0
+Instituto Internacional de Derecho y Medio Ambiente (IIDMA)	Laura Fernández Dobarro	219220477095	Facebook	cataluna_ES	Cataluña, Spain	3	1	71335	35667	250	46
+Jaume Buscallà	Partit Demòcrata	302376660418671	Facebook	cataluna_ES	Cataluña, Spain	4	1	65996	16000	396	0
+Marc Solsona Aixalà	Partit Demòcrata Mollerussa	232946340978514	Facebook	cataluna_ES	Cataluña, Spain	13	1	61987	15000	1287	0
+Vallsbcn2019		523998741449240	Facebook	cataluna_ES	Cataluña, Spain	3	1	55997	11000	297	0
+Josep Llopart i Gardela #Piera57km	Partit Demòcrata	825969297509684	Facebook	cataluna_ES	Cataluña, Spain	11	1	55989	14000	1089	0
+PSC Partit dels  Socialistes de Catalunya	PSC Partit dels  Socialistes de Catalunya	87930687376	Facebook	cataluna_ES	Cataluña, Spain	2	1	54998	11000	598	100
+Parlament Europeu a Barcelona	Parlament Europeu a Barcelona	134590246581400	Facebook	cataluna_ES	Cataluña, Spain	2	1	54998	11000	198	0
+Volt España	Volt Europa España	2112231695664686	Facebook	cataluna_ES	Cataluña, Spain	11	1	53018	15046	132	0
+Esquerra d'Amposta	Esquerra Republicana	716042308461017	Facebook	cataluna_ES	Cataluña, Spain	9	1	50991	16000	891	0
+BCN 2019: Volem un govern independentista		1667699733347144	Facebook	cataluna_ES	Cataluña, Spain	1	1	49999	10000	99	0
+El Vapor		1443676492396617	Facebook	cataluna_ES	Cataluña, Spain	1	1	49999	10000	499	100
+Primàries Cambrils		386403462096635	Facebook	cataluna_ES	Cataluña, Spain	1	1	49999	10000	99	0
+Junts per Terrassa	Partit Demòcrata Terrassa	149771515164339	Facebook	cataluna_ES	Cataluña, Spain	1	1	49999	10000	99	0
+Catalunya Actúa		298907624088541	Facebook	cataluna_ES	Cataluña, Spain	1	1	49999	10000	99	0
+Cs Granollers		198673450153013	Facebook	cataluna_ES	Cataluña, Spain	1	1	49999	10000	499	100
+Jaume Dulsat	Partit Demòcrata	815191145191798	Facebook	cataluna_ES	Cataluña, Spain	1	1	49999	10000	99	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	cataluna_ES	Cataluña, Spain	23	1	48269	17281	129	13
+PP de Martorell	Jose Maria Arpal Ruiz	824852750922117	Facebook	cataluna_ES	Cataluña, Spain	16	1	47984	8000	1584	0
+Carles Ruiz Novella	Partit dels Socialistes de Catalunya	157520837699129	Facebook	cataluna_ES	Cataluña, Spain	5	1	44995	21000	495	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	cataluna_ES	Cataluña, Spain	3	1	44337	21759	38	6
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	cataluna_ES	Cataluña, Spain	3	1	43078	21441	126	21
+Pere Granados, l’alcalde, Sumem per Salou	FUPS	1427116254248859	Facebook	cataluna_ES	Cataluña, Spain	9	1	41991	11000	891	0
+Castelldefels Si Puede /Si Pot	Som Castelldefels	924258124258421	Facebook	cataluna_ES	Cataluña, Spain	10	1	41990	8000	990	0
+Plan International España	Jose Manuel Bran Garcia	366619768708	Facebook	cataluna_ES	Cataluña, Spain	3	1	41495	18107	111	15
+Miquel Noguer	Partit Demòcrata	894210980661764	Facebook	cataluna_ES	Cataluña, Spain	6	1	39994	14000	594	0
+Partit Demòcrata Palafrugell	Partit Demòcrata	1519791624941798	Facebook	cataluna_ES	Cataluña, Spain	8	1	39992	8000	792	0
+Fundación Anesvad	Jose Manuel Bran Garcia	131231529742	Facebook	cataluna_ES	Cataluña, Spain	12	1	39495	9981	211	0
+Somos Miel		363084687812526	Facebook	cataluna_ES	Cataluña, Spain	6	1	38567	11903	332	64
+Rosa Maria Perelló Escoda	Partit Demòcrata	288257115198192	Facebook	cataluna_ES	Cataluña, Spain	6	1	34994	10000	594	0
+David Font	Partit Demòcrata	359856057946638	Facebook	cataluna_ES	Cataluña, Spain	14	1	33986	5000	1386	0
+Entreculturas	Jose Manuel Bran Garcia	45817335745	Facebook	cataluna_ES	Cataluña, Spain	6	1	32721	12895	111	0
+Ayuda En Acción	Ayuda En Acción	245741112112300	Facebook	cataluna_ES	Cataluña, Spain	29	1	31894	5391	636	16
+Som VNG	Som VNG	435703536588064	Facebook	cataluna_ES	Cataluña, Spain	4	1	30996	15000	396	0
+Primaries Lliçà d'Amunt	Lliçà per la República	2225135660883578	Facebook	cataluna_ES	Cataluña, Spain	7	1	30993	6000	693	0
+CicloZero.com	Raquel Del Val Villaverde	228274408053486	Facebook	cataluna_ES	Cataluña, Spain	4	1	30584	12219	36	0
+Pep Berga Vayreda	Junts per Catalunya Olot	409193516309406	Facebook	cataluna_ES	Cataluña, Spain	5	1	29995	9000	495	0
+Lourdes Ciuró	Partit Demòcrata	553752911726041	Facebook	cataluna_ES	Cataluña, Spain	5	1	29995	9000	495	0
+SJM España	SJM España	468787443245721	Facebook	cataluna_ES	Cataluña, Spain	3	1	28980	12483	124	0
+Compromís	Compromís	194053080624605	Facebook	cataluna_ES	Cataluña, Spain	2	1	27018	5403	269	54
+Més Per Menorca	Més per Menorca	787267558020320	Facebook	cataluna_ES	Cataluña, Spain	11	1	25720	6477	465	0
+Isidre Casas, Junts per Gavà	Partit Demòcrata Gavà	2298526023531479	Facebook	cataluna_ES	Cataluña, Spain	4	1	24996	8000	396	0
+Anna Magrinyà	Partit Demòcrata Europeu Català	301793433818687	Facebook	cataluna_ES	Cataluña, Spain	5	1	24995	5000	495	0
+Xavier Amate, Junts per Castelldefels	Partit Demòcrata	1375311502799544	Facebook	cataluna_ES	Cataluña, Spain	5	1	24995	5000	495	0
+Junts per l'Ametlla de Mar	Partit Demòcrata	644189849026398	Facebook	cataluna_ES	Cataluña, Spain	5	1	20995	4000	495	0
+Junts Pel Vendrell	Partit Demòcrata	835384499831767	Facebook	cataluna_ES	Cataluña, Spain	3	1	19997	7000	297	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	cataluna_ES	Cataluña, Spain	2	1	17198	3984	34	0
+Marc Vinya Miralles	Partit Demòcrata Montblanc	1855728601181022	Facebook	cataluna_ES	Cataluña, Spain	3	1	15997	6000	297	0
+Parlamento Europeo - Oficina en España	Parlamento Europeo - Oficina en España	161616883888862	Facebook	cataluna_ES	Cataluña, Spain	3	1	15593	3118	30	0
+Junts x Sant Vicenç	Esquerra Republicana de Catalunya	275186479231800	Facebook	cataluna_ES	Cataluña, Spain	2	1	14998	6000	198	0
+Psc Sant Adrià	PSC Barcelonès Nord	1712312002322208	Facebook	cataluna_ES	Cataluña, Spain	2	1	14998	6000	198	0
+Montserrat Candini	Partit Demòcrata	397244293705295	Facebook	cataluna_ES	Cataluña, Spain	3	1	14997	3000	297	0
+Junts per Gandesa	Partit Demòcrata	389273491901391	Facebook	cataluna_ES	Cataluña, Spain	3	1	14997	3000	297	0
+Junts Per Catalunya-Malgrat ens Mou	Junts Per Catalunya	199450580178883	Facebook	cataluna_ES	Cataluña, Spain	10	1	13990	1000	990	0
+SOS Colabora		351877478951783	Facebook	cataluna_ES	Cataluña, Spain	4	1	13786	2757	80	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	cataluna_ES	Cataluña, Spain	3	1	11183	5287	25	6
+Markel Olano	EAJ-PNV	898191063533170	Facebook	cataluna_ES	Cataluña, Spain	1	1	10296	5148	51	10
+Comuns Verds de Sitges		1890647804336621	Facebook	cataluna_ES	Cataluña, Spain	1	1	9999	5000	99	0
+Núvol, digital de cultura		267615613304147	Facebook	cataluna_ES	Cataluña, Spain	1	1	9999	5000	99	0
+Héctor Amelló		517387635446621	Facebook	cataluna_ES	Cataluña, Spain	1	1	9999	5000	99	0
+Roberto Martin		629381480868076	Facebook	cataluna_ES	Cataluña, Spain	1	1	9999	5000	99	0
+Junts per Catalunya - Vidreres	Partit Demòcrata Vidreres	265760857701334	Facebook	cataluna_ES	Cataluña, Spain	2	1	9998	2000	198	0
+Junts per Alcanar, Les Cases i Alcanar Platja	Partit Demòcrata Alcanar	347855422067565	Facebook	cataluna_ES	Cataluña, Spain	2	1	9998	2000	198	0
+PSC Santa Coloma de Gramenet	PSC Barcelonè Nord	374309346062173	Facebook	cataluna_ES	Cataluña, Spain	2	1	9998	2000	198	0
+Alejandro Langtry	Alejandro Langtry Cainzos	876647346005514	Facebook	cataluna_ES	Cataluña, Spain	2	1	9123	1824	97	16
+Compromiso por Europa	Compromís	373604602781028	Facebook	cataluna_ES	Cataluña, Spain	2	1	8323	1664	48	0
+Quim Nin	PDeCAT	359619161334700	Facebook	cataluna_ES	Cataluña, Spain	4	1	7996	1000	396	0
+Pablo Fernández		800470050043391	Facebook	cataluna_ES	Cataluña, Spain	1	1	7761	1552	15	0
+Cs Huesca	Ciudadanos Aragón	406590509518850	Facebook	cataluna_ES	Cataluña, Spain	1	1	7419	1484	14	0
+Junts per Torrefarrera	Partit Demòcrata Torrefarrera	314789169229836	Facebook	cataluna_ES	Cataluña, Spain	3	1	6997	1000	297	0
+Chunta Aragonesista		101179693581	Facebook	cataluna_ES	Cataluña, Spain	4	1	6110	1233	12	0
+Rosa Huguet Sugranyes	Partit Demòcrata	867202106659120	Facebook	cataluna_ES	Cataluña, Spain	2	1	5998	1000	198	0
+Junts Per Bellpuig	Partit Demòcrata	362449257697614	Facebook	cataluna_ES	Cataluña, Spain	1	1	4999	1000	99	0
+Núria Parlon Gil	PSC Barcelonès Nord	214337925386767	Facebook	cataluna_ES	Cataluña, Spain	1	1	4999	1000	99	0
+Socialistes De Montgat	PSC Barcelonès Nord	1668752900076447	Facebook	cataluna_ES	Cataluña, Spain	1	1	4999	1000	99	0
+JuntsxCat - Olesa		187039135375342	Facebook	cataluna_ES	Cataluña, Spain	1	1	4999	1000	99	0
+JUNTS PER SALT	Partit Demòcrata	335382510345214	Facebook	cataluna_ES	Cataluña, Spain	1	1	4999	1000	99	0
+Podem/Podemos El Vendrell		472875336186577	Facebook	cataluna_ES	Cataluña, Spain	1	1	4999	1000	99	0
+Compromís per Constantí		573262649853476	Facebook	cataluna_ES	Cataluña, Spain	1	1	4999	1000	99	0
+Podemos Sant Cugat del Vallès		723597814374268	Facebook	cataluna_ES	Cataluña, Spain	1	1	4999	1000	99	0
+San Joan de les Abadesses, Un Pueblo Fénix		154492497925927	Facebook	cataluna_ES	Cataluña, Spain	1	1	4999	1000	99	0
+estergallego_somcatalans		569769910184754	Facebook	cataluna_ES	Cataluña, Spain	1	1	4999	1000	99	0
+Junts per Cervera	Partit Demòcrata	2351662581778293	Facebook	cataluna_ES	Cataluña, Spain	1	1	4999	1000	99	0
+Junts per Catalunya - El Palau d'Anglesola	Partit Demòcrata	578111999343419	Facebook	cataluna_ES	Cataluña, Spain	5	1	4995	0	495	0
+Podemos Aragón	Podemos Equo	570770963015441	Facebook	cataluna_ES	Cataluña, Spain	1	1	4610	2305	45	0
+European Commission	European Commission	107898832590939	Facebook	cataluna_ES	Cataluña, Spain	3	1	4516	2089	10	1
+Recortes Cero	Recortes Cero	655009961299527	Facebook	cataluna_ES	Cataluña, Spain	1	1	4273	854	8	0
+Cambiemos Orihuela	Cambiemos Orihuela - CLARO: Unidas Podemos	341229742754620	Facebook	cataluna_ES	Cataluña, Spain	1	1	4132	826	8	0
+JUNTS x TU	Partit Demòcrata	363094261078452	Facebook	cataluna_ES	Cataluña, Spain	4	1	3996	0	396	0
+PSOE Aragón	PSOE Aragón	170970449608409	Facebook	cataluna_ES	Cataluña, Spain	98	1	3856	22	373	0
+VOX España		467127060059387	Facebook	cataluna_ES	Cataluña, Spain	8	1	3374	751	14	0
+Partido por la Igualdad Real	Partido por la Igualdad Real	1981091215462211	Facebook	cataluna_ES	Cataluña, Spain	3	1	3052	1368	35	0
+Junts Per Ribera d'Ondara	Partit Demòcrata	302378097325025	Facebook	cataluna_ES	Cataluña, Spain	3	1	2997	0	297	0
+Puyalón de Cuchas	Puyalon de Cuchas	265047063604121	Facebook	cataluna_ES	Cataluña, Spain	3	1	2173	434	43	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	cataluna_ES	Cataluña, Spain	5	1	2150	757	8	0
+Junts per Seròs	Partit Demòcrata	138839250158159	Facebook	cataluna_ES	Cataluña, Spain	2	1	1998	0	198	0
+PODEM Llucmajor	Eduardo Eugenio Zúñiga Solari	1414978035452905	Facebook	cataluna_ES	Cataluña, Spain	3	1	1943	388	38	0
+SALOU 2019 #Ilusiónatesalou		322855728579134	Facebook	cataluna_ES	Cataluña, Spain	1	1	1862	931	18	0
+UNRWA España		105664031745	Facebook	cataluna_ES	Cataluña, Spain	8	1	1830	0	181	0
+Ciudadanos Aragón	Ciudadanos Aragón	246074155529623	Facebook	cataluna_ES	Cataluña, Spain	1	1	1795	359	3	0
+IU Aragón	IU Aragón	178663732095	Facebook	cataluna_ES	Cataluña, Spain	1	1	1185	592	11	0
+Wicker Brand	Wicker Brand	286043659015983	Facebook	cataluna_ES	Cataluña, Spain	3	1	1096	158	45	0
+Carmen Boó	Carmen Boo Fernandez De Castro	1568543866490015	Facebook	cataluna_ES	Cataluña, Spain	1	1	999	0	99	0
+Vuelos Sudamerica		415911902545854	Facebook	cataluna_ES	Cataluña, Spain	1	1	999	0	99	0
+Junts per Anglesola	Partit Demòcrata Anglesola	350159385602154	Facebook	cataluna_ES	Cataluña, Spain	1	1	999	0	99	0
+PSC L'Hospitalet	PSC Partit dels  Socialistes de Catalunya	357197854367165	Facebook	cataluna_ES	Cataluña, Spain	1	1	999	0	99	0
+SOM-Ripoll		1942240929146630	Facebook	cataluna_ES	Cataluña, Spain	1	1	999	0	99	0
+Lloret En Comú		1620153724870168	Facebook	cataluna_ES	Cataluña, Spain	1	1	999	0	99	0
+Socialistes de Collbató		326655204373101	Facebook	cataluna_ES	Cataluña, Spain	1	1	999	0	99	0
+Junts per Sant Andreu		578502982250915	Facebook	cataluna_ES	Cataluña, Spain	1	1	999	0	99	0
+Joan Martin Puntada		602181560206751	Facebook	cataluna_ES	Cataluña, Spain	1	1	999	0	99	0
 SITGES GRUP INDEPENDENT		315721953707	Facebook	cataluna_ES	Cataluña, Spain	1	1	999	0	99	0
-Primaries Lliçà d'Amunt	Lliçà per la República	2225135660883578	Facebook	cataluna_ES	Cataluña, Spain	1	1	999	0	99	0
-Junts per Torrefarrera	Partit Demòcrata Torrefarrera	314789169229836	Facebook	cataluna_ES	Cataluña, Spain	1	1	999	0	99	0
-Pep Berga Vayreda	Junts per Catalunya Olot	409193516309406	Facebook	cataluna_ES	Cataluña, Spain	1	1	999	0	99	0
-PSOE Aragón	PSOE Aragón	170970449608409	Facebook	cataluna_ES	Cataluña, Spain	31	1	908	0	90	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	cataluna_ES	Cataluña, Spain	2	1	501	121	1	0
-IU Aragón	IU Aragón	178663732095	Facebook	cataluna_ES	Cataluña, Spain	1	1	500	100	9	0
+Bruno Sanchez-Andrade Nuño	Bruno Sánchez-Andrade Nuño	577736392709846	Facebook	cataluna_ES	Cataluña, Spain	1	1	888	177	17	0
+TSJ con Venezuela		852951178385826	Facebook	cataluna_ES	Cataluña, Spain	1	1	608	121	10	0
+QuorumGlobal		375162949584552	Facebook	cataluna_ES	Cataluña, Spain	1	1	589	117	11	0
+Podemos ganar Ávila		556953581118337	Facebook	cataluna_ES	Cataluña, Spain	1	1	557	111	11	0
+Gabriela Mirescu		2618888988127707	Facebook	cataluna_ES	Cataluña, Spain	4	1	522	227	9	0
+Tulfo & Piltri	Carolina Carratala Camps	113875629284677	Facebook	cataluna_ES	Cataluña, Spain	1	1	513	102	10	0
+CRIF		395919323779707	Facebook	cataluna_ES	Cataluña, Spain	1	1	509	254	2	0
+IU Cieza		347850745372218	Facebook	cataluna_ES	Cataluña, Spain	1	1	499	99	9	0
+ETUC		129041250601685	Facebook	cataluna_ES	Cataluña, Spain	1	1	481	96	4	0
+No es política, Es Seseña	Partido Popular Seseña	207541725927600	Facebook	cataluna_ES	Cataluña, Spain	4	1	476	95	9	0
+Partido Popular Móstoles		289263584794550	Facebook	cataluna_ES	Cataluña, Spain	1	1	444	88	8	0
+Ingredientes que Suman		586540488142205	Facebook	cataluna_ES	Cataluña, Spain	1	1	368	0	36	0
+Daniel Pérez Calvo	Ciudadanos Aragón	336805893626345	Facebook	cataluna_ES	Cataluña, Spain	1	1	349	174	3	0
+I vote Europe		608176689275464	Facebook	cataluna_ES	Cataluña, Spain	1	1	346	173	3	0
+VOX Villanueva de la Torre		316903072363234	Facebook	cataluna_ES	Cataluña, Spain	1	1	342	68	6	0
+Oxfam Intermón		20108693880	Facebook	cataluna_ES	Cataluña, Spain	2	1	303	0	30	0
+PP Benicarló	Partido Popular de Castellón	1420894774880521	Facebook	cataluna_ES	Cataluña, Spain	1	1	288	57	5	0
+CEMEX		275606287530	Facebook	cataluna_ES	Cataluña, Spain	1	1	267	133	0	0
+Big News Buzz		125179374733697	Facebook	cataluna_ES	Cataluña, Spain	1	1	254	127	1	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	cataluna_ES	Cataluña, Spain	1	1	249	99	0	0
+PP Almassora	Partido Popular de Castellón	163806500332042	Facebook	cataluna_ES	Cataluña, Spain	1	1	240	48	4	0
+Europe Thinx		335839580440114	Facebook	cataluna_ES	Cataluña, Spain	1	1	232	46	0	0
+Equo Fuenlabrada	Alejandro Alvarez Carrillo	352782308243336	Facebook	cataluna_ES	Cataluña, Spain	1	1	230	46	4	0
+Antilop		141745753145035	Facebook	cataluna_ES	Cataluña, Spain	1	1	219	0	21	0
+Partido Popular de Nules	Partido Popular de Casteellón	1427834000839960	Facebook	cataluna_ES	Cataluña, Spain	1	1	181	36	3	0
+Save The Seas		2203608429682203	Facebook	cataluna_ES	Cataluña, Spain	1	1	181	36	3	0
+Partido Popular Huévar del Aljarafe		403767163122954	Facebook	cataluna_ES	Cataluña, Spain	1	1	176	35	3	0
+Avanzamos Dos Hermanas		579353562545374	Facebook	cataluna_ES	Cataluña, Spain	1	1	148	29	2	0
 Zaragoza en Común	Zaragoza en Común	1404651893174804	Facebook	cataluna_ES	Cataluña, Spain	1	1	89	0	8	0
+Unidas Podemos Ciudad Real	UNIDAS PODEMOS - IZQUIERDA UNIDA - EQUO CLM	1757569474344621	Facebook	cataluna_ES	Cataluña, Spain	1	1	82	0	8	0
+CLAYTON		122493385103	Facebook	cataluna_ES	Cataluña, Spain	1	1	58	11	0	0
+Eurozine		115579498521257	Facebook	cataluna_ES	Cataluña, Spain	1	1	45	9	0	0
+Plictisescu.ro		184028071751540	Facebook	cataluna_ES	Cataluña, Spain	1	1	25	12	0	0
+No more bricks in the Wall		1854947667901523	Facebook	cataluna_ES	Cataluña, Spain	1	1	19	0	1	0
+ITUC		20556338116	Facebook	cataluna_ES	Cataluña, Spain	1	1	17	0	1	0
+Lalique Nelson		2165834466966724	Facebook	cataluna_ES	Cataluña, Spain	1	1	10	0	0	0
+Partido Socialista de la Región de Murcia (PSRM-PSOE)	Partido Socialista de la Región de Murcia 	154616807805	Facebook	cataluna_ES	Cataluña, Spain	4	1	9	2	0	0
+MN Benito		1273446302821491	Facebook	cataluna_ES	Cataluña, Spain	1	1	5	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	cataluna_ES	Cataluña, Spain	1	1	3	0	0	0
+Breslev Español		108892012533949	Facebook	cataluna_ES	Cataluña, Spain	1	1	1	0	0	0
+Tom MacDonald		212732770186	Facebook	cataluna_ES	Cataluña, Spain	1	1	1	0	0	0

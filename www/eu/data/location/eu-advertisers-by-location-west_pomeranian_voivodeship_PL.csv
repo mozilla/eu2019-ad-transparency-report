@@ -1,30 +1,110 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Joachim Brudziński	Joachim Brudziński	722625777782250	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	5	1	68677	13736	69	0
-Konfederacja KORWiN Braun Liroy Narodowcy	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1971966879776579	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	19	1	62938	25027	215	58
-Wiosna Biedronia	KW Wiosna Roberta Biedronia	2246647628925721	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	4	1	45534	18774	148	58
-Bartosz Arłukowicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	152299864806918	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	6	1	34963	12362	193	18
-Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	4	1	29617	12638	99	19
-European Parliament	European Parliament	178362315106	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	20774	8310	207	41
-Sven Zagała	KW Wiosna Roberta Biedronia	2215190752031133	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	4	1	13759	2752	63	0
-KUKIZ'15	Komitet Wyborczy Wyborców Kukiz'15	328170794051845	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	13	1	11226	3337	31	2
-Front Europejski	Medium: agencja reklamowa	590514511295079	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	6	1	8774	1914	26	4
-Amnesty International Polska	Amnesty International Polska	57544755889	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	3	1	4610	1014	13	2
-Anita Kucharska-Dziedzic	KW Wiosna Roberta Biedronia	402330900557208	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	3745	749	17	0
-Platforma Obywatelska	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	102931488739	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	3015	787	6	1
-Norbert Kaczmarczyk Poseł na Sejm RP	Kukiz'15 • Posłowie	814991668621838	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	2924	584	1	0
-Parlament Europejski - Biuro w Polsce	Parlament Europejski - Biuro w Polsce	405326618416	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	2530	506	1	0
-Joanna Szałata - Wybory 2019	Andrzej Ostrowski	337862966919194	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	1998	0	46	0
-Nie Wstydzę Się Jezusa	Nie Wstydzę Się Jezusa	174848285894374	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	1747	349	4	0
-Polski Klub Ekologiczny Koło Miejskie w Gliwicach	Maria Wanda Staniszewska	291839444209363	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	1609	321	3	0
-Krzysztof Bosak	Konfederacja KORWiN Braun Liroy Narodowcy	141833139301	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	1605	321	3	0
-Janusz Lewandowski	KKW Koalicja Europejska PO PSL SLD N Zieloni	75571183641	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	1095	219	2	0
-Poseł Jakub Rutnicki	KKW Koalicja Europejska PO PSL SLD .N Zieloni	222141244609992	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	782	221	3	0
-Jan Olbrycht	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	153098244704447	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	754	377	8	1
-European Commission	European Commission	107898832590939	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	699	349	1	0
-Witold Pahl	Sikker sp. z o.o.	1643994439224385	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	509	101	2	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	4	1	231	81	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	208	50	0	0
+Joachim Brudziński	Joachim Brudziński	722625777782250	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	16	1	978268	338188	1906	355
+Sven Zagała	KW Wiosna Roberta Biedronia	2215190752031133	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	22	1	664557	222029	3157	835
+Konfederacja KORWiN Braun Liroy Narodowcy	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1971966879776579	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	57	1	608737	267571	1935	485
+Roman Knop	Andrzej Bartosz Piotrowicz	749503038777719	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	13	1	314916	107125	733	189
+Bartosz Arłukowicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	152299864806918	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	36	1	310670	73640	899	47
+Konfederacja Zach-Pom	Andrzej Ostrowski	1249992775165697	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	21	1	242573	78847	1139	219
+Platforma Obywatelska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	102931488739	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	32	1	234721	76259	753	225
+Wiosna Biedronia	KW Wiosna Roberta Biedronia	2246647628925721	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	21	1	224469	105358	993	232
+European Parliament	European Parliament	178362315106	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	16	1	201398	86331	1039	256
+KUKIZ'15	Komitet Wyborczy Wyborców Kukiz'15	328170794051845	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	81	1	188760	55560	485	89
+Jakub Ziółkowski	KW Wiosna Roberta Biedronia	728590287185661	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	5	1	155432	31087	360	72
+European Commission	European Commission	107898832590939	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	32	1	144642	67601	748	147
+Anita Kucharska-Dziedzic	KW Wiosna Roberta Biedronia	402330900557208	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	16	1	135574	26001	462	53
+Edukacja dla Dobrego Klimatu	Wojciech Makowski	798249970192065	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	22	1	129868	50670	566	165
+Gazeta Wyborcza	Gazeta Wyborcza	63563473556	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	76	1	122838	38946	269	43
+Front Europejski	Medium: agencja reklamowa	590514511295079	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	62	1	109361	36076	458	98
+European Greens	European Greens	141366725876424	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	5	1	106974	51390	620	124
+Razem	KKW Lewica Razem - Razem, Unia Pracy, RSS	430323810469014	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	20	1	77309	31452	278	56
+Jarosław Rzepa	KKW Koalicja Europejska PO PSL SLD .N Zieloni	187622121427045	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	17	1	75575	15118	348	0
+Tomasz Aniśko - Kandydat do Parlamentu Europejskiego	KKW Koalicja Europejska PO PSL SLD .N Zieloni	605038106603214	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	67002	13400	311	155
+Joanna Szałata - Wybory 2019	Andrzej Ostrowski	337862966919194	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	4	1	60976	11996	301	116
+Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	12	1	46380	17825	112	20
+KlimatAlert	Wojciech Makowski	342956762998558	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	12	1	39331	14341	153	33
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	4	1	34720	12791	41	6
+Amnesty International Polska	Amnesty International Polska	57544755889	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	9	1	32674	13107	157	46
+Parlament Europejski - Biuro w Polsce	Parlament Europejski - Biuro w Polsce	405326618416	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	23	1	31780	6743	28	1
+Prawo i Sprawiedliwość	Komitet Wyborczy Prawo i Sprawiedliwość	157458232131	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	24	1	29506	8878	115	23
+Partia Zieloni	KKW Koalicja Europejska PO PSL SLD .N Zieloni	48391402694	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	8	1	28600	11032	153	42
+Parlament Europejski - Biuro we Wrocławiu	Parlament Europejski - Biuro we Wrocławiu	426735034064813	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	19857	7943	46	9
+Piotr Ikonowicz	KKW Lewica Razem - Razem, Unia Pracy, RSS	121066958084066	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	3	1	16042	7050	68	22
+Małgorzata Prokop-Paczkowska	KW Wiosna Roberta Biedronia	599088633511810	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	15852	7927	111	18
+Katarzyna Kotula	KW Wiosna Roberta Biedronia	325724864963813	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	4	1	15509	5149	205	34
+Prawica Rzeczypospolitej	Komitet Wyborczy Wyborców KUKIZ15	262966184846	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	4	1	14407	2862	30	12
+Jacek Wezgraj	KW Wiosna Roberta Biedronia	213293582024781	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	4	1	14116	5072	65	0
+Wojciech Czypicki	KW Wiosna Roberta Biedroni	403357120492005	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	6	1	14029	2354	106	0
+Janusz Lewandowski	KKW Koalicja Europejska PO PSL SLD N Zieloni	75571183641	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	15	1	13990	3998	37	11
+Piotr Müller	Cezary Puławski	267686749910602	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	9	1	10517	1910	78	1
+Norbert Kaczmarczyk Poseł na Sejm RP	Kukiz'15 • Posłowie	814991668621838	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	4	1	10366	2073	24	4
+Jacek Guzikowski	Komitet Wyborczy Wyborców KUKIZ15	382878862310992	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	4	1	9599	1796	114	14
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	15	1	7625	3294	13	5
+Jacek Wilk	KWW Konfederacja Korwin Braun Liroy Narodowcy	499646073441042	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	7162	3581	12	5
+Polska Fundacja im. Roberta Schumana	Polska Fundacja im. Roberta Schumana	150617698324166	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	7000	1400	27	0
+Elżbieta Jabłońska - Przewodnicząca Rady Miasta Świnoujście	KKW Koalicja Europejska PO PSL SLD .N Zieloni	659137817565779	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	6655	3327	15	0
+Fundacja Czyste Powietrze	Magdalena Strózik 	282404075935482	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	6466	1293	15	3
+Sojusz Lewicy Demokratycznej - Koalicja Europejska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	137877409609952	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	5556	2778	12	6
+Nie Wstydzę Się Jezusa	Nie Wstydzę Się Jezusa	174848285894374	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	3	1	5239	2021	12	4
+MamPrawoWiedziec.pl	Picture Doc Foundation	219298606466	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	4	1	5029	1149	12	2
+Przemysław Słowik	Przemysław Szczepan Słowik	399527046922445	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	4999	1000	23	0
+Jarosław Wałęsa	KKW Koalicja Europejska PO PSL SLD N Zieloni	433052760111334	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	9	1	4815	1065	15	3
+Protestuj.pl	Protestuj.pl	450781218391641	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	4606	921	10	2
+Wiosna w Zachodniopomorskiem	KW Wiosna Roberta Biedronia	779526672397182	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	4406	736	33	0
+Narodowa Środa	Michał Aleksander Jurga	577240432479236	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	5	1	4398	919	10	1
+Polski Klub Ekologiczny Koło Miejskie w Gliwicach	Maria Wanda Staniszewska	291839444209363	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	4291	1718	39	9
+Polonia Semper Fidelis	Polonia Semper Fidelis	155770611655343	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	4261	852	14	5
+Lepiej wybierz	Katarzyna Stańczak	304972010400039	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	9	1	4237	943	13	0
+Federacja dla Rzeczypospolitej Powiat wałecki	Kamil Stanisław Łazarski	623461921444850	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	4	1	3897	0	89	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	3645	1823	18	3
+Plastic Free Polska	Plastic Free Polska	2162232717176151	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	8	1	3571	805	8	0
+Michał Wawrykiewicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	835519263468051	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	14	1	3496	696	6	1
+Krzysztof Bosak	Konfederacja KORWiN Braun Liroy Narodowcy	141833139301	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	3340	668	7	1
+Błękitny Węgiel	Błękitny Węgiel	567066860335135	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	3309	661	8	1
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	3272	678	6	0
+Grzegorz Schetyna	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	1077045142306060	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	3105	806	18	7
+Razem Szczecin	Razem	888109877905150	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	3052	610	14	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	4	1	3025	760	6	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	2980	596	13	6
+Poseł Jakub Rutnicki	KKW Koalicja Europejska PO PSL SLD .N Zieloni	222141244609992	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	6	1	2811	629	8	1
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	20	1	2379	794	7	0
+K MAG	K MAG	317722036029	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	2356	471	5	1
+adidas		182162001806727	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	2218	443	4	0
+Jarosław Duda	KKW Koalicja Europejska PO PSL SLD .N ZIELONI	100666510056063	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	2174	434	5	0
+Grzegorz Tobiszowski	KW Prawo i Sprawiedliwość	146655395680362	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	2041	408	4	0
+Krytyka Polityczna	Krytyka Polityczna	74863922834	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	1962	392	1	0
+Jan Olbrycht	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	153098244704447	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	3	1	1476	738	10	1
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	3	1	1061	469	2	0
+Witold Pahl	Sikker sp. z o.o.	1643994439224385	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	3	1	1011	202	7	0
+Tomasz Strząbała	Tomasz Strząbała	265135633610304	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	999	0	23	0
+Ministerstwo Rodziny, Pracy i Polityki Społecznej		380485532115847	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	913	347	2	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	5	1	607	213	2	0
+Włącz oszczędzanie	Łukasz Tadeusz Pająk	1599655186922126	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	3	1	453	85	2	0
+Lambda Warszawa		38339083373	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	433	216	0	0
+Ewa Jeżak	KW Wiosna Roberta Biedronia	1934052153566297	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	407	203	4	0
+Bolesław Piecha - poseł do Parlamentu Europejskiego	Agencja reklamowa NXT	704363502985858	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	386	148	1	0
+Fine Dine	Angelika Katarzyna Borysiak	1650498151902140	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	312	62	1	0
+Zdecentralizowana Rzeczpospolita	Anna Aleksandra Wojciuk	270581597199597	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	302	60	1	0
+Bożena Lisowska	Paweł Galewski	1164052730286958	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	260	52	1	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	240	48	0	0
 Nomada Stowarzyszenie		114318528622863	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	154	30	0	0
+PARTEI MENSCH UMWELT TIERSCHUTZ	PARTEI MENSCH UMWELT TIERSCHUTZ	108568039165729	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	133	26	1	0
+Andrzej Kobylarz - biuro poselskie	Komitet Wyborczy Wyborców KUKIZ15	466597223537544	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	3	1	125	47	1	0
 Pracownia Architektury Krajobrazu Anna Zbrzezna		510672049016743	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	121	0	10	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	81	40	0	0
-Michał Wawrykiewicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	835519263468051	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	6	1	74	9	0	0
+Europe Thinx		335839580440114	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	85	17	0	0
+To ja jestem Polską. Głosuję.		2253325488072521	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	2	1	77	0	6	0
+Filcomp.pl	Paweł Seweryn Pietrusiak	391230480943892	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	75	0	1	0
+Razem Lubuskie	KKW Lewica Razem - Razem, Unia Pracy, RSS	859639814104576	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	75	37	0	0
+Kurier Ząbkowski	Tomasz Kalata 	1507827496163615	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	69	0	1	0
+FRU.PL - Bilety Lotnicze i Hotele		166901739910	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	68	0	1	0
+Renata Caban	Tomasz Mirosław Kowalski	288542178541100	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	3	1	67	13	1	0
+ETUC		129041250601685	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	67	13	0	0
+Paweł Krutul	Komitet Wyborczy Wiosna Roberta Biedronia	1798798630436202	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	59	0	1	0
+Michał Drewnicki - wiceprzewodniczący Rady Miasta Krakowa		561843337248654	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	50	0	1	0
+Skuteczna modlitwa. Przewodnik		2118896628162986	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	29	0	0	0
+Stanisław Żmijan	MarkNeting Sp. z o.o.	436755540466865	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	10	0	0	0
+Eurozine		115579498521257	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	6	1	0	0
+Big News Buzz		125179374733697	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	4	2	0	0
+ITUC		20556338116	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	3	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	1	0	0	0
+Andrzej Grzyb Poseł do Parlamentu Europejskiego	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	235676093175456	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	1	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	west_pomeranian_voivodeship_PL	West Pomeranian Voivodeship, Poland	1	1	1	0	0	0

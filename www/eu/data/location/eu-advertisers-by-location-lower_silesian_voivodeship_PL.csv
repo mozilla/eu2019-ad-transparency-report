@@ -1,32 +1,117 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Konfederacja KORWiN Braun Liroy Narodowcy	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1971966879776579	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	19	1	106220	41507	353	96
-Wiosna Biedronia	KW Wiosna Roberta Biedronia	2246647628925721	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	4	1	85728	34970	300	124
-Polski Klub Ekologiczny Koło Miejskie w Gliwicach	Maria Wanda Staniszewska	291839444209363	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	5	1	63079	16034	146	24
-Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	4	1	59639	25375	196	38
-Krzysztof Śmiszek	KW Wiosna Roberta Biedronia	954692934606047	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	49567	12415	192	38
-Janka Ochojska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	573994789747274	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	47165	11815	274	109
-European Parliament	European Parliament	178362315106	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	43745	17498	437	87
-KUKIZ'15	Komitet Wyborczy Wyborców Kukiz'15	328170794051845	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	20	1	18665	6369	68	8
-Front Europejski	Medium: agencja reklamowa	590514511295079	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	6	1	15379	3337	45	8
-Anna Zalewska	Paweł Kociński	171114382968728	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	11433	4567	35	0
-Amnesty International Polska	Amnesty International Polska	57544755889	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	3	1	10084	2307	32	6
-Małgorzata Sekuła-Szmajdzińska - kandydatka do Parlamentu Europejskiego	Katarzyna Kijakowska	420227048536701	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	4	1	6607	1326	30	0
-Mariusz Kotarba - Kandydat do Parlamentu Europejskiego	KW Wiosna Roberta Biedronia	307031223301174	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	5986	998	45	0
-Platforma Obywatelska	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	102931488739	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	4947	1287	11	1
-Robert Jarosław Iwaszkiewicz	Marcin Piotr Dudek	1492626540957540	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	4501	900	20	0
-Norbert Kaczmarczyk Poseł na Sejm RP	Kukiz'15 • Posłowie	814991668621838	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	3713	742	1	0
-Nie Wstydzę Się Jezusa	Nie Wstydzę Się Jezusa	174848285894374	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	3578	715	8	1
-Krzysztof Bosak	Konfederacja KORWiN Braun Liroy Narodowcy	141833139301	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	3530	706	8	1
-Parlament Europejski - Biuro w Polsce	Parlament Europejski - Biuro w Polsce	405326618416	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	3378	675	1	0
-Poseł Jakub Rutnicki	KKW Koalicja Europejska PO PSL SLD .N Zieloni	222141244609992	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	2765	667	9	1
-European Commission	European Commission	107898832590939	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	1458	729	3	0
-Sven Zagała	KW Wiosna Roberta Biedronia	2215190752031133	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	1196	179	11	0
+Konfederacja KORWiN Braun Liroy Narodowcy	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1971966879776579	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	59	1	1060654	463719	3406	858
+Koalicja Europejska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	3116013818724635	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	33	1	663671	160822	1850	286
+European Parliament	European Parliament	178362315106	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	16	1	454980	194061	2355	582
+Robert Jarosław Iwaszkiewicz	Marcin Piotr Dudek	1492626540957540	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	433663	164400	1113	286
+Janka Ochojska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	573994789747274	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	13	1	429099	117211	1359	376
+Wiosna Biedronia	KW Wiosna Roberta Biedronia	2246647628925721	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	21	1	414381	192991	2012	460
+European Greens	European Greens	141366725876424	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	6	1	409733	184732	1806	451
+Platforma Obywatelska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	102931488739	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	33	1	396636	139766	1473	423
+Andrzej Kisielewicz	KW Prawo i Sprawiedliwość	1550061501790606	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	96	1	381799	90998	2026	96
+KUKIZ'15	Komitet Wyborczy Wyborców Kukiz'15	328170794051845	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	123	1	327859	93021	875	168
+Edukacja dla Dobrego Klimatu	Wojciech Makowski	798249970192065	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	26	1	275050	112241	1309	345
+European Commission	European Commission	107898832590939	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	32	1	249394	116166	1238	241
+Agnieszka Ścigaj - Poseł na Sejm RP	Komitet Wyborczy Wyborców KUKIZ15	1476482495991048	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	16	1	235922	55024	797	254
+Julia Rokicka	KKW Koalicja Europejska PO PSL SLD .N Zieloni	145203809517773	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	8	1	227386	73856	754	255
+Beata Kempa	KW Prawo i Sprawiedliwość	342536459089859	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	3	1	226314	90493	1227	351
+Hubert Czerniak - Włączamy myślenie	Komitet Wyborczy Wyborców Konfederacja Korwin Braun Liroy Narodowcy	798940726870349	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	5	1	224738	44948	613	178
+Front Europejski	Medium: agencja reklamowa	590514511295079	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	62	1	213689	71207	923	200
+Gazeta Wyborcza	Gazeta Wyborcza	63563473556	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	78	1	192927	60719	429	66
+Małgorzata Sekuła-Szmajdzińska - kandydatka do Parlamentu Europejskiego	Katarzyna Kijakowska	420227048536701	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	18	1	190907	52902	1738	346
+Krzysztof Śmiszek	KW Wiosna Roberta Biedronia	954692934606047	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	5	1	174715	37446	483	96
+Katarzyna Lubiniecka-Różyło	KW Wiosna Roberta Biedronia	235162340681268	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	7	1	159822	39938	649	184
+Razem	KKW Lewica Razem - Razem, Unia Pracy, RSS	430323810469014	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	21	1	159182	64360	595	119
+Anna Zalewska	Paweł Kociński	171114382968728	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	8	1	145781	40521	349	53
+Jarosław Duda	KKW Koalicja Europejska PO PSL SLD .N ZIELONI	100666510056063	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	6	1	107124	24425	354	65
+KlimatAlert	Wojciech Makowski	342956762998558	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	14	1	101817	36155	377	81
+Mariusz Kotarba - Kandydat do Parlamentu Europejskiego	KW Wiosna Roberta Biedronia	307031223301174	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	99612	19922	231	46
+Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	16	1	99561	36770	248	44
+Szymon Chojnowski	KW Wiosna Roberta Biedronia	227555114762803	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	97393	19479	338	135
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	33	1	96914	23278	820	82
+Polski Klub Ekologiczny Koło Miejskie w Gliwicach	Maria Wanda Staniszewska	291839444209363	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	6	1	84125	22186	315	84
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	8	1	80888	31129	151	20
+Amnesty International Polska	Amnesty International Polska	57544755889	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	9	1	76966	29893	373	114
+Partia Zieloni	KKW Koalicja Europejska PO PSL SLD .N Zieloni	48391402694	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	8	1	55325	20805	305	87
+Parlament Europejski - Biuro w Polsce	Parlament Europejski - Biuro w Polsce	405326618416	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	23	1	52977	11273	47	1
+Prawo i Sprawiedliwość	Komitet Wyborczy Prawo i Sprawiedliwość	157458232131	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	25	1	52506	15639	204	40
+Parlament Europejski - Biuro we Wrocławiu	Parlament Europejski - Biuro we Wrocławiu	426735034064813	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	47685	19074	110	22
+Jacek Baczyński	Kamil Daniel Halot	906934479400053	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	45438	9088	116	18
+Elżbieta Stępień Posłanka na Sejm RP kandydatka do Parlamentu Europejskiego	KKW Koalicja Europejska Platforma SLD PSL .N Zieloni	888587617855300	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	44197	8839	111	18
+Marta Lempart	KW Wiosna Roberta Biedronia	760311647468570	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	39754	7951	92	18
+Katarzyna Czochara	Marcin Feliks Miłkowski	167137436954873	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	33928	6785	78	15
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	7	1	33376	7120	288	80
+Andrzej Buła	KKW Koalicja Europejska PO PSL SLD .N Zieloni	158877910847285	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	4	1	29978	5995	69	13
+Piotr Ikonowicz	KKW Lewica Razem - Razem, Unia Pracy, RSS	121066958084066	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	3	1	27174	12163	120	37
+Dom Otwarty	Dom Otwarty	649621911846280	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	18677	9338	43	21
+Jacek Wilk	KWW Konfederacja Korwin Braun Liroy Narodowcy	499646073441042	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	15861	7930	28	12
+Norbert Kaczmarczyk Poseł na Sejm RP	Kukiz'15 • Posłowie	814991668621838	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	4	1	14612	2922	33	6
+Sven Zagała	KW Wiosna Roberta Biedronia	2215190752031133	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	7	1	13242	2588	50	15
+Michał Wawrykiewicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	835519263468051	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	15	1	12705	2535	25	3
+Nie Wstydzę Się Jezusa	Nie Wstydzę Się Jezusa	174848285894374	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	3	1	11784	4678	28	10
+MamPrawoWiedziec.pl	Picture Doc Foundation	219298606466	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	4	1	9571	2219	23	3
+Polska Fundacja im. Roberta Schumana	Polska Fundacja im. Roberta Schumana	150617698324166	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	9183	1836	32	1
+European Free Alliance	European Free Alliance	46708306425	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	9090	4545	45	9
+Jakub Ziółkowski	KW Wiosna Roberta Biedronia	728590287185661	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	9011	1802	20	4
+Poseł Jakub Rutnicki	KKW Koalicja Europejska PO PSL SLD .N Zieloni	222141244609992	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	6	1	8437	1937	23	4
+Sojusz Lewicy Demokratycznej - Koalicja Europejska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	137877409609952	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	8417	4208	19	9
+Polonia Semper Fidelis	Polonia Semper Fidelis	155770611655343	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	8106	1621	28	11
+Protestuj.pl	Protestuj.pl	450781218391641	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	7968	1593	18	3
+Plastic Free Polska	Plastic Free Polska	2162232717176151	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	8	1	7211	1680	14	0
+Krzysztof Bosak	Konfederacja KORWiN Braun Liroy Narodowcy	141833139301	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	7028	1405	16	3
+Lepiej wybierz	Katarzyna Stańczak	304972010400039	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	9	1	6879	1560	19	0
+Michał Korolko - profil publiczny	KKW Koalicja Europejska PO PSL SLD .N Zieloni (Michał Korolko)	334123340547325	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	6764	1353	17	2
+Grzegorz Schetyna	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	1077045142306060	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	6752	1598	37	15
+Grzegorz Tobiszowski	KW Prawo i Sprawiedliwość	146655395680362	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	6610	1322	15	3
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	6108	1258	12	0
+Błękitny Węgiel	Błękitny Węgiel	567066860335135	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	5989	1198	14	2
+Krytyka Polityczna	Krytyka Polityczna	74863922834	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	5390	1078	4	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	20	1	5187	1809	14	2
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	4	1	4831	1136	11	0
+K MAG	K MAG	317722036029	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	4593	918	10	2
+Krystiana Drozd do Parlamentu Europejskiego	KKW Koalicja Europejska PO PSL SLD .N Zieloni	331612664063134	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	4485	897	4	0
+adidas		182162001806727	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	4455	891	8	0
+Narodowa Środa	Michał Aleksander Jurga	577240432479236	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	5	1	4016	912	9	1
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	3	1	2619	1154	5	1
+Jan Olbrycht	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	153098244704447	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	3	1	2341	1170	14	2
+Ministerstwo Rodziny, Pracy i Polityki Społecznej		380485532115847	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	1305	472	4	0
+Andrzej Grzyb Poseł do Parlamentu Europejskiego	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	235676093175456	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	1268	253	2	0
+Fundacja Czyste Powietrze	Magdalena Strózik 	282404075935482	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	1258	251	2	0
 Nomada Stowarzyszenie		114318528622863	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	1156	231	5	0
-Jan Olbrycht	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	153098244704447	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	953	476	11	2
-Marta Lempart	KW Wiosna Roberta Biedronia	760311647468570	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	812	0	18	0
-Elżbieta Stępień Posłanka na Sejm RP kandydatka do Parlamentu Europejskiego	KKW Koalicja Europejska Platforma SLD PSL .N Zieloni	888587617855300	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	763	0	17	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	4	1	456	168	0	0
-Michał Wawrykiewicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	835519263468051	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	7	1	344	37	4	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	308	73	0	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	122	61	0	0
-Witold Pahl	Sikker sp. z o.o.	1643994439224385	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	4	0	0	0
+Ewa Jeżak	KW Wiosna Roberta Biedronia	1934052153566297	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	1127	563	13	2
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	5	1	1031	355	4	0
+Lambda Warszawa		38339083373	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	946	473	2	0
+Jarosław Rzepa	KKW Koalicja Europejska PO PSL SLD .N Zieloni	187622121427045	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	872	174	4	0
+Włącz oszczędzanie	Łukasz Tadeusz Pająk	1599655186922126	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	3	1	862	159	5	0
+Bolesław Piecha - poseł do Parlamentu Europejskiego	Agencja reklamowa NXT	704363502985858	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	769	304	2	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	3	1	576	113	1	0
+Fine Dine	Angelika Katarzyna Borysiak	1650498151902140	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	435	87	2	0
+Zbigniew Zalesiński - Wiosna Biedronia	KW Wiosna Roberta Biedronia	319621255393968	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	409	204	4	0
+Zdecentralizowana Rzeczpospolita	Anna Aleksandra Wojciuk	270581597199597	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	405	81	1	0
+Razem Lubuskie	KKW Lewica Razem - Razem, Unia Pracy, RSS	859639814104576	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	297	148	3	0
+Bożena Lisowska	Paweł Galewski	1164052730286958	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	292	58	1	0
+To ja jestem Polską. Głosuję.		2253325488072521	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	176	0	15	0
+Europe Thinx		335839580440114	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	169	33	0	0
+ETUC		129041250601685	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	159	31	1	0
+Renata Caban	Tomasz Mirosław Kowalski	288542178541100	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	3	1	158	31	3	0
+Jacek Wezgraj	KW Wiosna Roberta Biedronia	213293582024781	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	129	0	2	0
+Skuteczna modlitwa. Przewodnik		2118896628162986	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	119	0	2	0
+Kurier Ząbkowski	Tomasz Kalata 	1507827496163615	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	104	0	2	0
+Paweł Krutul	Komitet Wyborczy Wiosna Roberta Biedronia	1798798630436202	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	103	0	2	0
+FRU.PL - Bilety Lotnicze i Hotele		166901739910	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	93	0	2	0
+POST VON GEHRKE	Elmar Gehrke	630172117364339	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	88	44	0	0
+Filcomp.pl	Paweł Seweryn Pietrusiak	391230480943892	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	87	0	2	0
+Michał Drewnicki - wiceprzewodniczący Rady Miasta Krakowa		561843337248654	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	77	0	1	0
+Bogusław Sonik	KWW KOALICJA EUROPEJSKA PO PSL SLD .N ZIELONI	75775141409	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	5	1	64	12	0	0
+Info Lwówek	Katarzyna Luch	1429420873951263	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	46	9	0	0
+Big News Buzz		125179374733697	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	22	11	0	0
+Eurozine		115579498521257	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	16	3	0	0
+Ondřej Krutílek - kandidát do Evropského parlamentu	ODS	1220066088147062	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	2	1	14	2	0	0
+Tomáš Hanuš	Kricfalusi Jiri	298486534052289	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	8	1	0	0
+Česká společnost ornitologická	Česká společnost ornitologická	479746075051	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	8	4	0	0
+Stanisław Żmijan	MarkNeting Sp. z o.o.	436755540466865	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	3	0	0	0
+Witold Pahl	Sikker sp. z o.o.	1643994439224385	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	3	0	0	0
+Porozumienie - Poznań	Rafał Jan Leszczyński	1444561572423336	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	1	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	1	0	0	0
+Grzegorz Długi Kukiz'15	Dariusz Witold Mierzwa	1709231132633714	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	1	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	1	0	0	0
+Joanna Sekuła - Kandydatka do Parlamentu Europejskiego	KKW Koalicja Europejska PO PSL SLD .N Zieloni 	797920373599555	Facebook	lower_silesian_voivodeship_PL	Lower Silesian Voivodeship, Poland	1	1	1	0	0	0

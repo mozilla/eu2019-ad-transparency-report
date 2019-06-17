@@ -1,34 +1,183 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Moderaterna	Moderaterna	7719591155	Facebook	jamtland_county_SE	Jämtland County, Sweden	17	1	9554	3998	142	31
-Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	3320	1660	76	15
-European Parliament	European Parliament	178362315106	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	1929	964	9	1
-Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	1504	343	19	3
-ActionAid Sweden	ActionAid Sweden	18880778360	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	1323	264	12	2
-Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	849	227	2	1
-Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	459	91	4	0
-Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	jamtland_county_SE	Jämtland County, Sweden	7	1	323	52	2	0
-Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	321	160	2	0
-En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	290	52	1	0
-Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	239	47	2	0
-Fredrick Federley	Fredrick Federley	189892183097	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	170	34	1	0
-Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	128	18	1	0
-Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	jamtland_county_SE	Jämtland County, Sweden	5	1	117	0	1	0
-KDU Sverige	KDU Sverige	177549278946958	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	100	20	0	0
-David Lega	Kristdemokraterna	251829904829983	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	75	0	0	0
-Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	73	14	0	0
-Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	71	14	0	0
-Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	71	14	0	0
-Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	65	0	0	0
-Folkstyret	Ströberg Mikael	1243789685638222	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	60	12	0	0
-Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	58	11	0	0
-Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	42	8	0	0
-European Commission	European Commission	107898832590939	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	26	13	0	0
-Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	24	0	1	0
-Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	14	0	0	0
-Anders Rehnberg till Europaparlamentet	Rehnberg Anders John Henry	362678667854817	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	11	0	0	0
-Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	11	0	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	10	2	0	0
-Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	10	0	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	7	1	0	0
+Valmyndigheten	Valmyndigheten	1737852076287450	Facebook	jamtland_county_SE	Jämtland County, Sweden	59	1	184408	81428	1082	278
+Moderaterna	Moderaterna	7719591155	Facebook	jamtland_county_SE	Jämtland County, Sweden	127	1	165983	65571	2559	605
+Socialdemokraterna	Socialdemokraterna	8040892957	Facebook	jamtland_county_SE	Jämtland County, Sweden	365	1	131394	42247	2490	573
+Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	jamtland_county_SE	Jämtland County, Sweden	45	1	108407	46408	1354	397
+Miljöpartiet de gröna Jämtland Härjedalen	Miljöpartiet de gröna Jämtland/Härjedalen	573954772674425	Facebook	jamtland_county_SE	Jämtland County, Sweden	5	1	84995	26000	1897	379
+Miljöpartiet de gröna	Miljöpartiet de gröna	34780126150	Facebook	jamtland_county_SE	Jämtland County, Sweden	39	1	81465	37425	852	188
+Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	jamtland_county_SE	Jämtland County, Sweden	69	1	53040	17270	816	247
+European Parliament	European Parliament	178362315106	Facebook	jamtland_county_SE	Jämtland County, Sweden	19	1	52592	23828	424	157
+Centerpartiet	Centerpartiet	12690894340	Facebook	jamtland_county_SE	Jämtland County, Sweden	28	1	51168	21515	801	317
+European Commission	European Commission	107898832590939	Facebook	jamtland_county_SE	Jämtland County, Sweden	26	1	47480	23392	301	101
+European Greens	European Greens	141366725876424	Facebook	jamtland_county_SE	Jämtland County, Sweden	9	1	34340	15703	432	133
+Plan International Sverige	Plan International Sverige	382243262003	Facebook	jamtland_county_SE	Jämtland County, Sweden	31	1	30942	13069	238	73
+SSU	SSU	45101268520	Facebook	jamtland_county_SE	Jämtland County, Sweden	33	1	29771	11702	498	123
+Vänsterpartiet	Vänsterpartiet	323156205347	Facebook	jamtland_county_SE	Jämtland County, Sweden	68	1	28445	6758	183	42
+Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	jamtland_county_SE	Jämtland County, Sweden	25	1	27687	9470	216	70
+Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	jamtland_county_SE	Jämtland County, Sweden	37	1	27218	7616	373	123
+Centerpartiets Ungdomsförbund	Centerpartiets Ungdomsförbund	110793008936879	Facebook	jamtland_county_SE	Jämtland County, Sweden	9	1	21206	9296	198	51
+Svenskt Näringsliv	Svenskt Näringsliv	90882504375	Facebook	jamtland_county_SE	Jämtland County, Sweden	7	1	19221	8847	246	52
+Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	jamtland_county_SE	Jämtland County, Sweden	7	1	14152	6674	295	69
+Stefan Löfven	Socialdemokraterna	329885883718979	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	12582	5033	466	233
+Kristdemokraterna Jämtlands Län	Kristdemokraterna i Jämtlands län	276637759146677	Facebook	jamtland_county_SE	Jämtland County, Sweden	4	1	11996	2000	110	18
+Rädda Barnen	Rädda Barnen	72659261793	Facebook	jamtland_county_SE	Jämtland County, Sweden	89	1	11984	3315	92	18
+Heléne Fritzon	Socialdemokraterna	767749640051136	Facebook	jamtland_county_SE	Jämtland County, Sweden	20	1	11668	2549	106	23
+Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	jamtland_county_SE	Jämtland County, Sweden	22	1	11589	4002	174	45
+Partiet Vändpunkt	Partiet Vändpunkt	334741620478680	Facebook	jamtland_county_SE	Jämtland County, Sweden	6	1	10418	3089	120	47
+Fredrick Federley	Fredrick Federley	189892183097	Facebook	jamtland_county_SE	Jämtland County, Sweden	5	1	10377	3961	84	27
+Magnus Thulin - Centerpartiet	Thulin Magnus Nils Oscar	161302754576832	Facebook	jamtland_county_SE	Jämtland County, Sweden	8	1	10089	2018	106	29
+Operation Smile Sverige	Operation Smile Sverige	161213770567846	Facebook	jamtland_county_SE	Jämtland County, Sweden	88	1	9446	1769	87	15
+Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	jamtland_county_SE	Jämtland County, Sweden	28	1	8456	2099	118	35
+Tomas Tobé	Moderaterna	1829725353928210	Facebook	jamtland_county_SE	Jämtland County, Sweden	35	1	8386	2112	131	29
+En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	jamtland_county_SE	Jämtland County, Sweden	20	1	7296	1686	54	13
+LO Sverige	LO Sverige	163820136238	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	7123	3272	114	22
+Jordens Vänner / Friends of the Earth Sweden	Jordens Vänner / Friends of the Earth Sweden	207890945895422	Facebook	jamtland_county_SE	Jämtland County, Sweden	6	1	7098	2536	24	5
+Diakonia	Diakonia	42676805259	Facebook	jamtland_county_SE	Jämtland County, Sweden	13	1	6855	2150	38	8
+Svensk Handel	Svensk Handel	120477444659925	Facebook	jamtland_county_SE	Jämtland County, Sweden	6	1	6660	1497	50	10
+Sverige för UNHCR	Viva Media	643137272398136	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	4993	2477	32	6
+Skogsindustrierna	Skogsindustrierna 	182933185135	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	4834	2108	27	10
+Allan Widman	Liberalerna	540799486089503	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	4618	2007	176	35
+Emma Wiesner	Emma Wiesner (Centerpartiet)	653072158104424	Facebook	jamtland_county_SE	Jämtland County, Sweden	11	1	4569	1065	32	6
+Unga Feminister	Unga Feminister	100642360004457	Facebook	jamtland_county_SE	Jämtland County, Sweden	9	1	4536	1378	45	12
+Feministiskt initiativ	Feministiskt initiativ	112513375470294	Facebook	jamtland_county_SE	Jämtland County, Sweden	7	1	4166	866	108	21
+6F - Fackförbund i samverkan	6F - Fackförbund i samverkan	720556414800953	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	3973	794	36	7
+Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	jamtland_county_SE	Jämtland County, Sweden	25	1	3957	922	33	7
+Henrik Sundström - M	Sundström Claes Henrik	180745369170	Facebook	jamtland_county_SE	Jämtland County, Sweden	8	1	3774	807	19	5
+David Lega	Kristdemokraterna	251829904829983	Facebook	jamtland_county_SE	Jämtland County, Sweden	6	1	3665	821	44	8
+Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	jamtland_county_SE	Jämtland County, Sweden	6	1	3508	841	43	9
+Gustav Hemming	Gustav Hemming (Centerpartiet)	722853564439941	Facebook	jamtland_county_SE	Jämtland County, Sweden	4	1	3400	1184	93	18
+Sverigedemokraterna Region Stockholm	SD Stockholm	1729304067391998	Facebook	jamtland_county_SE	Jämtland County, Sweden	5	1	2883	576	27	6
+ABF	ABF	80386149597	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	2753	1376	13	3
+Skiftet	Skiftet	100650935646	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	2732	651	25	6
+Arabiska Teatern / أرابيسكا تياترن	Arabiska Teatern / أرابيسكا تياترن	996264337099052	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	2593	1279	12	4
+Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	2591	1036	16	3
+KDU Sverige	KDU Sverige	177549278946958	Facebook	jamtland_county_SE	Jämtland County, Sweden	8	1	2466	701	42	8
+Frihet	Hayrynen Lotta Ilona	1722887348013516	Facebook	jamtland_county_SE	Jämtland County, Sweden	9	1	2335	1076	29	10
+Djurens parti	Eriksson Monica Maria Therese	207364469446997	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	2316	540	20	4
+IF Metall	IF Metall	108492218918	Facebook	jamtland_county_SE	Jämtland County, Sweden	6	1	1882	463	16	3
+Evin Incir	Socialdemokraterna i Uppsala län	1439778006254125	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	1855	371	17	3
+EU-kommissionen i Sverige	EU-kommissionen i Sverige	155824787799	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	1819	909	15	7
+Liberala ungdomsförbundet	Tilstam Emilie Josefin	108941769135355	Facebook	jamtland_county_SE	Jämtland County, Sweden	5	1	1776	351	17	3
+Medborgerlig Samling	Medborgerlig Samling	189332844828330	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	1755	351	16	3
+Jonas Sjöstedt		261331320599298	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	1602	320	9	2
+ActionAid Sweden	ActionAid Sweden	18880778360	Facebook	jamtland_county_SE	Jämtland County, Sweden	6	1	1596	298	16	3
+Slöseriombudsmannen	Skattebetalarna	408171019221426	Facebook	jamtland_county_SE	Jämtland County, Sweden	12	1	1588	644	9	1
+Jessica Polfjärd	Moderaterna	337086006951883	Facebook	jamtland_county_SE	Jämtland County, Sweden	4	1	1557	483	35	7
+Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	jamtland_county_SE	Jämtland County, Sweden	6	1	1388	355	17	3
+Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	jamtland_county_SE	Jämtland County, Sweden	5	1	1192	234	18	4
+Kristdemokraterna Sundsvall	Kristdemokraterna Sundsvall	1017885421625799	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	1159	579	53	10
+Vi-skogen	Vi-skogen	356032977210	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	1158	231	10	2
+Anders Rehnberg till Europaparlamentet	Rehnberg Anders John Henry	362678667854817	Facebook	jamtland_county_SE	Jämtland County, Sweden	6	1	1155	267	16	3
+En bättre framtid	Plan International Sverige	1173808162671999	Facebook	jamtland_county_SE	Jämtland County, Sweden	7	1	1141	221	9	1
+Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	jamtland_county_SE	Jämtland County, Sweden	18	1	1128	207	13	2
+Centerpartiet i Jämtlands län	Fallman Eva Kristina Jeanette	121396547892591	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	999	0	46	9
+Hungerprojektet	Hungerprojektet	212049035488183	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	921	184	9	2
+Liberalerna Örebro län	Liberalerna i Örebro län	388964421149126	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	896	176	8	1
+Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	jamtland_county_SE	Jämtland County, Sweden	21	1	820	160	4	0
+Liberala Studenter	Heimbrand Christoffer	118645251482192	Facebook	jamtland_county_SE	Jämtland County, Sweden	13	1	743	221	5	0
+CIVIL RIGHTS DEFENDERS	CIVIL RIGHTS DEFENDERS	128452220525979	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	731	146	13	6
+Yrkesdörren	ÖppnaDörren	1047016558650888	Facebook	jamtland_county_SE	Jämtland County, Sweden	9	1	726	255	8	3
+Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	jamtland_county_SE	Jämtland County, Sweden	13	1	715	155	6	0
+Socialdemokraterna i Borås	Socialdemokraterna i Borås	104604012928735	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	708	141	6	1
+Kristdemokraterna i Dalarna	Kristdemokraterna Dalarna	321670347944266	Facebook	jamtland_county_SE	Jämtland County, Sweden	6	1	704	190	44	9
+Olof Palme International Center	Olof Palme International Center	62185934430	Facebook	jamtland_county_SE	Jämtland County, Sweden	5	1	683	300	6	2
+Internet Advertising		303479743893373	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	638	127	6	1
+Kristdemokraterna Arboga	Stenzelius Jonas Peter Mikael	1083070925184919	Facebook	jamtland_county_SE	Jämtland County, Sweden	7	1	622	114	5	1
+Centerkvinnorna	Lek Ingrid Magdalena	265585313460256	Facebook	jamtland_county_SE	Jämtland County, Sweden	8	1	579	98	6	1
+Forum Syd	Forum Syd	152060917636	Facebook	jamtland_county_SE	Jämtland County, Sweden	5	1	556	205	5	1
+Saco	Saco	133910158381	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	552	110	1	0
+Annie Lööf	Centerpartiet	118943054880945	Facebook	jamtland_county_SE	Jämtland County, Sweden	4	1	529	105	4	0
+Centerpartiet i Uppsala län	Grew Hedda Anna Magdalena Jarta	801293393230795	Facebook	jamtland_county_SE	Jämtland County, Sweden	5	1	505	190	4	1
+FPlus – nyhetstjänsten för företagsamma	fPlus	130927360876045	Facebook	jamtland_county_SE	Jämtland County, Sweden	4	1	457	91	4	0
+Jörgen Warborn EU-kandidat	Moderaterna	56002955332	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	423	84	4	1
+Linus Lakso - MP	Miljöpartiet de gröna	1038425926323402	Facebook	jamtland_county_SE	Jämtland County, Sweden	5	1	421	75	3	0
+Liberalerna Norrmalm	Tufvesson Elsa Christina	173275532684116	Facebook	jamtland_county_SE	Jämtland County, Sweden	13	1	394	41	4	0
+Jan Björklund	Liberalerna	221193798389602	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	381	190	17	3
+Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	jamtland_county_SE	Jämtland County, Sweden	9	1	376	56	1	0
+IOGT-NTO	IOGT-NTO	28237261288	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	369	170	16	3
+Tobias Baudin	Kommunal	614939535271869	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	325	65	4	2
+Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	jamtland_county_SE	Jämtland County, Sweden	5	1	309	62	3	1
+20% Klimatvarning	Arleskar Carl Albin	362163934600158	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	309	126	10	2
+Susanna Gideonsson	Handelsanställdas förbund	2256836864595743	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	287	57	3	1
+Kristdemokraterna Uppsala	Kristdemokraterna Uppsala	783969528368300	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	285	95	7	1
+WaterAid Sverige	WaterAid Sverige	175843834306	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	269	73	0	0
+Folkstyret	Ströberg Mikael	1243789685638222	Facebook	jamtland_county_SE	Jämtland County, Sweden	5	1	264	36	2	0
+Landsbygdspartiet oberoende	Landsbygdspartiet oberoende	1549988978561671	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	235	117	10	2
+Nackamoderaterna	Nackamoderaterna	132143480932	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	231	115	2	1
+Skattebetalarnas Förening	Skattebetalarnas Förening	72832167834	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	228	114	1	0
+Sveriges Kommunistiska Parti	Sveriges Kommunistiska Parti	133234606721672	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	222	111	2	1
+Moderaterna i Håbo	Erling Björn Karl Gustaf	256926791030140	Facebook	jamtland_county_SE	Jämtland County, Sweden	4	1	217	0	1	0
+Pietro Marchesi	Marchesi Pietro Angelo Giuseppe	412659735929497	Facebook	jamtland_county_SE	Jämtland County, Sweden	4	1	200	34	3	1
+Utvecklingsmagasinet (fd Biståndsdebatten)	Edquist Kerstin Helena	162523667123095	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	191	38	1	0
+Fredsövning	ABRAHAMSSON PER-OLOV	717556358417977	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	181	36	1	0
+KD Sigtuna	Makris Jessica Therese	2063183643940247	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	180	36	1	0
+Gröna Studenter	Almén Henrik Carl Olof	31779071967	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	179	89	8	1
+Vänsterpartiet Solna	Vänsterpartiet 	273249776157066	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	177	29	1	0
+Kristdemokraterna Fyrbodal	Kristdemokraterna i VGN	1764033887144522	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	175	31	8	2
+Socialdemokraterna Kungälv	Kungälvs Socialdemokratiska Arbetarekommun	241319269242484	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	171	29	1	0
+Kryssa Mohammad Omran KD	Omran Mohammad	294934427940073	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	169	68	1	0
+Vänsterpartiet Umeå	Sellstedt Karl Sven Andreas	237863203023150	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	159	32	1	0
+Centerpartiet Uppsala Län	Grew Hedda Anna Magdalena Jarta	597947044056811	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	152	61	0	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	jamtland_county_SE	Jämtland County, Sweden	14	1	150	64	0	0
+Socialdemokraterna i Jönköpings län	Socialdemokraterna i Jönköpings län	390479295816	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	146	29	1	0
+Martin Ängeby	Angeby Martin Lennart Valdemar	354019898061233	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	143	24	2	0
+Studieförbundet Bilda	Wallstedt Bo Fredrik	161514177194883	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	141	28	1	0
+Centerpartiet Upplands Väsby	Magnusson Kjell Johan Sonny	1457926257795252	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	137	21	2	0
+Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	125	17	1	0
+Kristdemokraterna Sörmland	Tinglöf Miriam Monica Mariana	1633975010236193	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	120	24	1	0
+Centerpartiet i Umeå	Centerpartiet	450620155297	Facebook	jamtland_county_SE	Jämtland County, Sweden	4	1	111	0	1	0
+Socialdemokraterna i Mark	Andersson Hakan Ulf Goran	528944283871109	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	110	22	1	0
+Kristdemokraterna Västerbotten	Kristdemokraterna Västerbotten	414156238684191	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	104	17	1	0
+KD Region Uppsala	KD Region Uppsala	195658617439309	Facebook	jamtland_county_SE	Jämtland County, Sweden	4	1	103	0	0	0
+Liberalerna Västmanland	Liberalerna Västmanland	112927778743586	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	100	20	0	0
+Grön Omstart	Wallin Lena Maria	407812702944641	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	100	16	0	0
+Anna Vikström		1671556912954715	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	98	19	0	0
+Axess Magasin & TV	Axess Magasin & TV	887305194662637	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	96	19	0	0
+Karin Karlsbro - Liberalerna.	Liberalerna	559163754139097	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	94	18	0	0
+Georgia Ferris KD EU-Kandidat	Ferris Georgia Minnie Anna	407374246718043	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	91	18	0	0
+KD Kungsbacka	KD Kungsbacka	2024157037852156	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	91	18	0	0
+Moderaterna i Mölndal	Brown Stjarna Amanda Charlotte	125396154314182	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	90	18	1	0
+Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	88	22	1	0
+Arbetsmarknadsnytt	Arbetsmarknadsnytt	799634660143537	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	88	17	0	0
+Reformisterna	Reformisterna	2337692372925538	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	84	16	0	0
+Fria Moderata Studentförbundet	Fria Moderata Studentförbundet	119885094691458	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	80	16	1	0
+Eva B Arnesson - KD	Eva B Arnesson - KD	297923747637590	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	79	15	0	0
+Liberalerna Västerås	Liberalerna Västerås	39940078116	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	77	15	0	0
+Vänsterpartiet Fyrbodal	Vänsterpartiet Fyrbodal	154507768394620	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	76	15	0	0
+Richard Brodd Liberalerna	Brodd Karl Erik Richard	223726468440460	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	73	14	6	1
+Kvinna till Kvinna	Kvinna till Kvinna	153028052500	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	70	14	0	0
+Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	68	13	0	0
+Moderaterna i Arboga	Soderland Anders Mikael	1307727569320278	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	68	13	0	0
+Stiftelsen Expo	Stiftelsen Expo	208751565805849	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	64	13	0	0
+KDU Göteborg	KDU Göteborg	337673949604125	Facebook	jamtland_county_SE	Jämtland County, Sweden	4	1	60	0	0	0
+Jan Lenander, politiskt engagerad	Lenander Jan Richard	1834522019966466	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	58	0	0	0
+Marie Nilsson	IF Metall	292532504512919	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	56	3	0	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	55	27	0	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	jamtland_county_SE	Jämtland County, Sweden	4	1	53	23	0	0
+Miljöpartiet de gröna i Helsingborg	Miljöpartiet de gröna i Helsingborg	106956499327992	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	51	8	0	0
+Timbro	Timbro	237146235237	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	43	7	0	0
+Afram Yakoub	Yakuob Afram	1849562398465143	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	42	8	0	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	40	18	0	0
+Arbetarekommunen	Persson Gunnar Henrik Haakan	2053389964962411	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	40	0	0	0
+Stoppa höjningen av Sveriges EU-avgift	Fria Moderata Studentförbundet	306402583588293	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	38	7	0	0
+Caritas Sweden		119140545477108	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	34	0	0	0
+Kristdemokraterna i Gagnef	Kristdemokraterna Dalarna	273483286188959	Facebook	jamtland_county_SE	Jämtland County, Sweden	2	1	31	0	0	0
+Jesper Skalberg Karlsson	Skalberg Karlsson Jesper Jens J	2171970199486213	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	29	5	0	0
+Adnan Dibrani till Bryssel	Ghafari Sebastian	1308296045984813	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	25	0	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	jamtland_county_SE	Jämtland County, Sweden	3	1	20	6	0	0
+Socialdemokraterna Hässleholm	Hässleholms Socialdemokratiska arbetarekommun	838924659467812	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	18	0	0	0
+Tankar Online		114769995938282	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	14	0	1	0
+Kristdemokraterna Vänersborg	Nilsson Anna Maria	1436550706597391	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	14	0	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	13	7	0	0
+Anders G Johansson	Johansson Anders Gustaf Werner	357659877249	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	12	0	0	0
+SSU Kalmar Län	SSU Kalmar län	241658249370356	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	11	0	0	0
+Moderaterna i Stenungsund	Renfors Anna Maria	488439967871997	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	9	0	0	0
+Kristdemokraterna i Örebro län	Cesar Eje Alexander	430535663641398	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	9	0	0	0
+Kommunistiska Partiet Stockholm		1572942986309050	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	5	0	0	0
+Moderaterna Kungsbacka	Moderaterna Kungsbackakretsen	121182911263997	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	4	0	0	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	3	1	0	0
 European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	3	2	0	0
-Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	2	0	0	0
+Bodil Valero sida	Valero Bodil Elisabeth	300733377216643	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	3	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	1	0	0	0
+Big News Buzz		125179374733697	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	1	1	0	0
+Free Quran Education		388655174641163	Facebook	jamtland_county_SE	Jämtland County, Sweden	1	1	1	0	0	0

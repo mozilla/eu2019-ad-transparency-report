@@ -1,4 +1,5 @@
 week_code	week_label	first_day	last_day	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-w020	Week 20	2019-05-13	2019-05-19	DE	Germany	7544	239	26029471	5578589	773843	7504
-w019	Week 19	2019-05-06	2019-05-12	DE	Germany	1	1	16571	3314	32	0
-w018	Week 18	2019-04-29	2019-05-05	DE	Germany	1	1	16571	3314	32	0
+w021	Week 21	2019-05-20	2019-05-26	DE	Germany	33502	874	248392975	75696897	3758596	248668
+w020	Week 20	2019-05-13	2019-05-19	DE	Germany	9825	330	25933388	6711206	635120	12226
+w019	Week 19	2019-05-06	2019-05-12	DE	Germany	1	1	13384	2676	26	0
+w018	Week 18	2019-04-29	2019-05-05	DE	Germany	1	1	13384	2676	26	0

@@ -1,109 +1,240 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	week_code_filter	week_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-INBOX	New Digital Media	369693523475596	Facebook	w020	Week 20	EL	Greece	15	1	1713332	742259	2283	199
-Οι Έλληνες	In Progress	2273336566260671	Facebook	w020	Week 20	EL	Greece	2	1	699486	299780	1996	999
-Kostas Dervos	Kostas Dervos	1970779819866623	Facebook	w020	Week 20	EL	Greece	14	1	629556	191851	1385	0
-Cruel	In Progress	1949870255322243	Facebook	w020	Week 20	EL	Greece	1	1	499668	199867	998	499
-In Progress	In Progress	254883792041627	Facebook	w020	Week 20	EL	Greece	1	1	499650	199860	998	499
-European Parliament	European Parliament	178362315106	Facebook	w020	Week 20	EL	Greece	1	1	499637	199855	498	99
-ΣΥ.ΡΙΖ.Α.	ΣΥ.ΡΙΖ.Α.	31895177275	Facebook	w020	Week 20	EL	Greece	1	1	499618	199847	998	499
-Ομάδα Μνήμης	In Progress	230319800467420	Facebook	w020	Week 20	EL	Greece	1	1	499610	199844	998	499
-Θοδωρής Ζαγοράκης / Thodoris Zagorakis	Θοδωρής Ζαγοράκης / Thodoris Zagorakis	235332330007800	Facebook	w020	Week 20	EL	Greece	1	1	499608	199843	498	99
-Γιώργος Καμίνης	Georgios Kaminis	186974508081005	Facebook	w020	Week 20	EL	Greece	6	1	400780	139925	1493	499
-Ρένα Δούρου	Ρένα Δούρου	225197477683663	Facebook	w020	Week 20	EL	Greece	43	1	344957	72000	4257	0
-Νάσος Ηλιόπουλος	Athanasios Iliopoulos	1535215766758773	Facebook	w020	Week 20	EL	Greece	7	1	300993	60000	693	0
-Κίνημα Αλλαγής	Κίνημα Αλλαγής	504891253213373	Facebook	w020	Week 20	EL	Greece	2	1	299794	149898	597	99
-Kyriakos Mitsotakis	ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ	34848567724	Facebook	w020	Week 20	EL	Greece	5	1	209834	44965	494	0
-Βασιλική Λαζαράκου	Βασιλική Λαζαράκου 	443842809693601	Facebook	w020	Week 20	EL	Greece	3	1	199007	69788	694	99
-Νίκος Ανδρουλάκης	Νίκος Ανδρουλάκης	216089191899991	Facebook	w020	Week 20	EL	Greece	5	1	124900	30979	494	0
-Nikos Papandreou	Nikos Papandreou	2245032148843299	Facebook	w020	Week 20	EL	Greece	4	1	114908	25981	395	0
-Ιωάννης Σγουρός	Ιωαννης Σγουρος	1401098180146606	Facebook	w020	Week 20	EL	Greece	3	1	109996	24999	297	0
-Παύλος Ελευθεριάδης	Pavlos Eleftheriadis	768996799785550	Facebook	w020	Week 20	EL	Greece	4	1	109937	21988	395	0
-Giorgos Sklavos	Georgios Sklavos	1042099132649984	Facebook	w020	Week 20	EL	Greece	3	1	109856	24965	296	0
-Voxpop Analysis	Ιωάννης Απόστολος Σκλίας	126822114784105	Facebook	w020	Week 20	EL	Greece	3	1	100997	20000	697	100
+INBOX	New Digital Media	369693523475596	Facebook	w020	Week 20	EL	Greece	22	1	1843224	791225	2612	199
+ΣΥ.ΡΙΖ.Α.	ΣΥ.ΡΙΖ.Α.	31895177275	Facebook	w020	Week 20	EL	Greece	2	1	1498993	699536	5994	1498
+In Progress	In Progress	254883792041627	Facebook	w020	Week 20	EL	Greece	2	1	1498876	699474	5993	1498
+Kostas Dervos	Kostas Dervos	1970779819866623	Facebook	w020	Week 20	EL	Greece	18	1	859433	300805	1632	0
+European Parliament	European Parliament	178362315106	Facebook	w020	Week 20	EL	Greece	2	1	749418	299768	1497	749
+Οι Έλληνες	In Progress	2273336566260671	Facebook	w020	Week 20	EL	Greece	2	1	624555	249822	1247	624
+Ρένα Δούρου	Ρένα Δούρου	225197477683663	Facebook	w020	Week 20	EL	Greece	51	1	591672	179555	5436	404
+Γιώργος Καμίνης	Georgios Kaminis	186974508081005	Facebook	w020	Week 20	EL	Greece	8	1	583853	266108	3523	672
+Alexis Tsipras	ΣΥ.ΡΙΖ.Α.	12224403053	Facebook	w020	Week 20	EL	Greece	1	1	499999	200000	999	500
+Cruel	In Progress	1949870255322243	Facebook	w020	Week 20	EL	Greece	1	1	499670	199868	998	499
+Ομάδα Μνήμης	In Progress	230319800467420	Facebook	w020	Week 20	EL	Greece	1	1	499621	199848	998	499
+Kyriakos Mitsotakis	ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ	34848567724	Facebook	w020	Week 20	EL	Greece	6	1	403459	171753	921	274
+Thodoris Kalabokis	Thodoris Kalabokis	311791572779718	Facebook	w020	Week 20	EL	Greece	4	1	391417	171564	2413	482
+Labros Palantzas / Λάμπρος Παλάντζας	Lampros Palantzas 	540653716458457	Facebook	w020	Week 20	EL	Greece	8	1	287956	131250	606	112
+To Potami	To Potami	240638659452549	Facebook	w020	Week 20	EL	Greece	1	1	285714	142857	1428	285
+Κίνημα Αλλαγής	Κίνημα Αλλαγής	504891253213373	Facebook	w020	Week 20	EL	Greece	6	1	284454	123430	577	105
+Βασιλική Λαζαράκου	Βασιλική Λαζαράκου 	443842809693601	Facebook	w020	Week 20	EL	Greece	3	1	280169	98860	558	214
+Νάσος Ηλιόπουλος	Athanasios Iliopoulos	1535215766758773	Facebook	w020	Week 20	EL	Greece	8	1	265967	128511	1056	192
+Βαρουξής Λευτέρης - Varouxis Lefteris	Digital Solutions	280496205994839	Facebook	w020	Week 20	EL	Greece	7	1	239769	89951	574	66
+Στέλιος Κούλογλου - Stelios Kouloglou	Στέλιος Κούλογλου	230852653624004	Facebook	w020	Week 20	EL	Greece	2	1	226001	104673	225	88
+Δημήτρης Κωνσταντακόπουλος	Δημητριος Κωνσταντακοπουλος	912293735783615	Facebook	w020	Week 20	EL	Greece	2	1	199856	99929	197	0
+Μανώλης Γλυνός	Emmanouil Glynos	968742453313048	Facebook	w020	Week 20	EL	Greece	7	1	191026	92419	905	254
+Νίκος Ανδρουλάκης	Νίκος Ανδρουλάκης	216089191899991	Facebook	w020	Week 20	EL	Greece	8	1	189873	61955	296	0
+Ζωή Κωνσταντοπούλου - Zoe Konstantopoulou	Πλεύση Ελευθερίας	1489639131352219	Facebook	w020	Week 20	EL	Greece	8	1	180815	70422	345	33
+Γιώργος Ξηραδάκης - Υποψήφιος Ευρωβουλευτής	George Xiradakis	300217683952795	Facebook	w020	Week 20	EL	Greece	5	1	155995	46000	1045	150
+Ιωάννης Σγουρός	Ιωαννης Σγουρος	1401098180146606	Facebook	w020	Week 20	EL	Greece	3	1	149998	59999	514	83
+Nikos Papandreou	Nikos Papandreou	2245032148843299	Facebook	w020	Week 20	EL	Greece	7	1	143452	47252	737	61
+Ζωγράφου Ώρα για δουλειά	Vasilis Thodas	618521531881415	Facebook	w020	Week 20	EL	Greece	7	1	126993	31000	693	0
+VPA Research		369030033713837	Facebook	w020	Week 20	EL	Greece	11	1	125924	27119	488	20
+Giorgos Patoulis	Georgios Patoulis	668804566601196	Facebook	w020	Week 20	EL	Greece	3	1	124997	25000	247	0
+Γιώργος Ρωμανιάς - Giorgos Romanias	Γεωργιος Ρωμανιας	323464321610249	Facebook	w020	Week 20	EL	Greece	12	1	124364	31184	427	0
+Giorgos Amiras - Γιώργος Αμυράς	Giorgos Amiras - Γιώργος Αμυράς	1407652086114560	Facebook	w020	Week 20	EL	Greece	1	1	119874	59937	299	59
+Γιώργος Χατζημάρκος	Γιώργος Χατζημάρκος	2128150737398149	Facebook	w020	Week 20	EL	Greece	5	1	110553	30277	392	38
+ΣΥΜΠΟΛΙΤΕΙΑ	Dimitra Kehagia	748401935189589	Facebook	w020	Week 20	EL	Greece	3	1	109997	25000	297	0
+Νίκη Τζαβέλα - Niki Tzavela Official	Φερονικη Τζαβελα	866035200090418	Facebook	w020	Week 20	EL	Greece	2	1	108173	51590	514	99
+Δημήτρης Καιρίδης-Dimitris Kairidis	Dimitrios Kairidis	165710610795923	Facebook	w020	Week 20	EL	Greece	24	1	106008	26442	592	0
+Ανεξάρτητοι 'Ελληνες	Start Business Hellas	343233902394715	Facebook	w020	Week 20	EL	Greece	1	1	99999	49999	499	249
 Έλληνες Ριζοσπάστες	Leonidas Chrysochoou	2076559345980059	Facebook	w020	Week 20	EL	Greece	2	1	99997	19999	198	0
-Άννα Μισέλ Ασημακοπούλου	Άννα Μισέλ Ασημακοπούλου	1394997234118853	Facebook	w020	Week 20	EL	Greece	2	1	99936	19987	197	0
-Giorgos Amiras - Γιώργος Αμυράς	Giorgos Amiras - Γιώργος Αμυράς	1407652086114560	Facebook	w020	Week 20	EL	Greece	1	1	99899	49950	498	99
-Νίκη Τζαβέλα - Niki Tzavela Official	Φερονικη Τζαβελα	866035200090418	Facebook	w020	Week 20	EL	Greece	1	1	99849	49925	498	99
-Labros Palantzas / Λάμπρος Παλάντζας	Lampros Palantzas 	540653716458457	Facebook	w020	Week 20	EL	Greece	6	1	90993	29999	593	0
-Γιώργος Ξηραδάκης - Υποψήφιος Ευρωβουλευτής	George Xiradakis	300217683952795	Facebook	w020	Week 20	EL	Greece	5	1	75995	21000	495	0
-Νίκος Πέππας - Υποψήφιος Δημοτικός Σύμβουλος	Νίκος Πέππας	589295414486770	Facebook	w020	Week 20	EL	Greece	4	1	60995	11999	395	0
-Βαρουξής Λευτέρης - Varouxis Lefteris	Digital Solutions	280496205994839	Facebook	w020	Week 20	EL	Greece	4	1	60995	11999	395	0
-Ζωγράφου Ώρα για δουλειά	Vasilis Thodas	618521531881415	Facebook	w020	Week 20	EL	Greece	2	1	59998	15000	198	0
-Ισμήνη Μώρου - Υποψήφια Ευρωβουλευτής	Μωρου Ισμηνη	650014548746122	Facebook	w020	Week 20	EL	Greece	2	1	59948	14985	197	0
-Ζωή Κωνσταντοπούλου - Zoe Konstantopoulou	Πλεύση Ελευθερίας	1489639131352219	Facebook	w020	Week 20	EL	Greece	2	1	59937	14987	197	0
-Ιωακείμ Καλλιβρούσης - Υποψ. Δημ. Σύμβουλος Δήμου Αθηναίων	Ιωακείμ Καλλιβρούσης	157899748482447	Facebook	w020	Week 20	EL	Greece	2	1	54998	11000	198	0
-Οικολογία Αλληλεγγύη	Γεώργιος Πανούχος	202906359747419	Facebook	w020	Week 20	EL	Greece	2	1	54998	11000	198	0
-Γιάννης Δάλμας	Ioannis Dalmas	321260791914587	Facebook	w020	Week 20	EL	Greece	2	1	50948	9990	197	0
-Dimitris Aslanidis	Dimitrios Aslanidis	617015765409839	Facebook	w020	Week 20	EL	Greece	1	1	49999	10000	99	0
-Δημήτρης Παπαδημούλης	Dimitrios Papadimoulis	528797520505550	Facebook	w020	Week 20	EL	Greece	1	1	49999	10000	99	0
-Giorgos Patoulis	Georgios Patoulis	668804566601196	Facebook	w020	Week 20	EL	Greece	1	1	49999	10000	99	0
-Γιώργος Χατζημάρκος	Γιώργος Χατζημάρκος	2128150737398149	Facebook	w020	Week 20	EL	Greece	1	1	49999	10000	99	0
-Ανεξάρτητοι 'Ελληνες	Start Business Hellas	343233902394715	Facebook	w020	Week 20	EL	Greece	1	1	49999	10000	499	99
-Sofia Sakorafa	Sofia Sakorafa	211831995597479	Facebook	w020	Week 20	EL	Greece	1	1	49998	9999	98	0
-Κουρουμπλής Παναγιώτης/Kouroumplis Panagiotis	Panagiotis Kouroumplis	248244001876102	Facebook	w020	Week 20	EL	Greece	1	1	49980	9996	98	0
-Λυδία Ιωαννίδου Μουζάκα	mastologos	318223092210594	Facebook	w020	Week 20	EL	Greece	1	1	49972	9994	98	0
-Kleopatra Sidiropoulou Υποψήφια Ευρωεκλογών με το Ποτάμι	Kleopatra Sidiropoulou	272999270266817	Facebook	w020	Week 20	EL	Greece	1	1	49956	9991	98	0
-Δημήτρης Κωνσταντακόπουλος	Δημητριος Κωνσταντακοπουλος	912293735783615	Facebook	w020	Week 20	EL	Greece	1	1	49949	9990	98	0
-Πατριωτική Ριζοσπαστική Ένωση	Ελευθεριος Συναδινος	2119221251680890	Facebook	w020	Week 20	EL	Greece	1	1	49923	9984	98	0
-Κατερίνα Κούτρη - Katerina Koutri	Aikaterini Koutri	314010635931171	Facebook	w020	Week 20	EL	Greece	1	1	49918	9983	98	0
-European Commission	European Commission	107898832590939	Facebook	w020	Week 20	EL	Greece	2	1	41210	20605	102	20
-Γιώργος Ρωμανιάς - Giorgos Romanias	Γεωργιος Ρωμανιας	323464321610249	Facebook	w020	Week 20	EL	Greece	7	1	31992	9000	693	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	w020	Week 20	EL	Greece	1	1	20150	10075	50	10
-Δημήτριος Μελάς	Σ. Παυλιδης	322928891749288	Facebook	w020	Week 20	EL	Greece	8	1	19978	2999	790	0
-ΣΥΜΠΟΛΙΤΕΙΑ	Dimitra Kehagia	748401935189589	Facebook	w020	Week 20	EL	Greece	3	1	15997	6000	297	0
-Μανώλης Γλυνός	Emmanouil Glynos	968742453313048	Facebook	w020	Week 20	EL	Greece	5	1	12995	2000	495	0
-Politico Lab	Politico Lab	1092676900776165	Facebook	w020	Week 20	EL	Greece	2	1	10997	5000	197	0
-Γιάννης Κωνσταντινίδης - Υποψήφιος Ευρωβουλευτής - Το Ποτάμι	Ioannis Konstantinidis	1621971371282707	Facebook	w020	Week 20	EL	Greece	1	1	9999	5000	99	0
-Γιώργος Σταύρος Κρεμλής - Υποψήφιος Ευρωβουλευτής	Γιώργος Σταύρος Κρεμλής	548959368535123	Facebook	w020	Week 20	EL	Greece	1	1	9993	4997	98	0
-Πέτρος Κόκκαλης - Petros Kokkalis	Πέτρος Κόκκαλης - Petros Kokkalis	234040963454964	Facebook	w020	Week 20	EL	Greece	2	1	9993	1999	197	0
-Έλενα Κουντουρά	Elena Kountoura	268593946525928	Facebook	w020	Week 20	EL	Greece	1	1	9987	4994	98	0
-Νίκος Χουντής-Nikos Chountis	Konstantinos Siampanopoulos	462603193829493	Facebook	w020	Week 20	EL	Greece	1	1	9986	4993	98	0
-Δημιουργία Ξανά	Δημιουργία Ξανά	226397774096827	Facebook	w020	Week 20	EL	Greece	4	1	7996	1000	396	0
-Θάνος Δούρος - Υποψήφιος Δημοτικός Σύμβουλος με το Σπιράλ	Αθανασιος Δουρος	244248349814901	Facebook	w020	Week 20	EL	Greece	4	1	7995	1000	396	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	w020	Week 20	EL	Greece	2	1	7719	1950	26	0
-Lamprinos-Vlattas Efstratios - Stratos	Ευστρατιος Λαμπρινος Βλαττας	378201616112682	Facebook	w020	Week 20	EL	Greece	2	1	5998	1000	198	0
-Δέσποινα Καϊσίδου - Υποψήφια Σύμβουλος Περιφέρειας Αττικής με τη ΝΕΑ ΑΡΧΗ	Δέσποινα Καϊσίδου	2362047030473326	Facebook	w020	Week 20	EL	Greece	2	1	5998	1000	198	0
-Άσπα Γοσποδίνη - Υποψήφια Ευρωβουλευτής Κινήματος Αλλαγής	Άσπα Γοσποδίνη	566613627164683	Facebook	w020	Week 20	EL	Greece	1	1	4999	1000	99	0
-Δρ. Γρηγόρης Λέων, Ιατροδικαστής	Grigorios Leon	185241851651860	Facebook	w020	Week 20	EL	Greece	1	1	4999	1000	99	0
-Smart Concepts	Smart Concepts	283818458361591	Facebook	w020	Week 20	EL	Greece	1	1	4999	1000	99	0
-Δημήτρης Γούπιος - Υποψήφιος Δημοτικός Σύμβουλος Παλαιού Φαλήρου	Georgios Kapellaris	606260353179128	Facebook	w020	Week 20	EL	Greece	1	1	4999	1000	99	0
-Κύμα Ενωμένων Πολιτών - Δημήτρης Δαβάκης	Dimitrios Davakis	1514283778797349	Facebook	w020	Week 20	EL	Greece	1	1	4999	1000	99	0
-Σακελλαρίου Βασιλική / Βίκυ - Sakellariou Vasiliki / Vicky	Vasiliki Sakellariou	574037653104636	Facebook	w020	Week 20	EL	Greece	1	1	4999	1000	99	0
-Apostolos Katsifaras / Απόστολος Κατσιφάρας	TEAMAPP	888149571263111	Facebook	w020	Week 20	EL	Greece	1	1	4999	1000	99	0
-Βαγγέλης Τσαμήτας - Υποψήφιος Δήμαρχος Αλίμου	Baggelis Tsamitas	794521677550806	Facebook	w020	Week 20	EL	Greece	1	1	4999	1000	99	0
-Βασίλης Κωτσιόπουλος Υπ.Ευρωβουλευτής	Β. Κωτσιόπουλος	1524942397638885	Facebook	w020	Week 20	EL	Greece	1	1	4999	1000	99	0
-Αποστολος Σιατρας	Apostolos Siatras	2351826395054053	Facebook	w020	Week 20	EL	Greece	1	1	4999	999	98	0
-Erik Miltiadis Edman	Edman Erik Miltiadis	918665584992305	Facebook	w020	Week 20	EL	Greece	1	1	4999	1000	99	0
-Δημήτρης Καψάλης - Υποψήφιος Δημοτικός Σύμβουλος	Dimitrios Kapsalis	576024002899277	Facebook	w020	Week 20	EL	Greece	1	1	4999	1000	99	0
-Ματίνα Πρίγκου - Υποψήφια Δημοτική Σύμβουλος Βόλου	Stamatia Prigkou	438322063396527	Facebook	w020	Week 20	EL	Greece	1	1	4999	1000	99	0
-Αλλάζουμε Νοοτροπία - Αλλάζουμε μαζί Αθανάσιος Κατσίμπελης	Athanasios Katsimpelis	275653935665	Facebook	w020	Week 20	EL	Greece	1	1	4999	1000	99	0
-Μάκης Παπαδόπουλος - Ο Τόπος Της Ζωής Μας	Μάκης Παπαδόπουλος	1433780063507247	Facebook	w020	Week 20	EL	Greece	1	1	4999	1000	99	0
-Νότης Μαριάς, Ανεξάρτητος Ευρωβουλευτής	Επαμεινωνδας Μαριας	337788662974718	Facebook	w020	Week 20	EL	Greece	1	1	4996	999	98	0
-Eva Boura	Eva Boura	2168265216585688	Facebook	w020	Week 20	EL	Greece	1	1	4994	999	98	0
-Υποψήφιος Ευρωβουλευτής Νικόλας Καρακίτσος	Nikolaos Karakitsos	299812430697382	Facebook	w020	Week 20	EL	Greece	1	1	4993	998	98	0
-Μανώλης Κεφαλογιάννης / Manolis Kefalogiannis	Μανώλης Κεφαλογιάννης / Manolis Kefalogiannis	51638783172	Facebook	w020	Week 20	EL	Greece	1	1	4992	998	98	0
-ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ	ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ	82362291274	Facebook	w020	Week 20	EL	Greece	1	1	4990	998	98	0
-Thodoris Kalabokis	Thodoris Kalabokis	311791572779718	Facebook	w020	Week 20	EL	Greece	1	1	4988	997	98	0
-Βενετόπουλος Χριστόδουλος - Υπ. Ευρωβουλευτής ΝΕΟ	Χριστοδουλος Βενετοπουλος	289155901968557	Facebook	w020	Week 20	EL	Greece	1	1	4973	994	98	0
-Γεώργιος Χατζίκος - Θεσσαλονίκη Υπεύθυνα 2019	Γεωργιος Χατζικος	616607865453873	Facebook	w020	Week 20	EL	Greece	3	1	2997	0	297	0
-Αναστάσης Περράκης - Το Ποτάμι	Anastasios Perrakis	758329734261780	Facebook	w020	Week 20	EL	Greece	3	1	2996	0	296	0
-Αριστερή Πρωτοβουλία Γλυφάδας - με την αριστερά της ρήξης & της ανατροπής	Παναγιωτης Βασιλακης	271036136394392	Facebook	w020	Week 20	EL	Greece	2	1	1998	0	198	0
-Θοδωρής Δουλουμπέκης - Theodore Douloumpekis	Theodoros Douloumpekis 	310648756200075	Facebook	w020	Week 20	EL	Greece	1	1	999	0	99	0
-Αντωνιάδου Αθηνά	Αθηνα Αντωνιαδου	2058682324431724	Facebook	w020	Week 20	EL	Greece	1	1	999	0	99	0
-Κώστας Ζώμπος / Γαλάτσι. Ζούμε εδώ	Κώστας Ζώμπος	107144245980503	Facebook	w020	Week 20	EL	Greece	1	1	999	0	99	0
-Θάλεια Μπρέντα - Υποψήφια Ευρωβουλευτής	Αικατερινη Γκιαλη	2481134885232513	Facebook	w020	Week 20	EL	Greece	1	1	999	0	98	0
-Αφροδίτη Μπλέτα-Afroditi Bleta	Afroditi Bleta	565688613941809	Facebook	w020	Week 20	EL	Greece	1	1	999	0	99	0
-Δρόσος Α. Δημήτριος - Υποψήφιος Ευρωβουλευτής ΜέΡΑ25	Δημητριος Δροσος	255454748717785	Facebook	w020	Week 20	EL	Greece	1	1	999	0	99	0
-Βαγγέλης Βαβουλιώτης	Βαβουλιωτης Αθανασιος	386756061904875	Facebook	w020	Week 20	EL	Greece	1	1	999	0	99	0
-Νέα Ελληνική Ορμή	Evangelia Palaiokosta	314073952467513	Facebook	w020	Week 20	EL	Greece	1	1	999	0	99	0
-Κατερίνα Παπακώστα-Σιδηροπούλου	Evangelia Palaiokosta	565487000137386	Facebook	w020	Week 20	EL	Greece	1	1	999	0	99	0
-Εφημερίδα Πατρίς	Digital Solutions	480080462017104	Facebook	w020	Week 20	EL	Greece	1	1	999	0	99	0
-Μανώλης Βέμης	Εμμανουηλ Βεμης	395239811075145	Facebook	w020	Week 20	EL	Greece	1	1	999	0	99	0
-Konstantinos Konstantinidis	Konstantinos Konstantinidis	336520913810779	Facebook	w020	Week 20	EL	Greece	1	1	999	0	99	0
-Αντωνία Τουρλίδα - Υποψήφια Περιφερειακή Σύμβουλος Αιτωλοακαρνανίας	Αντωνία Τουρλίδα	347049225927669	Facebook	w020	Week 20	EL	Greece	1	1	999	0	99	0
+Πέτρος Κόκκαλης - Petros Kokkalis	Πέτρος Κόκκαλης - Petros Kokkalis	234040963454964	Facebook	w020	Week 20	EL	Greece	2	1	87457	17491	173	0
+Γιάννης Δάλμας	Ioannis Dalmas	321260791914587	Facebook	w020	Week 20	EL	Greece	3	1	83298	24160	240	25
+Δημιουργία Ξανά	Δημιουργία Ξανά	226397774096827	Facebook	w020	Week 20	EL	Greece	13	1	81267	32412	1009	171
+Παύλος Ελευθεριάδης	Pavlos Eleftheriadis	768996799785550	Facebook	w020	Week 20	EL	Greece	5	1	79960	36981	547	69
+Κουρουμπλής Παναγιώτης/Kouroumplis Panagiotis	Panagiotis Kouroumplis	248244001876102	Facebook	w020	Week 20	EL	Greece	2	1	74963	14992	148	0
+Κατερίνα Κούτρη - Katerina Koutri	Aikaterini Koutri	314010635931171	Facebook	w020	Week 20	EL	Greece	3	1	70785	17903	127	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	w020	Week 20	EL	Greece	20	1	70141	29500	406	41
+Άννα Μισέλ Ασημακοπούλου	Άννα Μισέλ Ασημακοπούλου	1394997234118853	Facebook	w020	Week 20	EL	Greece	2	1	64249	25698	84	0
+Νότης Μαριάς, Ανεξάρτητος Ευρωβουλευτής	Επαμεινωνδας Μαριας	337788662974718	Facebook	w020	Week 20	EL	Greece	2	1	61095	27219	271	50
+Ξένη Μπαλωτή - Χeni Baloti - Υποψήφια Ευρωβουλευτής με το Ποτάμι		Ξένη Μπαλωτή	276971633230269	Facebook	w020	Week 20	EL	Greece	4	1	59507	25470	116	14
+Dimitris Aslanidis	Dimitrios Aslanidis	617015765409839	Facebook	w020	Week 20	EL	Greece	2	1	55517	24425	43	0
+Οικολογία Αλληλεγγύη	Γεώργιος Πανούχος	202906359747419	Facebook	w020	Week 20	EL	Greece	4	1	55197	11000	217	0
+Apostolos Katsifaras / Απόστολος Κατσιφάρας	TEAMAPP	888149571263111	Facebook	w020	Week 20	EL	Greece	2	1	53332	10666	105	0
+Δημήτρης Παπαδημούλης	Dimitrios Papadimoulis	528797520505550	Facebook	w020	Week 20	EL	Greece	3	1	52498	10500	148	0
+ΗράκλειΟΝ αξίζει	Ηράκλειον Αξίζει	494815481050497	Facebook	w020	Week 20	EL	Greece	7	1	50498	10000	148	0
+Λυδία Ιωαννίδου Μουζάκα	mastologos	318223092210594	Facebook	w020	Week 20	EL	Greece	1	1	49970	9994	98	0
+Νικόλαος Δούκας - Nikolaos Doukas	Ν Δούκας	710946112632910	Facebook	w020	Week 20	EL	Greece	4	1	47014	9777	102	0
+Βαγγέλης Τσαμήτας - Υποψήφιος Δήμαρχος Αλίμου	Baggelis Tsamitas	794521677550806	Facebook	w020	Week 20	EL	Greece	3	1	46665	9333	151	0
+Πατριωτική Ριζοσπαστική Ένωση	Ελευθεριος Συναδινος	2119221251680890	Facebook	w020	Week 20	EL	Greece	2	1	46616	18310	62	0
+RISE TV	RISE TV	695231853900857	Facebook	w020	Week 20	EL	Greece	3	1	44972	8994	148	0
+Sofia Sakorafa	Sofia Sakorafa	211831995597479	Facebook	w020	Week 20	EL	Greece	2	1	43332	21666	232	40
+Evaggelos Venizelos	Evaggelos Venizelos	80258823622	Facebook	w020	Week 20	EL	Greece	2	1	43277	8655	85	0
+Θάνος Δούρος - Υποψήφιος Δημοτικός Σύμβουλος με το Σπιράλ	Αθανασιος Δουρος	244248349814901	Facebook	w020	Week 20	EL	Greece	4	1	41903	8380	150	0
+Ιωακείμ Καλλιβρούσης - Υποψ. Δημ. Σύμβουλος Δήμου Αθηναίων	Ιωακείμ Καλλιβρούσης	157899748482447	Facebook	w020	Week 20	EL	Greece	2	1	41665	8333	82	0
+thecaller.gr		1562561037325875	Facebook	w020	Week 20	EL	Greece	1	1	39999	20000	199	40
+Ισμήνη Μώρου - Υποψήφια Ευρωβουλευτής	Μωρου Ισμηνη	650014548746122	Facebook	w020	Week 20	EL	Greece	2	1	39961	7992	398	79
+Βασίλης Μάρκου υποψήφιος με τον Απ.Κατσιφάρα	Konstantinos Markou	470115806861343	Facebook	w020	Week 20	EL	Greece	1	1	39931	19966	199	39
+Βαρβάρα Αποστολοπούλου-Καλκαβούρα	Anastasia Kalkavoura	429854220918807	Facebook	w020	Week 20	EL	Greece	2	1	39264	7852	77	0
+Politico Lab	Politico Lab	1092676900776165	Facebook	w020	Week 20	EL	Greece	2	1	39165	8333	90	0
+Σπύρος Ριζόπουλος	Spyridon Rizopoulos	2127727860849871	Facebook	w020	Week 20	EL	Greece	5	1	35915	7083	119	0
+Giorgos Sklavos	Georgios Sklavos	1042099132649984	Facebook	w020	Week 20	EL	Greece	3	1	34953	7989	95	0
+Νίκος Πέππας - Υποψήφιος Δημοτικός Σύμβουλος	Νίκος Πέππας	589295414486770	Facebook	w020	Week 20	EL	Greece	5	1	34924	7535	535	42
+Μανώλης Κεφαλογιάννης / Manolis Kefalogiannis	Μανώλης Κεφαλογιάννης / Manolis Kefalogiannis	51638783172	Facebook	w020	Week 20	EL	Greece	1	1	33303	6660	65	0
+Νίκος Χουντής-Nikos Chountis	Konstantinos Siampanopoulos	462603193829493	Facebook	w020	Week 20	EL	Greece	1	1	33290	6658	65	0
+Voxpop Analysis	Ιωάννης Απόστολος Σκλίας	126822114784105	Facebook	w020	Week 20	EL	Greece	3	1	31950	11190	324	45
+Ήπειρος ΟΛΟΝ		263421554328684	Facebook	w020	Week 20	EL	Greece	1	1	29999	6000	59	0
+Θοδωρής Δουλουμπέκης - Theodore Douloumpekis	Theodoros Douloumpekis 	310648756200075	Facebook	w020	Week 20	EL	Greece	3	1	29979	5996	148	0
+Σακελλαρίου Βασιλική / Βίκυ - Sakellariou Vasiliki / Vicky	Vasiliki Sakellariou	574037653104636	Facebook	w020	Week 20	EL	Greece	4	1	28887	9444	154	0
+Alexandros Nikolaidis		431146606913709	Facebook	w020	Week 20	EL	Greece	1	1	28542	14271	71	14
+Μιχάλης Αγγελόπουλος	Michalis Angelopoulos	253581075582399	Facebook	w020	Week 20	EL	Greece	3	1	28445	5689	56	0
+Adequate Consulting	Adequate	965450110143851	Facebook	w020	Week 20	EL	Greece	11	1	28163	8333	320	0
+Δημήτριος Μελάς	Σ. Παυλιδης	322928891749288	Facebook	w020	Week 20	EL	Greece	8	1	27755	6331	270	0
+Γιάννης Κωνσταντινίδης - Υποψήφιος Ευρωβουλευτής - Το Ποτάμι	Ioannis Konstantinidis	1621971371282707	Facebook	w020	Week 20	EL	Greece	2	1	27499	6250	74	0
+Ιατράκης Ιωάννης	Stavros Karypidis	445923625979671	Facebook	w020	Week 20	EL	Greece	3	1	27499	6250	74	0
+Μάκης Παπαδόπουλος - Ο Τόπος Της Ζωής Μας	Μάκης Παπαδόπουλος	1433780063507247	Facebook	w020	Week 20	EL	Greece	1	1	24999	5000	49	0
+Δημήτρης Γούπιος - Υποψήφιος Δημοτικός Σύμβουλος Παλαιού Φαλήρου	Georgios Kapellaris	606260353179128	Facebook	w020	Week 20	EL	Greece	1	1	24999	5000	49	0
+Ανατροπή Δήμου Παύλου Μελά	Giorgos Liltsis	1929248140446088	Facebook	w020	Week 20	EL	Greece	2	1	24999	5000	49	0
+Βασίλης Σωτηρόπουλος	Vasileios Sotiropoulos	428087111291406	Facebook	w020	Week 20	EL	Greece	1	1	24987	4997	49	0
+Vagelis Meimarakis - Βαγγέλης Μεϊμαράκης	Vagelis Meimarakis - Βαγγέλης Μεϊμαράκης	533778063439430	Facebook	w020	Week 20	EL	Greece	1	1	24970	4994	49	0
+Έλενα Κουντουρά	Elena Kountoura	268593946525928	Facebook	w020	Week 20	EL	Greece	3	1	24481	7250	110	0
+Δρ. Γρηγόρης Λέων, Ιατροδικαστής	Grigorios Leon	185241851651860	Facebook	w020	Week 20	EL	Greece	2	1	23332	6666	99	0
+Πανιός Αθανάσιος του Αλεξάνδρου	Πανιος Αθανασιος	752299831811883	Facebook	w020	Week 20	EL	Greece	1	1	22205	11102	21	0
+Kleopatra Sidiropoulou Υποψήφια Ευρωεκλογών με το Ποτάμι	Kleopatra Sidiropoulou	272999270266817	Facebook	w020	Week 20	EL	Greece	1	1	22204	11102	110	22
+Κατερινα Μαρκου	Pulse and Opinion S.A.	832766380123763	Facebook	w020	Week 20	EL	Greece	3	1	21399	4280	42	0
+ΑΔΕΚ - Ανεξάρτητη Δημοτική Ενωτική Κίνηση Πετρούπολης	Ανεξάρτητη Δημοτική Ενωτική Κίνηση Πετρούπολης	620951011676414	Facebook	w020	Week 20	EL	Greece	2	1	21110	4222	121	20
+Μανώλης Γραφάκος - Manolis Grafakos	Manolis Grafakos	1788352434721617	Facebook	w020	Week 20	EL	Greece	3	1	20997	10000	297	0
+Δύναμη Πολιτών Ηρακλείου	Δύναμη Πολιτών Hρακλείου	738724249495865	Facebook	w020	Week 20	EL	Greece	2	1	20665	4000	105	0
+European Commission	European Commission	107898832590939	Facebook	w020	Week 20	EL	Greece	2	1	20602	10301	51	10
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	w020	Week 20	EL	Greece	1	1	20158	10079	50	10
+Αντώνης Καμπουράκης	Αντώνης Καμπουράκης	511556309330155	Facebook	w020	Week 20	EL	Greece	1	1	19999	4000	199	40
+Βασίλης Καπερνάρος		1454236241524042	Facebook	w020	Week 20	EL	Greece	1	1	19999	3999	199	40
+Θανάσης Λιακόπουλος - Όλοι μαζί μπορούμε καλύτερα	oloi-mazi	394013391085857	Facebook	w020	Week 20	EL	Greece	5	1	19331	4466	184	0
+Ελεύθερη Στερεά	Andreas Voulgaris	436882700404941	Facebook	w020	Week 20	EL	Greece	3	1	19154	3831	156	0
+Panos Reppas - Παναγιώτης Ρέππας	Panagiotis Reppas	381289095967251	Facebook	w020	Week 20	EL	Greece	5	1	18331	4166	160	0
+Βίκυ Φλέσσα -Vicky Flessa	Pulse and Opinion S.A.	344396292816360	Facebook	w020	Week 20	EL	Greece	1	1	16666	3333	33	0
+ActionAid Hellas	ActionAid Hellas	54529589753	Facebook	w020	Week 20	EL	Greece	1	1	16662	3332	166	33
+ΔΥΝΑΜΗ ΑΛΛΑΓΗΣ- ΚΩΣ	Zacharias Diakopanagiotis	133699433328732	Facebook	w020	Week 20	EL	Greece	1	1	16653	3330	32	0
+Θηραϊκή Πολιτεία	Νίκος Ζώρζος	2310881715810380	Facebook	w020	Week 20	EL	Greece	1	1	16576	3315	32	0
+Γκαμπαερίδης Κωνσταντίνος		427658114458564	Facebook	w020	Week 20	EL	Greece	2	1	15338	3924	52	0
+Κύμα Ενωμένων Πολιτών - Δημήτρης Δαβάκης	Dimitrios Davakis	1514283778797349	Facebook	w020	Week 20	EL	Greece	2	1	15118	3023	44	0
+Πολίτες για την Ξάνθη		135422906504817	Facebook	w020	Week 20	EL	Greece	1	1	14285	2857	28	0
+Γιώργος Σταύρος Κρεμλής - Υποψήφιος Ευρωβουλευτής	Γιώργος Σταύρος Κρεμλής - Υποψήφιος Ευρωβουλευτής	548959368535123	Facebook	w020	Week 20	EL	Greece	1	1	14277	2855	28	0
+Γιώργος Θωμάς	Γιώργος Θωμάς	546583482086942	Facebook	w020	Week 20	EL	Greece	1	1	12499	2500	24	0
+Δρόσος Α. Δημήτριος - Υποψήφιος Ευρωβουλευτής ΜέΡΑ25	Δημητριος Δροσος	255454748717785	Facebook	w020	Week 20	EL	Greece	1	1	12499	2500	24	0
+Fofi Gennimata	Κίνημα Αλλαγής	67561345728	Facebook	w020	Week 20	EL	Greece	5	1	12483	2497	247	0
+ΟΙ ΦΙΛΟΙ ΤΟΥ ΑΚΕΠ		469563956522669	Facebook	w020	Week 20	EL	Greece	1	1	12468	2493	24	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	w020	Week 20	EL	Greece	2	1	12056	4118	41	5
+Lamprinos-Vlattas Efstratios - Stratos	Ευστρατιος Λαμπρινος Βλαττας	378201616112682	Facebook	w020	Week 20	EL	Greece	2	1	11332	2222	44	0
+Πύλης Όραμα		992489404472934	Facebook	w020	Week 20	EL	Greece	1	1	11110	2222	22	0
+Παναγιώτης Κισκήρας	Panagiotis Kiskiras	1990278354601655	Facebook	w020	Week 20	EL	Greece	1	1	11110	2222	22	0
+Βασίλης Βακάλης  Καλαμάτα Πόλη Ενωμένη		587502565075302	Facebook	w020	Week 20	EL	Greece	1	1	11110	2222	22	0
+BAMBOOmaki		2239774876084053	Facebook	w020	Week 20	EL	Greece	1	1	11100	2220	21	0
+Δήμητρα Κούτρα		683908661667699	Facebook	w020	Week 20	EL	Greece	1	1	11099	2219	21	0
+CLAYTON		122493385103	Facebook	w020	Week 20	EL	Greece	1	1	10538	2107	20	0
+Παπαϊωάννου Αποστόλης - Υποψήφιος Δημοτικός Σύμβουλος Ναυπακτίας	Apostolos Papaioannou	2834747896565202	Facebook	w020	Week 20	EL	Greece	1	1	9999	2000	19	0
+Βασίλης Κωτσιόπουλος Υπ.Ευρωβουλευτής	Β. Κωτσιόπουλος	1524942397638885	Facebook	w020	Week 20	EL	Greece	1	1	9999	5000	99	0
+Ζήσης Κωστής Υποψήφιος Δημοτικός Σύμβουλος		660840381000145	Facebook	w020	Week 20	EL	Greece	1	1	9999	5000	99	0
+Ελένη Γαζή - υποψήφια ευρωβουλευτής ΑΚΚΕΛ	Dimitrios Pechlivanidis	2260431744198537	Facebook	w020	Week 20	EL	Greece	1	1	9997	1999	19	0
+Μιχαλίτσης Κωνσταντίνος	Μιχαλιτσης Κωνσταντινος 	760837734005868	Facebook	w020	Week 20	EL	Greece	1	1	9992	1998	19	0
+Δέσποινα Καϊσίδου - Υποψήφια Σύμβουλος Περιφέρειας Αττικής με τη ΝΕΑ ΑΡΧΗ	Δέσποινα Καϊσίδου	2362047030473326	Facebook	w020	Week 20	EL	Greece	3	1	9165	3833	115	0
+Ματίνα Πρίγκου - Υποψήφια Δημοτική Σύμβουλος Βόλου	Stamatia Prigkou	438322063396527	Facebook	w020	Week 20	EL	Greece	2	1	8809	1761	47	0
+Δημήτρης Πετράκογλου - Υποψήφιος Δημοτικός Σύμβουλος Δήμου Πεντέλης	Δημητριος Πετρακογλου	2232424690155400	Facebook	w020	Week 20	EL	Greece	1	1	8333	1666	16	0
+Γιώργος Κεφαλάς, Υποψήφιος Περιφερειακός Σύμβουλος Π.Ε. Θεσσαλονίκης	Maria-Sofia Vletsa	317784685557518	Facebook	w020	Week 20	EL	Greece	1	1	8333	1666	16	0
+Αναστασία Τζαμπαζλή - Anastasia Tzabazli	Anastasia Tzabazli	761739347514607	Facebook	w020	Week 20	EL	Greece	1	1	8333	1666	16	0
+Economy & Business Facts by SEV	SEV Hellenic Federation of Enterprises	1355715194448822	Facebook	w020	Week 20	EL	Greece	1	1	8332	1666	16	0
+Ελένη Παναγιωταρέα - Eleni Panagiotarea	Eleni Panagiotarea	318085118843773	Facebook	w020	Week 20	EL	Greece	1	1	8326	1665	16	0
+ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ	ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ	82362291274	Facebook	w020	Week 20	EL	Greece	1	1	8325	1665	16	0
+Αλλάζουμε Νοοτροπία - Αλλάζουμε μαζί Αθανάσιος Κατσίμπελης	Athanasios Katsimpelis	275653935665	Facebook	w020	Week 20	EL	Greece	1	1	7499	3750	74	0
+Colour Youth, Κοινότητα Lgbtq Νέων Αθήνας	Colour Youth, Κοινότητα Lgbtq Νέων Αθήνας	171607826196345	Facebook	w020	Week 20	EL	Greece	1	1	7142	1428	14	0
+Καρδίτσα. Υποστηρικτές του νομού		173421600175	Facebook	w020	Week 20	EL	Greece	1	1	7142	1428	14	0
+Άσπα Γοσποδίνη - Υποψήφια Ευρωβουλευτής Κινήματος Αλλαγής	Άσπα Γοσποδίνη	566613627164683	Facebook	w020	Week 20	EL	Greece	1	1	7135	1427	14	0
+Θάνος Θεοδώρου	ph	575445225887557	Facebook	w020	Week 20	EL	Greece	2	1	6374	1250	24	0
+Φαήλος Κρανιδιώτης (Β)		504252076267769	Facebook	w020	Week 20	EL	Greece	1	1	6244	1248	12	0
+Δημήτρης Καψάλης - Υποψήφιος Δημοτικός Σύμβουλος	Dimitrios Kapsalis	576024002899277	Facebook	w020	Week 20	EL	Greece	1	1	5999	3000	59	0
+Κώστας Αρβανίτης		857142371300996	Facebook	w020	Week 20	EL	Greece	1	1	5996	2998	59	0
+Χαλκίδα Ζωντανή Πόλη	CPagonis	2049766581779230	Facebook	w020	Week 20	EL	Greece	3	1	5332	1000	132	0
+Μιχάλης Σπουρδαλάκης - Υποψήφιος Ευρωβουλευτής	Σπουρδαλακης Μιχαηλ	309373953080924	Facebook	w020	Week 20	EL	Greece	3	1	5122	2199	71	0
+ΝΕΟΔΗΜΟΚΡΑΤΗΣ		1488771898025180	Facebook	w020	Week 20	EL	Greece	1	1	4999	1000	99	0
+Σπύρος Σπυρίδων / Spyros Spyridon	Spyridon Spyridon	366002707263115	Facebook	w020	Week 20	EL	Greece	2	1	4999	1000	99	0
+Ησαΐας Σωτήρης		608258645986045	Facebook	w020	Week 20	EL	Greece	1	1	4999	2500	49	0
+Λευτέρης Αυγενάκης		134552316636	Facebook	w020	Week 20	EL	Greece	1	1	4999	2500	49	0
+Παναγιώτης Ε. Νίκας	Παναγιώτης Ε. Νίκας	627249040690694	Facebook	w020	Week 20	EL	Greece	2	1	4499	2000	89	0
+Γεώργιος Χατζίκος - Θεσσαλονίκη Υπεύθυνα 2019	Γεωργιος Χατζικος	616607865453873	Facebook	w020	Week 20	EL	Greece	3	1	4415	750	140	0
+Smart Concepts	Smart Concepts	283818458361591	Facebook	w020	Week 20	EL	Greece	1	1	3999	2000	39	0
+Οικολόγοι ΠΡΑΣΙΝΟΙ	Οικολόγοι ΠΡΑΣΙΝΟΙ	54211966212	Facebook	w020	Week 20	EL	Greece	2	1	3996	1998	39	0
+Νίκος Δένδιας	Νίκος Δένδιας	305998399465211	Facebook	w020	Week 20	EL	Greece	4	1	3971	1875	59	0
+Γιάννης Σιώτος - Δύναμη Δημιουργίας ΤΗΝΟΣ	Ιωαννης Σιωτος	2029882573777203	Facebook	w020	Week 20	EL	Greece	5	1	3873	708	103	0
+Αριστερή Πρωτοβουλία Γλυφάδας - με την αριστερά της ρήξης & της ανατροπής	Παναγιωτης Βασιλακης	271036136394392	Facebook	w020	Week 20	EL	Greece	3	1	3860	1147	64	0
+Τρύφων Γρομπανόπουλος - Δύναμη Ανανέωσης	Τρύφων Γρομπανόπουλος 	1387904741491816	Facebook	w020	Week 20	EL	Greece	3	1	3743	748	74	0
+Δημήτρης Καπούνης - Πρόεδρος ΕΑΣ Νάξου - Υποψήφιος Ευρωβουλευτης ΚΙΝΑΛ	Georgios Sergis 	2130414487259313	Facebook	w020	Week 20	EL	Greece	2	1	3605	721	71	0
+GR TIMES		247366149277249	Facebook	w020	Week 20	EL	Greece	1	1	3333	1666	33	0
+Χρήστος Παγώνης	Χρήστος Παγώνης	1399423173671930	Facebook	w020	Week 20	EL	Greece	1	1	3332	666	66	0
+Υποψήφιος Ευρωβουλευτής Νικόλας Καρακίτσος	Nikolaos Karakitsos	299812430697382	Facebook	w020	Week 20	EL	Greece	1	1	3330	1665	32	0
+Βενετόπουλος Χριστόδουλος - Υπ. Ευρωβουλευτής ΝΕΟ	Χριστοδουλος Βενετοπουλος	289155901968557	Facebook	w020	Week 20	EL	Greece	1	1	3321	664	65	0
+Erik Miltiadis Edman	Edman Erik Miltiadis	918665584992305	Facebook	w020	Week 20	EL	Greece	1	1	2999	1500	29	0
+Παναγιώτης Βλάχος	Panagiotis Vlachos	376701069471661	Facebook	w020	Week 20	EL	Greece	2	1	2999	500	99	0
+Eva Boura	Eva Boura	2168265216585688	Facebook	w020	Week 20	EL	Greece	1	1	2998	599	59	0
+MSphotographers		722975314490365	Facebook	w020	Week 20	EL	Greece	2	1	2997	599	59	0
+Konstantinos Konstantinidis	Konstantinos Konstantinidis	336520913810779	Facebook	w020	Week 20	EL	Greece	1	1	2856	1428	28	0
+Μπαρμπαρέσος Χρήστος		286376015586868	Facebook	w020	Week 20	EL	Greece	2	1	2539	507	50	0
+Αφροδίτη Μπλέτα-Afroditi Bleta	Afroditi Bleta	565688613941809	Facebook	w020	Week 20	EL	Greece	1	1	2499	499	49	0
+Σπήλιος Λιβανός	Spyridon-Panagiotis Livanos	1306987025984296	Facebook	w020	Week 20	EL	Greece	1	1	2499	500	49	0
+Αντωνιάδου Αθηνά	Αθηνα Αντωνιαδου	2058682324431724	Facebook	w020	Week 20	EL	Greece	1	1	2499	500	49	0
+Commonality		1726222917647076	Facebook	w020	Week 20	EL	Greece	1	1	2499	500	49	0
+Παρασκευή Βανδώρου  - Τρίμπου " Μαρούσι  -  Καθαρή Γραμμή"		244985049710619	Facebook	w020	Week 20	EL	Greece	1	1	2499	1250	24	0
+Νικόλαος Ταμουρίδης		393583201478905	Facebook	w020	Week 20	EL	Greece	1	1	2499	500	49	0
+Φωκίων Α. Ζαΐμης, Υποψ. Περιφερειακός Σύμβουλος		250946622457296	Facebook	w020	Week 20	EL	Greece	1	1	2499	500	49	0
+Αντωνάκης Γρηγόρης - Αθήνα Ψηλά		278524413070866	Facebook	w020	Week 20	EL	Greece	1	1	2499	500	49	0
+Νίκος Μούλας - διαρκής αγώνας για το περιβάλλον	Nikolaos Moulas	627181677692932	Facebook	w020	Week 20	EL	Greece	1	1	2471	1236	24	0
+Γιάννης Πισιμίσης - Νέα Πνοή για τα Βριλήσσια	Νέα Πνοή - Γιάννης Πισιμίσης	2126601480936876	Facebook	w020	Week 20	EL	Greece	2	1	2428	485	48	0
+Κατερίνα Παπακώστα-Σιδηροπούλου	Evangelia Palaiokosta	565487000137386	Facebook	w020	Week 20	EL	Greece	1	1	1999	400	39	0
+Νέα Ελληνική Ορμή	Evangelia Palaiokosta	314073952467513	Facebook	w020	Week 20	EL	Greece	1	1	1999	400	39	0
+Μάκης Βορίδης	Μάκης Βορίδης	179792428724871	Facebook	w020	Week 20	EL	Greece	1	1	1999	1000	19	0
+Υστερόγραφα στην Πολιτική	Emmanouil Oikonomidis	149038949032951	Facebook	w020	Week 20	EL	Greece	1	1	1999	400	39	0
+Αναστάσης Περράκης - Το Ποτάμι	Anastasios Perrakis	758329734261780	Facebook	w020	Week 20	EL	Greece	3	1	1673	624	54	0
+Όραμα Ελλάδος	Δημητριος Θωδης	1062987930433023	Facebook	w020	Week 20	EL	Greece	1	1	1666	333	32	0
+Αριστοφάνης Σμπάρδος, Υποψήφιος Δημοτικός Σύμβουλος Δήμου Βόλου		341012269853858	Facebook	w020	Week 20	EL	Greece	1	1	1666	833	16	0
+Γιώργος Στύλιος	Georgios Stylios	1218102778236691	Facebook	w020	Week 20	EL	Greece	1	1	1666	333	33	0
+Αναστασία Καλογερά - Σιδέρη Υποψήφια Δημοτική Σύμβουλος με τη Νέα Πολιτεία		878874269121993	Facebook	w020	Week 20	EL	Greece	1	1	1666	333	33	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	w020	Week 20	EL	Greece	2	1	1559	281	17	0
+Παναγιώτης Καγκελάρης - Υποψήφιος Ευρωβουλευτής ΜέΡΑ25	Panayotis Cangelaris	387601332029624	Facebook	w020	Week 20	EL	Greece	1	1	1499	300	29	0
+Αποστολος Σιατρας	Apostolos Siatras	2351826395054053	Facebook	w020	Week 20	EL	Greece	1	1	1499	300	29	0
+Γιώργος Κουνάνης - George Kounanis	Georgios Kounanis	562436030930723	Facebook	w020	Week 20	EL	Greece	1	1	1498	299	29	0
+Πειραιάς Πόλη Πρότυπο - Νίκος Βλαχάκος		1285926281554992	Facebook	w020	Week 20	EL	Greece	1	1	1428	285	28	0
+Ελένη Δουνδουλάκη / Eleni Doundoulaki	Apopseis	363084114479391	Facebook	w020	Week 20	EL	Greece	2	1	1332	166	66	0
+Ελένη Τέτου	Stavros Karypidis	2260197024192013	Facebook	w020	Week 20	EL	Greece	1	1	1249	250	24	0
+Media Secrets	Emmanouil Oikonomidis	136515963744180	Facebook	w020	Week 20	EL	Greece	1	1	1249	625	12	0
+Κώστας Σισμανίδης Πολιτευτής Β Πειραιά		373190366803208	Facebook	w020	Week 20	EL	Greece	1	1	1247	249	24	0
+Ευαγγελία Παναγιωτάκη  Υποψήφια Ευρωβουλευτής ΜέΡΑ25		379160176025653	Facebook	w020	Week 20	EL	Greece	4	1	1192	125	68	0
+Νατάσσα Χρόνη		539347043239913	Facebook	w020	Week 20	EL	Greece	1	1	1110	222	22	0
 Γιώργος Πανούχος	Γεώργιος Πανούχος	1678187295660948	Facebook	w020	Week 20	EL	Greece	1	1	999	0	99	0
-Christoforos Boutsikakis - Χριστόφορος Μπουτσικάκης	Christoforos Emmanouil Boutsikakis	1960918037457211	Facebook	w020	Week 20	EL	Greece	1	1	999	0	99	0
-Ελένη Γαζή - υποψήφια ευρωβουλευτής ΑΚΚΕΛ	Dimitrios Pechlivanidis	2260431744198537	Facebook	w020	Week 20	EL	Greece	1	1	998	0	98	0
-Ελεύθερη Στερεά	Andreas Voulgaris	436882700404941	Facebook	w020	Week 20	EL	Greece	1	1	998	0	99	0
-Παναγιώτης Καγκελάρης - Υποψήφιος Ευρωβουλευτής ΜέΡΑ25	Panayotis Cangelaris	387601332029624	Facebook	w020	Week 20	EL	Greece	1	1	998	0	98	0
-Δημήτρης Καπούνης - Πρόεδρος ΕΑΣ Νάξου - Υποψήφιος Ευρωβουλευτης ΚΙΝΑΛ	Georgios Sergis 	2130414487259313	Facebook	w020	Week 20	EL	Greece	1	1	996	0	98	0
+Κώστας Ζώμπος / Γαλάτσι. Ζούμε εδώ	Κώστας Ζώμπος	107144245980503	Facebook	w020	Week 20	EL	Greece	1	1	999	200	19	0
+Νικολουδάκης Αντώνης	Antonios Nikoloudakis	318454308303412	Facebook	w020	Week 20	EL	Greece	1	1	999	200	19	0
+Βαγγέλης Βαβουλιώτης	Βαβουλιωτης Αθανασιος	386756061904875	Facebook	w020	Week 20	EL	Greece	1	1	999	0	99	0
+Σταυρινούδη Μαρία	Maria Stavrinoudi	797036483652723	Facebook	w020	Week 20	EL	Greece	1	1	999	0	99	0
+Ιωάννης Γεωργακόπουλος - Υποψήφιος Ευρωβουλευτής		2154015871595837	Facebook	w020	Week 20	EL	Greece	1	1	999	200	19	0
+Τσουρουνάκης Γιώργος - Υποφήφιος Δημοτικός Σύμβουλος Ζακύνθου		428909671179268	Facebook	w020	Week 20	EL	Greece	1	1	999	200	19	0
+UK-Cyprus Enterprise Council	UK-Cyprus Enterprise Council 	1837120569879342	Facebook	w020	Week 20	EL	Greece	1	1	956	191	21	0
+Δίβαρης Στέλιος-Υποψήφιος Δημοτικός Σύμβουλος με την παράταξη Η Γλυφάδα ΜΑΣ	Στέλιος Δίβαρης	1470112966547850	Facebook	w020	Week 20	EL	Greece	1	1	833	166	16	0
+Θάλεια Μπρέντα - Υποψήφια Ευρωβουλευτής	Αικατερινη Γκιαλη	2481134885232513	Facebook	w020	Week 20	EL	Greece	1	1	714	142	14	0
+Χιακή Συμπολιτεία	Alexandros Panagiotakis	211898055682569	Facebook	w020	Week 20	EL	Greece	1	1	714	142	14	0
+Άννα Κωνσταντινίδου Υποψήφια Δημοτική Σύμβουλος Θεσσαλονίκης	Αννα Κωνσταντινιδου	588814658306312	Facebook	w020	Week 20	EL	Greece	1	1	714	142	14	0
+T4Action		552141588147520	Facebook	w020	Week 20	EL	Greece	2	1	674	0	66	0
+Πηνελόπη Πετροπούλου  Penelope Petropoulou	Athanasios Gounaris Ioannidis	1417260591874610	Facebook	w020	Week 20	EL	Greece	1	1	624	124	12	0
+Αντωνία Τουρλίδα - Υποψήφια Περιφερειακή Σύμβουλος Αιτωλοακαρνανίας	Αντωνία Τουρλίδα	347049225927669	Facebook	w020	Week 20	EL	Greece	2	1	582	0	57	0
+Ελένη - Λενιώ Μυριβήλη, Υποψήφια Δημοτική Σύμβουλος Δ. Αθηναίων	Maria-Sofia Vletsa	575254329656553	Facebook	w020	Week 20	EL	Greece	1	1	499	0	49	0
+Βασίλης Ξυπολυτάς		633471613389186	Facebook	w020	Week 20	EL	Greece	1	1	499	0	49	0
+OXI στη υποβάθμιση των Θρησκευτικών και Αρχαίων Ελληνικών στα σχολεία		310874005749784	Facebook	w020	Week 20	EL	Greece	2	1	443	0	43	0
+Ιωάννα Καλαντζάκου		617152175026430	Facebook	w020	Week 20	EL	Greece	1	1	399	0	39	0
+Ελληνική Πολιτική Συνείδηση - Άρμα Συνεργασίας		317973578849812	Facebook	w020	Week 20	EL	Greece	2	1	392	0	38	0
+Μαυρίδου Αικατερίνη		1633294310106712	Facebook	w020	Week 20	EL	Greece	1	1	374	0	37	0
+Θώδης Δημήτρης	ΟΡΑΜ.Α. ΕΛΛΑΔΟΣ	1874416052812702	Facebook	w020	Week 20	EL	Greece	1	1	333	0	33	0
+Γιωργος Ηλιαδης		268083463828756	Facebook	w020	Week 20	EL	Greece	1	1	333	0	33	0
+Christoforos Boutsikakis - Χριστόφορος Μπουτσικάκης	Christoforos Emmanouil Boutsikakis	1960918037457211	Facebook	w020	Week 20	EL	Greece	1	1	299	0	29	0
+Μιχάλης Χριστοδουλίδης		1886895638284350	Facebook	w020	Week 20	EL	Greece	1	1	299	0	29	0
+Δημήτριος Βαλασίδης		1409794242627320	Facebook	w020	Week 20	EL	Greece	1	1	285	0	28	0
+Georgia Kalli		513688662369118	Facebook	w020	Week 20	EL	Greece	1	1	249	0	24	0
+Γιώργος Νικολακάκος / George Nikolakakos		2221063761442156	Facebook	w020	Week 20	EL	Greece	1	1	249	0	24	0
+Εφημερίδα Πατρίς	Digital Solutions	480080462017104	Facebook	w020	Week 20	EL	Greece	1	1	222	0	22	0
+Οικολογική Συμμαχία για την Περιφέρεια Αττικής	Georgios Dimitriou	2218506874879379	Facebook	w020	Week 20	EL	Greece	1	1	222	0	22	0
+Βάκα  Γ. Βασιλική		442942306455380	Facebook	w020	Week 20	EL	Greece	1	1	222	0	22	0
+Βασίλης Ζαρκωτός - Οικονομολόγος, υποψ. δημοτικός σύμβουλος Βριλησσίων		2451229315147038	Facebook	w020	Week 20	EL	Greece	1	1	222	0	22	0
+Κώστας Χαρίτος - Υποψήφιος Δήμαρχος Αλίμου		2213991275305885	Facebook	w020	Week 20	EL	Greece	1	1	222	0	22	0
+Μανώλης Βέμης	Εμμανουηλ Βεμης	395239811075145	Facebook	w020	Week 20	EL	Greece	1	1	221	0	22	0
+Zero Waste Greece		344961513035311	Facebook	w020	Week 20	EL	Greece	1	1	221	0	21	0
+Νίκος Πράσσος - Μένω στο Χαλάνδρι		287220991969276	Facebook	w020	Week 20	EL	Greece	1	1	199	0	19	0
+Γιώργος Κουράσης - Χαλάνδρι Σε Δράση	Γιώργος Κουράσης	397074630437565	Facebook	w020	Week 20	EL	Greece	1	1	124	0	12	0
+MN Benito		1273446302821491	Facebook	w020	Week 20	EL	Greece	1	1	51	0	3	0
+dom-i-NEEK		260052198180831	Facebook	w020	Week 20	EL	Greece	1	1	3	0	0	0
+Tom MacDonald		212732770186	Facebook	w020	Week 20	EL	Greece	1	1	2	0	0	0
+Lalique Nelson		2165834466966724	Facebook	w020	Week 20	EL	Greece	1	1	1	0	0	0

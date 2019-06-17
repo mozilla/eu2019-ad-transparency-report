@@ -1,18 +1,18 @@
 region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-andalusia	Andalusia	ES	Spain	65	25	322051	113414	2374	112
-aragon	Aragón	ES	Spain	1152	22	1403270	131134	108740	101
-balearic_islands	Balearic Islands	ES	Spain	52	19	169208	36253	997	1
-cantabria	Cantabria	ES	Spain	42	14	622	241	1	0
-castilla_y_leon	Castilla y Leon	ES	Spain	80	22	236628	56902	1589	203
-castilla_la_mancha	Castilla-La Mancha	ES	Spain	92	23	229398	58765	1522	3
-cataluna	Cataluña	ES	Spain	126	37	634670	194642	6975	451
-comunidad_valenciana	Comunidad Valenciana	ES	Spain	141	26	389777	102304	6573	28
-comunidad_de_madrid	Comunidad de Madrid	ES	Spain	109	35	838815	281822	11447	1038
-extremadura	Extremadura	ES	Spain	50	17	83008	17265	690	1
-galicia	Galicia	ES	Spain	60	20	183417	47574	1617	6
-islas_canarias	Islas Canarias	ES	Spain	42	14	18428	6198	124	4
-la_rioja	La Rioja	ES	Spain	42	16	148	58	0	0
-navarra	Navarra	ES	Spain	85	18	16315	4797	270	0
-pais_vasco	País Vasco	ES	Spain	67	23	310362	106385	2880	101
-principality_of_asturias	Principality of Asturias	ES	Spain	84	19	168410	35923	4465	101
-region_of_murcia	Region of Murcia	ES	Spain	91	24	536554	118341	5152	102
+andalusia	Andalusia	ES	Spain	996	130	15527644	5671508	137640	22970
+aragon	Aragón	ES	Spain	3298	108	9995320	2346801	284385	4375
+balearic_islands	Balearic Islands	ES	Spain	597	97	3244944	990435	18108	2792
+cantabria	Cantabria	ES	Spain	520	83	288400	119143	2205	214
+castilla_y_leon	Castilla y Leon	ES	Spain	698	109	1574091	466066	10110	1803
+castilla_la_mancha	Castilla-La Mancha	ES	Spain	691	99	1452655	456843	7068	669
+cataluna	Cataluña	ES	Spain	1287	187	22526919	8316933	199289	35746
+comunidad_valenciana	Comunidad Valenciana	ES	Spain	998	153	6733792	2019460	50443	4111
+comunidad_de_madrid	Comunidad de Madrid	ES	Spain	1001	131	16999772	6416053	196729	43285
+extremadura	Extremadura	ES	Spain	521	83	1795060	628486	7101	980
+galicia	Galicia	ES	Spain	627	101	2072143	611890	15373	1848
+islas_canarias	Islas Canarias	ES	Spain	641	103	6392738	2486014	25240	3527
+la_rioja	La Rioja	ES	Spain	596	87	916496	193952	10160	306
+navarra	Navarra	ES	Spain	670	88	598775	131953	3747	130
+pais_vasco	País Vasco	ES	Spain	732	110	3855260	1202675	33331	4013
+principality_of_asturias	Principality of Asturias	ES	Spain	696	94	1906443	630376	23996	1285
+region_of_murcia	Region of Murcia	ES	Spain	715	103	4911103	1394277	37882	4455

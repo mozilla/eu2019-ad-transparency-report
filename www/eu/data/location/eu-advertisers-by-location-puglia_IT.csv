@@ -1,75 +1,295 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Caterina Cerroni	Caterina Cerroni	1618719834925589	Facebook	puglia_IT	Puglia, Italy	3	1	78071	34522	329	60
-Caio Mussolini	Caio Mussolini	2393234914229651	Facebook	puglia_IT	Puglia, Italy	1	1	60834	30417	151	30
-Matteo Salvini	Lega - Salvini Premier	252306033154	Facebook	puglia_IT	Puglia, Italy	1	1	60675	30338	30	6
-Carmine Spiaggia	Carmine Spiaggia	425820797979047	Facebook	puglia_IT	Puglia, Italy	1	1	52866	26433	131	26
-European Commission	European Commission	107898832590939	Facebook	puglia_IT	Puglia, Italy	3	1	48456	19790	54	10
-Giorgia Meloni	Fratelli d'Italia	38919827644	Facebook	puglia_IT	Puglia, Italy	5	1	28303	11309	114	20
-Fabio Candalice	Fabio Candalice	929896213793987	Facebook	puglia_IT	Puglia, Italy	4	1	15996	3000	396	0
-Luciano Nobili	Luciano Nobili	406187203142799	Facebook	puglia_IT	Puglia, Italy	5	1	12685	2679	28	0
-Andrea Cozzolino	Andrea Cozzolino	1449151341981719	Facebook	puglia_IT	Puglia, Italy	2	1	12326	3007	38	0
-Giuseppe Cossalter	Giuseppe Cossalter	1981132658773307	Facebook	puglia_IT	Puglia, Italy	3	1	11724	2345	34	0
-Giosi Ferrandino	Giosi Ferrandino	141856142632410	Facebook	puglia_IT	Puglia, Italy	2	1	9648	1929	39	0
-Pina Picierno	SocialCom	212896992084952	Facebook	puglia_IT	Puglia, Italy	10	1	8742	1608	228	0
-Valeria Di Nino - Candidata M5S Elezioni Europee - Sud	Valeria Di Nino	346634905977977	Facebook	puglia_IT	Puglia, Italy	1	1	8720	1744	17	0
-Lorenzo Cesa	Lorenzo Cesa	538632706513878	Facebook	puglia_IT	Puglia, Italy	8	1	8403	1654	177	0
-Antonio Giampietro - Non vedo che Bari	Antonio Giampietro	456495818216210	Facebook	puglia_IT	Puglia, Italy	4	1	7996	1000	396	0
-Matteo Renzi	Matteo Renzi	113335124914	Facebook	puglia_IT	Puglia, Italy	2	1	6665	1333	13	0
-Fratelli d'Italia	Fratelli d'Italia	355710427861591	Facebook	puglia_IT	Puglia, Italy	1	1	6559	3279	32	6
-Deputati PD	Deputati PD	104652392900508	Facebook	puglia_IT	Puglia, Italy	3	1	6520	1499	18	0
-Elena Gentile	Elena Gentile	1426435657576038	Facebook	puglia_IT	Puglia, Italy	2	1	6244	2209	91	0
-Paola Natalicchio	Gianluca Martone	258195327693994	Facebook	puglia_IT	Puglia, Italy	2	1	6117	1223	121	0
-Aldo Patriciello	Aldo Patriciello	40645773554	Facebook	puglia_IT	Puglia, Italy	1	1	5841	1168	11	0
-Partito Democratico	Partito Democratico	77034286895	Facebook	puglia_IT	Puglia, Italy	1	1	5081	2540	25	5
-Alfonso Pisicchio	Natale Pisicchio	644803135590917	Facebook	puglia_IT	Puglia, Italy	1	1	4999	1000	99	0
-PD Palo del Colle	Gabriella Sasso	1578164322435113	Facebook	puglia_IT	Puglia, Italy	1	1	4999	1000	99	0
-Avaaz	Avaaz	8340223883	Facebook	puglia_IT	Puglia, Italy	1	1	4860	2430	4	0
-MoVimento 5 Stelle	MoVimento 5 Stelle	174457180812	Facebook	puglia_IT	Puglia, Italy	1	1	4767	953	9	0
-ISPI - Istituto per gli studi di politica internazionale	ISPI - Istituto per gli studi di politica internazionale	171795872872353	Facebook	puglia_IT	Puglia, Italy	2	1	4551	910	15	0
-Alessandro Fusacchia	Alessandro Fusacchia	1045017942325647	Facebook	puglia_IT	Puglia, Italy	2	1	4347	869	46	8
-Stato Moderno Solidale SMS	Silvana Arbia	328435687818104	Facebook	puglia_IT	Puglia, Italy	4	1	2817	476	90	0
-Daniela Poggio	ROCK communications	441486766660124	Facebook	puglia_IT	Puglia, Italy	6	1	2305	382	47	0
-Geri Ballo	Gerarta Ballo	2261381937462680	Facebook	puglia_IT	Puglia, Italy	4	1	2242	284	109	0
-Eleonora Forenza	Eleonora Forenza	302764019871151	Facebook	puglia_IT	Puglia, Italy	1	1	2175	1087	21	0
-Nicola Caputo	Nicola Caputo	1439514556290274	Facebook	puglia_IT	Puglia, Italy	4	1	2123	849	35	0
-Anna Maria Bernini	Anna Maria Bernini	146169045979888	Facebook	puglia_IT	Puglia, Italy	4	1	2017	403	39	0
-Claudia Pagliariccio	CasaPound Italia L'Aquila	1748593245471149	Facebook	puglia_IT	Puglia, Italy	1	1	1488	297	29	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	puglia_IT	Puglia, Italy	4	1	1453	474	2	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	puglia_IT	Puglia, Italy	1	1	1384	692	3	0
-BARBARA MATERA	Barbara Matera	78020429052	Facebook	puglia_IT	Puglia, Italy	1	1	1176	235	23	0
+Caterina Cerroni	Caterina Cerroni	1618719834925589	Facebook	puglia_IT	Puglia, Italy	24	1	1481981	707939	9417	2009
+MoVimento 5 Stelle	MoVimento 5 Stelle	174457180812	Facebook	puglia_IT	Puglia, Italy	17	1	829127	388080	3377	819
+Silvio Berlusconi	Silvio Berlusconi	116716651695782	Facebook	puglia_IT	Puglia, Italy	66	1	797846	330298	3816	845
+Avaaz	Avaaz	8340223883	Facebook	puglia_IT	Puglia, Italy	33	1	504196	223033	2018	678
+Partito Democratico	Partito Democratico	77034286895	Facebook	puglia_IT	Puglia, Italy	56	1	470786	213848	2234	405
+Francesco Galtieri	Francesco Galtieri	176134109106348	Facebook	puglia_IT	Puglia, Italy	17	1	464369	185158	1521	238
+European Parliament	European Parliament	178362315106	Facebook	puglia_IT	Puglia, Italy	11	1	435354	213040	2380	474
+European Commission	European Commission	107898832590939	Facebook	puglia_IT	Puglia, Italy	30	1	378566	168911	495	139
+Giorgia Meloni	Fratelli d'Italia	38919827644	Facebook	puglia_IT	Puglia, Italy	20	1	354982	151787	1862	443
+Carmine Spiaggia	Carmine Spiaggia	425820797979047	Facebook	puglia_IT	Puglia, Italy	4	1	330692	140220	1794	432
+Nicola Fratoianni	Nicola Fratoianni	116181541819083	Facebook	puglia_IT	Puglia, Italy	12	1	326000	136681	975	189
+Andrea Caroppo	Andrea Caroppo	381061375420543	Facebook	puglia_IT	Puglia, Italy	13	1	315150	98109	1656	246
+Matteo Salvini	Lega - Salvini Premier	252306033154	Facebook	puglia_IT	Puglia, Italy	10	1	304188	149104	1407	277
+Nicola Zingaretti	Partito Democratico	38423524033	Facebook	puglia_IT	Puglia, Italy	5	1	258590	104505	274	54
+Carlo Calenda	Siamo Europei	131887960826264	Facebook	puglia_IT	Puglia, Italy	2	1	240057	120029	1200	240
+Fratelli d'Italia	Fratelli d'Italia	355710427861591	Facebook	puglia_IT	Puglia, Italy	30	1	231343	89806	1260	324
+Orlando Amodeo per Europa Verde	Orlando Amodeo	397286324156859	Facebook	puglia_IT	Puglia, Italy	10	1	214866	98536	953	185
+Fabio Candalice	Fabio Candalice	929896213793987	Facebook	puglia_IT	Puglia, Italy	8	1	214220	42845	1009	100
+Lorenzo Cesa	Lorenzo Cesa	538632706513878	Facebook	puglia_IT	Puglia, Italy	33	1	201289	48154	1013	46
+Partito del Socialismo Europeo	Partito del Socialismo Europeo	1891926127734235	Facebook	puglia_IT	Puglia, Italy	11	1	194786	87017	207	25
+Andrea Cozzolino	Andrea Cozzolino	1449151341981719	Facebook	puglia_IT	Puglia, Italy	13	1	193687	74228	1041	177
+Pietro Petruzzelli	Pietro Petruzzelli	194717554070843	Facebook	puglia_IT	Puglia, Italy	6	1	171850	39866	548	0
+Più Europa	Più Europa	126662574668084	Facebook	puglia_IT	Puglia, Italy	9	1	166431	73504	887	221
+European Greens	European Greens	141366725876424	Facebook	puglia_IT	Puglia, Italy	9	1	165064	69826	760	198
+Aldo Patriciello	Aldo Patriciello	40645773554	Facebook	puglia_IT	Puglia, Italy	8	1	161893	79804	763	151
+Luigia Marino - detta Gigia		2074498309515123	Facebook	puglia_IT	Puglia, Italy	3	1	149997	30000	297	0
+Pina Picierno	SocialCom	212896992084952	Facebook	puglia_IT	Puglia, Italy	39	1	149298	42969	967	20
+Paola Romano	Paola Romano	248072698709512	Facebook	puglia_IT	Puglia, Italy	10	1	145990	35000	1390	100
+Massimo Paolucci	Massimo Paolucci	417241311803541	Facebook	puglia_IT	Puglia, Italy	12	1	140658	35530	352	24
+Annalisa Corrado	ANNALISA CORRADO (mandataria elettorale Serena Drigo)	152120842162775	Facebook	puglia_IT	Puglia, Italy	16	1	133697	50212	174	0
+Caio Mussolini	Caio Mussolini	2393234914229651	Facebook	puglia_IT	Puglia, Italy	10	1	131640	54035	577	71
+Giancarlo Cerrelli	Giancarlo Cerrelli 	721617177928574	Facebook	puglia_IT	Puglia, Italy	12	1	129757	28614	327	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	puglia_IT	Puglia, Italy	17	1	121687	50789	206	80
+Antonio Decaro	Antonio Decaro	137412233027116	Facebook	puglia_IT	Puglia, Italy	4	1	119996	30000	396	0
+Forza Italia	Forza Italia	172265396249029	Facebook	puglia_IT	Puglia, Italy	2	1	117768	47107	173	68
+Paola Natalicchio	Gianluca Martone	258195327693994	Facebook	puglia_IT	Puglia, Italy	14	1	117641	28998	846	0
+Antonio Giampietro - Non vedo che Bari	Antonio Giampietro	456495818216210	Facebook	puglia_IT	Puglia, Italy	8	1	117338	22869	779	0
+Elena Gentile	Elena Gentile	1426435657576038	Facebook	puglia_IT	Puglia, Italy	6	1	108275	41339	565	92
+Natasha Mariano Mariano	Natalia Mariano	262438680894168	Facebook	puglia_IT	Puglia, Italy	1	1	99999	50000	99	0
+Skuola.net	Skuola.net	126578555602	Facebook	puglia_IT	Puglia, Italy	11	1	87281	35140	196	24
+Amnesty International - Italia	Amnesty International - Italia	39993728498	Facebook	puglia_IT	Puglia, Italy	9	1	87147	35239	121	14
+Geri Ballo	Gerarta Ballo	2261381937462680	Facebook	puglia_IT	Puglia, Italy	13	1	86691	27832	643	61
+Carmela Rescigno	Carmela Rescigno	434358993998139	Facebook	puglia_IT	Puglia, Italy	4	1	84523	29200	495	83
+Dipartimento per le politiche giovanili e il servizio civile universale – Presidenza del Consiglio dei Ministri	Dipartimento per le politiche giovanili e il servizio civile universale – Presidenza del Consiglio dei Ministri	353868374653514	Facebook	puglia_IT	Puglia, Italy	15	1	81876	35624	238	23
+Giosi Ferrandino	Giosi Ferrandino	141856142632410	Facebook	puglia_IT	Puglia, Italy	9	1	80085	22390	240	17
+Videodrome	Videodrome	1773694896182795	Facebook	puglia_IT	Puglia, Italy	42	1	78930	18383	348	0
+Save the Children Italia	Save the Children Italia	46590675335	Facebook	puglia_IT	Puglia, Italy	6	1	76649	31853	185	67
+Lucrezia Vinci in Europa	Lucrezia Vinci	290636291884221	Facebook	puglia_IT	Puglia, Italy	3	1	72690	14538	143	0
+Alessandra Senatore	Domenico Campeglia	668311250269031	Facebook	puglia_IT	Puglia, Italy	11	1	60218	12120	405	0
+Movimento Nazionale Salento	Roberto Tundo	110683599694040	Facebook	puglia_IT	Puglia, Italy	2	1	59998	15000	198	0
+Giuliano Pisapia	Giuliano Pisapia	112352038802143	Facebook	puglia_IT	Puglia, Italy	1	1	58520	23408	11	0
+Deputati PD	Deputati PD	104652392900508	Facebook	puglia_IT	Puglia, Italy	21	1	56706	11513	126	0
+Luciano Nobili	Luciano Nobili	406187203142799	Facebook	puglia_IT	Puglia, Italy	26	1	54383	11856	177	0
+ISPI - Istituto per gli studi di politica internazionale	ISPI - Istituto per gli studi di politica internazionale	171795872872353	Facebook	puglia_IT	Puglia, Italy	10	1	53294	20816	134	16
+Antonio Lombardi	Matteo Ramunno	687441404991995	Facebook	puglia_IT	Puglia, Italy	2	1	50998	10000	198	0
+Giuseppe Barbaro	Giuseppe Barbaro	407842313101083	Facebook	puglia_IT	Puglia, Italy	14	1	50679	16788	858	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	puglia_IT	Puglia, Italy	3	1	50426	25174	26	5
+VoteEuropa Italia	Ayoub Lahouioui	259302014838779	Facebook	puglia_IT	Puglia, Italy	5	1	50330	25165	142	28
+Nicola Caputo	Nicola Caputo	1439514556290274	Facebook	puglia_IT	Puglia, Italy	23	1	50200	11617	230	0
+Sergio Silvestris	Sergio Paolo Francesco Silvestris	75581908817	Facebook	puglia_IT	Puglia, Italy	1	1	49999	10000	99	0
+Michele Abbaticchio  Sindaco	Michele Abbaticchio	275806792494637	Facebook	puglia_IT	Puglia, Italy	1	1	49999	10000	99	0
+Alessandro Moschettini		316528502364462	Facebook	puglia_IT	Puglia, Italy	1	1	49999	10000	99	0
+PD Palo del Colle	Gabriella Sasso	1578164322435113	Facebook	puglia_IT	Puglia, Italy	1	1	49999	10000	99	0
+Ufficio d'informazione in Italia del Parlamento europeo	Ufficio d'informazione in Italia del Parlamento europeo	143544514130	Facebook	puglia_IT	Puglia, Italy	2	1	48299	18920	146	9
+Greenpeace Italia	Greenpeace Italia	35346524498	Facebook	puglia_IT	Puglia, Italy	15	1	45439	14371	75	0
+Giuseppe Cossalter	Giuseppe Cossalter	1981132658773307	Facebook	puglia_IT	Puglia, Italy	3	1	44541	22088	33	0
+Valeria Di Nino - Candidata M5S Elezioni Europee - Sud	Valeria Di Nino	346634905977977	Facebook	puglia_IT	Puglia, Italy	5	1	44495	13651	151	15
+Anna Maria Bernini	Anna Maria Bernini	146169045979888	Facebook	puglia_IT	Puglia, Italy	28	1	43503	8529	350	0
+Ilaria Antelmi	Ilaria Antelmi 	2217881658525706	Facebook	puglia_IT	Puglia, Italy	7	1	42976	9715	236	0
+Alfonso Pisicchio	Natale Pisicchio	644803135590917	Facebook	puglia_IT	Puglia, Italy	5	1	42099	13789	359	0
+Leoluca Armigero	Leoluca Armigero	319683335383679	Facebook	puglia_IT	Puglia, Italy	4	1	39996	20000	396	0
+BARBARA MATERA	Barbara Matera	78020429052	Facebook	puglia_IT	Puglia, Italy	3	1	39745	15632	76	0
+Democrazia Solidale - DEMOS	Paolo Ciani 	1497251783844508	Facebook	puglia_IT	Puglia, Italy	10	1	39518	12843	982	0
+Anna Marro	Anna Marro	1107701216084060	Facebook	puglia_IT	Puglia, Italy	2	1	36811	7362	72	0
+Prof Luca Avagnina	Avagnina Luca	1081529978655352	Facebook	puglia_IT	Puglia, Italy	2	1	36257	13268	132	20
+Francesca Pesce - Candidata La Sinistra Europee 2019	Alessandra Lopetrone 	2640039512704689	Facebook	puglia_IT	Puglia, Italy	2	1	34031	6806	67	0
+Eleonora Forenza	Eleonora Forenza	302764019871151	Facebook	puglia_IT	Puglia, Italy	5	1	30644	6870	192	0
+Leila Kechoud - Candidata al Parlamento europeo - 26 maggio 2019	Leila Kechoud	2247400732195775	Facebook	puglia_IT	Puglia, Italy	8	1	30095	6529	196	0
+Carte D'Or	Unilever	554943434517746	Facebook	puglia_IT	Puglia, Italy	6	1	28617	8336	242	48
+European Free Alliance	European Free Alliance	46708306425	Facebook	puglia_IT	Puglia, Italy	3	1	28533	14008	171	34
+Paola Di Salvatore	Paola Di Salvatore	647488052330193	Facebook	puglia_IT	Puglia, Italy	4	1	28150	5630	98	0
+Il golpe Gentiloni		1299858193475119	Facebook	puglia_IT	Puglia, Italy	1	1	26931	10772	269	53
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	puglia_IT	Puglia, Italy	23	1	26462	9567	64	6
+Stefano Passarini	Stefano Passarini	573828172688916	Facebook	puglia_IT	Puglia, Italy	24	1	23876	5712	166	0
+Michele Lestingi		979692388837563	Facebook	puglia_IT	Puglia, Italy	1	1	21576	4315	38	0
+Marco Racca	Marco Racca	2341721169486171	Facebook	puglia_IT	Puglia, Italy	5	1	21441	4736	164	27
+Domenico Damascelli	Domenico Damascelli	62617453081	Facebook	puglia_IT	Puglia, Italy	5	1	20995	4000	495	0
+Partito Animalista Italiano		486228231540331	Facebook	puglia_IT	Puglia, Italy	7	1	19137	5282	92	0
+Europa Verde	Europa Verde	593847704462763	Facebook	puglia_IT	Puglia, Italy	3	1	19012	8256	74	7
+Nadia Sgro	Nadia Sgro	276613263243127	Facebook	puglia_IT	Puglia, Italy	3	1	17675	4279	84	0
+Federazione Verdi	Federazione Verdi	142589879147197	Facebook	puglia_IT	Puglia, Italy	1	1	16778	3355	33	0
+Simone Di Stefano		294385027332061	Facebook	puglia_IT	Puglia, Italy	2	1	16076	6791	37	5
+Matteo Renzi	Matteo Renzi	113335124914	Facebook	puglia_IT	Puglia, Italy	4	1	15716	4891	48	5
+Stato Moderno Solidale SMS	Silvana Arbia	328435687818104	Facebook	puglia_IT	Puglia, Italy	5	1	14723	2745	185	0
+Daniela Calderano		2320156088255183	Facebook	puglia_IT	Puglia, Italy	1	1	14615	2923	28	0
+Orizzonti Politici	Giacomo Casali	957667357727417	Facebook	puglia_IT	Puglia, Italy	2	1	14403	7054	23	0
+Stefania Calcagno	Stefania Calcagno	528781364317789	Facebook	puglia_IT	Puglia, Italy	2	1	13947	5616	55	9
+Lara Comi	Lara Comi	155619044465389	Facebook	puglia_IT	Puglia, Italy	3	1	13445	6709	69	13
+Cgil Puglia	Giuseppe Marco Binetti	406962326129744	Facebook	puglia_IT	Puglia, Italy	3	1	13355	2671	264	0
+MoVimento Cinque Stelle Provincia di Salerno		339297716643	Facebook	puglia_IT	Puglia, Italy	2	1	13313	5352	53	8
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	puglia_IT	Puglia, Italy	3	1	13003	5443	26	11
+Francesca Anastasia Porpiglia -Lega Salvini Premier		798697646865216	Facebook	puglia_IT	Puglia, Italy	1	1	12678	2535	25	0
+Franca Pulpito Candidata Elezioni Europee M5S		377643566297205	Facebook	puglia_IT	Puglia, Italy	1	1	12520	2504	24	0
+Big News Buzz		125179374733697	Facebook	puglia_IT	Puglia, Italy	1	1	12179	6089	54	27
+Luigi Catalano	Luigi Catalano	1810735125895007	Facebook	puglia_IT	Puglia, Italy	9	1	11683	3720	203	0
+Eastwest - Rivista di Geopolitica	Eastwest - Rivista di Geopolitica	186246774846027	Facebook	puglia_IT	Puglia, Italy	9	1	11645	4094	85	0
+Partito Comunista	Partito Comunista	315768485124369	Facebook	puglia_IT	Puglia, Italy	3	1	11573	2314	30	0
+ANSA Europa	ANSA Europa	190141131032201	Facebook	puglia_IT	Puglia, Italy	3	1	10858	2171	21	0
+Federico Clapis	Federico Clapis	306289286207471	Facebook	puglia_IT	Puglia, Italy	4	1	10470	2094	26	0
+Claudia Stomeo	Marco Panareo	357540418216403	Facebook	puglia_IT	Puglia, Italy	3	1	10027	1997	201	0
+Elisabetta Vaccarella	Elisabetta Vaccarella	302587767100384	Facebook	puglia_IT	Puglia, Italy	1	1	9999	5000	99	0
+Gabriel Zurlo Sconosciuto, Candidato a Mesagne	Gabriel Zurlo Sconosciuto	586251125203754	Facebook	puglia_IT	Puglia, Italy	2	1	9998	2000	198	0
+Marco Grimaldi	Marco Grimaldi	619956731519414	Facebook	puglia_IT	Puglia, Italy	4	1	9765	2092	46	5
+Grana Padana Show	Amedeo Tosi 	701486570217344	Facebook	puglia_IT	Puglia, Italy	7	1	9287	4343	76	7
+Alessandro Fusacchia	Alessandro Fusacchia	1045017942325647	Facebook	puglia_IT	Puglia, Italy	2	1	8742	4371	46	8
+Valori.it	Valori.it	112777008752391	Facebook	puglia_IT	Puglia, Italy	17	1	8704	1819	144	0
+Gianni Fabbris candidato alle elezioni Europee 2019	Giovanni Fabbris	324957644589591	Facebook	puglia_IT	Puglia, Italy	8	1	8170	2736	174	0
+CasaPound Italia	CasaPound Italia	193902102841	Facebook	puglia_IT	Puglia, Italy	2	1	7952	1590	15	0
+Matteo Orfini	Matteo Orfini	252959821498182	Facebook	puglia_IT	Puglia, Italy	3	1	7657	1531	43	6
+CIWF Italia	CIWF Italia	576664002355828	Facebook	puglia_IT	Puglia, Italy	12	1	7335	1455	38	0
+zeroCO2	zeroCO2	360133591158746	Facebook	puglia_IT	Puglia, Italy	4	1	7144	1428	17	0
+Michela Giuffrida	Michela Giuffrida	656848937718109	Facebook	puglia_IT	Puglia, Italy	24	1	6993	1493	53	3
+STOCK HOUSE	Marco Petracca 	1463690727217558	Facebook	puglia_IT	Puglia, Italy	3	1	6777	1155	213	0
+Maurizio Lupi	Maurizio Lupi	81698998693	Facebook	puglia_IT	Puglia, Italy	4	1	6617	1535	40	0
+Il Cobra	Paolo Perna	554916498291588	Facebook	puglia_IT	Puglia, Italy	2	1	6614	1322	22	0
+Claudia Pagliariccio	CasaPound Italia L'Aquila	1748593245471149	Facebook	puglia_IT	Puglia, Italy	4	1	6438	1288	127	0
+Eduardo Maria Piccirilli - candidato elezioni europee 2019	Eduardo Maria Piccirilli	2210084055756696	Facebook	puglia_IT	Puglia, Italy	4	1	6368	2817	75	0
+Lorenzo Rubino	Lorenzo Rubino	662979434154518	Facebook	puglia_IT	Puglia, Italy	2	1	6097	1194	24	0
+Roberto Calderoli	Roberto Calderoli	31662384470	Facebook	puglia_IT	Puglia, Italy	2	1	6074	1214	12	0
+Copertino 5 Stelle	Andrea Villani	1562674140671482	Facebook	puglia_IT	Puglia, Italy	2	1	5998	1000	198	0
+Corradino Mineo	Danila Tarantino	429319385345	Facebook	puglia_IT	Puglia, Italy	2	1	5835	1503	20	0
+Clima Europa	Luca Bergamaschi	369195680589481	Facebook	puglia_IT	Puglia, Italy	4	1	5612	1267	32	0
+Raffaele Fitto	Raffaele Fitto	34987266938	Facebook	puglia_IT	Puglia, Italy	1	1	5560	2780	55	0
+E' tempo di Cornaredo - Yuri Santagostino Sindaco		580696152006652	Facebook	puglia_IT	Puglia, Italy	1	1	5411	1082	10	0
+Supporter di Stefania Calcagno	Silvia Calcagno	2152837134785115	Facebook	puglia_IT	Puglia, Italy	3	1	5408	1301	23	0
+Luisa De Biasio Calimani	Luisa De Biasio	822662588103237	Facebook	puglia_IT	Puglia, Italy	1	1	5036	1007	9	0
+Rifondazione Comunista Ruvo	Giovani Comunisti/e	1548705525414371	Facebook	puglia_IT	Puglia, Italy	1	1	4999	1000	99	0
+Roberto Gualtieri	Roberto Gualtieri	659891870744756	Facebook	puglia_IT	Puglia, Italy	9	1	4838	866	77	0
+Forza Nuova Fasano		1653993334891742	Facebook	puglia_IT	Puglia, Italy	1	1	4836	967	95	0
+ProVita Onlus	ProVita Onlus	451419891563905	Facebook	puglia_IT	Puglia, Italy	2	1	4727	1133	14	0
+Vallì Cipriani in Europa	Lara Braga	318177105538166	Facebook	puglia_IT	Puglia, Italy	1	1	4465	893	8	0
+Andrea Delmastro	Davide Eugenio Zappalà	74110200741	Facebook	puglia_IT	Puglia, Italy	1	1	4449	889	8	0
+GPuglia		131946381000870	Facebook	puglia_IT	Puglia, Italy	1	1	4241	848	74	0
+Roberto Morassut		1659017274371990	Facebook	puglia_IT	Puglia, Italy	1	1	4116	823	8	0
+Antonio Martino		330857894077058	Facebook	puglia_IT	Puglia, Italy	1	1	4035	807	7	0
+Enrico Rossi	Enrico Rossi	197611081853	Facebook	puglia_IT	Puglia, Italy	5	1	4017	950	24	0
+Massimiliano Santini	Massimiliano Ghelfi	389585871653842	Facebook	puglia_IT	Puglia, Italy	14	1	3977	977	113	0
+ELSA Italy	ELSA Italy	192576164180806	Facebook	puglia_IT	Puglia, Italy	1	1	3965	793	7	0
+Gianna Gancia		412209525481643	Facebook	puglia_IT	Puglia, Italy	1	1	3960	792	6	0
+Susținători USR Italia		677428805754829	Facebook	puglia_IT	Puglia, Italy	2	1	3933	1589	15	3
+Giovani Democratici - Circolo di Ravenna		192479774122115	Facebook	puglia_IT	Puglia, Italy	1	1	3806	761	7	0
+Matteo Gagliasso	Matteo Gagliasso	1546887325441954	Facebook	puglia_IT	Puglia, Italy	1	1	3777	755	37	7
+Beatrice Brignone	Possibile	454468194886964	Facebook	puglia_IT	Puglia, Italy	1	1	3722	744	37	7
+Giovanbattista Fazzolari	Giovanbattista Fazzolari	593972037615014	Facebook	puglia_IT	Puglia, Italy	1	1	3618	723	7	0
+Mariastella Gelmini	Mariastella Gelmini	303531599691398	Facebook	puglia_IT	Puglia, Italy	5	1	3512	1328	48	0
+Ubaldo Bocci	Ubaldo Bocci	549986188855910	Facebook	puglia_IT	Puglia, Italy	1	1	3511	702	35	7
+La Politica che Vorrei		482731548417007	Facebook	puglia_IT	Puglia, Italy	1	1	3319	663	6	0
+Patrizia Toia	Patrizia Ferma Francesca Toia	519219611453854	Facebook	puglia_IT	Puglia, Italy	2	1	3296	659	13	0
+Italian Climate Network		239383456080711	Facebook	puglia_IT	Puglia, Italy	1	1	3286	657	32	6
+Antonella Lella all’Europarlamento	Antonella Lella	433965244085333	Facebook	puglia_IT	Puglia, Italy	2	1	3207	1457	57	0
+Altaforte Edizioni	Altaforte Edizioni	1309925725776765	Facebook	puglia_IT	Puglia, Italy	2	1	3167	800	10	0
+Per fortuna sono bianco	Maurizio Chierici	1698573850469214	Facebook	puglia_IT	Puglia, Italy	8	1	3066	600	65	0
+Anna Ascani	Anna Ascani	290721534331298	Facebook	puglia_IT	Puglia, Italy	1	1	2751	550	5	0
+Simona Baldassarre	Simona Baldassarre	407861879769918	Facebook	puglia_IT	Puglia, Italy	8	1	2591	828	41	0
+Dante Cattaneo	Dante Cattaneo	256298824546192	Facebook	puglia_IT	Puglia, Italy	11	1	2450	660	16	0
+Daniela Poggio	ROCK communications	441486766660124	Facebook	puglia_IT	Puglia, Italy	6	1	2438	570	58	3
+Rosaria Talarico - Candidata Parlamento europeo - Elezioni europee 2019	Rosaria Talarico	612175085913846	Facebook	puglia_IT	Puglia, Italy	1	1	2416	1208	23	0
+Petizioni.it	Silvano Facchinetti	1410474395723679	Facebook	puglia_IT	Puglia, Italy	6	1	2326	836	45	0
+Ugo Tozzi	Ugo Tozzi	938644779543922	Facebook	puglia_IT	Puglia, Italy	3	1	2184	1061	27	0
+Daniele Viotti	Daniele Viotti	138574576313444	Facebook	puglia_IT	Puglia, Italy	1	1	2031	406	4	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	puglia_IT	Puglia, Italy	2	1	1871	374	3	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	puglia_IT	Puglia, Italy	5	1	1814	670	7	0
+Misfancy	Francesca Antonucci	1335596166495083	Facebook	puglia_IT	Puglia, Italy	2	1	1757	674	24	0
+CentroDestra per Calvisano Formentini Sindaco	Francesco Ghidini 	1260229147468988	Facebook	puglia_IT	Puglia, Italy	1	1	1749	874	17	0
+Annarita D'Urbano		193639731519498	Facebook	puglia_IT	Puglia, Italy	1	1	1625	813	16	0
+Francesca Travison sindaco		417954509008934	Facebook	puglia_IT	Puglia, Italy	1	1	1563	782	15	0
+Gigi Casciello	Luigi Casciello	826579060729311	Facebook	puglia_IT	Puglia, Italy	1	1	1546	773	3	0
+Fabio Amendolara	Fabio Amendolara	122191987831675	Facebook	puglia_IT	Puglia, Italy	5	1	1537	307	30	0
+Susanna Ceccardi	Susanna Ceccardi	257113927825642	Facebook	puglia_IT	Puglia, Italy	1	1	1519	303	3	0
+Francesco Mingiardi	Francesco Mingiardi	1556016234698562	Facebook	puglia_IT	Puglia, Italy	1	1	1473	294	29	0
+Luigi Genesio Icardi	Luigi Genesio Icardi	994935290896984	Facebook	puglia_IT	Puglia, Italy	1	1	1420	284	2	0
+Forza Nuova - Altavilla Silentina /Alburni		257108991770234	Facebook	puglia_IT	Puglia, Italy	1	1	1383	276	27	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	puglia_IT	Puglia, Italy	1	1	1380	690	3	0
+QdN Qualcosa di Napoli	Angela Pascale	375975729177114	Facebook	puglia_IT	Puglia, Italy	1	1	1207	241	23	0
+Fasano Ascenza Loredana - detta Loredana Marangolo		333060274074197	Facebook	puglia_IT	Puglia, Italy	1	1	1183	236	23	0
 Francesca Alderisi		227160244510020	Facebook	puglia_IT	Puglia, Italy	1	1	1152	576	10	0
-Claudia Stomeo	Marco Panareo	357540418216403	Facebook	puglia_IT	Puglia, Italy	1	1	999	0	99	0
-Corradino Mineo	Danila Tarantino	429319385345	Facebook	puglia_IT	Puglia, Italy	1	1	945	472	9	0
+Partito Comunista - Termoli		117998398248074	Facebook	puglia_IT	Puglia, Italy	1	1	1126	225	22	0
+Salvatore Ronghi		358842940986049	Facebook	puglia_IT	Puglia, Italy	1	1	1097	219	21	0
+Patrizia Perrone	Patrizia Perrone 	432738340424818	Facebook	puglia_IT	Puglia, Italy	1	1	1060	212	20	0
+Massimo Giorgetti		1401059500196202	Facebook	puglia_IT	Puglia, Italy	1	1	1055	527	10	0
+Silvia De Lorenzis		399466734205787	Facebook	puglia_IT	Puglia, Italy	1	1	999	0	99	0
+Paolo Loizzo Sindaco		529770324218900	Facebook	puglia_IT	Puglia, Italy	1	1	999	0	99	0
+MIRA Visionary Concept	Giuseppe Fontana	548657991991295	Facebook	puglia_IT	Puglia, Italy	2	1	988	484	11	0
+The New Poets	The New Poets	599113113791532	Facebook	puglia_IT	Puglia, Italy	6	1	978	91	60	0
+Danilo Oscar Lancini	Danilo Oscar Lancini	247390032110856	Facebook	puglia_IT	Puglia, Italy	3	1	898	196	2	0
+Progetto Identità Sconfinate	Rosa Maria Currò	1539777176155570	Facebook	puglia_IT	Puglia, Italy	2	1	888	177	17	0
+Stefano Parisi	Energie PER l'Italia	553711871453130	Facebook	puglia_IT	Puglia, Italy	3	1	882	176	17	0
+Cgil Rieti Roma Est Valle dell'Aniene	Cgil Rieti Roma Est Valle dell'Aniene	1389445751377147	Facebook	puglia_IT	Puglia, Italy	4	1	879	409	14	0
+Enzo Maraio	Luigi Di Martino	1403779849925484	Facebook	puglia_IT	Puglia, Italy	3	1	865	355	11	0
+Nicoletta Dentico	Nicoletta Dentico	433444330724793	Facebook	puglia_IT	Puglia, Italy	4	1	829	87	47	0
 Sergio Tommasini Sindaco	Sergio Tommasini Sindaco	220805388637106	Facebook	puglia_IT	Puglia, Italy	2	1	823	164	16	0
-Partito del Socialismo Europeo	Partito del Socialismo Europeo	1891926127734235	Facebook	puglia_IT	Puglia, Italy	1	1	723	361	7	0
-Gian Piero Joime	Gian Piero Joime	1596602757297534	Facebook	puglia_IT	Puglia, Italy	2	1	690	138	13	0
-Alessandra Guatteri	Matteo Olivieri	452246258212300	Facebook	puglia_IT	Puglia, Italy	1	1	688	137	13	0
-Leila Kechoud - Candidata al Parlamento europeo - 26 maggio 2019	Leila Kechoud	2247400732195775	Facebook	puglia_IT	Puglia, Italy	2	1	466	0	46	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	puglia_IT	Puglia, Italy	2	1	432	102	1	0
-Stefania Calcagno	Stefania Calcagno	528781364317789	Facebook	puglia_IT	Puglia, Italy	1	1	428	85	8	0
-Matteo Gagliasso	Matteo Gagliasso	1546887325441954	Facebook	puglia_IT	Puglia, Italy	1	1	378	75	7	0
-Ilaria Antelmi	Ilaria Antelmi 	2217881658525706	Facebook	puglia_IT	Puglia, Italy	1	1	362	0	35	0
-Fiom Cgil Nazionale	Michela Bevere	78832128959	Facebook	puglia_IT	Puglia, Italy	1	1	360	72	7	0
-Giovanni Russo	Giovanni Russo	1590626850978164	Facebook	puglia_IT	Puglia, Italy	1	1	352	70	6	0
-Fabio Amendolara	Fabio Amendolara	122191987831675	Facebook	puglia_IT	Puglia, Italy	2	1	336	55	11	0
-Susanna Ceccardi	Susanna Ceccardi	257113927825642	Facebook	puglia_IT	Puglia, Italy	1	1	327	163	3	0
-QdN Qualcosa di Napoli	Angela Pascale	375975729177114	Facebook	puglia_IT	Puglia, Italy	1	1	301	0	29	0
-Eduardo Maria Piccirilli - candidato elezioni europee 2019	Eduardo Maria Piccirilli	2210084055756696	Facebook	puglia_IT	Puglia, Italy	1	1	263	52	5	0
-Enrico Rossi	Enrico Rossi	197611081853	Facebook	puglia_IT	Puglia, Italy	1	1	259	51	5	0
-Davide Milan	Davide Milan	192738147436471	Facebook	puglia_IT	Puglia, Italy	1	1	258	51	5	0
-Alessandra Senatore	Domenico Campeglia	668311250269031	Facebook	puglia_IT	Puglia, Italy	1	1	256	0	25	0
-Viviana Dal Cin	Paolo Menis	290866805146864	Facebook	puglia_IT	Puglia, Italy	1	1	254	50	5	0
-Lorenzo Vignali	Lorenzo Vignali	229114191886	Facebook	puglia_IT	Puglia, Italy	12	1	252	0	24	0
-Simona Baldassarre	Simona Baldassarre	407861879769918	Facebook	puglia_IT	Puglia, Italy	2	1	223	39	6	0
-Per fortuna sono bianco	Maurizio Chierici	1698573850469214	Facebook	puglia_IT	Puglia, Italy	2	1	145	0	14	0
-Dante Cattaneo	Dante Cattaneo	256298824546192	Facebook	puglia_IT	Puglia, Italy	3	1	140	26	3	0
-Stefano Passarini	Stefano Passarini	573828172688916	Facebook	puglia_IT	Puglia, Italy	2	1	124	0	12	0
-Luca Vecchi	Comitato Elettorale Luca Vecchi 2024	245475858955495	Facebook	puglia_IT	Puglia, Italy	7	1	119	29	5	0
-Paolo Narcisi - Elezioni Europee 2019	Paolo Narcisi	267745780834375	Facebook	puglia_IT	Puglia, Italy	1	1	94	0	9	0
-Il puntino sulla d	Francesco Portone	252906558149274	Facebook	puglia_IT	Puglia, Italy	1	1	44	0	4	0
-Genova che osa	Genova che osa	1538926219695299	Facebook	puglia_IT	Puglia, Italy	2	1	36	15	0	0
-Matilde Montaudo, cittadina a 5 stelle	Matilde Ada Montaudo	492569564129501	Facebook	puglia_IT	Puglia, Italy	1	1	20	4	0	0
-Cgil Rieti Roma Est Valle dell'Aniene	Cgil Rieti Roma Est Valle dell'Aniene	1389445751377147	Facebook	puglia_IT	Puglia, Italy	1	1	18	0	1	0
-Matteo Biffoni	Comitato elettorale Matteo Biffoni Sindaco.	1447603378788857	Facebook	puglia_IT	Puglia, Italy	1	1	7	1	0	0
-Federico Conte	SocialCom	475969889452069	Facebook	puglia_IT	Puglia, Italy	1	1	3	1	0	0
-Massimiliano Santini	Massimiliano Ghelfi	389585871653842	Facebook	puglia_IT	Puglia, Italy	1	1	1	0	0	0
+CLAYTON		122493385103	Facebook	puglia_IT	Puglia, Italy	1	1	815	407	8	0
+Jacopo Morrone	Jacopo Morrone	574913852523601	Facebook	puglia_IT	Puglia, Italy	2	1	809	161	16	0
+Nicola Danti	Nicola Danti	241424056063716	Facebook	puglia_IT	Puglia, Italy	1	1	802	160	1	0
+Iris Babilonia	Irene Usbergo	982135161844386	Facebook	puglia_IT	Puglia, Italy	2	1	772	154	15	0
+Luca Vecchi	Comitato Elettorale Luca Vecchi 2024	245475858955495	Facebook	puglia_IT	Puglia, Italy	16	1	762	161	8	0
+Business.it	Business.it	673556626032617	Facebook	puglia_IT	Puglia, Italy	2	1	741	148	14	0
+TIWI studio	TIWI studio 	646910878750333	Facebook	puglia_IT	Puglia, Italy	2	1	707	141	14	0
+Movimento Federalista Europeo (MFE)	Movimento Federalista Europeo (MFE)	232586513421372	Facebook	puglia_IT	Puglia, Italy	1	1	701	350	6	0
+Circolo Pd Biella	Daniele Ghisio	565287306938607	Facebook	puglia_IT	Puglia, Italy	1	1	693	138	13	0
+Associazione Hera	Maria Elvira Romeo	1600098883391651	Facebook	puglia_IT	Puglia, Italy	2	1	692	138	13	0
+Gian Piero Joime	Gian Piero Joime	1596602757297534	Facebook	puglia_IT	Puglia, Italy	2	1	688	137	13	0
+Emiliano Occhi	Naytes srl	840175292995931	Facebook	puglia_IT	Puglia, Italy	1	1	684	136	13	0
+Enrico Zucchi - Lega Prato	Enrico Zucchi	707579962958222	Facebook	puglia_IT	Puglia, Italy	1	1	650	130	12	0
+Luca Borsari		2305563149675570	Facebook	puglia_IT	Puglia, Italy	1	1	649	130	12	0
+Ecoscelte	Cristian Menghetti	268956994020348	Facebook	puglia_IT	Puglia, Italy	1	1	647	323	6	0
+San Giorgio di Piano a 5 Stelle		631302016909675	Facebook	puglia_IT	Puglia, Italy	2	1	646	107	21	0
+Sense Mesura		1606564102740842	Facebook	puglia_IT	Puglia, Italy	24	1	635	0	62	0
+Alessandra Guatteri	Matteo Olivieri	452246258212300	Facebook	puglia_IT	Puglia, Italy	1	1	618	123	12	0
+Lo Specchio :o)(o:	Maurizio Sabbadini	605127432920467	Facebook	puglia_IT	Puglia, Italy	6	1	615	0	60	0
+Calenzano Futura	Simone Bolognesi	597646537327558	Facebook	puglia_IT	Puglia, Italy	1	1	600	120	11	0
+Giampietro Angelini	Noi per Norcia	635335283545677	Facebook	puglia_IT	Puglia, Italy	2	1	585	117	5	1
+Licia Montagnani “In Comune”	Licia Caprai Montagnani 	401252743774783	Facebook	puglia_IT	Puglia, Italy	1	1	543	108	10	0
+Fiom Cgil Nazionale	Michela Bevere	78832128959	Facebook	puglia_IT	Puglia, Italy	3	1	540	72	25	0
+Lorenzo Vignali	Lorenzo Vignali	229114191886	Facebook	puglia_IT	Puglia, Italy	12	1	523	73	22	0
+Viviana Dal Cin	Paolo Menis	290866805146864	Facebook	puglia_IT	Puglia, Italy	1	1	515	257	5	0
+Alessandra Mussolini	Alessandra Mussolini	271019907137948	Facebook	puglia_IT	Puglia, Italy	1	1	499	100	9	0
+Risorgi Italia	Angelo Miraglia	886237838215195	Facebook	puglia_IT	Puglia, Italy	1	1	498	99	9	0
+Il puntino sulla d	Francesco Portone	252906558149274	Facebook	puglia_IT	Puglia, Italy	2	1	496	87	14	0
+Francesco Forciniti	Francesco Forciniti	185431622208143	Facebook	puglia_IT	Puglia, Italy	1	1	448	89	8	0
+Marco Ravaioli per Forlì		167313460363533	Facebook	puglia_IT	Puglia, Italy	1	1	437	87	8	0
+Gabriela Mirescu		2618888988127707	Facebook	puglia_IT	Puglia, Italy	4	1	428	180	9	0
+Paolo Narcisi - Elezioni Europee 2019	Paolo Narcisi	267745780834375	Facebook	puglia_IT	Puglia, Italy	1	1	424	84	8	0
+Psicopolitica		264883480745032	Facebook	puglia_IT	Puglia, Italy	1	1	418	0	36	0
+Sandro Fucito - La Sinistra	Alessandro Fucito	1575493769447797	Facebook	puglia_IT	Puglia, Italy	1	1	403	202	3	0
+Lorem Ipsum	Gabriele D'Angelo	238950726749912	Facebook	puglia_IT	Puglia, Italy	1	1	400	80	7	0
+I vote Europe		608176689275464	Facebook	puglia_IT	Puglia, Italy	1	1	387	193	3	0
+Cristiano Puglisi	Cristiano Puglisi	325631827561520	Facebook	puglia_IT	Puglia, Italy	1	1	383	76	7	0
+PD Pianezza	Michele Marano	112241292157505	Facebook	puglia_IT	Puglia, Italy	1	1	379	75	7	0
+Fratelli d'Italia Civita Castellana	Fratelli d'Italia Civita Castellana	799617696744055	Facebook	puglia_IT	Puglia, Italy	1	1	343	68	6	0
+Piazza Grande Savigliano - per il Partito Democratico	Alessandro Ghiberti	2275887039358471	Facebook	puglia_IT	Puglia, Italy	1	1	336	168	3	0
+Giovanni Russo	Giovanni Russo	1590626850978164	Facebook	puglia_IT	Puglia, Italy	1	1	334	66	6	0
+Alex Bazzaro	Alex Bazzaro	163927824248716	Facebook	puglia_IT	Puglia, Italy	1	1	331	66	6	0
+Massimo Ruspandini	Roberta Pugliese	1382842338499099	Facebook	puglia_IT	Puglia, Italy	1	1	288	57	5	0
+Davide Milan	Davide Milan	192738147436471	Facebook	puglia_IT	Puglia, Italy	1	1	259	51	5	0
+Ridiamo per non piangere		327846087995802	Facebook	puglia_IT	Puglia, Italy	1	1	257	51	5	0
+Vincenzo Fasano	Enzo Fasano	170701676278225	Facebook	puglia_IT	Puglia, Italy	1	1	248	49	0	0
+Samuele Mascarin - LE IDEE IN COMUNE	Samuele Mascarin - LE IDEE IN COMUNE	174921619345619	Facebook	puglia_IT	Puglia, Italy	2	1	240	48	4	0
+Discover Philadelphia		60364167807	Facebook	puglia_IT	Puglia, Italy	1	1	235	117	2	0
+CristianoBubuCappellari	Cristiano Cappellari 	155697555152756	Facebook	puglia_IT	Puglia, Italy	2	1	207	0	20	0
+Leonardo Marras		44353765035	Facebook	puglia_IT	Puglia, Italy	1	1	207	41	4	0
+Refugees Welcome Italia	Serafina Consolato	1638510526420491	Facebook	puglia_IT	Puglia, Italy	1	1	182	36	3	0
+Aurelio Tommasetti	Aurelio Tommasetti	1486053308334191	Facebook	puglia_IT	Puglia, Italy	1	1	171	85	1	0
+Pistoia in Comune	Daniela Fedi	259840158164428	Facebook	puglia_IT	Puglia, Italy	1	1	150	0	14	0
+Roberto Rosso	Roberto Rosso	1735684256653359	Facebook	puglia_IT	Puglia, Italy	1	1	145	29	0	0
+Fabio Castelli	Fabio Castelli	1405273906374467	Facebook	puglia_IT	Puglia, Italy	1	1	140	0	13	0
+Giulia Pastorella	Giulia Pastorella | Europa per Scelta	2233320866726559	Facebook	puglia_IT	Puglia, Italy	1	1	131	0	13	0
+Europe Thinx		335839580440114	Facebook	puglia_IT	Puglia, Italy	1	1	129	25	0	0
+Bosch Global		185652704861747	Facebook	puglia_IT	Puglia, Italy	1	1	123	0	12	0
+Genova che osa	Genova che osa	1538926219695299	Facebook	puglia_IT	Puglia, Italy	3	1	113	30	0	0
+Paul Köllensperger	Team Koellensperger	779347678751107	Facebook	puglia_IT	Puglia, Italy	1	1	110	55	0	0
+Lia Montalti	Lia Montalti	1490311121245235	Facebook	puglia_IT	Puglia, Italy	1	1	108	21	2	0
+Matteo Biffoni	Comitato elettorale Matteo Biffoni Sindaco.	1447603378788857	Facebook	puglia_IT	Puglia, Italy	3	1	94	25	0	0
+Volt Modena	Alessandro Lima	398218900938828	Facebook	puglia_IT	Puglia, Italy	1	1	94	0	9	0
+Matilde Montaudo, cittadina a 5 stelle	Matilde Ada Montaudo	492569564129501	Facebook	puglia_IT	Puglia, Italy	1	1	92	46	0	0
+Pierfrancesco Majorino	Pierfrancesco Majorino	194123260626794	Facebook	puglia_IT	Puglia, Italy	1	1	90	18	1	0
+Fratelli d'Italia Sondrio - Alto lago	Marco Masetti	771132936567349	Facebook	puglia_IT	Puglia, Italy	1	1	88	0	8	0
+up_to_42		1774969932648405	Facebook	puglia_IT	Puglia, Italy	1	1	84	0	8	0
+Igor Iezzi - Lega Salvini Premier	Igor Giancarlo Iezzi	371129666769551	Facebook	puglia_IT	Puglia, Italy	1	1	84	0	8	0
+Save The Seas		2203608429682203	Facebook	puglia_IT	Puglia, Italy	1	1	83	16	1	0
+Fratelli D'Italia Cerveteri "LiberaMente"		525934134449347	Facebook	puglia_IT	Puglia, Italy	1	1	78	0	7	0
+ETUC		129041250601685	Facebook	puglia_IT	Puglia, Italy	1	1	77	15	0	0
+CSVnet		904724502974742	Facebook	puglia_IT	Puglia, Italy	1	1	73	0	7	0
+Ambiente Mare Italia		1978323772189377	Facebook	puglia_IT	Puglia, Italy	1	1	63	0	6	0
+Aldo Modonesi	Comitato Elettorale Aldo Modonesi Sindaco	300621720600910	Facebook	puglia_IT	Puglia, Italy	2	1	56	28	0	0
+Plictisescu.ro		184028071751540	Facebook	puglia_IT	Puglia, Italy	1	1	54	27	0	0
+Serena Spinelli		1475431256096693	Facebook	puglia_IT	Puglia, Italy	1	1	32	0	3	0
+Paola Testori	Paola Testori	658895384568072	Facebook	puglia_IT	Puglia, Italy	3	1	28	13	0	0
+grillonews.it - giornale equo e solidale	Amedeo Tosi 	220549806511	Facebook	puglia_IT	Puglia, Italy	1	1	28	0	2	0
+Rosanna Conte	Rosanna Conte - Candidata della Lega	1035757379850845	Facebook	puglia_IT	Puglia, Italy	4	1	25	0	2	0
+Diego Sarno	Diego Sarno	44296617275	Facebook	puglia_IT	Puglia, Italy	1	1	24	4	0	0
+Team Köllensperger	Renate Holzeisen	201834673860032	Facebook	puglia_IT	Puglia, Italy	1	1	22	4	0	0
+Eurozine		115579498521257	Facebook	puglia_IT	Puglia, Italy	1	1	19	3	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	puglia_IT	Puglia, Italy	1	1	18	7	0	0
+Marinela V. Ardelean		346137638884956	Facebook	puglia_IT	Puglia, Italy	1	1	17	3	0	0
+Mahindra Rise		158304157570734	Facebook	puglia_IT	Puglia, Italy	1	1	15	7	0	0
+Andrea Telchime	Andrea Telchime	794539650559164	Facebook	puglia_IT	Puglia, Italy	1	1	10	0	1	0
+ITUC		20556338116	Facebook	puglia_IT	Puglia, Italy	1	1	10	0	1	0
+Federico Conte	SocialCom	475969889452069	Facebook	puglia_IT	Puglia, Italy	1	1	9	1	0	0
+Festival Psicologia	Ordine degli Psicologi del Lazio	375703235973864	Facebook	puglia_IT	Puglia, Italy	1	1	7	1	0	0
+Bengasi Battisti	Carla Gambale	1234886286582199	Facebook	puglia_IT	Puglia, Italy	2	1	6	1	0	0
+Arcigay "Marcella Di Folco" Salerno	Francesco Napoli	136110113119570	Facebook	puglia_IT	Puglia, Italy	1	1	5	1	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	puglia_IT	Puglia, Italy	1	1	2	0	0	0
+The Years Project	The Years Project	168876449866088	Facebook	puglia_IT	Puglia, Italy	1	1	1	0	0	0

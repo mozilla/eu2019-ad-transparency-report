@@ -1,92 +1,337 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Fabrizio Ghera	Fabrizio Ghera	1803487999879591	Facebook	lazio_IT	Lazio, Italy	11	1	390989	147000	1889	200
-Festival Psicologia	Ordine degli Psicologi del Lazio	375703235973864	Facebook	lazio_IT	Lazio, Italy	4	1	160996	65000	796	100
-Matteo Salvini	Lega - Salvini Premier	252306033154	Facebook	lazio_IT	Lazio, Italy	1	1	115945	57973	57	11
-Jacopo Alberti Consigliere Regionale LEGA Salvini Toscana	JACOPO ALBERTI	1583213175233477	Facebook	lazio_IT	Lazio, Italy	2	1	59998	15000	198	0
-European Commission	European Commission	107898832590939	Facebook	lazio_IT	Lazio, Italy	3	1	56888	23760	71	14
-Nicola Danti	Nicola Danti	241424056063716	Facebook	lazio_IT	Lazio, Italy	3	1	54788	12457	148	0
-Giorgia Meloni	Fratelli d'Italia	38919827644	Facebook	lazio_IT	Lazio, Italy	5	1	53070	20973	202	35
-Federica Picchi	Federica Picchi	362494797700891	Facebook	lazio_IT	Lazio, Italy	7	1	50064	9945	218	0
-Massimiliano Smeriglio	Massimiliano Smeriglio	182266801912488	Facebook	lazio_IT	Lazio, Italy	5	1	35995	16000	495	0
-Antonio Tajani	Antonio Tajani	506531149512596	Facebook	lazio_IT	Lazio, Italy	3	1	35246	8623	173	0
-Partito Democratico	Partito Democratico	77034286895	Facebook	lazio_IT	Lazio, Italy	1	1	33384	16692	166	33
-Luciano Nobili	Luciano Nobili	406187203142799	Facebook	lazio_IT	Lazio, Italy	5	1	32414	6976	77	0
-Simona Bonafè	Simona Bonafè	145437958954905	Facebook	lazio_IT	Lazio, Italy	4	1	30709	10268	333	32
-Costanza Hermanin	Costanza Hermanin 	1424214351021211	Facebook	lazio_IT	Lazio, Italy	3	1	27582	6597	124	0
-Michela Sciurpa	Michela Sciurpa tramite mandatario elettorale Gian Luca Laurenzi, nato a Perugia il 21.09.1964 LRNGLC64P21G478O con nomina ed accettazione depositata il data 09.04.2019 alla Corte d’Appello di Perugia	317033212339928	Facebook	lazio_IT	Lazio, Italy	1	1	25076	5015	49	0
-Matteo Renzi	Matteo Renzi	113335124914	Facebook	lazio_IT	Lazio, Italy	3	1	19977	6995	118	0
+MoVimento 5 Stelle	MoVimento 5 Stelle	174457180812	Facebook	lazio_IT	Lazio, Italy	18	1	1586866	714072	9321	2042
+Forza Italia	Forza Italia	172265396249029	Facebook	lazio_IT	Lazio, Italy	6	1	975929	452161	1698	635
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	lazio_IT	Lazio, Italy	35	1	885351	357073	2895	625
+Avaaz	Avaaz	8340223883	Facebook	lazio_IT	Lazio, Italy	33	1	820489	362104	3393	1154
+Nicola Magi	Nicola Magi	329290881102446	Facebook	lazio_IT	Lazio, Italy	3	1	670095	316445	426	60
+Fabrizio Ghera	Fabrizio Ghera	1803487999879591	Facebook	lazio_IT	Lazio, Italy	27	1	666967	213998	3872	300
+Raffaella Bonsangue	Giuseppe Mangano, mandatario elettorale Avv. Raffaella Bonsangue	963373667373045	Facebook	lazio_IT	Lazio, Italy	11	1	661414	264679	4349	797
+Partito Democratico	Partito Democratico	77034286895	Facebook	lazio_IT	Lazio, Italy	56	1	648518	283761	4039	744
+Massimiliano Smeriglio	Massimiliano Smeriglio	182266801912488	Facebook	lazio_IT	Lazio, Italy	29	1	604971	154000	2871	0
+Nicola Danti	Nicola Danti	241424056063716	Facebook	lazio_IT	Lazio, Italy	36	1	601959	179086	3712	560
+European Parliament	European Parliament	178362315106	Facebook	lazio_IT	Lazio, Italy	11	1	598369	289890	3399	675
+Simona Bonafè	Simona Bonafè	145437958954905	Facebook	lazio_IT	Lazio, Italy	25	1	596212	207764	4904	850
+Giorgia Meloni	Fratelli d'Italia	38919827644	Facebook	lazio_IT	Lazio, Italy	20	1	584184	251331	3454	789
+Costanza Hermanin	Costanza Hermanin 	1424214351021211	Facebook	lazio_IT	Lazio, Italy	7	1	556014	219518	670	91
+Festival Psicologia	Ordine degli Psicologi del Lazio	375703235973864	Facebook	lazio_IT	Lazio, Italy	11	1	536475	262815	1483	100
+European Commission	European Commission	107898832590939	Facebook	lazio_IT	Lazio, Italy	30	1	468261	209854	685	186
+Matteo Salvini	Lega - Salvini Premier	252306033154	Facebook	lazio_IT	Lazio, Italy	10	1	441834	217291	2040	403
+Fratelli d'Italia	Fratelli d'Italia	355710427861591	Facebook	lazio_IT	Lazio, Italy	30	1	409479	157266	2294	587
+Annalisa Corrado	ANNALISA CORRADO (mandataria elettorale Serena Drigo)	152120842162775	Facebook	lazio_IT	Lazio, Italy	110	1	399010	107712	5682	103
+Antonio Tajani	Antonio Tajani	506531149512596	Facebook	lazio_IT	Lazio, Italy	11	1	353066	103734	1346	174
+Più Europa	Più Europa	126662574668084	Facebook	lazio_IT	Lazio, Italy	9	1	348080	154534	1802	481
+Federica Picchi	Federica Picchi	362494797700891	Facebook	lazio_IT	Lazio, Italy	30	1	344226	108987	2015	331
+Lina Novelli Elezioni Europee 2019	Stefano Stefanoni 	525398527864941	Facebook	lazio_IT	Lazio, Italy	4	1	333775	118473	242	0
+Sergio Pirozzi		138470909670284	Facebook	lazio_IT	Lazio, Italy	1	1	291288	116515	290	58
+Nicola Zingaretti	Partito Democratico	38423524033	Facebook	lazio_IT	Lazio, Italy	5	1	281409	119270	381	76
+Camilla Laureti	Camilla Laureti	1718838531535765	Facebook	lazio_IT	Lazio, Italy	14	1	274779	87717	1252	92
+European Greens	European Greens	141366725876424	Facebook	lazio_IT	Lazio, Italy	9	1	269421	114808	1376	336
+Nicola Fratoianni	Nicola Fratoianni	116181541819083	Facebook	lazio_IT	Lazio, Italy	11	1	252077	108284	570	141
+Jacopo Alberti Consigliere Regionale LEGA Salvini Toscana	JACOPO ALBERTI	1583213175233477	Facebook	lazio_IT	Lazio, Italy	3	1	249997	110000	1497	300
+Susanna Ceccardi	Susanna Ceccardi	257113927825642	Facebook	lazio_IT	Lazio, Italy	6	1	235679	87041	819	132
+Carlo Calenda	Siamo Europei	131887960826264	Facebook	lazio_IT	Lazio, Italy	2	1	228011	114006	1139	228
+Centioni Alessia Europee 2019	SocialCom	1249137568574869	Facebook	lazio_IT	Lazio, Italy	19	1	206392	51099	1410	103
+Partito del Socialismo Europeo	Partito del Socialismo Europeo	1891926127734235	Facebook	lazio_IT	Lazio, Italy	11	1	198043	87185	355	54
+Save the Children Italia	Save the Children Italia	46590675335	Facebook	lazio_IT	Lazio, Italy	6	1	178297	74346	418	155
+Andrea Ventura per la Sinistra	Andrea Ventura	2128020000585703	Facebook	lazio_IT	Lazio, Italy	12	1	177544	36768	599	0
+Democrazia Solidale - DEMOS	Paolo Ciani 	1497251783844508	Facebook	lazio_IT	Lazio, Italy	12	1	168822	41028	934	0
+Stefano Pastorelli - Lega	Stefano Pastorelli	42425772121	Facebook	lazio_IT	Lazio, Italy	3	1	155187	61973	360	51
+Matteo Adinolfi	News-24.it	308719606486381	Facebook	lazio_IT	Lazio, Italy	8	1	153737	36834	609	0
+VoteEuropa Italia	Ayoub Lahouioui	259302014838779	Facebook	lazio_IT	Lazio, Italy	8	1	152261	72410	462	79
+Roberto Gualtieri	Roberto Gualtieri	659891870744756	Facebook	lazio_IT	Lazio, Italy	17	1	139933	32143	692	48
+Sosventurini	Antonfrancesco Venturini 	405956940133035	Facebook	lazio_IT	Lazio, Italy	8	1	135085	50651	785	59
+Amnesty International - Italia	Amnesty International - Italia	39993728498	Facebook	lazio_IT	Lazio, Italy	9	1	126483	50557	195	23
+Alessandra Nardini	Alessandra Nardini	1393257504323165	Facebook	lazio_IT	Lazio, Italy	10	1	126037	28525	972	101
+Cinzia Pettoni	 Cinzia Pettoni 	2357999221079856	Facebook	lazio_IT	Lazio, Italy	6	1	124994	28000	594	0
+Luciano Nobili	Luciano Nobili	406187203142799	Facebook	lazio_IT	Lazio, Italy	26	1	121200	26987	372	0
+Paolo Ciani - Consigliere Regionale del Lazio DEMOS	Paolo Ciani 	1795607690470395	Facebook	lazio_IT	Lazio, Italy	6	1	108956	21392	933	100
+Deputati PD	Deputati PD	104652392900508	Facebook	lazio_IT	Lazio, Italy	21	1	103562	20982	227	0
+Latina per Smeriglio	Pier Luca Mario Dussich	861710860862485	Facebook	lazio_IT	Lazio, Italy	2	1	99998	20000	198	0
+La Sinistra Lazio	Carlo Tarantola	326405431406323	Facebook	lazio_IT	Lazio, Italy	7	1	99969	31990	692	0
+Simona Baldassarre	Simona Baldassarre	407861879769918	Facebook	lazio_IT	Lazio, Italy	23	1	96994	27306	1318	0
+Videodrome	Videodrome	1773694896182795	Facebook	lazio_IT	Lazio, Italy	42	1	96134	23282	422	0
+Dipartimento per le politiche giovanili e il servizio civile universale – Presidenza del Consiglio dei Ministri	Dipartimento per le politiche giovanili e il servizio civile universale – Presidenza del Consiglio dei Ministri	353868374653514	Facebook	lazio_IT	Lazio, Italy	15	1	90714	37696	263	26
+Skuola.net	Skuola.net	126578555602	Facebook	lazio_IT	Lazio, Italy	11	1	89050	35942	203	26
+Francesco Rabotti	Giuseppe Orefice	316495045128997	Facebook	lazio_IT	Lazio, Italy	5	1	88371	19353	346	0
+Greenpeace Italia	Greenpeace Italia	35346524498	Facebook	lazio_IT	Lazio, Italy	15	1	87283	23353	162	0
+Michela Sciurpa	Michela Sciurpa tramite mandatario elettorale Gian Luca Laurenzi, nato a Perugia il 21.09.1964 LRNGLC64P21G478O con nomina ed accettazione depositata il data 09.04.2019 alla Corte d’Appello di Perugia	317033212339928	Facebook	lazio_IT	Lazio, Italy	5	1	75945	28337	205	29
+Beatrice Brignone	Possibile	454468194886964	Facebook	lazio_IT	Lazio, Italy	4	1	75754	15151	756	151
+Ufficio d'informazione in Italia del Parlamento europeo	Ufficio d'informazione in Italia del Parlamento europeo	143544514130	Facebook	lazio_IT	Lazio, Italy	1	1	74915	29966	74	14
+Forza Italia Civita Castellana	Marco Parroccini	1925031694411257	Facebook	lazio_IT	Lazio, Italy	4	1	73292	20540	777	97
+ISPI - Istituto per gli studi di politica internazionale	ISPI - Istituto per gli studi di politica internazionale	171795872872353	Facebook	lazio_IT	Lazio, Italy	10	1	71950	25983	179	18
+Stefano Ciccone con La Sinistra al Parlamento Europeo	Stefano Ciccone	2125577980861018	Facebook	lazio_IT	Lazio, Italy	11	1	68049	23554	569	0
+Giovanni Guidi		134845253246587	Facebook	lazio_IT	Lazio, Italy	2	1	63832	31686	203	31
+Il golpe Gentiloni		1299858193475119	Facebook	lazio_IT	Lazio, Italy	1	1	63557	25423	635	127
+Federazione Verdi	Federazione Verdi	142589879147197	Facebook	lazio_IT	Lazio, Italy	3	1	63121	13943	159	0
+Arianna Verucci Candidata Europee 2019	Arianna Verucci	351797152405843	Facebook	lazio_IT	Lazio, Italy	8	1	62534	13563	427	0
+Laura Agea Portavoce Eurodeputata M5S	Laura Agea Portavoce Eurodeputata M5S	1423738397876993	Facebook	lazio_IT	Lazio, Italy	1	1	62101	31051	309	62
+Silvio Berlusconi	Silvio Berlusconi	116716651695782	Facebook	lazio_IT	Lazio, Italy	3	1	58669	27569	242	48
+Popolo della Famiglia - Lazio	Guido Pianeselli 	356312904827073	Facebook	lazio_IT	Lazio, Italy	2	1	58318	11664	582	116
+Insieme per Tuscania - Regino Brachetti Sindaco	Pier Paolo Pallassini 	389035505273421	Facebook	lazio_IT	Lazio, Italy	3	1	56890	14363	261	0
+Giuseppe Cossalter	Giuseppe Cossalter	1981132658773307	Facebook	lazio_IT	Lazio, Italy	3	1	50161	24903	36	0
+IBarbari.it	Marco Nuzzi	1557347464572521	Facebook	lazio_IT	Lazio, Italy	1	1	49999	10000	99	0
+Avv. Roberto Amati	Roberto Amati	1434465536577273	Facebook	lazio_IT	Lazio, Italy	1	1	49999	10000	99	0
+Umberto Marroni		1274180625925753	Facebook	lazio_IT	Lazio, Italy	1	1	49999	10000	99	0
+Francesco Mingiardi	Francesco Mingiardi	1556016234698562	Facebook	lazio_IT	Lazio, Italy	15	1	47496	11187	1020	0
+Carlotta Chiaraluce	Paola Chiaraluce 	390354464719591	Facebook	lazio_IT	Lazio, Italy	6	1	47362	13002	363	0
+Animal Amnesty	Animal Amnesty	443428169034090	Facebook	lazio_IT	Lazio, Italy	1	1	47217	9443	93	0
+Karamea - The Movie	Karamea - The Movie	800360290085811	Facebook	lazio_IT	Lazio, Italy	3	1	45142	9028	178	0
+In Europa con Lucentini	Gloria Medori	191158651730054	Facebook	lazio_IT	Lazio, Italy	4	1	43534	11994	223	0
+Stefania Monteverde in Europa	Stefania Monteverde	2880774605326482	Facebook	lazio_IT	Lazio, Italy	5	1	42954	13555	267	0
+Giuliano Pisapia	Giuliano Pisapia	112352038802143	Facebook	lazio_IT	Lazio, Italy	1	1	42823	17129	8	0
+Europa Verde	Europa Verde	593847704462763	Facebook	lazio_IT	Lazio, Italy	5	1	42482	18620	312	12
+Mariastella Gelmini	Mariastella Gelmini	303531599691398	Facebook	lazio_IT	Lazio, Italy	8	1	42414	10658	231	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	lazio_IT	Lazio, Italy	3	1	41852	20836	24	4
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	lazio_IT	Lazio, Italy	23	1	41043	14713	128	17
+Pina Picierno	SocialCom	212896992084952	Facebook	lazio_IT	Lazio, Italy	39	1	40343	11987	256	6
+Carte D'Or	Unilever	554943434517746	Facebook	lazio_IT	Lazio, Italy	6	1	39946	11335	343	68
+Anna Maria Costanza Rozzi	Giorgio Alessandro Bruni	298754967688214	Facebook	lazio_IT	Lazio, Italy	2	1	39694	7822	134	0
+Simone Di Stefano		294385027332061	Facebook	lazio_IT	Lazio, Italy	2	1	39337	16989	93	15
+European Free Alliance	European Free Alliance	46708306425	Facebook	lazio_IT	Lazio, Italy	3	1	38400	18633	253	50
+Elena Vizzotto	Elena Vizzotto	464896850575483	Facebook	lazio_IT	Lazio, Italy	4	1	37549	9056	199	0
+Matteo Renzi	Matteo Renzi	113335124914	Facebook	lazio_IT	Lazio, Italy	5	1	37368	14016	188	11
+Anna Maria Bernini	Anna Maria Bernini	146169045979888	Facebook	lazio_IT	Lazio, Italy	28	1	36365	7147	299	0
+Bengasi Battisti	Carla Gambale	1234886286582199	Facebook	lazio_IT	Lazio, Italy	8	1	35976	9828	759	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	lazio_IT	Lazio, Italy	3	1	34872	14581	70	31
+Beatrice Covassi	Beatrice Covassi	813747598798643	Facebook	lazio_IT	Lazio, Italy	5	1	33901	6578	475	56
+Concetta Maestrini	Concetta Maestrini	798253917216096	Facebook	lazio_IT	Lazio, Italy	1	1	33773	6754	66	0
+Ivanilde Carvalho	Ivanilde Carvalho 	2199214320158577	Facebook	lazio_IT	Lazio, Italy	2	1	33666	8347	109	0
+Giovanni Paolo Bernini	Luca Perrone	2387532191477889	Facebook	lazio_IT	Lazio, Italy	37	1	31909	4601	1887	0
+Daniela Rondinelli	Daniela Rondinelli	2589232681091659	Facebook	lazio_IT	Lazio, Italy	1	1	29872	5974	298	59
+Anna Ascani	Anna Ascani	290721534331298	Facebook	lazio_IT	Lazio, Italy	3	1	29474	7077	89	0
+Lisa Giuggiolini	Dalia Moroni 	1411377252457528	Facebook	lazio_IT	Lazio, Italy	2	1	29427	5885	323	52
+Susținători USR Italia		677428805754829	Facebook	lazio_IT	Lazio, Italy	2	1	29302	11703	117	23
+Mihai Popescu	Mihai Popescu	314642105407665	Facebook	lazio_IT	Lazio, Italy	9	1	28971	4996	890	0
+Riccardo Magi	Maria Silvia De Marchi	463407240409640	Facebook	lazio_IT	Lazio, Italy	1	1	27732	5546	276	55
+Monica Baldi	All You srl	69478849984	Facebook	lazio_IT	Lazio, Italy	1	1	27661	5532	276	55
+Stefano Passarini	Stefano Passarini	573828172688916	Facebook	lazio_IT	Lazio, Italy	24	1	26575	6318	180	0
+Prof Luca Avagnina	Avagnina Luca	1081529978655352	Facebook	lazio_IT	Lazio, Italy	2	1	26331	5143	317	51
+Tommaso Cenciarelli Sindaco	Massimo Carletti	564374430658475	Facebook	lazio_IT	Lazio, Italy	5	1	25995	8000	495	0
+Marco Racca	Marco Racca	2341721169486171	Facebook	lazio_IT	Lazio, Italy	5	1	25661	5425	209	37
+Partito Animalista Europeo		526901760669684	Facebook	lazio_IT	Lazio, Italy	1	1	25328	5065	50	0
+Big News Buzz		125179374733697	Facebook	lazio_IT	Lazio, Italy	1	1	24998	12499	111	55
+CasaPound Italia Siena	Sergio Fucito	178495252190185	Facebook	lazio_IT	Lazio, Italy	1	1	24755	4951	49	0
+Cuore Italiano		923834707677379	Facebook	lazio_IT	Lazio, Italy	1	1	23854	4770	47	0
+Giuseppe Civati	Possibile	260348547488	Facebook	lazio_IT	Lazio, Italy	2	1	23768	4753	237	47
+Nicoletta Dentico	Nicoletta Dentico	433444330724793	Facebook	lazio_IT	Lazio, Italy	14	1	23113	7213	602	0
+CIWF Italia	CIWF Italia	576664002355828	Facebook	lazio_IT	Lazio, Italy	15	1	20627	3996	173	0
+Simone Coco	Simone Coco	1729365230675773	Facebook	lazio_IT	Lazio, Italy	4	1	19996	4000	396	0
+Lara Comi	Lara Comi	155619044465389	Facebook	lazio_IT	Lazio, Italy	3	1	18087	9020	94	18
+Alessandro Spalletta - Delegato Provinciale Fi di Roma	Matteo Boldrini	2273188646254321	Facebook	lazio_IT	Lazio, Italy	5	1	17995	6000	495	0
+ANSA Europa	ANSA Europa	190141131032201	Facebook	lazio_IT	Lazio, Italy	3	1	17986	3597	35	0
+Eleonora Forenza	Eleonora Forenza	302764019871151	Facebook	lazio_IT	Lazio, Italy	2	1	17038	3407	45	0
+Orlando Amodeo per Europa Verde	Orlando Amodeo	397286324156859	Facebook	lazio_IT	Lazio, Italy	2	1	16708	3341	166	33
+Stefania Calcagno	Stefania Calcagno	528781364317789	Facebook	lazio_IT	Lazio, Italy	2	1	16661	6794	67	11
+CasaPound Italia	CasaPound Italia	193902102841	Facebook	lazio_IT	Lazio, Italy	2	1	16287	3257	32	0
+Federico Clapis	Federico Clapis	306289286207471	Facebook	lazio_IT	Lazio, Italy	4	1	16198	3239	40	0
+Michela Giuffrida	Michela Giuffrida	656848937718109	Facebook	lazio_IT	Lazio, Italy	24	1	15983	3461	109	8
+Matteo Orfini	Matteo Orfini	252959821498182	Facebook	lazio_IT	Lazio, Italy	3	1	15288	3057	104	15
+Giampietro Angelini	Noi per Norcia	635335283545677	Facebook	lazio_IT	Lazio, Italy	4	1	15217	3043	154	29
 Luca Di Egidio	Luca Di Egidio	993724994029066	Facebook	lazio_IT	Lazio, Italy	2	1	14998	6000	198	0
-Sosventurini	Antonfrancesco Venturini 	405956940133035	Facebook	lazio_IT	Lazio, Italy	2	1	14702	5937	192	0
-Fratelli d'Italia	Fratelli d'Italia	355710427861591	Facebook	lazio_IT	Lazio, Italy	1	1	13292	6646	66	13
-Stefano Ciccone con La Sinistra al Parlamento Europeo	Stefano Ciccone	2125577980861018	Facebook	lazio_IT	Lazio, Italy	4	1	12162	3924	191	0
-Giuseppe Cossalter	Giuseppe Cossalter	1981132658773307	Facebook	lazio_IT	Lazio, Italy	3	1	12006	2401	34	0
-VoteEuropa Italia	Ayoub Lahouioui	259302014838779	Facebook	lazio_IT	Lazio, Italy	1	1	11790	2358	23	0
-Deputati PD	Deputati PD	104652392900508	Facebook	lazio_IT	Lazio, Italy	3	1	11670	2525	28	0
-Popolo della Famiglia - Lazio	Guido Pianeselli 	356312904827073	Facebook	lazio_IT	Lazio, Italy	2	1	11223	5612	111	0
-Avaaz	Avaaz	8340223883	Facebook	lazio_IT	Lazio, Italy	1	1	10257	5128	10	0
-Daniela Poggio	ROCK communications	441486766660124	Facebook	lazio_IT	Lazio, Italy	6	1	7789	1449	79	0
-Simona Baldassarre	Simona Baldassarre	407861879769918	Facebook	lazio_IT	Lazio, Italy	3	1	7783	1465	190	0
-Centioni Alessia Europee 2019	SocialCom	1249137568574869	Facebook	lazio_IT	Lazio, Italy	3	1	7716	1543	152	0
-Mariastella Gelmini	Mariastella Gelmini	303531599691398	Facebook	lazio_IT	Lazio, Italy	1	1	6485	3242	64	0
-Alessandro Fusacchia	Alessandro Fusacchia	1045017942325647	Facebook	lazio_IT	Lazio, Italy	2	1	6323	1264	72	10
-Concetta Maestrini	Concetta Maestrini	798253917216096	Facebook	lazio_IT	Lazio, Italy	1	1	5949	2975	58	0
-Alessandra Nardini	Alessandra Nardini	1393257504323165	Facebook	lazio_IT	Lazio, Italy	3	1	5695	2318	150	0
-MoVimento 5 Stelle	MoVimento 5 Stelle	174457180812	Facebook	lazio_IT	Lazio, Italy	1	1	5548	1109	10	0
+Felice Zingarelli - Teknopolitica	Felice Zingarelli	1412293382368685	Facebook	lazio_IT	Lazio, Italy	2	1	14894	5948	196	0
+Olimpia Troili		678908455899403	Facebook	lazio_IT	Lazio, Italy	2	1	14393	7197	142	0
+Marco Grimaldi	Marco Grimaldi	619956731519414	Facebook	lazio_IT	Lazio, Italy	4	1	13516	3038	63	6
+MoVimento Cinque Stelle Provincia di Salerno		339297716643	Facebook	lazio_IT	Lazio, Italy	2	1	13213	5256	52	8
+Alessandro Fusacchia	Alessandro Fusacchia	1045017942325647	Facebook	lazio_IT	Lazio, Italy	2	1	12807	6403	73	10
+zeroCO2	zeroCO2	360133591158746	Facebook	lazio_IT	Lazio, Italy	4	1	12760	2552	33	0
+Grana Padana Show	Amedeo Tosi 	701486570217344	Facebook	lazio_IT	Lazio, Italy	7	1	12267	5564	122	9
+Valori.it	Valori.it	112777008752391	Facebook	lazio_IT	Lazio, Italy	17	1	11950	2570	185	0
+Valeria Valente	Valeria Valente	698743116897167	Facebook	lazio_IT	Lazio, Italy	8	1	11645	2329	230	0
+Partito Comunista	Partito Comunista	315768485124369	Facebook	lazio_IT	Lazio, Italy	3	1	11386	2277	33	0
+Eastwest - Rivista di Geopolitica	Eastwest - Rivista di Geopolitica	186246774846027	Facebook	lazio_IT	Lazio, Italy	9	1	10995	3876	84	0
+Massimo Ruspandini	Roberta Pugliese	1382842338499099	Facebook	lazio_IT	Lazio, Italy	3	1	10985	2197	217	0
+Fratelli d'Italia Civita Castellana	Fratelli d'Italia Civita Castellana	799617696744055	Facebook	lazio_IT	Lazio, Italy	3	1	10613	2123	210	0
+Roberto Calderoli	Roberto Calderoli	31662384470	Facebook	lazio_IT	Lazio, Italy	2	1	10483	2096	20	0
+Altaforte Edizioni	Altaforte Edizioni	1309925725776765	Facebook	lazio_IT	Lazio, Italy	2	1	10372	2592	34	0
+Gianluca Macone candidato Eurodeputato M5S circoscrizione Italia centrale	Gianluca Macone	423247661773858	Facebook	lazio_IT	Lazio, Italy	1	1	9999	5000	99	0
+Primavera Nazionale		666034226752669	Facebook	lazio_IT	Lazio, Italy	1	1	9999	5000	99	0
+Area Rieti	Felice Costini	1657823274462372	Facebook	lazio_IT	Lazio, Italy	1	1	9999	5000	99	0
+Andrea Caroppo	Andrea Caroppo	381061375420543	Facebook	lazio_IT	Lazio, Italy	3	1	9853	3931	39	6
+Tommaso Grassi	Tommaso Grassi	152990974745578	Facebook	lazio_IT	Lazio, Italy	6	1	9848	1889	227	0
+Partito Animalista Italiano		486228231540331	Facebook	lazio_IT	Lazio, Italy	4	1	9770	2308	49	0
+Mario Pozzi	Mario Pozzi	1863868990388556	Facebook	lazio_IT	Lazio, Italy	2	1	9340	3171	141	0
+Daniela Poggio	ROCK communications	441486766660124	Facebook	lazio_IT	Lazio, Italy	6	1	8612	1986	138	13
+Te lo spiego	Te lo spiego	1588332844801821	Facebook	lazio_IT	Lazio, Italy	1	1	7868	1573	15	0
+ProVita Onlus	ProVita Onlus	451419891563905	Facebook	lazio_IT	Lazio, Italy	2	1	7829	2019	27	0
+Clima Europa	Luca Bergamaschi	369195680589481	Facebook	lazio_IT	Lazio, Italy	4	1	7537	1940	48	0
+Fabio Candalice	Fabio Candalice	929896213793987	Facebook	lazio_IT	Lazio, Italy	2	1	7474	1494	28	0
+Orizzonti Politici	Giacomo Casali	957667357727417	Facebook	lazio_IT	Lazio, Italy	2	1	7254	3470	16	0
+Enrico Rossi	Enrico Rossi	197611081853	Facebook	lazio_IT	Lazio, Italy	5	1	7191	1710	48	0
+Corradino Mineo	Danila Tarantino	429319385345	Facebook	lazio_IT	Lazio, Italy	2	1	7174	1862	25	0
+Supporter di Stefania Calcagno	Silvia Calcagno	2152837134785115	Facebook	lazio_IT	Lazio, Italy	3	1	7070	1812	34	0
+Francesca Peppucci LEGA - per l'Europa	Francesca Peppucci	715083442242859	Facebook	lazio_IT	Lazio, Italy	2	1	7049	2783	94	0
+Caio Mussolini	Caio Mussolini	2393234914229651	Facebook	lazio_IT	Lazio, Italy	1	1	6839	1367	68	13
+Giovanbattista Fazzolari	Giovanbattista Fazzolari	593972037615014	Facebook	lazio_IT	Lazio, Italy	1	1	6744	1348	13	0
+Maria Veronica Rossi	Federico Rotondo	1084909315030192	Facebook	lazio_IT	Lazio, Italy	2	1	6733	1347	133	0
+Ginevra Bompiani		2025732017554267	Facebook	lazio_IT	Lazio, Italy	1	1	6367	3184	63	0
+Ubaldo Bocci	Ubaldo Bocci	549986188855910	Facebook	lazio_IT	Lazio, Italy	1	1	6251	1250	62	12
+Fabio Castelli	Fabio Castelli	1405273906374467	Facebook	lazio_IT	Lazio, Italy	3	1	6111	1000	209	0
+CristianoBubuCappellari	Cristiano Cappellari 	155697555152756	Facebook	lazio_IT	Lazio, Italy	8	1	5781	1600	113	0
+Stella Visconti Candidata Portavoce M5S al Parlamento Europeo Centro Italia	Claudio Zarro 	172683703648936	Facebook	lazio_IT	Lazio, Italy	1	1	5726	2863	56	0
+Giovani Democratici - Circolo di Ravenna		192479774122115	Facebook	lazio_IT	Lazio, Italy	1	1	5619	1123	11	0
+Maurizio Lupi	Maurizio Lupi	81698998693	Facebook	lazio_IT	Lazio, Italy	4	1	5615	1338	31	0
 Luisa Regimenti	Luisa Regimenti	201996906606311	Facebook	lazio_IT	Lazio, Italy	1	1	5387	2694	53	0
-Area Rieti	Felice Costini	1657823274462372	Facebook	lazio_IT	Lazio, Italy	1	1	4999	1000	99	0
-Cinzia Pettoni	 Cinzia Pettoni 	2357999221079856	Facebook	lazio_IT	Lazio, Italy	1	1	4999	1000	99	0
-Mario Pozzi	Mario Pozzi	1863868990388556	Facebook	lazio_IT	Lazio, Italy	1	1	4999	1000	99	0
-ISPI - Istituto per gli studi di politica internazionale	ISPI - Istituto per gli studi di politica internazionale	171795872872353	Facebook	lazio_IT	Lazio, Italy	2	1	4973	994	18	0
-Francesco Mingiardi	Francesco Mingiardi	1556016234698562	Facebook	lazio_IT	Lazio, Italy	3	1	4726	689	195	0
-Raffaella Bonsangue	Giuseppe Mangano, mandatario elettorale Avv. Raffaella Bonsangue	963373667373045	Facebook	lazio_IT	Lazio, Italy	1	1	4560	2280	45	0
-Giovanni Paolo Bernini	Luca Perrone	2387532191477889	Facebook	lazio_IT	Lazio, Italy	9	1	4306	0	426	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	lazio_IT	Lazio, Italy	4	1	4283	1346	8	0
-Valeria Valente	Valeria Valente	698743116897167	Facebook	lazio_IT	Lazio, Italy	2	1	3244	649	64	0
-Eleonora Forenza	Eleonora Forenza	302764019871151	Facebook	lazio_IT	Lazio, Italy	1	1	2949	1474	29	0
-Pina Picierno	SocialCom	212896992084952	Facebook	lazio_IT	Lazio, Italy	10	1	2684	504	66	0
-Anna Maria Bernini	Anna Maria Bernini	146169045979888	Facebook	lazio_IT	Lazio, Italy	4	1	2297	459	45	0
-Beatrice Brignone	Possibile	454468194886964	Facebook	lazio_IT	Lazio, Italy	1	1	2214	442	43	0
-Tommaso Grassi	Tommaso Grassi	152990974745578	Facebook	lazio_IT	Lazio, Italy	2	1	1843	292	66	0
-Bengasi Battisti	Carla Gambale	1234886286582199	Facebook	lazio_IT	Lazio, Italy	2	1	1771	0	175	0
-Nicola Fratoianni	Nicola Fratoianni	116181541819083	Facebook	lazio_IT	Lazio, Italy	1	1	1739	870	17	0
-Partito del Socialismo Europeo	Partito del Socialismo Europeo	1891926127734235	Facebook	lazio_IT	Lazio, Italy	1	1	1399	699	13	0
-Gian Piero Joime	Gian Piero Joime	1596602757297534	Facebook	lazio_IT	Lazio, Italy	2	1	1396	279	27	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	lazio_IT	Lazio, Italy	1	1	1392	696	3	0
-Camilla Laureti	Camilla Laureti	1718838531535765	Facebook	lazio_IT	Lazio, Italy	2	1	1333	266	26	0
-Corradino Mineo	Danila Tarantino	429319385345	Facebook	lazio_IT	Lazio, Italy	1	1	1186	593	11	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	lazio_IT	Lazio, Italy	2	1	1149	272	3	0
+Claudio Taglia		216535025570291	Facebook	lazio_IT	Lazio, Italy	1	1	5381	2691	53	0
+Luisa De Biasio Calimani	Luisa De Biasio	822662588103237	Facebook	lazio_IT	Lazio, Italy	1	1	5351	1070	10	0
+Daniele Viotti	Daniele Viotti	138574576313444	Facebook	lazio_IT	Lazio, Italy	1	1	5252	1050	10	0
+Matteo Gagliasso	Matteo Gagliasso	1546887325441954	Facebook	lazio_IT	Lazio, Italy	1	1	5226	1045	52	10
+Sergio Fucito	Sergio Fucito	162598567676350	Facebook	lazio_IT	Lazio, Italy	1	1	5221	2611	51	0
+Antonio Martino		330857894077058	Facebook	lazio_IT	Lazio, Italy	1	1	5218	1043	10	0
+Andrea Delmastro	Davide Eugenio Zappalà	74110200741	Facebook	lazio_IT	Lazio, Italy	1	1	5217	1043	10	0
+Roberto Morassut		1659017274371990	Facebook	lazio_IT	Lazio, Italy	1	1	5158	1031	10	0
+Italian Climate Network		239383456080711	Facebook	lazio_IT	Lazio, Italy	1	1	5116	1023	51	10
+Luciano Ciocchetti	Luciano Ciocchetti	121702741251975	Facebook	lazio_IT	Lazio, Italy	1	1	4999	1000	99	0
+Renziani per Zingaretti		354801582017569	Facebook	lazio_IT	Lazio, Italy	1	1	4999	1000	88	0
+Patria e Costituzione	Patria e Costituzione	465228750648767	Facebook	lazio_IT	Lazio, Italy	1	1	4999	1000	99	0
+Comitato Ritorno al Futuro - Roma Vero 8	Vinci	362830917875060	Facebook	lazio_IT	Lazio, Italy	1	1	4999	1000	99	0
+Dress the Change	dressthechange	1724579174526888	Facebook	lazio_IT	Lazio, Italy	1	1	4995	999	98	0
+La Sinistra Ottavo		377006846230525	Facebook	lazio_IT	Lazio, Italy	1	1	4995	999	98	0
+La Politica che Vorrei		482731548417007	Facebook	lazio_IT	Lazio, Italy	1	1	4972	994	9	0
+Lorenzo Rubino	Lorenzo Rubino	662979434154518	Facebook	lazio_IT	Lazio, Italy	2	1	4858	946	21	0
+Gianna Gancia		412209525481643	Facebook	lazio_IT	Lazio, Italy	1	1	4858	971	8	0
+ELSA Italy	ELSA Italy	192576164180806	Facebook	lazio_IT	Lazio, Italy	1	1	4715	943	9	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	lazio_IT	Lazio, Italy	5	1	4466	1604	18	1
+Massimiliano Santini	Massimiliano Ghelfi	389585871653842	Facebook	lazio_IT	Lazio, Italy	13	1	4436	1114	122	0
+Patrizia Toia	Patrizia Ferma Francesca Toia	519219611453854	Facebook	lazio_IT	Lazio, Italy	2	1	4270	854	19	0
+E' tempo di Cornaredo - Yuri Santagostino Sindaco		580696152006652	Facebook	lazio_IT	Lazio, Italy	1	1	4226	845	8	0
+Il Cobra	Paolo Perna	554916498291588	Facebook	lazio_IT	Lazio, Italy	2	1	4213	842	15	0
+Per fortuna sono bianco	Maurizio Chierici	1698573850469214	Facebook	lazio_IT	Lazio, Italy	8	1	4120	799	91	0
+Dante Cattaneo	Dante Cattaneo	256298824546192	Facebook	lazio_IT	Lazio, Italy	11	1	3529	940	24	0
+Petizioni.it	Silvano Facchinetti	1410474395723679	Facebook	lazio_IT	Lazio, Italy	6	1	3276	1222	62	0
+Cgil Rieti Roma Est Valle dell'Aniene	Cgil Rieti Roma Est Valle dell'Aniene	1389445751377147	Facebook	lazio_IT	Lazio, Italy	4	1	3234	732	189	0
+Fabio Amendolara	Fabio Amendolara	122191987831675	Facebook	lazio_IT	Lazio, Italy	5	1	3169	633	62	0
+Michele Lestingi		979692388837563	Facebook	lazio_IT	Lazio, Italy	1	1	2973	594	5	0
+Tiziana Alterio		165311350759501	Facebook	lazio_IT	Lazio, Italy	1	1	2725	545	53	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	lazio_IT	Lazio, Italy	2	1	2684	536	5	0
+Danilo Oscar Lancini	Danilo Oscar Lancini	247390032110856	Facebook	lazio_IT	Lazio, Italy	3	1	2613	601	7	0
+Gabriela Mirescu		2618888988127707	Facebook	lazio_IT	Lazio, Italy	4	1	2514	1107	45	0
+Stefano Parisi	Energie PER l'Italia	553711871453130	Facebook	lazio_IT	Lazio, Italy	3	1	2425	485	48	0
+Luca Vecchi	Comitato Elettorale Luca Vecchi 2024	245475858955495	Facebook	lazio_IT	Lazio, Italy	19	1	2268	479	24	0
+Fabio Massimo Castaldo	Fabio Massimo Castaldo	492943270744959	Facebook	lazio_IT	Lazio, Italy	1	1	2154	431	42	0
+Luigi Genesio Icardi	Luigi Genesio Icardi	994935290896984	Facebook	lazio_IT	Lazio, Italy	1	1	1719	343	3	0
+Refugees Welcome Italia	Serafina Consolato	1638510526420491	Facebook	lazio_IT	Lazio, Italy	1	1	1702	340	33	0
+Lorenzo Vignali	Lorenzo Vignali	229114191886	Facebook	lazio_IT	Lazio, Italy	12	1	1481	244	50	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	lazio_IT	Lazio, Italy	1	1	1388	694	3	0
+Gian Piero Joime	Gian Piero Joime	1596602757297534	Facebook	lazio_IT	Lazio, Italy	2	1	1381	276	27	0
+Misfancy	Francesca Antonucci	1335596166495083	Facebook	lazio_IT	Lazio, Italy	2	1	1364	560	17	0
+Vallì Cipriani in Europa	Lara Braga	318177105538166	Facebook	lazio_IT	Lazio, Italy	1	1	1226	245	2	0
+Enzo Maraio	Luigi Di Martino	1403779849925484	Facebook	lazio_IT	Lazio, Italy	3	1	1212	523	14	0
+Business.it	Business.it	673556626032617	Facebook	lazio_IT	Lazio, Italy	2	1	1168	233	23	0
+Jacopo Morrone	Jacopo Morrone	574913852523601	Facebook	lazio_IT	Lazio, Italy	2	1	1159	231	22	0
+Ecoscelte	Cristian Menghetti	268956994020348	Facebook	lazio_IT	Lazio, Italy	1	1	1156	578	11	0
+Sense Mesura		1606564102740842	Facebook	lazio_IT	Lazio, Italy	31	1	1105	0	109	0
+Associazione Hera	Maria Elvira Romeo	1600098883391651	Facebook	lazio_IT	Lazio, Italy	2	1	1079	215	21	0
+Claudia Pagliariccio	CasaPound Italia L'Aquila	1748593245471149	Facebook	lazio_IT	Lazio, Italy	4	1	1054	211	20	0
 Paola Natalicchio	Gianluca Martone	258195327693994	Facebook	lazio_IT	Lazio, Italy	1	1	1049	209	20	0
-Susanna Ceccardi	Susanna Ceccardi	257113927825642	Facebook	lazio_IT	Lazio, Italy	1	1	1008	504	9	0
+Giorgio Valente Consigliere Comunale		2080765575553950	Facebook	lazio_IT	Lazio, Italy	1	1	999	0	99	0
+Poesia colore vita		1378555169115411	Facebook	lazio_IT	Lazio, Italy	1	1	999	0	99	0
+Salvatore Ladaga		414623595782456	Facebook	lazio_IT	Lazio, Italy	1	1	999	0	99	0
+Partito Democratico del Lazio		809541855778354	Facebook	lazio_IT	Lazio, Italy	1	1	999	0	99	0
+Avanti San Giorgio		1516637955137178	Facebook	lazio_IT	Lazio, Italy	1	1	999	0	99	0
+Carmen Pizzirusso		797497013720348	Facebook	lazio_IT	Lazio, Italy	1	1	999	0	99	0
+Lega con Salvini - RIANO		790768587938719	Facebook	lazio_IT	Lazio, Italy	1	1	999	0	99	0
 Lega Giovani X Municipio		1967992106558586	Facebook	lazio_IT	Lazio, Italy	1	1	999	0	99	0
-La Sinistra Lazio	Giancarlo Ilari	326405431406323	Facebook	lazio_IT	Lazio, Italy	1	1	999	0	99	0
-Paolo Ciani - Consigliere Regionale del Lazio DEMOS	Paolo Ciani 	1795607690470395	Facebook	lazio_IT	Lazio, Italy	1	1	999	0	99	0
-Stefania Monteverde in Europa	Stefania Monteverde	2880774605326482	Facebook	lazio_IT	Lazio, Italy	2	1	895	0	88	0
+Iris Babilonia	Irene Usbergo	982135161844386	Facebook	lazio_IT	Lazio, Italy	2	1	972	194	19	0
+Viviana Dal Cin	Paolo Menis	290866805146864	Facebook	lazio_IT	Lazio, Italy	1	1	962	481	9	0
+Massimo Giorgetti		1401059500196202	Facebook	lazio_IT	Lazio, Italy	1	1	961	480	9	0
+The New Poets	The New Poets	599113113791532	Facebook	lazio_IT	Lazio, Italy	6	1	958	98	56	0
+CLAYTON		122493385103	Facebook	lazio_IT	Lazio, Italy	1	1	923	462	9	0
+Progetto Identità Sconfinate	Rosa Maria Currò	1539777176155570	Facebook	lazio_IT	Lazio, Italy	2	1	917	183	18	0
+Francesca Travison sindaco		417954509008934	Facebook	lazio_IT	Lazio, Italy	1	1	899	450	8	0
+Fiom Cgil Nazionale	Michela Bevere	78832128959	Facebook	lazio_IT	Lazio, Italy	3	1	875	122	38	0
 Francesca Alderisi		227160244510020	Facebook	lazio_IT	Lazio, Italy	1	1	874	437	7	0
-Arianna Verucci Candidata Europee 2019	Arianna Verucci	351797152405843	Facebook	lazio_IT	Lazio, Italy	1	1	836	0	82	0
-Fabio Amendolara	Fabio Amendolara	122191987831675	Facebook	lazio_IT	Lazio, Italy	2	1	751	132	21	0
-Giovanni Russo	Giovanni Russo	1590626850978164	Facebook	lazio_IT	Lazio, Italy	1	1	641	128	12	0
-Stefania Calcagno	Stefania Calcagno	528781364317789	Facebook	lazio_IT	Lazio, Italy	1	1	634	126	12	0
-Fiom Cgil Nazionale	Michela Bevere	78832128959	Facebook	lazio_IT	Lazio, Italy	1	1	613	122	12	0
-Cgil Rieti Roma Est Valle dell'Aniene	Cgil Rieti Roma Est Valle dell'Aniene	1389445751377147	Facebook	lazio_IT	Lazio, Italy	1	1	558	0	55	0
-Viviana Dal Cin	Paolo Menis	290866805146864	Facebook	lazio_IT	Lazio, Italy	1	1	498	99	9	0
-Enrico Rossi	Enrico Rossi	197611081853	Facebook	lazio_IT	Lazio, Italy	1	1	482	96	9	0
-Lorenzo Vignali	Lorenzo Vignali	229114191886	Facebook	lazio_IT	Lazio, Italy	12	1	461	0	45	0
-Matteo Gagliasso	Matteo Gagliasso	1546887325441954	Facebook	lazio_IT	Lazio, Italy	1	1	436	87	8	0
-Alessandra Guatteri	Matteo Olivieri	452246258212300	Facebook	lazio_IT	Lazio, Italy	1	1	418	83	8	0
-Davide Milan	Davide Milan	192738147436471	Facebook	lazio_IT	Lazio, Italy	1	1	355	71	7	0
-Luca Vecchi	Comitato Elettorale Luca Vecchi 2024	245475858955495	Facebook	lazio_IT	Lazio, Italy	12	1	338	71	16	0
-Per fortuna sono bianco	Maurizio Chierici	1698573850469214	Facebook	lazio_IT	Lazio, Italy	2	1	237	0	23	0
-Dante Cattaneo	Dante Cattaneo	256298824546192	Facebook	lazio_IT	Lazio, Italy	3	1	230	43	5	0
+MIRA Visionary Concept	Giuseppe Fontana	548657991991295	Facebook	lazio_IT	Lazio, Italy	2	1	849	396	13	0
+Movimento Federalista Europeo (MFE)	Movimento Federalista Europeo (MFE)	232586513421372	Facebook	lazio_IT	Lazio, Italy	1	1	848	424	8	0
+CRIF		395919323779707	Facebook	lazio_IT	Lazio, Italy	1	1	839	419	4	0
+Piazza Grande Savigliano - per il Partito Democratico	Alessandro Ghiberti	2275887039358471	Facebook	lazio_IT	Lazio, Italy	1	1	819	409	8	0
+TIWI studio	TIWI studio 	646910878750333	Facebook	lazio_IT	Lazio, Italy	2	1	813	162	16	0
+CentroDestra per Calvisano Formentini Sindaco	Francesco Ghidini 	1260229147468988	Facebook	lazio_IT	Lazio, Italy	1	1	791	395	7	0
+Ridiamo per non piangere		327846087995802	Facebook	lazio_IT	Lazio, Italy	1	1	784	156	15	0
+Annarita D'Urbano		193639731519498	Facebook	lazio_IT	Lazio, Italy	1	1	746	373	7	0
+Discover Philadelphia		60364167807	Facebook	lazio_IT	Lazio, Italy	1	1	726	363	6	0
+Cristiano Puglisi	Cristiano Puglisi	325631827561520	Facebook	lazio_IT	Lazio, Italy	1	1	713	142	14	0
+PD Pianezza	Michele Marano	112241292157505	Facebook	lazio_IT	Lazio, Italy	1	1	703	140	13	0
+Il puntino sulla d	Francesco Portone	252906558149274	Facebook	lazio_IT	Lazio, Italy	2	1	699	115	23	0
+Genova che osa	Genova che osa	1538926219695299	Facebook	lazio_IT	Lazio, Italy	3	1	662	150	2	0
+Marco Ravaioli per Forlì		167313460363533	Facebook	lazio_IT	Lazio, Italy	1	1	649	130	12	0
+Giovanni Russo	Giovanni Russo	1590626850978164	Facebook	lazio_IT	Lazio, Italy	1	1	640	128	12	0
+San Giorgio di Piano a 5 Stelle		631302016909675	Facebook	lazio_IT	Lazio, Italy	2	1	630	118	15	0
+Lo Specchio :o)(o:	Maurizio Sabbadini	605127432920467	Facebook	lazio_IT	Lazio, Italy	6	1	615	0	61	0
+Risorgi Italia	Angelo Miraglia	886237838215195	Facebook	lazio_IT	Lazio, Italy	1	1	609	121	12	0
+Alessandra Mussolini	Alessandra Mussolini	271019907137948	Facebook	lazio_IT	Lazio, Italy	1	1	608	121	12	0
+Nicola Caputo	Nicola Caputo	1439514556290274	Facebook	lazio_IT	Lazio, Italy	1	1	589	294	5	0
+Alex Bazzaro	Alex Bazzaro	163927824248716	Facebook	lazio_IT	Lazio, Italy	1	1	582	116	11	0
+Francesco Forciniti	Francesco Forciniti	185431622208143	Facebook	lazio_IT	Lazio, Italy	1	1	544	108	10	0
+Paolo Narcisi - Elezioni Europee 2019	Paolo Narcisi	267745780834375	Facebook	lazio_IT	Lazio, Italy	1	1	530	106	10	0
+YearOut	Federica Brambilla	106312636064345	Facebook	lazio_IT	Lazio, Italy	1	1	513	0	50	0
+Emiliano Occhi	Naytes srl	840175292995931	Facebook	lazio_IT	Lazio, Italy	1	1	512	102	10	0
+Alessandra Guatteri	Matteo Olivieri	452246258212300	Facebook	lazio_IT	Lazio, Italy	1	1	489	97	9	0
+Circolo Pd Biella	Daniele Ghisio	565287306938607	Facebook	lazio_IT	Lazio, Italy	1	1	473	94	9	0
+Samuele Mascarin - LE IDEE IN COMUNE	Samuele Mascarin - LE IDEE IN COMUNE	174921619345619	Facebook	lazio_IT	Lazio, Italy	2	1	472	94	9	0
+I vote Europe		608176689275464	Facebook	lazio_IT	Lazio, Italy	1	1	463	231	4	0
+Paul Köllensperger	Team Koellensperger	779347678751107	Facebook	lazio_IT	Lazio, Italy	1	1	460	230	2	0
+Leonardo Marras		44353765035	Facebook	lazio_IT	Lazio, Italy	1	1	455	91	9	0
+Enrico Zucchi - Lega Prato	Enrico Zucchi	707579962958222	Facebook	lazio_IT	Lazio, Italy	1	1	446	89	8	0
+Luca Borsari		2305563149675570	Facebook	lazio_IT	Lazio, Italy	1	1	439	87	8	0
+Licia Montagnani “In Comune”	Licia Caprai Montagnani 	401252743774783	Facebook	lazio_IT	Lazio, Italy	1	1	436	87	8	0
+Lorem Ipsum	Gabriele D'Angelo	238950726749912	Facebook	lazio_IT	Lazio, Italy	1	1	432	86	8	0
+Stato Moderno Solidale SMS	Silvana Arbia	328435687818104	Facebook	lazio_IT	Lazio, Italy	1	1	424	84	8	0
+Ambiente Mare Italia		1978323772189377	Facebook	lazio_IT	Lazio, Italy	1	1	422	0	41	0
+Calenzano Futura	Simone Bolognesi	597646537327558	Facebook	lazio_IT	Lazio, Italy	1	1	412	82	8	0
+Giuseppe Barbaro	Giuseppe Barbaro	407842313101083	Facebook	lazio_IT	Lazio, Italy	3	1	382	74	8	0
+Davide Milan	Davide Milan	192738147436471	Facebook	lazio_IT	Lazio, Italy	1	1	354	70	7	0
+STOCK HOUSE	Marco Petracca 	1463690727217558	Facebook	lazio_IT	Lazio, Italy	1	1	350	70	6	0
+Giorgio Magliocca Presidente della Provincia di Caserta	Giorgio Magliocca	1681022168583960	Facebook	lazio_IT	Lazio, Italy	1	1	328	65	0	0
+Matteo Biffoni	Comitato elettorale Matteo Biffoni Sindaco.	1447603378788857	Facebook	lazio_IT	Lazio, Italy	4	1	302	78	2	0
+Cgil Puglia	Giuseppe Marco Binetti	406962326129744	Facebook	lazio_IT	Lazio, Italy	1	1	300	60	5	0
+Comitato Giovanni Capecchi Sindaco	Giovanni Capecchi 	2312698542113657	Facebook	lazio_IT	Lazio, Italy	1	1	281	56	5	0
+Europe Thinx		335839580440114	Facebook	lazio_IT	Lazio, Italy	1	1	229	45	0	0
 Samuele Siano		284538688712114	Facebook	lazio_IT	Lazio, Italy	1	1	188	0	18	0
-Stefano Passarini	Stefano Passarini	573828172688916	Facebook	lazio_IT	Lazio, Italy	2	1	185	0	18	0
-Claudia Pagliariccio	CasaPound Italia L'Aquila	1748593245471149	Facebook	lazio_IT	Lazio, Italy	1	1	141	28	2	0
-Il puntino sulla d	Francesco Portone	252906558149274	Facebook	lazio_IT	Lazio, Italy	1	1	111	0	11	0
-Paolo Narcisi - Elezioni Europee 2019	Paolo Narcisi	267745780834375	Facebook	lazio_IT	Lazio, Italy	1	1	103	0	10	0
-Genova che osa	Genova che osa	1538926219695299	Facebook	lazio_IT	Lazio, Italy	2	1	100	38	1	0
-Stato Moderno Solidale SMS	Silvana Arbia	328435687818104	Facebook	lazio_IT	Lazio, Italy	1	1	82	0	8	0
+Pietro Petruzzelli	Pietro Petruzzelli	194717554070843	Facebook	lazio_IT	Lazio, Italy	2	1	187	56	3	0
+Lia Montalti	Lia Montalti	1490311121245235	Facebook	lazio_IT	Lazio, Italy	1	1	184	36	3	0
+Matilde Montaudo, cittadina a 5 stelle	Matilde Ada Montaudo	492569564129501	Facebook	lazio_IT	Lazio, Italy	1	1	176	88	1	0
+Pierfrancesco Majorino	Pierfrancesco Majorino	194123260626794	Facebook	lazio_IT	Lazio, Italy	1	1	171	34	3	0
+Fratelli D'Italia Cerveteri "LiberaMente"		525934134449347	Facebook	lazio_IT	Lazio, Italy	1	1	167	0	16	0
+Europa Anno Zero		308939363141901	Facebook	lazio_IT	Lazio, Italy	1	1	167	0	16	0
+ETUC		129041250601685	Facebook	lazio_IT	Lazio, Italy	1	1	157	31	1	0
+Antonio Giampietro - Non vedo che Bari	Antonio Giampietro	456495818216210	Facebook	lazio_IT	Lazio, Italy	2	1	156	31	3	0
+Roberto Rosso	Roberto Rosso	1735684256653359	Facebook	lazio_IT	Lazio, Italy	1	1	152	30	0	0
+Save The Seas		2203608429682203	Facebook	lazio_IT	Lazio, Italy	1	1	147	29	2	0
+Volt Modena	Alessandro Lima	398218900938828	Facebook	lazio_IT	Lazio, Italy	1	1	120	0	11	0
+Pistoia in Comune	Daniela Fedi	259840158164428	Facebook	lazio_IT	Lazio, Italy	1	1	117	0	11	0
+up_to_42		1774969932648405	Facebook	lazio_IT	Lazio, Italy	1	1	112	0	11	0
+Paola Testori	Paola Testori	658895384568072	Facebook	lazio_IT	Lazio, Italy	4	1	110	48	2	0
+Aldo Modonesi	Comitato Elettorale Aldo Modonesi Sindaco	300621720600910	Facebook	lazio_IT	Lazio, Italy	2	1	107	53	1	0
+Giulia Pastorella	Giulia Pastorella | Europa per Scelta	2233320866726559	Facebook	lazio_IT	Lazio, Italy	1	1	105	0	10	0
+GPuglia		131946381000870	Facebook	lazio_IT	Lazio, Italy	1	1	102	20	1	0
+Igor Iezzi - Lega Salvini Premier	Igor Giancarlo Iezzi	371129666769551	Facebook	lazio_IT	Lazio, Italy	1	1	102	0	10	0
+Daniela Calderano		2320156088255183	Facebook	lazio_IT	Lazio, Italy	1	1	99	19	0	0
+Psicopolitica		264883480745032	Facebook	lazio_IT	Lazio, Italy	1	1	96	0	8	0
+Fratelli d'Italia Sondrio - Alto lago	Marco Masetti	771132936567349	Facebook	lazio_IT	Lazio, Italy	1	1	93	0	9	0
+CSVnet		904724502974742	Facebook	lazio_IT	Lazio, Italy	1	1	93	0	9	0
+Talking Trees: Adult Survivors of CSA		157082910999500	Facebook	lazio_IT	Lazio, Italy	1	1	90	0	8	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	lazio_IT	Lazio, Italy	2	1	80	31	0	0
+Ugo Tozzi	Ugo Tozzi	938644779543922	Facebook	lazio_IT	Lazio, Italy	1	1	78	0	7	0
+Diego Sarno	Diego Sarno	44296617275	Facebook	lazio_IT	Lazio, Italy	1	1	77	15	1	0
+Bosch Global		185652704861747	Facebook	lazio_IT	Lazio, Italy	1	1	72	0	7	0
+Plictisescu.ro		184028071751540	Facebook	lazio_IT	Lazio, Italy	1	1	70	35	0	0
 Eduardo Maria Piccirilli - candidato elezioni europee 2019	Eduardo Maria Piccirilli	2210084055756696	Facebook	lazio_IT	Lazio, Italy	1	1	69	13	1	0
-Matilde Montaudo, cittadina a 5 stelle	Matilde Ada Montaudo	492569564129501	Facebook	lazio_IT	Lazio, Italy	1	1	43	8	0	0
+Francesco Campanella	Francesco Campanella	372597899493981	Facebook	lazio_IT	Lazio, Italy	1	1	68	0	6	0
+Serena Spinelli		1475431256096693	Facebook	lazio_IT	Lazio, Italy	1	1	68	0	6	0
+grillonews.it - giornale equo e solidale	Amedeo Tosi 	220549806511	Facebook	lazio_IT	Lazio, Italy	1	1	67	0	6	0
 Sergio Tommasini Sindaco	Sergio Tommasini Sindaco	220805388637106	Facebook	lazio_IT	Lazio, Italy	2	1	42	8	0	0
-Lista civica Stabilitá e Futuro - Giustino Bello Sindaco	Sandra Bianciotto	2125079321116134	Facebook	lazio_IT	Lazio, Italy	1	1	33	6	0	0
+Rosanna Conte	Rosanna Conte - Candidata della Lega	1035757379850845	Facebook	lazio_IT	Lazio, Italy	5	1	39	0	3	0
+Team Köllensperger	Renate Holzeisen	201834673860032	Facebook	lazio_IT	Lazio, Italy	1	1	38	7	0	0
+ITUC		20556338116	Facebook	lazio_IT	Lazio, Italy	2	1	30	0	3	0
+Mahindra Rise		158304157570734	Facebook	lazio_IT	Lazio, Italy	1	1	27	13	0	0
+Lista civica Stabilitá e Futuro - Giustino Bello Sindaco	Sandra Bianciotto	2125079321116134	Facebook	lazio_IT	Lazio, Italy	1	1	27	5	0	0
+Casa Hirta		131732907511460	Facebook	lazio_IT	Lazio, Italy	1	1	22	0	2	0
 Davide Artiko		789495278077545	Facebook	lazio_IT	Lazio, Italy	1	1	20	0	2	0
-Matteo Biffoni	Comitato elettorale Matteo Biffoni Sindaco.	1447603378788857	Facebook	lazio_IT	Lazio, Italy	1	1	11	2	0	0
+Eurozine		115579498521257	Facebook	lazio_IT	Lazio, Italy	1	1	19	3	0	0
+Marinela V. Ardelean		346137638884956	Facebook	lazio_IT	Lazio, Italy	1	1	15	3	0	0
+Andrea Telchime	Andrea Telchime	794539650559164	Facebook	lazio_IT	Lazio, Italy	1	1	14	0	1	0
+Centro Commerciale Girasole	Centro Commerciale Girasole	142657295914359	Facebook	lazio_IT	Lazio, Italy	1	1	11	2	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	lazio_IT	Lazio, Italy	2	1	6	0	0	0
+EiendomsMegler 1 Hamar		1629418810634981	Facebook	lazio_IT	Lazio, Italy	1	1	3	0	0	0
+The Years Project	The Years Project	168876449866088	Facebook	lazio_IT	Lazio, Italy	1	1	1	0	0	0
+Tokyo Weekender		134654693230171	Facebook	lazio_IT	Lazio, Italy	1	1	1	0	0	0

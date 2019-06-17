@@ -1,44 +1,161 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	age_code_filter	age_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Antton Rönnholm	Antton Rönnholm	575908612596562	Facebook	35_44	35-44	FI	Finland	11	1	22304	5270	247	0
-Miikka-Markus Leskinen europarlamenttiin	Leskinen Miikka-Markus	1964589417153542	Facebook	35_44	35-44	FI	Finland	2	1	16217	3243	174	29
-Mia Haglund	Mia Haglund MEPiksi -kampanja	252498358197157	Facebook	35_44	35-44	FI	Finland	5	1	15481	3638	214	24
-European Parliament	European Parliament	178362315106	Facebook	35_44	35-44	FI	Finland	1	1	14737	7369	147	73
-Tuomas Tikkanen	Tikkanen Juho Tuomas	2139907472900957	Facebook	35_44	35-44	FI	Finland	4	1	14471	3354	156	25
-Mauri Pekkarinen	Mauri Pekkarinen	177939666416553	Facebook	35_44	35-44	FI	Finland	1	1	10514	2102	104	21
-Kristillisdemokraatit	Kristillisdemokraatit	157614802920	Facebook	35_44	35-44	FI	Finland	3	1	7096	1407	81	13
-Poliitikko Sami Yli-Rahnasto	Pohjanmaan Kokoomus ry	371635287025743	Facebook	35_44	35-44	FI	Finland	1	1	5840	1168	11	0
-Paula Aikio-Tallgren EU-vaaliehdokas	Pohjoisen asian osaajat ry	510346432432044	Facebook	35_44	35-44	FI	Finland	4	1	3336	667	66	0
-Petra Schulze Steinen	Schulze-Steinen Petra Elina Marjatta	266912807301110	Facebook	35_44	35-44	FI	Finland	5	1	2576	359	112	0
-Mikkel Näkkäläjärvi	Nakkalajarvi Mikkel Antte Iisakki	617733068345315	Facebook	35_44	35-44	FI	Finland	5	1	2043	362	58	0
-Matilda af Hällström	af Hällström Matilda Linnea Alice	430195364409025	Facebook	35_44	35-44	FI	Finland	2	1	1924	385	38	0
-Pekka Shemeikka	Nokela Matti Juhani Philip	591986911282315	Facebook	35_44	35-44	FI	Finland	1	1	1852	370	36	0
-Karri Ollila Europarlamenttiin 2019	Karri Ollila	300059733998436	Facebook	35_44	35-44	FI	Finland	1	1	1708	854	16	0
-Olli Kotro Euroopan parlamenttiin 2019	Kauko Niko Aleksanteri	2211654885785838	Facebook	35_44	35-44	FI	Finland	3	1	1706	306	47	0
-Sirpa Pietikäinen	Sirpa Pietikäinen	140188405326	Facebook	35_44	35-44	FI	Finland	2	1	1636	593	16	1
-Henna Virkkunen	Henna Virkkunen	120537424633927	Facebook	35_44	35-44	FI	Finland	2	1	1357	271	26	0
-Perussuomalaiset	Perussuomalaiset	181106108341	Facebook	35_44	35-44	FI	Finland	1	1	1087	217	21	0
-Matleena Käppi	Matleena Käpin vuoden 2019 vaalien tukiyhdistys	1806983809518838	Facebook	35_44	35-44	FI	Finland	1	1	1077	215	21	0
+Antton Rönnholm	Antton Rönnholm	575908612596562	Facebook	35_44	35-44	FI	Finland	83	1	473583	107929	4012	407
+Kokoomus	Kokoomus	201285237101	Facebook	35_44	35-44	FI	Finland	280	1	450785	132725	7049	755
+European Greens	European Greens	141366725876424	Facebook	35_44	35-44	FI	Finland	5	1	329546	139764	4486	897
+Perussuomalaiset	Perussuomalaiset	181106108341	Facebook	35_44	35-44	FI	Finland	6	1	328335	134400	3804	842
+Vasemmistoliitto	Vasemmistoliitto	60390955171	Facebook	35_44	35-44	FI	Finland	107	1	324894	116508	3383	1051
+Vihreät - De Gröna	Vihreät - De Gröna	33722070600	Facebook	35_44	35-44	FI	Finland	16	1	302893	141938	1694	596
+European Parliament	European Parliament	178362315106	Facebook	35_44	35-44	FI	Finland	15	1	301145	137824	3073	821
+Sosialidemokraatit SDP	Sosialidemokraatit SDP	108945982480217	Facebook	35_44	35-44	FI	Finland	22	1	252759	63941	1849	395
+Tuomas Tikkanen	Tikkanen Juho Tuomas	2139907472900957	Facebook	35_44	35-44	FI	Finland	26	1	188534	56624	3002	584
+Kaksin - Tvåsamhet	Kaksin - Tvåsamhet	2110443792388818	Facebook	35_44	35-44	FI	Finland	24	1	175096	65143	2026	409
+Henna Virkkunen	Henna Virkkunen	120537424633927	Facebook	35_44	35-44	FI	Finland	25	1	171222	62490	1748	275
+Miapetra Kumpula-Natri	Euroopassa Suomen tähden  / Miapetra Kumpula-Natri	922311201130062	Facebook	35_44	35-44	FI	Finland	12	1	128373	55440	656	161
+Svenska folkpartiet i Finland - RKP	Svenska folkpartiet i Finland - RKP	191883307265	Facebook	35_44	35-44	FI	Finland	22	1	110235	27093	484	23
+Ville Niinistö	Ville Niinistö	153186884700042	Facebook	35_44	35-44	FI	Finland	4	1	102838	51081	665	321
+Mia Haglund	Mia Haglund MEPiksi -kampanja	252498358197157	Facebook	35_44	35-44	FI	Finland	13	1	82907	24039	975	220
+Pekka Shemeikka	Nokela Matti Juhani Philip	591986911282315	Facebook	35_44	35-44	FI	Finland	12	1	81205	20008	817	144
+Jouni Kemppainen	Kemppainen Jouni Petteri	387812258475026	Facebook	35_44	35-44	FI	Finland	3	1	81064	37825	554	250
+Mikko Ohela	Mikko Ohela	201647537374497	Facebook	35_44	35-44	FI	Finland	12	1	77782	16706	479	55
+Ida Schauman	Schauman Ida Emilia Axelsdotter	1449434138617787	Facebook	35_44	35-44	FI	Finland	57	1	60276	16270	1167	13
+Fatim Diarra	Fatim Diarra	1357638954294467	Facebook	35_44	35-44	FI	Finland	5	1	59677	23270	1101	212
+Teuvo Hakkarainen	Riekkovaara Niko Tapani	198979100169761	Facebook	35_44	35-44	FI	Finland	14	1	58532	12856	565	76
+Uudenmaan Vihreät	Uudenmaan Vihreät ry	276456079047756	Facebook	35_44	35-44	FI	Finland	4	1	58459	25002	644	250
+Tomi Kontkanen	Finlands svenska socialdemokrater	2211545855568908	Facebook	35_44	35-44	FI	Finland	12	1	54011	22296	401	50
+Mauri Pekkarinen	Mauri Pekkarinen	177939666416553	Facebook	35_44	35-44	FI	Finland	4	1	53493	24961	534	238
+Mirja Vehkaperä	Vehkaperä Mirja Tellervo	237130593122439	Facebook	35_44	35-44	FI	Finland	6	1	52348	10470	344	45
+Arto Luukkanen	Riekkovaara Niko Tapani	1527478777519070	Facebook	35_44	35-44	FI	Finland	14	1	51357	10713	663	115
+Susanna Kisner	Susanna Kisnerin tukiryhmä	1569715913292949	Facebook	35_44	35-44	FI	Finland	9	1	51178	13885	1124	186
+Petra Schulze Steinen	Schulze-Steinen Petra Elina Marjatta	266912807301110	Facebook	35_44	35-44	FI	Finland	36	1	45408	8794	847	55
+Anna Mäkipää	Mäkipää Anna Marjatta	410045932385582	Facebook	35_44	35-44	FI	Finland	9	1	43058	9587	667	122
+Janne Parkkila - Vasemmistoliitto	Janne Parkkilan tukiyhdistys ry	354424931606915	Facebook	35_44	35-44	FI	Finland	12	1	42858	17248	519	79
+Miikka-Markus Leskinen europarlamenttiin	Leskinen Miikka-Markus	1964589417153542	Facebook	35_44	35-44	FI	Finland	3	1	40571	15418	417	151
+Satu Jaatinen 216		611696415923639	Facebook	35_44	35-44	FI	Finland	9	1	39869	13603	853	149
+Tiina Heikkinen	Heikkinen Tiina Maria	252243572053482	Facebook	35_44	35-44	FI	Finland	1	1	39731	19865	993	198
+Leena Brandt	Brandt Leena Kaarina	336732893639928	Facebook	35_44	35-44	FI	Finland	3	1	38278	7655	233	37
+Matilda af Hällström	af Hällström Matilda Linnea Alice	430195364409025	Facebook	35_44	35-44	FI	Finland	8	1	36691	17655	694	203
+Suomiduunari	Riekkovaara Niko Tapani	244224963187036	Facebook	35_44	35-44	FI	Finland	3	1	36397	13518	270	49
+Mikkel Näkkäläjärvi	Nakkalajarvi Mikkel Antte Iisakki	617733068345315	Facebook	35_44	35-44	FI	Finland	7	1	35228	8139	290	47
+Feministinen puolue	Feministinen puolue	246435052396654	Facebook	35_44	35-44	FI	Finland	6	1	35103	7847	277	29
+Anton Nilsson	Betalt av stödföreningen för Anton Nilsson	290501338278566	Facebook	35_44	35-44	FI	Finland	43	1	34528	10398	510	0
+Camilla Gunell till EU 2019	Socialdemokraterna på Åland	360575481205047	Facebook	35_44	35-44	FI	Finland	5	1	30392	6459	312	56
+Kristillisdemokraatit	Kristillisdemokraatit	157614802920	Facebook	35_44	35-44	FI	Finland	5	1	30073	10912	229	42
+Miikka Keränen	Keranen Miikka Markus	126768630726940	Facebook	35_44	35-44	FI	Finland	5	1	29183	12877	366	136
+Petri Sarvamaa	Petri Sarvamaa	164624737027350	Facebook	35_44	35-44	FI	Finland	18	1	25659	5393	509	60
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	35_44	35-44	FI	Finland	33	1	22918	4381	282	15
+SDP Helsinki	Helsingin Sosialidemokraatit ry	231250833663601	Facebook	35_44	35-44	FI	Finland	1	1	21950	10975	109	21
+Sirpa Pietikäinen	Sirpa Pietikäinen	140188405326	Facebook	35_44	35-44	FI	Finland	11	1	20036	4308	307	85
+Elsi Katainen	Katainen Elsi Kaarina	190042298268350	Facebook	35_44	35-44	FI	Finland	12	1	19265	3796	245	32
+Henrik Wickström	Wickström 2019	448116415229902	Facebook	35_44	35-44	FI	Finland	41	1	19189	4012	430	9
+Eurooppalainen Suomi ry	Eurooppalainen Suomi ry	163903613685550	Facebook	35_44	35-44	FI	Finland	2	1	18422	3684	85	12
+Max Schulman	Svenska folkpartiet i Finland - RKP	2186035071663314	Facebook	35_44	35-44	FI	Finland	3	1	18291	3658	194	34
+Miikkael Azaize	Kaarelan Keskustaseura ry	2261117880772740	Facebook	35_44	35-44	FI	Finland	4	1	17852	4511	177	29
+Olli Kotro Euroopan parlamenttiin 2019	Kauko Niko Aleksanteri	2211654885785838	Facebook	35_44	35-44	FI	Finland	4	1	16558	3769	174	28
+Poliitikko Sami Yli-Rahnasto	Pohjanmaan Kokoomus ry	371635287025743	Facebook	35_44	35-44	FI	Finland	2	1	15634	3127	156	31
+Karri Ollila Europarlamenttiin 2019	Karri Ollila	300059733998436	Facebook	35_44	35-44	FI	Finland	5	1	15617	4823	242	34
+Aura Salla	Salla Aura Maria	357502994332188	Facebook	35_44	35-44	FI	Finland	8	1	15613	3393	124	0
+Kokoomusnuoret	Kokoomusnuoret	28469960111	Facebook	35_44	35-44	FI	Finland	2	1	15486	3097	154	30
+Filip Björklöf	Filip Björklöfs understödsförening	432450826819256	Facebook	35_44	35-44	FI	Finland	16	1	14918	4891	414	38
+Satu Taavitsainen	Taavitsainen Satu Johanna	803596373025380	Facebook	35_44	35-44	FI	Finland	4	1	14331	4552	86	0
+Matleena Käppi	Matleena Käpin vuoden 2019 vaalien tukiyhdistys	1806983809518838	Facebook	35_44	35-44	FI	Finland	6	1	14154	3799	160	17
+Anna Sirkiä	Anna Sirkiä	115751458577078	Facebook	35_44	35-44	FI	Finland	29	1	13779	3334	384	0
+Suomen Lähetysseura	Suomen Lähetysseura	8265674748	Facebook	35_44	35-44	FI	Finland	1	1	13306	2661	26	0
+Riku Eskelinen	Riku Eskelisen eurovaalien tukiyhdistys Herttoniemen Keskustaseura ry	312837175579728	Facebook	35_44	35-44	FI	Finland	5	1	13266	3984	238	13
+Eurooppanuoret (JEF-Finland)	Eurooppanuoret ry	296668661689	Facebook	35_44	35-44	FI	Finland	1	1	12292	2458	24	0
+Hans Adolf Ehrnrooth	Turvallinen ja vakaa Eurooppa ry	747915358921075	Facebook	35_44	35-44	FI	Finland	5	1	11964	2393	159	15
+Kaisa Penny	Kaisa Penny	259256970891807	Facebook	35_44	35-44	FI	Finland	6	1	11788	3003	137	15
+Trasek ry	Trasek ry	384673691545854	Facebook	35_44	35-44	FI	Finland	1	1	11729	2345	23	0
+SLC	SLC r.f.	126812894035597	Facebook	35_44	35-44	FI	Finland	5	1	10868	2837	63	0
+Kimmo Sasi	Sasi Kimmo Kalevi Immeri	311253592006	Facebook	35_44	35-44	FI	Finland	5	1	9673	2206	166	22
+Nils Torvalds	Nils Torvalds	343089085765596	Facebook	35_44	35-44	FI	Finland	15	1	9481	3235	170	0
+Alviina Alametsä	Alametsae Pauliina Viivi Alviina	292611094275509	Facebook	35_44	35-44	FI	Finland	10	1	8110	2198	113	5
+Paula Aikio-Tallgren EU-vaaliehdokas	Pohjoisen asian osaajat ry	510346432432044	Facebook	35_44	35-44	FI	Finland	10	1	8044	2645	132	0
+Greenpeace Suomi	Greenpeace Suomi	9227859351	Facebook	35_44	35-44	FI	Finland	9	1	8008	1352	257	0
+Piia Kurki	Piia Kurki	270567833058986	Facebook	35_44	35-44	FI	Finland	9	1	7596	2350	231	21
+BirdLife Suomi		254403722807	Facebook	35_44	35-44	FI	Finland	1	1	7535	1507	75	15
+Leena Zittling - Eurovaaliehdokas 2019 - KOK	Miettinen Pasi Olavi	804330503290879	Facebook	35_44	35-44	FI	Finland	1	1	6480	1296	64	12
+Helena Marttila	Uudenmaan Sosialidemokraatit ry	373811376519125	Facebook	35_44	35-44	FI	Finland	6	1	6468	1293	128	0
+Elisa Lientola, Vasemmistoliitto	Elisa Lientolan tukiryhmä	1481965412047542	Facebook	35_44	35-44	FI	Finland	3	1	6247	2267	225	33
+Perussuomalaiset Nuoret		133551219988558	Facebook	35_44	35-44	FI	Finland	1	1	5995	1199	59	11
+Simo Grönroos	Gronroos Simo Juhani	445988248775782	Facebook	35_44	35-44	FI	Finland	2	1	5905	1181	63	10
+Martin Norrgård	Martin Norrgårds stödförening	104405313050307	Facebook	35_44	35-44	FI	Finland	7	1	5713	2409	96	0
+Petteri Orpo	Kokoomus	154256701288026	Facebook	35_44	35-44	FI	Finland	1	1	4625	925	46	9
+Finnwatch	Finnwatch	127195574005414	Facebook	35_44	35-44	FI	Finland	4	1	4569	1669	102	0
+Irja Sokka Poliitikko	Irja Sokka Poliitikko	689010728162410	Facebook	35_44	35-44	FI	Finland	10	1	4250	1119	111	0
+Sean Bergenheim	Svenska folkpartiet i Finland - RKP	266603130709392	Facebook	35_44	35-44	FI	Finland	3	1	4083	1677	167	28
+European Commission	European Commission	107898832590939	Facebook	35_44	35-44	FI	Finland	22	1	3988	1898	21	1
+Tero Hannula		350628269116805	Facebook	35_44	35-44	FI	Finland	3	1	3766	701	95	0
+Anna Jungner-Nordgren	Stödföreningen för Anna Jungner-Nordgren	126206450772264	Facebook	35_44	35-44	FI	Finland	8	1	3752	594	136	0
+Keskusta	Suomen Keskusta	55312855747	Facebook	35_44	35-44	FI	Finland	1	1	3199	1600	31	0
+Jukka Linna	Jukka Linnan tukiyhdistys	2313503042310251	Facebook	35_44	35-44	FI	Finland	3	1	2723	544	128	18
+Niko Eskelinen poliitikko	Eskelinen Niko Olavi	1337176579662419	Facebook	35_44	35-44	FI	Finland	3	1	2684	537	53	0
+Filip Hamro-Drotz	HAMRO-DROTZ DENNIS MIKAEL	2251922594829597	Facebook	35_44	35-44	FI	Finland	7	1	2635	527	52	0
+Silja Borgarsdóttir Sandelin	Svenska folkpartiet i Finland - RKP	145265965535213	Facebook	35_44	35-44	FI	Finland	4	1	2498	499	101	13
+Silja Keränen	Silja Keräsen tukiryhmä	159315454207327	Facebook	35_44	35-44	FI	Finland	7	1	2387	411	73	0
+Asseri Kinnunen	Kinnunen Henri Asseri	1159967857373678	Facebook	35_44	35-44	FI	Finland	9	1	2364	330	103	0
+Janne Kaisanlahti	Kaisanlahti Janne Kalervo	309381625805373	Facebook	35_44	35-44	FI	Finland	5	1	2208	418	52	0
+Kimmo Kautio - Kokoaan Suurempi Suomi	Kautio Kimmo Jaakko Tapio	315479585304528	Facebook	35_44	35-44	FI	Finland	3	1	2196	439	43	0
+Jussi Nurmi	Nurmi Jussi Tapio	1895217903938885	Facebook	35_44	35-44	FI	Finland	3	1	2156	1030	91	17
+Yakup Yilmaz		711520618881714	Facebook	35_44	35-44	FI	Finland	4	1	2016	169	132	0
+Sonja Falk	Falk Mika Tapio	164696826881379	Facebook	35_44	35-44	FI	Finland	1	1	2014	1007	100	20
+Uudenmaan Kokoomus Ry	Uudenmaan Kokoomus Ry	249421507648	Facebook	35_44	35-44	FI	Finland	1	1	1719	859	17	0
+VIKES Viestintä ja kehitys -säätiö	Viestintä ja kehitys -säätiö	381290523932	Facebook	35_44	35-44	FI	Finland	2	1	1676	335	33	0
+Ramieza Mahdi	Mahdi Ramieza Abdirahman Mohamed	268670670234757	Facebook	35_44	35-44	FI	Finland	3	1	1635	299	43	0
+Teuvo Hatva - eurovaaliehdokas	Maury Aino Maija	948715928850182	Facebook	35_44	35-44	FI	Finland	2	1	1416	283	28	0
+Vihreät nuoret	Vihreät nuoret	362064961211	Facebook	35_44	35-44	FI	Finland	4	1	1396	247	40	0
+Minna Karvonen		311176426363089	Facebook	35_44	35-44	FI	Finland	2	1	1389	651	21	0
+Olli-Pekka Nyberg	NYBERG OLLI-PEKKA	291483185114189	Facebook	35_44	35-44	FI	Finland	4	1	1285	257	25	0
+Stina Wahlsten	Wahlsten Stina Sofia	247410845719596	Facebook	35_44	35-44	FI	Finland	4	1	1045	202	23	0
+Frida Sigfrids	Svenska folkpartiet i Finland - RKP	1506788009337272	Facebook	35_44	35-44	FI	Finland	2	1	1017	203	20	0
 Tekniikan Maailma	Rainisto Sami Pasi Kalevi	309780042465696	Facebook	35_44	35-44	FI	Finland	1	1	975	195	19	0
-Miapetra Kumpula-Natri	Euroopassa Suomen tähden  / Miapetra Kumpula-Natri	922311201130062	Facebook	35_44	35-44	FI	Finland	1	1	970	194	19	0
-Irja Sokka Poliitikko	Irja Sokka Poliitikko	689010728162410	Facebook	35_44	35-44	FI	Finland	4	1	932	129	41	0
-Anna Sirkiä	Anna Sirkiä	115751458577078	Facebook	35_44	35-44	FI	Finland	1	1	918	183	18	0
-Filip Björklöf	Filip Björklöfs understödsförening	432450826819256	Facebook	35_44	35-44	FI	Finland	4	1	841	94	45	0
-Kaisa Penny	Kaisa Penny	259256970891807	Facebook	35_44	35-44	FI	Finland	2	1	839	125	33	0
-Arto Luukkanen	Riekkovaara Niko Tapani	1527478777519070	Facebook	35_44	35-44	FI	Finland	1	1	773	154	15	0
-Filip Hamro-Drotz	HAMRO-DROTZ DENNIS MIKAEL	2251922594829597	Facebook	35_44	35-44	FI	Finland	4	1	527	58	29	0
-Henrik Wickström	Wickström 2019	448116415229902	Facebook	35_44	35-44	FI	Finland	4	1	420	0	41	0
-Mirja Vehkaperä	Vehkaperä Mirja Tellervo	237130593122439	Facebook	35_44	35-44	FI	Finland	1	1	347	0	34	0
-Eurooppalainen Suomi ry	Eurooppalainen Suomi ry	163903613685550	Facebook	35_44	35-44	FI	Finland	2	1	318	0	31	0
-Riku Eskelinen	Riku Eskelisen eurovaalien tukiyhdistys Herttoniemen Keskustaseura ry	312837175579728	Facebook	35_44	35-44	FI	Finland	1	1	199	0	19	0
-VIKES Viestintä ja kehitys -säätiö	Viestintä ja kehitys -säätiö	381290523932	Facebook	35_44	35-44	FI	Finland	1	1	191	0	18	0
-Anna Jungner-Nordgren	Stödföreningen för Anna Jungner-Nordgren	126206450772264	Facebook	35_44	35-44	FI	Finland	1	1	169	0	16	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	35_44	35-44	FI	Finland	1	1	166	83	0	0
-Mikko Ohela	Mikko Ohela	201647537374497	Facebook	35_44	35-44	FI	Finland	1	1	146	29	2	0
-European Commission	European Commission	107898832590939	Facebook	35_44	35-44	FI	Finland	2	1	122	61	0	0
-Miikka Keränen	Keranen Miikka Markus	126768630726940	Facebook	35_44	35-44	FI	Finland	1	1	112	0	11	0
-Asseri Kinnunen	Kinnunen Henri Asseri	1159967857373678	Facebook	35_44	35-44	FI	Finland	1	1	101	0	10	0
-Jussi Mäkipelto - Eurovaaliehdokas 105 - Liberaalipuolue	Makipel To Jussi Markus	1057558317751103	Facebook	35_44	35-44	FI	Finland	1	1	86	0	8	0
+Miguel López		39068699337	Facebook	35_44	35-44	FI	Finland	1	1	956	478	9	0
+Jaana Ylitalo - Neuvottelijasi Euroopassa	Jaana Ylitalon eurovaalitukiryhmä	1201709293325428	Facebook	35_44	35-44	FI	Finland	1	1	952	190	18	0
+Anni Sinnemäki		9177222973	Facebook	35_44	35-44	FI	Finland	1	1	893	178	17	0
+Pohjois-Pohjanmaan Keskusta	Keskustan Pohjois-Pohjanmaan piiri	162877863740573	Facebook	35_44	35-44	FI	Finland	2	1	861	143	28	0
+Radio Dei	Radio Dei	106745452698752	Facebook	35_44	35-44	FI	Finland	2	1	780	156	15	0
+Svenska Kvinnoförbundet	Svenska folkpartiet i Finland - RKP	388661630444	Facebook	35_44	35-44	FI	Finland	1	1	766	153	15	0
+Yannick Lahti	Lahti Yannick Duncan Olavi	1779172592405294	Facebook	35_44	35-44	FI	Finland	1	1	761	152	15	0
+Ida-Maria Skytte	Skytte Sofia Ida-Maria	1854582881493142	Facebook	35_44	35-44	FI	Finland	3	1	733	277	14	1
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	35_44	35-44	FI	Finland	22	1	552	178	2	0
+Kaakkois-Suomen Sosialidemokraatit	Kaakkois-Suomen Sosialidemokraatit ry	648135815208333	Facebook	35_44	35-44	FI	Finland	1	1	549	109	10	0
+Svensk Ungdom - RKP-nuoret	Svensk Ungdom - RKP-nuoret	172659206933	Facebook	35_44	35-44	FI	Finland	2	1	537	179	8	0
+Rautalammin keskusta	Heikkinen Päivi Hannele	568974303294711	Facebook	35_44	35-44	FI	Finland	1	1	490	98	9	0
+Tommi Aalto		650991871774294	Facebook	35_44	35-44	FI	Finland	1	1	458	91	9	0
+Maailman Kuvalehti	Fingo ry - Suomalaiset kehitysjärjestöt	245967315440131	Facebook	35_44	35-44	FI	Finland	1	1	444	0	44	0
+Heidi Hautala		116940668479201	Facebook	35_44	35-44	FI	Finland	2	1	443	0	43	0
+SFP i Egentliga Finland / RKP Varsinais-Suomi	SFP i Egentliga Finland	169404349771683	Facebook	35_44	35-44	FI	Finland	1	1	431	86	8	0
+Janika Takatalo	Takatalo Janika Emmi Kristiina	1380023342235751	Facebook	35_44	35-44	FI	Finland	1	1	393	78	7	0
+Björn Bonsdorff	Stödgruppen för Björn Bonsdorff	2225398984364608	Facebook	35_44	35-44	FI	Finland	1	1	390	78	7	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	35_44	35-44	FI	Finland	3	1	365	166	0	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	35_44	35-44	FI	Finland	2	1	282	83	11	0
+Tampereen vihreät nuoret - Virnu	Tampereen vihreät nuoret	120164961352498	Facebook	35_44	35-44	FI	Finland	2	1	280	56	5	0
+Catharina von Schoultz - politik - sfp/rkp	Von Schoultz Catharina Gabriella Elisabeth	1745255925752597	Facebook	35_44	35-44	FI	Finland	1	1	262	52	5	0
+Makuja Järvikylästä		457310120990526	Facebook	35_44	35-44	FI	Finland	1	1	251	0	24	0
+Jussi Mäkipelto - Eurovaaliehdokas 105 - Liberaalipuolue	Makipel To Jussi Markus	1057558317751103	Facebook	35_44	35-44	FI	Finland	2	1	234	0	23	0
+Elsi Ranta	Ranta Elsi Inkeri	544178606104826	Facebook	35_44	35-44	FI	Finland	2	1	230	21	14	0
+University of Helsinki	University of Helsinki	200739723082	Facebook	35_44	35-44	FI	Finland	1	1	189	0	18	0
+Veli Liikanen		176972545646377	Facebook	35_44	35-44	FI	Finland	1	1	157	0	15	0
+Moderata Ungdomsförbundet för Åland		176514445727859	Facebook	35_44	35-44	FI	Finland	1	1	150	0	14	0
+Pirkko Vihko		2384976475054673	Facebook	35_44	35-44	FI	Finland	1	1	148	29	2	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	35_44	35-44	FI	Finland	1	1	131	65	0	0
+Matti Ylitalo -PerusMatti		186429471476588	Facebook	35_44	35-44	FI	Finland	1	1	124	0	12	0
 Äänioikeus.fi		753565071658403	Facebook	35_44	35-44	FI	Finland	1	1	79	15	1	0
-Olli-Pekka Nyberg	NYBERG OLLI-PEKKA	291483185114189	Facebook	35_44	35-44	FI	Finland	1	1	53	0	5	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	35_44	35-44	FI	Finland	4	1	26	7	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	35_44	35-44	FI	Finland	2	1	5	1	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	35_44	35-44	FI	Finland	1	1	55	27	0	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	35_44	35-44	FI	Finland	1	1	21	10	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	35_44	35-44	FI	Finland	5	1	18	6	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	35_44	35-44	FI	Finland	3	1	11	2	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	35_44	35-44	FI	Finland	1	1	7	3	0	0
+Big News Buzz		125179374733697	Facebook	35_44	35-44	FI	Finland	1	1	5	2	0	0
+Eurozine		115579498521257	Facebook	35_44	35-44	FI	Finland	1	1	4	0	0	0
+Free Quran Education		388655174641163	Facebook	35_44	35-44	FI	Finland	1	1	2	0	0	0
+CRIF		395919323779707	Facebook	35_44	35-44	FI	Finland	1	1	2	1	0	0
+ETUC		129041250601685	Facebook	35_44	35-44	FI	Finland	1	1	2	0	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	35_44	35-44	FI	Finland	1	1	1	0	0	0
+Socialdemokraterna	Socialdemokraterna	8040892957	Facebook	35_44	35-44	FI	Finland	1	1	0	0	0	0
+Europe Thinx		335839580440114	Facebook	35_44	35-44	FI	Finland	1	1	0	0	0	0
+ITUC		20556338116	Facebook	35_44	35-44	FI	Finland	1	1	0	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	35_44	35-44	FI	Finland	1	1	0	0	0	0
+The Years Project	The Years Project	168876449866088	Facebook	35_44	35-44	FI	Finland	1	1	0	0	0	0
+Tom MacDonald		212732770186	Facebook	35_44	35-44	FI	Finland	1	1	0	0	0	0
+dom-i-NEEK		260052198180831	Facebook	35_44	35-44	FI	Finland	1	1	0	0	0	0
+Tokyo Weekender		134654693230171	Facebook	35_44	35-44	FI	Finland	1	1	0	0	0	0

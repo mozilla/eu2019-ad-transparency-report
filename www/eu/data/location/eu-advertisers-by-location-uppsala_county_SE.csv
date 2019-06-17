@@ -1,38 +1,212 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Moderaterna	Moderaterna	7719591155	Facebook	uppsala_county_SE	Uppsala County, Sweden	20	1	20628	8367	279	64
-Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	6464	3232	149	29
-Socialdemokraterna i Uppsala	Socialdemokraterna i Uppsala	174949672555149	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	4999	1000	46	9
-ActionAid Sweden	ActionAid Sweden	18880778360	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	4562	912	42	8
-Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	4398	979	53	10
-Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	3891	775	36	7
-Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	uppsala_county_SE	Uppsala County, Sweden	5	1	3858	879	23	6
-European Parliament	European Parliament	178362315106	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	3205	1602	15	3
-Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	1168	233	10	2
-Emma Wiesner	Emma Wiesner (Centerpartiet)	653072158104424	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	999	0	9	0
-Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	744	372	5	2
-Evin Incir	Socialdemokraterna i Uppsala län	1439778006254125	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	734	147	6	1
-Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	uppsala_county_SE	Uppsala County, Sweden	8	1	695	106	4	0
-Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	580	116	5	1
-En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	331	61	1	0
-Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	uppsala_county_SE	Uppsala County, Sweden	5	1	249	0	2	0
-Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	226	32	2	0
-KDU Sverige	KDU Sverige	177549278946958	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	215	43	1	0
-Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	210	42	1	0
-Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	209	41	1	0
-Fredrick Federley	Fredrick Federley	189892183097	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	184	37	1	0
-Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	155	31	1	0
-Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	137	27	1	0
-Folkstyret	Ströberg Mikael	1243789685638222	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	116	23	1	0
-Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	114	0	1	0
-Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	111	0	1	0
-Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	101	20	0	0
-Miljöpartiet de gröna Gävle	Johansson Evelina Sofia	127624557250669	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	96	0	0	0
-European Commission	European Commission	107898832590939	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	67	33	0	0
-Anders Rehnberg till Europaparlamentet	Rehnberg Anders John Henry	362678667854817	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	58	0	0	0
-David Lega	Kristdemokraterna	251829904829983	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	46	0	0	0
-Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	40	0	1	0
-Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	33	0	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	25	5	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	21	5	0	0
+Valmyndigheten	Valmyndigheten	1737852076287450	Facebook	uppsala_county_SE	Uppsala County, Sweden	59	1	424247	186427	2633	665
+Moderaterna	Moderaterna	7719591155	Facebook	uppsala_county_SE	Uppsala County, Sweden	129	1	385672	153441	6130	1452
+Liberalerna Region Uppsala	Emerse	760092737373457	Facebook	uppsala_county_SE	Uppsala County, Sweden	9	1	263657	52533	1329	347
+Socialdemokraterna	Socialdemokraterna	8040892957	Facebook	uppsala_county_SE	Uppsala County, Sweden	363	1	247332	104270	5494	1152
+Miljöpartiet de gröna	Miljöpartiet de gröna	34780126150	Facebook	uppsala_county_SE	Uppsala County, Sweden	39	1	241361	109271	2874	644
+Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	uppsala_county_SE	Uppsala County, Sweden	98	1	201417	78345	3471	1068
+Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	uppsala_county_SE	Uppsala County, Sweden	46	1	181808	78363	2390	713
+SSU	SSU	45101268520	Facebook	uppsala_county_SE	Uppsala County, Sweden	55	1	167196	59126	2531	635
+Socialdemokraterna i Uppsala	Socialdemokraterna i Uppsala	174949672555149	Facebook	uppsala_county_SE	Uppsala County, Sweden	48	1	156452	37713	2162	664
+Maria Weimer	Weimer Maria Eva Margareta	467374630087356	Facebook	uppsala_county_SE	Uppsala County, Sweden	16	1	151984	51000	3850	907
+Vänsterpartiet Uppsala län	Bergegardh Hans Andreas Abe	326729237396677	Facebook	uppsala_county_SE	Uppsala County, Sweden	14	1	143155	42855	3278	704
+European Commission	European Commission	107898832590939	Facebook	uppsala_county_SE	Uppsala County, Sweden	26	1	124019	61381	801	279
+Centerpartiet	Centerpartiet	12690894340	Facebook	uppsala_county_SE	Uppsala County, Sweden	32	1	121989	53627	1977	846
+European Parliament	European Parliament	178362315106	Facebook	uppsala_county_SE	Uppsala County, Sweden	20	1	116243	52552	1069	381
+European Greens	European Greens	141366725876424	Facebook	uppsala_county_SE	Uppsala County, Sweden	9	1	108016	48969	1470	418
+Sverigedemokraterna Uppland	Sverigedemokraterna Uppland	479236215426943	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	99998	20000	555	138
+Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	uppsala_county_SE	Uppsala County, Sweden	30	1	87912	29538	602	203
+Plan International Sverige	Plan International Sverige	382243262003	Facebook	uppsala_county_SE	Uppsala County, Sweden	32	1	80781	34128	623	189
+Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	uppsala_county_SE	Uppsala County, Sweden	43	1	67532	17789	854	281
+Sverigedemokraterna Uppsala	SD Uppsala	1649460475294700	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	59997	12000	555	111
+Vänsterpartiet	Vänsterpartiet	323156205347	Facebook	uppsala_county_SE	Uppsala County, Sweden	72	1	52467	11136	361	82
+Arba Kokalari	Moderaterna i Stockholms stad och län	355819811185620	Facebook	uppsala_county_SE	Uppsala County, Sweden	13	1	51022	10391	329	81
+Socialdemokraterna i Stockholm	Socialdemokraterna i Stockholm	117056501654820	Facebook	uppsala_county_SE	Uppsala County, Sweden	11	1	49595	21938	1256	314
+Centerpartiets Ungdomsförbund	Centerpartiets Ungdomsförbund	110793008936879	Facebook	uppsala_county_SE	Uppsala County, Sweden	9	1	46490	20243	461	116
+Rädda Barnen	Rädda Barnen	72659261793	Facebook	uppsala_county_SE	Uppsala County, Sweden	94	1	35036	9279	291	59
+Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	uppsala_county_SE	Uppsala County, Sweden	25	1	29515	9537	442	109
+Svenskt Näringsliv	Svenskt Näringsliv	90882504375	Facebook	uppsala_county_SE	Uppsala County, Sweden	7	1	27202	9760	491	107
+Evin Incir	Socialdemokraterna i Uppsala län	1439778006254125	Facebook	uppsala_county_SE	Uppsala County, Sweden	9	1	26933	6502	243	55
+Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	uppsala_county_SE	Uppsala County, Sweden	7	1	25194	11746	527	123
+Grön Ungdom	Grön Ungdom	113234935374946	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	25150	11238	321	79
+Operation Smile Sverige	Operation Smile Sverige	161213770567846	Facebook	uppsala_county_SE	Uppsala County, Sweden	104	1	24522	4297	233	40
+Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	uppsala_county_SE	Uppsala County, Sweden	30	1	22717	5669	299	93
+Gustav Hemming	Gustav Hemming (Centerpartiet)	722853564439941	Facebook	uppsala_county_SE	Uppsala County, Sweden	6	1	20895	5449	350	70
+Jordens Vänner / Friends of the Earth Sweden	Jordens Vänner / Friends of the Earth Sweden	207890945895422	Facebook	uppsala_county_SE	Uppsala County, Sweden	7	1	19964	6083	135	51
+Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	uppsala_county_SE	Uppsala County, Sweden	35	1	18597	3936	119	28
+Kristdemokraterna Uppsala	Kristdemokraterna Uppsala	783969528368300	Facebook	uppsala_county_SE	Uppsala County, Sweden	6	1	18277	4020	265	84
+Tomas Tobé	Moderaterna	1829725353928210	Facebook	uppsala_county_SE	Uppsala County, Sweden	35	1	17870	4550	294	65
+Moderaterna i Håbo	Erling Björn Karl Gustaf	256926791030140	Facebook	uppsala_county_SE	Uppsala County, Sweden	12	1	17321	5000	530	92
+Centerpartiet i Uppsala län	Grew Hedda Anna Magdalena Jarta	801293393230795	Facebook	uppsala_county_SE	Uppsala County, Sweden	7	1	16768	6623	201	98
+Sverige för UNHCR	Viva Media	643137272398136	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	16311	8058	224	44
+Feministiskt initiativ	Feministiskt initiativ	112513375470294	Facebook	uppsala_county_SE	Uppsala County, Sweden	7	1	16061	3370	313	62
+Emma Wiesner	Emma Wiesner (Centerpartiet)	653072158104424	Facebook	uppsala_county_SE	Uppsala County, Sweden	12	1	15556	3287	124	23
+Unga Feminister	Unga Feminister	100642360004457	Facebook	uppsala_county_SE	Uppsala County, Sweden	9	1	14691	4193	156	43
+Magnus Thulin - Centerpartiet	Thulin Magnus Nils Oscar	161302754576832	Facebook	uppsala_county_SE	Uppsala County, Sweden	8	1	13945	2789	145	39
+Liberalerna	Liberalerna	132266740623	Facebook	uppsala_county_SE	Uppsala County, Sweden	12	1	12815	3248	271	55
+Fredrick Federley	Fredrick Federley	189892183097	Facebook	uppsala_county_SE	Uppsala County, Sweden	5	1	12317	4585	97	29
+Skogsindustrierna	Skogsindustrierna 	182933185135	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	12275	5448	67	26
+LO Sverige	LO Sverige	163820136238	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	10135	4604	164	32
+SSU Uppland	SSU Uppland	314198681994215	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	9998	2000	138	55
+Diakonia	Diakonia	42676805259	Facebook	uppsala_county_SE	Uppsala County, Sweden	13	1	9497	2900	57	13
+Annie Lööf	Centerpartiet	118943054880945	Facebook	uppsala_county_SE	Uppsala County, Sweden	4	1	9489	1898	72	15
+IF Metall	IF Metall	108492218918	Facebook	uppsala_county_SE	Uppsala County, Sweden	10	1	9329	2897	59	12
+Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	uppsala_county_SE	Uppsala County, Sweden	12	1	8932	2547	84	18
+Arabiska Teatern / أرابيسكا تياترن	Arabiska Teatern / أرابيسكا تياترن	996264337099052	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	8722	4328	40	16
+Henrik Sundström - M	Sundström Claes Henrik	180745369170	Facebook	uppsala_county_SE	Uppsala County, Sweden	8	1	8630	1839	54	13
+Karin Karlsbro - Liberalerna.	Liberalerna	559163754139097	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	8381	2774	102	35
+Stefan Löfven	Socialdemokraterna	329885883718979	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	8181	3272	303	151
+En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	uppsala_county_SE	Uppsala County, Sweden	20	1	8089	1912	61	15
+Städa Sverige - Idrottens miljöorganisation	Nilsson Patrik Topias Lennart	302156023140090	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	7508	3754	69	34
+Heléne Fritzon	Socialdemokraterna	767749640051136	Facebook	uppsala_county_SE	Uppsala County, Sweden	20	1	7355	1611	67	14
+Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	uppsala_county_SE	Uppsala County, Sweden	7	1	7158	1793	96	20
+David Lega	Kristdemokraterna	251829904829983	Facebook	uppsala_county_SE	Uppsala County, Sweden	6	1	7088	1633	92	18
+ActionAid Sweden	ActionAid Sweden	18880778360	Facebook	uppsala_county_SE	Uppsala County, Sweden	9	1	6272	1518	61	17
+Sverigedemokraterna Region Stockholm	SD Stockholm	1729304067391998	Facebook	uppsala_county_SE	Uppsala County, Sweden	5	1	6086	1217	57	12
+KDU Sverige	KDU Sverige	177549278946958	Facebook	uppsala_county_SE	Uppsala County, Sweden	7	1	5670	1592	95	20
+6F - Fackförbund i samverkan	6F - Fackförbund i samverkan	720556414800953	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	5607	1121	51	10
+Vänsterpartiet Gävleborg	Vänsterpartiet Gävleborg	137604056369425	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	5108	1021	51	12
+EU-kommissionen i Sverige	EU-kommissionen i Sverige	155824787799	Facebook	uppsala_county_SE	Uppsala County, Sweden	4	1	4842	2266	42	19
+Allan Widman	Liberalerna	540799486089503	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	4733	1953	168	33
+Frihet	Hayrynen Lotta Ilona	1722887348013516	Facebook	uppsala_county_SE	Uppsala County, Sweden	9	1	4618	2178	68	23
+Skiftet	Skiftet	100650935646	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	4409	981	40	9
+Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	uppsala_county_SE	Uppsala County, Sweden	5	1	4182	826	58	12
+Medborgerlig Samling	Medborgerlig Samling	189332844828330	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	4140	828	38	7
+Jonas Sjöstedt		261331320599298	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	3960	792	22	5
+ABF	ABF	80386149597	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	3592	1796	18	4
+Djurens parti	Eriksson Monica Maria Therese	207364469446997	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	3503	814	30	6
+Liberala Studenter	Heimbrand Christoffer	118645251482192	Facebook	uppsala_county_SE	Uppsala County, Sweden	15	1	3412	876	27	4
+Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	uppsala_county_SE	Uppsala County, Sweden	6	1	3339	940	48	10
+Slöseriombudsmannen	Skattebetalarna	408171019221426	Facebook	uppsala_county_SE	Uppsala County, Sweden	12	1	3328	1376	19	3
+Liberala ungdomsförbundet	Tilstam Emilie Josefin	108941769135355	Facebook	uppsala_county_SE	Uppsala County, Sweden	5	1	3262	644	31	6
+KD Region Uppsala	KD Region Uppsala	195658617439309	Facebook	uppsala_county_SE	Uppsala County, Sweden	7	1	3162	0	29	0
+Anders Rehnberg till Europaparlamentet	Rehnberg Anders John Henry	362678667854817	Facebook	uppsala_county_SE	Uppsala County, Sweden	6	1	3153	722	44	9
+Saco	Saco	133910158381	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	2991	607	7	3
+En bättre framtid	Plan International Sverige	1173808162671999	Facebook	uppsala_county_SE	Uppsala County, Sweden	7	1	2680	521	23	4
+Jessica Polfjärd	Moderaterna	337086006951883	Facebook	uppsala_county_SE	Uppsala County, Sweden	4	1	2642	842	63	12
+Jörgen Warborn EU-kandidat	Moderaterna	56002955332	Facebook	uppsala_county_SE	Uppsala County, Sweden	4	1	2406	880	72	15
+CIVIL RIGHTS DEFENDERS	CIVIL RIGHTS DEFENDERS	128452220525979	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	2289	457	42	21
+Svensk Handel	Svensk Handel	120477444659925	Facebook	uppsala_county_SE	Uppsala County, Sweden	5	1	2196	614	6	1
+Hungerprojektet	Hungerprojektet	212049035488183	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	2186	437	21	5
+Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	uppsala_county_SE	Uppsala County, Sweden	18	1	2161	392	25	5
+Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	uppsala_county_SE	Uppsala County, Sweden	24	1	1897	315	12	0
+Vi-skogen	Vi-skogen	356032977210	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	1892	378	17	3
+Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	1837	451	27	5
+Olof Palme International Center	Olof Palme International Center	62185934430	Facebook	uppsala_county_SE	Uppsala County, Sweden	5	1	1605	677	14	6
+Sveriges Kommunistiska Parti	Sveriges Kommunistiska Parti	133234606721672	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	1537	427	14	3
+Yrkesdörren	ÖppnaDörren	1047016558650888	Facebook	uppsala_county_SE	Uppsala County, Sweden	11	1	1463	462	16	6
+Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	uppsala_county_SE	Uppsala County, Sweden	13	1	1424	334	10	1
+Liberalerna Örebro län	Liberalerna i Örebro län	388964421149126	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	1405	274	13	2
+WaterAid Sverige	WaterAid Sverige	175843834306	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	1400	357	4	2
+Forum Syd	Forum Syd	152060917636	Facebook	uppsala_county_SE	Uppsala County, Sweden	5	1	1386	528	12	4
+Internet Advertising		303479743893373	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	1372	274	13	2
+Kristdemokraterna i Dalarna	Kristdemokraterna Dalarna	321670347944266	Facebook	uppsala_county_SE	Uppsala County, Sweden	5	1	1362	405	89	19
+Eric Luth	Eric Luth – Centerpartiet	757931234599499	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	1193	553	49	9
+Socialdemokraterna i Borås	Socialdemokraterna i Borås	104604012928735	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	1189	237	11	2
+Common sense in Sweden		697826370283167	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	1158	0	10	0
+KD Sigtuna	Makris Jessica Therese	2063183643940247	Facebook	uppsala_county_SE	Uppsala County, Sweden	4	1	1052	176	16	3
+Centerkvinnorna	Lek Ingrid Magdalena	265585313460256	Facebook	uppsala_county_SE	Uppsala County, Sweden	8	1	1021	175	12	2
+Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	uppsala_county_SE	Uppsala County, Sweden	10	1	937	122	4	0
+Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	uppsala_county_SE	Uppsala County, Sweden	5	1	921	184	9	2
+Miljöpartiet de gröna Gävle	Johansson Evelina Sofia	127624557250669	Facebook	uppsala_county_SE	Uppsala County, Sweden	10	1	876	0	8	0
+Kristdemokraterna Arboga	Stenzelius Jonas Peter Mikael	1083070925184919	Facebook	uppsala_county_SE	Uppsala County, Sweden	7	1	869	157	8	1
+Afram Yakoub	Yakuob Afram	1849562398465143	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	848	237	7	2
+Moderaterna i Stockholms stad och län	Moderaterna i Stockholms stad och län	118162038224731	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	821	164	4	1
+Pietro Marchesi	Marchesi Pietro Angelo Giuseppe	412659735929497	Facebook	uppsala_county_SE	Uppsala County, Sweden	7	1	790	61	26	6
+Volt Sverige	Rolf Michael Holz	939004146262372	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	754	377	6	3
+Liberalerna Norrmalm	Tufvesson Elsa Christina	173275532684116	Facebook	uppsala_county_SE	Uppsala County, Sweden	16	1	742	64	8	0
+Socialdemokraterna i Jönköpings län	Socialdemokraterna i Jönköpings län	390479295816	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	742	148	6	1
+Linus Lakso - MP	Miljöpartiet de gröna	1038425926323402	Facebook	uppsala_county_SE	Uppsala County, Sweden	5	1	642	104	5	0
+FPlus – nyhetstjänsten för företagsamma	fPlus	130927360876045	Facebook	uppsala_county_SE	Uppsala County, Sweden	4	1	633	126	5	1
+Utvecklingsmagasinet (fd Biståndsdebatten)	Edquist Kerstin Helena	162523667123095	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	627	125	4	0
+Centerpartiet Uppsala Län	Grew Hedda Anna Magdalena Jarta	597947044056811	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	591	239	3	0
+Bodil Valero sida	Valero Bodil Elisabeth	300733377216643	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	589	117	5	1
+20% Klimatvarning	Arleskar Carl Albin	362163934600158	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	568	230	19	3
+IOGT-NTO	IOGT-NTO	28237261288	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	563	260	24	4
+Concord Sverige	CONCORD Sverige	119628488091475	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	558	111	5	1
+Tobias Baudin	Kommunal	614939535271869	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	512	102	7	3
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	uppsala_county_SE	Uppsala County, Sweden	17	1	495	200	1	0
+Gröna Studenter	Almén Henrik Carl Olof	31779071967	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	446	223	20	4
+Timbro	Timbro	237146235237	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	444	54	3	0
+Landsbygdspartiet oberoende	Landsbygdspartiet oberoende	1549988978561671	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	417	208	19	3
+Fredsövning	ABRAHAMSSON PER-OLOV	717556358417977	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	388	77	3	0
+Stoppa höjningen av Sveriges EU-avgift	Fria Moderata Studentförbundet	306402583588293	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	387	77	7	3
+Kristdemokraterna Fyrbodal	Kristdemokraterna i VGN	1764033887144522	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	384	69	22	5
+Kryssa Mohammad Omran KD	Omran Mohammad	294934427940073	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	384	148	2	0
+Socialdemokraterna Västmanland	Socialdemokraterna Västmanland	439408222749809	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	375	75	34	6
+Nackamoderaterna	Nackamoderaterna	132143480932	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	357	178	3	1
+Vänsterpartiet Solna	Vänsterpartiet 	273249776157066	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	351	61	3	0
+Skattebetalarnas Förening	Skattebetalarnas Förening	72832167834	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	342	171	1	0
+Kristdemokraterna Sörmland	Tinglöf Miriam Monica Mariana	1633975010236193	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	340	68	3	0
+Rösta Moderat		349668178981055	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	332	0	3	0
+Ydrenäs4EU	Ydrenas Hans Rickard	1538819782888095	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	324	64	3	0
+Susanna Gideonsson	Handelsanställdas förbund	2256836864595743	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	318	63	4	1
+Folkstyret	Ströberg Mikael	1243789685638222	Facebook	uppsala_county_SE	Uppsala County, Sweden	5	1	315	52	2	0
+Martin Ängeby	Angeby Martin Lennart Valdemar	354019898061233	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	306	57	3	0
+Vänsterpartiet Dalarna	Fredholm Kajsa	154956994679599	Facebook	uppsala_county_SE	Uppsala County, Sweden	8	1	285	38	5	1
+Folkbildarforum	Bildningsförbundet Östergötland	164688070209892	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	283	56	2	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	257	118	0	0
+Axess Magasin & TV	Axess Magasin & TV	887305194662637	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	253	50	2	0
+Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	243	35	3	1
+KD Kungsbacka	KD Kungsbacka	2024157037852156	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	240	48	2	0
+Kvinna till Kvinna	Kvinna till Kvinna	153028052500	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	239	47	2	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	uppsala_county_SE	Uppsala County, Sweden	7	1	235	98	0	0
+Miljöpartiet de gröna i Helsingborg	Miljöpartiet de gröna i Helsingborg	106956499327992	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	224	38	2	0
+Fria Moderata Studentförbundet	Fria Moderata Studentförbundet	119885094691458	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	222	44	4	2
+Studieförbundet Bilda	Wallstedt Bo Fredrik	161514177194883	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	206	41	1	0
+Jesper Skalberg Karlsson	Skalberg Karlsson Jesper Jens J	2171970199486213	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	193	38	1	0
+Arbetsmarknadsnytt	Arbetsmarknadsnytt	799634660143537	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	193	38	1	0
+Vänsterpartiet Leksand	Fredholm Kajsa	348264571925203	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	187	37	1	0
+Centerpartiet Upplands Väsby	Magnusson Kjell Johan Sonny	1457926257795252	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	178	29	2	0
+Vänsterpartiet Fyrbodal	Vänsterpartiet Fyrbodal	154507768394620	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	178	35	1	0
+Liberalerna Västerås	Liberalerna Västerås	39940078116	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	173	34	1	0
+Stiftelsen Expo	Stiftelsen Expo	208751565805849	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	172	34	1	0
+Reformisterna	Reformisterna	2337692372925538	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	170	34	1	0
+Liberalerna Västmanland	Liberalerna Västmanland	112927778743586	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	166	33	1	0
+Georgia Ferris KD EU-Kandidat	Ferris Georgia Minnie Anna	407374246718043	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	163	32	1	0
+Grön Omstart	Wallin Lena Maria	407812702944641	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	158	26	0	0
+Socialdemokraterna i Mark	Andersson Hakan Ulf Goran	528944283871109	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	151	30	1	0
+Vänsterpartiet Umeå	Sellstedt Karl Sven Andreas	237863203023150	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	151	30	1	0
+Marie Nilsson	IF Metall	292532504512919	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	150	30	1	0
+Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	141	28	1	0
+KDU Göteborg	KDU Göteborg	337673949604125	Facebook	uppsala_county_SE	Uppsala County, Sweden	4	1	140	0	1	0
+Anna Vikström		1671556912954715	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	134	26	1	0
+Richard Brodd Liberalerna	Brodd Karl Erik Richard	223726468440460	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	132	26	12	2
+Socialdemokraterna Kungälv	Kungälvs Socialdemokratiska Arbetarekommun	241319269242484	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	131	20	1	0
+Moderaterna i Mölndal	Brown Stjarna Amanda Charlotte	125396154314182	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	129	25	2	1
+Kristdemokraterna Västerbotten	Kristdemokraterna Västerbotten	414156238684191	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	128	19	2	0
+Moderaterna i Arboga	Soderland Anders Mikael	1307727569320278	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	126	25	1	0
+Kristdemokraterna i Gagnef	Kristdemokraterna Dalarna	273483286188959	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	109	0	2	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	107	53	0	0
+Eva B Arnesson - KD	Eva B Arnesson - KD	297923747637590	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	90	18	0	0
+Semantiko	MTWABP Sweden AB	656090384536434	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	89	12	0	0
+Centerpartiet i Umeå	Centerpartiet	450620155297	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	75	0	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	uppsala_county_SE	Uppsala County, Sweden	5	1	69	25	0	0
+Jan Lenander, politiskt engagerad	Lenander Jan Richard	1834522019966466	Facebook	uppsala_county_SE	Uppsala County, Sweden	3	1	68	0	0	0
+Spannmålsfritt	Spannmålsfritt	886531201686249	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	59	11	0	0
+Kommunistiska Partiet Stockholm		1572942986309050	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	51	0	0	0
+Tallis talar		1206136579519699	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	42	0	0	0
+SSU Kalmar Län	SSU Kalmar län	241658249370356	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	40	0	0	0
+Kristdemokraterna Vänersborg	Nilsson Anna Maria	1436550706597391	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	37	0	0	0
+Socialdemokraterna Hässleholm	Hässleholms Socialdemokratiska arbetarekommun	838924659467812	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	37	0	0	0
+Liberalerna Stockholm	Liberalerna Stockholm	682180208473039	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	36	7	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	36	18	0	0
+Adnan Dibrani till Bryssel	Ghafari Sebastian	1308296045984813	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	36	0	0	0
+Kristdemokraterna i Örebro län	Cesar Eje Alexander	430535663641398	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	35	0	1	0
+Arbetarekommunen	Persson Gunnar Henrik Haakan	2053389964962411	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	30	0	0	0
+Tankar Online		114769995938282	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	28	0	2	0
+Moderaterna i Stenungsund	Renfors Anna Maria	488439967871997	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	28	0	0	0
+Anders G Johansson	Johansson Anders Gustaf Werner	357659877249	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	28	0	0	0
+Caritas Sweden		119140545477108	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	25	0	0	0
+Vänsterpartiet Region Dalarna	Fredholm Kajsa	816257315147676	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	22	0	1	0
+Vänsterpartiet Södermalm	Vänsterpartiet Södermalm	376804565780243	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	17	3	0	0
 European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	16	8	0	0
-Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	14	0	0	0
+Moderaterna Kungsbacka	Moderaterna Kungsbackakretsen	121182911263997	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	14	0	0	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	11	5	0	0
+Centerpartiet i Stockholms län	Centerpartiet i Stockholms län	154533721332462	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	10	2	0	0
+Free Quran Education		388655174641163	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	8	4	0	0
+The Good Show	Assur Stagliano Stefan Giuseppe	1923750267869320	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	6	0	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	uppsala_county_SE	Uppsala County, Sweden	2	1	5	1	0	0
+Big News Buzz		125179374733697	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	4	2	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	3	1	0	0
+Tom MacDonald		212732770186	Facebook	uppsala_county_SE	Uppsala County, Sweden	1	1	1	0	0	0

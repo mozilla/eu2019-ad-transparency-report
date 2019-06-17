@@ -1,37 +1,99 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	recent_code_filter	recent_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	rd4	Last 4 days	HR	Croatia	7	1	404993	141000	1092	100
-HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	rd4	Last 4 days	HR	Croatia	9	1	344991	165000	1691	200
-Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	rd4	Last 4 days	HR	Croatia	10	1	280989	61999	989	0
-Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	rd4	Last 4 days	HR	Croatia	5	1	160994	34999	494	0
-Ruža Kovačević Bilić	Hrvatska narodna stranka - liberalni demokrati (HNS)	2268602929863854	Facebook	rd4	Last 4 days	HR	Croatia	3	1	109997	24999	297	0
-SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	rd4	Last 4 days	HR	Croatia	3	1	104997	21000	297	0
-Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	rd4	Last 4 days	HR	Croatia	2	1	54998	11000	198	0
-Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	rd4	Last 4 days	HR	Croatia	1	1	49999	9999	99	0
-European Parliament	European Parliament	178362315106	Facebook	rd4	Last 4 days	HR	Croatia	1	1	49998	9999	99	0
-HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	rd4	Last 4 days	HR	Croatia	1	1	49998	10000	98	0
-Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	rd4	Last 4 days	HR	Croatia	1	1	49998	9999	98	0
-Jozo Radoš	Jozo Radoš	446717938731095	Facebook	rd4	Last 4 days	HR	Croatia	5	1	29994	8999	494	0
-Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	rd4	Last 4 days	HR	Croatia	15	1	26984	2999	1485	0
-Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	rd4	Last 4 days	HR	Croatia	4	1	15995	2999	395	0
-Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	rd4	Last 4 days	HR	Croatia	2	1	14998	6000	197	0
-Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	rd4	Last 4 days	HR	Croatia	2	1	14997	5999	198	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	rd4	Last 4 days	HR	Croatia	4	1	14861	6633	20	0
-Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	rd4	Last 4 days	HR	Croatia	1	1	9999	4999	98	0
-Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	rd4	Last 4 days	HR	Croatia	1	1	9999	4999	99	0
-MOST nezavisnih lista	MOST nezavisnih lista	388550077899912	Facebook	rd4	Last 4 days	HR	Croatia	1	1	9999	5000	88	0
-Marijana Petir	Marijana Petir	1418903245032313	Facebook	rd4	Last 4 days	HR	Croatia	1	1	9998	4999	98	0
-Tomislav Stojak	Hrvatska narodna stranka - liberalni demokrati (HNS)	442201595870855	Facebook	rd4	Last 4 days	HR	Croatia	2	1	9997	1999	197	0
-Stjepan Ribić	HDZ - Hrvatska demokratska zajednica	451335681696047	Facebook	rd4	Last 4 days	HR	Croatia	1	1	9980	4990	98	0
-European Commission	European Commission	107898832590939	Facebook	rd4	Last 4 days	HR	Croatia	2	1	5831	2915	14	2
-Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	rd4	Last 4 days	HR	Croatia	1	1	4999	1000	99	0
-Danijel Marušić	HDZ - Hrvatska demokratska zajednica	215152641879933	Facebook	rd4	Last 4 days	HR	Croatia	1	1	4999	999	99	0
-Krešo Beljak	Vlahovic Mario	52929105855	Facebook	rd4	Last 4 days	HR	Croatia	1	1	4998	999	98	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	rd4	Last 4 days	HR	Croatia	1	1	3626	1813	9	1
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	rd4	Last 4 days	HR	Croatia	2	1	2358	603	8	0
-Kulturpunkt.hr		89410579392	Facebook	rd4	Last 4 days	HR	Croatia	1	1	999	0	88	0
-SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	rd4	Last 4 days	HR	Croatia	1	1	999	0	99	0
-Hrvatske vijesti		286736758747850	Facebook	rd4	Last 4 days	HR	Croatia	1	1	999	0	88	0
-Sanja Radolović	Radolovic Sanja	508755779649081	Facebook	rd4	Last 4 days	HR	Croatia	1	1	998	0	98	0
-Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	rd4	Last 4 days	HR	Croatia	2	1	26	5	0	0
-Franc Bogovič	Slovenska ljudska stranka (SLS)	288826994603012	Facebook	rd4	Last 4 days	HR	Croatia	1	1	4	0	0	0
-Isabella De Monte	Walter Godina - Mandatario Elettorale di Isabella De Monte	152661171597544	Facebook	rd4	Last 4 days	HR	Croatia	1	1	3	0	0	0
+HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	rd4	Last 4 days	HR	Croatia	38	1	1977095	831129	6769	2250
+European Parliament	European Parliament	178362315106	Facebook	rd4	Last 4 days	HR	Croatia	9	1	1311868	603911	3674	1301
+Europski parlament, Ured za informiranje u Republici Hrvatskoj	Europski parlament, Ured za informiranje u Republici Hrvatskoj	508795765833382	Facebook	rd4	Last 4 days	HR	Croatia	22	1	1251211	571114	2922	307
+Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	rd4	Last 4 days	HR	Croatia	14	1	829989	344999	2790	456
+European Greens	European Greens	141366725876424	Facebook	rd4	Last 4 days	HR	Croatia	6	1	760329	330800	2698	1020
+Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	rd4	Last 4 days	HR	Croatia	23	1	743441	224129	3152	453
+SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	rd4	Last 4 days	HR	Croatia	17	1	618802	238619	790	28
+Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	rd4	Last 4 days	HR	Croatia	9	1	574205	261904	1511	261
+MOST nezavisnih lista	MOST nezavisnih lista	388550077899912	Facebook	rd4	Last 4 days	HR	Croatia	12	1	430470	169238	1566	262
+Miro Bulj	MOST nezavisnih lista	1252295741481540	Facebook	rd4	Last 4 days	HR	Croatia	8	1	271424	102856	690	99
+Joško Klisović	Klisovic Josko	1262594650584725	Facebook	rd4	Last 4 days	HR	Croatia	16	1	232657	61533	917	0
+European Commission	European Commission	107898832590939	Facebook	rd4	Last 4 days	HR	Croatia	10	1	226044	110068	420	128
+Marijana Petir	Marijana Petir	1418903245032313	Facebook	rd4	Last 4 days	HR	Croatia	4	1	224996	74999	896	149
+Model European Union Zagreb - MEUZ	Divea Studio	521874817895935	Facebook	rd4	Last 4 days	HR	Croatia	5	1	216664	88333	280	0
+Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	rd4	Last 4 days	HR	Croatia	6	1	214996	69999	963	156
+Slobodna Dalmacija	Slobodna Dalmacija	100267330025110	Facebook	rd4	Last 4 days	HR	Croatia	4	1	199996	40000	396	0
+Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	rd4	Last 4 days	HR	Croatia	13	1	196137	57142	664	39
+GLAS Građansko-liberalni savez	GLAS Građansko-liberalni savez	231052047413325	Facebook	rd4	Last 4 days	HR	Croatia	5	1	141663	29833	664	94
+Unija Kvarnera	Pametno	584966128586909	Facebook	rd4	Last 4 days	HR	Croatia	1	1	133244	66622	332	66
+Sunčana Glavak	HDZ - Hrvatska demokratska zajednica	482597361772021	Facebook	rd4	Last 4 days	HR	Croatia	4	1	126665	45333	765	153
+Stjepan Ribić	HDZ - Hrvatska demokratska zajednica	451335681696047	Facebook	rd4	Last 4 days	HR	Croatia	3	1	126663	48333	530	66
+BIOM	BIOM	138743669505642	Facebook	rd4	Last 4 days	HR	Croatia	9	1	126300	29661	461	0
+Ruža Kovačević Bilić	Hrvatska narodna stranka - liberalni demokrati (HNS)	2268602929863854	Facebook	rd4	Last 4 days	HR	Croatia	5	1	121664	36333	201	0
+Stjepan Adanić	HDZ - Hrvatska demokratska zajednica	408695383042330	Facebook	rd4	Last 4 days	HR	Croatia	3	1	116665	53333	398	66
+Danijel Marušić	HDZ - Hrvatska demokratska zajednica	215152641879933	Facebook	rd4	Last 4 days	HR	Croatia	4	1	107617	33523	173	0
+Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	rd4	Last 4 days	HR	Croatia	18	1	98262	19933	419	0
+Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	rd4	Last 4 days	HR	Croatia	3	1	87331	18666	604	100
+SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	rd4	Last 4 days	HR	Croatia	9	1	82078	29916	466	0
+Đanino Sučić	Pametno	1778906682211240	Facebook	rd4	Last 4 days	HR	Croatia	1	1	66649	33324	332	66
+Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	rd4	Last 4 days	HR	Croatia	2	1	64999	32499	224	39
+Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	rd4	Last 4 days	HR	Croatia	17	1	61771	17366	1151	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	rd4	Last 4 days	HR	Croatia	10	1	60566	26630	110	48
+Goran Pauk	HDZ - Hrvatska demokratska zajednica	581489628528785	Facebook	rd4	Last 4 days	HR	Croatia	3	1	59998	12000	118	0
+Nova ljevica	Možemo - politička platforma	706769699498076	Facebook	rd4	Last 4 days	HR	Croatia	1	1	49998	9999	98	0
+Dr. sc. Tomislav Sokol	HDZ - Hrvatska demokratska zajednica	136900153422435	Facebook	rd4	Last 4 days	HR	Croatia	3	1	46331	9166	140	0
+Krešo Beljak	Vlahovic Mario	52929105855	Facebook	rd4	Last 4 days	HR	Croatia	2	1	45832	19166	191	33
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	rd4	Last 4 days	HR	Croatia	6	1	42045	15844	77	15
+European Free Alliance	European Free Alliance	46708306425	Facebook	rd4	Last 4 days	HR	Croatia	1	1	40286	20143	201	40
+Nikolina Brnjac	HDZ - Hrvatska demokratska zajednica	287054392229717	Facebook	rd4	Last 4 days	HR	Croatia	2	1	39999	7999	239	40
+Habib Tahiri	Hrvatska narodna stranka - liberalni demokrati (HNS)	750800161983664	Facebook	rd4	Last 4 days	HR	Croatia	2	1	39999	7999	79	0
+Marijana Balić	HDZ - Hrvatska demokratska zajednica	1274752085892321	Facebook	rd4	Last 4 days	HR	Croatia	1	1	33332	6666	332	66
+Saša Poljanec-Borić	Hrvatska socijalno liberalna stranka	1914254365351413	Facebook	rd4	Last 4 days	HR	Croatia	1	1	33285	16642	147	29
+Diana Topčić-Rosenberg	TOPCIC-ROSENBERG DIANA	1702271996513206	Facebook	rd4	Last 4 days	HR	Croatia	4	1	30421	5884	245	0
+Hrvatska stranka umirovljenika	Hrvatska stranka umirovljenika	1437793016448632	Facebook	rd4	Last 4 days	HR	Croatia	1	1	29999	6000	59	0
+Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	rd4	Last 4 days	HR	Croatia	2	1	24999	5000	49	0
+Zelena lista		157025101623973	Facebook	rd4	Last 4 days	HR	Croatia	6	1	20996	7499	337	0
+Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	rd4	Last 4 days	HR	Croatia	2	1	19166	4583	57	0
+Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	rd4	Last 4 days	HR	Croatia	5	1	17996	5000	346	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	rd4	Last 4 days	HR	Croatia	3	1	17407	8027	30	8
+Gong	Gong	135611546456409	Facebook	rd4	Last 4 days	HR	Croatia	4	1	16997	6599	205	0
+HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	rd4	Last 4 days	HR	Croatia	1	1	16666	3333	33	0
+Davor Škrlec	Zastupnik u Europskom parlamentu Davor Škrlec	1507744276110325	Facebook	rd4	Last 4 days	HR	Croatia	1	1	16666	3333	33	0
+Tomislav Stojak	Hrvatska narodna stranka - liberalni demokrati (HNS)	442201595870855	Facebook	rd4	Last 4 days	HR	Croatia	2	1	15711	3142	56	0
+Sanja Radolović	Radolovic Sanja	508755779649081	Facebook	rd4	Last 4 days	HR	Croatia	4	1	14997	4000	263	0
+Tonino Picula	Tonino Picula	156057951248853	Facebook	rd4	Last 4 days	HR	Croatia	1	1	12499	2500	24	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	rd4	Last 4 days	HR	Croatia	1	1	9999	4999	98	0
+Davor Nađi	Nadi Davor	1640498249359280	Facebook	rd4	Last 4 days	HR	Croatia	3	1	9665	4333	112	0
+Morana Jokić	Hrvatska narodna stranka - liberalni demokrati (HNS)	386303408627910	Facebook	rd4	Last 4 days	HR	Croatia	3	1	7998	2800	118	0
+pametno.org	Pametno	144815235686385	Facebook	rd4	Last 4 days	HR	Croatia	3	1	7495	2249	123	0
+HSS Hrvatska	Vlahovic Mario	236043376446622	Facebook	rd4	Last 4 days	HR	Croatia	1	1	6665	3333	66	0
+Jozo Radoš	Jozo Radoš	446717938731095	Facebook	rd4	Last 4 days	HR	Croatia	1	1	4999	999	99	0
+HNS Ston	Hrvatska narodna stranka - liberalni demokrati (HNS)	1729880817265498	Facebook	rd4	Last 4 days	HR	Croatia	1	1	4954	991	98	0
+HNS Metković	Hrvatska narodna stranka - liberalni demokrati (HNS)	339522549467106	Facebook	rd4	Last 4 days	HR	Croatia	1	1	4791	2395	47	0
+Tome Anticic	Hrvatska narodna stranka - liberalni demokrati (HNS)	365723960708703	Facebook	rd4	Last 4 days	HR	Croatia	1	1	3999	2000	39	0
+Bulešić 4 EU	Hrvatska narodna stranka - liberalni demokrati (HNS)	2550012408361701	Facebook	rd4	Last 4 days	HR	Croatia	1	1	3332	666	66	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	rd4	Last 4 days	HR	Croatia	3	1	3103	613	9	0
+Informativno Dokumentacijski Centar Banije I Korduna		1902779853072038	Facebook	rd4	Last 4 days	HR	Croatia	1	1	2856	571	50	0
+Nataša Gabričević	Hrvatska narodna stranka - liberalni demokrati (HNS)	284341509111383	Facebook	rd4	Last 4 days	HR	Croatia	1	1	2484	496	49	0
+Gordan Maras		451079008266520	Facebook	rd4	Last 4 days	HR	Croatia	1	1	2140	428	42	0
+Stranka hrvatskog zajedništva		944262495628175	Facebook	rd4	Last 4 days	HR	Croatia	1	1	1998	399	35	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	rd4	Last 4 days	HR	Croatia	2	1	1830	465	6	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	rd4	Last 4 days	HR	Croatia	1	1	1617	323	16	3
+CRIF		395919323779707	Facebook	rd4	Last 4 days	HR	Croatia	1	1	1545	772	7	1
+Greenpeace Hrvatska	Greenpeace Hrvatska	359170097532754	Facebook	rd4	Last 4 days	HR	Croatia	3	1	1531	0	135	0
+Europe Thinx		335839580440114	Facebook	rd4	Last 4 days	HR	Croatia	1	1	1415	283	2	0
+Solarshop-Solar panels & Equipment		243321742824974	Facebook	rd4	Last 4 days	HR	Croatia	1	1	999	0	88	0
+Radnička Fronta		770459529655215	Facebook	rd4	Last 4 days	HR	Croatia	1	1	749	0	66	0
+Telegram.hr		688325737947866	Facebook	rd4	Last 4 days	HR	Croatia	1	1	570	0	56	0
+ETUC		129041250601685	Facebook	rd4	Last 4 days	HR	Croatia	1	1	491	98	4	0
+Slobodni Infocentar Zagreb		1741621996163657	Facebook	rd4	Last 4 days	HR	Croatia	1	1	399	0	35	0
+Hrvatske vijesti		286736758747850	Facebook	rd4	Last 4 days	HR	Croatia	1	1	374	0	33	0
+Big News Buzz		125179374733697	Facebook	rd4	Last 4 days	HR	Croatia	1	1	307	154	1	0
+Ne u moje ime		138418753446889	Facebook	rd4	Last 4 days	HR	Croatia	1	1	162	32	0	0
+Demokratikus Koalíció	Demokratikus Koalíció	169599166463839	Facebook	rd4	Last 4 days	HR	Croatia	2	1	77	38	0	0
+Eurozine		115579498521257	Facebook	rd4	Last 4 days	HR	Croatia	1	1	70	14	1	0
+ITUC		20556338116	Facebook	rd4	Last 4 days	HR	Croatia	2	1	64	0	6	0
+Franc Bogovič	Slovenska ljudska stranka (SLS)	288826994603012	Facebook	rd4	Last 4 days	HR	Croatia	6	1	59	11	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	rd4	Last 4 days	HR	Croatia	2	1	20	0	2	0
+Talking Trees: Adult Survivors of CSA		157082910999500	Facebook	rd4	Last 4 days	HR	Croatia	1	1	20	0	1	0
+Aleksander Jevšek	Socialni demokrati (SD)	1459898434295068	Facebook	rd4	Last 4 days	HR	Croatia	2	1	11	4	0	0
+Antonio Silvio Calò	Antonio Silvio Calò	740380199679755	Facebook	rd4	Last 4 days	HR	Croatia	3	1	9	2	0	0
+Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	rd4	Last 4 days	HR	Croatia	1	1	6	1	0	0
+DK Nagykanizsa	Demokratikus Koalíció	704399322958470	Facebook	rd4	Last 4 days	HR	Croatia	1	1	5	1	0	0
+Socialni demokrati (SD)	Socialni demokrati (SD)	12676777580	Facebook	rd4	Last 4 days	HR	Croatia	1	1	2	1	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	rd4	Last 4 days	HR	Croatia	1	1	1	0	0	0
+Schmuck Erzsébet	LMP - Lehet Más a Politika	1461534750733248	Facebook	rd4	Last 4 days	HR	Croatia	1	1	1	0	0	0
+Simone Polesello per il Fvg	Simone Polesello	155754657821240	Facebook	rd4	Last 4 days	HR	Croatia	1	1	1	0	0	0
+Isabella De Monte	Walter Godina - Mandatario Elettorale di Isabella De Monte	152661171597544	Facebook	rd4	Last 4 days	HR	Croatia	1	1	0	0	0	0

@@ -1,322 +1,1016 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	age_code_filter	age_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Massimiliano Santini	Massimiliano Ghelfi	389585871653842	Facebook	25_34	25-34	IT	Italy	36	1	448544	163229	1496	113
-Matteo Salvini	Lega - Salvini Premier	252306033154	Facebook	25_34	25-34	IT	Italy	1	1	232752	116376	116	23
-Carlo Calenda	Siamo Europei	131887960826264	Facebook	25_34	25-34	IT	Italy	1	1	134668	53867	134	26
-Caterina Avanza	Partito Democratico - Caterina Avanza	623847078064207	Facebook	25_34	25-34	IT	Italy	6	1	97716	21054	590	100
-European Commission	European Commission	107898832590939	Facebook	25_34	25-34	IT	Italy	3	1	82015	34834	112	22
-Caterina Cerroni	Caterina Cerroni	1618719834925589	Facebook	25_34	25-34	IT	Italy	3	1	64857	30021	225	44
-Caio Mussolini	Caio Mussolini	2393234914229651	Facebook	25_34	25-34	IT	Italy	1	1	60096	30048	149	30
-Brando Benifei	Brando Benifei	291380024325396	Facebook	25_34	25-34	IT	Italy	7	1	53960	10744	200	0
-Livio Lucà Trombetta	Livio Lucà Trombetta	432269534242217	Facebook	25_34	25-34	IT	Italy	5	1	49791	12146	344	0
-Fabrizio Ghera	Fabrizio Ghera	1803487999879591	Facebook	25_34	25-34	IT	Italy	11	1	48294	16339	229	16
-Festival Psicologia	Ordine degli Psicologi del Lazio	375703235973864	Facebook	25_34	25-34	IT	Italy	4	1	45126	17905	223	28
-Giorgia Meloni	Fratelli d'Italia	38919827644	Facebook	25_34	25-34	IT	Italy	5	1	35366	10366	100	11
-Partito Democratico	Partito Democratico	77034286895	Facebook	25_34	25-34	IT	Italy	1	1	33137	16569	165	33
-Paola Testori	Paola Testori	658895384568072	Facebook	25_34	25-34	IT	Italy	15	1	32997	7497	509	16
-Jacopo Alberti Consigliere Regionale LEGA Salvini Toscana	JACOPO ALBERTI	1583213175233477	Facebook	25_34	25-34	IT	Italy	6	1	32027	7804	100	0
-Daniele Viotti	Daniele Viotti	138574576313444	Facebook	25_34	25-34	IT	Italy	4	1	31444	6472	67	0
-Carmine Pacente	Carmelo Iannicelli	218066501942820	Facebook	25_34	25-34	IT	Italy	9	1	30909	6489	122	0
-Achille Variati	Achille Variati	478212418874107	Facebook	25_34	25-34	IT	Italy	6	1	29186	5837	63	0
-Giuseppe Cossalter	Giuseppe Cossalter	1981132658773307	Facebook	25_34	25-34	IT	Italy	3	1	28165	5633	82	0
-Alessandra Nardini	Alessandra Nardini	1393257504323165	Facebook	25_34	25-34	IT	Italy	8	1	28162	6606	107	0
-Francesco Forlin per Perugia	Francesco Forlin	632686940488385	Facebook	25_34	25-34	IT	Italy	2	1	26915	5383	53	0
-Alberto Cirio	RedAbissi	1391061901114543	Facebook	25_34	25-34	IT	Italy	10	1	25080	6659	194	0
-Federico Perugini	Federico Perugini	356449288308129	Facebook	25_34	25-34	IT	Italy	3	1	24524	10141	112	17
-Luciano Nobili	Luciano Nobili	406187203142799	Facebook	25_34	25-34	IT	Italy	5	1	23410	4785	49	0
-Francesca Puglisi	Francesca Puglisi	196965250328047	Facebook	25_34	25-34	IT	Italy	1	1	21626	10813	21	0
-Antonio Tajani	Antonio Tajani	506531149512596	Facebook	25_34	25-34	IT	Italy	3	1	21372	5065	87	0
-Luca Vecchi	Comitato Elettorale Luca Vecchi 2024	245475858955495	Facebook	25_34	25-34	IT	Italy	19	1	20791	4364	316	0
-Michela Giuffrida	Michela Giuffrida	656848937718109	Facebook	25_34	25-34	IT	Italy	6	1	19577	3891	136	13
-Renate Holzeisen	Team Köllensperger	840785932926956	Facebook	25_34	25-34	IT	Italy	4	1	18786	5136	97	0
-Avaaz	Avaaz	8340223883	Facebook	25_34	25-34	IT	Italy	1	1	17833	8916	17	0
-Angela Russo	Angela Russo 	1624334387651107	Facebook	25_34	25-34	IT	Italy	2	1	16179	3235	32	0
-Michela Sciurpa	Michela Sciurpa tramite mandatario elettorale Gian Luca Laurenzi, nato a Perugia il 21.09.1964 LRNGLC64P21G478O con nomina ed accettazione depositata il data 09.04.2019 alla Corte d’Appello di Perugia	317033212339928	Facebook	25_34	25-34	IT	Italy	1	1	15031	3006	29	0
-Silvia Sardone	Silvia Sardone	667483386685540	Facebook	25_34	25-34	IT	Italy	2	1	14050	2785	39	0
-Nicola Danti	Nicola Danti	241424056063716	Facebook	25_34	25-34	IT	Italy	3	1	13885	2926	31	0
-Sergio Chiamparino	Andrea Maccagno	263544377156823	Facebook	25_34	25-34	IT	Italy	3	1	13596	2719	38	0
-Gian Carlo Muzzarelli per Modena	Gian Carlo Muzzarelli per Modena	647691558631437	Facebook	25_34	25-34	IT	Italy	1	1	13588	2717	26	0
-Nicola Clerici europee 2019 M5S	Nicola Clerici	2340174086227422	Facebook	25_34	25-34	IT	Italy	6	1	12328	2910	57	0
-Valerio Zoggia		174166786029904	Facebook	25_34	25-34	IT	Italy	1	1	11993	2398	23	0
-Costanza Hermanin	Costanza Hermanin 	1424214351021211	Facebook	25_34	25-34	IT	Italy	3	1	11767	2725	39	0
-Uniti per Biella	Uniti per Biella	1413156242277276	Facebook	25_34	25-34	IT	Italy	9	1	11502	3884	195	0
-Daniela Poggio	ROCK communications	441486766660124	Facebook	25_34	25-34	IT	Italy	5	1	11412	2172	85	0
-VoteEuropa Italia	Ayoub Lahouioui	259302014838779	Facebook	25_34	25-34	IT	Italy	1	1	11237	2247	22	0
-Più Europa Vercelli	Carloalberto Polidori	527235457776008	Facebook	25_34	25-34	IT	Italy	5	1	10962	2192	132	17
-Matteo Renzi	Matteo Renzi	113335124914	Facebook	25_34	25-34	IT	Italy	3	1	10635	2765	37	0
-Daniela Santanchè	Daniela Garnero Santanchè	56413702888	Facebook	25_34	25-34	IT	Italy	5	1	10609	4704	75	7
-Matteo Gazzini	Matteo Gazzini	204493693449796	Facebook	25_34	25-34	IT	Italy	1	1	10130	2026	20	0
-Corradino Mineo	Danila Tarantino	429319385345	Facebook	25_34	25-34	IT	Italy	10	1	9562	3102	89	0
-Carmela Rescigno	Carmela Rescigno	434358993998139	Facebook	25_34	25-34	IT	Italy	2	1	9323	1864	29	0
-Gianni Farina	Gianni Farina	340847436775181	Facebook	25_34	25-34	IT	Italy	3	1	9313	1862	30	0
-Carmine Spiaggia	Carmine Spiaggia	425820797979047	Facebook	25_34	25-34	IT	Italy	1	1	9139	4569	22	4
-Deputati PD	Deputati PD	104652392900508	Facebook	25_34	25-34	IT	Italy	5	1	9078	2020	23	0
-Damiano Bormolini	Enrico Gobbi	286055062304030	Facebook	25_34	25-34	IT	Italy	1	1	8783	1756	87	17
-ISPI - Istituto per gli studi di politica internazionale	ISPI - Istituto per gli studi di politica internazionale	171795872872353	Facebook	25_34	25-34	IT	Italy	2	1	8121	1624	34	0
-Cécile  Kyenge Kashetu	Cécile  Kyenge Kashetu	191585464317302	Facebook	25_34	25-34	IT	Italy	6	1	7554	1765	70	0
-Alberto Bova - Candidato Sindaco	Comitato Elettorale Alberto Bova	146020142780997	Facebook	25_34	25-34	IT	Italy	3	1	7447	1389	63	0
-Paolo Borchia	Paolo Borchia	577383699442272	Facebook	25_34	25-34	IT	Italy	1	1	7425	1485	14	0
-Patrizia Toia	Patrizia Ferma Francesca Toia	519219611453854	Facebook	25_34	25-34	IT	Italy	8	1	7281	1982	142	0
-Dino Giarrusso	Dino Giarrusso	987371561280376	Facebook	25_34	25-34	IT	Italy	2	1	7247	1689	20	0
-Giuliano Pisapia	Giuliano Pisapia	112352038802143	Facebook	25_34	25-34	IT	Italy	7	1	6882	1352	133	0
+MoVimento 5 Stelle	MoVimento 5 Stelle	174457180812	Facebook	25_34	25-34	IT	Italy	14	1	2314588	1041612	6284	2009
+Carlo Calenda	Siamo Europei	131887960826264	Facebook	25_34	25-34	IT	Italy	11	1	1733084	822371	7646	1673
+Avaaz	Avaaz	8340223883	Facebook	25_34	25-34	IT	Italy	33	1	1472497	642377	5845	1967
+Massimiliano Santini	Massimiliano Ghelfi	389585871653842	Facebook	25_34	25-34	IT	Italy	110	1	1416901	563327	6287	1025
+European Parliament	European Parliament	178362315106	Facebook	25_34	25-34	IT	Italy	11	1	1361150	660920	7747	1543
+Partito Democratico	Partito Democratico	77034286895	Facebook	25_34	25-34	IT	Italy	57	1	1346935	607303	6960	1294
+European Commission	European Commission	107898832590939	Facebook	25_34	25-34	IT	Italy	30	1	931166	421007	1599	404
+Caterina Cerroni	Caterina Cerroni	1618719834925589	Facebook	25_34	25-34	IT	Italy	25	1	928193	450647	5344	1179
+European Greens	European Greens	141366725876424	Facebook	25_34	25-34	IT	Italy	11	1	883848	374599	4410	1062
+Forza Italia	Forza Italia	172265396249029	Facebook	25_34	25-34	IT	Italy	10	1	707238	312821	1757	497
+Più Europa	Più Europa	126662574668084	Facebook	25_34	25-34	IT	Italy	9	1	691288	294046	3416	909
+Nicola Fratoianni	Nicola Fratoianni	116181541819083	Facebook	25_34	25-34	IT	Italy	13	1	684409	291943	1288	337
+Caterina Avanza	Partito Democratico - Caterina Avanza	623847078064207	Facebook	25_34	25-34	IT	Italy	24	1	598651	244757	3878	1190
+Giuliano Pisapia	Giuliano Pisapia	112352038802143	Facebook	25_34	25-34	IT	Italy	16	1	584875	262695	1955	445
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	25_34	25-34	IT	Italy	35	1	575551	244055	1388	418
+Nicola Zingaretti	Partito Democratico	38423524033	Facebook	25_34	25-34	IT	Italy	5	1	507791	205729	545	109
+Giorgia Meloni	Fratelli d'Italia	38919827644	Facebook	25_34	25-34	IT	Italy	17	1	495808	219419	2617	641
+Paola Testori	Paola Testori	658895384568072	Facebook	25_34	25-34	IT	Italy	54	1	492558	134752	3667	425
+Matteo Salvini	Lega - Salvini Premier	252306033154	Facebook	25_34	25-34	IT	Italy	10	1	479941	227977	2416	474
+Lara Comi	Lara Comi	155619044465389	Facebook	25_34	25-34	IT	Italy	21	1	447974	183663	2092	471
+Brando Benifei	Brando Benifei	291380024325396	Facebook	25_34	25-34	IT	Italy	26	1	447860	186297	2878	678
+Annalisa Corrado	ANNALISA CORRADO (mandataria elettorale Serena Drigo)	152120842162775	Facebook	25_34	25-34	IT	Italy	88	1	432127	146188	2106	32
+Partito del Socialismo Europeo	Partito del Socialismo Europeo	1891926127734235	Facebook	25_34	25-34	IT	Italy	12	1	429890	185709	725	97
+Dipartimento per le politiche giovanili e il servizio civile universale – Presidenza del Consiglio dei Ministri	Dipartimento per le politiche giovanili e il servizio civile universale – Presidenza del Consiglio dei Ministri	353868374653514	Facebook	25_34	25-34	IT	Italy	15	1	422621	179605	1234	131
+Elisabetta Gualmini	Elisabetta Gualmini	822028764839310	Facebook	25_34	25-34	IT	Italy	14	1	399465	165376	2094	596
+Videodrome	Videodrome	1773694896182795	Facebook	25_34	25-34	IT	Italy	43	1	370340	93951	1636	0
+Renate Holzeisen	Team Köllensperger	840785932926956	Facebook	25_34	25-34	IT	Italy	32	1	339837	102154	1207	92
+Fratelli d'Italia	Fratelli d'Italia	355710427861591	Facebook	25_34	25-34	IT	Italy	30	1	337725	131041	2010	495
+Angelo Ciocca	Angelo Ciocca	479212098810360	Facebook	25_34	25-34	IT	Italy	11	1	328681	144246	2439	540
+Francesco Galtieri	Francesco Galtieri	176134109106348	Facebook	25_34	25-34	IT	Italy	20	1	321748	133728	892	150
+VoteEuropa Italia	Ayoub Lahouioui	259302014838779	Facebook	25_34	25-34	IT	Italy	8	1	317369	155457	896	163
+Ufficio d'informazione in Italia del Parlamento europeo	Ufficio d'informazione in Italia del Parlamento europeo	143544514130	Facebook	25_34	25-34	IT	Italy	2	1	310077	123631	407	61
+Costanza Hermanin	Costanza Hermanin 	1424214351021211	Facebook	25_34	25-34	IT	Italy	7	1	305239	120277	341	52
+Nicola Magi	Nicola Magi	329290881102446	Facebook	25_34	25-34	IT	Italy	5	1	289810	133566	313	47
+Antonio Silvio Calò	Antonio Silvio Calò	740380199679755	Facebook	25_34	25-34	IT	Italy	16	1	279668	109394	662	194
+Greenpeace Italia	Greenpeace Italia	35346524498	Facebook	25_34	25-34	IT	Italy	14	1	249345	86314	391	0
+Save the Children Italia	Save the Children Italia	46590675335	Facebook	25_34	25-34	IT	Italy	4	1	248754	105677	529	217
+Alessandra Nardini	Alessandra Nardini	1393257504323165	Facebook	25_34	25-34	IT	Italy	21	1	233394	96359	868	124
+Alberto Cirio	RedAbissi	1391061901114543	Facebook	25_34	25-34	IT	Italy	48	1	227763	68845	1585	213
+Emma Bonino	Emma Bonino	9005388225	Facebook	25_34	25-34	IT	Italy	4	1	223474	94950	1834	443
+Raffaella Bonsangue	Giuseppe Mangano, mandatario elettorale Avv. Raffaella Bonsangue	963373667373045	Facebook	25_34	25-34	IT	Italy	13	1	221421	86756	1576	296
+Carmela Rescigno	Carmela Rescigno	434358993998139	Facebook	25_34	25-34	IT	Italy	15	1	207711	86324	764	130
+Nicola Clerici europee 2019 M5S	Nicola Clerici	2340174086227422	Facebook	25_34	25-34	IT	Italy	37	1	198742	65160	941	196
+Matilde Montaudo, cittadina a 5 stelle	Matilde Ada Montaudo	492569564129501	Facebook	25_34	25-34	IT	Italy	22	1	197533	85287	912	223
+Daniele Viotti	Daniele Viotti	138574576313444	Facebook	25_34	25-34	IT	Italy	17	1	196817	70926	542	57
+Patrizia Toia	Patrizia Ferma Francesca Toia	519219611453854	Facebook	25_34	25-34	IT	Italy	25	1	196430	56376	723	43
+Dino Giarrusso	Dino Giarrusso	987371561280376	Facebook	25_34	25-34	IT	Italy	6	1	193377	74198	1177	228
+Paul Köllensperger	Team Koellensperger	779347678751107	Facebook	25_34	25-34	IT	Italy	17	1	174318	61956	860	103
+Antonio Tajani	Antonio Tajani	506531149512596	Facebook	25_34	25-34	IT	Italy	13	1	171055	57619	584	83
+Simona Bonafè	Simona Bonafè	145437958954905	Facebook	25_34	25-34	IT	Italy	35	1	170915	64076	1207	258
+ISPI - Istituto per gli studi di politica internazionale	ISPI - Istituto per gli studi di politica internazionale	171795872872353	Facebook	25_34	25-34	IT	Italy	10	1	170871	60933	429	43
+Virginia Puzzolo	Virginia Puzzolo	1950051888380307	Facebook	25_34	25-34	IT	Italy	47	1	166257	37029	1307	113
+Andrea Cozzolino	Andrea Cozzolino	1449151341981719	Facebook	25_34	25-34	IT	Italy	18	1	166212	55528	958	171
+Festival Psicologia	Ordine degli Psicologi del Lazio	375703235973864	Facebook	25_34	25-34	IT	Italy	11	1	161858	79402	419	28
+Silvio Berlusconi	Silvio Berlusconi	116716651695782	Facebook	25_34	25-34	IT	Italy	10	1	157980	68672	738	139
+Cécile  Kyenge Kashetu	Cécile  Kyenge Kashetu	191585464317302	Facebook	25_34	25-34	IT	Italy	25	1	147065	47452	1272	197
+Nicola Danti	Nicola Danti	241424056063716	Facebook	25_34	25-34	IT	Italy	27	1	145272	35374	653	67
+Sergio Pirozzi		138470909670284	Facebook	25_34	25-34	IT	Italy	2	1	141587	60975	119	19
+Michela Giuffrida	Michela Giuffrida	656848937718109	Facebook	25_34	25-34	IT	Italy	35	1	139903	35435	780	80
+Coalizione Civica Ferrara	Coalizione Civica per Ferrara	431281497628012	Facebook	25_34	25-34	IT	Italy	10	1	139596	29559	1233	196
+Carmine Pacente	Carmelo Iannicelli	218066501942820	Facebook	25_34	25-34	IT	Italy	32	1	137958	31101	496	0
+Irene Tinagli	Siamo Europei	142983109068196	Facebook	25_34	25-34	IT	Italy	1	1	136847	54739	1368	273
+Giuseppe Cossalter	Giuseppe Cossalter	1981132658773307	Facebook	25_34	25-34	IT	Italy	4	1	134082	66588	108	0
+Francesca Puglisi	Francesca Puglisi	196965250328047	Facebook	25_34	25-34	IT	Italy	5	1	132365	52141	240	48
+Orlando Amodeo per Europa Verde	Orlando Amodeo	397286324156859	Facebook	25_34	25-34	IT	Italy	11	1	132269	59877	588	114
+Lina Novelli Elezioni Europee 2019	Stefano Stefanoni 	525398527864941	Facebook	25_34	25-34	IT	Italy	4	1	131965	48267	69	0
+Matteo Gagliasso	Matteo Gagliasso	1546887325441954	Facebook	25_34	25-34	IT	Italy	11	1	129523	40745	645	100
+Aldo Patriciello	Aldo Patriciello	40645773554	Facebook	25_34	25-34	IT	Italy	10	1	123456	55004	547	106
+Jacopo Alberti Consigliere Regionale LEGA Salvini Toscana	JACOPO ALBERTI	1583213175233477	Facebook	25_34	25-34	IT	Italy	10	1	119351	51781	652	127
+Diego Sarno	Diego Sarno	44296617275	Facebook	25_34	25-34	IT	Italy	18	1	116569	40938	924	143
+Federazione Verdi	Federazione Verdi	142589879147197	Facebook	25_34	25-34	IT	Italy	17	1	115342	25126	430	23
+Andrea Rossi	Andrea Rossi	405291650226189	Facebook	25_34	25-34	IT	Italy	49	1	114995	31050	1189	25
+Livio Lucà Trombetta	Livio Lucà Trombetta	432269534242217	Facebook	25_34	25-34	IT	Italy	6	1	114541	22909	412	0
+Roberto Rosso	Roberto Rosso	1735684256653359	Facebook	25_34	25-34	IT	Italy	7	1	113715	54387	1311	303
+Carmine Spiaggia	Carmine Spiaggia	425820797979047	Facebook	25_34	25-34	IT	Italy	4	1	112773	50550	549	124
+Paolo De Castro	Paolo De Castro	441907505922632	Facebook	25_34	25-34	IT	Italy	24	1	112680	33430	448	42
+Gian Carlo Muzzarelli per Modena	Gian Carlo Muzzarelli per Modena	647691558631437	Facebook	25_34	25-34	IT	Italy	8	1	112506	46646	514	75
+Gianantonio Da Re		423472904417850	Facebook	25_34	25-34	IT	Italy	4	1	111478	47572	129	16
+Rosanna Conte	Rosanna Conte - Candidata della Lega	1035757379850845	Facebook	25_34	25-34	IT	Italy	100	1	111322	27340	2179	0
+Uniti per Biella	Uniti per Biella	1413156242277276	Facebook	25_34	25-34	IT	Italy	24	1	109733	27286	655	0
+Giancarlo Cerrelli	Giancarlo Cerrelli 	721617177928574	Facebook	25_34	25-34	IT	Italy	14	1	108036	22064	308	20
+Cittadini per Depaoli Sindaco	Cittadini	695550523822101	Facebook	25_34	25-34	IT	Italy	10	1	107733	36424	475	67
+Nicola Caputo	Nicola Caputo	1439514556290274	Facebook	25_34	25-34	IT	Italy	30	1	105958	25111	507	0
+Caio Mussolini	Caio Mussolini	2393234914229651	Facebook	25_34	25-34	IT	Italy	10	1	105176	43101	482	64
+Daniela Santanchè	Daniela Garnero Santanchè	56413702888	Facebook	25_34	25-34	IT	Italy	21	1	102738	33092	587	109
+Andrea Caroppo	Andrea Caroppo	381061375420543	Facebook	25_34	25-34	IT	Italy	13	1	101313	34100	569	97
+Valerio Zoggia	Valerio Zoggia	174166786029904	Facebook	25_34	25-34	IT	Italy	8	1	99955	46417	408	134
+Achille Variati	Achille Variati	478212418874107	Facebook	25_34	25-34	IT	Italy	12	1	99345	35126	461	76
+Andrea Vannucci per Firenze	Andrea Vannucci	547494135363560	Facebook	25_34	25-34	IT	Italy	16	1	97524	20730	384	23
+Più Europa Vercelli	Carloalberto Polidori	527235457776008	Facebook	25_34	25-34	IT	Italy	14	1	96606	35895	564	93
+Silvia Sardone	Silvia Sardone	667483386685540	Facebook	25_34	25-34	IT	Italy	15	1	94158	20152	267	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	25_34	25-34	IT	Italy	3	1	90760	45280	49	9
+Federica Sabbati	Federica Sabbati	834884563535291	Facebook	25_34	25-34	IT	Italy	15	1	90127	24909	823	143
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	25_34	25-34	IT	Italy	3	1	88860	36693	180	82
+Genova che osa	Genova che osa	1538926219695299	Facebook	25_34	25-34	IT	Italy	16	1	88627	21370	339	0
+Sergio Chiamparino	Andrea Maccagno	263544377156823	Facebook	25_34	25-34	IT	Italy	13	1	82853	26499	300	40
+Federico Perugini	Federico Perugini	356449288308129	Facebook	25_34	25-34	IT	Italy	33	1	80896	27005	866	160
+Matteo Gazzini	Matteo Gazzini	204493693449796	Facebook	25_34	25-34	IT	Italy	34	1	78802	15873	524	55
+Amnesty International - Italia	Amnesty International - Italia	39993728498	Facebook	25_34	25-34	IT	Italy	3	1	78546	34169	187	30
+Federica Picchi	Federica Picchi	362494797700891	Facebook	25_34	25-34	IT	Italy	31	1	76581	25002	450	78
+Fabrizio Ghera	Fabrizio Ghera	1803487999879591	Facebook	25_34	25-34	IT	Italy	26	1	75775	24045	419	25
+Mara Bizzotto Pagina Ufficiale	Mara Bizzotto	206708532746370	Facebook	25_34	25-34	IT	Italy	12	1	75691	28206	259	42
+Antonio Brunetto	Antonio Brunetto	1906734892742698	Facebook	25_34	25-34	IT	Italy	8	1	75650	26847	317	48
+Susanna Ceccardi	Susanna Ceccardi	257113927825642	Facebook	25_34	25-34	IT	Italy	7	1	75029	28245	246	39
+Lorenzo Cesa	Lorenzo Cesa	538632706513878	Facebook	25_34	25-34	IT	Italy	27	1	74726	19261	426	18
+Angela Russo	Angela Russo 	1624334387651107	Facebook	25_34	25-34	IT	Italy	17	1	74366	20962	257	12
+Roberto Battiston in Europa	Corrado Denaro	1088184664716532	Facebook	25_34	25-34	IT	Italy	7	1	72625	28951	181	22
+Sosventurini	Antonfrancesco Venturini 	405956940133035	Facebook	25_34	25-34	IT	Italy	13	1	71254	32174	391	56
+Zambelli_Stefania Lega	Stefania Zambelli 	2188617797870832	Facebook	25_34	25-34	IT	Italy	9	1	69442	26061	340	59
+Pina Picierno	SocialCom	212896992084952	Facebook	25_34	25-34	IT	Italy	39	1	69003	18151	361	5
+Corradino Mineo	Danila Tarantino	429319385345	Facebook	25_34	25-34	IT	Italy	45	1	67664	15771	369	0
+Silvio Magliano - Un amico in Comune, in Regione	RedHab	121968754543798	Facebook	25_34	25-34	IT	Italy	17	1	67178	14406	314	27
+Cristina Bagnoli	Enrico Decca	2031217713649064	Facebook	25_34	25-34	IT	Italy	8	1	66761	17618	340	0
+Luciano Pizzoni Sindaco	Luciano Pizzoni Sindaco	2408453165855171	Facebook	25_34	25-34	IT	Italy	14	1	66437	14574	262	0
+Luciano Nobili	Luciano Nobili	406187203142799	Facebook	25_34	25-34	IT	Italy	26	1	66405	14048	233	0
+Antonio Ilardi Europee 2019	IPSEsrl	440292480068133	Facebook	25_34	25-34	IT	Italy	3	1	66331	13266	131	0
+Skuola.net	Skuola.net	126578555602	Facebook	25_34	25-34	IT	Italy	10	1	65772	21348	150	13
+European Free Alliance	European Free Alliance	46708306425	Facebook	25_34	25-34	IT	Italy	5	1	64771	31948	377	71
+Isabella De Monte	Walter Godina - Mandatario Elettorale di Isabella De Monte	152661171597544	Facebook	25_34	25-34	IT	Italy	17	1	64150	23433	483	88
+Il golpe Gentiloni		1299858193475119	Facebook	25_34	25-34	IT	Italy	1	1	63984	25594	639	127
+Pietro Fiocchi	Pietro Fiocchi	877595239247631	Facebook	25_34	25-34	IT	Italy	21	1	62661	18712	328	0
+Salvatore Cicu	Salvatore Cicu	229261087280641	Facebook	25_34	25-34	IT	Italy	5	1	62424	29329	186	29
+Cristiano Zanella	Cristiano Zanella	1051393861711144	Facebook	25_34	25-34	IT	Italy	14	1	61600	22432	306	71
+Gianni Farina	Gianni Farina	340847436775181	Facebook	25_34	25-34	IT	Italy	5	1	60639	27810	152	18
+Camilla Laureti	Camilla Laureti	1718838531535765	Facebook	25_34	25-34	IT	Italy	17	1	59791	20060	279	21
+Ilenia Rento		316884152265156	Facebook	25_34	25-34	IT	Italy	17	1	59075	17154	359	34
+Massimo Paolucci	Massimo Paolucci	417241311803541	Facebook	25_34	25-34	IT	Italy	12	1	59024	13467	133	5
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	25_34	25-34	IT	Italy	23	1	58981	20541	150	19
+Anna Maria Bernini	Anna Maria Bernini	146169045979888	Facebook	25_34	25-34	IT	Italy	29	1	58093	11936	483	0
+Mauro Parolini	Mauro Parolini 	179225584042	Facebook	25_34	25-34	IT	Italy	38	1	58057	14650	383	0
+Centioni Alessia Europee 2019	SocialCom	1249137568574869	Facebook	25_34	25-34	IT	Italy	19	1	57407	13051	341	34
+Marco Racca	Marco Racca	2341721169486171	Facebook	25_34	25-34	IT	Italy	13	1	56037	15750	466	79
+Giulia Pastorella	Giulia Pastorella | Europa per Scelta	2233320866726559	Facebook	25_34	25-34	IT	Italy	14	1	55432	13282	226	0
+Michela Sciurpa	Michela Sciurpa tramite mandatario elettorale Gian Luca Laurenzi, nato a Perugia il 21.09.1964 LRNGLC64P21G478O con nomina ed accettazione depositata il data 09.04.2019 alla Corte d’Appello di Perugia	317033212339928	Facebook	25_34	25-34	IT	Italy	6	1	55084	19426	201	29
+Damiano Bormolini	Enrico Gobbi	286055062304030	Facebook	25_34	25-34	IT	Italy	4	1	54819	22500	355	71
+Francesco Forlin per Perugia	Francesco Forlin	632686940488385	Facebook	25_34	25-34	IT	Italy	2	1	54650	27325	272	54
+Raffaele Bene.	Raffaele Bene 	487209295147668	Facebook	25_34	25-34	IT	Italy	5	1	54600	10920	108	0
+Donato Forcillo - candidato Parlamento Europeo M5S - Sardegna/Sicilia	Donato Forcillo	348043952450383	Facebook	25_34	25-34	IT	Italy	44	1	54560	13230	435	7
+Verdi Firenze	VERDI FIRENZE	237052423729117	Facebook	25_34	25-34	IT	Italy	8	1	54461	11314	146	0
+Herbert Dorfmann	Herbert Dorfmann	1560429730868291	Facebook	25_34	25-34	IT	Italy	8	1	54436	17886	226	20
+Democrazia Solidale - DEMOS	Paolo Ciani 	1497251783844508	Facebook	25_34	25-34	IT	Italy	24	1	52306	11772	448	0
+Giosi Ferrandino	Giosi Ferrandino	141856142632410	Facebook	25_34	25-34	IT	Italy	9	1	52247	19611	208	27
+Aldo Modonesi	Comitato Elettorale Aldo Modonesi Sindaco	300621720600910	Facebook	25_34	25-34	IT	Italy	8	1	51838	11471	195	15
+Dante Cattaneo	Dante Cattaneo	256298824546192	Facebook	25_34	25-34	IT	Italy	27	1	50848	12243	307	8
+Verdi di Modena	Paolo Silingardi 	1585669864794758	Facebook	25_34	25-34	IT	Italy	6	1	49746	10593	496	95
+Giacomo Galazzo	Giacomo Galazzo	338070350178263	Facebook	25_34	25-34	IT	Italy	8	1	49037	9740	256	24
+Geri Ballo	Gerarta Ballo	2261381937462680	Facebook	25_34	25-34	IT	Italy	13	1	48632	14297	406	47
+Elena Gentile	Elena Gentile	1426435657576038	Facebook	25_34	25-34	IT	Italy	6	1	48001	17447	243	41
+Sergio Tommasini Sindaco	Sergio Tommasini Sindaco	220805388637106	Facebook	25_34	25-34	IT	Italy	8	1	47126	9425	292	42
+Stefano Pastorelli - Lega	Stefano Pastorelli	42425772121	Facebook	25_34	25-34	IT	Italy	3	1	46551	21184	112	19
+Pier Luigi Mottinelli	Pier Luigi Mottinelli	1999539790166556	Facebook	25_34	25-34	IT	Italy	11	1	46544	11004	174	6
+ANSA Europa	ANSA Europa	190141131032201	Facebook	25_34	25-34	IT	Italy	4	1	46421	9284	91	0
+Luca Vecchi	Comitato Elettorale Luca Vecchi 2024	245475858955495	Facebook	25_34	25-34	IT	Italy	23	1	46088	9637	409	0
+Deputati PD	Deputati PD	104652392900508	Facebook	25_34	25-34	IT	Italy	23	1	45277	9377	106	0
+Matteo Biffoni	Comitato elettorale Matteo Biffoni Sindaco.	1447603378788857	Facebook	25_34	25-34	IT	Italy	24	1	45001	12439	372	0
+Alessandro Panza	Alessandro Panza	394832128017774	Facebook	25_34	25-34	IT	Italy	3	1	44594	19607	152	29
+Mario Razzanelli		266772436839839	Facebook	25_34	25-34	IT	Italy	2	1	43618	21809	146	29
+Matteo Iannitti	Ianniti Matteo Domenico	321246931898034	Facebook	25_34	25-34	IT	Italy	10	1	42511	10152	164	0
+Gigi Casciello	Luigi Casciello	826579060729311	Facebook	25_34	25-34	IT	Italy	3	1	42430	20554	127	24
+Sindaco di Avola - Luca Cannata	Avola la nostra terra	560317800682461	Facebook	25_34	25-34	IT	Italy	7	1	41260	8818	96	0
+Federico Pizzarotti	Federico Pizzarotti	258372870902870	Facebook	25_34	25-34	IT	Italy	8	1	40175	8681	159	15
+Lia Orfei	Lia Orfei	574133089748488	Facebook	25_34	25-34	IT	Italy	10	1	39950	9603	259	27
+Nadia Sgro	Nadia Sgro	276613263243127	Facebook	25_34	25-34	IT	Italy	7	1	39880	8572	104	0
+Luigi Di Placido	Andrea Rossi	332563790280386	Facebook	25_34	25-34	IT	Italy	28	1	39313	9171	637	0
+Alternativa Popolare		174312339435062	Facebook	25_34	25-34	IT	Italy	4	1	38988	17442	107	15
+Fabio Candalice	Fabio Candalice	929896213793987	Facebook	25_34	25-34	IT	Italy	8	1	38755	7751	146	12
+Stefano Zuccarini Sindaco	Stefano Zuccarini	272379720320278	Facebook	25_34	25-34	IT	Italy	5	1	38573	8528	97	0
+Ubaldo Bocci	Ubaldo Bocci	549986188855910	Facebook	25_34	25-34	IT	Italy	4	1	38538	12271	252	47
+Roberta Rigon	Roberta Rigon 	152060405498608	Facebook	25_34	25-34	IT	Italy	6	1	38537	8103	105	0
+Karamea - The Movie	Karamea - The Movie	800360290085811	Facebook	25_34	25-34	IT	Italy	6	1	38052	8824	196	0
+Daniela Poggio	ROCK communications	441486766660124	Facebook	25_34	25-34	IT	Italy	37	1	38027	7388	1076	22
+Federico Clapis	Federico Clapis	306289286207471	Facebook	25_34	25-34	IT	Italy	4	1	37799	7560	112	0
+Partito Autonomista Trentino Tirolese	Partito Autonomista Trentino Tirolese	390310621129343	Facebook	25_34	25-34	IT	Italy	9	1	37565	9463	158	0
+Sinistra per Calenzano	Simone Giuntini	2502767379948983	Facebook	25_34	25-34	IT	Italy	11	1	36418	7646	319	12
+Gianmarco Porciani Consigliere Comunale - Lega Salvini Premier	Gianmarco Porciani	504760203329428	Facebook	25_34	25-34	IT	Italy	4	1	36172	7712	84	0
+Gianluca Festa	Gianluca Festa	1414627525508278	Facebook	25_34	25-34	IT	Italy	12	1	36124	9595	229	0
+Paolo Borchia	Paolo Borchia	577383699442272	Facebook	25_34	25-34	IT	Italy	5	1	36116	15611	179	67
+Simone Di Stefano		294385027332061	Facebook	25_34	25-34	IT	Italy	2	1	36031	16201	86	14
+Eraldo Ciangherotti	Eraldo Ciangherotti	1020725961324733	Facebook	25_34	25-34	IT	Italy	22	1	35984	8652	486	40
+Lucrezia Vinci in Europa	Lucrezia Vinci	290636291884221	Facebook	25_34	25-34	IT	Italy	3	1	35969	7194	71	0
+Movimento 5 Stelle Gubbio	Rodolfo Rughi 	363952323736997	Facebook	25_34	25-34	IT	Italy	7	1	35845	8124	108	0
+Sergio Panero • Candidato Sindaco di Bra	Sergio Panero	1196580340519958	Facebook	25_34	25-34	IT	Italy	5	1	35594	8492	106	0
+Beatrice Brignone	Possibile	454468194886964	Facebook	25_34	25-34	IT	Italy	4	1	35110	7022	350	70
+Grana Padana Show	Amedeo Tosi 	701486570217344	Facebook	25_34	25-34	IT	Italy	11	1	34923	16425	302	25
+Valori.it	Valori.it	112777008752391	Facebook	25_34	25-34	IT	Italy	16	1	34493	7578	423	0
+Davide Montrucchio - Moderati - Elezioni Regione Piemonte 2019	Davide Montrucchio	459608377914093	Facebook	25_34	25-34	IT	Italy	3	1	34433	6815	102	0
+Agostino Ghiglia		40186632839	Facebook	25_34	25-34	IT	Italy	9	1	34063	7505	328	54
+zeroCO2	zeroCO2	360133591158746	Facebook	25_34	25-34	IT	Italy	4	1	33419	6684	90	0
+Antonio Castello	Antonio Castello	452764018806467	Facebook	25_34	25-34	IT	Italy	7	1	32949	6541	139	12
+Massimiliano Smeriglio	Massimiliano Smeriglio	182266801912488	Facebook	25_34	25-34	IT	Italy	29	1	32303	8560	168	0
+Roberta Fusari Sindaca	Comitato elettorale Roberta Fusari Sindaca	1021093474737387	Facebook	25_34	25-34	IT	Italy	6	1	32052	6410	171	15
+Francesca Ghirra	Francesca Ghirra	147045459010122	Facebook	25_34	25-34	IT	Italy	2	1	31819	14059	37	0
+Cinzia Pettoni	 Cinzia Pettoni 	2357999221079856	Facebook	25_34	25-34	IT	Italy	6	1	31603	6918	114	0
+Antonio Mazzeo	Antonio Mazzeo	518342558190046	Facebook	25_34	25-34	IT	Italy	11	1	30597	6119	189	0
+Pietro Petruzzelli	Pietro Petruzzelli	194717554070843	Facebook	25_34	25-34	IT	Italy	6	1	30302	7114	109	0
+Furio Honsell	Davide Bressan	534334929944459	Facebook	25_34	25-34	IT	Italy	1	1	30278	15139	75	15
+Matteo Tosetto	Matteo Tosetto 	285899292122830	Facebook	25_34	25-34	IT	Italy	3	1	29857	10201	227	45
+Enrico Zucchi - Lega Prato	Enrico Zucchi	707579962958222	Facebook	25_34	25-34	IT	Italy	7	1	29791	6749	219	29
+Marco Gheller - Autonomie per l'Europa	Alpe	414225506058917	Facebook	25_34	25-34	IT	Italy	4	1	29522	5873	73	0
+Lorenzo Gasperini per la Toscana	Lorenzo Gasperini	230235480357105	Facebook	25_34	25-34	IT	Italy	34	1	29035	8795	654	0
+Leila Kechoud - Candidata al Parlamento europeo - 26 maggio 2019	Leila Kechoud	2247400732195775	Facebook	25_34	25-34	IT	Italy	11	1	28993	12088	185	19
+Catia Degli Esposti Sindaco	Catia Degli Esposti	438647399606160	Facebook	25_34	25-34	IT	Italy	3	1	28930	5786	57	0
+Domenico Finiguerra	Domenico Finiguerra	41123718703	Facebook	25_34	25-34	IT	Italy	6	1	28710	11833	137	20
+Gabriele Padovani	Andrea Liverani	1559045154349568	Facebook	25_34	25-34	IT	Italy	17	1	28611	5854	275	0
+Emiliano Occhi	Naytes srl	840175292995931	Facebook	25_34	25-34	IT	Italy	6	1	28308	6810	93	0
+Big News Buzz		125179374733697	Facebook	25_34	25-34	IT	Italy	1	1	28297	14148	125	62
+Europa Verde	Europa Verde	593847704462763	Facebook	25_34	25-34	IT	Italy	13	1	28224	13024	202	12
+Angelo Vernillo	Angelo Vernillo 	538691129988576	Facebook	25_34	25-34	IT	Italy	6	1	28221	6112	90	0
+Matteo Renzi	Matteo Renzi	113335124914	Facebook	25_34	25-34	IT	Italy	5	1	28146	9221	102	9
+Alessandra Senatore	Domenico Campeglia	668311250269031	Facebook	25_34	25-34	IT	Italy	22	1	28013	6624	239	0
+Lorenzo Vignali	Lorenzo Vignali	229114191886	Facebook	25_34	25-34	IT	Italy	38	1	27971	4211	1102	0
+Andrea Tremaglia	Andrea Tremaglia	322495193464	Facebook	25_34	25-34	IT	Italy	17	1	27890	8359	228	0
+Siamo Europei Padova	Siamo Europei	445280926043270	Facebook	25_34	25-34	IT	Italy	1	1	27653	13826	138	69
+Antonio Giampietro - Non vedo che Bari	Antonio Giampietro	456495818216210	Facebook	25_34	25-34	IT	Italy	8	1	27543	5360	209	0
+Prof Luca Avagnina	Avagnina Luca	1081529978655352	Facebook	25_34	25-34	IT	Italy	1	1	27042	13521	134	27
+Paolo Pinzuti - Candidato Elezioni Europee 2019	Paolo Pinzuti	317355515613731	Facebook	25_34	25-34	IT	Italy	2	1	26797	5359	267	53
+Novella Ferrini per l'Europa	Azzurra Schiavo	1240528759454970	Facebook	25_34	25-34	IT	Italy	1	1	26576	13288	26	0
+Cosimo Guccione per Firenze	Cosimo Guccione	1425237984394334	Facebook	25_34	25-34	IT	Italy	18	1	26496	5625	533	0
+Andrea Ferrua - Candidato alle Elezioni Regionali Piemonte 2019	Emanuele Bisagno 	724799454622956	Facebook	25_34	25-34	IT	Italy	1	1	26376	13188	26	0
+7 Frazioni		445466952870695	Facebook	25_34	25-34	IT	Italy	1	1	26371	13185	26	0
+Daniele Vergini Candidato Sindaco M5S	Daniele Vergini	415104189237042	Facebook	25_34	25-34	IT	Italy	12	1	26135	5833	145	0
+Marco Ciurcina	Marco Ciurcina	554685015057710	Facebook	25_34	25-34	IT	Italy	7	1	25868	11594	170	26
+Edoardo Fanucci	Edoardo Fanucci 	1435334113381119	Facebook	25_34	25-34	IT	Italy	7	1	25748	6048	99	0
+Natasha Mariano Mariano	Natalia Mariano	262438680894168	Facebook	25_34	25-34	IT	Italy	1	1	25706	12853	25	0
+Ugo Tozzi	Ugo Tozzi	938644779543922	Facebook	25_34	25-34	IT	Italy	13	1	25395	9424	195	9
+L'Europa che non sai	L'europa che non sai 	299218030763134	Facebook	25_34	25-34	IT	Italy	8	1	25172	6580	345	27
+Centrodestra per cambiare con Pacetti sindaco	Manuel Gianfelici	292638348325601	Facebook	25_34	25-34	IT	Italy	32	1	24793	5002	600	0
+Paola Romano	Paola Romano	248072698709512	Facebook	25_34	25-34	IT	Italy	10	1	24767	5775	210	11
+Giorgio Magliocca Presidente della Provincia di Caserta	Giorgio Magliocca	1681022168583960	Facebook	25_34	25-34	IT	Italy	3	1	24639	4927	48	0
+Andrea Ventura per la Sinistra	Andrea Ventura	2128020000585703	Facebook	25_34	25-34	IT	Italy	11	1	24286	4926	67	0
+Alessandra Basso al Parlamento Europeo	Alessandra Basso	613417015791230	Facebook	25_34	25-34	IT	Italy	7	1	24216	5519	99	2
+Danilo Oscar Lancini	Danilo Oscar Lancini	247390032110856	Facebook	25_34	25-34	IT	Italy	13	1	24191	5283	119	10
+Giuseppe Ranu'		307631192771406	Facebook	25_34	25-34	IT	Italy	2	1	24053	11714	135	23
+Stefania Calcagno	Stefania Calcagno	528781364317789	Facebook	25_34	25-34	IT	Italy	4	1	24045	7839	106	8
+CIWF Italia	CIWF Italia	576664002355828	Facebook	25_34	25-34	IT	Italy	16	1	23944	4566	232	0
+Pierfrancesco Majorino	Pierfrancesco Majorino	194123260626794	Facebook	25_34	25-34	IT	Italy	22	1	23704	7438	236	0
+Giampietro Angelini	Noi per Norcia	635335283545677	Facebook	25_34	25-34	IT	Italy	5	1	23626	4625	287	44
+Latina per Smeriglio	Pier Luca Mario Dussich	861710860862485	Facebook	25_34	25-34	IT	Italy	2	1	23596	4719	46	0
+Francesco Rabotti	Giuseppe Orefice	316495045128997	Facebook	25_34	25-34	IT	Italy	5	1	23529	5898	110	0
+Christian di Feo - Candidato M5S Europa	Christian Di Feo	496884204178162	Facebook	25_34	25-34	IT	Italy	4	1	23453	4690	54	0
+Marco Mes - Candidato M5S Europa	Marco Mesmaeker	328031081240402	Facebook	25_34	25-34	IT	Italy	2	1	23409	9999	145	29
+Lorenzo Tosa	Lorenzo Tosa	476250932907074	Facebook	25_34	25-34	IT	Italy	4	1	23365	7776	83	10
+Elisabetta Gardini	Elisabetta Gardini	114266221965026	Facebook	25_34	25-34	IT	Italy	8	1	23253	4766	92	5
+Anna Robustelli	Anna Robustelli	2412525162126175	Facebook	25_34	25-34	IT	Italy	4	1	23250	5490	68	0
+Salvatore Barbagallo	The Flag srl	428552284374545	Facebook	25_34	25-34	IT	Italy	8	1	22931	6019	215	32
+Andrea Delmastro	Davide Eugenio Zappalà	74110200741	Facebook	25_34	25-34	IT	Italy	9	1	22707	4541	67	0
+CasaPound Italia	CasaPound Italia	193902102841	Facebook	25_34	25-34	IT	Italy	2	1	22640	4528	44	0
+Marco Grimaldi	Marco Grimaldi	619956731519414	Facebook	25_34	25-34	IT	Italy	7	1	22567	4770	88	8
+Giuseppe Civati	Possibile	260348547488	Facebook	25_34	25-34	IT	Italy	2	1	21811	4362	217	43
+Paola Natalicchio	Gianluca Martone	258195327693994	Facebook	25_34	25-34	IT	Italy	15	1	21756	5557	169	0
+Carlo Fidanza		104048831252	Facebook	25_34	25-34	IT	Italy	1	1	21697	10849	21	0
+Fridays For Future Firenze	Lara Cioni 	1971775153129220	Facebook	25_34	25-34	IT	Italy	3	1	21695	4339	59	0
+Antonio Decaro	Antonio Decaro	137412233027116	Facebook	25_34	25-34	IT	Italy	4	1	21618	5284	68	0
+Paolo Demarchi	Paolo Demarchi	1589952367896943	Facebook	25_34	25-34	IT	Italy	3	1	21579	4837	56	0
+Davide Tripodi • Candidato Consigliere Regionale	Davide Tripodi	603284670176818	Facebook	25_34	25-34	IT	Italy	3	1	21465	4788	55	0
+Arianna Verucci Candidata Europee 2019	Arianna Verucci	351797152405843	Facebook	25_34	25-34	IT	Italy	8	1	21297	4578	157	0
+Partito Comunista	Partito Comunista	315768485124369	Facebook	25_34	25-34	IT	Italy	3	1	21137	4227	54	0
+Lorenzo Rubino	Lorenzo Rubino	662979434154518	Facebook	25_34	25-34	IT	Italy	3	1	20851	4113	68	0
+Italian Climate Network		239383456080711	Facebook	25_34	25-34	IT	Italy	1	1	20716	4143	206	41
+Eastwest - Rivista di Geopolitica	Eastwest - Rivista di Geopolitica	186246774846027	Facebook	25_34	25-34	IT	Italy	9	1	20658	7219	154	0
+Percorso Comune - Lista Civica Borgo Valbelluna	Percorso Comune	1486831954785890	Facebook	25_34	25-34	IT	Italy	26	1	20479	3587	449	0
+Matias Eduardo DIAZ Crescitelli	Matias Eduardo Diaz Crescitelli	166286387478761	Facebook	25_34	25-34	IT	Italy	11	1	20165	5938	145	0
+Valeria Di Nino - Candidata M5S Elezioni Europee - Sud	Valeria Di Nino	346634905977977	Facebook	25_34	25-34	IT	Italy	5	1	20152	7242	81	10
+Luigia Marino - detta Gigia		2074498309515123	Facebook	25_34	25-34	IT	Italy	3	1	20131	4026	39	0
+Anthony Candiello - M5S Europa	Antonio Candiello	1416530675315172	Facebook	25_34	25-34	IT	Italy	6	1	20070	4226	80	0
+Cinzia Rubertelli Sindaco	Prati Andrea mandatario elettorale di Rubertelli Cinzia	1409656025962989	Facebook	25_34	25-34	IT	Italy	5	1	20006	4718	146	17
+Movimento Cinque Stelle Recanati	Enrico Gurini	197189740489154	Facebook	25_34	25-34	IT	Italy	7	1	19983	5223	131	0
+Claudio Fochi consigliere M5S	Claudio Fochi	509365529239515	Facebook	25_34	25-34	IT	Italy	7	1	19955	3961	58	0
+Stefano Passarini	Stefano Passarini	573828172688916	Facebook	25_34	25-34	IT	Italy	24	1	19759	4412	174	0
+Roberto Gualtieri	Roberto Gualtieri	659891870744756	Facebook	25_34	25-34	IT	Italy	18	1	19631	4556	118	4
+Dott. Angelo Baldinelli	Angelo Baldinelli 	1174383546076988	Facebook	25_34	25-34	IT	Italy	12	1	19583	4216	184	0
+Andrea Togno - Candidato M5S Elezioni Europee	Andrea Togno	364157860884983	Facebook	25_34	25-34	IT	Italy	11	1	19576	4031	190	13
+Vallì Cipriani in Europa	Lara Braga	318177105538166	Facebook	25_34	25-34	IT	Italy	7	1	19483	4141	107	14
+Matteo Adinolfi	News-24.it	308719606486381	Facebook	25_34	25-34	IT	Italy	8	1	19466	4638	85	0
+Mario Fraccaro Sindaco	Comitato Elettorale Montichiari Futura	397535827746025	Facebook	25_34	25-34	IT	Italy	18	1	19370	5846	387	0
+Te lo spiego	Te lo spiego	1588332844801821	Facebook	25_34	25-34	IT	Italy	1	1	19369	3873	38	0
+Gabriele Molinari		814724875223586	Facebook	25_34	25-34	IT	Italy	2	1	19056	7179	134	26
+Marco Gabusi	RedAbissi srl	1592242764241773	Facebook	25_34	25-34	IT	Italy	3	1	18864	4225	49	0
+Antonio Zennaro		167192463921273	Facebook	25_34	25-34	IT	Italy	1	1	18665	3733	36	0
+Cavezzo Viva - Associazione Culturale	Enrico Malverti	619037048529553	Facebook	25_34	25-34	IT	Italy	4	1	18555	3711	65	0
+Ivana Borsotto Candidata Europee	Ivana Borsotto	388872505296545	Facebook	25_34	25-34	IT	Italy	4	1	18514	4564	59	0
+Susținători USR Italia		677428805754829	Facebook	25_34	25-34	IT	Italy	2	1	18352	7804	78	15
+Partito Animalista Italiano		486228231540331	Facebook	25_34	25-34	IT	Italy	7	1	18289	4911	121	0
+Saverio Romano	Francesco Romano Saverio 	694946377308093	Facebook	25_34	25-34	IT	Italy	3	1	18287	3657	36	0
+Sergio Berlato	Sergio Berlato	227284747464295	Facebook	25_34	25-34	IT	Italy	4	1	18181	4171	86	8
+Gianna Gancia		412209525481643	Facebook	25_34	25-34	IT	Italy	2	1	17662	3532	31	0
+Alberto Bova - Candidato Sindaco	Comitato Elettorale Alberto Bova	146020142780997	Facebook	25_34	25-34	IT	Italy	5	1	17640	3427	90	0
+Luigi Genesio Icardi	Luigi Genesio Icardi	994935290896984	Facebook	25_34	25-34	IT	Italy	7	1	17639	6151	104	0
+Fabrizio Puppo - Il tuo Sindaco	Fabrizio Puppo	2682574781968867	Facebook	25_34	25-34	IT	Italy	6	1	17517	3914	77	0
+Cesanocambia	Stefano Cella	135912986589399	Facebook	25_34	25-34	IT	Italy	2	1	17487	4034	48	0
+Daniele Aiello Sindaco	Daniele Aiello	530978247010864	Facebook	25_34	25-34	IT	Italy	19	1	17430	4259	450	0
+Possibile	Possibile	458027194373390	Facebook	25_34	25-34	IT	Italy	2	1	17297	4302	172	28
+Simone Calamai	Comitato Elettorale Simone Calamai Sindaco per Montemurlo 	389706378444787	Facebook	25_34	25-34	IT	Italy	9	1	17226	7194	217	0
+Monica Cerutti	Monica Cerutti 	331398250994	Facebook	25_34	25-34	IT	Italy	3	1	17102	4887	48	4
+Luca Rossi per la Regione Piemonte	The Flag srl	1505721276316265	Facebook	25_34	25-34	IT	Italy	6	1	17086	3612	62	0
+In Europa con Lucentini	Gloria Medori	191158651730054	Facebook	25_34	25-34	IT	Italy	4	1	16958	3913	51	0
+Mattia Mor	Mattia Mor	191521651334240	Facebook	25_34	25-34	IT	Italy	4	1	16933	3337	57	0
+Patrizia Angeli - Lega	Patrizia Angeli	432523620830705	Facebook	25_34	25-34	IT	Italy	22	1	16909	2965	380	0
+Bianca Verrillo	Bianca Verrillo	597101660767723	Facebook	25_34	25-34	IT	Italy	7	1	16873	4066	75	0
+Andrea Tronzano	The Flag srl	321173954632439	Facebook	25_34	25-34	IT	Italy	7	1	16831	4760	106	13
+Andrea Massari	Comitato Andrea Massari sindaco	1430893473831083	Facebook	25_34	25-34	IT	Italy	7	1	16737	3722	233	25
+Uniamo Prevalle	Luca Belli	571992369975700	Facebook	25_34	25-34	IT	Italy	10	1	16732	4364	180	0
+Simone Contro	Simone Contro 	2123226344608877	Facebook	25_34	25-34	IT	Italy	3	1	16658	3321	37	0
+Ilaria Antelmi	Ilaria Antelmi 	2217881658525706	Facebook	25_34	25-34	IT	Italy	7	1	16575	3817	100	0
+Silvio Gandini	Silvio Gandini	432547143571744	Facebook	25_34	25-34	IT	Italy	3	1	16547	4628	67	0
+MoVimento Cinque Stelle Provincia di Salerno		339297716643	Facebook	25_34	25-34	IT	Italy	2	1	16376	6486	64	10
+Ignazio Corrao		554297734597392	Facebook	25_34	25-34	IT	Italy	1	1	16317	8159	16	0
+BARBARA MATERA	Barbara Matera	78020429052	Facebook	25_34	25-34	IT	Italy	3	1	16156	6978	28	0
+Alessandra Guatteri	Matteo Olivieri	452246258212300	Facebook	25_34	25-34	IT	Italy	16	1	16071	3665	157	0
+Fratelli d'Italia Lecco		368570823769153	Facebook	25_34	25-34	IT	Italy	2	1	16025	3205	31	0
+Clima Europa	Luca Bergamaschi	369195680589481	Facebook	25_34	25-34	IT	Italy	4	1	15978	3501	103	0
+Alessandro Cantù Sindaco di Stradella	Alessandro Cantu	281878469418917	Facebook	25_34	25-34	IT	Italy	1	1	15976	7988	79	15
+Stefania Monteverde in Europa	Stefania Monteverde	2880774605326482	Facebook	25_34	25-34	IT	Italy	5	1	15966	4612	75	0
+Andrea Magnone	Andrea Magnone	371238803484196	Facebook	25_34	25-34	IT	Italy	6	1	15944	3120	114	0
+Luisa De Biasio Calimani	Luisa De Biasio	822662588103237	Facebook	25_34	25-34	IT	Italy	8	1	15760	4415	135	0
+Orizzonti Politici	Giacomo Casali	957667357727417	Facebook	25_34	25-34	IT	Italy	2	1	15553	7315	44	0
+Francesco Ameli	Francesco Ameli	1388198691443350	Facebook	25_34	25-34	IT	Italy	3	1	15536	3107	72	0
+Francesco Mingiardi	Francesco Mingiardi	1556016234698562	Facebook	25_34	25-34	IT	Italy	16	1	15526	3706	327	0
+Carla Franchini	MIRTA QUAGLIAROLI, Mandatario elettorale del candidato  Carla Franchini	686106498236150	Facebook	25_34	25-34	IT	Italy	5	1	15488	3097	70	10
+Sandro Giordani Sindaco	Sandro Giordani	648092968929444	Facebook	25_34	25-34	IT	Italy	9	1	15403	4679	129	0
+Giorgio Pasetto	Giorgio Pasetto 	366506280058857	Facebook	25_34	25-34	IT	Italy	4	1	15292	3039	50	0
+Radici al Futuro - Gianluca Pasqui sindaco	Radici al Futuro	2340434752842917	Facebook	25_34	25-34	IT	Italy	8	1	15026	2985	96	0
+Stefano Ciccone con La Sinistra al Parlamento Europeo	Stefano Ciccone	2125577980861018	Facebook	25_34	25-34	IT	Italy	12	1	14870	4479	115	0
+Civica Asolo - Edoardo Bernini Sindaco	Edoardo Bernini	423376741559971	Facebook	25_34	25-34	IT	Italy	15	1	14691	2911	302	0
+Luca Ciriani	Roberta Pugliese	367042640294086	Facebook	25_34	25-34	IT	Italy	5	1	14682	3819	60	0
+Paolo Ciani - Consigliere Regionale del Lazio DEMOS	Paolo Ciani 	1795607690470395	Facebook	25_34	25-34	IT	Italy	6	1	14648	2889	138	17
+Carlotta Chiaraluce	Paola Chiaraluce 	390354464719591	Facebook	25_34	25-34	IT	Italy	6	1	14645	4032	116	0
+Vincenzo D'Incecco	Vincenzo D'Incecco	262038594455963	Facebook	25_34	25-34	IT	Italy	3	1	14573	3214	62	0
+Forza Italia Civita Castellana	Marco Parroccini	1925031694411257	Facebook	25_34	25-34	IT	Italy	4	1	14547	4833	148	15
+Ezio Casati	Ezio Casati	123524491168686	Facebook	25_34	25-34	IT	Italy	6	1	14521	4012	172	18
+Tiziana Beghin	Valentina Trogu	235501579990278	Facebook	25_34	25-34	IT	Italy	3	1	14418	2883	44	3
+CentroDestra per Calvisano Formentini Sindaco	Francesco Ghidini 	1260229147468988	Facebook	25_34	25-34	IT	Italy	13	1	14396	5066	271	0
+Michele Facci	Alessandro Buscaroli	181747745203690	Facebook	25_34	25-34	IT	Italy	3	1	14308	3070	33	0
+Ilaria Cristiani	Ilaria Cristiani	2204421053005729	Facebook	25_34	25-34	IT	Italy	22	1	14234	4406	326	0
+Mariastella Gelmini	Mariastella Gelmini	303531599691398	Facebook	25_34	25-34	IT	Italy	8	1	14189	4713	118	0
+PD Castelfranco Emilia	Partito Democratico Castelfranco Emilia	504963402964897	Facebook	25_34	25-34	IT	Italy	15	1	14189	3033	198	0
+Francesco Grazzini per Firenze	Francesco Grazzini 	591129664696979	Facebook	25_34	25-34	IT	Italy	2	1	14085	3576	47	0
+Il Cobra	Paolo Perna	554916498291588	Facebook	25_34	25-34	IT	Italy	2	1	14016	2803	59	0
+Paolo Bongioanni Il Kaimano		709856889384078	Facebook	25_34	25-34	IT	Italy	2	1	13970	3620	49	0
+Licia Montagnani “In Comune”	Licia Caprai Montagnani 	401252743774783	Facebook	25_34	25-34	IT	Italy	6	1	13801	4299	83	0
+Alessandro Dal Ri	Alessandro Dal Ri	1420517681335669	Facebook	25_34	25-34	IT	Italy	4	1	13763	2725	119	16
+Osservatorio21	Osservatorio21	191761041227486	Facebook	25_34	25-34	IT	Italy	2	1	13753	2750	52	6
+Partito Democratico Rivoli	Partito Democratico Rivoli	710427272382861	Facebook	25_34	25-34	IT	Italy	30	1	13691	1834	629	0
+Antonella Grossi	Antonella Grossi	1434167880159048	Facebook	25_34	25-34	IT	Italy	2	1	13686	2737	46	0
+Non e' una tv web	Armando Ruggeri	208995173169504	Facebook	25_34	25-34	IT	Italy	1	1	13528	6764	67	13
+Aurelio Tommasetti	Aurelio Tommasetti	1486053308334191	Facebook	25_34	25-34	IT	Italy	5	1	13521	3537	75	0
+Marcello Mezzasalma	Marcello Mezzasalma	2213168762276305	Facebook	25_34	25-34	IT	Italy	19	1	13458	3636	271	0
+Fridays For Future - Forlì	Fridays For Future Forlì	834339196918688	Facebook	25_34	25-34	IT	Italy	4	1	13443	3381	77	0
+Eurac Research	Eurac Research	257660925693	Facebook	25_34	25-34	IT	Italy	2	1	13422	3314	43	0
+Francesca Anastasia Porpiglia -Lega Salvini Premier		798697646865216	Facebook	25_34	25-34	IT	Italy	1	1	13350	2670	26	0
+Andrea Cintorino		1521641604741318	Facebook	25_34	25-34	IT	Italy	2	1	13304	3429	46	0
+Vincenzo Fasano	Enzo Fasano	170701676278225	Facebook	25_34	25-34	IT	Italy	1	1	13233	2646	26	0
+Beatrice Covassi	Beatrice Covassi	813747598798643	Facebook	25_34	25-34	IT	Italy	5	1	13158	2561	168	24
+Alessandro Prandi	Francesco Sancarlo	177700749801108	Facebook	25_34	25-34	IT	Italy	5	1	13135	2627	93	0
+Sergio Silvestris	Sergio Paolo Francesco Silvestris	75581908817	Facebook	25_34	25-34	IT	Italy	1	1	13077	2615	25	0
+OrlandoMagazine.it	Mirco Negri	175566843236682	Facebook	25_34	25-34	IT	Italy	12	1	13074	2443	326	0
+Alessandra Cappellari Candidata LEGA Circoscr. NordOvest Parlamento Europeo	Alessandra Cappellari	923643764466602	Facebook	25_34	25-34	IT	Italy	8	1	12891	3418	124	0
+Leoluca Armigero	Leoluca Armigero	319683335383679	Facebook	25_34	25-34	IT	Italy	4	1	12859	6430	127	0
+Baone Oggi	Associazione Baone Oggi Città Sana	262932047950200	Facebook	25_34	25-34	IT	Italy	21	1	12836	3610	335	0
+Alessandra Moretti	Alessandra Moretti	527503853928339	Facebook	25_34	25-34	IT	Italy	2	1	12764	2553	127	25
+Pietro Frenquellucci - Sindaco di Ascoli	Pietro Frenquellucci 	261799534768509	Facebook	25_34	25-34	IT	Italy	3	1	12695	3703	126	17
+Giovanni Guidi		134845253246587	Facebook	25_34	25-34	IT	Italy	2	1	12550	6227	40	6
+Paola Di Salvatore	Paola Di Salvatore	647488052330193	Facebook	25_34	25-34	IT	Italy	4	1	12429	2485	51	0
+Simona Baldassarre	Simona Baldassarre	407861879769918	Facebook	25_34	25-34	IT	Italy	23	1	12331	3471	152	0
+La Politica che Vorrei		482731548417007	Facebook	25_34	25-34	IT	Italy	1	1	12331	2466	24	0
+Anna Ascani	Anna Ascani	290721534331298	Facebook	25_34	25-34	IT	Italy	4	1	12286	3060	40	0
+Mander in Comune	Paolo Mander	1229328110553008	Facebook	25_34	25-34	IT	Italy	1	1	12266	2453	24	0
+Daniela Calderano		2320156088255183	Facebook	25_34	25-34	IT	Italy	2	1	12216	2401	44	0
+Radicali	Radicali	119200734774774	Facebook	25_34	25-34	IT	Italy	1	1	12184	2437	121	24
+Carmelo Pullara		407709946068669	Facebook	25_34	25-34	IT	Italy	1	1	12129	2425	24	0
+ALBANIA NEWS	ALBANIA NEWS	13287628849	Facebook	25_34	25-34	IT	Italy	2	1	12098	2419	38	0
+Daniele Donati - Candidato Sindaco Rosignano Marittimo	Alice Prinetti	2219898848077663	Facebook	25_34	25-34	IT	Italy	5	1	12086	3326	68	0
+Francesca Pesce - Candidata La Sinistra Europee 2019	Alessandra Lopetrone 	2640039512704689	Facebook	25_34	25-34	IT	Italy	2	1	12075	2415	23	0
+Alessandro Pagano	Vanni Manuel Di Natale	40115309363	Facebook	25_34	25-34	IT	Italy	2	1	12044	2408	23	0
+Alberto Gandolfi		2110630072367366	Facebook	25_34	25-34	IT	Italy	1	1	11978	2395	23	0
+Moet	Stefano Maullu	1427921947227478	Facebook	25_34	25-34	IT	Italy	1	1	11939	5970	59	11
+Galliera c'è - Silvia Guidolin Sindaco	Silvia Guidolin	2688685454538825	Facebook	25_34	25-34	IT	Italy	16	1	11834	2928	215	0
+Lavorare Insieme - Alessia Andreola Sindaco	Alessia Andreola	819808075078522	Facebook	25_34	25-34	IT	Italy	13	1	11757	3655	216	0
+Per Casier - Guardati Sindaco	Simona Guardati	1424962564426141	Facebook	25_34	25-34	IT	Italy	4	1	11606	2621	50	0
+Alfredo Posteraro	SocialCom	408876889953275	Facebook	25_34	25-34	IT	Italy	3	1	11381	2415	93	16
+Damiano Baldini - Candidato Sindaco di Certaldo	Damiano Baldini	1895006077437267	Facebook	25_34	25-34	IT	Italy	3	1	11378	2203	57	0
+Viva Vizzolo Viva	Francesca Maria Michela Lembi 	2467167839968377	Facebook	25_34	25-34	IT	Italy	1	1	11361	2272	22	0
+Partito Democratico di Padova	Partito Democratico di Padova	275657555944127	Facebook	25_34	25-34	IT	Italy	1	1	11290	2258	112	22
+Ivanilde Carvalho	Ivanilde Carvalho 	2199214320158577	Facebook	25_34	25-34	IT	Italy	2	1	11196	3150	46	0
+Cesena2024	Cesena2024	593948501059981	Facebook	25_34	25-34	IT	Italy	2	1	10999	2200	21	0
+Ciccio Rizzo	Francesco Rizzo	370093446404039	Facebook	25_34	25-34	IT	Italy	4	1	10990	2177	61	0
+Filippo Occhipinti - Europee 2019 Sicilia e Sardegna	Francesco Anzelmo	367806660496884	Facebook	25_34	25-34	IT	Italy	4	1	10980	2551	34	0
+Moderati	Giacomo  Portas	726634620770719	Facebook	25_34	25-34	IT	Italy	4	1	10910	2182	24	0
+Elena Vizzotto	Elena Vizzotto	464896850575483	Facebook	25_34	25-34	IT	Italy	4	1	10864	2450	44	0
+Alessandro Moschettini		316528502364462	Facebook	25_34	25-34	IT	Italy	1	1	10795	2159	21	0
+Letizia Balestra		824065491290463	Facebook	25_34	25-34	IT	Italy	1	1	10794	2158	21	0
+Eugenio Casalino Candidato M5S Elezioni Europee	Eugenio Casalino	478151665571968	Facebook	25_34	25-34	IT	Italy	3	1	10497	2432	63	8
+ProVita Onlus	ProVita Onlus	451419891563905	Facebook	25_34	25-34	IT	Italy	2	1	10493	2273	25	0
+Carmelo Fabrizio Bruno		355157898437888	Facebook	25_34	25-34	IT	Italy	1	1	10440	2088	20	0
+Lorenzo Marcucci - Alberto Biancheri Sindaco	Lorenzo Marcucci 	2404996886394857	Facebook	25_34	25-34	IT	Italy	6	1	10384	4322	149	0
+Riccardo Magi	Maria Silvia De Marchi	463407240409640	Facebook	25_34	25-34	IT	Italy	1	1	10366	2073	103	20
+Uniti per Sedico	Alessandro Buzzatti	682443385518643	Facebook	25_34	25-34	IT	Italy	2	1	10350	2693	36	0
+Mercedes Bresso	Mercedes Bresso	50939187984	Facebook	25_34	25-34	IT	Italy	5	1	10246	2660	59	0
+Comiziano 3.0 - La Rinascita dei Valori	Felice Marotta	266177694285351	Facebook	25_34	25-34	IT	Italy	12	1	10244	1740	325	0
+Francesca Donato		620970734652699	Facebook	25_34	25-34	IT	Italy	2	1	10168	2033	20	0
+Simona Salustro - Consigliere Comunale		2330625583882754	Facebook	25_34	25-34	IT	Italy	1	1	10168	2033	20	0
+Anna Marro	Anna Marro	1107701216084060	Facebook	25_34	25-34	IT	Italy	2	1	10115	2023	20	0
+Petizioni.it	Silvano Facchinetti	1410474395723679	Facebook	25_34	25-34	IT	Italy	8	1	10083	4021	207	0
+Valentina Valenti .		861522607524787	Facebook	25_34	25-34	IT	Italy	1	1	9814	1962	19	0
+Lisa Giuggiolini	Dalia Moroni 	1411377252457528	Facebook	25_34	25-34	IT	Italy	2	1	9802	1960	99	19
+E' tempo di Cornaredo - Yuri Santagostino Sindaco		580696152006652	Facebook	25_34	25-34	IT	Italy	1	1	9751	1950	19	0
+Calenzano Futura	Simone Bolognesi	597646537327558	Facebook	25_34	25-34	IT	Italy	13	1	9627	3145	176	0
+Più Europa - Reggio Emilia		172602073650980	Facebook	25_34	25-34	IT	Italy	1	1	9595	1919	16	0
+Carlo Guccione	Gennaro Alessandro Alessio	731200573630420	Facebook	25_34	25-34	IT	Italy	2	1	9593	4158	41	7
+Maria Azzini & Claudio Azzini Più Europa Prato	Maria Claudia Azzini	2412823332279594	Facebook	25_34	25-34	IT	Italy	2	1	9587	3196	52	0
+Marco Campomenosi	Marco Campomenosi 	673109029772554	Facebook	25_34	25-34	IT	Italy	4	1	9554	1835	59	0
+De Luca Sindaco di Messina		148435169066373	Facebook	25_34	25-34	IT	Italy	1	1	9538	1907	18	0
+Movimento Nazionale Salento	Roberto Tundo	110683599694040	Facebook	25_34	25-34	IT	Italy	2	1	9465	2395	32	0
+IBarbari.it	Marco Nuzzi	1557347464572521	Facebook	25_34	25-34	IT	Italy	1	1	9415	1883	18	0
+Eleonora Forenza	Eleonora Forenza	302764019871151	Facebook	25_34	25-34	IT	Italy	5	1	9392	1957	57	0
+Massimiliano Romeo	Massimiliano Romeo	1382868132042683	Facebook	25_34	25-34	IT	Italy	2	1	9373	1874	27	0
+Errico Di Tillio - Anno Zero	Errico Di Tillio	418744215339376	Facebook	25_34	25-34	IT	Italy	9	1	9347	4217	107	0
+Animal Amnesty	Animal Amnesty	443428169034090	Facebook	25_34	25-34	IT	Italy	1	1	9282	1856	18	0
+Bryant Biavaschi	Bryant Biavaschi	1991511351086555	Facebook	25_34	25-34	IT	Italy	1	1	9220	1844	92	18
+PD Palo del Colle	Gabriella Sasso	1578164322435113	Facebook	25_34	25-34	IT	Italy	1	1	9139	1827	18	0
+PD San Giuliano Terme	Partito Democratico San Giuliano Terme	367132786726384	Facebook	25_34	25-34	IT	Italy	7	1	8929	4130	113	0
+Andrea Grassetto, Vicesindaco in Pettorazza Grimani #FdI Rovigo	Andrea Grassetto	454168144686853	Facebook	25_34	25-34	IT	Italy	1	1	8832	1766	17	0
+Amir Atrous		386074905315512	Facebook	25_34	25-34	IT	Italy	1	1	8681	1736	17	0
+Giovanni Paolo Bernini	Luca Perrone	2387532191477889	Facebook	25_34	25-34	IT	Italy	37	1	8588	1318	505	0
+Francesca Peppucci LEGA - per l'Europa	Francesca Peppucci	715083442242859	Facebook	25_34	25-34	IT	Italy	3	1	8568	1869	31	0
+Simone Polesello per il Fvg	Simone Polesello	155754657821240	Facebook	25_34	25-34	IT	Italy	2	1	8556	1879	21	0
+Più EuropAlpi - Gruppo tematico della Montagna	Stefano Morcelli 	600034513671739	Facebook	25_34	25-34	IT	Italy	3	1	8547	3815	99	0
+Empoli Ecologista per Beatrice Cioni sindaco	Giuseppe Pluchino	1323687517793993	Facebook	25_34	25-34	IT	Italy	8	1	8488	3353	113	0
+Raffaele Stancanelli		195210777191994	Facebook	25_34	25-34	IT	Italy	1	1	8392	4196	41	8
+Matteo Franconi #corricon	Matteo Franconi 	396778714394242	Facebook	25_34	25-34	IT	Italy	11	1	8371	2179	149	0
+Faraldi Giuseppe	Giuseppe Faraldi	386214098778099	Facebook	25_34	25-34	IT	Italy	1	1	8345	1669	16	0
+Angela Antonecchia	Angela Antonecchia	523288924866778	Facebook	25_34	25-34	IT	Italy	1	1	8334	1666	16	0
+Popolo della Famiglia Cesena		1565838630397919	Facebook	25_34	25-34	IT	Italy	1	1	8334	1666	16	0
+Giovani Democratici - Circolo di Ravenna		192479774122115	Facebook	25_34	25-34	IT	Italy	1	1	8306	1661	16	0
+Eleonora Cirant per La Sinistra	Eleonora Cirant	277469179829996	Facebook	25_34	25-34	IT	Italy	3	1	8285	1858	27	0
+Matteo Orfini	Matteo Orfini	252959821498182	Facebook	25_34	25-34	IT	Italy	3	1	8196	1639	49	6
+SiAmo Montefalco	Luca Preziosi 	597700853974508	Facebook	25_34	25-34	IT	Italy	4	1	8168	2037	43	0
+Stefano ALLASIA		236105246410631	Facebook	25_34	25-34	IT	Italy	3	1	8105	1621	23	0
+Alberto Morano	Alberto Morano	1247491975279805	Facebook	25_34	25-34	IT	Italy	1	1	7997	1599	79	15
+Antonio Lombardi	Matteo Ramunno	687441404991995	Facebook	25_34	25-34	IT	Italy	2	1	7928	1548	34	0
+Fabrizio Del Serra	Fabrizio Del Serra	2252993028286237	Facebook	25_34	25-34	IT	Italy	2	1	7893	1578	89	13
+Nicoletta Dentico	Nicoletta Dentico	433444330724793	Facebook	25_34	25-34	IT	Italy	14	1	7871	2279	235	0
+Vittorio Barazzotto	Daniele Ghisio	463077060416998	Facebook	25_34	25-34	IT	Italy	4	1	7847	1552	38	0
+Centro Commerciale Girasole	Centro Commerciale Girasole	142657295914359	Facebook	25_34	25-34	IT	Italy	1	1	7782	1556	15	0
+Cristina Cini Lega Prato		306080006739147	Facebook	25_34	25-34	IT	Italy	1	1	7772	1554	15	0
+Die Freiheitlichen (Freiheitliche Partei Südtirol)	Die Freiheitlichen (Freiheitliche Partei Südtirol)	54763854010	Facebook	25_34	25-34	IT	Italy	3	1	7725	2988	105	0
+PD Milano Metropolitana	PD Milano Metropolitana	118624604896108	Facebook	25_34	25-34	IT	Italy	4	1	7622	2335	52	0
+Lista Civica "ProgettiAmo Savignano"	Enrico Tagliavini	2111477435580468	Facebook	25_34	25-34	IT	Italy	8	1	7613	1973	135	0
+Federico Conte	SocialCom	475969889452069	Facebook	25_34	25-34	IT	Italy	1	1	7610	1522	15	0
+Enrico Manfredi	Enrico Manfredi	692273104200743	Facebook	25_34	25-34	IT	Italy	7	1	7582	1487	64	0
+Maria Angela Danzì	Maria Angela Danzì	2159331584155901	Facebook	25_34	25-34	IT	Italy	3	1	7506	3546	37	6
+Altaforte Edizioni	Altaforte Edizioni	1309925725776765	Facebook	25_34	25-34	IT	Italy	2	1	7495	1956	26	0
+Giuseppe Sanò, l'accento sulle tue battaglie	Giuseppe Sanò	555556694829630	Facebook	25_34	25-34	IT	Italy	3	1	7460	2201	43	0
+Livia Caldesi	Livia Caldesi 	280159089588950	Facebook	25_34	25-34	IT	Italy	5	1	7450	1490	33	0
+ELSA Italy	ELSA Italy	192576164180806	Facebook	25_34	25-34	IT	Italy	1	1	7361	1472	14	0
+Chiara Mancini	Chiara Mancini	2340086416260521	Facebook	25_34	25-34	IT	Italy	5	1	7333	3571	89	0
+Andrea Palumbo MoVimento 5 Stelle	Andrea Palumbo	317575285586649	Facebook	25_34	25-34	IT	Italy	5	1	7279	1423	97	12
+CasaPound Italia Siena	Sergio Fucito	178495252190185	Facebook	25_34	25-34	IT	Italy	1	1	7262	1452	14	0
+Daniela Rondinelli	Daniela Rondinelli	2589232681091659	Facebook	25_34	25-34	IT	Italy	1	1	7262	1452	72	14
+Giuseppe Barbaro	Giuseppe Barbaro	407842313101083	Facebook	25_34	25-34	IT	Italy	12	1	7248	1900	154	0
+Luigi Catalano	Luigi Catalano	1810735125895007	Facebook	25_34	25-34	IT	Italy	9	1	7203	2487	115	0
+Marco Racca	Marco Racca	1568071770119902	Facebook	25_34	25-34	IT	Italy	22	1	7200	1001	316	0
+Mihai Popescu	Mihai Popescu	314642105407665	Facebook	25_34	25-34	IT	Italy	7	1	7172	1113	269	0
+Mario Giro		375439559534277	Facebook	25_34	25-34	IT	Italy	1	1	7110	1422	14	0
+Michele Abbaticchio  Sindaco	Michele Abbaticchio	275806792494637	Facebook	25_34	25-34	IT	Italy	1	1	7075	1415	14	0
+Federica Lorenzi candidata al consiglio  comunale di Follonica 2019	Federica Lorenzi	1679013738868620	Facebook	25_34	25-34	IT	Italy	1	1	7068	1413	13	0
+Assieme per Cambiare	Remo Zaminato	685647088140579	Facebook	25_34	25-34	IT	Italy	10	1	6979	2557	199	0
+Insieme per Tuscania - Regino Brachetti Sindaco	Pier Paolo Pallassini 	389035505273421	Facebook	25_34	25-34	IT	Italy	3	1	6934	1705	35	0
+Dafne Musolino in Europa		361760767564336	Facebook	25_34	25-34	IT	Italy	1	1	6888	1377	13	0
 Fabrizio Ferrandelli		73230810464	Facebook	25_34	25-34	IT	Italy	1	1	6852	3426	34	6
-Cosimo Guccione per Firenze	Cosimo Guccione	1425237984394334	Facebook	25_34	25-34	IT	Italy	4	1	6510	1191	172	0
-Donato Forcillo - candidato Parlamento Europeo M5S - Sardegna/Sicilia	Donato Forcillo	348043952450383	Facebook	25_34	25-34	IT	Italy	22	1	6490	1115	200	0
-Federica Picchi	Federica Picchi	362494797700891	Facebook	25_34	25-34	IT	Italy	7	1	6007	1186	31	0
-Partito del Socialismo Europeo	Partito del Socialismo Europeo	1891926127734235	Facebook	25_34	25-34	IT	Italy	1	1	6005	3002	59	0
-Aldo Patriciello	Aldo Patriciello	40645773554	Facebook	25_34	25-34	IT	Italy	1	1	5933	1186	11	0
-Lorenzo Vignali	Lorenzo Vignali	229114191886	Facebook	25_34	25-34	IT	Italy	16	1	5850	0	579	0
-Andrea Cozzolino	Andrea Cozzolino	1449151341981719	Facebook	25_34	25-34	IT	Italy	2	1	5839	1292	14	0
-Isabella De Monte	Walter Godina - Mandatario Elettorale di Isabella De Monte	152661171597544	Facebook	25_34	25-34	IT	Italy	8	1	5326	1695	41	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	25_34	25-34	IT	Italy	4	1	5124	1982	8	0
-Genova che osa	Genova che osa	1538926219695299	Facebook	25_34	25-34	IT	Italy	2	1	4896	1966	64	0
-Furio Honsell	Davide Bressan	534334929944459	Facebook	25_34	25-34	IT	Italy	1	1	4885	977	9	0
-Giacomo Galazzo	Giacomo Galazzo	338070350178263	Facebook	25_34	25-34	IT	Italy	2	1	4867	2403	53	0
-Giosi Ferrandino	Giosi Ferrandino	141856142632410	Facebook	25_34	25-34	IT	Italy	2	1	4828	965	12	0
-MoVimento 5 Stelle	MoVimento 5 Stelle	174457180812	Facebook	25_34	25-34	IT	Italy	1	1	4731	946	9	0
-Virginia Puzzolo	Virginia Puzzolo	1950051888380307	Facebook	25_34	25-34	IT	Italy	8	1	4701	853	127	0
-Nicola Caputo	Nicola Caputo	1439514556290274	Facebook	25_34	25-34	IT	Italy	4	1	4590	2073	61	0
-Matilde Montaudo, cittadina a 5 stelle	Matilde Ada Montaudo	492569564129501	Facebook	25_34	25-34	IT	Italy	5	1	4519	2144	48	0
-Marcello Mezzasalma	Marcello Mezzasalma	2213168762276305	Facebook	25_34	25-34	IT	Italy	5	1	4500	1401	90	0
-Rosanna Conte	Rosanna Conte - Candidata della Lega	1035757379850845	Facebook	25_34	25-34	IT	Italy	4	1	4459	806	122	0
-Anna Maria Bernini	Anna Maria Bernini	146169045979888	Facebook	25_34	25-34	IT	Italy	5	1	4354	1368	69	0
-Andrea Vannucci per Firenze	Andrea Vannucci	547494135363560	Facebook	25_34	25-34	IT	Italy	7	1	4213	1236	81	0
-Fratelli d'Italia	Fratelli d'Italia	355710427861591	Facebook	25_34	25-34	IT	Italy	1	1	4163	2081	20	4
-Partito Democratico Rivoli	Partito Democratico Rivoli	710427272382861	Facebook	25_34	25-34	IT	Italy	14	1	4078	0	404	0
-Lavorare Insieme - Alessia Andreola Sindaco	Alessia Andreola	819808075078522	Facebook	25_34	25-34	IT	Italy	3	1	4003	1729	56	0
-Lorenzo Cesa	Lorenzo Cesa	538632706513878	Facebook	25_34	25-34	IT	Italy	8	1	3919	736	96	0
-Valeria Di Nino - Candidata M5S Elezioni Europee - Sud	Valeria Di Nino	346634905977977	Facebook	25_34	25-34	IT	Italy	1	1	3685	737	7	0
-Sosventurini	Antonfrancesco Venturini 	405956940133035	Facebook	25_34	25-34	IT	Italy	2	1	3626	1342	51	0
-Alessandro Fusacchia	Alessandro Fusacchia	1045017942325647	Facebook	25_34	25-34	IT	Italy	2	1	3330	666	44	4
-Galliera c'è - Silvia Guidolin Sindaco	Silvia Guidolin	2688685454538825	Facebook	25_34	25-34	IT	Italy	5	1	3321	623	82	0
-Matteo Biffoni	Comitato elettorale Matteo Biffoni Sindaco.	1447603378788857	Facebook	25_34	25-34	IT	Italy	5	1	3317	643	73	0
-Alessandra Guatteri	Matteo Olivieri	452246258212300	Facebook	25_34	25-34	IT	Italy	5	1	3312	662	65	0
-Antonio Castello	Antonio Castello	452764018806467	Facebook	25_34	25-34	IT	Italy	3	1	3236	1538	46	0
-Paolo De Castro	Paolo De Castro	441907505922632	Facebook	25_34	25-34	IT	Italy	4	1	3233	615	32	0
-Carlo Guccione	Gennaro Alessandro Alessio	731200573630420	Facebook	25_34	25-34	IT	Italy	1	1	3210	642	6	0
-Stefano Ciccone con La Sinistra al Parlamento Europeo	Stefano Ciccone	2125577980861018	Facebook	25_34	25-34	IT	Italy	4	1	3173	1016	50	0
-Simona Bonafè	Simona Bonafè	145437958954905	Facebook	25_34	25-34	IT	Italy	4	1	3161	1028	36	3
-Marco Racca	Marco Racca	1568071770119902	Facebook	25_34	25-34	IT	Italy	12	1	3104	319	180	0
-Ilaria Cristiani	Ilaria Cristiani	2204421053005729	Facebook	25_34	25-34	IT	Italy	10	1	3005	373	149	0
-Sinistra per Calenzano	Simone Giuntini	2502767379948983	Facebook	25_34	25-34	IT	Italy	4	1	2971	1329	43	0
-Lorenzo Gasperini per la Toscana	Lorenzo Gasperini	230235480357105	Facebook	25_34	25-34	IT	Italy	10	1	2947	409	129	0
-Matteo Gagliasso	Matteo Gagliasso	1546887325441954	Facebook	25_34	25-34	IT	Italy	2	1	2927	585	57	0
-Cesanocambia	Stefano Cella	135912986589399	Facebook	25_34	25-34	IT	Italy	1	1	2923	1461	28	0
-PD Castelfranco Emilia	Partito Democratico Castelfranco Emilia	504963402964897	Facebook	25_34	25-34	IT	Italy	10	1	2884	363	141	0
-Civica Asolo - Edoardo Bernini Sindaco	Edoardo Bernini	423376741559971	Facebook	25_34	25-34	IT	Italy	3	1	2849	570	56	0
-Dante Cattaneo	Dante Cattaneo	256298824546192	Facebook	25_34	25-34	IT	Italy	7	1	2760	923	54	0
-Nadia Sgro	Nadia Sgro	276613263243127	Facebook	25_34	25-34	IT	Italy	4	1	2647	529	52	0
-Antonio Giampietro - Non vedo che Bari	Antonio Giampietro	456495818216210	Facebook	25_34	25-34	IT	Italy	4	1	2405	333	106	0
-Pierfrancesco Majorino	Pierfrancesco Majorino	194123260626794	Facebook	25_34	25-34	IT	Italy	3	1	2391	514	26	0
-Sergio Panero • Candidato Sindaco di Bra	Sergio Panero	1196580340519958	Facebook	25_34	25-34	IT	Italy	2	1	2359	471	46	0
-Assieme per Cambiare	Remo Zaminato	685647088140579	Facebook	25_34	25-34	IT	Italy	6	1	2340	246	134	0
-Nicola Fratoianni	Nicola Fratoianni	116181541819083	Facebook	25_34	25-34	IT	Italy	1	1	2319	1159	22	0
-Antonella Grossi	Antonella Grossi	1434167880159048	Facebook	25_34	25-34	IT	Italy	2	1	2299	459	45	0
-Avanti Insieme con Alberto Biancheri	Alberto Biancheri - Mandatario elettorale  Mauro Giancaterino	365574947366570	Facebook	25_34	25-34	IT	Italy	2	1	2283	1012	45	0
-Elena Gentile	Elena Gentile	1426435657576038	Facebook	25_34	25-34	IT	Italy	2	1	2251	986	26	0
-Partito Democratico di Padova	Partito Democratico di Padova	275657555944127	Facebook	25_34	25-34	IT	Italy	1	1	2198	1099	21	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	25_34	25-34	IT	Italy	1	1	2190	1095	5	1
-CentroDestra per Calvisano Formentini Sindaco	Francesco Ghidini 	1260229147468988	Facebook	25_34	25-34	IT	Italy	2	1	2184	437	43	0
+Alfonso Pisicchio	Natale Pisicchio	644803135590917	Facebook	25_34	25-34	IT	Italy	5	1	6815	1989	41	0
+Claudia Pagliariccio	CasaPound Italia L'Aquila	1748593245471149	Facebook	25_34	25-34	IT	Italy	8	1	6810	1362	134	0
+Riccardo Meloni	Riccardo Meloni	2296269550654817	Facebook	25_34	25-34	IT	Italy	1	1	6757	1351	13	0
+Virginia Tiraboschi - Senatore della Repubblica Italiana	Redhab	855225931312085	Facebook	25_34	25-34	IT	Italy	7	1	6686	3144	93	0
+Alessandro Fusacchia	Alessandro Fusacchia	1045017942325647	Facebook	25_34	25-34	IT	Italy	2	1	6629	3314	44	4
+Sandro Fallani		761430343932599	Facebook	25_34	25-34	IT	Italy	1	1	6611	1322	13	0
+Vita a Sesto San Giovanni		480907805979745	Facebook	25_34	25-34	IT	Italy	3	1	6565	1598	69	10
+EuropaVerde - Comitato VDA Possibile	Fabio Protasoni	1072259289458677	Facebook	25_34	25-34	IT	Italy	1	1	6545	1309	12	0
+Maria Gabriella Branca	Luigi Lanza	2340721186159322	Facebook	25_34	25-34	IT	Italy	4	1	6486	2160	49	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	25_34	25-34	IT	Italy	5	1	6483	2238	24	2
+Daniele Tromboni M5S candidato al Parlamento Europeo	Daniele Tromboni	1772378256414400	Facebook	25_34	25-34	IT	Italy	5	1	6479	1600	69	9
+Ulderica Mennella Candidata M5S Europee 2019	Ulderica Mennella	625269920909140	Facebook	25_34	25-34	IT	Italy	1	1	6359	1271	12	0
+Fabio Miotti	Fabio Miotti	524584857986270	Facebook	25_34	25-34	IT	Italy	4	1	6357	2761	82	0
+Andrea Raimondi - Candidato Consigliere	Andrea Raimondi	2012555235705769	Facebook	25_34	25-34	IT	Italy	5	1	6343	2487	103	0
+Chiesina Uzzanese e le Sue Frazioni	Carlo Cortesi 	893566094376642	Facebook	25_34	25-34	IT	Italy	6	1	6314	2474	106	0
+Massimo Amato	Antonio Pandolfi 	318216598868880	Facebook	25_34	25-34	IT	Italy	5	1	6290	1363	52	0
+LEALI per Lagonegro	Nicola Giampietro	612616479163218	Facebook	25_34	25-34	IT	Italy	3	1	6120	1206	35	0
+Movimento Cinque Stelle Folignano	Diego Di Ovidio	363976727107282	Facebook	25_34	25-34	IT	Italy	11	1	6072	1081	173	0
+Fridays for Future - Padova	Leonardo Basso	264120211150371	Facebook	25_34	25-34	IT	Italy	1	1	5941	1188	11	0
+Karim Elezioni Europee 2019	Abdelkarim Hannachi	435552740346706	Facebook	25_34	25-34	IT	Italy	1	1	5927	1185	11	0
+Andrea Soddu Sindaco	Andrea Soddu	1438178299829574	Facebook	25_34	25-34	IT	Italy	11	1	5916	1284	61	0
+Piero Graglia Elezioni Europee 2019 Italia Nord-Ovest	Piero Graglia	2258521850853616	Facebook	25_34	25-34	IT	Italy	1	1	5889	1177	58	11
+Rosaria Talarico - Candidata Parlamento europeo - Elezioni europee 2019	Rosaria Talarico	612175085913846	Facebook	25_34	25-34	IT	Italy	5	1	5887	2611	69	0
+Graziano Frigeri Blog	Graziano Frigeri	102686153435265	Facebook	25_34	25-34	IT	Italy	3	1	5860	1618	23	0
+Michele Lestingi		979692388837563	Facebook	25_34	25-34	IT	Italy	1	1	5838	1167	10	0
+Iris Babilonia	Irene Usbergo	982135161844386	Facebook	25_34	25-34	IT	Italy	2	1	5811	1162	115	0
+Arcigay "Marcella Di Folco" Salerno	Francesco Napoli	136110113119570	Facebook	25_34	25-34	IT	Italy	4	1	5690	1066	141	0
+Massimiliano Panero	Massimiliano Panero	399924110841613	Facebook	25_34	25-34	IT	Italy	1	1	5669	1133	11	0
+Dmitrij Palagi	Benedetto Pietro Casu	633923633714551	Facebook	25_34	25-34	IT	Italy	3	1	5658	2269	97	0
+Franco Roberti	Giovanni Russo	2160332307392430	Facebook	25_34	25-34	IT	Italy	1	1	5658	1131	11	0
+Alberti-Faltoni per Biffoni Sindaco Prato	All You srl	2219952391599970	Facebook	25_34	25-34	IT	Italy	7	1	5657	1006	84	0
+Stato Moderno Solidale SMS	Silvana Arbia	328435687818104	Facebook	25_34	25-34	IT	Italy	4	1	5597	1119	55	0
+Viviana Dal Cin	Paolo Menis	290866805146864	Facebook	25_34	25-34	IT	Italy	2	1	5539	1349	17	0
+Rivivere Borgo con Sunil Pellanda Sindaco	Sunil Pellanda	592540437929912	Facebook	25_34	25-34	IT	Italy	9	1	5483	875	196	0
+Fridays For Future Torino - Italy	Luca Sardo	374899703056927	Facebook	25_34	25-34	IT	Italy	2	1	5469	1081	17	0
+Laura Agea Portavoce Eurodeputata M5S	Laura Agea Portavoce Eurodeputata M5S	1423738397876993	Facebook	25_34	25-34	IT	Italy	1	1	5298	2649	26	5
+Monica Baldi	All You srl	69478849984	Facebook	25_34	25-34	IT	Italy	1	1	5297	1059	52	10
+Paola Tassi Candidato Consigliere Comunale, Prato	All You srl	1115467311846781	Facebook	25_34	25-34	IT	Italy	1	1	5284	1056	10	0
+Dino Rinoldi	Dino Guido Rinoldi	341359643405970	Facebook	25_34	25-34	IT	Italy	7	1	5280	1594	112	0
+Luca Tani		269431227189188	Facebook	25_34	25-34	IT	Italy	1	1	5257	1051	52	10
+Misfancy	Francesca Antonucci	1335596166495083	Facebook	25_34	25-34	IT	Italy	2	1	5240	2160	67	0
+Roberto Calderoli	Roberto Calderoli	31662384470	Facebook	25_34	25-34	IT	Italy	2	1	5186	1037	10	0
+Tommaso Grassi	Tommaso Grassi	152990974745578	Facebook	25_34	25-34	IT	Italy	7	1	5164	971	126	0
+Avanti Insieme con Alberto Biancheri	Alberto Biancheri - Mandatario elettorale  Mauro Giancaterino	365574947366570	Facebook	25_34	25-34	IT	Italy	4	1	5136	2189	78	0
+Pescara Città Aperta	Stefano D'Aquino	2239558226358722	Facebook	25_34	25-34	IT	Italy	1	1	5126	1025	10	0
+Supporter di Stefania Calcagno	Silvia Calcagno	2152837134785115	Facebook	25_34	25-34	IT	Italy	3	1	5123	1141	28	0
+Sense Mesura		1606564102740842	Facebook	25_34	25-34	IT	Italy	43	1	5108	0	506	0
+Progetto Salò	Massimo De Tommaso	312137638926386	Facebook	25_34	25-34	IT	Italy	5	1	5106	952	128	0
+Fridays For Future Treviso	Ettore Casellato	1893610467414052	Facebook	25_34	25-34	IT	Italy	3	1	5068	1379	88	0
+Martina Riva	Martina Riva	171834776542782	Facebook	25_34	25-34	IT	Italy	5	1	5059	1340	142	0
+Concetta Maestrini	Concetta Maestrini	798253917216096	Facebook	25_34	25-34	IT	Italy	1	1	5032	1006	9	0
+Elena Mazzoni - Candidata Parlamento Europeo Circoscrizione Nord-Est	Elena Mazzoni 	2030992680362076	Facebook	25_34	25-34	IT	Italy	4	1	5017	1294	27	0
+Roberta Mori | Pagina Ufficiale	Roberta Mori	147196482067133	Facebook	25_34	25-34	IT	Italy	3	1	4992	2367	35	3
+Tommaso Cenciarelli Sindaco	Massimo Carletti	564374430658475	Facebook	25_34	25-34	IT	Italy	5	1	4977	1462	94	0
+Giovani Democratici Bologna	Giovani Democratici Bologna	473744446074107	Facebook	25_34	25-34	IT	Italy	3	1	4972	994	98	0
+Gianni Fabbris candidato alle elezioni Europee 2019	Giovanni Fabbris	324957644589591	Facebook	25_34	25-34	IT	Italy	9	1	4927	1389	110	0
+CLAYTON		122493385103	Facebook	25_34	25-34	IT	Italy	1	1	4913	2456	48	0
+PiùEuropa Verona	Area Liberal	1675149212549602	Facebook	25_34	25-34	IT	Italy	4	1	4867	1410	81	0
+MiglioriAmo Fidenza	Daniele Aiello	704187586308052	Facebook	25_34	25-34	IT	Italy	7	1	4861	972	96	0
+L'isola Che Vorrei	L'Isola che Vorrei	777285802655412	Facebook	25_34	25-34	IT	Italy	4	1	4858	971	96	0
+Partito Democratico Piemonte	Giulia Balbo	347359068737044	Facebook	25_34	25-34	IT	Italy	7	1	4786	1461	78	0
+In Dalmine Lista Civica	InDalmine Lista Civica	599505630096703	Facebook	25_34	25-34	IT	Italy	6	1	4737	1985	59	0
+Francesca Gambarini	Annarita Cacciamani 	1473558732874837	Facebook	25_34	25-34	IT	Italy	9	1	4730	853	130	0
+Circolo PD Poggioreale	Pasquale Incarnato	1520837368213581	Facebook	25_34	25-34	IT	Italy	1	1	4725	945	9	0
+Popolo della Famiglia - Lazio	Guido Pianeselli 	356312904827073	Facebook	25_34	25-34	IT	Italy	2	1	4659	931	46	9
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	25_34	25-34	IT	Italy	3	1	4637	926	9	0
+Paolo Negro	Paolo Negro	1041791536022579	Facebook	25_34	25-34	IT	Italy	7	1	4606	881	107	0
+Lega Giovani Milano	Lorenzo Clementi	595708403896777	Facebook	25_34	25-34	IT	Italy	1	1	4497	899	8	0
+Antonio Sacchi candidato consigliere comunale	Antonio Sacchi	1579919362232744	Facebook	25_34	25-34	IT	Italy	1	1	4467	893	8	0
+Centro sinistra per Rolo	Luca Nasi 	240937119441133	Facebook	25_34	25-34	IT	Italy	16	1	4401	239	341	0
+Jessy_YR	Jessica Testi	341688166468282	Facebook	25_34	25-34	IT	Italy	6	1	4399	1416	122	0
+Offida Solidarietà e Democrazia	Luigi Massa	210831259107734	Facebook	25_34	25-34	IT	Italy	5	1	4396	879	87	0
+Arci Torino	Arci Torino	1521404598105232	Facebook	25_34	25-34	IT	Italy	4	1	4297	1385	67	0
+Laura Puppato	Laura Puppato	172965536126348	Facebook	25_34	25-34	IT	Italy	1	1	4251	850	42	8
+Ripamonti Sindaco - Lega Usmate Velate	Francesca Capaccioli	425444267476044	Facebook	25_34	25-34	IT	Italy	9	1	4232	681	149	0
+Fratelli d'Italia Sondrio - Alto lago	Marco Masetti	771132936567349	Facebook	25_34	25-34	IT	Italy	5	1	4169	1390	36	0
+Federico Gianassi	Federico Gianassi	411416352982060	Facebook	25_34	25-34	IT	Italy	7	1	4125	1505	62	0
+La Sinistra Lazio	Carlo Tarantola	326405431406323	Facebook	25_34	25-34	IT	Italy	7	1	4101	1348	43	0
+Onda - Recco	Onda - Recco	538021029594910	Facebook	25_34	25-34	IT	Italy	5	1	4100	820	81	0
+Forza Italia Fidenza	Annarita Cacciamani 	137907152910910	Facebook	25_34	25-34	IT	Italy	9	1	4086	617	160	0
+Bengasi Battisti	Carla Gambale	1234886286582199	Facebook	25_34	25-34	IT	Italy	8	1	4044	1054	84	0
+Morena Ferrario Sindaco di Castano Primo	Daniele Rivolta 	2198059560442881	Facebook	25_34	25-34	IT	Italy	2	1	4040	1213	18	0
+Forza Italia Pontedera	Alessandro Tantussi	398070784329706	Facebook	25_34	25-34	IT	Italy	13	1	4021	729	109	0
+Simone Coco	Simone Coco	1729365230675773	Facebook	25_34	25-34	IT	Italy	4	1	4013	802	79	0
+Lorenzo Rizzo	Lorenzo Rizzo 	2209384219127782	Facebook	25_34	25-34	IT	Italy	6	1	3976	1038	90	0
+Matteo Melato - Lega Reggio Emilia	Matteo Melato 	539466976169977	Facebook	25_34	25-34	IT	Italy	3	1	3967	1449	56	0
+Paolo Apostoli - Candidato Consigliere per la lista "Scelgo Botticino"	Paolo Apostoli 	648340045592828	Facebook	25_34	25-34	IT	Italy	2	1	3949	1663	49	0
+Remo Sernagiotto	Remo Sernagiotto	58158193107	Facebook	25_34	25-34	IT	Italy	1	1	3869	773	7	0
+Alberto Biancheri Sindaco	Alberto Biancheri - Mandatario elettorale Mauro Giancaterino	1465222783619463	Facebook	25_34	25-34	IT	Italy	4	1	3847	1261	75	0
+Gian Franco Uni	Gian Franco Uni	393361681500975	Facebook	25_34	25-34	IT	Italy	3	1	3829	1476	52	0
+PD Giulianova per Filipponi Sindaco	Partito Democratico Giulianova	890311534646092	Facebook	25_34	25-34	IT	Italy	3	1	3823	1665	45	0
+Per fortuna sono bianco	Maurizio Chierici	1698573850469214	Facebook	25_34	25-34	IT	Italy	8	1	3801	748	80	0
+Alice Roberto - Candidato Consigliere M5S Regione Piemonte		357828934776045	Facebook	25_34	25-34	IT	Italy	2	1	3743	733	14	0
+MalnateSostenibile	Lista civica Malnate Sostenibile	397809613568460	Facebook	25_34	25-34	IT	Italy	8	1	3616	611	115	0
+Centrosinistra per Sinalunga con Edo Zacchei Sindaco	Partito Democratico Siena	629810123784822	Facebook	25_34	25-34	IT	Italy	6	1	3599	991	96	0
+Italia in Comune Como	Mirko Paulon	2285746711688772	Facebook	25_34	25-34	IT	Italy	4	1	3577	1704	50	0
+Marco Masetti FDI	Marco Masetti	1733765430264000	Facebook	25_34	25-34	IT	Italy	1	1	3561	712	7	0
+La Strada Nuova di Stradella con Mattia Grossi Sindaco	La Strada Nuova per Stradella	197536790434998	Facebook	25_34	25-34	IT	Italy	3	1	3517	703	69	0
+Nicola Silvestrini	Nicola Silvestrini	2291096004437093	Facebook	25_34	25-34	IT	Italy	5	1	3501	683	75	0
+Più Europa - Cagliari	Riccardo Lo Monaco	368003026980476	Facebook	25_34	25-34	IT	Italy	2	1	3493	680	15	0
+Angelo Attaguile	Angelo Attaguile	1549325232064602	Facebook	25_34	25-34	IT	Italy	3	1	3491	1305	22	0
+Gianluca Daniele	Pasquale Incarnato	1561559094125855	Facebook	25_34	25-34	IT	Italy	1	1	3447	689	6	0
+Felice Zingarelli - Teknopolitica	Felice Zingarelli	1412293382368685	Facebook	25_34	25-34	IT	Italy	2	1	3356	1219	48	0
+Daniele Di Lucrezia		772761096175448	Facebook	25_34	25-34	IT	Italy	2	1	3304	1615	39	0
+MIRA Visionary Concept	Giuseppe Fontana	548657991991295	Facebook	25_34	25-34	IT	Italy	2	1	3278	1460	64	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	25_34	25-34	IT	Italy	2	1	3248	1307	26	1
+Filippo Castaldini	Filippo Castaldini	1826573307577564	Facebook	25_34	25-34	IT	Italy	3	1	3226	645	63	0
+Elezioni Comunali 2019	Matteo Bregonzio	246565882877008	Facebook	25_34	25-34	IT	Italy	8	1	3222	566	94	0
+Roberta Paparatto	Federica Giussani 	2064143477017827	Facebook	25_34	25-34	IT	Italy	2	1	3218	1483	54	0
+Claudio Taglia		216535025570291	Facebook	25_34	25-34	IT	Italy	1	1	3208	1604	31	0
+Partito Animalista Europeo		526901760669684	Facebook	25_34	25-34	IT	Italy	1	1	3204	640	6	0
+Democratici Civici Muggiò	Democratici Civici - Muggiò con Testa	2191838891068698	Facebook	25_34	25-34	IT	Italy	4	1	3196	1079	48	0
+Michele Carini - Candidato Lega Gubbio	Michele Carini	2159934824101645	Facebook	25_34	25-34	IT	Italy	3	1	3172	1153	59	0
+Domenico Damascelli	Domenico Damascelli	62617453081	Facebook	25_34	25-34	IT	Italy	5	1	3122	595	73	0
+Lista Civica Rinascita Grottese	Lista Civica Rinascita Grottese	2075406492758580	Facebook	25_34	25-34	IT	Italy	4	1	3116	532	97	0
+Michela Giuliani - Lega Foligno	Michela Giuliani 	977482079125273	Facebook	25_34	25-34	IT	Italy	2	1	3071	1277	38	0
+Fabio Amendolara	Fabio Amendolara	122191987831675	Facebook	25_34	25-34	IT	Italy	11	1	3016	569	73	0
+Roberto Morassut		1659017274371990	Facebook	25_34	25-34	IT	Italy	1	1	3011	602	5	0
+PD Bovisio Masciago	Circolo Partito Democratico Bovisio Masciago	415837031877100	Facebook	25_34	25-34	IT	Italy	7	1	2986	477	106	0
+Sanremo al Centro	Alberto Biancheri - Mandatario elettorale Mauro Giancaterino	688834634807723	Facebook	25_34	25-34	IT	Italy	3	1	2986	1130	54	0
+TIWI studio	TIWI studio 	646910878750333	Facebook	25_34	25-34	IT	Italy	2	1	2965	593	58	0
+Insieme per Agrate	Insieme per Agrate	171167496341020	Facebook	25_34	25-34	IT	Italy	5	1	2929	461	107	0
+Luigi Augussori - Senatore Lega	Luigi Augussori 	286548979095	Facebook	25_34	25-34	IT	Italy	3	1	2902	1451	28	0
+Elena Piastra	Elena Piastra	280700035833011	Facebook	25_34	25-34	IT	Italy	2	1	2896	1448	28	0
+Vezzano di Tutti	Annarita Bergianti 	653038495167238	Facebook	25_34	25-34	IT	Italy	3	1	2871	959	44	0
+Lorenzo Barbero	Lorenzo Barbero	440209609853221	Facebook	25_34	25-34	IT	Italy	2	1	2805	1240	33	0
+Flavio Tosi - Verona	Flavio Tosi	438871629962518	Facebook	25_34	25-34	IT	Italy	3	1	2799	975	41	0
+Marco Mandarini	marco mandarini	1441050372807502	Facebook	25_34	25-34	IT	Italy	2	1	2794	1147	35	0
+Anna Maria Costanza Rozzi	Giorgio Alessandro Bruni	298754967688214	Facebook	25_34	25-34	IT	Italy	2	1	2784	540	13	0
+Avv. Roberto Amati	Roberto Amati	1434465536577273	Facebook	25_34	25-34	IT	Italy	1	1	2783	556	5	0
+Otto Mahlknecht	Otto Mahlknecht 	106077056742524	Facebook	25_34	25-34	IT	Italy	4	1	2760	1076	52	0
+Riformatori Sardi - Liberaldemocratici	Riformatori Sardi - Liberaldemocratici	113804762009156	Facebook	25_34	25-34	IT	Italy	5	1	2737	849	44	0
+Ambasciata di Sardegna	Stefano Maullu	173786969363481	Facebook	25_34	25-34	IT	Italy	1	1	2736	1368	13	2
+Per Chiesina Uzzanese	Per Chiesina Uzzanese - Di Nuovo Insieme	1402850209999395	Facebook	25_34	25-34	IT	Italy	3	1	2726	499	72	0
+Leonardo Ciaccio al Parlamento europeo	Roberto Enrique Briceno Garcia 	669384646828910	Facebook	25_34	25-34	IT	Italy	4	1	2721	984	39	0
+Lia Montalti	Lia Montalti	1490311121245235	Facebook	25_34	25-34	IT	Italy	6	1	2718	512	66	0
+I vote Europe		608176689275464	Facebook	25_34	25-34	IT	Italy	1	1	2671	1335	26	0
+Paola Sardella per Montesilvano	Paola Sardella	391653771685610	Facebook	25_34	25-34	IT	Italy	10	1	2629	299	141	0
+Luca Saccone	Luca Saccone	319405328700156	Facebook	25_34	25-34	IT	Italy	1	1	2618	1309	25	0
+Forlì Solidale e Verde	Forlì Solidale e Verde	1113421388830085	Facebook	25_34	25-34	IT	Italy	2	1	2604	1210	28	0
+Marco Cardona	Marco Cardona	249206709289799	Facebook	25_34	25-34	IT	Italy	3	1	2599	934	37	0
+Massimiliano Fedriga	Massimiliano Panizzut	128092225392	Facebook	25_34	25-34	IT	Italy	3	1	2575	515	51	0
+Massimiliano Pompignoli	Massimiliano Pompignoli	575901269205920	Facebook	25_34	25-34	IT	Italy	3	1	2559	1012	34	0
+Paolo Siani	Paolo Siani	1821913614485612	Facebook	25_34	25-34	IT	Italy	6	1	2532	506	50	0
+SiTav Falzoni	Vittorio Falzoni	448859812529598	Facebook	25_34	25-34	IT	Italy	4	1	2486	469	24	0
+ATriesteperTolmezzo	Leonardo Bonanni	2276028692664039	Facebook	25_34	25-34	IT	Italy	2	1	2425	485	48	0
+Enrico Bianchi Candidato Consigliere al Comune di Firenze		447076462717558	Facebook	25_34	25-34	IT	Italy	1	1	2423	1211	23	0
+Ecoscelte	Cristian Menghetti	268956994020348	Facebook	25_34	25-34	IT	Italy	1	1	2402	1201	23	0
+Giambattista Gagliardi	Giambattista Gagliardi	1412876132209720	Facebook	25_34	25-34	IT	Italy	3	1	2399	446	60	0
+Massimo Ruspandini	Roberta Pugliese	1382842338499099	Facebook	25_34	25-34	IT	Italy	3	1	2384	476	47	0
+Davide Milan	Davide Milan	192738147436471	Facebook	25_34	25-34	IT	Italy	5	1	2343	459	50	0
+Samuele Mascarin - LE IDEE IN COMUNE	Samuele Mascarin - LE IDEE IN COMUNE	174921619345619	Facebook	25_34	25-34	IT	Italy	3	1	2339	832	34	0
+Sorino X Noale Briana Cappelletta Moniego	Alvise Trevisan	382323875934326	Facebook	25_34	25-34	IT	Italy	2	1	2322	1010	27	0
+Luca Vidoni	Luca Onorio Vidoni	392986254173330	Facebook	25_34	25-34	IT	Italy	5	1	2279	456	45	0
+Marzio Olivero	Marzio Olivero 	1226060420905435	Facebook	25_34	25-34	IT	Italy	4	1	2263	1131	22	0
+Tradizione e futuro per Portacomaro e Migliandolo	Lucio Gamba	1037273013145386	Facebook	25_34	25-34	IT	Italy	5	1	2244	448	44	0
+Verdi Grüne Vërc	Verdi Grüne Verc	371245232946932	Facebook	25_34	25-34	IT	Italy	4	1	2242	330	91	0
+Progetto Identità Sconfinate	Rosa Maria Currò	1539777176155570	Facebook	25_34	25-34	IT	Italy	2	1	2239	447	44	0
+FLC CGIL Modena	FLC CGIL MODENA	2061993930698632	Facebook	25_34	25-34	IT	Italy	3	1	2226	445	44	0
+Enrico Rossi	Enrico Rossi	197611081853	Facebook	25_34	25-34	IT	Italy	5	1	2210	515	17	0
+Unione Universitaria - UDU Modena e Reggio Emilia	Alessio Dondi	159133554164159	Facebook	25_34	25-34	IT	Italy	2	1	2206	441	43	0
+Nadia Piseddu - Candidata Elezioni Europee 2019 per il Nord Est	Nadia Piseddu	769749373379038	Facebook	25_34	25-34	IT	Italy	6	1	2205	544	87	0
+Moreno Lirutti	Moreno Lirutti	836348860060280	Facebook	25_34	25-34	IT	Italy	4	1	2197	439	43	0
+Alessandro Spalletta - Delegato Provinciale Fi di Roma	Matteo Boldrini	2273188646254321	Facebook	25_34	25-34	IT	Italy	4	1	2196	671	61	0
+Andrea Meoni		201041217462282	Facebook	25_34	25-34	IT	Italy	1	1	2189	1094	21	0
 Luca Di Egidio	Luca Di Egidio	993724994029066	Facebook	25_34	25-34	IT	Italy	2	1	2154	728	32	0
-Pina Picierno	SocialCom	212896992084952	Facebook	25_34	25-34	IT	Italy	10	1	2080	370	59	0
-Roberta Fusari Sindaca	Comitato elettorale Roberta Fusari Sindaca	1021093474737387	Facebook	25_34	25-34	IT	Italy	1	1	2071	1035	20	0
-Michele Facci	Alessandro Buscaroli	181747745203690	Facebook	25_34	25-34	IT	Italy	2	1	2027	963	21	0
-Roberto Battiston in Europa	Corrado Denaro	1088184664716532	Facebook	25_34	25-34	IT	Italy	1	1	1829	365	3	0
-Davide Montrucchio - Moderati - Elezioni Regione Piemonte 2019	Davide Montrucchio	459608377914093	Facebook	25_34	25-34	IT	Italy	3	1	1796	181	105	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	25_34	25-34	IT	Italy	2	1	1789	412	4	0
-Mauro Parolini	Mauro Parolini 	179225584042	Facebook	25_34	25-34	IT	Italy	3	1	1757	307	52	0
-PD Milano Metropolitana	PD Milano Metropolitana	118624604896108	Facebook	25_34	25-34	IT	Italy	1	1	1742	871	17	0
-Lista Civica "ProgettiAmo Savignano"	Enrico Tagliavini	2111477435580468	Facebook	25_34	25-34	IT	Italy	4	1	1710	222	81	0
-Matteo Tosetto	Matteo Tosetto 	285899292122830	Facebook	25_34	25-34	IT	Italy	2	1	1629	326	32	0
-Mariastella Gelmini	Mariastella Gelmini	303531599691398	Facebook	25_34	25-34	IT	Italy	1	1	1626	813	16	0
-Claudia Pagliariccio	CasaPound Italia L'Aquila	1748593245471149	Facebook	25_34	25-34	IT	Italy	2	1	1618	323	32	0
-Sergio Tommasini Sindaco	Sergio Tommasini Sindaco	220805388637106	Facebook	25_34	25-34	IT	Italy	3	1	1590	259	54	0
-Roberta Rigon	Roberta Rigon 	152060405498608	Facebook	25_34	25-34	IT	Italy	2	1	1587	721	28	0
-Massimiliano Smeriglio	Massimiliano Smeriglio	182266801912488	Facebook	25_34	25-34	IT	Italy	5	1	1584	672	24	0
-Enrico Zucchi - Lega Prato	Enrico Zucchi	707579962958222	Facebook	25_34	25-34	IT	Italy	2	1	1539	275	43	0
-Federico Conte	SocialCom	475969889452069	Facebook	25_34	25-34	IT	Italy	1	1	1536	768	15	0
-Movimento Cinque Stelle Folignano	Diego Di Ovidio	363976727107282	Facebook	25_34	25-34	IT	Italy	3	1	1535	278	41	0
-Alberto Biancheri Sindaco	Alberto Biancheri - Mandatario elettorale Mauro Giancaterino	1465222783619463	Facebook	25_34	25-34	IT	Italy	1	1	1516	758	15	0
-Più Europa Bologna	Zeno Gobetti	796239407253658	Facebook	25_34	25-34	IT	Italy	1	1	1503	300	29	0
-Radici al Futuro - Gianluca Pasqui sindaco	Radici al Futuro	2340434752842917	Facebook	25_34	25-34	IT	Italy	4	1	1473	232	53	0
-Edoardo Fanucci	Edoardo Fanucci 	1435334113381119	Facebook	25_34	25-34	IT	Italy	2	1	1436	287	28	0
-Stato Moderno Solidale SMS	Silvana Arbia	328435687818104	Facebook	25_34	25-34	IT	Italy	4	1	1426	209	58	0
-Susanna Ceccardi	Susanna Ceccardi	257113927825642	Facebook	25_34	25-34	IT	Italy	1	1	1421	710	14	0
-Michela Giuliani - Lega Foligno	Michela Giuliani 	977482079125273	Facebook	25_34	25-34	IT	Italy	1	1	1383	276	27	0
-Stefania Calcagno	Stefania Calcagno	528781364317789	Facebook	25_34	25-34	IT	Italy	3	1	1358	232	42	0
-Francesco Grazzini per Firenze	Francesco Grazzini 	591129664696979	Facebook	25_34	25-34	IT	Italy	1	1	1351	270	26	0
-Camilla Laureti	Camilla Laureti	1718838531535765	Facebook	25_34	25-34	IT	Italy	2	1	1327	265	26	0
-Francesco Mingiardi	Francesco Mingiardi	1556016234698562	Facebook	25_34	25-34	IT	Italy	3	1	1300	162	64	0
-Eleonora Forenza	Eleonora Forenza	302764019871151	Facebook	25_34	25-34	IT	Italy	1	1	1280	640	12	0
-Filippo Castaldini	Filippo Castaldini	1826573307577564	Facebook	25_34	25-34	IT	Italy	1	1	1280	256	25	0
-Fabio Candalice	Fabio Candalice	929896213793987	Facebook	25_34	25-34	IT	Italy	4	1	1254	211	40	0
-Camisano Cambia	Giuseppe Maio	568531166547381	Facebook	25_34	25-34	IT	Italy	1	1	1238	247	24	0
-Fabrizio Puppo - Il tuo Sindaco	Fabrizio Puppo	2682574781968867	Facebook	25_34	25-34	IT	Italy	3	1	1206	220	31	0
-Eraldo Ciangherotti	Eraldo Ciangherotti	1020725961324733	Facebook	25_34	25-34	IT	Italy	2	1	1198	239	23	0
-Andrea Togno - Candidato M5S Elezioni Europee	Andrea Togno	364157860884983	Facebook	25_34	25-34	IT	Italy	3	1	1153	203	33	0
-Dott. Angelo Baldinelli	Angelo Baldinelli 	1174383546076988	Facebook	25_34	25-34	IT	Italy	2	1	1149	229	22	0
-Centioni Alessia Europee 2019	SocialCom	1249137568574869	Facebook	25_34	25-34	IT	Italy	3	1	1124	224	22	0
-Giovanni Paolo Bernini	Luca Perrone	2387532191477889	Facebook	25_34	25-34	IT	Italy	9	1	1095	0	108	0
-Tommaso Grassi	Tommaso Grassi	152990974745578	Facebook	25_34	25-34	IT	Italy	2	1	1084	212	23	0
+Marco Dell’Acqua - Candidato Consigliere Comune di Pavia	Marco Dell'Acqua	406828380095591	Facebook	25_34	25-34	IT	Italy	5	1	2147	429	42	0
+Cuore Italiano		923834707677379	Facebook	25_34	25-34	IT	Italy	1	1	2116	423	4	0
+Sandro Fucito - La Sinistra	Alessandro Fucito	1575493769447797	Facebook	25_34	25-34	IT	Italy	2	1	2111	826	28	0
+Nicola Adriano	Nicola Adriano	2300656363522637	Facebook	25_34	25-34	IT	Italy	5	1	2108	377	59	0
+Uniti per Marano	Gian Luca Gianaroli	260582318183152	Facebook	25_34	25-34	IT	Italy	3	1	2103	420	41	0
+Luigi Sanfilippo	Luigi Sanfilippo	328086050667738	Facebook	25_34	25-34	IT	Italy	2	1	2100	420	41	0
+Roberto Di Stefano - Candidato alle Elezioni Regionali Piemonte 2019	Roberto Di Stefano	1146569258880241	Facebook	25_34	25-34	IT	Italy	2	1	2072	414	41	0
+Lega - Salvini Premier sezione di Caneva	Francesco Zoldan	325306734244094	Facebook	25_34	25-34	IT	Italy	4	1	2063	395	47	0
+Alan Fabbri Sindaco	Comitato Elettorale Alan Fabbri Sindaco	2219200278136052	Facebook	25_34	25-34	IT	Italy	2	1	2057	824	27	0
+Maurizio Lupi	Maurizio Lupi	81698998693	Facebook	25_34	25-34	IT	Italy	3	1	2030	510	6	0
+Uniti Per Oleggio	Matteo Manfredino	319574408751434	Facebook	25_34	25-34	IT	Italy	5	1	2010	297	81	0
+Cgil Puglia	Giuseppe Marco Binetti	406962326129744	Facebook	25_34	25-34	IT	Italy	3	1	2000	400	39	0
+Claudia Stomeo	Marco Panareo	357540418216403	Facebook	25_34	25-34	IT	Italy	5	1	1992	344	61	0
+Vota Essere Varazze, scrivi GUIDO	Andrea Guido	329383094403641	Facebook	25_34	25-34	IT	Italy	1	1	1990	995	19	0
+Isoppo Maria Luisa Sindaco - NOI per Castelnuovo	Ilaria Vernazza	275481246708653	Facebook	25_34	25-34	IT	Italy	7	1	1981	361	84	0
+PD Sesto San Giovanni	Ernesto Guido Gatti	435576253166208	Facebook	25_34	25-34	IT	Italy	5	1	1977	372	48	0
+Emanuele Crosato	Emanuele Crosato	2298928176868724	Facebook	25_34	25-34	IT	Italy	4	1	1974	987	19	0
+Giovani Democratici provincia di Modena	Giovani Democratici provincia di Modena	78729426026	Facebook	25_34	25-34	IT	Italy	4	1	1953	276	83	0
+Roberto Bazzarello	Roberto Bazzarello	281871691915011	Facebook	25_34	25-34	IT	Italy	3	1	1951	353	53	0
+Con il Lavoro per Zingaretti	Marcello Merola	361794611322734	Facebook	25_34	25-34	IT	Italy	2	1	1942	971	19	0
+Diego Banti - Candidato al Consiglio Comunale di Collesalvetti	Diego Banti	656768971418493	Facebook	25_34	25-34	IT	Italy	2	1	1933	967	19	0
+Mario Pozzi	Mario Pozzi	1863868990388556	Facebook	25_34	25-34	IT	Italy	2	1	1922	911	20	0
+Giovanni Gostoli	Giovani Gostoli	559279314451930	Facebook	25_34	25-34	IT	Italy	6	1	1912	185	116	0
+Mao Valpiana - Europa VERDE - European Green Party	Mao Valpiana	442129529886999	Facebook	25_34	25-34	IT	Italy	2	1	1901	722	26	0
+Enzo Maraio	Luigi Di Martino	1403779849925484	Facebook	25_34	25-34	IT	Italy	3	1	1896	876	21	0
+Dress the Change	dressthechange	1724579174526888	Facebook	25_34	25-34	IT	Italy	1	1	1878	375	37	0
+Enrico Campofiorito	Enrico Campofiorito 	312899675956641	Facebook	25_34	25-34	IT	Italy	1	1	1870	935	18	0
+Paolo Arrigoni	Paolo Arrigoni	747073345429789	Facebook	25_34	25-34	IT	Italy	5	1	1860	432	38	0
+Lega Bassano del Grappa	Marco Vidale 	397605376953766	Facebook	25_34	25-34	IT	Italy	1	1	1837	918	18	0
+Daniele Baglione	Daniele Baglione	301747710209067	Facebook	25_34	25-34	IT	Italy	4	1	1825	262	76	0
+Massimo Giorgetti		1401059500196202	Facebook	25_34	25-34	IT	Italy	1	1	1824	912	18	0
+Insieme Per Magliano	Insieme per Magliano	817291631982195	Facebook	25_34	25-34	IT	Italy	3	1	1808	240	84	0
+Paolo Pierotti - Lista Civica Giovani Ambiente Territorio - Gubbio	Paolo Pierotti	302894793973736	Facebook	25_34	25-34	IT	Italy	4	1	1806	361	35	0
+Maria Fiorito Sindaco di Muggiò	Francesco Lauria	266642000163056	Facebook	25_34	25-34	IT	Italy	3	1	1790	817	31	0
+Fratelli d'Italia - Vasto	Marco Di Michele Marisi 	542099659162463	Facebook	25_34	25-34	IT	Italy	2	1	1775	355	35	0
+Gabriel Zurlo Sconosciuto, Candidato a Mesagne	Gabriel Zurlo Sconosciuto	586251125203754	Facebook	25_34	25-34	IT	Italy	2	1	1772	354	35	0
+Insieme per Montefiore	Insieme per Montefiore	935704169936444	Facebook	25_34	25-34	IT	Italy	2	1	1772	354	35	0
+Patrizia Perrone	Patrizia Perrone 	432738340424818	Facebook	25_34	25-34	IT	Italy	2	1	1742	348	34	0
+Franca Pulpito Candidata Elezioni Europee M5S		377643566297205	Facebook	25_34	25-34	IT	Italy	1	1	1701	340	3	0
+Francesca Bedogni Sindaca di Cavriago	Luca Brami	393065071426048	Facebook	25_34	25-34	IT	Italy	4	1	1681	283	54	0
+The New Poets	The New Poets	599113113791532	Facebook	25_34	25-34	IT	Italy	6	1	1671	170	97	0
+Alberto Biancheri	Alberto Biancheri	1454537551440761	Facebook	25_34	25-34	IT	Italy	1	1	1651	825	16	0
+Eduardo Maria Piccirilli - candidato elezioni europee 2019	Eduardo Maria Piccirilli	2210084055756696	Facebook	25_34	25-34	IT	Italy	4	1	1649	634	22	0
+SÌ Tav SÌ Lavoro per il Piemonte nel cuore		987211228033960	Facebook	25_34	25-34	IT	Italy	1	1	1627	813	16	0
+Rosaria Lombardi		1519306484755344	Facebook	25_34	25-34	IT	Italy	3	1	1626	577	23	0
+Giovanbattista Fazzolari	Giovanbattista Fazzolari	593972037615014	Facebook	25_34	25-34	IT	Italy	1	1	1614	322	3	0
+Domenico Ravetti - Con te dalla parte della Regione	Domenico Ravetti	773333472753302	Facebook	25_34	25-34	IT	Italy	1	1	1605	802	15	0
+Fratelli d'Italia Civita Castellana	Fratelli d'Italia Civita Castellana	799617696744055	Facebook	25_34	25-34	IT	Italy	3	1	1603	320	31	0
+Piazza Grande Savigliano - per il Partito Democratico	Alessandro Ghiberti	2275887039358471	Facebook	25_34	25-34	IT	Italy	1	1	1603	801	15	0
+vittoriospagni_lega	Vittorio Spagni	852386928448097	Facebook	25_34	25-34	IT	Italy	2	1	1594	318	31	0
+Caterina Lucangeli per il Candidato Avv. Stefano Zuccarini		410798853063764	Facebook	25_34	25-34	IT	Italy	1	1	1585	792	15	0
+Pennini Paolo	Paolo Pennini	2308895076058232	Facebook	25_34	25-34	IT	Italy	2	1	1570	314	31	0
+Reggio è	Caterina Tonon	1057889714403082	Facebook	25_34	25-34	IT	Italy	2	1	1566	313	31	0
+Elezionistatigeneralidelledonne	Maria Grazia Flora Santagostino	260931531372598	Facebook	25_34	25-34	IT	Italy	2	1	1532	713	16	0
+Prc Brescia	Luigi Tedoldi	1535861796655078	Facebook	25_34	25-34	IT	Italy	2	1	1532	498	24	0
+Olimpia Troili		678908455899403	Facebook	25_34	25-34	IT	Italy	2	1	1521	760	15	0
+Gruppo Civico CambiAngera e A come Angera	Alessandro Paladini Molgora	393477058162577	Facebook	25_34	25-34	IT	Italy	2	1	1519	303	30	0
+I love Arzignano		417378611718011	Facebook	25_34	25-34	IT	Italy	1	1	1511	302	29	0
+Annarita D'Urbano		193639731519498	Facebook	25_34	25-34	IT	Italy	2	1	1505	752	14	0
+Più Europa - Padova	Piero Cecchinato	478672579182724	Facebook	25_34	25-34	IT	Italy	2	1	1487	248	49	0
+Elena Grandi	Andrea Chisu	193926933981763	Facebook	25_34	25-34	IT	Italy	1	1	1486	743	14	0
+Pergola UNITA		224142501043264	Facebook	25_34	25-34	IT	Italy	1	1	1484	296	29	0
+CasaPound Italia L'Aquila	CasaPound Italia L'Aquila	267270336804324	Facebook	25_34	25-34	IT	Italy	2	1	1482	296	29	0
+Lega Cumiana-Salvini Premier	Carlo Salusso	2037545889655626	Facebook	25_34	25-34	IT	Italy	1	1	1475	737	14	0
+Luca Pollastri	Luca Pollastri 	2876030782421977	Facebook	25_34	25-34	IT	Italy	2	1	1469	293	29	0
+Studio Medico e Psicologico "Centro Umanistico" Alessandria	Sara Bosatra 	504110459623920	Facebook	25_34	25-34	IT	Italy	2	1	1448	289	28	0
+Cantaluppi Lorenzo	Lorenzo Cantaluppi	684875511722782	Facebook	25_34	25-34	IT	Italy	2	1	1436	718	14	0
+Jacopo Morrone	Jacopo Morrone	574913852523601	Facebook	25_34	25-34	IT	Italy	5	1	1431	264	37	0
+Più Europa Bologna	Zeno Gobetti	796239407253658	Facebook	25_34	25-34	IT	Italy	1	1	1429	285	28	0
+Umberto Marroni		1274180625925753	Facebook	25_34	25-34	IT	Italy	1	1	1421	284	2	0
+Roberta Ferrero	Andrea Morello	148367009301755	Facebook	25_34	25-34	IT	Italy	1	1	1419	709	14	0
+Vanessa AMATI per Usmate Velate	Cristiano Puglisi	662422970877759	Facebook	25_34	25-34	IT	Italy	4	1	1389	170	70	0
+Lista Cittadini Savignano	Lista dei Cittadini Insieme per Savignano	172357643136863	Facebook	25_34	25-34	IT	Italy	3	1	1389	486	31	0
+Stefano Parisi	Energie PER l'Italia	553711871453130	Facebook	25_34	25-34	IT	Italy	3	1	1377	275	27	0
+Giannini Fabio - Bartolomei Sindaco		676930582768218	Facebook	25_34	25-34	IT	Italy	1	1	1375	687	13	0
+Fratelli d'Italia Piacenza	Tommaso Foti	320577218132562	Facebook	25_34	25-34	IT	Italy	2	1	1372	686	13	0
+STOCK HOUSE	Marco Petracca 	1463690727217558	Facebook	25_34	25-34	IT	Italy	3	1	1360	250	35	0
+Team Köllensperger	Renate Holzeisen	201834673860032	Facebook	25_34	25-34	IT	Italy	2	1	1358	271	26	0
+Sinistra per Staranzano	Riccardo Faraone	558719987541649	Facebook	25_34	25-34	IT	Italy	2	1	1355	271	26	0
+Villanova Alberto	Alberto Villanova	409107345847573	Facebook	25_34	25-34	IT	Italy	3	1	1323	292	30	0
+Fabio Castelli	Fabio Castelli	1405273906374467	Facebook	25_34	25-34	IT	Italy	3	1	1317	221	42	0
+Lettieri Luca	Luca Lettieri 	1577623652529270	Facebook	25_34	25-34	IT	Italy	2	1	1313	488	18	0
+Elvio Rostagno		753115624754961	Facebook	25_34	25-34	IT	Italy	2	1	1311	262	25	0
+Camisano Cambia	Giuseppe Maio	568531166547381	Facebook	25_34	25-34	IT	Italy	1	1	1303	260	25	0
+Massimiliano Panizzut Zut	Massimiliano Panizzut	2051353585112195	Facebook	25_34	25-34	IT	Italy	1	1	1293	258	25	0
+Luca Garibaldi	Luca Garibaldi	1994549320790542	Facebook	25_34	25-34	IT	Italy	4	1	1280	368	21	0
+Michele Grimaldi	Michele Grimaldi	223942404457012	Facebook	25_34	25-34	IT	Italy	2	1	1274	254	25	0
+Giovanni Nezzo e Marina Agostino per Sanremo 2019	Fabrizio Lupi	1893433370779693	Facebook	25_34	25-34	IT	Italy	2	1	1254	250	24	0
+Eugenio Fusignani candidato +Europa		1681396375457357	Facebook	25_34	25-34	IT	Italy	2	1	1244	248	21	0
+Gianluca Macone candidato Eurodeputato M5S circoscrizione Italia centrale	Gianluca Macone	423247661773858	Facebook	25_34	25-34	IT	Italy	1	1	1237	618	12	0
+Lega Salvini Premier Liga Veneta Segreteria Provinciale di Vicenza	Alessandro Petracca	282041905286580	Facebook	25_34	25-34	IT	Italy	2	1	1233	575	19	0
+Stefano Ponte - Collegno	Stefano Ponte	291139681575538	Facebook	25_34	25-34	IT	Italy	2	1	1208	512	14	0
+Dentista Migliucci Pozzuoli		710767628991924	Facebook	25_34	25-34	IT	Italy	1	1	1166	233	23	0
+L'unione falla forse - Il Film	L'unione falla forse	1929392647334919	Facebook	25_34	25-34	IT	Italy	1	1	1153	230	22	0
+Paolo Narcisi - Elezioni Europee 2019	Paolo Narcisi	267745780834375	Facebook	25_34	25-34	IT	Italy	3	1	1146	211	29	0
+Movimento Federalista Europeo - Mfe Gfe Pavia	Movimento federalista europeo - sezione di Pavia	159124410843770	Facebook	25_34	25-34	IT	Italy	1	1	1130	226	22	0
+Partito Democratico Rosolini	PD Rosolini	613684588696096	Facebook	25_34	25-34	IT	Italy	1	1	1123	562	11	0
+Fiom Cgil Nazionale	Michela Bevere	78832128959	Facebook	25_34	25-34	IT	Italy	3	1	1113	187	35	0
+Antonio Martino		330857894077058	Facebook	25_34	25-34	IT	Italy	1	1	1098	219	2	0
+Tommaso Foti	Tommaso Foti	1480937442190427	Facebook	25_34	25-34	IT	Italy	2	1	1094	547	10	0
+Giancarlo Tagliaferri	Giancarlo Tagliaferri	625590310861100	Facebook	25_34	25-34	IT	Italy	2	1	1094	218	21	0
+Sara Stucchi		2387759301511108	Facebook	25_34	25-34	IT	Italy	1	1	1086	217	21	0
+Studio Gullì		178197619184656	Facebook	25_34	25-34	IT	Italy	3	1	1085	402	15	0
+Danae	Raffaele Vanacore	720026498039830	Facebook	25_34	25-34	IT	Italy	1	1	1071	214	21	0
 Borroni Pierpaolo	Pierpaolo Borroni 	1474826522845148	Facebook	25_34	25-34	IT	Italy	1	1	1069	213	21	0
+Daniela Ruffino	Paolo Peira	1408192702783124	Facebook	25_34	25-34	IT	Italy	2	1	1068	213	21	0
+Open Bocconi PD	Roberto Biondini	280672612632082	Facebook	25_34	25-34	IT	Italy	1	1	1056	211	20	0
+Davide Ranalli Sindaco	Diego Leoni 	293770371241270	Facebook	25_34	25-34	IT	Italy	1	1	1054	527	10	0
+Lista  Insieme per Poirino	Pier Antonio Pasquero	478151245572856	Facebook	25_34	25-34	IT	Italy	7	1	1051	0	104	0
 Luisa Regimenti	Luisa Regimenti	201996906606311	Facebook	25_34	25-34	IT	Italy	1	1	1047	523	10	0
-Matias Eduardo DIAZ Crescitelli	Matias Eduardo Diaz Crescitelli	166286387478761	Facebook	25_34	25-34	IT	Italy	4	1	1019	119	53	0
-Luca Rossi per la Regione Piemonte	The Flag srl	1505721276316265	Facebook	25_34	25-34	IT	Italy	2	1	955	191	18	0
-PD Sesto San Giovanni	Ernesto Guido Gatti	435576253166208	Facebook	25_34	25-34	IT	Italy	2	1	940	165	27	0
-Fiom Cgil Nazionale	Michela Bevere	78832128959	Facebook	25_34	25-34	IT	Italy	1	1	938	187	18	0
-Empoli Ecologista per Beatrice Cioni sindaco	Giuseppe Pluchino	1323687517793993	Facebook	25_34	25-34	IT	Italy	2	1	932	133	39	0
-Faraldi Giuseppe	Giuseppe Faraldi	386214098778099	Facebook	25_34	25-34	IT	Italy	1	1	925	185	18	0
-Verdi Firenze	VERDI FIRENZE	237052423729117	Facebook	25_34	25-34	IT	Italy	1	1	923	184	18	0
-Francesco Valenti 6ª Circoscrizione Catania	Francesco Valenti	1686088174761067	Facebook	25_34	25-34	IT	Italy	1	1	922	184	18	0
-PD Palo del Colle	Gabriella Sasso	1578164322435113	Facebook	25_34	25-34	IT	Italy	1	1	919	183	18	0
-Tradizione e futuro per Portacomaro e Migliandolo	Lucio Gamba	1037273013145386	Facebook	25_34	25-34	IT	Italy	1	1	906	181	17	0
-Centrodestra per cambiare con Pacetti sindaco	Manuel Gianfelici	292638348325601	Facebook	25_34	25-34	IT	Italy	1	1	904	180	17	0
-Fratelli d'Italia - Vasto	Marco Di Michele Marisi 	542099659162463	Facebook	25_34	25-34	IT	Italy	1	1	902	180	17	0
-Roberto Di Stefano - Candidato alle Elezioni Regionali Piemonte 2019	Roberto Di Stefano	1146569258880241	Facebook	25_34	25-34	IT	Italy	1	1	890	178	17	0
-Paola Natalicchio	Gianluca Martone	258195327693994	Facebook	25_34	25-34	IT	Italy	2	1	889	177	17	0
-Andrea Tremaglia	Andrea Tremaglia	322495193464	Facebook	25_34	25-34	IT	Italy	2	1	877	175	17	0
-Raffaella Bonsangue	Giuseppe Mangano, mandatario elettorale Avv. Raffaella Bonsangue	963373667373045	Facebook	25_34	25-34	IT	Italy	1	1	857	428	8	0
-Catia Degli Esposti Sindaco	Catia Degli Esposti	438647399606160	Facebook	25_34	25-34	IT	Italy	1	1	853	170	16	0
-Bianca Verrillo	Bianca Verrillo	597101660767723	Facebook	25_34	25-34	IT	Italy	1	1	843	168	16	0
-Geri Ballo	Gerarta Ballo	2261381937462680	Facebook	25_34	25-34	IT	Italy	4	1	832	124	33	0
-Sorino X Noale Briana Cappelletta Moniego	Alvise Trevisan	382323875934326	Facebook	25_34	25-34	IT	Italy	1	1	827	165	16	0
-Lista civica Stabilitá e Futuro - Giustino Bello Sindaco	Sandra Bianciotto	2125079321116134	Facebook	25_34	25-34	IT	Italy	1	1	825	165	16	0
-Calenzano Futura	Simone Bolognesi	597646537327558	Facebook	25_34	25-34	IT	Italy	1	1	784	156	15	0
-Daniele Vergini Candidato Sindaco M5S	Daniele Vergini	415104189237042	Facebook	25_34	25-34	IT	Italy	7	1	770	0	76	0
-Forza Italia Fidenza	Annarita Cacciamani 	137907152910910	Facebook	25_34	25-34	IT	Italy	5	1	770	0	76	0
-Gian Franco Uni	Gian Franco Uni	393361681500975	Facebook	25_34	25-34	IT	Italy	1	1	765	153	15	0
-Angelo Vernillo	Angelo Vernillo 	538691129988576	Facebook	25_34	25-34	IT	Italy	1	1	761	152	15	0
-Siamo Europei Padova	Siamo Europei	445280926043270	Facebook	25_34	25-34	IT	Italy	1	1	751	150	14	0
-Beatrice Brignone	Possibile	454468194886964	Facebook	25_34	25-34	IT	Italy	1	1	750	150	14	0
-Marzio Olivero	Marzio Olivero 	1226060420905435	Facebook	25_34	25-34	IT	Italy	3	1	741	148	14	0
-Elena Mazzoni - Candidata Parlamento Europeo Circoscrizione Nord-Est	Elena Mazzoni 	2030992680362076	Facebook	25_34	25-34	IT	Italy	2	1	736	147	14	0
-Concetta Maestrini	Concetta Maestrini	798253917216096	Facebook	25_34	25-34	IT	Italy	1	1	734	367	7	0
-Percorso Comune - Lista Civica Borgo Valbelluna	Percorso Comune	1486831954785890	Facebook	25_34	25-34	IT	Italy	2	1	728	111	28	0
-Uniamo Prevalle	Luca Belli	571992369975700	Facebook	25_34	25-34	IT	Italy	2	1	708	111	26	0
-Luca Vidoni	Luca Onorio Vidoni	392986254173330	Facebook	25_34	25-34	IT	Italy	2	1	690	129	17	0
-Pietro Fiocchi	Pietro Fiocchi	877595239247631	Facebook	25_34	25-34	IT	Italy	1	1	669	133	13	0
-Simona Baldassarre	Simona Baldassarre	407861879769918	Facebook	25_34	25-34	IT	Italy	3	1	661	124	16	0
-Davide Milan	Davide Milan	192738147436471	Facebook	25_34	25-34	IT	Italy	2	1	651	118	17	0
-BARBARA MATERA	Barbara Matera	78020429052	Facebook	25_34	25-34	IT	Italy	1	1	649	129	12	0
-LEALI per Lagonegro	Nicola Giampietro	612616479163218	Facebook	25_34	25-34	IT	Italy	1	1	643	128	12	0
-Maria Fiorito Sindaco di Muggiò	Francesco Lauria	266642000163056	Facebook	25_34	25-34	IT	Italy	2	1	637	113	18	0
-Popolo della Famiglia - Lazio	Guido Pianeselli 	356312904827073	Facebook	25_34	25-34	IT	Italy	2	1	632	316	6	0
-Centrosinistra per Sinalunga con Edo Zacchei Sindaco	Partito Democratico Siena	629810123784822	Facebook	25_34	25-34	IT	Italy	2	1	631	108	19	0
-Mercedes Bresso	Mercedes Bresso	50939187984	Facebook	25_34	25-34	IT	Italy	1	1	595	119	11	0
-Davide Ganapini	Davide Ganapini 	132753476889678	Facebook	25_34	25-34	IT	Italy	1	1	589	117	11	0
-Gianluca Festa	Gianluca Festa	1414627525508278	Facebook	25_34	25-34	IT	Italy	1	1	589	117	11	0
-Paolo Siani	Paolo Siani	1821913614485612	Facebook	25_34	25-34	IT	Italy	3	1	587	61	33	0
-Luca Pollastri	Luca Pollastri 	2876030782421977	Facebook	25_34	25-34	IT	Italy	1	1	580	116	11	0
-Lia Montalti	Lia Montalti	1490311121245235	Facebook	25_34	25-34	IT	Italy	2	1	571	85	22	0
-Alfonso Pisicchio	Natale Pisicchio	644803135590917	Facebook	25_34	25-34	IT	Italy	1	1	556	111	11	0
-Francesca Gambarini	Annarita Cacciamani 	1473558732874837	Facebook	25_34	25-34	IT	Italy	5	1	536	0	53	0
-Cesena2024	Cesena2024	593948501059981	Facebook	25_34	25-34	IT	Italy	1	1	534	106	10	0
-Ulderica Mennella Candidata M5S Europee 2019	Ulderica Mennella	625269920909140	Facebook	25_34	25-34	IT	Italy	1	1	531	106	10	0
-Silvio Magliano - Un amico in Comune, in Regione	RedHab	121968754543798	Facebook	25_34	25-34	IT	Italy	2	1	530	106	10	0
-Gian Piero Joime	Gian Piero Joime	1596602757297534	Facebook	25_34	25-34	IT	Italy	2	1	504	100	9	0
+PD Ottava Circoscrizione VR	Giuseppe Merlin	2246774735559915	Facebook	25_34	25-34	IT	Italy	1	1	1030	515	10	0
+Risorgi Italia	Angelo Miraglia	886237838215195	Facebook	25_34	25-34	IT	Italy	1	1	1028	205	20	0
+Civica Preganziol		316563112511110	Facebook	25_34	25-34	IT	Italy	1	1	1026	205	20	0
+La Sinistra Ottavo		377006846230525	Facebook	25_34	25-34	IT	Italy	1	1	1014	202	20	0
+Più Europa Settimo Torinese	Nino Daniel	1440197006115766	Facebook	25_34	25-34	IT	Italy	1	1	1012	506	10	0
+Maria Veronica Rossi	Federico Rotondo	1084909315030192	Facebook	25_34	25-34	IT	Italy	2	1	1000	200	19	0
+Progetto Leini e Lista per Leini		408705213304752	Facebook	25_34	25-34	IT	Italy	1	1	999	0	99	0
+Rete 22 Ottobre - Lombardia		190937334880928	Facebook	25_34	25-34	IT	Italy	1	1	997	498	9	0
+Partito Comunista - Termoli		117998398248074	Facebook	25_34	25-34	IT	Italy	1	1	997	199	19	0
+Siena Pirata	Michele Pinassi 	166722470866546	Facebook	25_34	25-34	IT	Italy	1	1	993	198	19	0
+Circolo Pd Biella	Daniele Ghisio	565287306938607	Facebook	25_34	25-34	IT	Italy	1	1	993	198	19	0
+Popolo della Famiglia - Friuli Venezia Giulia	Renzo Erman	986432204797432	Facebook	25_34	25-34	IT	Italy	2	1	992	169	30	0
+Elena Perini Comunali  26 Maggio		416202625877797	Facebook	25_34	25-34	IT	Italy	1	1	984	492	9	0
+Michele Mosca	Alessio Pasqualini	2088971707888562	Facebook	25_34	25-34	IT	Italy	2	1	982	196	19	0
+Elisabetta Vaccarella	Elisabetta Vaccarella	302587767100384	Facebook	25_34	25-34	IT	Italy	1	1	966	483	9	0
+Movimento 5 Stelle Valle d'Aosta	Luciano Alfredo Nicola Mossa	161659869908	Facebook	25_34	25-34	IT	Italy	1	1	961	480	9	0
+Comitato Siamo Europei Prato	All You srl	2707693559257275	Facebook	25_34	25-34	IT	Italy	1	1	951	190	18	0
+Noi di Ascoli		498726230531522	Facebook	25_34	25-34	IT	Italy	1	1	943	188	18	0
+Francesco Valenti 6ª Circoscrizione Catania	Francesco Valenti	1686088174761067	Facebook	25_34	25-34	IT	Italy	1	1	943	188	18	0
+Movimento 5 Stelle Forlì	Daniele Vergini	524152300953555	Facebook	25_34	25-34	IT	Italy	1	1	926	463	9	0
+Movimento Federalista Europeo (MFE)	Movimento Federalista Europeo (MFE)	232586513421372	Facebook	25_34	25-34	IT	Italy	1	1	920	460	9	0
+Alessandra Mussolini	Alessandra Mussolini	271019907137948	Facebook	25_34	25-34	IT	Italy	1	1	919	183	18	0
+Elisabetta Fatuzzo	Elisabetta Fattuzo	648451052262295	Facebook	25_34	25-34	IT	Italy	1	1	903	451	8	0
+CasaPound Italia Valdinievole	Lorenzo Berti 	121723957849992	Facebook	25_34	25-34	IT	Italy	1	1	895	179	17	0
+Carlo Malvicini - candidato nella lista Centrodestra Soresina		399394434234142	Facebook	25_34	25-34	IT	Italy	1	1	869	435	8	0
+Lista civica Stabilitá e Futuro - Giustino Bello Sindaco	Sandra Bianciotto	2125079321116134	Facebook	25_34	25-34	IT	Italy	2	1	867	154	24	0
+Marta Casiraghi		320875768607778	Facebook	25_34	25-34	IT	Italy	1	1	861	172	17	0
+Simona Forzoni	Simona Forzoni	1306658982818641	Facebook	25_34	25-34	IT	Italy	4	1	854	103	43	0
+Francesca Travison sindaco		417954509008934	Facebook	25_34	25-34	IT	Italy	1	1	848	424	8	0
+Il Blog di Michele Pinassi, un #babbosmart	Michele Pinassi 	156270171108051	Facebook	25_34	25-34	IT	Italy	1	1	842	168	16	0
+Lubello Francesco	Francesco Lubello	520821171359784	Facebook	25_34	25-34	IT	Italy	1	1	838	167	16	0
+Copertino 5 Stelle	Andrea Villani	1562674140671482	Facebook	25_34	25-34	IT	Italy	2	1	833	129	31	0
+Refugees Welcome Italia	Serafina Consolato	1638510526420491	Facebook	25_34	25-34	IT	Italy	1	1	829	165	16	0
+Massimo Mariotti		450662341938048	Facebook	25_34	25-34	IT	Italy	3	1	825	147	23	0
+Area Rieti	Felice Costini	1657823274462372	Facebook	25_34	25-34	IT	Italy	1	1	824	412	8	0
+Antonella Lella all’Europarlamento	Antonella Lella	433965244085333	Facebook	25_34	25-34	IT	Italy	2	1	823	323	23	0
+Luciano D'Alfonso	Luciano D'Alfonso	250369701810297	Facebook	25_34	25-34	IT	Italy	2	1	816	163	16	0
+Rotary Club Merate Brianza		517577551733921	Facebook	25_34	25-34	IT	Italy	2	1	808	130	28	0
+Riccardo Polli - Lega Foligno	Riccardo Polli 	698227893967880	Facebook	25_34	25-34	IT	Italy	1	1	805	161	15	0
+Lo Specchio :o)(o:	Maurizio Sabbadini	605127432920467	Facebook	25_34	25-34	IT	Italy	6	1	804	0	79	0
+Volt Bologna	Marcello Saltarelli	128614167809041	Facebook	25_34	25-34	IT	Italy	2	1	800	92	42	0
+Vittoria Poggio in Europa	Vittoria Poggio	416919075572342	Facebook	25_34	25-34	IT	Italy	3	1	793	158	15	0
+Rifondazione Comunista Ruvo	Giovani Comunisti/e	1548705525414371	Facebook	25_34	25-34	IT	Italy	1	1	789	157	15	0
+Diego Zardini	Diego Zardini	220168154786111	Facebook	25_34	25-34	IT	Italy	3	1	789	142	21	0
+Il puntino sulla d	Francesco Portone	252906558149274	Facebook	25_34	25-34	IT	Italy	2	1	781	150	17	0
+Fratelli d'Italia - Chiesina Uzzanese	Lorenzo Vignali	838044869621504	Facebook	25_34	25-34	IT	Italy	1	1	777	155	15	0
+Marco Ravaioli per Forlì		167313460363533	Facebook	25_34	25-34	IT	Italy	2	1	763	152	15	0
+Renziani per Zingaretti		354801582017569	Facebook	25_34	25-34	IT	Italy	1	1	759	151	13	0
+Forza Nuova - Altavilla Silentina /Alburni		257108991770234	Facebook	25_34	25-34	IT	Italy	1	1	758	151	15	0
+Marco Magarini Montenero	Marco Magarini Montenero	2327015047579648	Facebook	25_34	25-34	IT	Italy	2	1	757	340	8	0
+Eliano BASSI Sindaco a Buttrio		669624603455737	Facebook	25_34	25-34	IT	Italy	1	1	750	150	14	0
+Moreno Di Pietrantonio	Walter Verrigni 	727882667246703	Facebook	25_34	25-34	IT	Italy	1	1	749	149	14	0
+L'Unità dei Comunisti Casa della Sinistra - Belpasso	Massimo Vallone	314161845659945	Facebook	25_34	25-34	IT	Italy	2	1	742	118	26	0
+Articolo Uno Pescara	Francesco D'Agresta	370948169996345	Facebook	25_34	25-34	IT	Italy	3	1	737	102	32	0
+Salvatore Lantino		435994097176832	Facebook	25_34	25-34	IT	Italy	2	1	735	147	12	0
+Davide Ganapini	Davide Ganapini 	132753476889678	Facebook	25_34	25-34	IT	Italy	1	1	730	146	14	0
+Luca Mazzinghi	Luca Mazzinghi	391474518009983	Facebook	25_34	25-34	IT	Italy	1	1	723	144	14	0
+QdN Qualcosa di Napoli	Angela Pascale	375975729177114	Facebook	25_34	25-34	IT	Italy	3	1	719	141	15	0
+Gabriela Mirescu		2618888988127707	Facebook	25_34	25-34	IT	Italy	3	1	716	339	9	0
+Walter Togni Sindaco - Costruire Futuro	Davide Arminio 	2159685880805725	Facebook	25_34	25-34	IT	Italy	1	1	714	142	14	0
+Articolo UNO - MDP Reggio Emilia	Caterina Tonon	1847373655539008	Facebook	25_34	25-34	IT	Italy	1	1	711	142	14	0
+Robert von Hackwitz	Robert Von Hackwitz	261404898103546	Facebook	25_34	25-34	IT	Italy	1	1	710	355	7	0
+Forza Nuova Fasano		1653993334891742	Facebook	25_34	25-34	IT	Italy	1	1	707	141	14	0
+Enrico Morando		600839130391177	Facebook	25_34	25-34	IT	Italy	2	1	704	303	8	0
+In Cammino Castel San Niccolò	Giorgio Trevisan	287390428275174	Facebook	25_34	25-34	IT	Italy	2	1	688	111	23	0
+La Nuova Malalbergo		348504389136153	Facebook	25_34	25-34	IT	Italy	1	1	686	137	13	0
+HEIST		225032047662461	Facebook	25_34	25-34	IT	Italy	2	1	680	120	4	0
+Circolo Pertini Sarzana		719357585104851	Facebook	25_34	25-34	IT	Italy	1	1	673	134	13	0
+Dario Pareschi	Dario Pareschi	400784997407816	Facebook	25_34	25-34	IT	Italy	2	1	668	0	66	0
+Piero Cecchinato		1506026019664320	Facebook	25_34	25-34	IT	Italy	3	1	658	91	28	0
+Iacono Giuseppe Candidato Consigliere Empoli		584896551995813	Facebook	25_34	25-34	IT	Italy	1	1	654	130	12	0
+Basiglio-Ribaudo Ettore Guido	Ettore Ribaudo	448921391837502	Facebook	25_34	25-34	IT	Italy	2	1	651	103	23	0
+Hassan Samid		217826828882488	Facebook	25_34	25-34	IT	Italy	1	1	648	129	12	0
+Paola Girolami Fan Page ��		356933994951599	Facebook	25_34	25-34	IT	Italy	1	1	642	128	11	0
+Alessandro Marra	Alessandro Marra 	425467448247565	Facebook	25_34	25-34	IT	Italy	1	1	628	314	31	6
+Slow Food - Oglio, Franciacorta, Lago d'Iseo		419942977924	Facebook	25_34	25-34	IT	Italy	2	1	616	123	12	0
+YearOut	Federica Brambilla	106312636064345	Facebook	25_34	25-34	IT	Italy	1	1	612	0	60	0
+Torrese Sindaco 5 Stelle per Rivoli		493488907425208	Facebook	25_34	25-34	IT	Italy	1	1	601	300	5	0
+Alessandro Gaetani - Verbania Viva per Marchionini Sindaco	Alessandro Gaetani	2144362922279334	Facebook	25_34	25-34	IT	Italy	4	1	593	205	11	0
+CasaPound Italia Firenze		1515644552017511	Facebook	25_34	25-34	IT	Italy	1	1	587	117	11	0
+Gian Piero Joime	Gian Piero Joime	1596602757297534	Facebook	25_34	25-34	IT	Italy	2	1	580	116	11	0
+Primavera Nazionale		666034226752669	Facebook	25_34	25-34	IT	Italy	1	1	579	289	5	0
+Discover Philadelphia		60364167807	Facebook	25_34	25-34	IT	Italy	1	1	576	288	5	0
+Rifondazione Comunista Cesano Boscone	Dario Ballardini	803247993346865	Facebook	25_34	25-34	IT	Italy	1	1	574	114	11	0
+Alberto Cardillo	Gaetano Alberto Seby Cardillo	2178019648960756	Facebook	25_34	25-34	IT	Italy	1	1	571	114	11	0
+Immagina Reggio	Nicola Giacchè	2198985630432256	Facebook	25_34	25-34	IT	Italy	1	1	568	113	11	0
+Lorem Ipsum	Gabriele D'Angelo	238950726749912	Facebook	25_34	25-34	IT	Italy	1	1	565	113	11	0
+Iacopo Aquilini Capannori 2019	Iacopo  Aquilini 	324439411308288	Facebook	25_34	25-34	IT	Italy	1	1	561	112	11	0
+Enrico Sostegni	Enrico Sostegni	1940475109366826	Facebook	25_34	25-34	IT	Italy	1	1	519	259	5	0
+Salvatore Ronghi		358842940986049	Facebook	25_34	25-34	IT	Italy	1	1	515	103	10	0
+Partito Socialista Italiano Treviso		159116674242320	Facebook	25_34	25-34	IT	Italy	1	1	508	101	10	0
+Giovanni Piccoli	Giovanni Piccoli	725107840944850	Facebook	25_34	25-34	IT	Italy	3	1	505	101	10	0
+Gianni Dal Moro	Gianni Dal Moro	1612665252126825	Facebook	25_34	25-34	IT	Italy	1	1	504	100	9	0
+Andrea Giordani - Candidato Sindaco Modena		569301756900364	Facebook	25_34	25-34	IT	Italy	1	1	500	100	9	0
+Maurizia Rota - Fratelli d'Italia in Europa	Pietro Giuliani	1221179181419254	Facebook	25_34	25-34	IT	Italy	3	1	494	163	19	0
+Associazione Sempre Avanti Ravenna	Antonio Lazzari 	213275992944511	Facebook	25_34	25-34	IT	Italy	1	1	494	98	9	0
+Togni Sindaco		1446011955662243	Facebook	25_34	25-34	IT	Italy	1	1	485	97	9	0
+GPuglia		131946381000870	Facebook	25_34	25-34	IT	Italy	1	1	473	94	8	0
+Comitato Ritorno al Futuro - Roma Vero 8	Vinci	362830917875060	Facebook	25_34	25-34	IT	Italy	1	1	471	94	9	0
 Francesca Alderisi		227160244510020	Facebook	25_34	25-34	IT	Italy	1	1	470	235	4	0
-Andrea Magnone	Andrea Magnone	371238803484196	Facebook	25_34	25-34	IT	Italy	2	1	465	0	46	0
-Andrea Massari	Comitato Andrea Massari sindaco	1430893473831083	Facebook	25_34	25-34	IT	Italy	3	1	436	0	43	0
-Filippo Occhipinti - Europee 2019 Sicilia e Sardegna	Francesco Anzelmo	367806660496884	Facebook	25_34	25-34	IT	Italy	1	1	436	87	8	0
-Marco Dell’Acqua - Candidato Consigliere Comune di Pavia	Marco Dell'Acqua	406828380095591	Facebook	25_34	25-34	IT	Italy	2	1	434	73	13	0
-Fridays For Future Treviso	Ettore Casellato	1893610467414052	Facebook	25_34	25-34	IT	Italy	1	1	431	0	42	0
-Alessandra Basso al Parlamento Europeo	Alessandra Basso	613417015791230	Facebook	25_34	25-34	IT	Italy	5	1	426	0	42	0
-Salvatore Barbagallo	The Flag srl	428552284374545	Facebook	25_34	25-34	IT	Italy	1	1	425	85	8	0
-Cinzia Pettoni	 Cinzia Pettoni 	2357999221079856	Facebook	25_34	25-34	IT	Italy	1	1	417	83	8	0
-Luciano D'Alfonso	Luciano D'Alfonso	250369701810297	Facebook	25_34	25-34	IT	Italy	1	1	413	82	8	0
-Area Rieti	Felice Costini	1657823274462372	Facebook	25_34	25-34	IT	Italy	1	1	404	80	8	0
-Rivivere Borgo con Sunil Pellanda Sindaco	Sunil Pellanda	592540437929912	Facebook	25_34	25-34	IT	Italy	2	1	393	0	39	0
-Viviana Dal Cin	Paolo Menis	290866805146864	Facebook	25_34	25-34	IT	Italy	1	1	384	76	7	0
-Offida Solidarietà e Democrazia	Luigi Massa	210831259107734	Facebook	25_34	25-34	IT	Italy	2	1	379	0	37	0
-Antonio Brunetto	Antonio Brunetto	1906734892742698	Facebook	25_34	25-34	IT	Italy	2	1	377	0	37	0
-Matteo Franconi #corricon	Matteo Franconi 	396778714394242	Facebook	25_34	25-34	IT	Italy	3	1	354	0	35	0
-Volt Bologna	Marcello Saltarelli	128614167809041	Facebook	25_34	25-34	IT	Italy	1	1	340	0	33	0
-MiglioriAmo Fidenza	Daniele Aiello	704187586308052	Facebook	25_34	25-34	IT	Italy	2	1	335	0	33	0
-Angelo Attaguile	Angelo Attaguile	1549325232064602	Facebook	25_34	25-34	IT	Italy	2	1	334	66	6	0
-Stefania Monteverde in Europa	Stefania Monteverde	2880774605326482	Facebook	25_34	25-34	IT	Italy	2	1	318	0	31	0
-Eduardo Maria Piccirilli - candidato elezioni europee 2019	Eduardo Maria Piccirilli	2210084055756696	Facebook	25_34	25-34	IT	Italy	1	1	317	63	6	0
-Paolo Narcisi - Elezioni Europee 2019	Paolo Narcisi	267745780834375	Facebook	25_34	25-34	IT	Italy	2	1	316	0	31	0
-Patrizia Angeli - Lega	Patrizia Angeli	432523620830705	Facebook	25_34	25-34	IT	Italy	3	1	312	0	30	0
-Livia Caldesi	Livia Caldesi 	280159089588950	Facebook	25_34	25-34	IT	Italy	4	1	310	30	18	0
-Giovani Democratici provincia di Modena	Giovani Democratici provincia di Modena	78729426026	Facebook	25_34	25-34	IT	Italy	1	1	305	0	30	0
-Lista Cittadini Savignano	Lista dei Cittadini Insieme per Savignano	172357643136863	Facebook	25_34	25-34	IT	Italy	1	1	296	59	5	0
-OrlandoMagazine.it	Mirco Negri	175566843236682	Facebook	25_34	25-34	IT	Italy	1	1	282	0	28	0
-MalnateSostenibile	Lista civica Malnate Sostenibile	397809613568460	Facebook	25_34	25-34	IT	Italy	2	1	277	0	27	0
+Simone Campus	Simone Campus 	142214685834262	Facebook	25_34	25-34	IT	Italy	1	1	468	93	9	0
+Sergio Fucito	Sergio Fucito	162598567676350	Facebook	25_34	25-34	IT	Italy	1	1	454	227	4	0
+Partito Socialista Italiano f.ne di Teramo		161399151101326	Facebook	25_34	25-34	IT	Italy	1	1	450	90	8	0
+Comitato Giovanni Capecchi Sindaco	Giovanni Capecchi 	2312698542113657	Facebook	25_34	25-34	IT	Italy	1	1	443	88	8	0
+Camera del Lavoro di Milano	Camera del Lavoro di Milano	763654407033042	Facebook	25_34	25-34	IT	Italy	1	1	442	221	4	0
+PD Pesaro e Urbino		172828472924539	Facebook	25_34	25-34	IT	Italy	1	1	432	86	8	0
+Cgil Rieti Roma Est Valle dell'Aniene	Cgil Rieti Roma Est Valle dell'Aniene	1389445751377147	Facebook	25_34	25-34	IT	Italy	4	1	427	150	15	0
+GOL - Giustizia Onore Libertà	Gruppo G.O.L. - Giustizia Onore Libertà	231849200339636	Facebook	25_34	25-34	IT	Italy	1	1	426	85	8	0
+Comitato Liberazione Nazionale Veneto		1514376455494442	Facebook	25_34	25-34	IT	Italy	1	1	425	85	8	0
+RitmoLento		1197605863586683	Facebook	25_34	25-34	IT	Italy	1	1	416	0	36	0
+Roberto Di Stefano	Roberto Di Stefano	264869596888019	Facebook	25_34	25-34	IT	Italy	1	1	411	82	8	0
+Uomini Liberi Uomini Dei		1213082098781770	Facebook	25_34	25-34	IT	Italy	1	1	411	205	4	0
+Roberto Marin		299487204326715	Facebook	25_34	25-34	IT	Italy	1	1	409	81	8	0
+Articolo Uno Pistoia	Mattia Nesti	454870328326542	Facebook	25_34	25-34	IT	Italy	1	1	409	81	8	0
+Mila X Piossasco	Luca Di Luzio	397852847612691	Facebook	25_34	25-34	IT	Italy	1	1	406	81	8	0
+Agrate Con - Dino Bosisio	Agrate con	272701283677254	Facebook	25_34	25-34	IT	Italy	2	1	404	0	40	0
+Fratelli d'Italia - Circolo di Erba Pinuccio Tatarella		177260355962767	Facebook	25_34	25-34	IT	Italy	2	1	402	80	7	0
+Isabella Dotto	Isabella Dotto	329315094559060	Facebook	25_34	25-34	IT	Italy	1	1	402	201	3	0
+Fabio Massimo Castaldo	Fabio Massimo Castaldo	492943270744959	Facebook	25_34	25-34	IT	Italy	1	1	395	79	7	0
+Debora Cozzolino		319347611995585	Facebook	25_34	25-34	IT	Italy	1	1	393	78	7	0
+Padova Pride 2019	Mattia Galdiolo	952139971607809	Facebook	25_34	25-34	IT	Italy	1	1	390	0	38	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	25_34	25-34	IT	Italy	2	1	378	150	0	0
+Andrea Asciuti		1189591651064118	Facebook	25_34	25-34	IT	Italy	1	1	375	75	7	0
+grillonews.it - giornale equo e solidale	Amedeo Tosi 	220549806511	Facebook	25_34	25-34	IT	Italy	4	1	374	45	19	0
+PD Venezia	Partito Democratico Unione Comunale di Venezia	305506659939331	Facebook	25_34	25-34	IT	Italy	1	1	373	74	7	0
+Marco Curcio - Lega Prato		2120640581323528	Facebook	25_34	25-34	IT	Italy	1	1	370	74	7	0
+Stella Visconti Candidata Portavoce M5S al Parlamento Europeo Centro Italia	Claudio Zarro 	172683703648936	Facebook	25_34	25-34	IT	Italy	1	1	359	179	3	0
+Elezioni Comunali Pontedera a cura di Alessandro Tantussi		152645494910840	Facebook	25_34	25-34	IT	Italy	1	1	358	71	7	0
+Luciano Ciocchetti	Luciano Ciocchetti	121702741251975	Facebook	25_34	25-34	IT	Italy	1	1	354	70	7	0
+Circolo PD Vomero	Marcello Merola	641544702632404	Facebook	25_34	25-34	IT	Italy	1	1	352	70	6	0
+Marco Dreosto		521834031533123	Facebook	25_34	25-34	IT	Italy	1	1	345	69	6	0
+Adapt Oristano	Andrea Vallebona	968718499992203	Facebook	25_34	25-34	IT	Italy	1	1	338	67	6	0
+Pietro Marra	Pietro Marra	1375232809401725	Facebook	25_34	25-34	IT	Italy	1	1	334	67	6	0
+Arcigay Genova	Claudio Tosi	617325368342701	Facebook	25_34	25-34	IT	Italy	1	1	330	66	6	0
+LILA - Lega Italiana per la Lotta contro l'Aids		126790500697643	Facebook	25_34	25-34	IT	Italy	1	1	329	65	6	0
+Fratelli d'Italia - Civitanova Marche	Pierpaolo Borroni 	722545074518754	Facebook	25_34	25-34	IT	Italy	1	1	327	65	6	0
+MJZ		529557893749660	Facebook	25_34	25-34	IT	Italy	1	1	326	0	7	0
+Articolo Uno Ravenna	Articolo Uno Ravenna	1858524514386544	Facebook	25_34	25-34	IT	Italy	2	1	325	0	32	0
+Cristiano Puglisi	Cristiano Puglisi	325631827561520	Facebook	25_34	25-34	IT	Italy	2	1	325	41	15	0
+Fasano Ascenza Loredana - detta Loredana Marangolo		333060274074197	Facebook	25_34	25-34	IT	Italy	1	1	316	63	6	0
+Giovanni Parisi	Giovanni Parisi	406353940154484	Facebook	25_34	25-34	IT	Italy	1	1	315	63	6	0
+Mimmo Talarico		812143505475758	Facebook	25_34	25-34	IT	Italy	1	1	315	0	31	0
+Sinistra Autonomia Federalismo	Paolo Tosciri	781472538871886	Facebook	25_34	25-34	IT	Italy	1	1	301	150	2	0
+Luca Borsari		2305563149675570	Facebook	25_34	25-34	IT	Italy	1	1	297	59	5	0
+Gemeinsam für Terlan, Vilpian & Siebeneich		365258797007976	Facebook	25_34	25-34	IT	Italy	1	1	291	0	28	0
+In Comune - Fano	Simone Uguccioni	349745542257965	Facebook	25_34	25-34	IT	Italy	1	1	290	58	5	0
+Silvia Malivindi candidata M5S Europee Nord Ovest	Silvia Malivindi	626278124502686	Facebook	25_34	25-34	IT	Italy	1	1	281	140	2	0
+Europa Anno Zero		308939363141901	Facebook	25_34	25-34	IT	Italy	1	1	279	0	27	0
+Coluccini Alberto		1468665140013106	Facebook	25_34	25-34	IT	Italy	1	1	277	55	5	0
 Massimiliano Grimaldi		1126143620901834	Facebook	25_34	25-34	IT	Italy	1	1	270	54	4	0
-Andrea Delmastro	Davide Eugenio Zappalà	74110200741	Facebook	25_34	25-34	IT	Italy	2	1	256	42	8	0
-Luciano Pizzoni Sindaco	Luciano Pizzoni Sindaco	2408453165855171	Facebook	25_34	25-34	IT	Italy	1	1	247	0	24	0
-Massimiliano Panizzut Zut	Massimiliano Panizzut	2051353585112195	Facebook	25_34	25-34	IT	Italy	1	1	243	0	24	0
-Stefano Passarini	Stefano Passarini	573828172688916	Facebook	25_34	25-34	IT	Italy	2	1	236	0	23	0
-Bengasi Battisti	Carla Gambale	1234886286582199	Facebook	25_34	25-34	IT	Italy	2	1	236	0	23	0
-Fridays For Future - Forlì	Fridays For Future Forlì	834339196918688	Facebook	25_34	25-34	IT	Italy	1	1	235	0	23	0
+Francesco Forciniti	Francesco Forciniti	185431622208143	Facebook	25_34	25-34	IT	Italy	1	1	268	53	5	0
+PD Rezzato		645458298917628	Facebook	25_34	25-34	IT	Italy	1	1	266	53	5	0
+Ridiamo per non piangere		327846087995802	Facebook	25_34	25-34	IT	Italy	1	1	264	52	5	0
+Francesco Campanella	Francesco Campanella	372597899493981	Facebook	25_34	25-34	IT	Italy	2	1	263	0	26	0
+Gambara Domani	Dario Rubessi	951296355020025	Facebook	25_34	25-34	IT	Italy	1	1	263	52	5	0
+Bosch Global		185652704861747	Facebook	25_34	25-34	IT	Italy	1	1	263	0	26	0
+Stefano Barbieri- per il Consiglio Comunale		352421425368827	Facebook	25_34	25-34	IT	Italy	1	1	262	52	5	0
+Katia Albanese		141502386765960	Facebook	25_34	25-34	IT	Italy	1	1	260	0	25	0
+Mauro Santoni	Mauro Santoni	2313274495628630	Facebook	25_34	25-34	IT	Italy	1	1	258	51	5	0
+Associazione Hera	Maria Elvira Romeo	1600098883391651	Facebook	25_34	25-34	IT	Italy	2	1	250	50	4	0
+Movimento Cristiano Popolare		424480361440267	Facebook	25_34	25-34	IT	Italy	1	1	249	0	24	0
+Patria e Costituzione	Patria e Costituzione	465228750648767	Facebook	25_34	25-34	IT	Italy	1	1	248	49	4	0
+Maria Rosa Belotti Sindaco di Pero	Maria Rosa Belotti	265098356984023	Facebook	25_34	25-34	IT	Italy	2	1	247	0	24	0
+Francesco Tranossi Candidato Consigliere Comunale a Scorzè		1459626884274020	Facebook	25_34	25-34	IT	Italy	2	1	246	0	24	0
+up_to_42		1774969932648405	Facebook	25_34	25-34	IT	Italy	1	1	240	0	23	0
+Maria Leone attivista politico		283597518829195	Facebook	25_34	25-34	IT	Italy	1	1	238	0	23	0
+Save The Seas		2203608429682203	Facebook	25_34	25-34	IT	Italy	1	1	234	46	4	0
 Varese Pride	Arcigay Varese	523268051186707	Facebook	25_34	25-34	IT	Italy	1	1	227	0	22	0
-Andrea Tronzano	The Flag srl	321173954632439	Facebook	25_34	25-34	IT	Italy	1	1	215	43	4	0
-Per Chiesina Uzzanese	Per Chiesina Uzzanese - Di Nuovo Insieme	1402850209999395	Facebook	25_34	25-34	IT	Italy	1	1	213	0	21	0
-Insieme Per Magliano	Insieme per Magliano	817291631982195	Facebook	25_34	25-34	IT	Italy	1	1	210	0	20	0
-Lorenzo Rizzo	Lorenzo Rizzo 	2209384219127782	Facebook	25_34	25-34	IT	Italy	1	1	209	0	20	0
+Business.it	Business.it	673556626032617	Facebook	25_34	25-34	IT	Italy	2	1	222	44	4	0
+Tiziana Alterio		165311350759501	Facebook	25_34	25-34	IT	Italy	1	1	221	44	4	0
+Ginevra Bompiani		2025732017554267	Facebook	25_34	25-34	IT	Italy	1	1	221	110	2	0
+Giorgio Valente Consigliere Comunale		2080765575553950	Facebook	25_34	25-34	IT	Italy	1	1	221	0	21	0
+Russicinquestelle - Amici di Beppe Grillo		1653846971363641	Facebook	25_34	25-34	IT	Italy	1	1	220	44	4	0
+Avanti San Giorgio		1516637955137178	Facebook	25_34	25-34	IT	Italy	1	1	216	0	21	0
+Progetto Pistoia	Daniela Fedi	385229641911503	Facebook	25_34	25-34	IT	Italy	2	1	215	0	21	0
+Leonardo Marras		44353765035	Facebook	25_34	25-34	IT	Italy	1	1	210	42	4	0
+Italo Voza Sindaco	Italo Voza	572718549606135	Facebook	25_34	25-34	IT	Italy	1	1	209	0	20	0
+Volt Modena	Alessandro Lima	398218900938828	Facebook	25_34	25-34	IT	Italy	1	1	209	0	20	0
 Bra, la mia città		589604378175741	Facebook	25_34	25-34	IT	Italy	1	1	205	0	20	0
-Roberto Bazzarello	Roberto Bazzarello	281871691915011	Facebook	25_34	25-34	IT	Italy	1	1	202	0	20	0
-Open Bocconi PD	Roberto Biondini	280672612632082	Facebook	25_34	25-34	IT	Italy	1	1	202	0	20	0
-Insieme per Montefiore	Insieme per Montefiore	935704169936444	Facebook	25_34	25-34	IT	Italy	1	1	196	0	19	0
-Coalizione Civica Ferrara	Coalizione Civica per Ferrara	431281497628012	Facebook	25_34	25-34	IT	Italy	1	1	196	0	19	0
-Daniela Ruffino	Paolo Peira	1408192702783124	Facebook	25_34	25-34	IT	Italy	1	1	187	0	18	0
-Elezionistatigeneralidelledonne	Maria Grazia Flora Santagostino	260931531372598	Facebook	25_34	25-34	IT	Italy	1	1	174	34	3	0
+Daniele Poggio in Regione	Emiliano Darone	620192311737047	Facebook	25_34	25-34	IT	Italy	2	1	203	0	20	0
+Simona Sapignoli		2287396361579661	Facebook	25_34	25-34	IT	Italy	1	1	199	0	19	0
+Raffaele Fitto	Raffaele Fitto	34987266938	Facebook	25_34	25-34	IT	Italy	1	1	197	98	1	0
+Partito Democratico - Avigliana	Sandro Rosso	1501758820050852	Facebook	25_34	25-34	IT	Italy	1	1	193	38	3	0
+PD Pianezza	Michele Marano	112241292157505	Facebook	25_34	25-34	IT	Italy	1	1	189	37	3	0
+CasaPound Italia Sicilia		174497865897770	Facebook	25_34	25-34	IT	Italy	1	1	188	0	18	0
+Europe Thinx		335839580440114	Facebook	25_34	25-34	IT	Italy	1	1	184	36	0	0
+Coalizione Civica Schio		1908220566096849	Facebook	25_34	25-34	IT	Italy	1	1	181	0	18	0
+Patrizia Riva		759506344445508	Facebook	25_34	25-34	IT	Italy	1	1	179	35	3	0
+Alfonso Senatore		393958354663791	Facebook	25_34	25-34	IT	Italy	1	1	178	0	17	0
+CRIF		395919323779707	Facebook	25_34	25-34	IT	Italy	1	1	178	89	0	0
 Lega Giovani X Municipio		1967992106558586	Facebook	25_34	25-34	IT	Italy	1	1	172	0	17	0
-Per Casier - Guardati Sindaco	Simona Guardati	1424962564426141	Facebook	25_34	25-34	IT	Italy	1	1	171	0	17	0
-Maria Gabriella Branca	Luigi Lanza	2340721186159322	Facebook	25_34	25-34	IT	Italy	1	1	170	0	16	0
-Flavio Tosi - Verona	Flavio Tosi	438871629962518	Facebook	25_34	25-34	IT	Italy	1	1	169	0	16	0
+Insieme per Bastiglia - Silvestri Sindaco		1428903490695810	Facebook	25_34	25-34	IT	Italy	1	1	171	0	16	0
 Samuele Siano		284538688712114	Facebook	25_34	25-34	IT	Italy	1	1	169	0	16	0
-Paolo Ciani - Consigliere Regionale del Lazio DEMOS	Paolo Ciani 	1795607690470395	Facebook	25_34	25-34	IT	Italy	1	1	169	0	16	0
-Mario Pozzi	Mario Pozzi	1863868990388556	Facebook	25_34	25-34	IT	Italy	1	1	165	33	3	0
-Errico Di Tillio - Anno Zero	Errico Di Tillio	418744215339376	Facebook	25_34	25-34	IT	Italy	2	1	154	0	15	0
-Sandro Giordani Sindaco	Sandro Giordani	648092968929444	Facebook	25_34	25-34	IT	Italy	1	1	153	0	15	0
-Paola Sardella per Montesilvano	Paola Sardella	391653771685610	Facebook	25_34	25-34	IT	Italy	1	1	152	0	15	0
-Diego Banti - Candidato al Consiglio Comunale di Collesalvetti	Diego Banti	656768971418493	Facebook	25_34	25-34	IT	Italy	1	1	148	0	14	0
-Enrico Rossi	Enrico Rossi	197611081853	Facebook	25_34	25-34	IT	Italy	1	1	148	29	2	0
-Elena Piastra	Elena Piastra	280700035833011	Facebook	25_34	25-34	IT	Italy	1	1	146	0	14	0
-Lubello Francesco	Francesco Lubello	520821171359784	Facebook	25_34	25-34	IT	Italy	1	1	144	0	14	0
-Marco Magarini Montenero	Marco Magarini Montenero	2327015047579648	Facebook	25_34	25-34	IT	Italy	1	1	141	28	2	0
-Leila Kechoud - Candidata al Parlamento europeo - 26 maggio 2019	Leila Kechoud	2247400732195775	Facebook	25_34	25-34	IT	Italy	2	1	140	0	13	0
-Per fortuna sono bianco	Maurizio Chierici	1698573850469214	Facebook	25_34	25-34	IT	Italy	2	1	140	0	13	0
-Giulia Pastorella	Giulia Pastorella | Europa per Scelta	2233320866726559	Facebook	25_34	25-34	IT	Italy	1	1	139	0	13	0
-Uniti Per Oleggio	Matteo Manfredino	319574408751434	Facebook	25_34	25-34	IT	Italy	1	1	134	0	13	0
-Pennini Paolo	Paolo Pennini	2308895076058232	Facebook	25_34	25-34	IT	Italy	1	1	133	0	13	0
-Fabio Amendolara	Fabio Amendolara	122191987831675	Facebook	25_34	25-34	IT	Italy	2	1	132	19	5	0
-EuropaVerde - Comitato VDA Possibile	Fabio Protasoni	1072259289458677	Facebook	25_34	25-34	IT	Italy	1	1	131	0	13	0
-Forza Italia Cecina		207881243771	Facebook	25_34	25-34	IT	Italy	1	1	130	0	12	0
-Arianna Verucci Candidata Europee 2019	Arianna Verucci	351797152405843	Facebook	25_34	25-34	IT	Italy	1	1	129	0	12	0
-Giovanni Nezzo e Marina Agostino per Sanremo 2019	Fabrizio Lupi	1893433370779693	Facebook	25_34	25-34	IT	Italy	1	1	125	0	12	0
-Antonio Sacchi candidato consigliere comunale	Antonio Sacchi	1579919362232744	Facebook	25_34	25-34	IT	Italy	1	1	123	0	12	0
-Daniele Baglione	Daniele Baglione	301747710209067	Facebook	25_34	25-34	IT	Italy	1	1	120	0	11	0
-Rosaria Talarico - Candidata Parlamento europeo - Elezioni europee 2019	Rosaria Talarico	612175085913846	Facebook	25_34	25-34	IT	Italy	1	1	120	0	11	0
-Ripamonti Sindaco - Lega Usmate Velate	Francesca Capaccioli	425444267476044	Facebook	25_34	25-34	IT	Italy	1	1	120	0	11	0
-Claudio Fochi consigliere M5S	Claudio Fochi	509365529239515	Facebook	25_34	25-34	IT	Italy	1	1	119	0	11	0
-Cristiano Puglisi	Cristiano Puglisi	325631827561520	Facebook	25_34	25-34	IT	Italy	1	1	119	0	11	0
-Matteo Melato - Lega Reggio Emilia	Matteo Melato 	539466976169977	Facebook	25_34	25-34	IT	Italy	1	1	114	0	11	0
-Cinzia Rubertelli Sindaco	Prati Andrea mandatario elettorale di Rubertelli Cinzia	1409656025962989	Facebook	25_34	25-34	IT	Italy	1	1	112	0	11	0
-Onda - Recco	Onda - Recco	538021029594910	Facebook	25_34	25-34	IT	Italy	1	1	111	0	11	0
-Arci Torino	Arci Torino	1521404598105232	Facebook	25_34	25-34	IT	Italy	1	1	106	0	10	0
-Riccardo Meloni	Riccardo Meloni	2296269550654817	Facebook	25_34	25-34	IT	Italy	1	1	102	0	10	0
-Daniele Tromboni M5S candidato al Parlamento Europeo	Daniele Tromboni	1772378256414400	Facebook	25_34	25-34	IT	Italy	1	1	98	19	1	0
+Merqurio Napoli	Francesco De Rienzo	1490730267848206	Facebook	25_34	25-34	IT	Italy	1	1	165	33	3	0
+Paolo Retinò candidato consigliere Bassano del Grappa	Paolo Retinò	351096442216643	Facebook	25_34	25-34	IT	Italy	2	1	165	0	16	0
+GenerAzione Ponte		2234818240131971	Facebook	25_34	25-34	IT	Italy	1	1	164	0	16	0
+Federico Valceschini	Federico Valceschini	395097484289044	Facebook	25_34	25-34	IT	Italy	1	1	161	0	16	0
+Paolo Loizzo Sindaco		529770324218900	Facebook	25_34	25-34	IT	Italy	1	1	161	0	16	0
+Forza Italia Cecina		207881243771	Facebook	25_34	25-34	IT	Italy	1	1	159	0	15	0
+Casa Hirta		131732907511460	Facebook	25_34	25-34	IT	Italy	2	1	156	0	15	0
+San Valentino Torio in Movimento		155391888460186	Facebook	25_34	25-34	IT	Italy	1	1	155	0	15	0
+Flavio Tosi	Flavio Tosi	1587501794851407	Facebook	25_34	25-34	IT	Italy	1	1	153	30	3	0
+Giorgia Manghi - Fratelli d’Italia - Reggio E.		236039050456052	Facebook	25_34	25-34	IT	Italy	1	1	153	0	15	0
+Spi Cgil Emilia Romagna	Marco Sotgiu	302217009973416	Facebook	25_34	25-34	IT	Italy	1	1	147	73	1	0
+Alex Bazzaro	Alex Bazzaro	163927824248716	Facebook	25_34	25-34	IT	Italy	1	1	147	29	2	0
+Carmen Pizzirusso		797497013720348	Facebook	25_34	25-34	IT	Italy	1	1	147	0	14	0
+marianoduepuntozero		230686126945990	Facebook	25_34	25-34	IT	Italy	1	1	140	0	13	0
+Elena Lizzi		2345475355729251	Facebook	25_34	25-34	IT	Italy	1	1	139	0	13	0
+Baby Artisan		401855653739009	Facebook	25_34	25-34	IT	Italy	1	1	139	0	13	0
+Andrea Telchime	Andrea Telchime	794539650559164	Facebook	25_34	25-34	IT	Italy	1	1	138	0	13	0
+Pistoia in Comune	Daniela Fedi	259840158164428	Facebook	25_34	25-34	IT	Italy	3	1	138	0	13	0
+Silvia De Lorenzis		399466734205787	Facebook	25_34	25-34	IT	Italy	1	1	130	0	12	0
+Igor Gabrovec		179730662208777	Facebook	25_34	25-34	IT	Italy	1	1	129	0	12	0
+Plictisescu.ro		184028071751540	Facebook	25_34	25-34	IT	Italy	1	1	129	64	0	0
+Franc Bogovič	Slovenska ljudska stranka (SLS)	288826994603012	Facebook	25_34	25-34	IT	Italy	4	1	127	25	0	0
+Mahindra Rise		158304157570734	Facebook	25_34	25-34	IT	Italy	1	1	118	59	0	0
+Mila Spicola in Europa		228944137628154	Facebook	25_34	25-34	IT	Italy	1	1	111	22	2	0
+Partito Democratico Bagno A Ripoli		268138826715429	Facebook	25_34	25-34	IT	Italy	1	1	109	0	9	0
+Più Europa Bergamo		735367466658625	Facebook	25_34	25-34	IT	Italy	1	1	103	0	10	0
+Erika Seta Sindaco 2019	Mirko Pedica	326337917508193	Facebook	25_34	25-34	IT	Italy	1	1	99	0	9	0
+Igor Iezzi - Lega Salvini Premier	Igor Giancarlo Iezzi	371129666769551	Facebook	25_34	25-34	IT	Italy	1	1	94	0	9	0
 Menichetti e Chelli. candidati al consiglio comunale di Pontedera.		2245613075704962	Facebook	25_34	25-34	IT	Italy	1	1	94	0	9	0
-Alessandra Senatore	Domenico Campeglia	668311250269031	Facebook	25_34	25-34	IT	Italy	1	1	90	0	8	0
-Cavezzo Viva - Associazione Culturale	Enrico Malverti	619037048529553	Facebook	25_34	25-34	IT	Italy	1	1	89	0	8	0
-Ilaria Antelmi	Ilaria Antelmi 	2217881658525706	Facebook	25_34	25-34	IT	Italy	1	1	87	0	8	0
-PD Bovisio Masciago	Circolo Partito Democratico Bovisio Masciago	415837031877100	Facebook	25_34	25-34	IT	Italy	1	1	81	0	8	0
-PD Ottava Circoscrizione VR	Giuseppe Merlin	2246774735559915	Facebook	25_34	25-34	IT	Italy	1	1	77	0	7	0
-Democratici Civici Muggiò	Democratici Civici - Muggiò con Testa	2191838891068698	Facebook	25_34	25-34	IT	Italy	1	1	69	0	6	0
-QdN Qualcosa di Napoli	Angela Pascale	375975729177114	Facebook	25_34	25-34	IT	Italy	1	1	68	0	6	0
-Forza Italia Pontedera	Alessandro Tantussi	398070784329706	Facebook	25_34	25-34	IT	Italy	1	1	65	0	6	0
-Claudia Stomeo	Marco Panareo	357540418216403	Facebook	25_34	25-34	IT	Italy	1	1	62	0	6	0
-Gabriele Padovani	Andrea Liverani	1559045154349568	Facebook	25_34	25-34	IT	Italy	1	1	60	0	6	0
-Graziano Frigeri Blog	Graziano Frigeri	102686153435265	Facebook	25_34	25-34	IT	Italy	1	1	59	0	5	0
-Alessandro Gaetani - Verbania Viva per Marchionini Sindaco	Alessandro Gaetani	2144362922279334	Facebook	25_34	25-34	IT	Italy	1	1	59	11	1	0
-Articolo Uno Pescara	Francesco D'Agresta	370948169996345	Facebook	25_34	25-34	IT	Italy	1	1	50	0	5	0
+ETUC		129041250601685	Facebook	25_34	25-34	IT	Italy	1	1	91	18	0	0
+Carlo Brusa		427799904664605	Facebook	25_34	25-34	IT	Italy	1	1	85	0	8	0
+Francesco Sangermano - Lista Nardella Sindaco	Francesco Sangermano	579633412446869	Facebook	25_34	25-34	IT	Italy	1	1	85	17	1	0
+Circolo PD Vergato		1558661721072010	Facebook	25_34	25-34	IT	Italy	1	1	84	0	8	0
+Davide Perrini - Castelletto è Tua		2276687609215791	Facebook	25_34	25-34	IT	Italy	1	1	82	0	8	0
+Giorgia Andreuzza		395302610880245	Facebook	25_34	25-34	IT	Italy	1	1	75	0	7	0
+Carmine Campitelli	Carmine Campitelli	328360094459687	Facebook	25_34	25-34	IT	Italy	1	1	74	0	7	0
+Igor Gelarda		911961728894076	Facebook	25_34	25-34	IT	Italy	1	1	74	0	7	0
+CSVnet		904724502974742	Facebook	25_34	25-34	IT	Italy	1	1	69	0	6	0
+Fratelli D'Italia Cerveteri "LiberaMente"		525934134449347	Facebook	25_34	25-34	IT	Italy	1	1	64	0	6	0
+Psicopolitica		264883480745032	Facebook	25_34	25-34	IT	Italy	1	1	64	0	5	0
+San Giorgio di Piano a 5 Stelle		631302016909675	Facebook	25_34	25-34	IT	Italy	2	1	63	7	3	0
+Movimento Scaligero - Città Stato d'Europa	Nardi Andrea 	141913629232126	Facebook	25_34	25-34	IT	Italy	1	1	62	0	6	0
+Roberto Monti		1652341844978256	Facebook	25_34	25-34	IT	Italy	1	1	60	0	5	0
+Ettore Bucci	Ettore Bucci	227291858039379	Facebook	25_34	25-34	IT	Italy	1	1	59	0	5	0
+Serena Jaff candidata al Consiglio Comunale di Firenze		1455633574672869	Facebook	25_34	25-34	IT	Italy	1	1	53	0	5	0
+Eurozine		115579498521257	Facebook	25_34	25-34	IT	Italy	1	1	51	10	1	0
 Open FVG	Greta Reverdito	363847417393088	Facebook	25_34	25-34	IT	Italy	1	1	50	0	4	0
-Giovanni Russo	Giovanni Russo	1590626850978164	Facebook	25_34	25-34	IT	Italy	1	1	45	9	0	0
+No more bricks in the Wall		1854947667901523	Facebook	25_34	25-34	IT	Italy	1	1	47	0	4	0
+Giovanni Russo	Giovanni Russo	1590626850978164	Facebook	25_34	25-34	IT	Italy	1	1	46	9	0	0
+Talking Trees: Adult Survivors of CSA		157082910999500	Facebook	25_34	25-34	IT	Italy	1	1	45	0	4	0
+Partito Democratico del Lazio		809541855778354	Facebook	25_34	25-34	IT	Italy	1	1	45	0	4	0
+Poesia colore vita		1378555169115411	Facebook	25_34	25-34	IT	Italy	1	1	40	0	3	0
 Davide Artiko		789495278077545	Facebook	25_34	25-34	IT	Italy	1	1	39	0	3	0
-Cgil Rieti Roma Est Valle dell'Aniene	Cgil Rieti Roma Est Valle dell'Aniene	1389445751377147	Facebook	25_34	25-34	IT	Italy	1	1	36	0	3	0
-Il puntino sulla d	Francesco Portone	252906558149274	Facebook	25_34	25-34	IT	Italy	1	1	25	0	2	0
-La Sinistra Lazio	Giancarlo Ilari	326405431406323	Facebook	25_34	25-34	IT	Italy	1	1	24	0	2	0
-Franc Bogovič	Slovenska ljudska stranka (SLS)	288826994603012	Facebook	25_34	25-34	IT	Italy	1	1	3	1	0	0
-Die neue SPÖ Tirol	SPÖ Tirol	172040642860223	Facebook	25_34	25-34	IT	Italy	1	1	2	0	0	0
-Matjaž Nemec	Socialni demokrati (SD)	642148249206716	Facebook	25_34	25-34	IT	Italy	1	1	0	0	0	0
+Serena Spinelli		1475431256096693	Facebook	25_34	25-34	IT	Italy	1	1	32	0	3	0
+Ambiente Mare Italia		1978323772189377	Facebook	25_34	25-34	IT	Italy	1	1	31	0	3	0
+Salvatore Ladaga		414623595782456	Facebook	25_34	25-34	IT	Italy	1	1	30	0	2	0
+ITUC		20556338116	Facebook	25_34	25-34	IT	Italy	2	1	26	0	2	0
+Fridays For Future - Rovigo		576642682819155	Facebook	25_34	25-34	IT	Italy	1	1	22	0	2	0
+Marinela V. Ardelean		346137638884956	Facebook	25_34	25-34	IT	Italy	1	1	14	2	0	0
+Matjaž Nemec	Socialni demokrati (SD)	642148249206716	Facebook	25_34	25-34	IT	Italy	2	1	6	2	0	0
+JUNOS Studierende	JUNOS Studierende	231166380411824	Facebook	25_34	25-34	IT	Italy	5	1	4	1	0	0
+Die neue SPÖ Tirol	SPÖ Tirol	172040642860223	Facebook	25_34	25-34	IT	Italy	2	1	4	2	0	0
+Free Quran Education		388655174641163	Facebook	25_34	25-34	IT	Italy	1	1	4	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	25_34	25-34	IT	Italy	2	1	4	0	0	0
+MN Benito		1273446302821491	Facebook	25_34	25-34	IT	Italy	1	1	4	0	0	0
+Časopis Slovenec	Slovenska ljudska stranka (SLS)	240130223029252	Facebook	25_34	25-34	IT	Italy	1	1	3	1	0	0
+Tom MacDonald		212732770186	Facebook	25_34	25-34	IT	Italy	1	1	2	0	0	0
+GRAS - Grüne & Alternative Student_innen	GRAS - Grüne & Alternative Student_innen	79935247286	Facebook	25_34	25-34	IT	Italy	3	1	1	0	0	0
+USR Dolj	Uniunea Salvați România	109556372802910	Facebook	25_34	25-34	IT	Italy	1	1	1	0	0	0
+VoteEuropa - France	Jules Nicolas André Bejot 	2031732090462417	Facebook	25_34	25-34	IT	Italy	3	1	1	0	0	0
+Hindu Human Rights		69641119075	Facebook	25_34	25-34	IT	Italy	1	1	1	0	0	0
+Tokyo Weekender		134654693230171	Facebook	25_34	25-34	IT	Italy	1	1	1	0	0	0
+EiendomsMegler 1 Hamar		1629418810634981	Facebook	25_34	25-34	IT	Italy	1	1	0	0	0	0
+USR Diaspora	Uniunea Salvați România - USR	1793510380925494	Facebook	25_34	25-34	IT	Italy	1	1	0	0	0	0
+The Years Project	The Years Project	168876449866088	Facebook	25_34	25-34	IT	Italy	1	1	0	0	0	0
+dom-i-NEEK		260052198180831	Facebook	25_34	25-34	IT	Italy	1	1	0	0	0	0

@@ -1,45 +1,220 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-European Parliament	European Parliament	178362315106	Facebook	m55_64	male (55-64)	NL	Netherlands	4	1	43702	17592	431	81
-VVD	VVD	121264564551002	Facebook	m55_64	male (55-64)	NL	Netherlands	5	1	24382	10611	108	19
-ChristenUnie	ChristenUnie	211661062254003	Facebook	m55_64	male (55-64)	NL	Netherlands	20	1	18621	3696	50	0
-GroenLinks	GroenLinks	175740570505	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	5573	2724	40	5
-D66	D66	52985377549	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	4443	1697	10	1
-PvdA Amsterdam	Partij van de Arbeid (PvdA)	170060616402275	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	3053	610	30	6
-Malik Azmani	Malik Azmani	1734459723547461	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	2428	1214	24	0
+CDA	CDA	320374518118	Facebook	m55_64	male (55-64)	NL	Netherlands	8	1	199190	88426	1146	298
+Partij van de Arbeid (PvdA)	Partij van de Arbeid (PvdA)	113895885305052	Facebook	m55_64	male (55-64)	NL	Netherlands	24	1	139933	55369	725	226
+European Parliament	European Parliament	178362315106	Facebook	m55_64	male (55-64)	NL	Netherlands	11	1	136122	56451	878	236
+VVD	VVD	121264564551002	Facebook	m55_64	male (55-64)	NL	Netherlands	29	1	123932	54473	771	137
+De Goede Zaak	DeGoedeZaak	264564577356897	Facebook	m55_64	male (55-64)	NL	Netherlands	9	1	111119	46082	1249	257
+Jesse Klaver	GroenLinks	687496011309020	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	85088	34937	805	161
+D66	D66	52985377549	Facebook	m55_64	male (55-64)	NL	Netherlands	21	1	65994	25595	391	65
+Esther de Lange	Esther de Lange	206205079489175	Facebook	m55_64	male (55-64)	NL	Netherlands	10	1	63025	27348	179	27
+Partij voor de Dieren	Partij voor de Dieren	102287806490622	Facebook	m55_64	male (55-64)	NL	Netherlands	16	1	47147	19849	394	150
+Paul Tang	PvdA	208020512703248	Facebook	m55_64	male (55-64)	NL	Netherlands	6	1	40455	15722	215	35
+GroenLinks	GroenLinks	175740570505	Facebook	m55_64	male (55-64)	NL	Netherlands	14	1	38483	16490	415	109
+ChristenUnie	ChristenUnie	211661062254003	Facebook	m55_64	male (55-64)	NL	Netherlands	21	1	37984	18923	229	43
+Volt Nederland	Volt Nederland	146644665960101	Facebook	m55_64	male (55-64)	NL	Netherlands	43	1	33773	8835	798	27
+SP	SP	128393027527	Facebook	m55_64	male (55-64)	NL	Netherlands	16	1	32867	11170	400	87
+College voor de Rechten van de Mens	College voor de Rechten van de Mens	176804439190262	Facebook	m55_64	male (55-64)	NL	Netherlands	8	1	29808	12842	173	60
+Daan Versteeg	Versteeg Daniel R	1010657719133321	Facebook	m55_64	male (55-64)	NL	Netherlands	37	1	27114	8046	361	22
+CDA Zuid-Holland	CDA Zuid-Holland	1523833891223465	Facebook	m55_64	male (55-64)	NL	Netherlands	45	1	21961	8537	149	6
+Gert-Jan Segers	ChristenUnie	147772805659767	Facebook	m55_64	male (55-64)	NL	Netherlands	6	1	20731	6691	209	66
+Elke Stem Telt	Ministerie van Binnenlandse Zaken en Koninkrijksrelaties	1443518785699143	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	18433	9216	92	18
+Malik Azmani	Malik Azmani	1734459723547461	Facebook	m55_64	male (55-64)	NL	Netherlands	26	1	16308	5690	238	8
+Stem Roy Europa in	Van Run Jan Joep Willem	285840025653872	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	16060	3212	171	29
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	m55_64	male (55-64)	NL	Netherlands	11	1	12881	3413	49	6
+Agnes Jongerius	Partij van de Arbeid (PvdA)	764061133777036	Facebook	m55_64	male (55-64)	NL	Netherlands	5	1	12624	2975	36	0
+Kati Piri	PvdA	254626848046622	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	12084	2756	32	0
+Henk Jan Ormel	CDA	823537391322678	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	11795	4799	29	10
+Rosa_Molenaar		372789573197562	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	9999	2000	99	20
+Eveline Herben	Herben Eveline Marie	350805055554039	Facebook	m55_64	male (55-64)	NL	Netherlands	15	1	9484	2059	343	18
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	9283	4449	55	21
+CDA Overijssel	CDA Overijssel	206932742776182	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	8731	2160	28	0
+Theo Alkemade	Alkemade Theodoor C W M	298059754467115	Facebook	m55_64	male (55-64)	NL	Netherlands	9	1	7899	1509	51	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	m55_64	male (55-64)	NL	Netherlands	16	1	6968	1515	87	2
+Jeroen Janssen - kandidaat Europarlementariër	Van Oosterbosch Benjamin	921841297985499	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	6846	1369	16	0
+Jeroen Lenaers	Jeroen Lenaers	316960281776479	Facebook	m55_64	male (55-64)	NL	Netherlands	7	1	6792	3222	72	0
+Bas Eickhout	GroenLinks	208578955894331	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	6724	1344	67	13
+Toine Manders		435867793202351	Facebook	m55_64	male (55-64)	NL	Netherlands	5	1	6148	1680	77	8
+PvdA Amsterdam	Partij van de Arbeid (PvdA)	170060616402275	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	5633	2816	28	5
+VVD Goeree-Overflakkee	VVD Goeree-Overflakkee	305812906126532	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	5405	1081	53	10
+Tom Berendsen	2R Development	2301184920146129	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	4800	947	53	9
+Jacques Michel Bloi - VVD #13 voor Europa	Bloi Jacques M	1435938086636544	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	4691	1035	11	0
+PvdA Haarlem	Partij van de Arbeid	374461422625101	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	4121	812	51	7
+GroenLinks Den Haag	GroenLinks Den Haag	133610523380150	Facebook	m55_64	male (55-64)	NL	Netherlands	4	1	4027	1012	47	5
+D66 Enschede	D66	123661660977745	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	4005	2002	19	4
+Amnesty International Nederland	Amnesty International Nederland	57729029960	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	3564	1782	32	16
+D66 Overijssel	D66	153430294762818	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	3430	1715	17	3
+Pieter Paul Slikker - PvdA 073	PvdA Den Bosch	509675125832784	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	3187	637	17	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	3063	612	30	6
+Oxfam Novib	Oxfam Novib	115289021825188	Facebook	m55_64	male (55-64)	NL	Netherlands	4	1	2994	1038	60	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	2761	1380	6	1
+Vote4Friendship		335742437041631	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	2105	421	21	4
 ABN AMRO		206592029351928	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	2075	1037	20	0
-Daan Versteeg	Versteeg Daniel R	1010657719133321	Facebook	m55_64	male (55-64)	NL	Netherlands	10	1	1921	272	82	0
-Rosa_Molenaar		372789573197562	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	1788	894	17	0
-De Goede Zaak	DeGoedeZaak	264564577356897	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	1762	352	9	0
-Jeroen Lenaers	Jeroen Lenaers	316960281776479	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	1112	222	22	0
-Esther de Lange	Esther de Lange	206205079489175	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	651	325	6	0
-VVD Goeree-Overflakkee	VVD Goeree-Overflakkee	305812906126532	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	607	121	12	0
-Theo Alkemade	Alkemade Theodoor C W M	298059754467115	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	600	120	11	0
-Jeroen Janssen - kandidaat Europarlementariër	Van Oosterbosch Benjamin	921841297985499	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	471	94	9	0
-Jacques Michel Bloi - VVD #13 voor Europa	Bloi Jacques M	1435938086636544	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	259	51	5	0
-De Liberalisten	Jorick Werkhoven	193566098045383	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	199	0	19	0
-VVD Alphen a/d Rijn	Leenaerts Bas M	473422542679870	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	149	0	14	0
-Kati Piri	PvdA	254626848046622	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	143	0	14	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	141	70	0	0
-lunaslatexx	Berkers Julia Floor	1275687902594977	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	124	0	12	0
-VVD Leidschendam-Voorburg	VVD Leidschendam-Voorburg	498944610134140	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	117	0	11	0
-Jimmy Bastings	Bastings Jimmy Anna Hubertus	2262432790696805	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	117	23	2	0
-Maurice Hoogeveen	Hoogeveen Willem M	577556976024596	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	108	0	10	0
-European Commission	European Commission	107898832590939	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	104	52	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	41	13	0	0
+GroenLinks Rotterdam	GroenLinks Rotterdam	116050085145365	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	2043	408	11	0
+Stichting De Noordzee	Stichting De Noordzee	128160633899802	Facebook	m55_64	male (55-64)	NL	Netherlands	4	1	2009	789	38	0
+Susținători USR Olanda	Uniunea Salvați România - USR	287790698753359	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	1614	322	16	3
+De Liberalisten	Jorick Werkhoven	193566098045383	Facebook	m55_64	male (55-64)	NL	Netherlands	4	1	1437	180	70	0
+Jimmy Bastings	Bastings Jimmy Anna Hubertus	2262432790696805	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	1432	570	19	0
+GroenLinks Sittard-Geleen		386396184818902	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	1430	286	2	0
+VVD Leiden	VVD Leiden	145751698819583	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	1211	242	23	0
+Michael Pistecky	Pistecky Michal Vladimir	2022603798035877	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	1164	228	24	0
+Werk gezocht		439982882734383	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	1116	301	4	0
+Winq.nl	Winq.nl	120087784724637	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	1084	542	10	0
+Maurice Hoogeveen	Hoogeveen Willem M	577556976024596	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	1068	213	21	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	m55_64	male (55-64)	NL	Netherlands	11	1	875	301	3	0
+Zero House Solutions		705854649778213	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	875	175	17	0
+GroenLinks Lochem		661049547329075	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	801	160	15	0
+Pvda Den Bosch	PvdA Den Bosch	627201893971363	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	742	371	7	0
+Raoul Boucke	Raoul Boucke	1378051212479416	Facebook	m55_64	male (55-64)	NL	Netherlands	5	1	738	137	18	0
+VVD Alphen a/d Rijn	Leenaerts Bas M	473422542679870	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	698	139	13	0
+Boaz Adank	Boost Breda	897610483722357	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	660	330	6	0
+PerspectieF, ChristenUnie-jongeren	PerspectieF ChristenUnie-jongeren	209648345740233	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	590	295	5	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	588	160	9	0
+VVD Leidschendam-Voorburg	VVD Leidschendam-Voorburg	498944610134140	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	580	113	12	0
+Natuur & Milieu	Natuur & Milieu	156571571036057	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	569	255	0	0
+European Commission	European Commission	107898832590939	Facebook	m55_64	male (55-64)	NL	Netherlands	9	1	520	221	1	0
+PvdA Stichtse Vecht	Van Der Wijck George Michael Theodoor	1715340175444649	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	514	102	10	0
+Andor Admiraal	Admiraal Andor	339803596625568	Facebook	m55_64	male (55-64)	NL	Netherlands	6	1	375	0	37	0
+Peter Mertens	PVDA	236485149843971	Facebook	m55_64	male (55-64)	NL	Netherlands	35	1	361	150	3	0
+De Balie	De Balie	259613427387423	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	353	62	10	0
+lunaslatexx	Berkers Julia Floor	1275687902594977	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	335	0	33	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	263	123	0	0
+PvdA-Harderwijk		583900934989488	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	249	0	22	0
+PvdA Rotterdam	PvdA Rotterdam	340871992590484	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	212	42	4	0
+Kim De Witte	PVDA	315662412174661	Facebook	m55_64	male (55-64)	NL	Netherlands	12	1	211	67	1	0
+Benni Leemhuis		219151244837835	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	194	0	19	0
+Europees Parlement Nederland	Europees Parlement Nederland	270788920480	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	193	38	3	0
+PvdA Haren		234858363335659	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	126	0	12	0
+Les Wallons ne sont pas des parasites.Les Belges d'abord.		159664670746380	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	91	45	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	76	21	0	0
+CDA Hoeksche Waard		184189882389473	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	69	0	6	0
+Tony Coonen	Tony Coonen sp.a	2012732799023622	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	63	12	0	0
+WECF Nederland - Women Engage for a Common Future		156890504400941	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	49	9	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	m55_64	male (55-64)	NL	Netherlands	5	1	42	13	0	0
+Sense Mesura		1606564102740842	Facebook	m55_64	male (55-64)	NL	Netherlands	15	1	39	0	3	0
 VVD Tytsjerksteradiel		971443309666536	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	38	0	3	0
-Peter Mertens	PVDA	236485149843971	Facebook	m55_64	male (55-64)	NL	Netherlands	4	1	24	11	0	0
-Kim De Witte	PVDA	315662412174661	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	13	2	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	11	2	0	0
-CDH liste à la Chambre province de Liège	CDH - Centre Démocrate Humaniste	268478507423505	Facebook	m55_64	male (55-64)	NL	Netherlands	4	1	7	1	0	0
-Christian Leysen	Christian Leysen	403864600161608	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	1	0	0	0
-Open Vld	Open Vld	53668151866	Facebook	m55_64	male (55-64)	NL	Netherlands	4	1	1	0	0	0
-Charis Kamoen	Kamoen Charis Oswald M	207387513240677	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	1	0	0	0
-Bart Smans, 17e plaats N-VA Vlaams Parlement	N-VA	800585406798122	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	1	0	0	0
-N-VA Mol	N-VA Mol	293016180727875	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
-Joris Vandenbroucke	Vandenbroucke Joris Jeroen J	984867054996076	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
-Jos D'Haese	PVDA	1397002987227704	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	0	0	0	0
-Alain Mertes	Vivant Ostbelgien	168912413949537	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
-Lode Ceyssens	Lode Ceyssens	690224427744073	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
-Wouter Vermeersch	Vlaams Belang	1819099895078637	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Kristof Hendrickx	Kristof Hendrickx, N-VA	125105154858140	Facebook	m55_64	male (55-64)	NL	Netherlands	4	1	37	14	0	0
+Beercoo Schoonmaakgroep		186356714730081	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	35	17	0	0
+Open Vld	Open Vld	53668151866	Facebook	m55_64	male (55-64)	NL	Netherlands	10	1	28	12	0	0
+CRIF		395919323779707	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	25	12	0	0
+Daniel Freund	Bündnis 90 / Die Grünen Kreisverband Aachen	566872987051379	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	25	12	0	0
+CDH liste à la Chambre province de Liège	CDH - Centre Démocrate Humaniste	268478507423505	Facebook	m55_64	male (55-64)	NL	Netherlands	9	1	25	10	0	0
+Raf Terwingen	Raf Terwingen	421841541630421	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	23	4	0	0
+Vivant   Ostbelgien	Vivant Ostbelgien	1440393739538888	Facebook	m55_64	male (55-64)	NL	Netherlands	5	1	22	7	0	0
+Tom Kersemans	Tom Maria L Kersemans	353496071904485	Facebook	m55_64	male (55-64)	NL	Netherlands	4	1	21	5	0	0
+PVDA	PVDA	54970503767	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	20	10	0	0
+Chris Janssens	Vlaams Belang	2169582779959649	Facebook	m55_64	male (55-64)	NL	Netherlands	5	1	19	4	0	0
+Europe Thinx		335839580440114	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	19	3	0	0
+ETUC		129041250601685	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	19	3	0	0
+Christian Leysen	Christian Leysen	403864600161608	Facebook	m55_64	male (55-64)	NL	Netherlands	8	1	16	3	0	0
+Bart Smans, 17e plaats N-VA Vlaams Parlement	N-VA	800585406798122	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	14	2	0	0
+MR - Mouvement Réformateur	MR - Mouvement Réformateur	236330169511	Facebook	m55_64	male (55-64)	NL	Netherlands	4	1	13	4	0	0
+SP Ostbelgien	SP Ostbelgien	183856108612877	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	12	2	0	0
+Faye Van Impe		529592387474876	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	11	2	0	0
+Vlaams Belang	Vlaams Belang	56605856504	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	9	4	0	0
+Big News Buzz		125179374733697	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	9	4	0	0
+Alain Mertes	Vivant Ostbelgien	168912413949537	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	9	1	0	0
+Sp.a Hasselt		341171816001580	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	9	1	0	0
+Olivier Chastel	MR - Mouvement Réformateur	36858143935	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	8	3	0	0
+Wim Dries	Dries Wim Jozef L	147307255351530	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	8	4	0	0
+Jos D'Haese	PVDA	1397002987227704	Facebook	m55_64	male (55-64)	NL	Netherlands	6	1	7	1	0	0
+Johan Vande Lanotte	Johan Vande Lanotte	326674124027240	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	7	1	0	0
+Joris Vandenbroucke	Vandenbroucke Joris Jeroen J	984867054996076	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	6	1	0	0
+Lode Ceyssens	Lode Ceyssens	690224427744073	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	6	1	0	0
+Yellowed		422966644928472	Facebook	m55_64	male (55-64)	NL	Netherlands	6	1	6	0	0	0
+Charis Kamoen	Kamoen Charis Oswald M	207387513240677	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	5	1	0	0
+Annick Laloux-Ruelle	Frédéric Ruelle	630009867450719	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	5	1	0	0
+Frieda Gijbels	Nieuw-Vlaamse Alliantie	1985027248380103	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	5	1	0	0
+Volt Deutschland	Volt Deutschland	134209407129787	Facebook	m55_64	male (55-64)	NL	Netherlands	6	1	4	1	0	0
+N-VA Mol	N-VA Mol	293016180727875	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	4	2	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	4	1	0	0
+Christophe Lacroix	Denis De Nicolo 	487300758065559	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	4	0	0	0
+Tess Minnens	Minnens Tess Veerie L	131791854353190	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	3	1	0	0
+Monica De Coninck - Europese verkiezingen	De Coninck Monica Josephine L	336638023665298	Facebook	m55_64	male (55-64)	NL	Netherlands	4	1	3	1	0	0
+Yasmine Kherbache - volksvertegenwoordiger	Sp.a Antwerpen	189145821274552	Facebook	m55_64	male (55-64)	NL	Netherlands	7	1	3	0	0	0
+Alexander De Croo	Alexander De Croo	228307843991539	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	3	1	0	0
+Daan De Veuster	De Veuster Daan Jozef D	1753693034925883	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	3	1	0	0
+Frank Vroonen	Vroonen Frank Gert H	372220956948780	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	3	0	0	0
+Pritty Kaur	sp.a	413843202368855	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	2	0	0	0
+N-VA Temse	N-VA Temse	157739524296696	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	2	0	0	0
+Lise Vandecasteele	PVDA	2433030616715564	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	2	0	0	0
+Hans Verreyt	Verreyt Hans Breatrijs H	252441445625720	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	2	1	0	0
+Nele Lijnen	Lijnen Nele	1583308831974521	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	2	0	0	0
+Georges Balon Perin, Erasmus kandidaat bij GROEN		820663108311661	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	2	0	0	0
+Ilse Van Eetvelde politiek	Ilse Van Eetvelde politiek	620289881717694	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	2	0	0	0
+N-VA Limburg	Nieuw-Vlaamse Alliantie	1599226510296139	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	2	0	0	0
+Katrien Schryvers		143895972907981	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	2	1	0	0
+Rezi Friedman	Friedman Rezi	249135725796994	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	1	0	0	0
+Gabriela Mirescu		2618888988127707	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	1	0	0	0
+Wouter Vermeersch	Vlaams Belang	1819099895078637	Facebook	m55_64	male (55-64)	NL	Netherlands	4	1	1	0	0	0
+Sébastien Doutreloup	Sébastien Camille C.Doutreloup	2605782112772045	Facebook	m55_64	male (55-64)	NL	Netherlands	4	1	1	0	0	0
+Kasper Vandecasteele	Vandecasteele Kasper	525551311288918	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	1	0	0	0
+Paul Magnette		29384148415	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	1	0	0	0
+Sara Moors	Moors Sara Rita J	378340112764943	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	1	0	0	0
+Annick Lambrecht	Lambrecht Annick Jacques M	2229481170658339	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	1	0	0	0
+Province : il est temps de faire bouger les choses avec ECOLO		2132853950059181	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	1	0	0	0
+N-VA Merksplas		1015975858428193	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	1	0	0	0
+Dirk Rochtus, plaats 27 voor het Vlaams Parlement, Provincie Antwerpen	Dirk Rochtus	381494492700046	Facebook	m55_64	male (55-64)	NL	Netherlands	4	1	1	0	0	0
+Wendy Hendrickx - N-VA Mechelen		551722081924188	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	1	0	0	0
+Vlaams Belang Zutendaal		168469827080277	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	1	0	0	0
+Sabine Vermeulen	N-VA	214103642510187	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	1	0	0	0
+Veerle Baeyens	N-VA	1402339926704301	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	1	0	0	0
+Eurozine		115579498521257	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	1	0	0	0
+Anja Vanrobaeys	Vanrobaeys Anja Maurits	795798820785493	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+sp.a	sp.a	57253967150	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Orry Van de Wauwer	Orry Van de Wauwer	100752223802681	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	0	0	0	0
+Carolin Henseler	Carolin Nicola Henseler	201743000578232	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Friedrich Jeschke	Friedrich Jeschke	603303090083496	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Jan-Baptist Lemaire	Lemaire Jan-Baptist Catherine J	436626493747712	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Groen Lebbeke	Pollet Tim	579893498817499	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Steve Vandenberghe	Vanderberghe Steve Louis W	405020113176546	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Alexandra D'Archambeau	D'Archambeau Alexandra Sylvie O	213637018831903	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Michelle Ginée	Ginee Michelle	1059190017557242	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	0	0	0	0
 Evi Van Camp	Van Camp Evi	1758937624358952	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
-Michelle Ginée	Ginee Michelle	1059190017557242	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Parti Socialiste (PS)	Parti Socialiste (PS)	518402351504731	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	0	0	0	0
+Ben Segers - Antwerpen	Segers Ben	467059900446915	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Alexander Miesen	Alexander Marcellus Miesen	136747073688457	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Jan Cornillie	Cornillie Jan	980619838787000	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	0	0	0	0
+Tom De Meester	PVDA	409051602452966	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Tom Vandenkendelaere	Tom Vandenkendelaere	676737302477960	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	0	0	0	0
+An Christiaens	Christiaens An Liliane B	427409014327861	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Jean de Bethune	De Bethune Jean Baptiste E	425691141175605	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Kris Verbeeck	Verbeeck Kris	1950393285282665	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	0	0	0	0
+N-VA Aalter	Tillieu Jelle Gerard M	183728085015968	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Conner Rousseau	Conner Rousseau	942750852588816	Facebook	m55_64	male (55-64)	NL	Netherlands	5	1	0	0	0	0
+Helga Stevens	N-VA	213362252188490	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Carrera Neefs Campagne Dagboek	Neefs Carrera Peggy R	1047450252106555	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Free Quran Education		388655174641163	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	0	0	0	0
+Stefan Berger	Stefan Berger	279808529194	Facebook	m55_64	male (55-64)	NL	Netherlands	4	1	0	0	0	0
+Melanie Blesgen, Candidate aux élections régionales 2019	Melanie Blesgen	408261873079490	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Peter Gysbrechts	Neys Tom	363197027117917	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Cindy Franssen.	Franssen Cindy	404939213355109	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Plictisescu.ro		184028071751540	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Manu Douette		727590607265719	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Natalie Eggermont	PVDA	415595709204858	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Laure Nkundakozera Uwase #23		1844087905686822	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+PVDA West-Vlaanderen	PVDA	1661103980836335	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Babette Brusselmans	Brusselmans Babette	173356493548795	Facebook	m55_64	male (55-64)	NL	Netherlands	3	1	0	0	0	0
+ITUC		20556338116	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Nathalie Muylle	Nathalie Muylle	1230985333669070	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Sarah Smeyers	N-VA	95712061024	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Matthias Diependaele	Nieuw-Vlaamse Alliantie	543319679114946	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Ditjon Kraja - Election 2019	Ditjon Kraja	306781353351999	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+PVDA Brugge	PVDA	581383855270720	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Minister Harald Mollers	Harald Mollers	1869992013240347	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+CD&V Oostkamp	CD&V Oostkamp	2062142307347631	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+The Years Project	The Years Project	168876449866088	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Veerle Heeren	Heeren Veerle Gaston M	257966507711216	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Dirk De fauw	De Fauw Dirk Mark L	904083546394929	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Siegfried Bracke	N-VA	219849638569609	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Elke Sleurs	N-VA	571227032971640	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Anneleen Van Bossuyt	N-VA	1375436739430055	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+N-VA Gent	Nieuw-Vlaamse Alliantie	125138890876117	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+N-VA Groot Aalst	Nieuw-Vlaamse Alliantie	274961409207861	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+CD&V Erpe-Mere	Van Vaerenbergh Johan August G	287188131471344	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Maryam Jamshid	Jamshid Maryam	245016762713020	Facebook	m55_64	male (55-64)	NL	Netherlands	2	1	0	0	0	0
+Koen Daniëls	N-VA	711452742279820	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Tom MacDonald		212732770186	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Oona Wyns	Wyns Oona Elisa J	285090205488587	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+MN Benito		1273446302821491	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0
+Tokyo Weekender		134654693230171	Facebook	m55_64	male (55-64)	NL	Netherlands	1	1	0	0	0	0

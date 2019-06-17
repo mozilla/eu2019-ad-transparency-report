@@ -1,64 +1,256 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	region_code_filter	region_name_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-CDU	CDU	78502295414	Facebook	hessen	Hessen	DE	Germany	479	1	1172118	199915	42360	0
-FDP	FDP	21289227249	Facebook	hessen	Hessen	DE	Germany	611	1	269593	3494	25175	3
-BÜNDNIS 90/DIE GRÜNEN	BÜNDNIS 90/DIE GRÜNEN	47217143218	Facebook	hessen	Hessen	DE	Germany	128	1	232754	44296	5625	117
-FDP Hessen	FDP Hessen	188188564583	Facebook	hessen	Hessen	DE	Germany	2	1	99989	19998	197	0
-Freie Demokraten Marburg-Biedenkopf	FDP Marburg-Biedenkopf	1809612912702100	Facebook	hessen	Hessen	DE	Germany	3	1	10997	2000	297	0
-Greenpeace Deutschland	Greenpeace Deutschland	22541752487	Facebook	hessen	Hessen	DE	Germany	4	1	10002	2000	198	0
-European Parliament	European Parliament	178362315106	Facebook	hessen	Hessen	DE	Germany	1	1	8427	4213	42	8
-Verband der Chemischen Industrie e.V.	Chemie Wirtschaftsförderungs GmbH	921326477983554	Facebook	hessen	Hessen	DE	Germany	97	1	5296	191	455	0
-Junge Union Main-Taunus	Junge Union Main-Taunus	344008438956618	Facebook	hessen	Hessen	DE	Germany	1	1	4999	1000	99	0
-FDP Bad Hersfeld	FDP Bad Hersfeld	208377339290284	Facebook	hessen	Hessen	DE	Germany	1	1	4314	863	85	0
-Landtag Rheinland-Pfalz	Landtag Rheinland-Pfalz	1339267256128796	Facebook	hessen	Hessen	DE	Germany	1	1	4133	826	41	8
-Party of the European Left	Franziska Laskowski	160598290012	Facebook	hessen	Hessen	DE	Germany	1	1	3624	1450	3	0
-Demokratie in Europa - Diem25	Demokratie in Europa - DiEM25	267443093828699	Facebook	hessen	Hessen	DE	Germany	18	1	3436	1370	25	2
-Europäisches Parlament - Verbindungsbüro in Deutschland	Europäisches Parlament - Verbindungsbüro in Deutschland	294494163510	Facebook	hessen	Hessen	DE	Germany	2	1	2972	1486	10	4
-GoodJobs	GoodJobs	1004883576238809	Facebook	hessen	Hessen	DE	Germany	1	1	2415	483	47	0
-AfD Fraktion Darmstadt	AfD-Darmstadt-Fraktion	1287910941236600	Facebook	hessen	Hessen	DE	Germany	1	1	999	0	99	0
-Martin Hohmann, MdB	Martin Hohmann	1942497819398764	Facebook	hessen	Hessen	DE	Germany	1	1	958	0	94	0
-MENSCHLICHE WELT	Menschliche Welt	245758938922923	Facebook	hessen	Hessen	DE	Germany	7	1	923	225	7	0
-PARTEI MENSCH UMWELT TIERSCHUTZ	PARTEI MENSCH UMWELT TIERSCHUTZ	108568039165729	Facebook	hessen	Hessen	DE	Germany	6	1	897	173	12	1
-Jusos in der SPD	Jusos in der SPD	40415227476	Facebook	hessen	Hessen	DE	Germany	2	1	811	162	1	0
+CDU	CDU	78502295414	Facebook	hessen	Hessen	DE	Germany	1347	1	3657592	731811	118298	9
+BÜNDNIS 90/DIE GRÜNEN	BÜNDNIS 90/DIE GRÜNEN	47217143218	Facebook	hessen	Hessen	DE	Germany	1392	1	3542735	1093464	52973	4571
+Nicola Beer	FDP	206866712830769	Facebook	hessen	Hessen	DE	Germany	80	1	2494109	1064362	24132	5255
+FDP	FDP	21289227249	Facebook	hessen	Hessen	DE	Germany	1461	1	1233775	249458	40835	52
+DIE LINKE	DIE LINKE	47694585682	Facebook	hessen	Hessen	DE	Germany	81	1	412211	124763	3812	104
+SPD	SPD	47930567748	Facebook	hessen	Hessen	DE	Germany	4433	1	355914	131273	5459	164
+FDP Hessen	FDP Hessen	188188564583	Facebook	hessen	Hessen	DE	Germany	9	1	330996	104124	1247	99
+Christiane Hinninger	Christiane Hinninger	333672360622676	Facebook	hessen	Hessen	DE	Germany	4	1	249996	80000	1996	400
+Sebastian Rutten	Sebastian Rutten - FDP WIesbaden	344889229443918	Facebook	hessen	Hessen	DE	Germany	22	1	209241	49252	3181	264
+Gert-Uwe Mende	Evelyn Barbara Susanne Otto	2171790612879542	Facebook	hessen	Hessen	DE	Germany	2	1	149841	59926	597	99
+DIE LINKE. Hessen	DIE LINKE. Hessen	558754197477014	Facebook	hessen	Hessen	DE	Germany	1	1	99999	50000	999	500
+Junge Union Hessen	Junge Union Hessen	219942005150	Facebook	hessen	Hessen	DE	Germany	12	1	76988	30000	1188	0
+CDU Darmstadt	CDU Kreisverband Darmstadt	192894677394511	Facebook	hessen	Hessen	DE	Germany	10	1	74990	14000	990	0
+European Parliament	European Parliament	178362315106	Facebook	hessen	Hessen	DE	Germany	13	1	50134	22553	327	71
+SPD-Bezirk Hessen-Süd	SPD-Bezirk Hessen-Süd	1333107056727044	Facebook	hessen	Hessen	DE	Germany	1	1	49999	10000	499	100
+Volker Bouffier	CDU Hessen	53810387822	Facebook	hessen	Hessen	DE	Germany	1	1	49999	10000	499	100
+Katarina Barley	SPD	1522202731410785	Facebook	hessen	Hessen	DE	Germany	837	1	47306	11180	806	14
+Avaaz	Avaaz	8340223883	Facebook	hessen	Hessen	DE	Germany	26	1	35957	15728	318	62
+Demokratie in Europa - Diem25	Demokratie in Europa - DiEM25	267443093828699	Facebook	hessen	Hessen	DE	Germany	89	1	35394	13178	186	44
+AfD Fraktion Darmstadt	AfD-Darmstadt-Fraktion	1287910941236600	Facebook	hessen	Hessen	DE	Germany	9	1	32991	6000	891	0
+Freie Demokraten Marburg-Biedenkopf	FDP Marburg-Biedenkopf	1809612912702100	Facebook	hessen	Hessen	DE	Germany	6	1	29773	5955	589	0
+Ökologisch-Demokratische Partei (ÖDP)	Ökologisch-Demokratische Partei (ÖDP)	120655374567	Facebook	hessen	Hessen	DE	Germany	15	1	25486	12585	79	18
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	hessen	Hessen	DE	Germany	33	1	25191	11009	194	43
+Martina Werner	SPD-Bezirk Hessen-Nord	578604215560969	Facebook	hessen	Hessen	DE	Germany	7	1	24200	4461	629	0
+ABOUT YOU	ABOUT YOU	689801517732186	Facebook	hessen	Hessen	DE	Germany	5	1	20822	10060	129	30
+Die Offene Gesellschaft	die Initiative Offene Gesellschaft mit Facebook-Werbegutschrift	912255502235222	Facebook	hessen	Hessen	DE	Germany	464	1	20486	4337	483	14
+Thalia Buchhandlung - Thalia.de	Thalia Buchhandlung - Thalia.de	342884401877	Facebook	hessen	Hessen	DE	Germany	16	1	19743	8707	314	68
+Greenpeace Deutschland	Greenpeace Deutschland	22541752487	Facebook	hessen	Hessen	DE	Germany	17	1	19182	7195	229	5
+PARTEI MENSCH UMWELT TIERSCHUTZ	PARTEI MENSCH UMWELT TIERSCHUTZ	108568039165729	Facebook	hessen	Hessen	DE	Germany	14	1	16671	6965	138	40
+Martin Hohmann, MdB	Martin Hohmann	1942497819398764	Facebook	hessen	Hessen	DE	Germany	5	1	16584	2927	482	0
+Kialo	Kialo	729627343834501	Facebook	hessen	Hessen	DE	Germany	65	1	16191	3695	154	29
+DIE LINKE. im Lahn-Dill-Kreis	DIE LINKE Lahn-Dill	450531351694799	Facebook	hessen	Hessen	DE	Germany	7	1	15928	2648	528	0
+Junge Union Main-Taunus	Junge Union Main-Taunus	344008438956618	Facebook	hessen	Hessen	DE	Germany	3	1	14997	3000	297	0
+Sven Giegold	Sven Giegold	1391306014465513	Facebook	hessen	Hessen	DE	Germany	21	1	14249	4618	104	18
+Europäisches Parlament - Verbindungsbüro in Deutschland	Europäisches Parlament - Verbindungsbüro in Deutschland	294494163510	Facebook	hessen	Hessen	DE	Germany	3	1	14118	6385	104	20
+Campact e.V.	Campact e.V.	82734241364	Facebook	hessen	Hessen	DE	Germany	6	1	13581	6552	102	24
+ViolavonCramon	BÜNDNIS 90/DIE GRÜNEN	126525857429764	Facebook	hessen	Hessen	DE	Germany	4	1	9529	1906	53	8
+Grüner Fisher Investments	Grüner Fisher Investments	138832469593845	Facebook	hessen	Hessen	DE	Germany	173	1	9460	1477	559	54
+FDP Bad Hersfeld	FDP Bad Hersfeld	208377339290284	Facebook	hessen	Hessen	DE	Germany	1	1	8379	4189	82	0
+Sozialdemokratische Partei Europas	Sozialdemokratische Partei Europas	338549033673221	Facebook	hessen	Hessen	DE	Germany	16	1	7836	3193	29	4
+GoodJobs	GoodJobs	1004883576238809	Facebook	hessen	Hessen	DE	Germany	11	1	7791	1357	229	0
+Partei der Humanisten	Partei der Humanisten	499613946840551	Facebook	hessen	Hessen	DE	Germany	8	1	7688	3335	74	18
+Verband der Chemischen Industrie e.V.	Chemie Wirtschaftsförderungs GmbH	921326477983554	Facebook	hessen	Hessen	DE	Germany	116	1	7564	903	528	1
+Party of the European Left	Franziska Laskowski	160598290012	Facebook	hessen	Hessen	DE	Germany	2	1	7085	2834	41	10
+MENSCHLICHE WELT	Menschliche Welt	245758938922923	Facebook	hessen	Hessen	DE	Germany	24	1	6838	2422	86	19
+Deine Würde - Eine Initiative zum 70. Jubiläum des Grundgesetzes	Deine Würde - Eine Initiative zum 70. Jubiläum des Grundgesetzes	316160725982888	Facebook	hessen	Hessen	DE	Germany	1	1	5368	2684	26	5
+Oliver Stirböck MdL - liberal leben	Kay Oliver Stirböck	597845546916967	Facebook	hessen	Hessen	DE	Germany	1	1	4999	1000	99	0
+Timon Gremmels	Timon Gremmels, MdB	621438468048970	Facebook	hessen	Hessen	DE	Germany	1	1	4999	1000	99	0
+SPD Darmstadt	SPD Darmstadt	214383545099	Facebook	hessen	Hessen	DE	Germany	1	1	4999	1000	99	0
+NPD-Fraktion Wetzlar		293398401003744	Facebook	hessen	Hessen	DE	Germany	1	1	4881	976	96	0
+BÜNDNIS 90/DIE GRÜNEN Hessen	BÜNDNIS 90/DIE GRÜNEN Hessen	22865297210	Facebook	hessen	Hessen	DE	Germany	3	1	4845	664	216	0
+Senatsverwaltung für Kultur und Europa		247450562347746	Facebook	hessen	Hessen	DE	Germany	3	1	4792	2122	10	3
+European Greens	European Greens	141366725876424	Facebook	hessen	Hessen	DE	Germany	8	1	4748	2363	23	6
+Talking Europe	Diskutier Mit Mir e.V.	316028505828375	Facebook	hessen	Hessen	DE	Germany	6	1	4639	1623	46	8
+Landtag Rheinland-Pfalz	Landtag Rheinland-Pfalz	1339267256128796	Facebook	hessen	Hessen	DE	Germany	1	1	4471	894	44	8
+Monika Hohlmeier	Monika Hohlmeier	139065632780165	Facebook	hessen	Hessen	DE	Germany	5	1	4389	2041	20	3
+Jusos in der SPD	Jusos in der SPD	40415227476	Facebook	hessen	Hessen	DE	Germany	18	1	4306	1474	35	5
+Volt Deutschland	Volt Deutschland	134209407129787	Facebook	hessen	Hessen	DE	Germany	99	1	4297	963	65	0
+Initiative Neue Soziale Marktwirtschaft (INSM)	Initiative Neue Soziale Marktwirtschaft (INSM)	121678260974	Facebook	hessen	Hessen	DE	Germany	101	1	4107	967	79	0
+Grüne Mannheim	BÜNDNIS 90/DIE GRÜNEN Kreisverband Mannheim	123290727868673	Facebook	hessen	Hessen	DE	Germany	4	1	4041	1590	19	3
+Junge Liberale JuLis	Junge Liberale	110976485656573	Facebook	hessen	Hessen	DE	Germany	5	1	4022	1590	55	10
+Neue Liberale - Die Sozialliberalen		730976676939532	Facebook	hessen	Hessen	DE	Germany	2	1	3757	1466	3	0
+Familien-Partei		2314479965496560	Facebook	hessen	Hessen	DE	Germany	1	1	3713	1856	18	9
+Bundesregierung	Bundesregierung	768905426534529	Facebook	hessen	Hessen	DE	Germany	1	1	3243	1297	32	6
+Grüne Jugend	Grüne Jugend	159474940754336	Facebook	hessen	Hessen	DE	Germany	5	1	3063	1375	16	6
+AfD	AfD	540404695989874	Facebook	hessen	Hessen	DE	Germany	5	1	2982	1491	14	4
+WWF Deutschland	WWF Deutschland	218786540044	Facebook	hessen	Hessen	DE	Germany	6	1	2965	1320	29	13
+Europäische Kommission – Vertretung in Deutschland	Europäische Kommission – Vertretung in Deutschland	123332714357231	Facebook	hessen	Hessen	DE	Germany	13	1	2829	642	25	4
+European Free Alliance	European Free Alliance	46708306425	Facebook	hessen	Hessen	DE	Germany	4	1	2701	1077	27	5
+Tierschutz hier	Rudolf Görg 	2309063122705796	Facebook	hessen	Hessen	DE	Germany	12	1	2654	584	17	2
+SPD-Bundestagsfraktion	SPD-Bundestagsfraktion	144380008933707	Facebook	hessen	Hessen	DE	Germany	8	1	2555	723	7	0
+JEF Hessen	JEF - Junge Europäische Föderalisten Landesverband Hessen e.V.	154111581275112	Facebook	hessen	Hessen	DE	Germany	4	1	2531	0	250	0
+Friedrich-Naumann-Stiftung für die Freiheit	Friedrich-Naumann-Stiftung für die Freiheit	140889782312	Facebook	hessen	Hessen	DE	Germany	12	1	2522	754	16	2
+ÖDP Mainz-Stadt		350663078345150	Facebook	hessen	Hessen	DE	Germany	1	1	2441	1220	121	24
+DGB Bundesvorstand	Deutscher Gewerkschaftsbund (DGB)	147245511963527	Facebook	hessen	Hessen	DE	Germany	1	1	2394	957	23	4
+Eko Fresh	Christoph Friedrich Brust	103824796345976	Facebook	hessen	Hessen	DE	Germany	5	1	2201	682	17	3
+Diakonie Deutschland	Diakonie Deutschland	41509493347	Facebook	hessen	Hessen	DE	Germany	9	1	2042	427	10	1
+Grüne Jugend Kassel	Johannes Kreuzer	116897208384893	Facebook	hessen	Hessen	DE	Germany	2	1	1998	0	198	0
+VoteEuropa Deutschland	Verena Katharina Riedmiller	628787484249066	Facebook	hessen	Hessen	DE	Germany	3	1	1930	434	19	3
+Demokratie in Bewegung	Demokratie in Bewegung	1799478453653006	Facebook	hessen	Hessen	DE	Germany	13	1	1878	663	16	2
+Carolin Henseler	Carolin Nicola Henseler	201743000578232	Facebook	hessen	Hessen	DE	Germany	2	1	1852	916	46	9
+#NatürlichEuropa	Deutscher Naturschutzring DNR e.V.	255657841991242	Facebook	hessen	Hessen	DE	Germany	2	1	1765	882	9	3
+Arbeitgeberverband Gesamtmetall	Arbeitgeberverband Gesamtmetall	169367889785454	Facebook	hessen	Hessen	DE	Germany	33	1	1762	344	21	0
+Bayernpartei	Bayernpartei	78309442751	Facebook	hessen	Hessen	DE	Germany	4	1	1728	671	20	9
+Demokratie in Bewegung Sachsen-Anhalt	Demokratie in Bewegung Sachsen-Anhalt	1907967889415631	Facebook	hessen	Hessen	DE	Germany	2	1	1682	832	4	0
+Deutsche gegen Rassismus	BIG Partei Deutschland	2367349223545054	Facebook	hessen	Hessen	DE	Germany	10	1	1482	296	9	0
+Özlem Alev Demirel	DIE LINKE. NRW	602487899802568	Facebook	hessen	Hessen	DE	Germany	1	1	1471	735	7	3
+Manuela Ripa	Manuela Magda Franca Maria Ripa	271226510199428	Facebook	hessen	Hessen	DE	Germany	7	1	1383	270	20	6
+thyssenkrupp	thyssenkrupp	644063045675734	Facebook	hessen	Hessen	DE	Germany	1	1	1358	679	3	0
+Klima-Allianz Deutschland	Klima-Allianz Deutschland	110521004952	Facebook	hessen	Hessen	DE	Germany	4	1	1355	558	8	3
+Freie Wähler Bundesvereinigung	Freie Wähler Bundesvereinigung	204327886385912	Facebook	hessen	Hessen	DE	Germany	2	1	1303	557	8	1
+Graue Panther wählen	Rudolf Görg 	2014695908579485	Facebook	hessen	Hessen	DE	Germany	10	1	1253	337	17	3
+IG Metall	IG Metall	249296718436	Facebook	hessen	Hessen	DE	Germany	2	1	1045	463	2	0
+Bündnis Grundeinkommen	Bündnis Grundeinkommen	548285578684618	Facebook	hessen	Hessen	DE	Germany	14	1	1033	291	14	1
+FinanzAgenda	Union Investment	276690259403364	Facebook	hessen	Hessen	DE	Germany	20	1	1031	214	17	0
+Grüne HSK	Jörg Rostek	426725177414680	Facebook	hessen	Hessen	DE	Germany	2	1	1011	500	5	2
+Delara Burkhardt	SPD Schleswig-Holstein	260587924600836	Facebook	hessen	Hessen	DE	Germany	4	1	1008	498	2	0
+Change.org	Change.org e.V.	530905320274921	Facebook	hessen	Hessen	DE	Germany	3	1	1004	200	1	0
+LiSL Deutschland	Michael Kauch	223782884301813	Facebook	hessen	Hessen	DE	Germany	6	1	883	195	11	2
+Konrad-Adenauer-Stiftung	Konrad-Adenauer-Stiftung	44511549119	Facebook	hessen	Hessen	DE	Germany	5	1	873	174	3	0
+USR Diaspora	Uniunea Salvați România - USR	1793510380925494	Facebook	hessen	Hessen	DE	Germany	1	1	833	416	4	0
+Andrea Nahles	SPD	161929783920704	Facebook	hessen	Hessen	DE	Germany	2	1	769	153	7	1
 ver.di	la red	252085013582	Facebook	hessen	Hessen	DE	Germany	1	1	747	373	7	3
-Junge Liberale JuLis	Junge Liberale	110976485656573	Facebook	hessen	Hessen	DE	Germany	2	1	543	108	5	1
-Arbeitgeberverband Gesamtmetall	Arbeitgeberverband Gesamtmetall	169367889785454	Facebook	hessen	Hessen	DE	Germany	8	1	460	101	6	0
-Monika Hohlmeier	Monika Hohlmeier	139065632780165	Facebook	hessen	Hessen	DE	Germany	1	1	410	82	4	0
-SPD-Bundestagsfraktion	SPD-Bundestagsfraktion	144380008933707	Facebook	hessen	Hessen	DE	Germany	1	1	388	77	0	0
-Partei der Humanisten	Partei der Humanisten	499613946840551	Facebook	hessen	Hessen	DE	Germany	4	1	377	73	2	0
-Bayernpartei	Bayernpartei	78309442751	Facebook	hessen	Hessen	DE	Germany	1	1	371	74	3	0
-DIE LINKE	DIE LINKE	47694585682	Facebook	hessen	Hessen	DE	Germany	4	1	355	88	4	0
-Katarina Barley	SPD	1522202731410785	Facebook	hessen	Hessen	DE	Germany	12	1	269	48	7	0
-SPD	SPD	47930567748	Facebook	hessen	Hessen	DE	Germany	16	1	260	39	10	0
-Sven Giegold	Sven Giegold	1391306014465513	Facebook	hessen	Hessen	DE	Germany	3	1	252	126	2	0
-European Free Alliance	European Free Alliance	46708306425	Facebook	hessen	Hessen	DE	Germany	2	1	221	42	4	2
-FDP Fraktion Bundestag	Fraktion der Freien Demokraten	341486659645594	Facebook	hessen	Hessen	DE	Germany	4	1	128	39	2	0
-Arbeitnehmer und Rentner Union ARU	Peter Otto Arthur Rippler 	408239062653173	Facebook	hessen	Hessen	DE	Germany	3	1	121	42	1	0
+Adenauer Campus	Konrad-Adenauer-Stiftung	225123097665916	Facebook	hessen	Hessen	DE	Germany	44	1	687	122	30	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	hessen	Hessen	DE	Germany	1	1	685	137	6	1
+FDP Fraktion Bundestag	Fraktion der Freien Demokraten	341486659645594	Facebook	hessen	Hessen	DE	Germany	22	1	653	155	14	0
+Kleiner Fünf	Kleiner Fünf	1768812013390432	Facebook	hessen	Hessen	DE	Germany	2	1	649	129	6	1
+Bündnis C - Christen für Deutschland	Bündnis C - Christen für Deutschland	675671552542620	Facebook	hessen	Hessen	DE	Germany	3	1	628	125	6	1
+Deutsches Kinderhilfswerk e.V.	Deutsches Kinderhilfswerk e.V.	107407945980041	Facebook	hessen	Hessen	DE	Germany	3	1	589	117	6	1
+Mike Mohring	CDU Weimarer Land	188677361503511	Facebook	hessen	Hessen	DE	Germany	9	1	569	150	4	0
+Fridays for Future Deutschland	Together for Future e.V. 	2010920999000602	Facebook	hessen	Hessen	DE	Germany	13	1	540	13	48	0
+UNO-Flüchtlingshilfe	UNO-Flüchtlingshilfe	236934790401	Facebook	hessen	Hessen	DE	Germany	8	1	515	122	5	0
+BIG Partei Deutschland	BIG Partei Deutschland	353378298097249	Facebook	hessen	Hessen	DE	Germany	5	1	503	98	6	0
+Quorum	European Exchange	3138731056152846	Facebook	hessen	Hessen	DE	Germany	3	1	473	115	2	0
+Mehr Wirtschaft wagen	Arbeitgeberverband Gesamtmetall	1805769829749530	Facebook	hessen	Hessen	DE	Germany	8	1	472	90	5	0
+Udo Bullmann	Udo Bullmann	68936775929	Facebook	hessen	Hessen	DE	Germany	2	1	470	235	4	0
+Arbeitnehmer und Rentner Union ARU	Peter Otto Arthur Rippler 	408239062653173	Facebook	hessen	Hessen	DE	Germany	5	1	465	129	2	0
+Thomas Sattelberger	Thomas Sattelberger	1714244788796089	Facebook	hessen	Hessen	DE	Germany	1	1	425	85	0	0
+UDO VOIGT für Deutschland in Europa	UDO VOIGT für Deutschland in Europa	598011190253742	Facebook	hessen	Hessen	DE	Germany	1	1	418	209	4	2
+Michael Bloss	Michael Bloss	587477178350898	Facebook	hessen	Hessen	DE	Germany	2	1	414	82	1	0
+Robert Farle	Robert Farle	1565754943752371	Facebook	hessen	Hessen	DE	Germany	3	1	393	77	4	0
+FDP Wahlkampf	Philippe André Westenfelder	393722064802394	Facebook	hessen	Hessen	DE	Germany	2	1	363	91	1	0
+Lars Klingbeil	Lars Klingbeil	355456486093	Facebook	hessen	Hessen	DE	Germany	1	1	360	72	7	3
+Markenverband e.V.	Markenverband e.V.	482176671952628	Facebook	hessen	Hessen	DE	Germany	7	1	347	66	8	0
+Bundesministerium für Arbeit und Soziales	Bundesministerium für Arbeit und Soziales	108268845888673	Facebook	hessen	Hessen	DE	Germany	2	1	342	87	1	0
+YOU.and.EU	Nordstrom Laura Helena	250361215678222	Facebook	hessen	Hessen	DE	Germany	2	1	338	67	0	0
+Hannah Neumann	Bündnis 90/Die Grünen Berlin-Lichtenberg	316076495487717	Facebook	hessen	Hessen	DE	Germany	2	1	335	67	3	0
+DIE LINKE. Mannheim	Die Linke Kreisverband Mannheim	138048962930334	Facebook	hessen	Hessen	DE	Germany	7	1	334	66	2	0
+Danke, Freihandel.	VDMA	226651401514704	Facebook	hessen	Hessen	DE	Germany	12	1	329	101	8	0
+SPD Sachsen	SPD Sachsen	50169278122	Facebook	hessen	Hessen	DE	Germany	5	1	327	148	3	0
+Reinhard Bütikofer	Reinhard Bütikofer	328884927228588	Facebook	hessen	Hessen	DE	Germany	4	1	327	62	1	0
+enorm Magazin	GoodJobs	273110452731	Facebook	hessen	Hessen	DE	Germany	2	1	325	65	1	0
+LOVE- Dmitry Kuzmin		1431285403818547	Facebook	hessen	Hessen	DE	Germany	1	1	325	65	3	0
+Junges Freiburg	Junges Freiburg e.V.	244355055724023	Facebook	hessen	Hessen	DE	Germany	3	1	304	72	1	0
+Paul Ziemiak	Paul Ziemiak	1067821176570031	Facebook	hessen	Hessen	DE	Germany	4	1	296	69	6	2
+Hannes Jaenicke	David Michel Löwe 	731404243600603	Facebook	hessen	Hessen	DE	Germany	1	1	289	57	0	0
+Schule ohne Rassismus - Schule mit Courage Bundeskoordination	Schule ohne Rassismus - Schule mit Courage Bundeskoordination	244755398898581	Facebook	hessen	Hessen	DE	Germany	1	1	279	55	0	0
+Piratenpartei	Piratenpartei	149871337782	Facebook	hessen	Hessen	DE	Germany	1	1	275	55	5	2
+Norbert Kleinwächter		346613215704870	Facebook	hessen	Hessen	DE	Germany	1	1	272	54	0	0
+Karsten Hilse	Karsten Hilse 	358099231236311	Facebook	hessen	Hessen	DE	Germany	4	1	271	53	1	0
+Marie-Agnes Strack-Zimmermann	Marie-Agnes Strack-Zimmermann	782677895144628	Facebook	hessen	Hessen	DE	Germany	2	1	270	54	2	0
+CDU in Niedersachsen	CDU in Niedersachsen	109460782417586	Facebook	hessen	Hessen	DE	Germany	2	1	263	100	1	0
+FDP Bremen	FDP Bremen	152934608113175	Facebook	hessen	Hessen	DE	Germany	3	1	251	62	4	0
+Junge Union Deutschlands	Junge Union Deutschlands	46098347293	Facebook	hessen	Hessen	DE	Germany	8	1	245	65	6	0
+Moira Fine Jewellery		644735598990369	Facebook	hessen	Hessen	DE	Germany	1	1	239	47	0	0
+Diether Dehm	Diether Dehm	51091986850	Facebook	hessen	Hessen	DE	Germany	1	1	233	116	2	0
+Sozialistische Gleichheitspartei, IV Internationale - SGP	Helmut Wilhelm Arens	90523314133	Facebook	hessen	Hessen	DE	Germany	1	1	228	45	2	0
+Berliner Stadtwerke	Berliner Stadtwerke	765844936882239	Facebook	hessen	Hessen	DE	Germany	1	1	208	104	1	0
+Karsten Klein	Karsten Klein	120519827980254	Facebook	hessen	Hessen	DE	Germany	7	1	178	64	2	0
+Michael Kauch	Michael Kauch	68189497138	Facebook	hessen	Hessen	DE	Germany	4	1	174	73	4	0
+Jens Spahn	Jens Spahn	92576009043	Facebook	hessen	Hessen	DE	Germany	6	1	157	64	4	0
+Phil Hackemann	Philip Fritz Hermann Hackemann	234193444126795	Facebook	hessen	Hessen	DE	Germany	5	1	150	49	2	0
+Johannes Vogel	Johannes Vogel	486203081469505	Facebook	hessen	Hessen	DE	Germany	6	1	142	42	2	0
+BDI - Bundesverband der Deutschen Industrie	BDI - Bundesverband der Deutschen Industrie	186206440652	Facebook	hessen	Hessen	DE	Germany	7	1	114	5	9	0
+NPD Kreisverband Wartburgkreis	NPD Kreisverband Wartburgkreis	275153395915489	Facebook	hessen	Hessen	DE	Germany	1	1	113	22	1	0
 FÜR Karlsruhe	FÜR Karlsruhe - Politik mit christlicher Herzenshaltung e.V.	260790977428638	Facebook	hessen	Hessen	DE	Germany	1	1	110	0	10	0
-VoteEuropa Deutschland	Verena Katharina Riedmiller	628787484249066	Facebook	hessen	Hessen	DE	Germany	1	1	99	19	1	0
-Konrad-Adenauer-Stiftung	Konrad-Adenauer-Stiftung	44511549119	Facebook	hessen	Hessen	DE	Germany	3	1	84	16	1	0
-Grüne Mannheim	BÜNDNIS 90/DIE GRÜNEN Kreisverband Mannheim	123290727868673	Facebook	hessen	Hessen	DE	Germany	2	1	74	30	1	0
-Adenauer Campus	Konrad-Adenauer-Stiftung	225123097665916	Facebook	hessen	Hessen	DE	Germany	8	1	71	4	5	0
-Robert Farle	Robert Farle	1565754943752371	Facebook	hessen	Hessen	DE	Germany	2	1	43	18	0	0
-Graue Panther wählen	Rudolf Görg 	2014695908579485	Facebook	hessen	Hessen	DE	Germany	1	1	38	7	0	0
-Phil Hackemann	Philip Fritz Hermann Hackemann	234193444126795	Facebook	hessen	Hessen	DE	Germany	1	1	37	7	0	0
-Bündnis Grundeinkommen	Bündnis Grundeinkommen	548285578684618	Facebook	hessen	Hessen	DE	Germany	2	1	33	5	1	0
-Junge Union Deutschlands	Junge Union Deutschlands	46098347293	Facebook	hessen	Hessen	DE	Germany	2	1	31	5	0	0
-LiSL Deutschland	Michael Kauch	223782884301813	Facebook	hessen	Hessen	DE	Germany	2	1	29	4	1	0
-FDP Wahlkampf	Philippe André Westenfelder	393722064802394	Facebook	hessen	Hessen	DE	Germany	1	1	28	5	0	0
-JU-Kreisverband Deggendorf	Stefan Johann Zitzelsberger	377562525780294	Facebook	hessen	Hessen	DE	Germany	1	1	26	5	0	0
-Marie-Agnes Strack-Zimmermann	Marie-Agnes Strack-Zimmermann	782677895144628	Facebook	hessen	Hessen	DE	Germany	1	1	24	4	0	0
-Demokratie in Bewegung	Demokratie in Bewegung	1799478453653006	Facebook	hessen	Hessen	DE	Germany	1	1	23	4	0	0
-Alternative für Deutschland Mayen-Koblenz	Alternative für Deutschland Mayen-Koblenz	160882790765796	Facebook	hessen	Hessen	DE	Germany	1	1	21	4	0	0
-Karsten Klein	Karsten Klein	120519827980254	Facebook	hessen	Hessen	DE	Germany	1	1	21	4	0	0
-Tierschutz hier	Rudolf Görg 	2309063122705796	Facebook	hessen	Hessen	DE	Germany	2	1	13	0	1	0
-Karsten Hilse	Karsten Hilse 	358099231236311	Facebook	hessen	Hessen	DE	Germany	1	1	6	0	0	0
-DIE LINKE. Herne / Wanne-Eickel	Patrick Gawliczek	137962769704818	Facebook	hessen	Hessen	DE	Germany	1	1	5	0	0	0
-Grüne im Kreis Germersheim	BÜNDNIS 90/DIE GRÜNEN KV Germerseheim	272673066211280	Facebook	hessen	Hessen	DE	Germany	1	1	5	0	0	0
-Corinna Miazga	Corinna Miazga	1720472504912063	Facebook	hessen	Hessen	DE	Germany	1	1	3	0	0	0
-European Commission	European Commission	107898832590939	Facebook	hessen	Hessen	DE	Germany	2	1	1	0	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	hessen	Hessen	DE	Germany	2	1	0	0	0	0
-Europa Terra Nostra	Europa Terra Nostra e.V.	273074413028074	Facebook	hessen	Hessen	DE	Germany	1	1	0	0	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	hessen	Hessen	DE	Germany	3	1	0	0	0	0
-Social Media Ads	Alexander Dietrich	561953460655717	Facebook	hessen	Hessen	DE	Germany	1	1	0	0	0	0
+Jo Leinen	Jo Leinen	290293517710818	Facebook	hessen	Hessen	DE	Germany	4	1	104	20	2	0
+AJC Berlin	AJC Berlin	282637388468069	Facebook	hessen	Hessen	DE	Germany	2	1	88	35	3	0
+mymuesli		20393019390	Facebook	hessen	Hessen	DE	Germany	1	1	88	17	0	0
+Grüne Rhein-Pfalz-Kreis	Maurice Kuhn 	1873999882830833	Facebook	hessen	Hessen	DE	Germany	6	1	86	16	2	0
+Freedom4press.de	Alexander Schlesiger	448953542522854	Facebook	hessen	Hessen	DE	Germany	2	1	83	35	1	0
+I vote Europe		608176689275464	Facebook	hessen	Hessen	DE	Germany	2	1	70	35	0	0
+Jutta Paulus	Jutta Paulus	398641690243628	Facebook	hessen	Hessen	DE	Germany	1	1	67	33	0	0
+LKR Schwarzwald-Bodensee	Günther Hückmann	2037176893193945	Facebook	hessen	Hessen	DE	Germany	1	1	66	13	1	0
+IG BCE Jugend Nordrhein	IG BCE Landesbezirk Nordrhein	124363604315424	Facebook	hessen	Hessen	DE	Germany	1	1	65	32	3	0
+European Commission	European Commission	107898832590939	Facebook	hessen	Hessen	DE	Germany	21	1	65	29	0	0
+JU-Kreisverband Deggendorf	Stefan Johann Zitzelsberger	377562525780294	Facebook	hessen	Hessen	DE	Germany	2	1	62	12	1	0
+Weunite	weunite.eu	843723189339313	Facebook	hessen	Hessen	DE	Germany	2	1	56	24	1	0
+DEMOCRACY Deutschland	DEMOCRACY Deutschland e.V. 	1453504428281386	Facebook	hessen	Hessen	DE	Germany	1	1	56	28	0	0
+Grüne Mainz	Bündnis 90/Die Grünen Mainz	442503965827807	Facebook	hessen	Hessen	DE	Germany	2	1	55	0	5	0
+Grüne Neukölln	Georg Bonsiepe	101495919923314	Facebook	hessen	Hessen	DE	Germany	2	1	54	10	1	0
+Junge Union Kreis Altenkirchen	Justus Brühl	161397033931051	Facebook	hessen	Hessen	DE	Germany	2	1	52	8	1	0
+gimmemore.com		1766066203666578	Facebook	hessen	Hessen	DE	Germany	1	1	52	26	0	0
+Niklas Nienaß	Bündnis 90/Die Grünen Mecklenburg-Vorpommern	2280286458870451	Facebook	hessen	Hessen	DE	Germany	1	1	50	25	0	0
+Grup Yorum Her Yerde		1593833514278594	Facebook	hessen	Hessen	DE	Germany	1	1	49	0	4	0
+Europa Terra Nostra	Europa Terra Nostra e.V.	273074413028074	Facebook	hessen	Hessen	DE	Germany	4	1	45	8	1	0
+Social Media Ads	Alexander Dietrich	561953460655717	Facebook	hessen	Hessen	DE	Germany	2	1	45	22	0	0
+Bosch Global		185652704861747	Facebook	hessen	Hessen	DE	Germany	2	1	44	8	0	0
+Alternative für Deutschland Mayen-Koblenz	Alternative für Deutschland Mayen-Koblenz	160882790765796	Facebook	hessen	Hessen	DE	Germany	1	1	43	21	0	0
+FDP Wartburgkreis-Eisenach	FDP-Kreisverband Wartburgkreis-Eisenach	271352156228399	Facebook	hessen	Hessen	DE	Germany	3	1	43	14	0	0
+Corinna Miazga	Corinna Miazga	1720472504912063	Facebook	hessen	Hessen	DE	Germany	3	1	43	7	1	0
+Lena Düpont	Lena Düpont	241903739847716	Facebook	hessen	Hessen	DE	Germany	2	1	42	6	1	0
+Beautiful underwater world		349842062556508	Facebook	hessen	Hessen	DE	Germany	1	1	40	8	0	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	hessen	Hessen	DE	Germany	2	1	39	7	0	0
+DIE LINKE. Herne / Wanne-Eickel	Patrick Gawliczek	137962769704818	Facebook	hessen	Hessen	DE	Germany	4	1	36	4	1	0
+Maria Loheide	Diakonie Deutschland	944393298952238	Facebook	hessen	Hessen	DE	Germany	2	1	34	5	1	0
+BLOOMY DAYS	Fleurop.de	151936418263116	Facebook	hessen	Hessen	DE	Germany	1	1	32	6	0	0
+Tiemo Wölken	Tiemo Wölken	1747943185455863	Facebook	hessen	Hessen	DE	Germany	1	1	31	15	0	0
+Arndt Kohn	SPD-Unterbezirk in der Städteregion Aachen	1232732846774130	Facebook	hessen	Hessen	DE	Germany	1	1	30	6	0	0
+Service- und Kompetenzzentrum: Kommunaler Klimaschutz - SK:KK	Service- und Kompetenzzentrum: Kommunaler Klimaschutz (SK:KK) am Deutschen Institut für Urbanistik gGmbH	353503884759841	Facebook	hessen	Hessen	DE	Germany	2	1	30	5	0	0
+Birgit Sippel	Birgit Sippel	319398621464329	Facebook	hessen	Hessen	DE	Germany	1	1	29	5	0	0
+LSU in Niedersachsen	LSU in Niedersachsen	219610088525360	Facebook	hessen	Hessen	DE	Germany	2	1	29	5	0	0
+Partei Demokratie Direkt	Lukas Michael Knecht	289988518287493	Facebook	hessen	Hessen	DE	Germany	1	1	28	5	0	0
+Deutsche Post	Deutsche Post	485303194814631	Facebook	hessen	Hessen	DE	Germany	1	1	28	5	0	0
+Tabitha Elkins- Politikerin		966605413470428	Facebook	hessen	Hessen	DE	Germany	1	1	28	0	2	0
+BFZ - Bündnis Fürstenwalder Zukunft e.V.	Bündnis Fürstenwalder Zukunft e.V.	578250582267178	Facebook	hessen	Hessen	DE	Germany	1	1	26	5	0	0
+Liberal - Konservative Reformer Regionsverband Südbaden		1255716807818192	Facebook	hessen	Hessen	DE	Germany	1	1	26	5	0	0
+Deutschland Kurier		336677843601760	Facebook	hessen	Hessen	DE	Germany	1	1	26	5	0	0
+Verein Recht und Freiheit		1162229030454420	Facebook	hessen	Hessen	DE	Germany	2	1	24	4	0	0
+FDP Altona	Freie Demokratische Partei FDP Bezirksverband Altona	603208893090843	Facebook	hessen	Hessen	DE	Germany	1	1	23	4	0	0
+SPD Bielefeld		131868470238091	Facebook	hessen	Hessen	DE	Germany	2	1	23	0	2	0
+SPD Berlin	SPD Berlin	134137749971478	Facebook	hessen	Hessen	DE	Germany	2	1	22	3	0	0
+A Solution to Plastic Pollution - First International Online Summit		1098001547034272	Facebook	hessen	Hessen	DE	Germany	1	1	22	11	0	0
+Marco Buschmann	Marco Buschmann	1375993365821383	Facebook	hessen	Hessen	DE	Germany	1	1	21	4	0	0
+Herz der Wirtschaft	Arbeitgeberverband Gesamtmetall	156977237732393	Facebook	hessen	Hessen	DE	Germany	2	1	21	4	0	0
+Bündnis 90/Die Grünen Mainz-Bingen	Bündnis 90/Die Grünen Rheinland-Pfalz	1414685082192525	Facebook	hessen	Hessen	DE	Germany	1	1	21	4	0	0
+Anna Deparnay-Grunenberg für Europa	BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg	1819425944973592	Facebook	hessen	Hessen	DE	Germany	2	1	20	0	2	0
+Ausgewählt.eu		476088266069935	Facebook	hessen	Hessen	DE	Germany	1	1	19	3	0	0
+LKR-Fraktion Ludwigshafen		975059855866906	Facebook	hessen	Hessen	DE	Germany	1	1	16	3	0	0
+Nemetschek Stiftung	Nemetschek Stiftung	186375644742050	Facebook	hessen	Hessen	DE	Germany	2	1	15	6	0	0
+Moritz Körner	Moritz Heimo Körner	448585188519271	Facebook	hessen	Hessen	DE	Germany	2	1	13	2	0	0
+Bündnis 90 /Die Grünen - Kreisverband Rhein-Lahn	Bündnis 90/Die Grünen Rheinland-Pfalz	612797985583478	Facebook	hessen	Hessen	DE	Germany	1	1	13	2	0	0
+Dr. Peter Liese, MdEP	Dieter Berger	62058563854	Facebook	hessen	Hessen	DE	Germany	2	1	12	0	1	0
+Progressives Bad Kreuznach	Progressives Bad Kreuznach	2153883651391345	Facebook	hessen	Hessen	DE	Germany	1	1	12	6	0	0
+Gütersloher Verlagshaus		341789431722	Facebook	hessen	Hessen	DE	Germany	1	1	11	2	0	0
+Grüne Nordsachsen	Bündnis 90 die Grünen Kreisverband Nordsachsen	661587470556698	Facebook	hessen	Hessen	DE	Germany	2	1	9	0	0	0
+Phibie v. Aldebaran		447772735582107	Facebook	hessen	Hessen	DE	Germany	1	1	9	1	0	0
+Familien-Partei Deutschlands		449943065100732	Facebook	hessen	Hessen	DE	Germany	2	1	8	0	0	0
+Grüne Augsburg	BÜNDNIS90/DIE GRÜNEN Stadtverband Augsburg	10150158634595002	Facebook	hessen	Hessen	DE	Germany	1	1	8	0	0	0
+Eva Urlitzki Acryl Art		218354455429651	Facebook	hessen	Hessen	DE	Germany	1	1	6	0	0	0
+Coffeenewstom		315975755506868	Facebook	hessen	Hessen	DE	Germany	1	1	5	0	0	0
+Ulrich Lechte	Ulrich Werner Maria Lechte	259242574566478	Facebook	hessen	Hessen	DE	Germany	1	1	5	0	0	0
+SPD Oranienburg	Matthias Björn Henning	151967014990793	Facebook	hessen	Hessen	DE	Germany	1	1	5	0	0	0
+SPD Region Hannover	Ermana Nurkovic	110715173724	Facebook	hessen	Hessen	DE	Germany	1	1	4	0	0	0
+Energiewirtschaft einfach	Carsten Eckart 	2314352768828496	Facebook	hessen	Hessen	DE	Germany	1	1	4	0	0	0
+Grüne im Kreis Germersheim	BÜNDNIS 90/DIE GRÜNEN KV Germerseheim	272673066211280	Facebook	hessen	Hessen	DE	Germany	1	1	4	0	0	0
+Miriam Schreiber - Social Media & Digitale Kommunikation	Miriam Erika Schreiber	1589804161093513	Facebook	hessen	Hessen	DE	Germany	1	1	3	0	0	0
+Sense Mesura		1606564102740842	Facebook	hessen	Hessen	DE	Germany	12	1	3	0	0	0
+Oxford Club-Communiqué		2146712002244181	Facebook	hessen	Hessen	DE	Germany	1	1	3	0	0	0
+Daniel Wald		318396151841792	Facebook	hessen	Hessen	DE	Germany	1	1	2	0	0	0
+DEUTSCHLANDräumt auf - World CleanUp Day - 21. Sep. 2019	DEUTSCHLANDmacht - Let's Do It! Germany e.V.	584899344998752	Facebook	hessen	Hessen	DE	Germany	1	1	2	0	0	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	hessen	Hessen	DE	Germany	23	1	2	1	0	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	hessen	Hessen	DE	Germany	3	1	2	1	0	0
+Free Quran Education		388655174641163	Facebook	hessen	Hessen	DE	Germany	2	1	1	0	0	0
+FDP Schleswig-Holstein		164131966966839	Facebook	hessen	Hessen	DE	Germany	1	1	1	0	0	0
+Save The Seas		2203608429682203	Facebook	hessen	Hessen	DE	Germany	1	1	1	0	0	0
+MOJIITO		125984251502	Facebook	hessen	Hessen	DE	Germany	1	1	1	0	0	0
+CDU Bielefeld	CDU Bielefeld	170032743135669	Facebook	hessen	Hessen	DE	Germany	3	1	0	0	0	0
+Friedrich Jeschke	Friedrich Jeschke	603303090083496	Facebook	hessen	Hessen	DE	Germany	1	1	0	0	0	0
+Gabriela Mirescu		2618888988127707	Facebook	hessen	Hessen	DE	Germany	2	1	0	0	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	hessen	Hessen	DE	Germany	5	1	0	0	0	0
+Grüne.Stadt.Erfurt	Marcus Neumann 	1443838832527925	Facebook	hessen	Hessen	DE	Germany	4	1	0	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	hessen	Hessen	DE	Germany	1	1	0	0	0	0
+Big News Buzz		125179374733697	Facebook	hessen	Hessen	DE	Germany	1	1	0	0	0	0
+Europe Thinx		335839580440114	Facebook	hessen	Hessen	DE	Germany	1	1	0	0	0	0
+Michael Kost	Michael Kost	347176005913186	Facebook	hessen	Hessen	DE	Germany	1	1	0	0	0	0
 ÖDP Nordrhein-Westfalen	Ökologisch-Demokratische Partei (ÖDP) NRW	138480036196810	Facebook	hessen	Hessen	DE	Germany	1	1	0	0	0	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	hessen	Hessen	DE	Germany	1	1	0	0	0	0
+ETUC		129041250601685	Facebook	hessen	Hessen	DE	Germany	1	1	0	0	0	0
+Manchester City		208411345454	Facebook	hessen	Hessen	DE	Germany	1	1	0	0	0	0
+Apostolos Kelemidis		705234549505018	Facebook	hessen	Hessen	DE	Germany	1	1	0	0	0	0
+Catharina Rinzema		2114625695290780	Facebook	hessen	Hessen	DE	Germany	1	1	0	0	0	0
+Bündnis 90 / Die Grünen Alzey-Worms	Bündnis 90/Die Grünen Rheinland-Pfalz	141951685994812	Facebook	hessen	Hessen	DE	Germany	3	1	0	0	0	0
+Eurozine		115579498521257	Facebook	hessen	Hessen	DE	Germany	1	1	0	0	0	0
+Ne u moje ime		138418753446889	Facebook	hessen	Hessen	DE	Germany	1	1	0	0	0	0
+Kommunalwahlen 2019 Ludwigshafen		607737313075178	Facebook	hessen	Hessen	DE	Germany	1	1	0	0	0	0

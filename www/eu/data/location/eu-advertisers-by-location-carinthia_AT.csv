@@ -1,37 +1,120 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Beate Meinl-Reisinger	NEOS	243225039137708	Facebook	carinthia_AT	Carinthia, Austria	3	1	67481	33741	360	86
-Harald Vilimsky	FPÖ	547597092025909	Facebook	carinthia_AT	Carinthia, Austria	4	1	45114	15920	82	13
-SPÖ Kärnten	SPÖ Kärnten	10150145829810364	Facebook	carinthia_AT	Carinthia, Austria	3	1	20997	10000	297	0
-SPÖ	SPÖ	77393060080	Facebook	carinthia_AT	Carinthia, Austria	17	1	20483	4024	255	36
-NR KLUB JETZT	NR KLUB JETZT	833013456857401	Facebook	carinthia_AT	Carinthia, Austria	12	1	17605	3946	93	6
-European Parliament	European Parliament	178362315106	Facebook	carinthia_AT	Carinthia, Austria	1	1	7088	3544	17	3
-Claudia Gamon	NEOS	447992848717452	Facebook	carinthia_AT	Carinthia, Austria	2	1	4521	904	45	9
-Andreas Schieder	SPÖ	290881691011354	Facebook	carinthia_AT	Carinthia, Austria	1	1	4503	2251	44	22
-Alma Zadic	NR KLUB JETZT	1891626681100935	Facebook	carinthia_AT	Carinthia, Austria	8	1	3477	788	34	0
-Wilfried Haslauer	Salzburger Volkspartei	49835536470	Facebook	carinthia_AT	Carinthia, Austria	1	1	3430	686	34	6
-Peter Pilz	NR KLUB JETZT	127399223970566	Facebook	carinthia_AT	Carinthia, Austria	3	1	3153	740	34	5
-FSG - Fraktion Sozialdemokratischer GewerkschafterInnen	GewerkschafterInnen in der SPÖ	364093897023468	Facebook	carinthia_AT	Carinthia, Austria	2	1	2655	702	9	0
-Werner Kogler	Die Grünen	133612666671985	Facebook	carinthia_AT	Carinthia, Austria	1	1	2145	429	21	4
-GRAS - Grüne & Alternative Student_innen	GRAS - Grüne & Alternative Student_innen	79935247286	Facebook	carinthia_AT	Carinthia, Austria	1	1	2067	413	4	0
-Wirtschaftskammer	Wirtschaftskammer	125946327466544	Facebook	carinthia_AT	Carinthia, Austria	1	1	1833	366	3	0
-kontrast.at	kontrast.at	1079650008770485	Facebook	carinthia_AT	Carinthia, Austria	1	1	1771	354	3	0
-Sebastian Bohrn Mena	Tierschutzvolksbegehren	1583324305255890	Facebook	carinthia_AT	Carinthia, Austria	5	1	746	108	30	0
-Europäisches Parlament Österreich	Europäisches Parlament Österreich	124468054313069	Facebook	carinthia_AT	Carinthia, Austria	1	1	514	257	5	0
-Österreichische Gesellschaft für Europapolitik	Österreichische Gesellschaft für Europapolitik	290449626693	Facebook	carinthia_AT	Carinthia, Austria	2	1	371	59	13	0
-Norbert Hofer	FPÖ	1650580648552563	Facebook	carinthia_AT	Carinthia, Austria	1	1	358	71	7	0
-Steffi Krisper	Stephanie Krisper	170392456839307	Facebook	carinthia_AT	Carinthia, Austria	2	1	323	53	10	0
-Alex Bernhuber	Niederösterreichischer Bauernbund	382872055842390	Facebook	carinthia_AT	Carinthia, Austria	1	1	293	146	2	0
-1Europa	Peter Glawischnig	320389701908367	Facebook	carinthia_AT	Carinthia, Austria	1	1	274	54	5	0
-Angelika Winzig	Wirtschaftsbund Österreich	141015722773374	Facebook	carinthia_AT	Carinthia, Austria	1	1	214	42	4	0
-Die neue SPÖ Tirol	SPÖ Tirol	172040642860223	Facebook	carinthia_AT	Carinthia, Austria	1	1	142	28	0	0
-Politik muss wieder für die einfachen Menschen gemacht werden.	Georg Krejci	2060122567590322	Facebook	carinthia_AT	Carinthia, Austria	3	1	131	0	13	0
-European Commission	European Commission	107898832590939	Facebook	carinthia_AT	Carinthia, Austria	2	1	117	58	0	0
-Die Grünen	Die Grünen	21759893033	Facebook	carinthia_AT	Carinthia, Austria	1	1	116	23	2	0
-Keinen Millimeter	Michael Dorner	356665748284436	Facebook	carinthia_AT	Carinthia, Austria	3	1	115	0	11	0
-Junge Generation in der SPÖ	Junge Generation in der SPÖ	138952762862969	Facebook	carinthia_AT	Carinthia, Austria	1	1	80	0	7	0
+Harald Vilimsky	FPÖ	547597092025909	Facebook	carinthia_AT	Carinthia, Austria	37	1	468807	201629	4507	992
+Sebastian Kurz	Volkspartei	105151752909840	Facebook	carinthia_AT	Carinthia, Austria	20	1	250795	112719	2518	543
+SPÖ	SPÖ	77393060080	Facebook	carinthia_AT	Carinthia, Austria	65	1	213810	81828	1594	444
+Claudia Gamon	NEOS	447992848717452	Facebook	carinthia_AT	Carinthia, Austria	13	1	144051	39993	925	172
+SPÖ Kärnten	SPÖ Kärnten	10150145829810364	Facebook	carinthia_AT	Carinthia, Austria	7	1	135993	36000	1493	200
+Lukas Mandl	Verein VSM - Vorzugsstimmen für Mandl	436914289678818	Facebook	carinthia_AT	Carinthia, Austria	36	1	110235	29816	683	55
+FPÖ	FPÖ	169051073236170	Facebook	carinthia_AT	Carinthia, Austria	12	1	107906	46150	1213	299
+European Greens	European Greens	141366725876424	Facebook	carinthia_AT	Carinthia, Austria	12	1	103488	48213	962	203
+Norbert Hofer	FPÖ	1650580648552563	Facebook	carinthia_AT	Carinthia, Austria	9	1	101415	40771	1077	288
+Herbert Kickl	FPÖ	1977684662509834	Facebook	carinthia_AT	Carinthia, Austria	5	1	99629	42003	809	188
+European Parliament	European Parliament	178362315106	Facebook	carinthia_AT	Carinthia, Austria	20	1	91686	38052	512	128
+Beate Meinl-Reisinger	NEOS	243225039137708	Facebook	carinthia_AT	Carinthia, Austria	5	1	88881	44440	629	140
+kontrast.at	kontrast.at	1079650008770485	Facebook	carinthia_AT	Carinthia, Austria	30	1	86512	33474	1109	234
+Wolfram Pirchner	Österreichischer Seniorenbund	296676857050295	Facebook	carinthia_AT	Carinthia, Austria	8	1	68814	28994	585	154
+Die Grünen	Die Grünen	21759893033	Facebook	carinthia_AT	Carinthia, Austria	17	1	63812	25882	546	168
+NR KLUB JETZT	NR KLUB JETZT	833013456857401	Facebook	carinthia_AT	Carinthia, Austria	74	1	63547	16658	462	13
+1Europa	Peter Glawischnig	320389701908367	Facebook	carinthia_AT	Carinthia, Austria	13	1	48526	15548	470	90
+Alexander Van der Bellen	Österreichische Präsidentschaftskanzlei	138508202860897	Facebook	carinthia_AT	Carinthia, Austria	1	1	41045	20523	205	41
+JUNOS Studierende	JUNOS Studierende	231166380411824	Facebook	carinthia_AT	Carinthia, Austria	29	1	35198	12232	209	10
+Europäisches Parlament Österreich	Europäisches Parlament Österreich	124468054313069	Facebook	carinthia_AT	Carinthia, Austria	5	1	34438	14298	283	55
+GRAS - Grüne & Alternative Student_innen	GRAS - Grüne & Alternative Student_innen	79935247286	Facebook	carinthia_AT	Carinthia, Austria	17	1	34041	11591	220	39
+NEOS	NEOS	327450964017497	Facebook	carinthia_AT	Carinthia, Austria	13	1	32610	10922	244	57
+Team Kurz	Volkspartei	1446536545429987	Facebook	carinthia_AT	Carinthia, Austria	5	1	32114	15350	350	84
+Sozialdemokratische Partei Europas	Sozialdemokratische Partei Europas	338549033673221	Facebook	carinthia_AT	Carinthia, Austria	11	1	30237	9911	82	5
+Christian Zoll	Vorarlberger Volkspartei	601419393620184	Facebook	carinthia_AT	Carinthia, Austria	2	1	23270	9291	27	4
+Andreas Schieder	SPÖ	290881691011354	Facebook	carinthia_AT	Carinthia, Austria	9	1	22200	9067	133	37
+Werner Kogler	Die Grünen	133612666671985	Facebook	carinthia_AT	Carinthia, Austria	4	1	21741	10227	341	79
+FSG - Fraktion Sozialdemokratischer GewerkschafterInnen	GewerkschafterInnen in der SPÖ	364093897023468	Facebook	carinthia_AT	Carinthia, Austria	10	1	21228	6978	154	28
+Grüne Jugend - Grünalternative Jugend	Grüne Jugend - Grünalternative Jugend	533665483708070	Facebook	carinthia_AT	Carinthia, Austria	15	1	20627	7590	78	4
+Wirtschaftsbund Österreich	Wirtschaftsbund Österreich	385183128166442	Facebook	carinthia_AT	Carinthia, Austria	5	1	19079	5998	124	22
+Pamela Rendi-Wagner	SPÖ-Parlamentsklub	1673371229636129	Facebook	carinthia_AT	Carinthia, Austria	16	1	18005	5728	99	8
+Wochenblick	Wochenblick	991628130904203	Facebook	carinthia_AT	Carinthia, Austria	7	1	16521	3490	94	12
+Österreichische Gesellschaft für Europapolitik	Österreichische Gesellschaft für Europapolitik	290449626693	Facebook	carinthia_AT	Carinthia, Austria	3	1	12093	5187	250	48
+KPÖ PLUS	KPÖ PLUS	849742871847407	Facebook	carinthia_AT	Carinthia, Austria	9	1	12058	4078	99	26
+GPA-djp	GPA-djp	214499840736	Facebook	carinthia_AT	Carinthia, Austria	9	1	11648	2857	40	0
+Evelyn Regner	SPÖ	291746820967544	Facebook	carinthia_AT	Carinthia, Austria	4	1	11204	4465	74	14
+Christian Pirker	Christian Sigmund Pirker 	200189984169557	Facebook	carinthia_AT	Carinthia, Austria	1	1	9999	5000	99	0
+Wilfried Haslauer	Salzburger Volkspartei	49835536470	Facebook	carinthia_AT	Carinthia, Austria	3	1	9902	3976	84	17
+Volkspartei	Volkspartei	15078244418	Facebook	carinthia_AT	Carinthia, Austria	2	1	8431	3397	111	55
+Europa-Wahl 2019	Michael Eisenriegler Bakk Phil	489866264465481	Facebook	carinthia_AT	Carinthia, Austria	22	1	8351	1660	169	0
+Amnesty International Austria	Amnesty International Austria	30925241455	Facebook	carinthia_AT	Carinthia, Austria	6	1	8278	1742	70	12
+Simone Schmiedtbauer	Bauernbund	2423163447708524	Facebook	carinthia_AT	Carinthia, Austria	5	1	8079	2193	102	17
+Petra Steger	Petra Steger	1525366237690952	Facebook	carinthia_AT	Carinthia, Austria	2	1	7706	3765	42	7
+Peter Pilz	NR KLUB JETZT	127399223970566	Facebook	carinthia_AT	Carinthia, Austria	7	1	6767	1453	79	11
+Maysara Soliman	Maysara Soliman	169929840584692	Facebook	carinthia_AT	Carinthia, Austria	4	1	6511	1296	41	6
+Alex Bernhuber	Niederösterreichischer Bauernbund	382872055842390	Facebook	carinthia_AT	Carinthia, Austria	8	1	6272	1386	49	8
+Alma Zadic	NR KLUB JETZT	1891626681100935	Facebook	carinthia_AT	Carinthia, Austria	33	1	5687	1071	141	0
+Junge Generation in der SPÖ	Junge Generation in der SPÖ	138952762862969	Facebook	carinthia_AT	Carinthia, Austria	2	1	5257	1051	104	0
+Freiheitliche Jugend Kärnten		536956663016520	Facebook	carinthia_AT	Carinthia, Austria	1	1	4999	1000	99	0
+Greenpeace Österreich	Greenpeace Österreich	32984679070	Facebook	carinthia_AT	Carinthia, Austria	28	1	4793	1367	128	0
+Arbeit&Wirtschaft Magazin	Arbeit&Wirtschaft Magazin	312134126182731	Facebook	carinthia_AT	Carinthia, Austria	6	1	4781	1373	29	0
+Sarah Wiener	Die Grünen	970529566390833	Facebook	carinthia_AT	Carinthia, Austria	1	1	4612	2306	23	4
+KOSMO	KOSMO	191576624211837	Facebook	carinthia_AT	Carinthia, Austria	6	1	4105	1019	31	0
+European Commission	European Commission	107898832590939	Facebook	carinthia_AT	Carinthia, Austria	15	1	3674	1697	3	1
+Wirtschaftskammer	Wirtschaftskammer	125946327466544	Facebook	carinthia_AT	Carinthia, Austria	1	1	3583	1791	17	3
+Mario Kunasek	FPÖ - Landespartei Steiermark	66095458281	Facebook	carinthia_AT	Carinthia, Austria	1	1	3192	638	31	6
+ServusTV	ServusTV	248450014269	Facebook	carinthia_AT	Carinthia, Austria	1	1	3036	607	30	6
+Die Grünen Oberösterreich	Die Grünen Oberösterreich	84955135551	Facebook	carinthia_AT	Carinthia, Austria	2	1	2877	575	29	5
+Sebastian Bohrn Mena	Tierschutzvolksbegehren	1583324305255890	Facebook	carinthia_AT	Carinthia, Austria	21	1	2662	376	114	0
+Keinen Millimeter	Michael Dorner	356665748284436	Facebook	carinthia_AT	Carinthia, Austria	3	1	2573	794	12	0
+FPÖ Niederösterreich	FPÖ Niederösterreich	150623338441911	Facebook	carinthia_AT	Carinthia, Austria	1	1	2550	510	25	5
+Tierschutzvolksbegehren	Tierschutzvolksbegehren	1642678769161065	Facebook	carinthia_AT	Carinthia, Austria	12	1	2460	417	78	0
+Julia Herr	Sozialistische Jugend Österreich	345172509462824	Facebook	carinthia_AT	Carinthia, Austria	1	1	2371	474	23	4
+Irmgard Griss	Irmgard Griss	1505949083037195	Facebook	carinthia_AT	Carinthia, Austria	1	1	2307	461	4	0
+Ahmed Husagić	SPÖ	1617700101837646	Facebook	carinthia_AT	Carinthia, Austria	6	1	2017	616	32	0
+NEOS Tirol	NEOS Tirol	459133680794363	Facebook	carinthia_AT	Carinthia, Austria	1	1	1908	381	3	0
+Udo Landbauer	FPÖ Niederösterreich	494195290313	Facebook	carinthia_AT	Carinthia, Austria	5	1	1830	672	26	0
+Freiheitliche Jugend	Freiheitliche Jugend	261850724850	Facebook	carinthia_AT	Carinthia, Austria	3	1	1585	695	18	0
+Georg Strasser	Georg Strasser	1450886738334945	Facebook	carinthia_AT	Carinthia, Austria	1	1	1581	316	3	0
+Die neue SPÖ Tirol	SPÖ Tirol	172040642860223	Facebook	carinthia_AT	Carinthia, Austria	6	1	1502	384	14	2
+LET'S CEE Film Festival	LET'S CEE Film Festival	374807339208829	Facebook	carinthia_AT	Carinthia, Austria	9	1	1177	441	27	0
+Michael Raml	FPÖ Linz	1499759610320321	Facebook	carinthia_AT	Carinthia, Austria	3	1	1097	384	16	0
+Österreich&Europa	Johann Eichhorn	396597551187061	Facebook	carinthia_AT	Carinthia, Austria	2	1	1055	0	104	0
+Harry Koller	Harry Koller	1021082958087651	Facebook	carinthia_AT	Carinthia, Austria	1	1	999	0	99	0
+Barbara M. Thaler	Tiroler Volkspartei	1945277729020140	Facebook	carinthia_AT	Carinthia, Austria	1	1	999	0	99	0
+Lui Hofmann	Ing. Mag. Ludwig Harald Hofmann	1571665456409772	Facebook	carinthia_AT	Carinthia, Austria	2	1	968	193	19	0
+Hermann Schützenhöfer	Steirische Volkspartei	141720165842248	Facebook	carinthia_AT	Carinthia, Austria	1	1	959	191	9	1
+Nurten Yilmaz	Nurten Yilmaz	160128484173405	Facebook	carinthia_AT	Carinthia, Austria	1	1	920	184	1	0
+Steffi Krisper	Stephanie Krisper	170392456839307	Facebook	carinthia_AT	Carinthia, Austria	3	1	851	170	16	0
+Politik muss wieder für die einfachen Menschen gemacht werden.	Georg Krejci	2060122567590322	Facebook	carinthia_AT	Carinthia, Austria	4	1	841	160	19	0
+mymuesli		20393019390	Facebook	carinthia_AT	Carinthia, Austria	1	1	788	157	1	0
+Gottfried Waldhäusl	FPÖ Niederösterreich	627580790692097	Facebook	carinthia_AT	Carinthia, Austria	2	1	784	314	10	0
+WahlSwiper		111883876144163	Facebook	carinthia_AT	Carinthia, Austria	1	1	769	384	7	0
+Freiheitliche Bauernschaft Oberösterreich	Freiheitliche Bauernschaft Oberösterreich	124298681063701	Facebook	carinthia_AT	Carinthia, Austria	1	1	666	333	6	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	carinthia_AT	Carinthia, Austria	20	1	563	219	1	0
+Thomas Waitz	Die Grünen	235816017203590	Facebook	carinthia_AT	Carinthia, Austria	1	1	562	281	5	0
+Herwig Mahr	Freiheitlicher Landtagsklub Oberösterreich	212990319049096	Facebook	carinthia_AT	Carinthia, Austria	1	1	547	273	5	0
+Maximilian Krauss	FPÖ-Wien	590930261019192	Facebook	carinthia_AT	Carinthia, Austria	1	1	535	267	26	5
+ZARA - Zivilcourage und Anti-Rassismus-Arbeit	ZARA - Zivilcourage und Anti-Rassismus-Arbeit	100290843377097	Facebook	carinthia_AT	Carinthia, Austria	6	1	436	87	8	0
+Salzburger Volkspartei	Salzburger Volkspartei	243190742384882	Facebook	carinthia_AT	Carinthia, Austria	1	1	432	216	4	0
+wienerinnen.at	Valeria Foglar-Deinhardstein 	293185317391782	Facebook	carinthia_AT	Carinthia, Austria	2	1	419	83	8	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	carinthia_AT	Carinthia, Austria	10	1	397	161	0	0
+Markus Hein	FPÖ Linz	624525897689879	Facebook	carinthia_AT	Carinthia, Austria	1	1	321	160	3	0
+Wandel	Wandel	441927269154538	Facebook	carinthia_AT	Carinthia, Austria	4	1	310	34	17	0
+Freiheitliche Arbeitnehmer Oberösterreich	Freiheitliche Arbeitnehmer Oberösterreich	346842098763288	Facebook	carinthia_AT	Carinthia, Austria	1	1	268	53	5	0
+scoop.me		100745679654	Facebook	carinthia_AT	Carinthia, Austria	1	1	262	52	4	0
+Angelika Winzig	Wirtschaftsbund Österreich	141015722773374	Facebook	carinthia_AT	Carinthia, Austria	1	1	230	46	4	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	carinthia_AT	Carinthia, Austria	3	1	193	82	0	0
+bagru GRAS boku	bagru*GRAS*boku	110449662370582	Facebook	carinthia_AT	Carinthia, Austria	2	1	157	59	2	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	carinthia_AT	Carinthia, Austria	1	1	137	69	0	0
+A Solution to Plastic Pollution - First International Online Summit		1098001547034272	Facebook	carinthia_AT	Carinthia, Austria	1	1	82	41	0	0
+SPÖ Oberösterreich	SPÖ Oberösterreich	208930355786005	Facebook	carinthia_AT	Carinthia, Austria	1	1	73	14	1	0
+Europäische Kommission - Vertretung in Österreich	Europäische Kommission - Vertretung in Österreich	187626534620326	Facebook	carinthia_AT	Carinthia, Austria	1	1	46	0	4	0
 European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	carinthia_AT	Carinthia, Austria	1	1	46	23	0	0
-Christian Zoll	Vorarlberger Volkspartei	601419393620184	Facebook	carinthia_AT	Carinthia, Austria	1	1	42	0	4	0
-Lukas Mandl	Verein VSM - Vorzugsstimmen für Mandl	436914289678818	Facebook	carinthia_AT	Carinthia, Austria	1	1	32	0	3	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	carinthia_AT	Carinthia, Austria	2	1	25	8	0	0
-bagru GRAS boku	bagru*GRAS*boku	110449662370582	Facebook	carinthia_AT	Carinthia, Austria	1	1	9	0	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	carinthia_AT	Carinthia, Austria	1	1	8	1	0	0
+Gütersloher Verlagshaus		341789431722	Facebook	carinthia_AT	Carinthia, Austria	1	1	45	9	0	0
+GRAS Linz - Grüne und Alternative Student_innen	GRAS Linz - Grüne und Alternative Student_innen	1738792296441731	Facebook	carinthia_AT	Carinthia, Austria	1	1	41	8	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	carinthia_AT	Carinthia, Austria	5	1	31	9	0	0
+Sense Mesura		1606564102740842	Facebook	carinthia_AT	Carinthia, Austria	3	1	28	0	2	0
+Mojca Erjavec - Ravne	Mojca Erjavec	154346651925224	Facebook	carinthia_AT	Carinthia, Austria	2	1	15	4	0	0
+ETUC		129041250601685	Facebook	carinthia_AT	Carinthia, Austria	1	1	13	2	0	0
+Günther Sidl	BSA Niederösterreich	806694216374998	Facebook	carinthia_AT	Carinthia, Austria	2	1	12	0	1	0
+Simone Polesello per il Fvg	Simone Polesello	155754657821240	Facebook	carinthia_AT	Carinthia, Austria	2	1	12	3	0	0
+CRIF		395919323779707	Facebook	carinthia_AT	Carinthia, Austria	1	1	11	5	0	0
+Ne u moje ime		138418753446889	Facebook	carinthia_AT	Carinthia, Austria	1	1	11	2	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	carinthia_AT	Carinthia, Austria	2	1	9	1	0	0
+Big News Buzz		125179374733697	Facebook	carinthia_AT	Carinthia, Austria	1	1	6	3	0	0
+Franc Bogovič	Slovenska ljudska stranka (SLS)	288826994603012	Facebook	carinthia_AT	Carinthia, Austria	1	1	5	1	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	carinthia_AT	Carinthia, Austria	1	1	1	0	0	0
+Europe Thinx		335839580440114	Facebook	carinthia_AT	Carinthia, Austria	1	1	1	0	0	0

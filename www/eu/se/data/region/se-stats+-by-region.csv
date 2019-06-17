@@ -1,22 +1,22 @@
 region_code	region_name	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-blekinge_county	Blekinge County	SE	Sweden	81	34	1199	392	20	4
-dalarna_county	Dalarna County	SE	Sweden	89	37	5497	800	95	15
-gotland_county	Gotland County	SE	Sweden	77	35	17061	3024	157	27
-gavleborg_county	Gävleborg County	SE	Sweden	83	35	6230	1116	64	9
-halland_county	Halland County	SE	Sweden	96	42	12355	1451	154	22
-jamtland_county	Jämtland County	SE	Sweden	74	33	377	139	5	1
-jonkoping_county	Jönköping County	SE	Sweden	92	38	16065	3926	224	74
-kalmar_county	Kalmar County	SE	Sweden	103	38	46976	10801	363	54
-kronoberg_county	Kronoberg County	SE	Sweden	87	33	1570	498	21	4
-norrbotten_county	Norrbotten County	SE	Sweden	83	35	8002	1382	78	12
-skane_county	Skåne County	SE	Sweden	115	46	104470	32319	1460	339
-stockholm_county	Stockholm County	SE	Sweden	121	47	416092	94549	2974	821
-sodermanland_county	Södermanland County	SE	Sweden	86	38	4416	513	46	4
-uppsala_county	Uppsala County	SE	Sweden	91	37	8329	1708	82	14
-varmland_county	Värmland County	SE	Sweden	88	37	17850	6670	172	61
-vasterbotten_county	Västerbotten County	SE	Sweden	80	36	7367	1430	71	12
-vasternorrland_county	Västernorrland County	SE	Sweden	86	34	2518	635	27	5
-vastmanland_county	Västmanland County	SE	Sweden	89	37	17593	3524	179	61
-vastra_gotaland_county	Västra Götaland County	SE	Sweden	123	57	130171	34364	1348	300
-orebro_county	Örebro County	SE	Sweden	99	38	31530	5372	361	100
-ostergotland_county	Östergötland County	SE	Sweden	94	39	15026	3240	185	36
+blekinge_county	Blekinge County	SE	Sweden	1869	185	71108	19771	857	268
+dalarna_county	Dalarna County	SE	Sweden	1989	195	443658	123485	7343	1834
+gotland_county	Gotland County	SE	Sweden	1736	173	259340	60268	2182	546
+gavleborg_county	Gävleborg County	SE	Sweden	1951	195	300177	82124	3984	923
+halland_county	Halland County	SE	Sweden	2082	212	334856	84623	4305	1068
+jamtland_county	Jämtland County	SE	Sweden	1872	182	146346	44952	2554	535
+jonkoping_county	Jönköping County	SE	Sweden	2043	211	639979	171202	8840	2272
+kalmar_county	Kalmar County	SE	Sweden	1991	198	1099466	252866	8307	2147
+kronoberg_county	Kronoberg County	SE	Sweden	1953	193	223845	61782	3319	764
+norrbotten_county	Norrbotten County	SE	Sweden	1947	191	369528	102744	6042	1726
+skane_county	Skåne County	SE	Sweden	2322	262	4308858	1308321	49712	13657
+stockholm_county	Stockholm County	SE	Sweden	2639	279	10149543	3348473	123439	31471
+sodermanland_county	Södermanland County	SE	Sweden	2048	211	247755	78373	3300	827
+uppsala_county	Uppsala County	SE	Sweden	2224	211	1093786	294236	15311	3836
+varmland_county	Värmland County	SE	Sweden	1994	202	996526	243465	11177	3130
+vasterbotten_county	Västerbotten County	SE	Sweden	2019	198	481220	149029	10847	2423
+vasternorrland_county	Västernorrland County	SE	Sweden	1948	190	346257	108294	5002	1256
+vastmanland_county	Västmanland County	SE	Sweden	1964	193	387581	105094	5265	1225
+vastra_gotaland_county	Västra Götaland County	SE	Sweden	2345	258	6255895	2199146	72912	19025
+orebro_county	Örebro County	SE	Sweden	2053	206	916454	234323	15081	3563
+ostergotland_county	Östergötland County	SE	Sweden	2078	216	1020368	274776	10915	2985

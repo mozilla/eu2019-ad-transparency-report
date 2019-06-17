@@ -1,259 +1,1130 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-CDH - Centre Démocrate Humaniste	CDH - Centre Démocrate Humaniste	189649407806135	Facebook	f13_17	female (13-17)	10	1	94596	31087	160	0
-Cogito	Cogito	2059332547662115	Facebook	f13_17	female (13-17)	1	1	53820	26910	53	0
-European Commission	European Commission	107898832590939	Facebook	f13_17	female (13-17)	3	1	34596	14537	44	9
-Matteo Salvini	Lega - Salvini Premier	252306033154	Facebook	f13_17	female (13-17)	1	1	20382	10191	10	2
-Θοδωρής Ζαγοράκης / Thodoris Zagorakis	Θοδωρής Ζαγοράκης / Thodoris Zagorakis	235332330007800	Facebook	f13_17	female (13-17)	1	1	17553	7021	17	3
-FDP Bayern	FDP Bayern	350558562311	Facebook	f13_17	female (13-17)	1	1	17217	3443	34	0
-Jusos in der SPD	Jusos in der SPD	40415227476	Facebook	f13_17	female (13-17)	2	1	16907	3381	33	0
-MR - Mouvement Réformateur	MR - Mouvement Réformateur	236330169511	Facebook	f13_17	female (13-17)	156	1	16053	1666	1042	0
-déi jonk gréng	Déi jonk gréng	197451906960613	Facebook	f13_17	female (13-17)	3	1	13501	3194	41	0
-Verband der Chemischen Industrie e.V.	Chemie Wirtschaftsförderungs GmbH	921326477983554	Facebook	f13_17	female (13-17)	41	1	13186	2237	847	0
-Κατερίνα Κούτρη - Katerina Koutri	Aikaterini Koutri	314010635931171	Facebook	f13_17	female (13-17)	1	1	11803	2360	23	0
-ISPI - Istituto per gli studi di politica internazionale	ISPI - Istituto per gli studi di politica internazionale	171795872872353	Facebook	f13_17	female (13-17)	2	1	11611	2322	31	0
-Greenpeace Romania	Greenpeace Romania	291132089193	Facebook	f13_17	female (13-17)	6	1	11149	2190	35	2
-Beate Meinl-Reisinger	NEOS	243225039137708	Facebook	f13_17	female (13-17)	3	1	10766	5383	55	12
-SPÖ	SPÖ	77393060080	Facebook	f13_17	female (13-17)	16	1	10688	2427	138	15
-Fridays For Future Münster	Fridays for Future	1212444868905059	Facebook	f13_17	female (13-17)	3	1	10069	2014	54	0
-Kostas Dervos	Kostas Dervos	1970779819866623	Facebook	f13_17	female (13-17)	4	1	9765	4370	14	0
-Lode Ceyssens	Lode Ceyssens	690224427744073	Facebook	f13_17	female (13-17)	1	1	7444	1488	14	0
+European Commission	European Commission	107898832590939	Facebook	f13_17	female (13-17)	40	1	979392	454946	1290	377
+CDH - Centre Démocrate Humaniste	CDH - Centre Démocrate Humaniste	189649407806135	Facebook	f13_17	female (13-17)	10	1	315399	131858	572	258
+European Parliament	European Parliament	178362315106	Facebook	f13_17	female (13-17)	62	1	236916	96989	800	164
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	f13_17	female (13-17)	9	1	235814	92386	345	0
+Răcnetul Oamenilor Sătui	IOANITA MARIN-IOANA	165452684079944	Facebook	f13_17	female (13-17)	5	1	229563	114365	94	29
+Ζωή Κωνσταντοπούλου - Zoe Konstantopoulou	Πλεύση Ελευθερίας	1489639131352219	Facebook	f13_17	female (13-17)	37	1	222565	88750	334	13
+European Greens	European Greens	141366725876424	Facebook	f13_17	female (13-17)	6	1	187858	84601	1713	362
+Sophie Løhde	Sophie Løhde	699619700116377	Facebook	f13_17	female (13-17)	18	1	159920	45858	1719	439
+MR - Mouvement Réformateur	MR - Mouvement Réformateur	236330169511	Facebook	f13_17	female (13-17)	239	1	135721	33771	2339	125
+Cogito	Cogito	2059332547662115	Facebook	f13_17	female (13-17)	6	1	130575	55407	169	1
+Jordens Vänner / Friends of the Earth Sweden	Jordens Vänner / Friends of the Earth Sweden	207890945895422	Facebook	f13_17	female (13-17)	7	1	129939	46531	225	45
+#NatürlichEuropa	Deutscher Naturschutzring DNR e.V.	255657841991242	Facebook	f13_17	female (13-17)	1	1	126836	63418	316	63
+Landeszentrale für politische Bildung Thüringen	Landeszentrale für politische Bildung Thüringen	215460201802938	Facebook	f13_17	female (13-17)	32	1	120478	29886	1581	295
+Die Grünen	Die Grünen	21759893033	Facebook	f13_17	female (13-17)	32	1	115496	49733	1300	363
+Jusos in der SPD	Jusos in der SPD	40415227476	Facebook	f13_17	female (13-17)	12	1	113920	32060	1128	204
+Parlament Europejski - Biuro we Wrocławiu	Parlament Europejski - Biuro we Wrocławiu	426735034064813	Facebook	f13_17	female (13-17)	1	1	113755	45502	264	52
+Harald Vilimsky	FPÖ	547597092025909	Facebook	f13_17	female (13-17)	37	1	105563	43504	1287	264
+Senatsverwaltung für Kultur und Europa		247450562347746	Facebook	f13_17	female (13-17)	3	1	97654	42107	210	82
+Grüne Jugend - Grünalternative Jugend	Grüne Jugend - Grünalternative Jugend	533665483708070	Facebook	f13_17	female (13-17)	14	1	93575	35482	369	24
+SPÖ	SPÖ	77393060080	Facebook	f13_17	female (13-17)	67	1	92121	39017	810	225
+SF Ungdom	SF Ungdom	113555862534	Facebook	f13_17	female (13-17)	3	1	91295	34758	130	46
+1Europa	Peter Glawischnig	320389701908367	Facebook	f13_17	female (13-17)	22	1	87294	29596	753	138
+Stadt Wien	Stadt Wien	110971788921077	Facebook	f13_17	female (13-17)	5	1	81570	27495	291	33
+Jusos Schleswig-Holstein	Jusos Schleswig-Holstein	185490505413	Facebook	f13_17	female (13-17)	17	1	77256	18525	528	0
+Videodrome	Videodrome	1773694896182795	Facebook	f13_17	female (13-17)	14	1	74226	14728	382	0
+Skuola.net	Skuola.net	126578555602	Facebook	f13_17	female (13-17)	7	1	72677	26620	110	2
+CicloZero.com	Raquel Del Val Villaverde	228274408053486	Facebook	f13_17	female (13-17)	4	1	72516	24235	134	0
+ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ	ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ	82362291274	Facebook	f13_17	female (13-17)	6	1	72097	32684	154	41
+Christian Zoll	Vorarlberger Volkspartei	601419393620184	Facebook	f13_17	female (13-17)	2	1	69104	27634	70	13
+ΣΥ.ΡΙΖ.Α.	ΣΥ.ΡΙΖ.Α.	31895177275	Facebook	f13_17	female (13-17)	7	1	67376	32051	391	98
+Alexander Van der Bellen	Österreichische Präsidentschaftskanzlei	138508202860897	Facebook	f13_17	female (13-17)	1	1	66512	33256	332	66
+TENI - Transgender Equality Network Ireland	TENI - Transgender Equality Network Ireland	182348645122723	Facebook	f13_17	female (13-17)	29	1	65788	15907	1060	0
+Cristian Bușoi	Rus Alexandra	112332998808842	Facebook	f13_17	female (13-17)	26	1	65028	29670	78	17
+CDU Hamburg	CDU Landesverband Hamburg	173796242642081	Facebook	f13_17	female (13-17)	12	1	60857	13592	478	56
+Déclic	OFAJ	472408162883256	Facebook	f13_17	female (13-17)	4	1	59857	11838	238	0
+Zenia Stampe	Zenia Stampe	127344360615074	Facebook	f13_17	female (13-17)	18	1	58910	16262	562	126
+Βαρουξής Λευτέρης - Varouxis Lefteris	Digital Solutions	280496205994839	Facebook	f13_17	female (13-17)	12	1	58640	23404	68	9
+Trades Union Congress (TUC)	Trades Union Congress	124295177616347	Facebook	f13_17	female (13-17)	1	1	57337	28669	65	0
+Θοδωρής Δουλουμπέκης - Theodore Douloumpekis	Theodoros Douloumpekis 	310648756200075	Facebook	f13_17	female (13-17)	16	1	56952	13200	164	0
+Grüne Jugend Mecklenburg-Vorpommern	Grüne Jugend Mecklenburg-Vorpommern	199036293467407	Facebook	f13_17	female (13-17)	1	1	55154	22062	551	110
+ISPI - Istituto per gli studi di politica internazionale	ISPI - Istituto per gli studi di politica internazionale	171795872872353	Facebook	f13_17	female (13-17)	6	1	54270	20818	128	16
+Raluca Turcan	ETIS Design	360184320712594	Facebook	f13_17	female (13-17)	5	1	52202	26032	33	7
+Claudia Gamon	NEOS	447992848717452	Facebook	f13_17	female (13-17)	37	1	52165	18796	346	63
+déi jonk gréng	Déi jonk gréng	197451906960613	Facebook	f13_17	female (13-17)	17	1	51942	18438	153	17
+Κατερίνα Κούτρη - Katerina Koutri	Aikaterini Koutri	314010635931171	Facebook	f13_17	female (13-17)	6	1	47312	20763	56	0
+Ionel Dancă	ETIS Design	227578001357165	Facebook	f13_17	female (13-17)	6	1	46817	18509	37	9
+Greenpeace Romania	Greenpeace Romania	291132089193	Facebook	f13_17	female (13-17)	15	1	46210	11598	88	13
+Europäisches Parlament Österreich	Europäisches Parlament Österreich	124468054313069	Facebook	f13_17	female (13-17)	4	1	45795	17658	287	45
+Kyriakos Mitsotakis	ΝΕΑ ΔΗΜΟΚΡΑΤΙΑ	34848567724	Facebook	f13_17	female (13-17)	8	1	44948	19225	68	14
+Angelika Winzig	Wirtschaftsbund Österreich	141015722773374	Facebook	f13_17	female (13-17)	300	1	41722	10971	855	28
+ÖDP Nordrhein-Westfalen	Ökologisch-Demokratische Partei (ÖDP) NRW	138480036196810	Facebook	f13_17	female (13-17)	3	1	39905	19623	110	12
+Δημήτρης Γούπιος - Υποψήφιος Δημοτικός Σύμβουλος Παλαιού Φαλήρου	Georgios Kapellaris	606260353179128	Facebook	f13_17	female (13-17)	2	1	39465	7893	78	0
+Cyrus Engerer	Cyrus Engerer	212468218793878	Facebook	f13_17	female (13-17)	33	1	39363	8304	98	0
+Partit Nazzjonalista	Partit Nazzjonalista	159249234115841	Facebook	f13_17	female (13-17)	14	1	38888	16741	321	80
+Alternativet	Alternativet	676061179094769	Facebook	f13_17	female (13-17)	5	1	38852	14542	373	120
+Özlem Alev Demirel	DIE LINKE. NRW	602487899802568	Facebook	f13_17	female (13-17)	1	1	38538	19269	192	96
+Θοδωρής Ζαγοράκης / Thodoris Zagorakis	Θοδωρής Ζαγοράκης / Thodoris Zagorakis	235332330007800	Facebook	f13_17	female (13-17)	4	1	38312	17386	36	12
+Voxpop Analysis	Ιωάννης Απόστολος Σκλίας	126822114784105	Facebook	f13_17	female (13-17)	48	1	38134	13284	221	19
+Kostas Dervos	Kostas Dervos	1970779819866623	Facebook	f13_17	female (13-17)	20	1	37793	14209	76	13
+Österreichische Gesellschaft für Europapolitik	Österreichische Gesellschaft für Europapolitik	290449626693	Facebook	f13_17	female (13-17)	2	1	37687	16203	809	162
+one brussels	one.brussels	244157445635331	Facebook	f13_17	female (13-17)	11	1	37180	7919	117	7
+Michael Briguglio	Michael Briguglio	1040577706078198	Facebook	f13_17	female (13-17)	72	1	36702	7836	235	0
+Casper Pedersen	Pedersen Casper	2252326791657399	Facebook	f13_17	female (13-17)	2	1	36107	7106	55	9
+Sally Lisa Starken	Sally Lisa Starken	503571183451346	Facebook	f13_17	female (13-17)	4	1	35871	7174	206	0
+Adenauer Campus	Konrad-Adenauer-Stiftung	225123097665916	Facebook	f13_17	female (13-17)	44	1	34542	7765	1186	0
+Europa-Parlamentet i Danmark	Europa-Parlamentet i Danmark	128700897207990	Facebook	f13_17	female (13-17)	5	1	34085	15649	259	51
+Vänsterpartiet	Vänsterpartiet	323156205347	Facebook	f13_17	female (13-17)	1	1	33936	6787	62	31
+Slobodna Dalmacija	Slobodna Dalmacija	100267330025110	Facebook	f13_17	female (13-17)	23	1	33473	13736	45	0
+Alfred Sant	Alfred Sant	537789116260209	Facebook	f13_17	female (13-17)	28	1	33381	11365	107	19
+SPD Land Bremen	SPD Land Bremen 	524965010906886	Facebook	f13_17	female (13-17)	239	1	32978	6392	1543	0
+Save the Children Italia	Save the Children Italia	46590675335	Facebook	f13_17	female (13-17)	1	1	32230	12892	64	32
+Κίνημα Αλλαγής	Κίνημα Αλλαγής	504891253213373	Facebook	f13_17	female (13-17)	4	1	32214	15113	39	13
+Rares Bogdan	ETIS Design	204397909629079	Facebook	f13_17	female (13-17)	1	1	32004	12802	13	6
+Delhaize	Delhaize	30102123042	Facebook	f13_17	female (13-17)	11	1	31505	11747	161	18
+Bündnis 90/Die Grünen Friedrichshain-Kreuzberg	Bündnis 90/Die Grünen Xhain	112562615494117	Facebook	f13_17	female (13-17)	7	1	31223	6586	184	15
+Sebastian Kurz	Volkspartei	105151752909840	Facebook	f13_17	female (13-17)	18	1	30809	13542	444	96
+Sverigedemokraterna Region Stockholm	SD Stockholm	1729304067391998	Facebook	f13_17	female (13-17)	10	1	30428	6092	282	56
+Amnesty International Nederland	Amnesty International Nederland	57729029960	Facebook	f13_17	female (13-17)	1	1	30379	15189	303	151
+Γιώργος Χατζημάρκος	Γιώργος Χατζημάρκος	2128150737398149	Facebook	f13_17	female (13-17)	28	1	29174	10463	128	15
+Grüne HSK	Jörg Rostek	426725177414680	Facebook	f13_17	female (13-17)	2	1	29174	13764	186	66
+Läuft bei Dir!	Baden-Württemberg Stiftung gGmbH	331383090816092	Facebook	f13_17	female (13-17)	4	1	28677	5735	132	0
+Gazeta Wyborcza	Gazeta Wyborcza	63563473556	Facebook	f13_17	female (13-17)	27	1	28552	9813	62	12
+Europäische Kommission – Vertretung in Deutschland	Europäische Kommission – Vertretung in Deutschland	123332714357231	Facebook	f13_17	female (13-17)	10	1	28476	6408	335	63
+Νίκος Ανδρουλάκης	Νίκος Ανδρουλάκης	216089191899991	Facebook	f13_17	female (13-17)	12	1	28044	8425	61	2
+Στέλιος Κυμπουρόπουλος	Στέλιος Κυμπουρόπουλος	323456224972682	Facebook	f13_17	female (13-17)	27	1	27933	5681	70	0
+Ionel Bogdan	Rus Alexandra	1449284915381234	Facebook	f13_17	female (13-17)	13	1	27787	5517	34	3
+USR Bihor	Uniunea Salvați România Filiala Bihor	1592660281028385	Facebook	f13_17	female (13-17)	20	1	27782	10582	41	13
+Υπουργείο Εσωτερικών		1758118501156962	Facebook	f13_17	female (13-17)	1	1	27564	13782	137	27
+Verband der Chemischen Industrie e.V.	Chemie Wirtschaftsförderungs GmbH	921326477983554	Facebook	f13_17	female (13-17)	53	1	27123	4108	758	0
+Europski parlament, Ured za informiranje u Republici Hrvatskoj	Europski parlament, Ured za informiranje u Republici Hrvatskoj	508795765833382	Facebook	f13_17	female (13-17)	2	1	26638	5327	88	0
+Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	f13_17	female (13-17)	6	1	26568	8237	474	104
+CDU Region Stuttgart	CDU Region Stuttgart	1512459202315535	Facebook	f13_17	female (13-17)	2	1	26544	13272	663	132
+Norbert Hofer	FPÖ	1650580648552563	Facebook	f13_17	female (13-17)	9	1	26417	9854	202	73
+Grüne Jugend Steiermark	Grüne Jugend Steiermark	278628109523836	Facebook	f13_17	female (13-17)	3	1	26239	5248	77	0
+Enhedslisten Køge	Rolskov Niels	366165650071333	Facebook	f13_17	female (13-17)	8	1	25930	7983	133	38
+RMDSZ	RMDSZ	102601499822802	Facebook	f13_17	female (13-17)	36	1	25592	8216	48	9
+Grüne Jugend Freiburg	Grüne Jugend Freiburg	258738124139670	Facebook	f13_17	female (13-17)	24	1	25408	5272	730	0
+Stefano Passarini	Stefano Passarini	573828172688916	Facebook	f13_17	female (13-17)	24	1	25198	5316	181	0
+Global Optimism	Global Optimism	2062802910474026	Facebook	f13_17	female (13-17)	2	1	24461	6424	282	44
+Elena Gentile	Elena Gentile	1426435657576038	Facebook	f13_17	female (13-17)	6	1	23640	9726	99	17
+Konservativ Ungdom	Konservativ Ungdom	119769598101853	Facebook	f13_17	female (13-17)	1	1	23291	4658	31	6
+Anders Baun EP valg 2019	Sorensen Anders Baun	549966298750692	Facebook	f13_17	female (13-17)	3	1	23264	5084	38	7
+Matteo Salvini	Lega - Salvini Premier	252306033154	Facebook	f13_17	female (13-17)	10	1	23165	10821	134	26
+Wim Soons	Soons Wim	598618930329580	Facebook	f13_17	female (13-17)	3	1	23132	11566	117	22
+ΜέΡΑ25	ΜέΡΑ25	333635613794935	Facebook	f13_17	female (13-17)	18	1	22879	10848	116	23
+Lukas Mandl	Verein VSM - Vorzugsstimmen für Mandl	436914289678818	Facebook	f13_17	female (13-17)	82	1	22582	5710	190	11
+Plantebevægelsen	Plantebevægelsen	136775899834790	Facebook	f13_17	female (13-17)	5	1	21823	4364	292	58
+FOA	FOA	132344416862423	Facebook	f13_17	female (13-17)	20	1	21729	7064	147	30
+Evelyn Regner	SPÖ	291746820967544	Facebook	f13_17	female (13-17)	3	1	21664	5366	199	39
+Günther Sidl	BSA Niederösterreich	806694216374998	Facebook	f13_17	female (13-17)	7	1	20741	10023	130	24
+Giulia Pastorella	Giulia Pastorella | Europa per Scelta	2233320866726559	Facebook	f13_17	female (13-17)	2	1	20650	4130	40	0
+Ρένα Δούρου	Ρένα Δούρου	225197477683663	Facebook	f13_17	female (13-17)	57	1	20617	8564	104	19
+Junge Liberale JuLis Berlin	Junge Liberale Berlin	190961277588195	Facebook	f13_17	female (13-17)	4	1	20031	3922	118	0
+Μιχάλης Αγγελόπουλος	Michalis Angelopoulos	253581075582399	Facebook	f13_17	female (13-17)	6	1	19830	3966	39	0
+FDP Bayern	FDP Bayern	350558562311	Facebook	f13_17	female (13-17)	1	1	19337	9668	96	19
+In Progress	In Progress	254883792041627	Facebook	f13_17	female (13-17)	4	1	19221	8317	44	18
+KlimatAlert	Wojciech Makowski	342956762998558	Facebook	f13_17	female (13-17)	2	1	19024	3804	17	2
+déi gréng	déi gréng	21710789873	Facebook	f13_17	female (13-17)	2	1	18981	9064	46	8
+SSU	SSU	45101268520	Facebook	f13_17	female (13-17)	8	1	18918	4305	283	62
+Noored Otsustajad	Eesti Noorteühenduste Liit (ENL)	205597239493153	Facebook	f13_17	female (13-17)	1	1	17964	3592	35	0
+Die Offene Gesellschaft	die Initiative Offene Gesellschaft mit Facebook-Werbegutschrift	912255502235222	Facebook	f13_17	female (13-17)	140	1	17916	3706	713	0
+Cruel	In Progress	1949870255322243	Facebook	f13_17	female (13-17)	3	1	17666	7391	36	16
+GPA-djp	GPA-djp	214499840736	Facebook	f13_17	female (13-17)	1	1	17524	3504	34	0
+Die Grünen Steiermark	Die Grünen Steiermark	97997637890	Facebook	f13_17	female (13-17)	14	1	17281	6391	337	0
+Die neue SPÖ Tirol	SPÖ Tirol	172040642860223	Facebook	f13_17	female (13-17)	8	1	17249	6620	142	21
+Open Vld	Open Vld	53668151866	Facebook	f13_17	female (13-17)	3	1	17222	6386	172	34
+Γιώργος Θωμάς	Γιώργος Θωμάς	546583482086942	Facebook	f13_17	female (13-17)	7	1	17209	3693	42	0
+sp.a West-Vlaanderen	sp.a West-Vlaanderen	269157793205215	Facebook	f13_17	female (13-17)	6	1	17151	6262	131	26
+Παύλος Γερουλάνος	Παύλος Γερουλάνος	196882087005924	Facebook	f13_17	female (13-17)	2	1	16909	6782	17	3
+Momentum Mozgalom	Momentum Mozgalom	592204747588011	Facebook	f13_17	female (13-17)	4	1	16901	7927	45	21
+PVDA West-Vlaanderen	PVDA	1661103980836335	Facebook	f13_17	female (13-17)	5	1	16892	5159	217	0
+Grüne Mannheim	BÜNDNIS 90/DIE GRÜNEN Kreisverband Mannheim	123290727868673	Facebook	f13_17	female (13-17)	42	1	16464	6057	133	10
+Sverigedemokraterna Kalmar län	Kotanen Mika Erik	117200235024372	Facebook	f13_17	female (13-17)	13	1	15095	3167	35	16
+BVB / Freie Wähler		379808979250786	Facebook	f13_17	female (13-17)	1	1	14989	2998	29	0
+Sweeties		1335022773303472	Facebook	f13_17	female (13-17)	2	1	14811	2962	76	0
+Česká pirátská strana - Piráti Plzeňský kraj	Kubat Josef	115602606970	Facebook	f13_17	female (13-17)	3	1	14796	3499	53	10
+Kateřina Jacques	Kateřina Bursíková Jacques	51832713011	Facebook	f13_17	female (13-17)	3	1	14521	2904	56	11
+Josef Caruana	Josef Caruana	166617437361908	Facebook	f13_17	female (13-17)	7	1	14504	4359	44	4
+Ομάδα Μνήμης	In Progress	230319800467420	Facebook	f13_17	female (13-17)	3	1	14464	7077	67	15
+Give Us A Voice Lëtzebuerg		1505184473073824	Facebook	f13_17	female (13-17)	1	1	14425	7212	360	72
+Fridays For Future Torino - Italy	Luca Sardo	374899703056927	Facebook	f13_17	female (13-17)	2	1	14409	2799	68	0
+Adrian Delia	Partit Nazzjonalista	1442808799090985	Facebook	f13_17	female (13-17)	11	1	14314	5320	49	7
+ΟΝΝΕΔ	ΟΝΝΕΔ	120198888000231	Facebook	f13_17	female (13-17)	7	1	14089	5059	31	3
+Fridays For Future Münster	Fridays for Future	1212444868905059	Facebook	f13_17	female (13-17)	4	1	13940	5592	137	9
+GRÜNE JUGEND Hamburg	GRÜNE JUGEND Hamburg	202668476436727	Facebook	f13_17	female (13-17)	2	1	13775	2755	27	0
+Nicola Fratoianni	Nicola Fratoianni	116181541819083	Facebook	f13_17	female (13-17)	8	1	13561	5576	23	8
+Hungerprojektet	Hungerprojektet	212049035488183	Facebook	f13_17	female (13-17)	2	1	13228	2645	123	25
+Søren Pape Poulsen	Søren Pape Poulsen	952334508116178	Facebook	f13_17	female (13-17)	1	1	13204	6602	88	17
+Kristof Calvo	Kristof Calvo	345099982367937	Facebook	f13_17	female (13-17)	4	1	13158	5884	80	25
+Roland Heintze	CDU Landesverband Hamburg	751240091655625	Facebook	f13_17	female (13-17)	4	1	13144	6572	130	0
+Die Tiroler Grünen	Die Tiroler Grünen	112941499555	Facebook	f13_17	female (13-17)	8	1	13127	3314	163	19
+Jacek Wilk	KWW Konfederacja Korwin Braun Liroy Narodowcy	499646073441042	Facebook	f13_17	female (13-17)	2	1	12852	6426	20	7
+Lander Piccart	Piccart Lander 	654200285025844	Facebook	f13_17	female (13-17)	1	1	12601	2520	24	0
+Volkspartei Niederösterreich	Volkspartei Niederösterreich	185269004912086	Facebook	f13_17	female (13-17)	48	1	12389	4427	146	24
+BÜNDNIS 90/DIE GRÜNEN Halle (Saale)	BÜNDNIS 90/ DIE GRÜNEN Stadtverband Halle	224759004224478	Facebook	f13_17	female (13-17)	13	1	12378	3392	198	35
+Beate Meinl-Reisinger	NEOS	243225039137708	Facebook	f13_17	female (13-17)	5	1	12008	6004	74	15
+Live Communications for MEP Elections May 2019	Stephen Florian	962042630582450	Facebook	f13_17	female (13-17)	8	1	11976	3554	66	0
+Ondřej Krutílek - kandidát do Evropského parlamentu	ODS	1220066088147062	Facebook	f13_17	female (13-17)	6	1	11967	2666	75	17
+Tobias Krammer	Tobias Krammer	1643134582482219	Facebook	f13_17	female (13-17)	1	1	11861	2372	23	0
+SPD Sachsen	SPD Sachsen	50169278122	Facebook	f13_17	female (13-17)	8	1	11860	2417	118	23
+CSV	CSV	56016549775	Facebook	f13_17	female (13-17)	2	1	11792	2886	37	0
+Social Democrats	Social Democrats	1012851375393300	Facebook	f13_17	female (13-17)	2	1	11769	2285	56	0
+Alfredo Posteraro	SocialCom	408876889953275	Facebook	f13_17	female (13-17)	2	1	11379	2275	25	0
+Vagelis Meimarakis - Βαγγέλης Μεϊμαράκης	Vagelis Meimarakis - Βαγγέλης Μεϊμαράκης	533778063439430	Facebook	f13_17	female (13-17)	1	1	11031	5515	5	0
+Thalia Buchhandlung - Thalia.de	Thalia Buchhandlung - Thalia.de	342884401877	Facebook	f13_17	female (13-17)	7	1	10987	4617	147	32
+David Stellini	David Stellini	1911257335785088	Facebook	f13_17	female (13-17)	7	1	10889	4326	66	11
+Hannan Sarwar	Hannan Amer Sarwar	280256796023344	Facebook	f13_17	female (13-17)	8	1	10809	988	786	0
+Pedro Quevedo Iturbe	Nueva Canarias	960849937289013	Facebook	f13_17	female (13-17)	8	1	10795	2180	37	4
+Edukacja dla Dobrego Klimatu	Wojciech Makowski	798249970192065	Facebook	f13_17	female (13-17)	1	1	10635	2127	24	4
+Genova che osa	Genova che osa	1538926219695299	Facebook	f13_17	female (13-17)	7	1	10595	3365	159	0
+ANTICLIMBERS		1008414972688083	Facebook	f13_17	female (13-17)	1	1	10554	2111	18	0
+Alexis Charitsis - Αλέξης Χαρίτσης	Αλέξης Χαρίτσης	296107141177054	Facebook	f13_17	female (13-17)	7	1	10453	2203	42	0
+CDU Altona	CDU Kreisverband Altona/Elbvororte	619070778260499	Facebook	f13_17	female (13-17)	2	1	10417	2692	103	16
+SPD Mannheim	SPD Mannheim	417906251607978	Facebook	f13_17	female (13-17)	4	1	10413	4003	72	24
+NEOS	NEOS	327450964017497	Facebook	f13_17	female (13-17)	12	1	10350	2917	89	20
+Christian Dax	SPÖ Burgenland	1232990493514860	Facebook	f13_17	female (13-17)	8	1	10296	2593	112	14
+Werk gezocht		439982882734383	Facebook	f13_17	female (13-17)	3	1	10277	2826	64	0
+Luke 'Ming' Flanagan MEP	Luke 'Ming' Flanagan MEP	182354901841834	Facebook	f13_17	female (13-17)	3	1	10264	4958	76	26
+Herbert Kickl	FPÖ	1977684662509834	Facebook	f13_17	female (13-17)	5	1	10134	4480	68	16
+SPD Kreisverband Pinneberg	SPD Kreisverband Pinneberg	123555224338965	Facebook	f13_17	female (13-17)	5	1	10128	3402	56	0
+Andreas Schieder	SPÖ	290881691011354	Facebook	f13_17	female (13-17)	9	1	10045	3378	75	19
+Alex Agius Saliba	Alex Agius Saliba	656955664383156	Facebook	f13_17	female (13-17)	7	1	10007	3033	38	3
+Edvards Smiltēns LV		400861240278635	Facebook	f13_17	female (13-17)	1	1	9963	4981	24	4
+FPÖ Tirol - die Tiroler Freiheitlichen	FPÖ Tirol - die Tiroler Freiheitlichen	197677003596231	Facebook	f13_17	female (13-17)	5	1	9836	1967	50	7
+Werner Kogler	Die Grünen	133612666671985	Facebook	f13_17	female (13-17)	6	1	9632	4402	57	15
+FPÖ	FPÖ	169051073236170	Facebook	f13_17	female (13-17)	12	1	9450	4461	96	27
+FÜR Karlsruhe	FÜR Karlsruhe - Politik mit christlicher Herzenshaltung e.V.	260790977428638	Facebook	f13_17	female (13-17)	5	1	9389	2394	32	0
+Jusos Saar	Jusos Saar in der SPD 	110501198961505	Facebook	f13_17	female (13-17)	3	1	9380	1814	71	0
+Grüne Jugend Mannheim	GRÜNE JUGEND Mannheim	240115382692520	Facebook	f13_17	female (13-17)	18	1	9350	1839	340	0
+Jusos Nienburg	SPD-Unterbezirk Nienburg	253819871459590	Facebook	f13_17	female (13-17)	9	1	9242	1864	241	0
+INBOX	New Digital Media	369693523475596	Facebook	f13_17	female (13-17)	16	1	9180	3724	10	0
+Miriam Dalli	Miriam Dalli	277980849002904	Facebook	f13_17	female (13-17)	12	1	9160	2556	45	0
+Fridays for Future - Padova	Leonardo Basso	264120211150371	Facebook	f13_17	female (13-17)	1	1	9041	1808	17	0
+FŻL - Forum Żgħażagħ Laburisti	FŻL - Forum Żgħażagħ Laburisti	40870184668	Facebook	f13_17	female (13-17)	1	1	9010	1802	17	0
+Greenpeace Magyarország	Greenpeace Magyarország	35634348348	Facebook	f13_17	female (13-17)	1	1	8998	4499	13	2
+Jorge Azcón	Partido Popular Zaragoza	1005758609559650	Facebook	f13_17	female (13-17)	20	1	8981	2073	31	0
+Hizb ut Tahrir Skandinavien	Shoaib Umais Usman	256932138237638	Facebook	f13_17	female (13-17)	2	1	8955	1791	20	9
+Emma Wiesner	Emma Wiesner (Centerpartiet)	653072158104424	Facebook	f13_17	female (13-17)	3	1	8930	2338	74	14
+Europos Parlamento biuras Lietuvoje	Europos Parlamento biuras Lietuvoje	188014250186	Facebook	f13_17	female (13-17)	4	1	8885	1777	22	0
+Δύναμη Ανάπτυξης	Δύναμη Ανάπτυξης	279871462169811	Facebook	f13_17	female (13-17)	2	1	8864	1772	88	17
+DP - Demokratesch Partei	DP - Demokratesch Partei	280875378609326	Facebook	f13_17	female (13-17)	8	1	8716	2912	105	17
+USR Galați	Uniunea Salvați România	174434106304018	Facebook	f13_17	female (13-17)	4	1	8605	1721	18	3
+Podem	PODEMOS.	792238440859918	Facebook	f13_17	female (13-17)	7	1	8475	1826	90	15
+Organizace pro pomoc uprchlíkům, z.s.	Organizace pro pomoc uprchlíkům, z.s.	188235971211201	Facebook	f13_17	female (13-17)	2	1	8474	1694	7	3
+Anja Vanrobaeys	Vanrobaeys Anja Maurits	795798820785493	Facebook	f13_17	female (13-17)	1	1	8452	1690	16	0
+Νάσος Ηλιόπουλος	Athanasios Iliopoulos	1535215766758773	Facebook	f13_17	female (13-17)	9	1	8421	3986	40	5
+Vihreät nuoret	Vihreät nuoret	362064961211	Facebook	f13_17	female (13-17)	3	1	8391	3374	133	0
+Philippe Muyters	Nieuw-Vlaamse Alliantie	197625717055207	Facebook	f13_17	female (13-17)	2	1	8360	1672	83	16
+Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	f13_17	female (13-17)	18	1	8266	1619	82	16
+Γιώργος Κουνάνης - George Kounanis	Georgios Kounanis	562436030930723	Facebook	f13_17	female (13-17)	4	1	8198	1987	26	0
+Antonio Morales Méndez	Nueva Canarias	972435506102094	Facebook	f13_17	female (13-17)	5	1	8137	2288	31	4
+BZS 23 - Bündnis Zukunft Stuttgart 23	Marc Fuchs 	225413838047902	Facebook	f13_17	female (13-17)	6	1	8083	1685	73	12
+Piraten Bezierk Osten		141480992729926	Facebook	f13_17	female (13-17)	1	1	7976	1595	79	15
+Bündnis 90 / Die Grünen Thüringen	BÜNDNIS 90/DIE GRÜNEN Thüringen	445962318752667	Facebook	f13_17	female (13-17)	2	1	7831	3121	103	0
+Jacob Netteberg	Netteberg Jacob	1438856909487306	Facebook	f13_17	female (13-17)	3	1	7434	3603	52	10
+FDP Hamburg	FDP Hamburg	189184071108491	Facebook	f13_17	female (13-17)	12	1	7364	1226	251	0
+Julian Barazi FDP	Freie Demokratische Partei	548949038855591	Facebook	f13_17	female (13-17)	27	1	7288	1869	261	0
+Nueva Canarias Las Palmas de Gran Canaria	Nueva Canarias	342077645945305	Facebook	f13_17	female (13-17)	6	1	7272	1447	18	0
+Mark Grossmann	Venstre Odense 1. kreds	393486437446456	Facebook	f13_17	female (13-17)	36	1	7220	1271	31	0
+TW-IN	SEBASTIAN JOSEPH 4 ST JOHN	1975276162525168	Facebook	f13_17	female (13-17)	3	1	7208	1436	86	16
+Daniel Buda	ETIS Design	220579784732993	Facebook	f13_17	female (13-17)	2	1	7034	3517	5	2
+Arabiska Teatern / أرابيسكا تياترن	Arabiska Teatern / أرابيسكا تياترن	996264337099052	Facebook	f13_17	female (13-17)	2	1	7012	3312	35	7
+Socialdemokraterna Örebro kommun	Nerelius Carin Isabelle	223141487866750	Facebook	f13_17	female (13-17)	5	1	6996	1411	66	13
+Nagy József	Nagy József	128401833854581	Facebook	f13_17	female (13-17)	11	1	6949	1976	24	0
+Daniel Freund	Bündnis 90 / Die Grünen Kreisverband Aachen	566872987051379	Facebook	f13_17	female (13-17)	2	1	6924	3460	34	6
+Francis Zammit Dimech	Francis Zammit Dimech	117406495021568	Facebook	f13_17	female (13-17)	29	1	6823	1659	57	2
+Grüne.Stadt.Erfurt	Marcus Neumann 	1443838832527925	Facebook	f13_17	female (13-17)	8	1	6815	1354	64	0
+Jusos Tübingen	Fabian Sten Köppen	107634655928827	Facebook	f13_17	female (13-17)	1	1	6814	1362	13	0
+Apostolos Katsifaras / Απόστολος Κατσιφάρας	TEAMAPP	888149571263111	Facebook	f13_17	female (13-17)	3	1	6784	3334	16	2
 Comac étudiants	PTB	386211174868638	Facebook	f13_17	female (13-17)	2	1	6747	1349	133	0
-Grüne Jugend Freiburg	Grüne Jugend Freiburg	258738124139670	Facebook	f13_17	female (13-17)	15	1	6062	347	463	0
-In Progress	In Progress	254883792041627	Facebook	f13_17	female (13-17)	1	1	5860	2344	11	5
-one brussels	one.brussels	244157445635331	Facebook	f13_17	female (13-17)	3	1	5703	1520	23	0
-Ζωή Κωνσταντοπούλου - Zoe Konstantopoulou	Πλεύση Ελευθερίας	1489639131352219	Facebook	f13_17	female (13-17)	2	1	5682	1242	14	0
-Harald Vilimsky	FPÖ	547597092025909	Facebook	f13_17	female (13-17)	4	1	5473	1953	8	1
-USR Bihor	Uniunea Salvați România Filiala Bihor	1592660281028385	Facebook	f13_17	female (13-17)	4	1	5303	1915	8	1
-Κίνημα Αλλαγής	Κίνημα Αλλαγής	504891253213373	Facebook	f13_17	female (13-17)	1	1	4660	2330	11	2
-Adenauer Campus	Konrad-Adenauer-Stiftung	225123097665916	Facebook	f13_17	female (13-17)	8	1	4603	515	252	0
-Die neue SPÖ Tirol	SPÖ Tirol	172040642860223	Facebook	f13_17	female (13-17)	1	1	4210	842	8	0
-Cruel	In Progress	1949870255322243	Facebook	f13_17	female (13-17)	1	1	3679	1471	7	3
-Νάσος Ηλιόπουλος	Athanasios Iliopoulos	1535215766758773	Facebook	f13_17	female (13-17)	6	1	3441	683	9	0
-Greenpeace Belgium	Greenpeace Belgium	73232790238	Facebook	f13_17	female (13-17)	4	1	3324	664	8	0
-Die Grünen Steiermark	Die Grünen Steiermark	97997637890	Facebook	f13_17	female (13-17)	3	1	3266	610	81	0
-Grüne Jugend Steiermark	Grüne Jugend Steiermark	278628109523836	Facebook	f13_17	female (13-17)	2	1	3248	649	64	0
-Άννα Μισέλ Ασημακοπούλου	Άννα Μισέλ Ασημακοπούλου	1394997234118853	Facebook	f13_17	female (13-17)	2	1	3096	619	6	0
-ΣΥ.ΡΙΖ.Α.	ΣΥ.ΡΙΖ.Α.	31895177275	Facebook	f13_17	female (13-17)	1	1	3016	1206	6	3
-RMDSZ	RMDSZ	102601499822802	Facebook	f13_17	female (13-17)	2	1	2983	629	1	0
-Voxpop Analysis	Ιωάννης Απόστολος Σκλίας	126822114784105	Facebook	f13_17	female (13-17)	2	1	2905	581	9	1
-Vlaams Belang	Vlaams Belang	56605856504	Facebook	f13_17	female (13-17)	1	1	2679	1339	26	13
-Οι Έλληνες	In Progress	2273336566260671	Facebook	f13_17	female (13-17)	2	1	2651	1087	6	3
+Severin Mayr	Die Grünen Oberösterreich	292307661332245	Facebook	f13_17	female (13-17)	7	1	6632	1150	201	0
+Junge Union Aurich	CDU Stadtverband Aurich und Junge Union Aurich	204261220053348	Facebook	f13_17	female (13-17)	6	1	6626	1325	23	0
+Grüne Rhein-Pfalz-Kreis	Maurice Kuhn 	1873999882830833	Facebook	f13_17	female (13-17)	12	1	6617	862	314	0
+Vänsterpartiet Gävleborg	Vänsterpartiet Gävleborg	137604056369425	Facebook	f13_17	female (13-17)	6	1	6491	1418	86	19
+Inštitút ľudských práv - Human Rights Institute	Inštitút ľudských práv - Human Rights Institute	139025019440898	Facebook	f13_17	female (13-17)	11	1	6461	1465	29	0
+SPD POTSDAM	SPD Potsdam	123837087688700	Facebook	f13_17	female (13-17)	11	1	6450	1393	64	6
+Dietmar Köster, MEP	Dr. Dietmar Köster	374607046013682	Facebook	f13_17	female (13-17)	1	1	6392	1278	12	0
+Alexis Tsipras	ΣΥ.ΡΙΖ.Α.	12224403053	Facebook	f13_17	female (13-17)	8	1	6376	2585	21	5
+VPA Research		369030033713837	Facebook	f13_17	female (13-17)	9	1	6350	1297	18	1
+ΑΔΕΚ - Ανεξάρτητη Δημοτική Ενωτική Κίνηση Πετρούπολης	Ανεξάρτητη Δημοτική Ενωτική Κίνηση Πετρούπολης	620951011676414	Facebook	f13_17	female (13-17)	13	1	6319	1263	40	2
+FPÖ Niederösterreich	FPÖ Niederösterreich	150623338441911	Facebook	f13_17	female (13-17)	8	1	6289	2860	65	28
+KPÖ PLUS	KPÖ PLUS	849742871847407	Facebook	f13_17	female (13-17)	7	1	6251	1250	49	9
+Νότης Μαριάς, Ανεξάρτητος Ευρωβουλευτής	Επαμεινωνδας Μαριας	337788662974718	Facebook	f13_17	female (13-17)	11	1	6202	2409	22	3
+Roberta Metsola	Roberta Metsola	406824526101449	Facebook	f13_17	female (13-17)	18	1	6163	1565	36	0
+Arbeitgeberverband Gesamtmetall	Arbeitgeberverband Gesamtmetall	169367889785454	Facebook	f13_17	female (13-17)	3	1	6080	1471	20	0
+Fridays For Future Firenze	Lara Cioni 	1971775153129220	Facebook	f13_17	female (13-17)	3	1	6079	1215	18	0
+Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	f13_17	female (13-17)	4	1	6049	1696	42	4
+Włącz oszczędzanie	Łukasz Tadeusz Pająk	1599655186922126	Facebook	f13_17	female (13-17)	3	1	6007	1084	38	0
+LET'S CEE Film Festival	LET'S CEE Film Festival	374807339208829	Facebook	f13_17	female (13-17)	7	1	5974	2572	125	0
+Μανώλης Γλυνός	Emmanouil Glynos	968742453313048	Facebook	f13_17	female (13-17)	9	1	5910	2474	31	7
+BÜNDNIS 90/DIE GRÜNEN Magdeburg	BÜNDNIS 90/DIE GRÜNEN Magdeburg	83113756872	Facebook	f13_17	female (13-17)	7	1	5762	1537	83	14
+Wilfried Haslauer	Salzburger Volkspartei	49835536470	Facebook	f13_17	female (13-17)	6	1	5699	2152	83	15
+Roselyn Borg Knight	Roselyn Borg	446487702156732	Facebook	f13_17	female (13-17)	22	1	5623	2458	45	1
+PNL Maramureş	Rus Alexandra	1465792233677604	Facebook	f13_17	female (13-17)	12	1	5561	1190	13	2
+SPD Wandsbek	Andre Schneider	182588003457	Facebook	f13_17	female (13-17)	22	1	5520	1240	126	4
+En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	f13_17	female (13-17)	1	1	5467	1093	50	10
+Постоянна ромска конференция	Roma Standing Conference	2169116143357997	Facebook	f13_17	female (13-17)	1	1	5457	2728	2	0
+Friends of the Earth Malta	Friends of the Earth Malta	137236009675929	Facebook	f13_17	female (13-17)	5	1	5375	1368	37	3
+FDP Wartburgkreis-Eisenach	FDP-Kreisverband Wartburgkreis-Eisenach	271352156228399	Facebook	f13_17	female (13-17)	22	1	5256	969	253	0
+Lovin Malta	Lovin Malta	1700937210129433	Facebook	f13_17	female (13-17)	4	1	5241	1627	42	8
+David Casa	David Casa	193035580892638	Facebook	f13_17	female (13-17)	1	1	5207	1041	10	0
+FDP Rostock	FDP-Kreisverband Rostock	750220438339711	Facebook	f13_17	female (13-17)	2	1	5168	1033	28	0
+Tess Minnens	Minnens Tess Veerie L	131791854353190	Facebook	f13_17	female (13-17)	2	1	5158	2358	90	0
+Lars Boettger	Lars Boettger	1150644375098670	Facebook	f13_17	female (13-17)	4	1	5079	1015	53	9
+SPD-Landesverband Mecklenburg-Vorpommern	SPD MV	140300602673724	Facebook	f13_17	female (13-17)	4	1	5068	1395	64	11
+ITUC		20556338116	Facebook	f13_17	female (13-17)	3	1	5002	2437	60	0
+FDP Bielefeld	Jan-Maik Schlifter De La Fontaine	153467308073688	Facebook	f13_17	female (13-17)	7	1	4984	1007	72	6
+OÖVP - die Oberösterreichische Volkspartei	Oberösterreichische Volkspartei	289163077789256	Facebook	f13_17	female (13-17)	25	1	4932	1191	25	1
+Ralph Puli: Kap tal-Kunsilliera PN f'Hal Qormi	Ralph Puli	312887412236411	Facebook	f13_17	female (13-17)	25	1	4915	989	74	2
+Lode Ceyssens	Lode Ceyssens	690224427744073	Facebook	f13_17	female (13-17)	1	1	4852	970	9	0
+Alexander Kotz	Alexander Kotz	2390058227950123	Facebook	f13_17	female (13-17)	1	1	4732	946	47	9
+Clare Claffey Social Democrats	Social Democrats Laois Offaly	289004898593218	Facebook	f13_17	female (13-17)	3	1	4729	945	9	0
+European Parliament Office in Malta	European Parliament Office in Malta	116353271736965	Facebook	f13_17	female (13-17)	3	1	4705	1075	12	0
+Angela Russo	Angela Russo 	1624334387651107	Facebook	f13_17	female (13-17)	15	1	4660	1278	15	0
+Οι Έλληνες	In Progress	2273336566260671	Facebook	f13_17	female (13-17)	3	1	4651	1860	9	4
+3F - Danmarks Stærkeste Fagforening	3F - Danmarks Stærkeste Fagforening	109012749124622	Facebook	f13_17	female (13-17)	1	1	4646	929	6	1
+Nikolaj Villumsen	Nikolaj Villumsen	529124290474705	Facebook	f13_17	female (13-17)	3	1	4640	928	49	10
+Κατερινα Μαρκου	Pulse and Opinion S.A.	832766380123763	Facebook	f13_17	female (13-17)	1	1	4637	1855	4	0
+Monika Hohlmeier	Monika Hohlmeier	139065632780165	Facebook	f13_17	female (13-17)	5	1	4622	2146	18	3
+Grüne Jugend Augsburg	Grüne Jugend Augsburg	102909819848567	Facebook	f13_17	female (13-17)	6	1	4604	587	223	0
+Lengyel Máté	Lengyel Máté	284187002052790	Facebook	f13_17	female (13-17)	5	1	4595	919	4	1
+Costel Alexe	ETIS Design	182546041796641	Facebook	f13_17	female (13-17)	2	1	4584	2292	7	3
+Europa-Wahl 2019	Michael Eisenriegler Bakk Phil	489866264465481	Facebook	f13_17	female (13-17)	21	1	4536	905	90	0
+Social Democratic and Labour Party (SDLP)	Social Democratic and Labour Party (SDLP)	111956985487415	Facebook	f13_17	female (13-17)	1	1	4509	2255	51	0
+EM360 cu Adi Maniutiu	EM360 cu Adi Maniutiu	201920416986321	Facebook	f13_17	female (13-17)	14	1	4472	1989	11	0
+DIE LINKE. Mannheim	Die Linke Kreisverband Mannheim	138048962930334	Facebook	f13_17	female (13-17)	7	1	4423	844	69	0
+Peter Hametner	Peter Hametner	388385461980020	Facebook	f13_17	female (13-17)	9	1	4383	1040	33	4
+Dries Van Langenhove	Vlaams Belang	1585072555117186	Facebook	f13_17	female (13-17)	1	1	4368	2184	109	21
+Άννα Μισέλ Ασημακοπούλου	Άννα Μισέλ Ασημακοπούλου	1394997234118853	Facebook	f13_17	female (13-17)	2	1	4338	1861	5	0
+Giovanni Guidi		134845253246587	Facebook	f13_17	female (13-17)	2	1	4303	1652	107	1
+FDP Filderstadt	Freie Demokraten Filderstadt	1470761319809502	Facebook	f13_17	female (13-17)	2	1	4265	1077	14	0
+Anna Neuendorf	Anna Neuendorf	1903929446580550	Facebook	f13_17	female (13-17)	5	1	4258	1435	65	0
+Partij van de Arbeid (PvdA)	Partij van de Arbeid (PvdA)	113895885305052	Facebook	f13_17	female (13-17)	3	1	4255	1295	12	3
+SPD	SPD	47930567748	Facebook	f13_17	female (13-17)	3	1	4244	848	44	8
+Weunite	weunite.eu	843723189339313	Facebook	f13_17	female (13-17)	2	1	4236	1951	71	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	f13_17	female (13-17)	5	1	4204	1503	17	1
+SPD Oberneuland	SPD Oberneuland	1638965259687442	Facebook	f13_17	female (13-17)	4	1	4204	1563	63	0
+Marilen Gabriel Pirtea	ETIS Design	446198175563566	Facebook	f13_17	female (13-17)	1	1	4153	2076	8	4
+Socialdemokraterna Ystad	Martensson Hans Inge Marten	358016594293864	Facebook	f13_17	female (13-17)	6	1	4105	732	37	6
+Alex Bernhuber	Niederösterreichischer Bauernbund	382872055842390	Facebook	f13_17	female (13-17)	10	1	4100	875	30	5
+Socialdemokraterna i Sollentuna	Jonsson Sven Joakim	465428396919164	Facebook	f13_17	female (13-17)	7	1	4079	761	47	9
+Ufficio d'informazione in Italia del Parlamento europeo	Ufficio d'informazione in Italia del Parlamento europeo	143544514130	Facebook	f13_17	female (13-17)	1	1	4061	1624	4	0
+Vlaams Belang	Vlaams Belang	56605856504	Facebook	f13_17	female (13-17)	1	1	3978	1989	19	9
+Julien Vandenhoucke	Vandenhoucke Julien Serge M	772643609793854	Facebook	f13_17	female (13-17)	2	1	3976	1521	54	0
+Dose of Society	Dose of Society	323340437359	Facebook	f13_17	female (13-17)	2	1	3973	794	91	0
+Silvia Sardone	Silvia Sardone	667483386685540	Facebook	f13_17	female (13-17)	14	1	3899	837	9	0
+Danmarks Socialdemokratiske Ungdom (DSU)	DSU	126084211821	Facebook	f13_17	female (13-17)	1	1	3892	1946	52	26
+Ioannis Kantarakis	Ioannis Chrysostomos Kantarakis	212280702946081	Facebook	f13_17	female (13-17)	2	1	3794	796	8	0
+Taavi Rõivas	Roivas Taavi	1033457073332454	Facebook	f13_17	female (13-17)	7	1	3783	856	31	4
+Steffen Beckmann AfD	Steffen Beckmann	2242760109144391	Facebook	f13_17	female (13-17)	6	1	3772	865	22	0
+Markus Hein	FPÖ Linz	624525897689879	Facebook	f13_17	female (13-17)	6	1	3759	1088	63	0
+Frank Psaila	Frank Psaila	458318884361628	Facebook	f13_17	female (13-17)	4	1	3692	736	38	0
+Jacob Mark	SF	69985338410	Facebook	f13_17	female (13-17)	1	1	3672	1836	24	4
+Ne u moje ime		138418753446889	Facebook	f13_17	female (13-17)	1	1	3627	725	6	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	f13_17	female (13-17)	1	1	3617	723	36	7
+Volt Deutschland	Volt Deutschland	134209407129787	Facebook	f13_17	female (13-17)	24	1	3587	723	39	0
+Pritty Kaur	sp.a	413843202368855	Facebook	f13_17	female (13-17)	9	1	3518	1433	50	0
+Christofer Ranzmaier	Christofer Ranzmaier	187449428281036	Facebook	f13_17	female (13-17)	4	1	3494	782	39	5
+SPD Nürnberg	SPD Nürnberg	144527089488	Facebook	f13_17	female (13-17)	3	1	3480	1312	61	0
+GRÜNE im Landkreis FREISING	Bündnis 90/Die Grünen Kreisverband Freising	419905770448	Facebook	f13_17	female (13-17)	3	1	3462	1548	66	0
+Dr. Horst Baier	Dr. Horst Baier	220262751399177	Facebook	f13_17	female (13-17)	14	1	3457	535	130	0
+Partei der Humanisten Bremen	Axel Börold	1477347775705985	Facebook	f13_17	female (13-17)	2	1	3444	688	34	6
+Zuhal Demir	Nieuw-Vlaamse Alliantie	453932394796444	Facebook	f13_17	female (13-17)	5	1	3423	1223	29	7
+7 Frazioni		445466952870695	Facebook	f13_17	female (13-17)	1	1	3407	1703	3	0
+Lena Otto SPD	SPD Hamburg-Nord	273723356885700	Facebook	f13_17	female (13-17)	1	1	3401	680	6	0
+Dominik Nepp	FPÖ-Wien	135953609780627	Facebook	f13_17	female (13-17)	3	1	3398	1699	24	9
+Team Kurz	Volkspartei	1446536545429987	Facebook	f13_17	female (13-17)	5	1	3376	1634	43	10
+SPÖ Obersteiermark Ost	SPÖ Obersteiermark Ost	639538052795950	Facebook	f13_17	female (13-17)	4	1	3374	674	33	0
+Jusos Hamburg	SPD Hamburg	114266450799	Facebook	f13_17	female (13-17)	3	1	3340	1364	117	23
+Jacopo Morrone	Jacopo Morrone	574913852523601	Facebook	f13_17	female (13-17)	3	1	3336	666	66	0
+Tierschutzvolksbegehren	Tierschutzvolksbegehren	1642678769161065	Facebook	f13_17	female (13-17)	9	1	3327	623	82	0
+Ralf Lottermann - Für den Wormser Stadtrat	Ralf Lottermann	364491737725008	Facebook	f13_17	female (13-17)	5	1	3287	889	12	3
+Νεολαία Συριζα - Youth of Syriza	Νεολαία Συριζα - Youth of Syriza	489700481134251	Facebook	f13_17	female (13-17)	2	1	3267	653	6	0
+Barlabás András	Barlabás András	137851763633896	Facebook	f13_17	female (13-17)	18	1	3207	6	6	1
+Daniel Fenechiu	ETIS Design	125414364282605	Facebook	f13_17	female (13-17)	1	1	3207	1603	3	0
+KDU Skåne	Lindholm 	250864784955763	Facebook	f13_17	female (13-17)	1	1	3196	639	29	5
+Frihet	Hayrynen Lotta Ilona	1722887348013516	Facebook	f13_17	female (13-17)	5	1	3174	1587	43	16
+Jusos Pinneberg	Jusos Pinneberg	68141565265	Facebook	f13_17	female (13-17)	3	1	3166	1368	38	0
+Carmarthenshire Liberal Democrats	Christopher David W Passmore	585876841564510	Facebook	f13_17	female (13-17)	6	1	3163	942	68	0
+Centerpartiet Västernorrland	Sjolund Anne-Li Marie	2117823355168432	Facebook	f13_17	female (13-17)	1	1	3139	627	29	5
+Siegfried Muresan	ETIS Design	731035500293728	Facebook	f13_17	female (13-17)	1	1	3112	1556	6	3
+Adrian Miuțescu	ETIS Design	1992712767649895	Facebook	f13_17	female (13-17)	3	1	3091	1436	5	2
+ΑΚΕΛ - AKEL	ΑΚΕΛ - AKEL	117799504920552	Facebook	f13_17	female (13-17)	54	1	3062	816	120	0
+Eva Kaili	Eva Kaili	13721812367	Facebook	f13_17	female (13-17)	6	1	3054	950	6	0
+AMA MORON	Isidoro Ignacio Albarreal Nuñez	125820130786950	Facebook	f13_17	female (13-17)	3	1	3051	1526	30	0
+Mischel Sylvie	Sylvie Suzette Renee Mischel	155913575037227	Facebook	f13_17	female (13-17)	7	1	3049	687	30	5
+Andrea Togno - Candidato M5S Elezioni Europee	Andrea Togno	364157860884983	Facebook	f13_17	female (13-17)	1	1	2997	599	29	5
+Greenpeace Belgium	Greenpeace Belgium	73232790238	Facebook	f13_17	female (13-17)	4	1	2979	595	31	5
+Ion ȘTEFAN	ETIS Design SRL	1653699758248627	Facebook	f13_17	female (13-17)	2	1	2958	1479	6	3
+Zanda Kalniņa-Lukaševica	Kalniņa-Lukaševica Zanda	414381482703957	Facebook	f13_17	female (13-17)	4	1	2900	605	6	0
+Νίκος Διακομιχάλης - Nikos Diakomichalis		426927291389477	Facebook	f13_17	female (13-17)	6	1	2842	839	16	0
+Simon Lejeune	Lejuene Simon Paul F	1721305591241017	Facebook	f13_17	female (13-17)	9	1	2840	568	18	0
+Sven Gatz	Gatz Sven Peter A	100947845480	Facebook	f13_17	female (13-17)	2	1	2838	937	28	3
+Thomas Stelzer	OÖVP - die Oberösterreichische Volkspartei	1786588968220782	Facebook	f13_17	female (13-17)	15	1	2835	987	18	2
+Thüringer Landtag	Thüringer Landtag	118252978672037	Facebook	f13_17	female (13-17)	1	1	2831	566	28	5
+Amaya Fernández	PP	486996548359961	Facebook	f13_17	female (13-17)	1	1	2820	564	5	0
+Kim Alloo	Alloo Kim	2165082146846340	Facebook	f13_17	female (13-17)	8	1	2797	1141	46	0
+Βασίλης Μάρκου υποψήφιος με τον Απ.Κατσιφάρα	Konstantinos Markou	470115806861343	Facebook	f13_17	female (13-17)	4	1	2797	852	8	0
+Violeta Alexandru	ETIS Design SRL	644108472676492	Facebook	f13_17	female (13-17)	2	1	2789	1200	3	0
+Dave Chrisp Comedy	David Chrisp	210713339427124	Facebook	f13_17	female (13-17)	3	1	2738	674	14	0
+Marina Kaljurand	Marina Kaljurand	651496914998204	Facebook	f13_17	female (13-17)	6	1	2723	544	53	0
+Inger Staahl Jensen i Europa-Parlamentet	Inger Staahl Jensen	586553418054920	Facebook	f13_17	female (13-17)	8	1	2720	364	36	4
+Μελίνα Μαρία Δερμεντζοπούλου	Maria Dermentzopoulou	371463640320808	Facebook	f13_17	female (13-17)	1	1	2685	1343	26	0
+Πράσινοι	 Πράσινοι Αλληλεγγύη	461275677331342	Facebook	f13_17	female (13-17)	15	1	2646	566	60	0
 Grüne Jugend Baden-Württemberg	GRÜNE JUGEND Baden-Württemberg	139278729445697	Facebook	f13_17	female (13-17)	6	1	2618	361	116	0
-Angelika Winzig	Wirtschaftsbund Österreich	141015722773374	Facebook	f13_17	female (13-17)	2	1	2106	421	4	0
-Werner Kogler	Die Grünen	133612666671985	Facebook	f13_17	female (13-17)	2	1	2082	800	20	4
-GRÜNE im Landkreis FREISING	Bündnis 90/Die Grünen Kreisverband Freising	419905770448	Facebook	f13_17	female (13-17)	3	1	2074	359	63	0
-Organizace pro pomoc uprchlíkům, z.s.	Organizace pro pomoc uprchlíkům, z.s.	188235971211201	Facebook	f13_17	female (13-17)	2	1	2074	900	4	0
-Νίκος Ανδρουλάκης	Νίκος Ανδρουλάκης	216089191899991	Facebook	f13_17	female (13-17)	5	1	2005	747	14	0
-Sverigedemokraterna Kalmar län	Kotanen Mika Erik	117200235024372	Facebook	f13_17	female (13-17)	9	1	1841	251	7	0
-Andreas Schieder	SPÖ	290881691011354	Facebook	f13_17	female (13-17)	3	1	1773	838	20	8
-Die Grünen	Die Grünen	21759893033	Facebook	f13_17	female (13-17)	2	1	1619	324	32	0
-Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	f13_17	female (13-17)	1	1	1586	317	14	2
-Ομάδα Μνήμης	In Progress	230319800467420	Facebook	f13_17	female (13-17)	1	1	1555	622	3	1
-Tobias Krammer	Tobias Krammer	1643134582482219	Facebook	f13_17	female (13-17)	1	1	1513	302	29	0
-Ondřej Krutílek - kandidát do Evropského parlamentu	ODS	1220066088147062	Facebook	f13_17	female (13-17)	1	1	1485	297	5	1
-Angela Russo	Angela Russo 	1624334387651107	Facebook	f13_17	female (13-17)	2	1	1467	293	2	0
-Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	f13_17	female (13-17)	1	1	1423	284	13	2
-SPD Kreisverband Pinneberg	SPD Kreisverband Pinneberg	123555224338965	Facebook	f13_17	female (13-17)	1	1	1421	710	14	0
-Miriam Dalli	Miriam Dalli	277980849002904	Facebook	f13_17	female (13-17)	5	1	1363	466	23	0
-Österreichische Gesellschaft für Europapolitik	Österreichische Gesellschaft für Europapolitik	290449626693	Facebook	f13_17	female (13-17)	1	1	1362	272	26	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	f13_17	female (13-17)	2	1	1349	334	4	0
-Δημήτρης Γούπιος - Υποψήφιος Δημοτικός Σύμβουλος Παλαιού Φαλήρου	Georgios Kapellaris	606260353179128	Facebook	f13_17	female (13-17)	1	1	1327	265	26	0
-CDU Altona	CDU Kreisverband Altona/Elbvororte	619070778260499	Facebook	f13_17	female (13-17)	1	1	1299	259	25	0
-Arbeitgeberverband Gesamtmetall	Arbeitgeberverband Gesamtmetall	169367889785454	Facebook	f13_17	female (13-17)	1	1	1252	626	12	0
-Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	f13_17	female (13-17)	4	1	1201	193	13	2
-Jusos Pinneberg	Jusos Pinneberg	68141565265	Facebook	f13_17	female (13-17)	1	1	1179	235	23	0
-FDP Filderstadt	Freie Demokraten Filderstadt	1470761319809502	Facebook	f13_17	female (13-17)	2	1	1153	230	22	0
+Sozialistische Jugend Steiermark	Sozialistische Jugend Steiermark	132022020234948	Facebook	f13_17	female (13-17)	1	1	2609	521	5	0
+Die Grünen Linz	Die Grünen - Die Grüne Alternative Linz	112824921274	Facebook	f13_17	female (13-17)	1	1	2605	521	26	5
+Cambridge Stays	Cambridge Stays	1106278742785368	Facebook	f13_17	female (13-17)	3	1	2599	520	59	0
+Jonas Bruns	Jonas Bruns	2138908233101805	Facebook	f13_17	female (13-17)	2	1	2588	517	51	0
+Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	f13_17	female (13-17)	6	1	2577	1111	64	15
+Maria Stylou	Maria Stylou	376008466065955	Facebook	f13_17	female (13-17)	1	1	2541	508	5	0
+SPD Neubrandenburg	SPD Stadt Neubrandenburg	1723728737910446	Facebook	f13_17	female (13-17)	2	1	2527	505	14	2
+Movimento Federalista Europeo (MFE)	Movimento Federalista Europeo (MFE)	232586513421372	Facebook	f13_17	female (13-17)	1	1	2506	1253	24	0
+FDP Altona	Freie Demokratische Partei FDP Bezirksverband Altona	603208893090843	Facebook	f13_17	female (13-17)	6	1	2506	418	82	0
+Hiros.hu		954672701251045	Facebook	f13_17	female (13-17)	1	1	2499	499	0	0
+Fridays For Future Treviso	Ettore Casellato	1893610467414052	Facebook	f13_17	female (13-17)	3	1	2491	1202	26	0
+DiB Stuttgart	DEMOKRATIE IN BEWEGUNG	2003975323016762	Facebook	f13_17	female (13-17)	1	1	2485	497	49	0
+Jusos Hamburg Nord	SPD Hamburg-Nord	84340911950	Facebook	f13_17	female (13-17)	1	1	2483	496	4	0
+הכבוד של זוזו		320568938138544	Facebook	f13_17	female (13-17)	1	1	2483	1241	21	0
+Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	f13_17	female (13-17)	2	1	2470	411	19	0
+Miro Bulj	MOST nezavisnih lista	1252295741481540	Facebook	f13_17	female (13-17)	2	1	2466	493	4	0
+DIE LINKE. Kreisverband Herford	DIE LINKE. Kreisverband Herford	1433524006667098	Facebook	f13_17	female (13-17)	1	1	2454	490	24	4
+Σακελλαρίου Βασιλική / Βίκυ - Sakellariou Vasiliki / Vicky	Vasiliki Sakellariou	574037653104636	Facebook	f13_17	female (13-17)	8	1	2431	487	34	0
+SpunOut.ie	SpunOut.ie	344422890306	Facebook	f13_17	female (13-17)	2	1	2423	476	51	0
+Kristdemokraterna Solna	Kristdemokraterna i Solna	153194577050	Facebook	f13_17	female (13-17)	7	1	2396	475	22	4
+Farkas Gergely	Farkas Gergely	428800467250448	Facebook	f13_17	female (13-17)	8	1	2360	631	7	1
+Charlie McConalogue	Charlie McConalogue	648207378618124	Facebook	f13_17	female (13-17)	1	1	2356	471	23	4
+Maximilian Kurz	FPÖ Tirol - die Tiroler Freiheitlichen	531971217283322	Facebook	f13_17	female (13-17)	5	1	2353	359	91	2
+SPÖ Kärnten	SPÖ Kärnten	10150145829810364	Facebook	f13_17	female (13-17)	6	1	2344	580	25	3
+Tudor Polak	ETIS Design	212588722543134	Facebook	f13_17	female (13-17)	1	1	2333	1166	2	0
+Junge Liberale Brandenburg	Matti Karstedt	83895604171	Facebook	f13_17	female (13-17)	1	1	2324	464	46	0
+Μάκης Στεργίου	Αρμοδιος Στεργιου	3016200371738417	Facebook	f13_17	female (13-17)	2	1	2297	459	4	0
+PODEM Llucmajor	Eduardo Eugenio Zúñiga Solari	1414978035452905	Facebook	f13_17	female (13-17)	4	1	2294	755	65	0
+Kommunalwahl Pforzheim 2019	Andreas Bonnet	392366071366256	Facebook	f13_17	female (13-17)	3	1	2291	536	12	0
+StoryhouseLive	StoryhouseLive	851645071581584	Facebook	f13_17	female (13-17)	1	1	2251	450	5	0
+Razem	KKW Lewica Razem - Razem, Unia Pracy, RSS	430323810469014	Facebook	f13_17	female (13-17)	1	1	2223	444	5	1
+Tobias B. Bacherle	Tobias B. Bacherle	623394177837445	Facebook	f13_17	female (13-17)	8	1	2222	196	142	0
+Benjamin Adam	Benjamin Adam	1824840387612176	Facebook	f13_17	female (13-17)	5	1	2185	437	43	0
+Feministiskt initiativ	Feministiskt initiativ	112513375470294	Facebook	f13_17	female (13-17)	1	1	2173	434	201	40
+Jakob Schäuble	FDP Ingolstadt	1873283949575191	Facebook	f13_17	female (13-17)	6	1	2156	248	115	0
+Cornel Popa	ETIS Design	362437290495506	Facebook	f13_17	female (13-17)	1	1	2142	1071	2	0
+Hicham El Mzairh	Hicham El Mzairh	39050546817	Facebook	f13_17	female (13-17)	1	1	2140	428	21	4
+Enhedslisten Hillerød	Rasmussen Karl-Erik	418179784893842	Facebook	f13_17	female (13-17)	2	1	2137	944	17	3
+Marco Masetti FDI	Marco Masetti	1733765430264000	Facebook	f13_17	female (13-17)	1	1	2107	421	4	0
+Sebastian Bohrn Mena	Tierschutzvolksbegehren	1583324305255890	Facebook	f13_17	female (13-17)	13	1	2098	275	98	0
+KSV Graz	KSV Graz	268242501289	Facebook	f13_17	female (13-17)	13	1	2096	228	109	0
+Μιχάλης Σπουρδαλάκης - Υποψήφιος Ευρωβουλευτής	Σπουρδαλακης Μιχαηλ	309373953080924	Facebook	f13_17	female (13-17)	4	1	2075	763	32	0
+Landskronamoderaterna	Tingstrom Emil Gustaf Eric	216527871697704	Facebook	f13_17	female (13-17)	3	1	2057	355	19	3
+Eneko Goia	EAJ-PNV	1534682943444716	Facebook	f13_17	female (13-17)	6	1	2044	409	29	1
+Bündnis 90/Die Grünen Freiburg	Bündnis 90/Die Grünen Freiburg	302077876517632	Facebook	f13_17	female (13-17)	1	1	2037	407	20	4
+Swatch	Swatch	297973083586150	Facebook	f13_17	female (13-17)	1	1	2035	407	23	4
+SPD Berlin	SPD Berlin	134137749971478	Facebook	f13_17	female (13-17)	4	1	2031	406	4	0
+Marc Goergen		2139886662711123	Facebook	f13_17	female (13-17)	1	1	2004	1002	19	0
+Stine Helles, spidskandidat, Alternativet Fyn	Helles Stine	1202144586507625	Facebook	f13_17	female (13-17)	5	1	2003	391	9	3
+Grüne Jena	Wolfgang Volkmer	367774396672401	Facebook	f13_17	female (13-17)	3	1	1995	399	25	2
+Northenden's World	Northenden World Admin	1692130001038191	Facebook	f13_17	female (13-17)	6	1	1993	39	210	0
+Michael Kost	Michael Kost	347176005913186	Facebook	f13_17	female (13-17)	1	1	1972	394	19	3
+Romilda Baldacchino Zarb	Romilda Baldacchino Zarb	295310111175191	Facebook	f13_17	female (13-17)	5	1	1953	459	10	0
+Deine Würde - Eine Initiative zum 70. Jubiläum des Grundgesetzes	Deine Würde - Eine Initiative zum 70. Jubiläum des Grundgesetzes	316160725982888	Facebook	f13_17	female (13-17)	1	1	1949	975	9	1
+Bündnis 90/Die Grünen Kreisverband Rostock	BÜNDNIS 90/DIE GRÜNEN, Kreisverband Rostock	221735951207012	Facebook	f13_17	female (13-17)	5	1	1937	405	21	3
+Pieter De Crem	CD&V	795215224016947	Facebook	f13_17	female (13-17)	2	1	1931	323	63	0
+KJÖ Graz	KJÖ Graz	128624867158781	Facebook	f13_17	female (13-17)	1	1	1912	382	37	0
+Olivier Afonso	Georges Olivier Afonso	335239166940114	Facebook	f13_17	female (13-17)	4	1	1911	260	86	0
+Vänsterpartiet Sundbyberg	Vänsterpartiet Sundbyberg	1592860820974499	Facebook	f13_17	female (13-17)	6	1	1866	538	21	8
+Viorel Badea	ETIS Design	161582543936194	Facebook	f13_17	female (13-17)	1	1	1863	931	1	0
+Anna Robustelli	Anna Robustelli	2412525162126175	Facebook	f13_17	female (13-17)	4	1	1833	416	4	0
+SPD Bitterfeld-Wolfen	SPD Ortsverein Bitterfeld-Wolfen	131796416966341	Facebook	f13_17	female (13-17)	9	1	1831	360	38	0
+Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	f13_17	female (13-17)	1	1	1799	360	33	16
+Vänsterpartiet Jönköpings län	Vänsterpartiet Jönköpings län	433323816696224	Facebook	f13_17	female (13-17)	4	1	1798	329	22	4
+Prc Brescia	Luigi Tedoldi	1535861796655078	Facebook	f13_17	female (13-17)	1	1	1798	899	17	0
+Kristdemokraterna Täby	Kristdemokraterna Täby	500140550093378	Facebook	f13_17	female (13-17)	7	1	1792	442	36	7
+Daniel Ștefan Drăgulin	ETIS Design	212143985823109	Facebook	f13_17	female (13-17)	1	1	1762	881	3	1
+Laura Lindahl	Laura Lindahl	504310436316194	Facebook	f13_17	female (13-17)	10	1	1761	0	23	0
+SPD Friedrichshafen	Luca Elias Baumann	227497950644482	Facebook	f13_17	female (13-17)	1	1	1756	878	17	0
+Jos Lantmeeters	Nieuw-Vlaamse Alliantie	2253398908319094	Facebook	f13_17	female (13-17)	1	1	1745	872	17	8
+FDP Fraktion Bundestag	Fraktion der Freien Demokraten	341486659645594	Facebook	f13_17	female (13-17)	8	1	1740	436	47	0
+Rasmus Peter Henriksen	Henriksen Rasmus Peter	1522101171358705	Facebook	f13_17	female (13-17)	6	1	1737	347	12	2
+Πηνελόπη Πετροπούλου  Penelope Petropoulou	Athanasios Gounaris Ioannidis	1417260591874610	Facebook	f13_17	female (13-17)	4	1	1734	416	5	0
+Matthias Ecke	SPD Sachsen	751533138525902	Facebook	f13_17	female (13-17)	10	1	1733	241	86	0
+Kenan Akyil	Akyil Kenan	268876507340385	Facebook	f13_17	female (13-17)	2	1	1696	277	57	0
+Joe Sammut	Joe Sammut	433245190070343	Facebook	f13_17	female (13-17)	2	1	1695	339	16	3
+Hannes Rockenbauch	Hannes Rockenbauch	953620741367870	Facebook	f13_17	female (13-17)	4	1	1694	338	33	0
+Крум Дончев/Krum Donchev	Крум Дончев/Krum Donchev	155516354469476	Facebook	f13_17	female (13-17)	7	1	1654	532	10	4
+Kevin Cauchi - Ghajnsielem	Kevin Cauchi	325758517614182	Facebook	f13_17	female (13-17)	7	1	1647	709	25	0
+Maximilian Krauss	FPÖ-Wien	590930261019192	Facebook	f13_17	female (13-17)	1	1	1643	822	82	16
+PNL Bucuresti	Rus Alexandra	678840505584990	Facebook	f13_17	female (13-17)	15	1	1637	574	3	1
+Vote16+		149809275605377	Facebook	f13_17	female (13-17)	2	1	1633	273	53	0
+Florica Chereches	ETIS Design	425879067570544	Facebook	f13_17	female (13-17)	1	1	1596	798	3	1
+Kristdemokraterna Helsingborg	Lindholm 	119710274891528	Facebook	f13_17	female (13-17)	6	1	1587	623	15	6
+Junge Union Main-Taunus	Junge Union Main-Taunus	344008438956618	Facebook	f13_17	female (13-17)	1	1	1583	316	31	0
+Krystyna Wróblewska Poseł na Sejm RP	Komitet Wyborczy Prawo i Sprawiedliwość	612524765499822	Facebook	f13_17	female (13-17)	1	1	1570	314	7	0
+Niklas Nienaß	Bündnis 90/Die Grünen Mecklenburg-Vorpommern	2280286458870451	Facebook	f13_17	female (13-17)	1	1	1548	774	15	0
+JU Kunstadt-Jura	Niklas Stadelmann	391850180940511	Facebook	f13_17	female (13-17)	4	1	1546	175	83	0
+SPD Remseck am Neckar	SPD Remseck a.N.	347490025813757	Facebook	f13_17	female (13-17)	6	1	1539	242	56	0
+Bündnis 90/Die Grünen Kreisverband Sigmaringen		1054027864699072	Facebook	f13_17	female (13-17)	1	1	1538	307	15	3
+Ελληνική Πολιτική Συνείδηση - Άρμα Συνεργασίας		317973578849812	Facebook	f13_17	female (13-17)	1	1	1536	307	3	0
+Frederik Damgaard	Damgaard Frederik	899897623364350	Facebook	f13_17	female (13-17)	1	1	1508	301	4	0
+Cristina Iurisniti Deputat USR BN	Stan Calin	745975698891864	Facebook	f13_17	female (13-17)	1	1	1489	297	3	0
+Andreas von Brühl	Andreas Sebastian Graf Von Brühl 	227743204230314	Facebook	f13_17	female (13-17)	6	1	1488	216	61	0
+Karen Melchior	Karen Melchior, Radikale Venstre	1384921248388622	Facebook	f13_17	female (13-17)	1	1	1477	295	3	0
+Markus Abwerzger	FPÖ Tirol - die Tiroler Freiheitlichen	190177211135791	Facebook	f13_17	female (13-17)	1	1	1473	736	14	7
+Michael Clark	Clark Michael Douglas	376225562978212	Facebook	f13_17	female (13-17)	7	1	1467	283	32	0
+Socialdemokraterna Värmdö - Framtidspartiet	Nygren Linda Elisabet	217897918243937	Facebook	f13_17	female (13-17)	4	1	1458	709	37	9
+Brăila Nouă		146127302873492	Facebook	f13_17	female (13-17)	1	1	1436	287	3	0
+Pinksixty	Leeze Lawrence	108182029247820	Facebook	f13_17	female (13-17)	4	1	1433	0	164	0
+Bert Wollants	Nieuw-Vlaamse Alliantie	122123487813722	Facebook	f13_17	female (13-17)	4	1	1433	453	26	4
+Magdalena Targańska	Magdalena Ewa Targańska	1539741089649187	Facebook	f13_17	female (13-17)	1	1	1430	286	6	0
+Miljöpartiet de gröna i Kalmar	Miljöpartiet de gröna i Kalmar	700878769933437	Facebook	f13_17	female (13-17)	4	1	1429	148	14	1
+Steven Vandeput	Nieuw-Vlaamse Alliantie	983442595060481	Facebook	f13_17	female (13-17)	2	1	1428	531	14	5
+CDU Uhldingen-Mühlhofen	CDU Ortsverband Uhldingen-Mühlhofen	1499808146899551	Facebook	f13_17	female (13-17)	4	1	1424	284	28	0
+Stine Isaksen, Spidskandidat for Alternativet i Midt- og Vestjylland	Isaksen Stine	1378501112236847	Facebook	f13_17	female (13-17)	2	1	1421	271	4	0
+KD Sigtuna	Makris Jessica Therese	2063183643940247	Facebook	f13_17	female (13-17)	1	1	1415	283	13	2
+Luca Vidoni	Luca Onorio Vidoni	392986254173330	Facebook	f13_17	female (13-17)	4	1	1411	282	27	0
+Maxime Prévot	Maxime Patrick R Prévot	151415551700582	Facebook	f13_17	female (13-17)	1	1	1398	699	6	1
+Filip Michiels  8e plaats Vlaams Parlement Open Vld	Michiels Filip Paul M	541237359573609	Facebook	f13_17	female (13-17)	4	1	1363	272	27	0
+Βίκυ Φλέσσα -Vicky Flessa	Pulse and Opinion S.A.	344396292816360	Facebook	f13_17	female (13-17)	2	1	1363	272	2	0
+Gheorghiu Bogdan	ETIS Design	267044410338956	Facebook	f13_17	female (13-17)	1	1	1357	271	2	0
+Ευαγγελία Παναγιωτάκη  Υποψήφια Ευρωβουλευτής ΜέΡΑ25		379160176025653	Facebook	f13_17	female (13-17)	4	1	1353	267	6	0
+Friddens- a Solidaritéitsplattform		110747949801520	Facebook	f13_17	female (13-17)	2	1	1352	263	5	0
+SPÖ Oberösterreich	SPÖ Oberösterreich	208930355786005	Facebook	f13_17	female (13-17)	6	1	1351	304	11	0
+Tom	Tomáš Halva	2692563460759999	Facebook	f13_17	female (13-17)	1	1	1348	269	5	1
+Fórum 50 %	Fórum 50 %	136248513192	Facebook	f13_17	female (13-17)	1	1	1340	268	5	1
+Tiverton & Honiton Liberal Democrats	Dr. J Timperley on behalf of Tiverton and Honiton Liberal Democrats	150862338924727	Facebook	f13_17	female (13-17)	2	1	1332	237	44	0
+Die Grünen KV Coburg-Stadt	Kevin Rudolf Klüglein	492112370837905	Facebook	f13_17	female (13-17)	2	1	1330	266	26	0
+Johannes Vogel	Johannes Vogel	486203081469505	Facebook	f13_17	female (13-17)	4	1	1320	264	26	0
+FDP Karlsruhe-Stadt	FDP Kreisverband Karlsruhe-Stadt	342930772424635	Facebook	f13_17	female (13-17)	11	1	1297	258	14	2
+Felix Busuttil		1698335456918274	Facebook	f13_17	female (13-17)	4	1	1285	563	23	0
+SPD Magdeburg	SPD Magdeburg	130938260290333	Facebook	f13_17	female (13-17)	1	1	1285	257	12	2
+Aaron Wynne - Aberconwy	Aaron Wynne	1604790526203933	Facebook	f13_17	female (13-17)	2	1	1279	192	58	0
+GRÜNE Neustrelitz	Falk Jagszent 	1424946787785800	Facebook	f13_17	female (13-17)	2	1	1276	250	27	0
+Περιφέρεια σε Δράση - Κωστής Σιμιτσής	Κωστής Σιμιτσής	527150297793347	Facebook	f13_17	female (13-17)	2	1	1261	257	2	0
+Noel Cassar	Noel Caesar	290329184871610	Facebook	f13_17	female (13-17)	1	1	1260	252	2	0
+Dan Vîlceanu	ETIS Design	715786165255092	Facebook	f13_17	female (13-17)	1	1	1256	251	2	0
+SPD Lüdenscheid	SPD Lüdenscheid	183702711674959	Facebook	f13_17	female (13-17)	3	1	1255	228	34	0
+RTBF Info	RTBF Info	143068588877	Facebook	f13_17	female (13-17)	1	1	1215	243	2	0
+Alliance Party of Northern Ireland	The Alliance Party	10642639740	Facebook	f13_17	female (13-17)	1	1	1204	240	13	2
+Luisa Boos	Luisa Boos	46262733106	Facebook	f13_17	female (13-17)	1	1	1195	597	11	0
+Μάκης Παπαδόπουλος - Ο Τόπος Της Ζωής Μας	Μάκης Παπαδόπουλος	1433780063507247	Facebook	f13_17	female (13-17)	8	1	1187	411	8	0
+Jusos Rheinisch-Bergischer Kreis	Simon Matteo Dannhauer	104584253028749	Facebook	f13_17	female (13-17)	2	1	1186	237	23	0
+Bart Callaert	Callaert Bart Eduard M	2334802816594579	Facebook	f13_17	female (13-17)	2	1	1184	232	13	2
+Max Bryant	Max Taylor Bryant	1511114899101340	Facebook	f13_17	female (13-17)	1	1	1169	233	26	0
+Die PARTEI - KreisVerband Gera	die Partei Gera	151877538338425	Facebook	f13_17	female (13-17)	4	1	1165	347	19	0
+Giosi Ferrandino	Giosi Ferrandino	141856142632410	Facebook	f13_17	female (13-17)	4	1	1154	421	7	0
+Bündnis 90/Die Grünen Anhalt-Bitterfeld	BÜNDNIS 90/DIE GRÜNEN Kreisverband Anhalt-Bitterfeld	409153932473503	Facebook	f13_17	female (13-17)	4	1	1153	325	17	2
+B. Dolan		102386295776	Facebook	f13_17	female (13-17)	7	1	1150	0	101	0
+CDU Ortsverband Schwegenheim	CDU Ortsverband Schwegenheim	200875150700863	Facebook	f13_17	female (13-17)	3	1	1146	229	22	0
+Volkspartei	Volkspartei	15078244418	Facebook	f13_17	female (13-17)	2	1	1141	397	17	8
+Máirín McGrath for Tipperary County Council - Cahir LEA	MC GRATH MÁIRÍN	2129030367395061	Facebook	f13_17	female (13-17)	4	1	1134	337	40	0
+Luigi Pantisano	Luigi Pantisano	1006758069529993	Facebook	f13_17	female (13-17)	2	1	1133	226	22	0
+Allianssi	Allianssi	189362187761641	Facebook	f13_17	female (13-17)	2	1	1133	0	112	0
 SPD Plauen	SPD Plauen	289178329438	Facebook	f13_17	female (13-17)	1	1	1132	226	22	0
-1Europa	Peter Glawischnig	320389701908367	Facebook	f13_17	female (13-17)	2	1	1058	211	20	0
-Βαρουξής Λευτέρης - Varouxis Lefteris	Digital Solutions	280496205994839	Facebook	f13_17	female (13-17)	2	1	1047	209	20	0
-Michael Briguglio	Michael Briguglio	1040577706078198	Facebook	f13_17	female (13-17)	11	1	996	166	32	0
-SPD Wandsbek	Andre Schneider	182588003457	Facebook	f13_17	female (13-17)	17	1	947	10	89	0
-Wilfried Haslauer	Salzburger Volkspartei	49835536470	Facebook	f13_17	female (13-17)	2	1	892	178	3	0
-Monika Hohlmeier	Monika Hohlmeier	139065632780165	Facebook	f13_17	female (13-17)	1	1	844	168	8	1
-Grüne Jugend Augsburg	Grüne Jugend Augsburg	102909819848567	Facebook	f13_17	female (13-17)	2	1	825	0	81	0
-Ρένα Δούρου	Ρένα Δούρου	225197477683663	Facebook	f13_17	female (13-17)	23	1	753	167	6	0
-Grüne Mannheim	BÜNDNIS 90/DIE GRÜNEN Kreisverband Mannheim	123290727868673	Facebook	f13_17	female (13-17)	4	1	744	189	31	0
-Partit Nazzjonalista	Partit Nazzjonalista	159249234115841	Facebook	f13_17	female (13-17)	2	1	743	148	3	0
-Äänioikeus.fi		753565071658403	Facebook	f13_17	female (13-17)	1	1	738	147	14	0
-Josef Caruana	Josef Caruana	166617437361908	Facebook	f13_17	female (13-17)	2	1	734	146	14	0
-Zenia Stampe	Zenia Stampe	127344360615074	Facebook	f13_17	female (13-17)	2	1	719	120	9	1
-Cyrus Engerer	Cyrus Engerer	212468218793878	Facebook	f13_17	female (13-17)	8	1	666	115	20	0
-Amaya Fernández	PP	486996548359961	Facebook	f13_17	female (13-17)	1	1	649	129	12	0
-FÜR Karlsruhe	FÜR Karlsruhe - Politik mit christlicher Herzenshaltung e.V.	260790977428638	Facebook	f13_17	female (13-17)	4	1	640	88	28	0
-Mellemfolkeligt Samvirke	Mellemfolkeligt Samvirke	5624899398	Facebook	f13_17	female (13-17)	1	1	555	0	7	0
-Inger Staahl Jensen i Europa-Parlamentet	Inger Staahl Jensen	586553418054920	Facebook	f13_17	female (13-17)	3	1	544	0	7	0
-Alex Agius Saliba	Alex Agius Saliba	656955664383156	Facebook	f13_17	female (13-17)	2	1	534	106	10	0
-Roberta Metsola	Roberta Metsola	406824526101449	Facebook	f13_17	female (13-17)	5	1	527	136	9	0
-Barlabás András	Barlabás András	137851763633896	Facebook	f13_17	female (13-17)	2	1	524	0	1	0
-Junge Union Aurich	CDU Stadtverband Aurich und Junge Union Aurich	204261220053348	Facebook	f13_17	female (13-17)	1	1	514	257	5	0
-Simon Lejeune	Lejuene Simon Paul F	1721305591241017	Facebook	f13_17	female (13-17)	4	1	512	91	14	0
-SPD Neckarsulm	SPD Neckarsulm	140119866067404	Facebook	f13_17	female (13-17)	3	1	502	57	27	0
-Claudia Gamon	NEOS	447992848717452	Facebook	f13_17	female (13-17)	2	1	460	92	4	0
-Mette Poulsen	Poulsen Mette	1732891513391281	Facebook	f13_17	female (13-17)	2	1	437	0	9	0
-Hicham El Mzairh	Hicham El Mzairh	39050546817	Facebook	f13_17	female (13-17)	1	1	424	212	4	0
-Sophie Løhde	Sophie Løhde	699619700116377	Facebook	f13_17	female (13-17)	1	1	420	0	5	0
-Ralf Lottermann - Für den Wormser Stadtrat	Ralf Lottermann	364491737725008	Facebook	f13_17	female (13-17)	3	1	408	185	4	0
-Frank Psaila	Frank Psaila	458318884361628	Facebook	f13_17	female (13-17)	1	1	398	199	3	0
-Peter Hametner	Peter Hametner	388385461980020	Facebook	f13_17	female (13-17)	1	1	396	79	0	0
-Kristdemokraterna Täby	Kristdemokraterna Täby	500140550093378	Facebook	f13_17	female (13-17)	1	1	394	0	3	0
-Lukas Mandl	Verein VSM - Vorzugsstimmen für Mandl	436914289678818	Facebook	f13_17	female (13-17)	10	1	386	77	7	0
+SPD Hamburg	SPD Hamburg	130273271119	Facebook	f13_17	female (13-17)	2	1	1129	564	56	11
+Aleksander Myrhøj - SF	Myrhøj Aleksander	1876896252587282	Facebook	f13_17	female (13-17)	3	1	1127	197	15	2
+NPD Kreisverband Wartburgkreis	NPD Kreisverband Wartburgkreis	275153395915489	Facebook	f13_17	female (13-17)	1	1	1127	225	11	2
+Mercieca Michael		2178422028892229	Facebook	f13_17	female (13-17)	1	1	1117	223	2	0
+Karsten Hilse	Karsten Hilse 	358099231236311	Facebook	f13_17	female (13-17)	4	1	1116	218	7	0
+Σπήλιος Λιβανός	Spyridon-Panagiotis Livanos	1306987025984296	Facebook	f13_17	female (13-17)	4	1	1109	302	5	0
+Bündnis 90 / Die Grünen Sindelfingen	Bündnis 90/Die GRÜNEN Ortsverband Sindelfingen	1416336798625110	Facebook	f13_17	female (13-17)	11	1	1105	159	46	0
+Νίκος Χουντής-Nikos Chountis	Konstantinos Siampanopoulos	462603193829493	Facebook	f13_17	female (13-17)	7	1	1095	408	7	0
+Grüne Jugend	Grüne Jugend	159474940754336	Facebook	f13_17	female (13-17)	1	1	1090	218	2	0
+Peter Agius	Peter Agius	263881160919130	Facebook	f13_17	female (13-17)	2	1	1086	543	10	0
+Μάριος Θεοφιλάτος - Marios Theofilatos	Avraam-Marios Theofilatos	2334242963517410	Facebook	f13_17	female (13-17)	1	1	1084	216	2	0
+Niclas Herbst	CDU Schleswig-Holstein	320488628674422	Facebook	f13_17	female (13-17)	1	1	1083	216	10	2
+Karolien Grosemans	Nieuw-Vlaamse Alliantie	619991148451012	Facebook	f13_17	female (13-17)	1	1	1078	215	10	2
+Vera Jans	Jans Vera Maria J	543240579353490	Facebook	f13_17	female (13-17)	2	1	1072	536	10	0
+Κουρουμπλής Παναγιώτης/Kouroumplis Panagiotis	Panagiotis Kouroumplis	248244001876102	Facebook	f13_17	female (13-17)	4	1	1071	397	5	0
+Mellemfolkeligt Samvirke	Mellemfolkeligt Samvirke	5624899398	Facebook	f13_17	female (13-17)	4	1	1070	18	14	0
+Bündnis 90/Die Grünen Ulm	GRÜNE Ulm	642283985808604	Facebook	f13_17	female (13-17)	4	1	1053	65	75	0
+Morena Ferrario Sindaco di Castano Primo	Daniele Rivolta 	2198059560442881	Facebook	f13_17	female (13-17)	1	1	1048	524	10	0
+Giorgio Magliocca Presidente della Provincia di Caserta	Giorgio Magliocca	1681022168583960	Facebook	f13_17	female (13-17)	2	1	1044	208	2	0
+Eugen Țapu-Nazare	ETIS Design	276092909160685	Facebook	f13_17	female (13-17)	1	1	1041	208	2	0
+Junts per Vilafranca	Junts per Vilafranca	1160033834115342	Facebook	f13_17	female (13-17)	8	1	1039	271	23	0
+Marianne Bigum	Bigum Marianne Kristine Kjaergaard	213461659232038	Facebook	f13_17	female (13-17)	2	1	1027	187	13	2
+Socialdemokraterna i Mark	Andersson Hakan Ulf Goran	528944283871109	Facebook	f13_17	female (13-17)	1	1	1027	205	9	1
+Miljöpartiet de gröna region Kalmar	Miljöpartiet de gröna Kalmar län	161091964101674	Facebook	f13_17	female (13-17)	4	1	1018	203	9	2
+Valori.it	Valori.it	112777008752391	Facebook	f13_17	female (13-17)	8	1	1014	225	14	0
+Βασίλης Βλάχος		798875207162411	Facebook	f13_17	female (13-17)	1	1	1006	201	1	0
+Jakub Hruška	Hruška Jakub	399826497106352	Facebook	f13_17	female (13-17)	1	1	999	0	3	0
+USR Gorj	Uniunea Salvați România	979274598853221	Facebook	f13_17	female (13-17)	3	1	995	214	1	0
+Più Europa	Più Europa	126662574668084	Facebook	f13_17	female (13-17)	3	1	987	440	3	1
+Steffen Mølgaard	Det Konservative Folkeparti	1902645456721589	Facebook	f13_17	female (13-17)	2	1	986	197	8	1
+African Wildlife Courses	Jason Alexander Hendry	2345328912417791	Facebook	f13_17	female (13-17)	4	1	982	0	112	0
+Μιχάλης Γεράνης	Μιχαηλ Γερανης	282108959146909	Facebook	f13_17	female (13-17)	2	1	978	402	6	1
+Micha Heitkamp	SPD OWL	198425127523206	Facebook	f13_17	female (13-17)	1	1	970	194	19	0
+Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	f13_17	female (13-17)	5	1	970	203	2	0
+SSU Norrbotten	SSU Norrbotten	109573799125007	Facebook	f13_17	female (13-17)	2	1	969	193	17	8
+Παύλος Ελευθεριάδης	Pavlos Eleftheriadis	768996799785550	Facebook	f13_17	female (13-17)	2	1	962	192	9	1
+garagErasmus Foundation		126673650730964	Facebook	f13_17	female (13-17)	1	1	959	191	1	0
+André Liebscher Stadtratskandidat	Andre Liebscher	347337865863173	Facebook	f13_17	female (13-17)	12	1	958	184	22	0
+Junge Union Mannheim	Junge Union Mannheim	403423809690190	Facebook	f13_17	female (13-17)	13	1	954	153	33	0
+Liberala Studenter	Heimbrand Christoffer	118645251482192	Facebook	f13_17	female (13-17)	3	1	946	0	8	0
+Tégy az abortusz ellen	Karácsonyi Zoltán	200615179974476	Facebook	f13_17	female (13-17)	2	1	941	161	0	0
+Eddie Hoare	Hoare Edward Anthony	1249654855184179	Facebook	f13_17	female (13-17)	3	1	940	188	18	0
+JEF Hessen	JEF - Junge Europäische Föderalisten Landesverband Hessen e.V.	154111581275112	Facebook	f13_17	female (13-17)	4	1	934	0	92	0
+Miljöpartiet de Gröna i Östergötland	LINDELL JENS-OLOF BERTIL	166934049354	Facebook	f13_17	female (13-17)	3	1	932	186	8	1
+Neva Grašič	Socialni demokrati (SD)	2235496013147745	Facebook	f13_17	female (13-17)	1	1	930	186	1	0
+Κύμα Ενωμένων Πολιτών - Δημήτρης Δαβάκης	Dimitrios Davakis	1514283778797349	Facebook	f13_17	female (13-17)	3	1	928	213	3	0
+Troels Stru Schmidt	Schmidt Troels Stru	543881642649343	Facebook	f13_17	female (13-17)	2	1	922	0	12	0
+Luke Caruana	Alternattiva Demokratika - The Green Party	289569618166195	Facebook	f13_17	female (13-17)	1	1	916	458	9	0
+Socialdemokraterna Falkenberg - Hela kommunens framtidsparti	Svensson Per Johan Klas	1383867568544212	Facebook	f13_17	female (13-17)	1	1	910	182	16	8
+Punkt Informacji Europejskiej Europe Direct - Poznań	Komisja Europejska Przedstawicielstwo w Polsce	195007710515979	Facebook	f13_17	female (13-17)	1	1	910	182	4	0
+CDU Merzhausen	Benedikt Johannes Beyna 	253840978838150	Facebook	f13_17	female (13-17)	4	1	908	0	90	0
+Bündnis 90/Die Grünen Vorpommern-Greifswald	Bündnis 90/Die Grünen KV Vorpommern-Greifswald	200444150095916	Facebook	f13_17	female (13-17)	1	1	890	445	8	0
+Alessandro Prandi	Francesco Sancarlo	177700749801108	Facebook	f13_17	female (13-17)	5	1	889	177	10	0
+Bündnis 90 / Die Grünen Gera	Thomas Michael Wieden	260306127714114	Facebook	f13_17	female (13-17)	6	1	886	7	84	0
+Cupşa Ioan	ETIS Design	582397865304291	Facebook	f13_17	female (13-17)	1	1	880	440	1	0
+JSL	Amir Vesali	64281432571	Facebook	f13_17	female (13-17)	5	1	877	148	28	0
+Unione Universitaria - UDU Modena e Reggio Emilia	Alessio Dondi	159133554164159	Facebook	f13_17	female (13-17)	2	1	875	175	17	0
+Johan Van Overtveldt	Nieuw-Vlaamse Alliantie	275607285891320	Facebook	f13_17	female (13-17)	1	1	872	174	8	1
+Junge Union Kreis Altenkirchen	Justus Brühl	161397033931051	Facebook	f13_17	female (13-17)	2	1	864	133	32	0
+Dr. Czeglédy Csaba	Dr. Czeglédy Csaba	360876591136521	Facebook	f13_17	female (13-17)	3	1	861	196	3	0
+Αντώνης Καμπουράκης	Αντώνης Καμπουράκης	511556309330155	Facebook	f13_17	female (13-17)	3	1	858	171	8	1
+Actions pour l'écologie		872257819482862	Facebook	f13_17	female (13-17)	1	1	858	429	8	0
+Piráti Klatovy	Kubat Josef	1729039174076892	Facebook	f13_17	female (13-17)	1	1	858	429	1	0
+Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	f13_17	female (13-17)	1	1	855	0	7	0
+N-VA Mechelen	Nieuw-Vlaamse Alliantie	250836601610919	Facebook	f13_17	female (13-17)	1	1	842	168	8	1
+Angelica Fădor	ETIS Design	121716891884587	Facebook	f13_17	female (13-17)	1	1	839	167	1	0
+Časopis Slovenec	Slovenska ljudska stranka (SLS)	240130223029252	Facebook	f13_17	female (13-17)	1	1	832	166	1	0
+Councillor Paul Kelly - Motherwell West	Paul Kelly	938719826182279	Facebook	f13_17	female (13-17)	6	1	826	149	26	0
+Κόμης Ανδρέας	Andreas Komis	390029414928064	Facebook	f13_17	female (13-17)	2	1	813	228	7	1
+Jusos Freiburg	Jusos Freiburg	452121134820659	Facebook	f13_17	female (13-17)	3	1	809	109	36	0
+SF Hvidovre	SF Hvidovre	164564233593453	Facebook	f13_17	female (13-17)	1	1	802	160	10	2
+sp.a Hemiksem - Waa zien H geire	Talboom Rodney	189913087722338	Facebook	f13_17	female (13-17)	2	1	798	399	39	7
+SPD Grafschaft	Axel Bend	185413701557817	Facebook	f13_17	female (13-17)	2	1	792	158	15	0
+Βαγγέλης Βαβουλιώτης	Βαβουλιωτης Αθανασιος	386756061904875	Facebook	f13_17	female (13-17)	2	1	791	354	15	0
+Miloslav Valko	Valko Miloslav	326063564662023	Facebook	f13_17	female (13-17)	2	1	778	0	77	0
+SF FAXE	SF Faxe	588679974556626	Facebook	f13_17	female (13-17)	1	1	774	387	10	5
+Holly McKeever Cairns - Social Democrat		263238917631520	Facebook	f13_17	female (13-17)	3	1	770	154	15	0
+Matteo Melato - Lega Reggio Emilia	Matteo Melato 	539466976169977	Facebook	f13_17	female (13-17)	1	1	769	153	15	0
+Bündnis 90/Die Grünen Lüneburg		168698219836872	Facebook	f13_17	female (13-17)	1	1	765	153	15	0
+Sabina Obwiosło-Budzyń	KW Wiosna Roberta Biedronia 	371048117077022	Facebook	f13_17	female (13-17)	1	1	762	152	3	0
+Mette Poulsen	Poulsen Mette	1732891513391281	Facebook	f13_17	female (13-17)	2	1	751	76	10	1
+Äänioikeus.fi		753565071658403	Facebook	f13_17	female (13-17)	1	1	741	148	14	0
+Saaczech		1891172680926309	Facebook	f13_17	female (13-17)	1	1	738	0	2	0
+Katja Mast		499836743410538	Facebook	f13_17	female (13-17)	1	1	735	147	14	0
+GroenLinks Rotterdam	GroenLinks Rotterdam	116050085145365	Facebook	f13_17	female (13-17)	2	1	733	146	3	0
+Deputati PD	Deputati PD	104652392900508	Facebook	f13_17	female (13-17)	20	1	730	157	1	0
+Josef Pühringer	OÖVP - die Oberösterreichische Volkspartei	47373762091	Facebook	f13_17	female (13-17)	3	1	728	168	4	0
+Bündnis 90/Die Grünen Telgte	Bündnis 90/Die Grünen Telgte	141395232626661	Facebook	f13_17	female (13-17)	1	1	724	144	14	0
+Υποψήφιος Δημοτικός Σύμβουλος Πέτρος Κοτζαμπασάκης	Πετρος Κοτζαμπασακης	1075769279287070	Facebook	f13_17	female (13-17)	3	1	722	346	7	0
+Västerbottensmedjan	Abrahamsson Markku Johannes	309711879702623	Facebook	f13_17	female (13-17)	2	1	720	144	6	1
+DIE LINKE. Pforzheim/Enzkreis	DIE LINKE. Kreisverband Pforzheim/Enzkreis	1415204915390057	Facebook	f13_17	female (13-17)	6	1	719	10	66	0
+Freie Wähler Sindelfingen	Ingo Sika	404074052985552	Facebook	f13_17	female (13-17)	1	1	719	359	7	0
+Bogdan Huţucă	ETIS Design	370816919755641	Facebook	f13_17	female (13-17)	1	1	710	142	1	0
+Simon Hart MP	Simon Hart MP	914835805358773	Facebook	f13_17	female (13-17)	6	1	707	88	61	0
+Giorgos Sklavos	Georgios Sklavos	1042099132649984	Facebook	f13_17	female (13-17)	2	1	695	139	1	0
+Salzburger Volkspartei	Salzburger Volkspartei	243190742384882	Facebook	f13_17	female (13-17)	1	1	695	347	6	0
+Kelemen Hunor	RMDSZ	175293925828191	Facebook	f13_17	female (13-17)	4	1	693	234	1	0
+Daniel Nyboe Andersen	Andersen Daniel Nyboe	337594876360078	Facebook	f13_17	female (13-17)	1	1	693	0	9	0
+George Ionescu	ETIS Design	582553551948127	Facebook	f13_17	female (13-17)	1	1	690	138	1	0
+Cllr Vincent Bailey & Cllr Leighton Rowlands	Vale of Glamorgan Conservatives 	1802752836609283	Facebook	f13_17	female (13-17)	1	1	689	137	15	0
+Andreas Karlsen	Karlsen Andreas Engelsborg	371163919965024	Facebook	f13_17	female (13-17)	1	1	687	137	1	0
+Χιακή Συμπολιτεία	Alexandros Panagiotakis	211898055682569	Facebook	f13_17	female (13-17)	1	1	682	136	13	0
+Filip Smoljak		559924231130371	Facebook	f13_17	female (13-17)	1	1	673	134	2	0
+Liste21 - Impulse für Brackenheim	Jens Wiese	1465097117050863	Facebook	f13_17	female (13-17)	3	1	666	66	39	0
+Gunner Poulsen SF	Poulsen Gunner Kjerulf 	355083705048259	Facebook	f13_17	female (13-17)	2	1	663	247	3	0
+Mahindra Rise		158304157570734	Facebook	f13_17	female (13-17)	1	1	656	328	0	0
+Kathrine Olldag	Olldag Kathrine	810476755802044	Facebook	f13_17	female (13-17)	1	1	649	129	8	1
+Κόμμα Πειρατών Ελλάδας	Κόμμα Πειρατών Ελλάδας	116345831805649	Facebook	f13_17	female (13-17)	1	1	649	129	12	0
+Enrico Zucchi - Lega Prato	Enrico Zucchi	707579962958222	Facebook	f13_17	female (13-17)	1	1	648	324	6	0
+Landtag von Baden-Württemberg	Landtag von Baden-Württemberg	2015022955380034	Facebook	f13_17	female (13-17)	3	1	648	140	1	0
+Konrad-Adenauer-Stiftung	Konrad-Adenauer-Stiftung	44511549119	Facebook	f13_17	female (13-17)	5	1	643	128	3	0
+CDU Ostprignitz-Ruppin	CDU OPR	226018367465596	Facebook	f13_17	female (13-17)	24	1	636	0	63	0
+Sebastian Mylsted-Schenstrøm - Venstre, Næstved	Mylsted-Schenstrøm Sebastian	437813842938863	Facebook	f13_17	female (13-17)	6	1	633	0	8	0
+Fabio Candalice	Fabio Candalice	929896213793987	Facebook	f13_17	female (13-17)	5	1	632	126	1	0
+Aengus Ó Maoláin	Aengus Ó Maoláin	449230735412762	Facebook	f13_17	female (13-17)	2	1	631	262	8	0
+Franc Bogovič	Slovenska ljudska stranka (SLS)	288826994603012	Facebook	f13_17	female (13-17)	1	1	627	125	1	0
+CDU Mein Altensteig	CDU-Stadtverband Altensteig	2605830436157588	Facebook	f13_17	female (13-17)	23	1	626	106	20	0
+Centrodestra per cambiare con Pacetti sindaco	Manuel Gianfelici	292638348325601	Facebook	f13_17	female (13-17)	21	1	620	118	14	0
+MOST nezavisnih lista	MOST nezavisnih lista	388550077899912	Facebook	f13_17	female (13-17)	1	1	619	309	1	0
+Knut Meenzen - Politik	Knut Meenzen	711417865918203	Facebook	f13_17	female (13-17)	3	1	613	114	15	0
+Luca Garibaldi	Luca Garibaldi	1994549320790542	Facebook	f13_17	female (13-17)	3	1	610	123	12	0
+G. Katsiashvili		450835425680654	Facebook	f13_17	female (13-17)	1	1	604	121	10	0
+Christine Haberlander	OÖVP - die Oberösterreichische Volkspartei	739265356233278	Facebook	f13_17	female (13-17)	2	1	603	120	6	1
+Nackamoderaterna	Nackamoderaterna	132143480932	Facebook	f13_17	female (13-17)	1	1	600	300	5	2
+Panos Reppas - Παναγιώτης Ρέππας	Panagiotis Reppas	381289095967251	Facebook	f13_17	female (13-17)	7	1	599	119	6	0
+KOSMO	KOSMO	191576624211837	Facebook	f13_17	female (13-17)	7	1	592	164	5	0
+Markus Achleitner	OÖVP - die Oberösterreichische Volkspartei	2188880727831144	Facebook	f13_17	female (13-17)	2	1	591	118	5	1
+Vänsterpartiet Falun	Vänsterpartiet Falun	274157822060	Facebook	f13_17	female (13-17)	2	1	589	117	5	1
+Julien Bender	Julien Bender	650889958427112	Facebook	f13_17	female (13-17)	2	1	589	0	58	0
+Cavezzo Viva - Associazione Culturale	Enrico Malverti	619037048529553	Facebook	f13_17	female (13-17)	4	1	585	117	2	0
+Lorenzo Vignali	Lorenzo Vignali	229114191886	Facebook	f13_17	female (13-17)	21	1	583	54	36	0
+VSStÖ Med Wien	Eva Sager 	1557561051146053	Facebook	f13_17	female (13-17)	2	1	572	0	56	0
+Miljöpartiet de gröna i Katrineholm	Miljöpartiet de gröna i Katrineholm	744040148974429	Facebook	f13_17	female (13-17)	8	1	572	165	8	1
+Malta Independent	Malta Independent	480288348662981	Facebook	f13_17	female (13-17)	1	1	570	114	11	0
+Info Lwówek	Katarzyna Luch	1429420873951263	Facebook	f13_17	female (13-17)	1	1	570	114	2	0
+Piratenpartei Ansbach Weißenburg-Gunzenhausen	Piratenpartei Ansbach/Weißenburg-Gunzenhausen	113339232140512	Facebook	f13_17	female (13-17)	8	1	568	50	36	0
+Hermann Schützenhöfer	Steirische Volkspartei	141720165842248	Facebook	f13_17	female (13-17)	2	1	566	18	48	0
+Christoffer Nordmark	Christoffer Nordmark	2407206712838704	Facebook	f13_17	female (13-17)	4	1	564	112	2	0
+Mick Keller - Liberal Alliance	Mick Alexander Keller	184347308564575	Facebook	f13_17	female (13-17)	1	1	560	280	7	3
+SPD Neckarsulm	SPD Neckarsulm	140119866067404	Facebook	f13_17	female (13-17)	3	1	560	79	27	0
+Sophie Koch	SPD Sachsen	251373565543211	Facebook	f13_17	female (13-17)	1	1	558	111	1	0
+Freiheitliche Jugend	Freiheitliche Jugend	261850724850	Facebook	f13_17	female (13-17)	3	1	555	237	6	0
+GR TIMES		247366149277249	Facebook	f13_17	female (13-17)	1	1	552	276	5	0
+MalnateSostenibile	Lista civica Malnate Sostenibile	397809613568460	Facebook	f13_17	female (13-17)	8	1	551	79	23	0
+Max Hiegelsberger	OÖVP - die Oberösterreichische Volkspartei	943198402357632	Facebook	f13_17	female (13-17)	2	1	546	109	3	0
+SPD Schleswig-Holstein	SPD Schleswig-Holstein	165381593630826	Facebook	f13_17	female (13-17)	5	1	543	0	53	0
+Barry Andrews for Europe	Barry Andrews	188114061407	Facebook	f13_17	female (13-17)	1	1	538	269	5	0
+Ησαΐας Σωτήρης		608258645986045	Facebook	f13_17	female (13-17)	1	1	537	268	5	0
+Michael Raml	FPÖ Linz	1499759610320321	Facebook	f13_17	female (13-17)	5	1	534	68	29	0
+Πολίτες για την Ξάνθη		135422906504817	Facebook	f13_17	female (13-17)	1	1	528	105	1	0
+Alessandro Pagano	Vanni Manuel Di Natale	40115309363	Facebook	f13_17	female (13-17)	2	1	527	105	1	0
+A kiló nem százat jelent.	Antlfinger Edvárd	172924162721825	Facebook	f13_17	female (13-17)	1	1	526	263	8	1
+Apponyiho Juniáles	Praženec Mário	674126552985463	Facebook	f13_17	female (13-17)	3	1	525	0	52	0
+zeroCO2	zeroCO2	360133591158746	Facebook	f13_17	female (13-17)	4	1	524	104	1	0
+Gianluca Festa	Gianluca Festa	1414627525508278	Facebook	f13_17	female (13-17)	11	1	521	117	9	0
+Groen	Groen	84920854319	Facebook	f13_17	female (13-17)	2	1	518	103	10	0
+Promotions.hu	Promotions.hu	780542761958375	Facebook	f13_17	female (13-17)	1	1	518	103	0	0
+Dmitrij Palagi	Benedetto Pietro Casu	633923633714551	Facebook	f13_17	female (13-17)	3	1	516	245	5	0
+Bundesministerium für Arbeit und Soziales	Bundesministerium für Arbeit und Soziales	108268845888673	Facebook	f13_17	female (13-17)	1	1	514	102	5	1
+Françoise Schepmans		179436225887095	Facebook	f13_17	female (13-17)	1	1	513	102	5	1
+Μάκης Βορίδης	Μάκης Βορίδης	179792428724871	Facebook	f13_17	female (13-17)	4	1	512	165	12	0
+GRÜNE Elbvororte	Johannes Benjamin Harders	2299886463578417	Facebook	f13_17	female (13-17)	2	1	506	252	5	0
+David Trads	Socialdemokratiet i Egedal kredsen	1943329949053515	Facebook	f13_17	female (13-17)	1	1	505	101	6	1
+Κώστας Αρβανίτης		857142371300996	Facebook	f13_17	female (13-17)	1	1	501	250	4	0
+Bournemouth Green Party	South East Dorset Green Party	140064492697345	Facebook	f13_17	female (13-17)	2	1	499	152	5	0
+Junge Liberale JuLis Erfurt	Junge Liberale (JuLis) Erfurt	347832572265719	Facebook	f13_17	female (13-17)	2	1	490	75	18	0
+Michaela Šojdrová	KDU-ČSL	733410133337387	Facebook	f13_17	female (13-17)	2	1	488	118	2	0
+I LOVE GERASDORF	ÖVP Gerasdorf	225716772430	Facebook	f13_17	female (13-17)	3	1	487	205	6	0
+Marco Hellfritzsch, SPD	Marco Hellfritzsch	90801318280	Facebook	f13_17	female (13-17)	2	1	481	96	9	0
+20% Klimatvarning	Arleskar Carl Albin	362163934600158	Facebook	f13_17	female (13-17)	2	1	481	192	16	3
+Ιατράκης Ιωάννης	Stavros Karypidis	445923625979671	Facebook	f13_17	female (13-17)	6	1	480	112	2	0
+Più EuropAlpi - Gruppo tematico della Montagna	Stefano Morcelli 	600034513671739	Facebook	f13_17	female (13-17)	3	1	480	234	4	0
+Xabier Iridoy	EAJ-PNV	1892692694210010	Facebook	f13_17	female (13-17)	1	1	477	95	4	0
+Javi López	Javi López	370863946442242	Facebook	f13_17	female (13-17)	11	1	476	115	1	0
+Stadtrat Thomas Hornung	Thomas Hornung	1828967837221547	Facebook	f13_17	female (13-17)	6	1	472	5	44	0
+Περιφερειακή Σύνθεση	ΠΕΡΙΦΕΡΕΙΑΚΗ ΣΥΝΘΕΣΗ 	222774191972692	Facebook	f13_17	female (13-17)	1	1	468	234	4	0
+Esquerra Republicana de Catalunya	Esquerra Republicana de Catalunya	150234575797	Facebook	f13_17	female (13-17)	5	1	468	234	4	0
+Anna Wiśniewska	Ania Elżbieta Wiśniewska	1513966862036540	Facebook	f13_17	female (13-17)	1	1	466	93	2	0
+CDU Kreisverband Aachen Land	CDU Kreisverband Aachen Land	107652402721043	Facebook	f13_17	female (13-17)	1	1	463	231	4	0
+Populares Alcantarilla	populares alcantarilla	466365553502285	Facebook	f13_17	female (13-17)	2	1	462	92	1	0
+Sarah Wiener	Die Grünen	970529566390833	Facebook	f13_17	female (13-17)	1	1	459	230	2	0
+AfD Trier	Hubertus Michael Frisch 	649172151796727	Facebook	f13_17	female (13-17)	3	1	458	199	19	3
+Sara Stucchi		2387759301511108	Facebook	f13_17	female (13-17)	1	1	455	91	9	0
+Bürgermeister Sven Rosomkiewicz	Sven Rosomkiewicz	810285015659371	Facebook	f13_17	female (13-17)	3	1	449	89	8	0
+Moderaterna i Håbo	Erling Björn Karl Gustaf	256926791030140	Facebook	f13_17	female (13-17)	4	1	449	116	12	2
+Cllr Mike Diamond	Cllr Mike Diamond 	1768404463408418	Facebook	f13_17	female (13-17)	2	1	449	89	10	0
+Delara Burkhardt	SPD Schleswig-Holstein	260587924600836	Facebook	f13_17	female (13-17)	2	1	447	89	8	0
+Lorenzo Gasperini per la Toscana	Lorenzo Gasperini	230235480357105	Facebook	f13_17	female (13-17)	3	1	444	65	18	0
+Fridays For Future - Rovigo		576642682819155	Facebook	f13_17	female (13-17)	1	1	443	0	43	0
+Philipp da Cunha	Philipp Da Cunha	1436648789900217	Facebook	f13_17	female (13-17)	3	1	433	57	20	0
+Młodzieżowy Strajk Klimatyczny Białystok		392347074877769	Facebook	f13_17	female (13-17)	1	1	431	0	38	0
+Ian Borg	Ian Borg	151496594943131	Facebook	f13_17	female (13-17)	2	1	428	85	0	0
+Fridays For Future - Forlì	Fridays For Future Forlì	834339196918688	Facebook	f13_17	female (13-17)	4	1	426	97	2	0
+Arto Luukkanen	Riekkovaara Niko Tapani	1527478777519070	Facebook	f13_17	female (13-17)	1	1	416	83	8	0
+Ringsted Konservativ Ungdom	Ringsted Konservativ Ungdom	993238674111927	Facebook	f13_17	female (13-17)	1	1	412	0	5	0
+Fcknzs.club	Tobias Bernhard Joachim Hecht	2256258971110243	Facebook	f13_17	female (13-17)	2	1	410	178	4	0
+Freiheitliche Jugend Vorarlberg	Freiheitliche Jugend Vorarlberg	1562178404024823	Facebook	f13_17	female (13-17)	1	1	407	81	4	0
+DIE LINKE. im Lahn-Dill-Kreis	DIE LINKE Lahn-Dill	450531351694799	Facebook	f13_17	female (13-17)	4	1	405	81	8	0
+Fernand Van Trimpont	Van Trimpont Fernand August M	954988921279692	Facebook	f13_17	female (13-17)	2	1	400	80	7	0
+Christian Hübner - Politiker	Christian Hübner 	426444547925920	Facebook	f13_17	female (13-17)	6	1	395	0	39	0
+Jesper Petersen	Jesper Petersen	287814831337164	Facebook	f13_17	female (13-17)	3	1	394	78	5	1
+Αριστερή Πρωτοβουλία Γλυφάδας - με την αριστερά της ρήξης & της ανατροπής	Παναγιωτης Βασιλακης	271036136394392	Facebook	f13_17	female (13-17)	5	1	394	115	6	0
+N-VA Limburg	Nieuw-Vlaamse Alliantie	1599226510296139	Facebook	f13_17	female (13-17)	2	1	394	78	3	0
+Compromís per Alacant	Compromís	123505567686967	Facebook	f13_17	female (13-17)	4	1	392	48	30	0
+Carl Kangas - S Värmdö	Nygren Linda Elisabet	879887542403191	Facebook	f13_17	female (13-17)	1	1	392	78	3	0
+Tommi Aalto		650991871774294	Facebook	f13_17	female (13-17)	1	1	391	78	7	0
+INITIATIVEN für ANKLAM e.V.	INITIATIVEN für ANKLAM e.V.	128373150568937	Facebook	f13_17	female (13-17)	2	1	385	0	38	0
+Mario Kunasek	FPÖ - Landespartei Steiermark	66095458281	Facebook	f13_17	female (13-17)	1	1	379	75	3	0
+Έφη Μπάσδρα - Effie Basdra	Efthymia Basdra	1017552598412407	Facebook	f13_17	female (13-17)	1	1	377	75	7	0
+Säters kommun	Säters kommun	188370061598809	Facebook	f13_17	female (13-17)	1	1	377	75	3	0
+Miriam Lexmann	KDH 	594790970995799	Facebook	f13_17	female (13-17)	1	1	372	74	0	0
 Beckton Labour	George James Harris	439640700178969	Facebook	f13_17	female (13-17)	1	1	368	0	42	0
-SPÖ Kärnten	SPÖ Kärnten	10150145829810364	Facebook	f13_17	female (13-17)	2	1	343	171	3	0
-FDP Fraktion Bundestag	Fraktion der Freien Demokraten	341486659645594	Facebook	f13_17	female (13-17)	2	1	340	53	12	0
-Jakob Schäuble	FDP Ingolstadt	1873283949575191	Facebook	f13_17	female (13-17)	2	1	335	0	33	0
-Andreas Steenberg	Streenberg Andreas Frost	132364993978468	Facebook	f13_17	female (13-17)	2	1	317	0	4	0
-Kim Alloo	Alloo Kim	2165082146846340	Facebook	f13_17	female (13-17)	2	1	316	48	12	0
-Alternativet	Alternativet	676061179094769	Facebook	f13_17	female (13-17)	1	1	314	0	4	0
-SPD Friedrichshafen	Luca Elias Baumann	227497950644482	Facebook	f13_17	female (13-17)	1	1	300	0	29	0
-Live Communications for MEP Elections May 2019	Stephen Florian	962042630582450	Facebook	f13_17	female (13-17)	3	1	295	36	14	0
-SPÖ Obersteiermark Ost	SPÖ Obersteiermark Ost	639538052795950	Facebook	f13_17	female (13-17)	1	1	294	58	5	0
-Tiverton & Honiton Liberal Democrats	Dr. J Timperley on behalf of Tiverton and Honiton Liberal Democrats	150862338924727	Facebook	f13_17	female (13-17)	1	1	288	0	33	0
-Jusos Freiburg	Jusos Freiburg	452121134820659	Facebook	f13_17	female (13-17)	2	1	284	0	28	0
-Jonas Bruns	Jonas Bruns	2138908233101805	Facebook	f13_17	female (13-17)	1	1	253	0	25	0
-Luigi Pantisano	Luigi Pantisano	1006758069529993	Facebook	f13_17	female (13-17)	1	1	252	0	25	0
-A kiló nem százat jelent.	Antlfinger Edvárd	172924162721825	Facebook	f13_17	female (13-17)	1	1	225	45	0	0
-Sebastian Bohrn Mena	Tierschutzvolksbegehren	1583324305255890	Facebook	f13_17	female (13-17)	1	1	219	0	21	0
-SPD Eimsbüttel	SPD Hamburg	251214968313715	Facebook	f13_17	female (13-17)	2	1	217	0	21	0
-BÜNDNIS 90/DIE GRÜNEN Kreisverband Neckar-Odenwald	Bündnis 90/Die Grünen, Kreisverband Neckar-Odenwald	546103272077045	Facebook	f13_17	female (13-17)	8	1	213	0	21	0
-Steffen Beckmann AfD	Steffen Beckmann	2242760109144391	Facebook	f13_17	female (13-17)	1	1	207	41	4	0
-Socialdemokraterna Värmdö - Framtidspartiet	Nygren Linda Elisabet	217897918243937	Facebook	f13_17	female (13-17)	1	1	206	41	1	0
-Tom Watson	The Labour Party. Promoted by Tom Watson on behalf of Tom Watson	470873686267967	Facebook	f13_17	female (13-17)	2	1	198	39	4	0
-Andreas von Brühl	Andreas Sebastian Graf Von Brühl 	227743204230314	Facebook	f13_17	female (13-17)	2	1	195	0	19	0
-Ralph Puli: Kap tal-Kunsilliera PN f'Hal Qormi	Ralph Puli	312887412236411	Facebook	f13_17	female (13-17)	6	1	191	0	19	0
-Friddens- a Solidaritéitsplattform	Gary Diderich	110747949801520	Facebook	f13_17	female (13-17)	1	1	190	38	3	0
-European Parliament Office in Malta	European Parliament Office in Malta	116353271736965	Facebook	f13_17	female (13-17)	1	1	190	38	3	0
-Dr. Horst Baier	Dr. Horst Baier	220262751399177	Facebook	f13_17	female (13-17)	2	1	186	0	18	0
-CDU Ostprignitz-Ruppin	CDU OPR	226018367465596	Facebook	f13_17	female (13-17)	6	1	183	0	18	0
-Esquerra Republicana de Catalunya	Esquerra Republicana de Catalunya	150234575797	Facebook	f13_17	female (13-17)	2	1	157	59	2	0
-Μάκης Παπαδόπουλος - Ο Τόπος Της Ζωής Μας	Μάκης Παπαδόπουλος	1433780063507247	Facebook	f13_17	female (13-17)	1	1	157	31	3	0
-Roland Heintze	CDU Landesverband Hamburg	751240091655625	Facebook	f13_17	female (13-17)	1	1	155	0	15	0
-Γιώργος Χατζημάρκος	Γιώργος Χατζημάρκος	2128150737398149	Facebook	f13_17	female (13-17)	1	1	155	31	0	0
-Matteo Melato - Lega Reggio Emilia	Matteo Melato 	539466976169977	Facebook	f13_17	female (13-17)	1	1	153	0	15	0
-BZS 23 - Bündnis Zukunft Stuttgart 23	Marc Fuchs 	225413838047902	Facebook	f13_17	female (13-17)	3	1	144	20	6	0
-Roselyn Borg Knight	Roselyn Borg	446487702156732	Facebook	f13_17	female (13-17)	5	1	143	22	5	0
-Jusos Schleswig-Holstein	Jusos Schleswig-Holstein	185490505413	Facebook	f13_17	female (13-17)	2	1	136	24	3	0
-Carmarthenshire Liberal Democrats	Christopher David W Passmore	585876841564510	Facebook	f13_17	female (13-17)	1	1	130	0	14	0
-Grüne Jena	Wolfgang Volkmer	367774396672401	Facebook	f13_17	female (13-17)	1	1	129	25	2	0
-Francis Zammit Dimech	Francis Zammit Dimech	117406495021568	Facebook	f13_17	female (13-17)	3	1	126	13	7	0
-Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	f13_17	female (13-17)	2	1	122	19	1	0
-Partei der Humanisten Bremen	Axel Börold	1477347775705985	Facebook	f13_17	female (13-17)	1	1	121	0	12	0
+Wandel	Wandel	441927269154538	Facebook	f13_17	female (13-17)	4	1	364	1	35	0
+Jánoshalma Jobbik	Farkas Gergely	699228413539524	Facebook	f13_17	female (13-17)	1	1	361	180	0	0
+CDU Stuttgart	CDU-Kreisverband Stuttgart	98276387039	Facebook	f13_17	female (13-17)	1	1	361	72	3	0
+Henrik Boye	Boye Henrik	261240774042881	Facebook	f13_17	female (13-17)	1	1	359	179	4	2
+Kristian Hegaard	Hegaard Kristian Wurtz	309352049198824	Facebook	f13_17	female (13-17)	1	1	351	175	4	2
+SPD Ulm	Holger Oellermann	262950473606	Facebook	f13_17	female (13-17)	1	1	346	173	17	3
+PD Palo del Colle	Gabriella Sasso	1578164322435113	Facebook	f13_17	female (13-17)	1	1	342	68	0	0
+Vänsterpartiet Solna	Vänsterpartiet 	273249776157066	Facebook	f13_17	female (13-17)	1	1	340	68	3	0
+Jesper Skalberg Karlsson	Skalberg Karlsson Jesper Jens J	2171970199486213	Facebook	f13_17	female (13-17)	2	1	340	68	3	0
+SPD Eimsbüttel	SPD Hamburg	251214968313715	Facebook	f13_17	female (13-17)	3	1	338	24	23	0
+Per Chiesina Uzzanese	Per Chiesina Uzzanese - Di Nuovo Insieme	1402850209999395	Facebook	f13_17	female (13-17)	3	1	336	55	11	0
+CDU Cottbus	CDU Cottbus	146947498681487	Facebook	f13_17	female (13-17)	6	1	333	135	4	0
+FDP-Fraktion Bayern	FDP-Fraktion Bayern	637552983272437	Facebook	f13_17	female (13-17)	2	1	332	3	31	0
+Ahmed Husagić	SPÖ	1617700101837646	Facebook	f13_17	female (13-17)	4	1	331	71	6	0
+Denis Mau		1882950845120274	Facebook	f13_17	female (13-17)	1	1	331	66	6	0
+Enhedslisten Randers	Christensen Frida Valbjorn	135231413199324	Facebook	f13_17	female (13-17)	1	1	329	65	4	0
+SiAmo Montefalco	Luca Preziosi 	597700853974508	Facebook	f13_17	female (13-17)	2	1	328	65	0	0
+Vesali Amir	Amir Vesali	462665857488803	Facebook	f13_17	female (13-17)	1	1	328	65	6	0
+Articolo Uno Ravenna	Articolo Uno Ravenna	1858524514386544	Facebook	f13_17	female (13-17)	2	1	327	0	32	0
+Alexander Kleinow	Alexander Kleinow	402494750533079	Facebook	f13_17	female (13-17)	2	1	327	0	32	0
+Danilo Oscar Lancini	Danilo Oscar Lancini	247390032110856	Facebook	f13_17	female (13-17)	1	1	326	65	6	0
+Žilvinas Galimovas	Lietuvos Respublikos liberalų sąjūdžio rinkiminės kampanijos sąskaita	312983092825274	Facebook	f13_17	female (13-17)	3	1	321	64	6	0
+Caio Mussolini	Caio Mussolini	2393234914229651	Facebook	f13_17	female (13-17)	1	1	317	63	3	0
+USR Cluj	Partidul Uniunea Salvati România	287761518247055	Facebook	f13_17	female (13-17)	2	1	314	62	0	0
+Manu Douette		727590607265719	Facebook	f13_17	female (13-17)	2	1	312	40	14	0
+Uniti Per Oleggio	Matteo Manfredino	319574408751434	Facebook	f13_17	female (13-17)	3	1	312	39	15	0
+Chris Webb	Chris Webb for Blackpool North & Cleveleys Campaign	367006363463686	Facebook	f13_17	female (13-17)	1	1	311	62	7	0
+Alviina Alametsä	Alametsae Pauliina Viivi Alviina	292611094275509	Facebook	f13_17	female (13-17)	1	1	310	155	3	0
+SPD Oberspreewald-Lausitz	Alexander Krüger	236968340096641	Facebook	f13_17	female (13-17)	2	1	310	99	1	0
+SPD Lörrach	Sven Markus Widlarz	301084526707620	Facebook	f13_17	female (13-17)	1	1	309	61	6	0
+Kathleen Van Brempt	Kathleen Van Brempt	206193139504506	Facebook	f13_17	female (13-17)	1	1	306	0	30	0
+Maximilian Mörseburg	Maximilian Mörseburg	2364772793592996	Facebook	f13_17	female (13-17)	1	1	305	152	3	0
+CDU Egelner Mulde	Sven Rosomkiewicz	598305833966587	Facebook	f13_17	female (13-17)	1	1	304	60	6	0
+Socialdemokraterna i Järfälla	Socialdemokraterna i Järfälla	125830894149167	Facebook	f13_17	female (13-17)	2	1	303	0	14	2
+Liberalerna Örebro län	Liberalerna i Örebro län	388964421149126	Facebook	f13_17	female (13-17)	2	1	302	0	13	2
+DIE LINKE Lausitz	André Kaun	142810395919029	Facebook	f13_17	female (13-17)	1	1	301	150	2	0
+CDU Stadtverband Nauen	CDU Nauen	425338230825019	Facebook	f13_17	female (13-17)	5	1	296	51	8	0
+Antoneta Ioniță	ETIS Design	560400854158794	Facebook	f13_17	female (13-17)	1	1	296	59	0	0
+Moderaterna i Järfälla	Moderaterna i Järfälla	443813509046190	Facebook	f13_17	female (13-17)	1	1	294	58	27	5
+JUNOS Studierende	JUNOS Studierende	231166380411824	Facebook	f13_17	female (13-17)	4	1	293	85	2	0
+Παπαϊωάννου Αποστόλης - Υποψήφιος Δημοτικός Σύμβουλος Ναυπακτίας	Apostolos Papaioannou	2834747896565202	Facebook	f13_17	female (13-17)	3	1	291	58	0	0
+Chiesina Uzzanese e le Sue Frazioni	Carlo Cortesi 	893566094376642	Facebook	f13_17	female (13-17)	6	1	289	109	6	0
+Councillor Tom Ashton	Thomas Ashton, Dunscroft, Main Road, Wrangle, Boston, Lincolnshire UK. PE22 9AZ	301790566852530	Facebook	f13_17	female (13-17)	1	1	289	57	6	0
+Othmar Karas	Volkspartei	395638503864459	Facebook	f13_17	female (13-17)	5	1	286	121	5	1
+Maysara Soliman	Maysara Soliman	169929840584692	Facebook	f13_17	female (13-17)	1	1	285	0	28	0
+Moderaterna i Mellerud	Moderaterna i Mellerud	1696828960384153	Facebook	f13_17	female (13-17)	3	1	281	23	2	0
+Miljöpartiet de gröna i Landskrona	Miljöpartiet de gröna i Landskrona 	123287631044300	Facebook	f13_17	female (13-17)	1	1	281	140	13	2
+Παπαχρήστος Βλάσης	Vlasios Papachristos	291548154778107	Facebook	f13_17	female (13-17)	5	1	280	56	2	0
+Kristdemokraterna Arboga	Stenzelius Jonas Peter Mikael	1083070925184919	Facebook	f13_17	female (13-17)	6	1	278	52	2	0
+SPD Wernigerode	SPD Ortsverein Wernigerode	379830908724697	Facebook	f13_17	female (13-17)	3	1	277	101	3	0
+Massimo Ruspandini	Roberta Pugliese	1382842338499099	Facebook	f13_17	female (13-17)	3	1	276	55	5	0
+Noel Rock	Noel Rock	195292974000042	Facebook	f13_17	female (13-17)	1	1	276	55	5	0
+Υποψήφιος Ευρωβουλευτής Νικόλας Καρακίτσος	Nikolaos Karakitsos	299812430697382	Facebook	f13_17	female (13-17)	1	1	276	138	2	0
+N-VA Merksplas		1015975858428193	Facebook	f13_17	female (13-17)	1	1	275	137	2	0
+SPD Hilden	SPD Hilden	111826602193280	Facebook	f13_17	female (13-17)	2	1	272	0	27	0
+Stop Korki na Bałuckiego		204126866871498	Facebook	f13_17	female (13-17)	2	1	270	54	1	0
+BÜNDNIS 90/DIE GRÜNEN Köthen	BÜNDNIS 90/DIE GRÜNEN Kreisverband Anhalt-Bitterfeld	674211959665855	Facebook	f13_17	female (13-17)	4	1	269	53	5	0
+MSZP Sopron	MSZP	169913829821276	Facebook	f13_17	female (13-17)	1	1	268	53	1	0
+CDU Herzogtum Lauenburg	Stefan Schwab	158666530853631	Facebook	f13_17	female (13-17)	1	1	267	53	5	0
+Centerpartiet i Stockholms län	Centerpartiet i Stockholms län	154533721332462	Facebook	f13_17	female (13-17)	2	1	264	113	9	1
+Κώστας Μπαρούτας - Υπ. Δημοτικός Σύμβουλος Δήμου Χαλκίδας "ΛΥΣΗ ΤΩΡΑ"	Κωνσταντίνος Μπαρούτας	1651013171665903	Facebook	f13_17	female (13-17)	1	1	263	132	2	0
+BÜNDNIS 90/DIE GRÜNEN Kreisverband Neckar-Odenwald	Bündnis 90/Die Grünen, Kreisverband Neckar-Odenwald	546103272077045	Facebook	f13_17	female (13-17)	10	1	261	10	21	0
+Jobbik Rétság	Jobbik Magyarországért Mozgalom	1360301207471601	Facebook	f13_17	female (13-17)	3	1	260	52	0	0
+Vänsterpartiet Jönköping	Vänsterpartiet Jönköping	169508586461	Facebook	f13_17	female (13-17)	4	1	259	51	2	0
+LMP Tolna megye	LMP - Lehet Más a Politika	507090339333245	Facebook	f13_17	female (13-17)	1	1	256	128	0	0
+Brbhavel - Fouqué-Stadt Brandenburg an der Havel		409405425775262	Facebook	f13_17	female (13-17)	2	1	254	41	8	0
+CDU Oberharmersbach		2355181551361771	Facebook	f13_17	female (13-17)	1	1	249	0	24	0
+Dalarnas unika kontakt med Fredrick Federley	Persson Robert Gote	2312353715706687	Facebook	f13_17	female (13-17)	5	1	247	44	2	0
+Eraldo Ciangherotti	Eraldo Ciangherotti	1020725961324733	Facebook	f13_17	female (13-17)	1	1	246	49	2	0
+Empoli Ecologista per Beatrice Cioni sindaco	Giuseppe Pluchino	1323687517793993	Facebook	f13_17	female (13-17)	8	1	245	99	3	0
+SSU Jönköpings län	SSU Jönköpings län	191733034225333	Facebook	f13_17	female (13-17)	1	1	243	0	11	2
+Αντωνάκης Γρηγόρης - Αθήνα Ψηλά		278524413070866	Facebook	f13_17	female (13-17)	1	1	243	48	4	0
+Tom Watson	The Labour Party. Promoted by Tom Watson on behalf of Tom Watson	470873686267967	Facebook	f13_17	female (13-17)	4	1	241	50	4	0
+Junge Generation in der SPÖ Oberösterreich	SPÖ Oberösterreich	291805967500051	Facebook	f13_17	female (13-17)	1	1	240	48	2	0
+Kristdemokraterna på Gotland	Kristdemokraterna på Gotland	1375539726041747	Facebook	f13_17	female (13-17)	3	1	238	0	10	1
+Cllr Diogo Rodrigues	Diogo Rodrigues	1847912222147101	Facebook	f13_17	female (13-17)	1	1	237	47	5	0
+Grüne Jugend NRW	GRÜNE JUGEND NRW	129048743832509	Facebook	f13_17	female (13-17)	1	1	237	118	2	0
+Julian Flak	Julian Konstantin Flak	511034955648400	Facebook	f13_17	female (13-17)	3	1	236	47	4	0
+Centerpartiet i Huddinge	Tomas Selin	167980936712785	Facebook	f13_17	female (13-17)	1	1	226	45	2	0
+Rete 22 Ottobre - Lombardia		190937334880928	Facebook	f13_17	female (13-17)	1	1	224	112	2	0
+Die Grünen Wien	Die Grünen Wien	88676876113	Facebook	f13_17	female (13-17)	2	1	223	44	2	0
+Enhedslisten Østerbro		145686458855735	Facebook	f13_17	female (13-17)	2	1	219	0	2	0
+Freiheitliche Jugend Kärnten		536956663016520	Facebook	f13_17	female (13-17)	1	1	219	43	4	0
+Sine Olsson Heltberg	Olsson Sine Orgaard	400691640097383	Facebook	f13_17	female (13-17)	2	1	218	40	0	0
+Simon Cassidy - Liskeard Town Councillor	Simon Cassidy	2625395057487483	Facebook	f13_17	female (13-17)	1	1	215	43	4	0
+Alexander Hannes	CSU Kreisverband Regen	287380818788155	Facebook	f13_17	female (13-17)	5	1	214	28	9	0
+Julie O'Leary	O'Leary Julie	1395595887405642	Facebook	f13_17	female (13-17)	1	1	208	41	4	0
+James White		347102508634864	Facebook	f13_17	female (13-17)	1	1	206	0	23	0
+Alternative für Deutschland - Kreisverband Mittelsachsen	AfD Mittelsachsen	495527383854650	Facebook	f13_17	female (13-17)	3	1	206	39	4	0
+Epirus365 - Έλσα Εξάρχου Κεντέρη	Έλσα Εξάρχου - Κεντέρη	370524653792978	Facebook	f13_17	female (13-17)	2	1	201	44	0	0
+Stephen Gethins MP	North East Fife SNP	1532665740317736	Facebook	f13_17	female (13-17)	1	1	200	40	4	0
+Johannes Steinbach	Johannes Georg Steinbach	1007248652804955	Facebook	f13_17	female (13-17)	1	1	194	0	19	0
+Lucas Zukunft	Zukunft Lucas Emil	458380827831211	Facebook	f13_17	female (13-17)	1	1	192	0	2	0
+AfD Stuttgart	AfD Stuttgart	1224202144262985	Facebook	f13_17	female (13-17)	1	1	192	38	0	0
+Wirtschaftsbund Österreich	Wirtschaftsbund Österreich	385183128166442	Facebook	f13_17	female (13-17)	4	1	191	70	1	0
+Hefin David AM	National Assembly for Wales	1631875723795674	Facebook	f13_17	female (13-17)	1	1	190	38	4	0
+Πύλης Όραμα		992489404472934	Facebook	f13_17	female (13-17)	1	1	189	37	0	0
+SSU Kalmar Län	SSU Kalmar län	241658249370356	Facebook	f13_17	female (13-17)	1	1	188	0	1	0
+scoop.me		100745679654	Facebook	f13_17	female (13-17)	1	1	187	37	3	0
+Andreas Steenberg	Streenberg Andreas Frost	132364993978468	Facebook	f13_17	female (13-17)	2	1	186	0	2	0
+Gianna Gancia		412209525481643	Facebook	f13_17	female (13-17)	1	1	185	37	0	0
+Herczeg Tamás	Nagy Sándor	292787761246129	Facebook	f13_17	female (13-17)	1	1	182	91	0	0
+Piraten Bezierk Süden		659368007411223	Facebook	f13_17	female (13-17)	6	1	182	24	8	0
+Peter Westermann	Westermann Peter	26531882197	Facebook	f13_17	female (13-17)	1	1	181	36	2	0
+Herwig Mahr	Freiheitlicher Landtagsklub Oberösterreich	212990319049096	Facebook	f13_17	female (13-17)	2	1	181	41	1	0
+Centerpartiet i Enhörna		584208725271615	Facebook	f13_17	female (13-17)	1	1	181	0	1	0
+N-VA Landen		186705558021609	Facebook	f13_17	female (13-17)	1	1	180	36	3	0
+SPD BRANDENBURG	SPD BRANDENBURG	139470429458087	Facebook	f13_17	female (13-17)	4	1	179	35	3	0
+Luigi Augussori - Senatore Lega	Luigi Augussori 	286548979095	Facebook	f13_17	female (13-17)	3	1	178	89	1	0
+Riformatori Sardi - Liberaldemocratici	Riformatori Sardi - Liberaldemocratici	113804762009156	Facebook	f13_17	female (13-17)	5	1	177	39	3	0
+Lars Klingbeil	Lars Klingbeil	355456486093	Facebook	f13_17	female (13-17)	3	1	177	25	7	0
+Unabhängige Wählergemeinschaft -UWG		2342244099426432	Facebook	f13_17	female (13-17)	1	1	174	0	17	0
+Moderaterna Kungsbacka	Moderaterna Kungsbackakretsen	121182911263997	Facebook	f13_17	female (13-17)	1	1	171	0	7	1
+Miljöpartiet de gröna i Gnesta	Miljöpartiet de Gröna i Gnesta	288168764608020	Facebook	f13_17	female (13-17)	2	1	170	34	1	0
+Anders Wolf Andresen	Andresen Anders Wolf	1417938685172201	Facebook	f13_17	female (13-17)	3	1	170	0	2	0
+BÜNDNIS 90/DIE GRÜNEN Kreisverband Mecklenburgische Seenplatte	Jutta Wegner 	157027537691135	Facebook	f13_17	female (13-17)	1	1	169	33	3	0
+XanthiNews	Stavros Karypidis	109279452432880	Facebook	f13_17	female (13-17)	2	1	169	55	0	0
+Λευτέρης Αυγενάκης		134552316636	Facebook	f13_17	female (13-17)	1	1	169	84	1	0
+Skaramoderaterna	Grönlund Plöen Anna Lotta	1757410027826711	Facebook	f13_17	female (13-17)	2	1	168	33	1	0
+Claus Mellinger für den Reutlinger Gemeinderat	Claus Stefan Mellinger	1157683364414302	Facebook	f13_17	female (13-17)	1	1	167	33	3	0
+Cambiar la Región de Murcia	Cambiar la Región de Murcia 	785150365201919	Facebook	f13_17	female (13-17)	3	1	167	59	5	0
+Ulricehamns kommun	Ulricehamns kommun	195221297179003	Facebook	f13_17	female (13-17)	1	1	166	0	1	0
+Bekir Kablan	Kablan Bekir Emre	650745248703181	Facebook	f13_17	female (13-17)	1	1	164	0	16	0
+Ηλίας Ζιακούλης - Ilias Ziakoulis	Ilias Ziakoulis	276741549942212	Facebook	f13_17	female (13-17)	4	1	163	41	7	0
+FDP - Oberspreewald-Lausitz	FDP Kreisverband Oberspreewald-Lausitz	1248248725285516	Facebook	f13_17	female (13-17)	1	1	163	32	3	0
+Junts Per Catalunya-Malgrat ens Mou	Junts Per Catalunya	199450580178883	Facebook	f13_17	female (13-17)	2	1	161	22	6	0
+Giovani Democratici Bologna	Giovani Democratici Bologna	473744446074107	Facebook	f13_17	female (13-17)	1	1	159	31	3	0
+SPD Naumburg	Elmar Schmidt	605365753232098	Facebook	f13_17	female (13-17)	1	1	155	77	1	0
+Jobbik Bácsalmás	Farkas Gergely	896702313709887	Facebook	f13_17	female (13-17)	1	1	154	30	0	0
+Jobbik Mélykút	Farkas Gergely	1531544893761737	Facebook	f13_17	female (13-17)	1	1	153	30	0	0
+Nyheter i Västerbotten	Bergstrom Carl Erik Anton	1400334680268097	Facebook	f13_17	female (13-17)	1	1	153	30	1	0
+SPÖ Burgenland	SPÖ Burgenland	237290919634390	Facebook	f13_17	female (13-17)	2	1	151	20	11	0
+Karl-Heinz Trick	Karl-Heinz Trick	233635857486664	Facebook	f13_17	female (13-17)	3	1	150	57	2	0
+Nicola Caputo	Nicola Caputo	1439514556290274	Facebook	f13_17	female (13-17)	3	1	149	31	0	0
+Slöseriombudsmannen	Skattebetalarna	408171019221426	Facebook	f13_17	female (13-17)	9	1	145	56	0	0
+Bündnis 90/Die Grünen Kreisverband Tübingen	Bündnis 90/Die Grünen Kreisverband Tübingen	516823841675813	Facebook	f13_17	female (13-17)	2	1	144	57	1	0
+FDP Burgdorf-Uetze	FDP OV Burgdorf-Uetze	1931006000456181	Facebook	f13_17	female (13-17)	8	1	138	51	4	0
+CDU Oranienburg	Nicole Ulla Walter-Mundt	366646900134588	Facebook	f13_17	female (13-17)	6	1	136	10	9	0
+Die Linke Harburg		429151107914173	Facebook	f13_17	female (13-17)	1	1	135	67	1	0
+Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	f13_17	female (13-17)	1	1	134	26	1	0
+Miljöpartiet de Gröna i Sundbyberg	Miljöpartiet Sundbyberg	107104919328517	Facebook	f13_17	female (13-17)	4	1	133	20	1	0
+Χρήστος Παγώνης	Χρήστος Παγώνης	1399423173671930	Facebook	f13_17	female (13-17)	5	1	133	24	3	0
+RKU – Revolutionär Kommunistisk Ungdom	Gustafsson Arvid	328797072776	Facebook	f13_17	female (13-17)	1	1	130	0	1	0
+Junge Union Hessen	Junge Union Hessen	219942005150	Facebook	f13_17	female (13-17)	1	1	130	0	12	0
+Iben Sønderup	Sønderup Iben	1336984893024301	Facebook	f13_17	female (13-17)	1	1	130	26	1	0
+CDU in Niedersachsen	CDU in Niedersachsen	109460782417586	Facebook	f13_17	female (13-17)	2	1	129	53	0	0
+Graham Jones MP	Graham Peter Jones	1876607552621015	Facebook	f13_17	female (13-17)	3	1	129	0	14	0
+Stefano Ciccone con La Sinistra al Parlamento Europeo	Stefano Ciccone	2125577980861018	Facebook	f13_17	female (13-17)	3	1	128	64	1	0
+L'unione falla forse - Il Film	L'unione falla forse	1929392647334919	Facebook	f13_17	female (13-17)	1	1	128	25	2	0
+Open Vld Langemark-Poelkapelle	Hoornaert Laurent	506406522812492	Facebook	f13_17	female (13-17)	1	1	127	25	2	0
+Αλεξοπούλου Χριστίνα	Αλεξοπούλου Χριστίνα 	2140957882645467	Facebook	f13_17	female (13-17)	4	1	127	22	3	0
+SPÖ Stadtorganisation Amstetten	SPÖ Stadtorganisation Amstetten	912354165459699	Facebook	f13_17	female (13-17)	1	1	126	25	2	0
+Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	f13_17	female (13-17)	2	1	122	15	1	0
+Fehér Zsolt	Jobbik Magyarországért Mozgalom	371736629638278	Facebook	f13_17	female (13-17)	2	1	121	22	0	0
+BFZ - Bündnis Fürstenwalder Zukunft e.V.	Bündnis Fürstenwalder Zukunft e.V.	578250582267178	Facebook	f13_17	female (13-17)	1	1	121	24	2	0
 kontrast.at	kontrast.at	1079650008770485	Facebook	f13_17	female (13-17)	1	1	121	24	0	0
-Sebastian Mylsted-Schenstrøm - Venstre, Næstved	Mylsted-Schenstrøm Sebastian	437813842938863	Facebook	f13_17	female (13-17)	2	1	119	0	1	0
-Steven Vandeput	Nieuw-Vlaamse Alliantie	983442595060481	Facebook	f13_17	female (13-17)	1	1	119	59	1	0
-Deputati PD	Deputati PD	104652392900508	Facebook	f13_17	female (13-17)	4	1	115	35	0	0
-Υποψήφιος Ευρωβουλευτής Νικόλας Καρακίτσος	Nikolaos Karakitsos	299812430697382	Facebook	f13_17	female (13-17)	1	1	115	23	2	0
-Alex Bernhuber	Niederösterreichischer Bauernbund	382872055842390	Facebook	f13_17	female (13-17)	1	1	113	56	1	0
-Μανώλης Γλυνός	Emmanouil Glynos	968742453313048	Facebook	f13_17	female (13-17)	5	1	112	4	9	0
-Norbert Hofer	FPÖ	1650580648552563	Facebook	f13_17	female (13-17)	1	1	108	21	2	0
-Giosi Ferrandino	Giosi Ferrandino	141856142632410	Facebook	f13_17	female (13-17)	2	1	106	21	0	0
-FDP Bielefeld	Jan-Maik Schlifter De La Fontaine	153467308073688	Facebook	f13_17	female (13-17)	1	1	106	0	10	0
-OÖVP - die Oberösterreichische Volkspartei	Oberösterreichische Volkspartei	289163077789256	Facebook	f13_17	female (13-17)	3	1	105	44	1	0
+Δρ. Γρηγόρης Λέων, Ιατροδικαστής	Grigorios Leon	185241851651860	Facebook	f13_17	female (13-17)	3	1	120	25	0	0
+Thomas Picek - Stadtratskandidat 2019	Thomas Picek	358248751688022	Facebook	f13_17	female (13-17)	1	1	120	24	2	0
+Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	f13_17	female (13-17)	2	1	119	18	1	0
+Udo Landbauer	FPÖ Niederösterreich	494195290313	Facebook	f13_17	female (13-17)	5	1	118	40	1	0
+Alexander Throm		1698700087037237	Facebook	f13_17	female (13-17)	2	1	118	23	2	0
+SPD Ortsverein Magdeburg Reform/Südost	Christian Gräfenhain 	260974187313948	Facebook	f13_17	female (13-17)	2	1	116	21	2	0
+SPD Dresden-West	SPD Ortsverein Dresden-West	164123927360388	Facebook	f13_17	female (13-17)	3	1	116	23	2	0
+Βασίλης Κωτσιόπουλος Υπ.Ευρωβουλευτής	Β. Κωτσιόπουλος	1524942397638885	Facebook	f13_17	female (13-17)	1	1	116	23	0	0
+Paul Cordy	Nieuw-Vlaamse Alliantie	650813488672073	Facebook	f13_17	female (13-17)	1	1	115	23	2	0
+Lista Civica "ProgettiAmo Savignano"	Enrico Tagliavini	2111477435580468	Facebook	f13_17	female (13-17)	1	1	114	22	2	0
+Lalique Nelson		2165834466966724	Facebook	f13_17	female (13-17)	1	1	113	0	9	0
+e-evros.gr	e-evros.gr	9794632388	Facebook	f13_17	female (13-17)	2	1	111	22	2	0
+Clean Planet Energy	Clean Planet Energy	2305756482788316	Facebook	f13_17	female (13-17)	1	1	110	22	2	0
+Junges Freiburg	Junges Freiburg e.V.	244355055724023	Facebook	f13_17	female (13-17)	5	1	110	32	1	0
+SPÖ Hainfeld	Robert Steineck	378862102263329	Facebook	f13_17	female (13-17)	1	1	110	22	2	0
+Liberala Studenter Örebro	Liberala Studenter Örebro	1453776514737275	Facebook	f13_17	female (13-17)	1	1	110	0	1	0
+SPD Bremerhaven	SPD Bremerhaven	104401952226	Facebook	f13_17	female (13-17)	3	1	109	20	2	0
+SPD Nordfriesland	SPD Nordfriesland	154015121740225	Facebook	f13_17	female (13-17)	1	1	109	21	2	0
+VSStÖ Juridicum	Eva Sager 	331632570217876	Facebook	f13_17	female (13-17)	1	1	109	22	2	0
+Drobeta Online - Stiri din Mehedinti	Vasilan Pavel-Mihai	1133575306806915	Facebook	f13_17	female (13-17)	2	1	109	18	0	0
+Παναγιώτης Κισκήρας	Panagiotis Kiskiras	1990278354601655	Facebook	f13_17	female (13-17)	1	1	109	21	0	0
+Sven Giegold	Sven Giegold	1391306014465513	Facebook	f13_17	female (13-17)	8	1	108	34	2	0
+Politik muss wieder für die einfachen Menschen gemacht werden.	Georg Krejci	2060122567590322	Facebook	f13_17	female (13-17)	4	1	107	20	2	0
+Γιάννης Λαγουδάκης - Δήμαρχος Περάματος	Ioannis Lagoudakis	140889256041626	Facebook	f13_17	female (13-17)	3	1	106	47	1	0
+Julen Bollain	Julen Bollain Urbieta	1836848633210351	Facebook	f13_17	female (13-17)	2	1	106	21	2	0
+Callum Anderson SNP	Callum Anderson	410530175808219	Facebook	f13_17	female (13-17)	1	1	106	0	12	0
+CDU Wäschenbeuren	CDU Wäschenbeuren	642876995786514	Facebook	f13_17	female (13-17)	7	1	105	0	10	0
+Diego Banti - Candidato al Consiglio Comunale di Collesalvetti	Diego Banti	656768971418493	Facebook	f13_17	female (13-17)	1	1	105	52	1	0
+Sephora Cutajar	Sephora Cutajar	370176067131807	Facebook	f13_17	female (13-17)	1	1	104	0	10	0
+Federico Valceschini	Federico Valceschini	395097484289044	Facebook	f13_17	female (13-17)	1	1	104	0	10	0
+Insieme per Tuscania - Regino Brachetti Sindaco	Pier Paolo Pallassini 	389035505273421	Facebook	f13_17	female (13-17)	3	1	104	26	0	0
 Tekniikan Maailma	Rainisto Sami Pasi Kalevi	309780042465696	Facebook	f13_17	female (13-17)	1	1	104	20	2	0
-Постоянна ромска конференция	Roma Standing Conference	2169116143357997	Facebook	f13_17	female (13-17)	1	1	103	20	2	0
-Κύμα Ενωμένων Πολιτών - Δημήτρης Δαβάκης	Dimitrios Davakis	1514283778797349	Facebook	f13_17	female (13-17)	1	1	99	19	1	0
-Pinksixty	Leeze Lawrence	108182029247820	Facebook	f13_17	female (13-17)	1	1	93	0	10	0
-Miljöpartiet de gröna region Kalmar	Miljöpartiet de gröna Kalmar län	161091964101674	Facebook	f13_17	female (13-17)	1	1	92	0	0	0
-N-VA Mechelen	Nieuw-Vlaamse Alliantie	250836601610919	Facebook	f13_17	female (13-17)	1	1	92	18	1	0
-DP - Demokratesch Partei	DP - Demokratesch Partei	280875378609326	Facebook	f13_17	female (13-17)	3	1	91	18	1	0
-Jos Lantmeeters	Nieuw-Vlaamse Alliantie	2253398908319094	Facebook	f13_17	female (13-17)	1	1	91	45	0	0
-Die Grünen Wien	Die Grünen Wien	88676876113	Facebook	f13_17	female (13-17)	1	1	89	17	1	0
-Councillor Tom Ashton	Thomas Ashton, Dunscroft, Main Road, Wrangle, Boston, Lincolnshire UK. PE22 9AZ	301790566852530	Facebook	f13_17	female (13-17)	1	1	88	0	10	0
-Jesper Petersen	Jesper Petersen	287814831337164	Facebook	f13_17	female (13-17)	1	1	87	17	0	0
-Herczeg Tamás	Nagy Sándor	292787761246129	Facebook	f13_17	female (13-17)	1	1	87	17	0	0
-SPD BRANDENBURG	SPD BRANDENBURG	139470429458087	Facebook	f13_17	female (13-17)	1	1	87	17	1	0
-Junge Liberale JuLis Erfurt	Junge Liberale (JuLis) Erfurt	347832572265719	Facebook	f13_17	female (13-17)	1	1	87	0	8	0
-Βαγγέλης Βαβουλιώτης	Βαβουλιωτης Αθανασιος	386756061904875	Facebook	f13_17	female (13-17)	1	1	82	0	8	0
-Jusos Hamburg	SPD Hamburg	114266450799	Facebook	f13_17	female (13-17)	1	1	80	16	1	0
-Christian Dax	SPÖ Burgenland	1232990493514860	Facebook	f13_17	female (13-17)	1	1	77	0	7	0
-Αριστερή Πρωτοβουλία Γλυφάδας - με την αριστερά της ρήξης & της ανατροπής	Παναγιωτης Βασιλακης	271036136394392	Facebook	f13_17	female (13-17)	1	1	77	0	7	0
-Rasmus Peter Henriksen	Henriksen Rasmus Peter	1522101171358705	Facebook	f13_17	female (13-17)	1	1	72	0	0	0
-Barry Andrews for Europe	Barry Andrews	188114061407	Facebook	f13_17	female (13-17)	1	1	71	0	7	0
-FDP Karlsruhe-Stadt	FDP Kreisverband Karlsruhe-Stadt	342930772424635	Facebook	f13_17	female (13-17)	3	1	69	8	3	0
-Konrad-Adenauer-Stiftung	Konrad-Adenauer-Stiftung	44511549119	Facebook	f13_17	female (13-17)	3	1	69	13	1	0
-Clare Claffey Social Democrats	Social Democrats Laois Offaly	289004898593218	Facebook	f13_17	female (13-17)	1	1	69	0	6	0
-SPD Dresden-West	SPD Ortsverein Dresden-West	164123927360388	Facebook	f13_17	female (13-17)	1	1	63	12	1	0
-Elena Gentile	Elena Gentile	1426435657576038	Facebook	f13_17	female (13-17)	2	1	61	22	0	0
-SPD Remseck am Neckar	SPD Remseck a.N.	347490025813757	Facebook	f13_17	female (13-17)	1	1	60	0	5	0
-Alfred Sant	Alfred Sant	537789116260209	Facebook	f13_17	female (13-17)	5	1	59	11	1	0
-SPD Oberneuland	SPD Oberneuland	1638965259687442	Facebook	f13_17	female (13-17)	1	1	57	0	5	0
-Bündnis 90/Die Grünen Kreisverband Tübingen	Bündnis 90/Die Grünen Kreisverband Tübingen	516823841675813	Facebook	f13_17	female (13-17)	1	1	56	11	1	0
-Enrico Zucchi - Lega Prato	Enrico Zucchi	707579962958222	Facebook	f13_17	female (13-17)	1	1	55	0	5	0
-Miljöpartiet de gröna i Katrineholm	Miljöpartiet de gröna i Katrineholm	744040148974429	Facebook	f13_17	female (13-17)	1	1	54	0	0	0
-Bournemouth Green Party	South East Dorset Green Party	140064492697345	Facebook	f13_17	female (13-17)	1	1	52	26	0	0
-Stop Korki na Bałuckiego		204126866871498	Facebook	f13_17	female (13-17)	1	1	52	0	1	0
-GRAS Innsbruck	Grüne & Alternative Student_innen	169544599829393	Facebook	f13_17	female (13-17)	2	1	51	8	1	0
+DK Nyíregyháza		Demokratikus Koalíció Sz-Sz-B Megye 1-2.	1595121247382392	Facebook	f13_17	female (13-17)	2	1	102	46	0	0
+Liberalerna Stockholm	Liberalerna Stockholm	682180208473039	Facebook	f13_17	female (13-17)	1	1	101	0	0	0
+Emma Bonino	Emma Bonino	9005388225	Facebook	f13_17	female (13-17)	1	1	100	50	0	0
+Andrew George	Andrew George	112564222260460	Facebook	f13_17	female (13-17)	1	1	100	20	2	0
+Joakim Jonsson		506344336447634	Facebook	f13_17	female (13-17)	1	1	99	19	0	0
+Piratepartei Bezierk Norden		494284087327520	Facebook	f13_17	female (13-17)	1	1	99	0	9	0
+Rivivere Borgo con Sunil Pellanda Sindaco	Sunil Pellanda	592540437929912	Facebook	f13_17	female (13-17)	7	1	96	13	4	0
+Aufbruch wagen - SPD Rosenheim	SPD Rosenheim	2285393051781757	Facebook	f13_17	female (13-17)	1	1	95	47	0	0
+LMP Budapest	LMP - Lehet Más a Politika	179392595425293	Facebook	f13_17	female (13-17)	2	1	95	15	0	0
+Ágh Péter	Ágh Péter	694941900537141	Facebook	f13_17	female (13-17)	1	1	94	47	0	0
+Friends of the Earth	Friends of the Earth	110861655604080	Facebook	f13_17	female (13-17)	1	1	93	18	2	0
+SPD Region Hannover	Ermana Nurkovic	110715173724	Facebook	f13_17	female (13-17)	1	1	93	46	0	0
+USR Olt	ANTON SILVIU-CRISTIAN	247245385651467	Facebook	f13_17	female (13-17)	1	1	92	18	0	0
+Jusos Potsdam	Jusos Potsdam	201631939890887	Facebook	f13_17	female (13-17)	2	1	91	0	9	0
+Otto Mahlknecht	Otto Mahlknecht 	106077056742524	Facebook	f13_17	female (13-17)	1	1	90	18	1	0
+Podemos Región de Murcia	Podemos Región de Murcia	1405445633036784	Facebook	f13_17	female (13-17)	1	1	89	0	8	0
+Gabriel Zurlo Sconosciuto, Candidato a Mesagne	Gabriel Zurlo Sconosciuto	586251125203754	Facebook	f13_17	female (13-17)	1	1	88	17	1	0
+Junge Liberale JuLis Saar	FDP Saar	204544519567598	Facebook	f13_17	female (13-17)	1	1	88	17	0	0
+Christoforos Boutsikakis - Χριστόφορος Μπουτσικάκης	Christoforos Emmanouil Boutsikakis	1960918037457211	Facebook	f13_17	female (13-17)	1	1	88	17	1	0
+Παρασκευή Βανδώρου  - Τρίμπου " Μαρούσι  -  Καθαρή Γραμμή"		244985049710619	Facebook	f13_17	female (13-17)	1	1	88	44	0	0
+Danuta Hübner	KKW Koalicja Europejska PO SLD PSL .N Zieloni	458440260940195	Facebook	f13_17	female (13-17)	1	1	87	17	0	0
+Susanna Gideonsson	Handelsanställdas förbund	2256836864595743	Facebook	f13_17	female (13-17)	1	1	86	17	0	0
+David Pokorný	Soska Marek	1675252432766963	Facebook	f13_17	female (13-17)	4	1	84	5	0	0
+Centerpartiet Dalarna	Persson Robert Gote	300963926616	Facebook	f13_17	female (13-17)	1	1	84	16	0	0
+Centerpartiet Lidingö	Patrik Buddgård	370182686393713	Facebook	f13_17	female (13-17)	1	1	84	16	1	0
+El  Porvenir del conceju de Llanes		431392333727579	Facebook	f13_17	female (13-17)	1	1	84	16	0	0
+DIE LINKE. Sachsen	DIE LINKE. Sachsen	142603625775614	Facebook	f13_17	female (13-17)	1	1	83	16	1	0
+Ζωή Ρούσσου	Ζωη Ρουσσου	244182742347802	Facebook	f13_17	female (13-17)	1	1	83	41	0	0
+Junge Union Cottbus	Junge Union Cottbus	113356515366787	Facebook	f13_17	female (13-17)	1	1	81	16	1	0
+Ciudad Rodrigo en Común	Ciudad Rodrigo en Común	210283952340969	Facebook	f13_17	female (13-17)	1	1	81	16	1	0
+ΝΕΑ ΠΑΤΡΑ		473928652684469	Facebook	f13_17	female (13-17)	1	1	79	39	0	0
+Skuteczna modlitwa. Przewodnik		2118896628162986	Facebook	f13_17	female (13-17)	1	1	79	0	1	0
+Squirrels Antiques	Alan Harvey Stone	309405686175567	Facebook	f13_17	female (13-17)	1	1	79	15	1	0
+Matthias Paul - Ihr Bürgermeisterkandidat für Burgdorf	Matthias Paul	587171618465873	Facebook	f13_17	female (13-17)	2	1	78	13	2	0
+tribune.gr	tribune.gr	417373351723406	Facebook	f13_17	female (13-17)	6	1	77	17	1	0
+Uniti per Marano	Gian Luca Gianaroli	260582318183152	Facebook	f13_17	female (13-17)	1	1	77	15	1	0
+Geri Ballo	Gerarta Ballo	2261381937462680	Facebook	f13_17	female (13-17)	1	1	76	15	1	0
+Martina Werner	SPD-Bezirk Hessen-Nord	578604215560969	Facebook	f13_17	female (13-17)	6	1	75	14	1	0
+Socialdemokraterna Kungälv	Kungälvs Socialdemokratiska Arbetarekommun	241319269242484	Facebook	f13_17	female (13-17)	3	1	75	0	0	0
+Vota Essere Varazze, scrivi GUIDO	Andrea Guido	329383094403641	Facebook	f13_17	female (13-17)	1	1	75	37	0	0
+Evaggelos Venizelos	Evaggelos Venizelos	80258823622	Facebook	f13_17	female (13-17)	2	1	75	15	0	0
+Ripamonti Sindaco - Lega Usmate Velate	Francesca Capaccioli	425444267476044	Facebook	f13_17	female (13-17)	8	1	70	10	2	0
+Davide Perrini - Castelletto è Tua		2276687609215791	Facebook	f13_17	female (13-17)	1	1	70	0	7	0
+Thomas Waitz	Die Grünen	235816017203590	Facebook	f13_17	female (13-17)	1	1	70	35	0	0
+Lene Dalsgaard	Gormsen Brian Bagger	457337381442094	Facebook	f13_17	female (13-17)	2	1	70	14	0	0
+Freiheitliche Arbeitnehmer Oberösterreich	Freiheitliche Arbeitnehmer Oberösterreich	346842098763288	Facebook	f13_17	female (13-17)	2	1	69	2	6	0
+Piazza Grande Savigliano - per il Partito Democratico	Alessandro Ghiberti	2275887039358471	Facebook	f13_17	female (13-17)	1	1	69	34	0	0
+Eddie Hughes MP	Eddie Hughes & Walsall Conservatives	1544601488897440	Facebook	f13_17	female (13-17)	2	1	69	13	1	0
+AfD Karlsruhe	AfD Kreisverband Karlsruhe-Stadt	2204908776405936	Facebook	f13_17	female (13-17)	1	1	68	34	0	0
+Cantaluppi Lorenzo	Lorenzo Cantaluppi	684875511722782	Facebook	f13_17	female (13-17)	2	1	67	33	0	0
+SPD Speyer	SPD Speyer	217718761742805	Facebook	f13_17	female (13-17)	2	1	66	13	1	0
+Paweł Tanajno	Paweł Jan Tanajno	469702339755768	Facebook	f13_17	female (13-17)	1	1	65	13	0	0
+Giorgos Amiras - Γιώργος Αμυράς	Giorgos Amiras - Γιώργος Αμυράς	1407652086114560	Facebook	f13_17	female (13-17)	1	1	65	13	0	0
+SPD Gera		433996033389711	Facebook	f13_17	female (13-17)	1	1	65	13	1	0
+SPD Heilbronn im Gemeinderat		189233231683071	Facebook	f13_17	female (13-17)	1	1	65	13	1	0
+Joe Loughnane - People Before Profit Galway City Central	Loughnane Joseph	1881598998726029	Facebook	f13_17	female (13-17)	1	1	64	12	1	0
+Aranzadi		423318967832014	Facebook	f13_17	female (13-17)	1	1	64	12	1	0
+Junge Union Bremen	Junge Union Landesverband Bremen	103714087434	Facebook	f13_17	female (13-17)	2	1	63	10	2	0
+Progressives Bad Kreuznach	Progressives Bad Kreuznach	2153883651391345	Facebook	f13_17	female (13-17)	1	1	63	31	0	0
+Ramieza Mahdi	Mahdi Ramieza Abdirahman Mohamed	268670670234757	Facebook	f13_17	female (13-17)	1	1	62	12	1	0
+PD Bovisio Masciago	Circolo Partito Democratico Bovisio Masciago	415837031877100	Facebook	f13_17	female (13-17)	4	1	62	12	1	0
+Sebastian Striegel	Sebastian Johannes Striegel	1548351238767524	Facebook	f13_17	female (13-17)	1	1	61	12	1	0
+Furious Fights		304303940448018	Facebook	f13_17	female (13-17)	1	1	61	0	0	0
+Darlington Conservative Party	Darlington Conservative Party 	528125197395187	Facebook	f13_17	female (13-17)	1	1	60	0	6	0
+NEOS Niederösterreich	NEOS Niederösterreich	441223455916739	Facebook	f13_17	female (13-17)	1	1	60	12	1	0
+Leon Schwarze	Leon Schwarze	1047441932065318	Facebook	f13_17	female (13-17)	1	1	60	12	1	0
+Pina Picierno	SocialCom	212896992084952	Facebook	f13_17	female (13-17)	2	1	58	15	0	0
+FDP Freiburg	Sascha Fiek	248464662413	Facebook	f13_17	female (13-17)	3	1	58	11	1	0
+Bo Vesterlund i EU	Vesterlund Bo	283364922287542	Facebook	f13_17	female (13-17)	1	1	58	11	0	0
+Guanyar Alcoi		351157775062076	Facebook	f13_17	female (13-17)	1	1	58	0	5	0
+GRAS Innsbruck	Grüne & Alternative Student_innen	169544599829393	Facebook	f13_17	female (13-17)	2	1	57	9	1	0
+Niels Rosenberg	Ole Sander 	340005359469274	Facebook	f13_17	female (13-17)	1	1	57	0	0	0
+Cristian Seidler		150955332037774	Facebook	f13_17	female (13-17)	2	1	56	28	0	0
+Sascha Schlösser - Die Alternative für Erfurt	Sascha Schloesser	2293016507646939	Facebook	f13_17	female (13-17)	3	1	54	10	1	0
+Lise Bech - Dansk Folkeparti	Bech Lise	665462313475794	Facebook	f13_17	female (13-17)	1	1	52	26	0	0
+Save Our NHS Leicestershire	Tom Barker	146757272398355	Facebook	f13_17	female (13-17)	1	1	51	0	5	0
+Fabio Amendolara	Fabio Amendolara	122191987831675	Facebook	f13_17	female (13-17)	5	1	50	10	0	0
+Teuvo Hakkarainen	Riekkovaara Niko Tapani	198979100169761	Facebook	f13_17	female (13-17)	1	1	49	9	0	0
 Diana Morant Ripoll	PSPV-PSOE Gandia	395203127349684	Facebook	f13_17	female (13-17)	1	1	49	24	0	0
-CDU Cottbus	CDU Cottbus	146947498681487	Facebook	f13_17	female (13-17)	2	1	46	7	1	0
-SPD Sachsen	SPD Sachsen	50169278122	Facebook	f13_17	female (13-17)	1	1	45	9	0	0
-Junge Union Mannheim	Junge Union Mannheim	403423809690190	Facebook	f13_17	female (13-17)	2	1	45	0	4	0
-SPD Region Hannover	Ermana Nurkovic	110715173724	Facebook	f13_17	female (13-17)	1	1	45	9	0	0
-Lorenzo Vignali	Lorenzo Vignali	229114191886	Facebook	f13_17	female (13-17)	2	1	41	0	4	0
-Simon Hart MP	Simon Hart MP	914835805358773	Facebook	f13_17	female (13-17)	1	1	41	8	0	0
-Piratenpartei Ansbach Weißenburg-Gunzenhausen	Piratenpartei Ansbach/Weißenburg-Gunzenhausen	113339232140512	Facebook	f13_17	female (13-17)	1	1	40	0	4	0
-Vänsterpartiet Sundbyberg	Vänsterpartiet Sundbyberg	1592860820974499	Facebook	f13_17	female (13-17)	1	1	40	0	0	0
-Luca Vidoni	Luca Onorio Vidoni	392986254173330	Facebook	f13_17	female (13-17)	2	1	38	5	1	0
-Per Chiesina Uzzanese	Per Chiesina Uzzanese - Di Nuovo Insieme	1402850209999395	Facebook	f13_17	female (13-17)	1	1	37	0	3	0
-SPD Oberspreewald-Lausitz	Alexander Krüger	236968340096641	Facebook	f13_17	female (13-17)	2	1	36	7	0	0
-Bündnis 90/Die Grünen Anhalt-Bitterfeld	BÜNDNIS 90/DIE GRÜNEN Kreisverband Anhalt-Bitterfeld	409153932473503	Facebook	f13_17	female (13-17)	2	1	33	0	3	0
-Eraldo Ciangherotti	Eraldo Ciangherotti	1020725961324733	Facebook	f13_17	female (13-17)	1	1	33	6	0	0
-Karsten Hilse	Karsten Hilse 	358099231236311	Facebook	f13_17	female (13-17)	1	1	32	0	3	0
-AfD Stuttgart	AfD Stuttgart	1224202144262985	Facebook	f13_17	female (13-17)	1	1	32	6	0	0
-Talíř do Bruselu	KDU-ČSL	2108659169383946	Facebook	f13_17	female (13-17)	2	1	32	0	0	0
-Cllr Mike Diamond	Cllr Mike Diamond 	1768404463408418	Facebook	f13_17	female (13-17)	1	1	31	0	3	0
-Politik muss wieder für die einfachen Menschen gemacht werden.	Georg Krejci	2060122567590322	Facebook	f13_17	female (13-17)	3	1	31	0	3	0
-USR Gorj	Uniunea Salvați România	979274598853221	Facebook	f13_17	female (13-17)	1	1	30	6	0	0
-Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	f13_17	female (13-17)	2	1	29	7	0	0
-PD Palo del Colle	Gabriella Sasso	1578164322435113	Facebook	f13_17	female (13-17)	1	1	28	5	0	0
-Leon Schwarze	Leon Schwarze	1047441932065318	Facebook	f13_17	female (13-17)	1	1	27	0	2	0
-Zuhal Demir	Nieuw-Vlaamse Alliantie	453932394796444	Facebook	f13_17	female (13-17)	1	1	27	5	0	0
-Alexander Hannes	CSU Kreisverband Regen	287380818788155	Facebook	f13_17	female (13-17)	1	1	25	0	2	0
-MOST nezavisnih lista	MOST nezavisnih lista	388550077899912	Facebook	f13_17	female (13-17)	1	1	25	12	0	0
-Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	f13_17	female (13-17)	1	1	24	0	0	0
-Kristdemokraterna på Gotland	Kristdemokraterna på Gotland	1375539726041747	Facebook	f13_17	female (13-17)	1	1	24	0	0	0
-Landtag von Baden-Württemberg	Landtag von Baden-Württemberg	2015022955380034	Facebook	f13_17	female (13-17)	1	1	23	4	0	0
-Lista Civica "ProgettiAmo Savignano"	Enrico Tagliavini	2111477435580468	Facebook	f13_17	female (13-17)	1	1	23	0	2	0
-Jobbik Rétság	Jobbik Magyarországért Mozgalom	1360301207471601	Facebook	f13_17	female (13-17)	1	1	22	0	0	0
-Stefano Passarini	Stefano Passarini	573828172688916	Facebook	f13_17	female (13-17)	2	1	21	0	2	0
-Kristdemokraterna Falkenberg	Ferris Georgia Minnie Anna	184270554952699	Facebook	f13_17	female (13-17)	1	1	19	0	0	0
-Christian Zoll	Vorarlberger Volkspartei	601419393620184	Facebook	f13_17	female (13-17)	1	1	18	0	1	0
+OliverBasuMallick	Oliver Basu Mallick 	225691741493069	Facebook	f13_17	female (13-17)	2	1	49	9	0	0
+Bradford on Avon Lib Dems	Chippenham Constituency Liberal Democrats	176178532420023	Facebook	f13_17	female (13-17)	1	1	49	9	1	0
+Λιάκος Ευάγγελος	Ευαγγελος Λιακος	988326137896976	Facebook	f13_17	female (13-17)	1	1	48	9	0	0
+Talíř do Bruselu	KDU-ČSL	2108659169383946	Facebook	f13_17	female (13-17)	6	1	48	1	0	0
+Knut Lunks Freie Wählervereinigung Heidelberg e.V.	Knut Henke Lunks	367647217180459	Facebook	f13_17	female (13-17)	1	1	48	24	0	0
+Νίκος Δένδιας	Νίκος Δένδιας	305998399465211	Facebook	f13_17	female (13-17)	3	1	47	23	0	0
+Radu Miruţă	Uniunea Salvați România	348610102203573	Facebook	f13_17	female (13-17)	1	1	46	9	0	0
+Alex Bazzaro	Alex Bazzaro	163927824248716	Facebook	f13_17	female (13-17)	1	1	46	9	0	0
+DIE LINKE. Hansestadt Rostock		196475853716911	Facebook	f13_17	female (13-17)	1	1	45	9	0	0
+Movimento Cinque Stelle Folignano	Diego Di Ovidio	363976727107282	Facebook	f13_17	female (13-17)	7	1	45	8	1	0
+Κατερίνα Ζουμπατλή - Caterina Zoubatli	Αικατερινη Ζουμπατλη	406327060099280	Facebook	f13_17	female (13-17)	2	1	44	16	0	0
+SPD Rheydt / Odenkirchen	Christoph Tenberken 	1558516437749530	Facebook	f13_17	female (13-17)	1	1	43	8	0	0
+Norbert Kleinwächter		346613215704870	Facebook	f13_17	female (13-17)	1	1	43	8	0	0
+Timo Fischer	Timo Fischer	2150569171631747	Facebook	f13_17	female (13-17)	1	1	42	21	0	0
+FDP Kreisverband Bonn	FDP Kreisverband Bonn	215346935169485	Facebook	f13_17	female (13-17)	1	1	42	8	0	0
+SPD Aschersleben	SPD	213060275423684	Facebook	f13_17	female (13-17)	1	1	41	8	0	0
+Global Strike For Future Kungsbacka	Borg Bjorn Gustav Emanuel Simon	2421479197884767	Facebook	f13_17	female (13-17)	1	1	40	0	1	0
+Gottfried Waldhäusl	FPÖ Niederösterreich	627580790692097	Facebook	f13_17	female (13-17)	2	1	40	17	0	0
+Enhedslisten Brøndby		634536693240366	Facebook	f13_17	female (13-17)	1	1	39	0	0	0
+DIE LINKE. Heidelberg		125560594141192	Facebook	f13_17	female (13-17)	1	1	39	7	0	0
+Partito Democratico di Padova	Partito Democratico di Padova	275657555944127	Facebook	f13_17	female (13-17)	1	1	39	7	0	0
+Málaga Ahora	Málaga Ahora	781552348595473	Facebook	f13_17	female (13-17)	1	1	38	0	3	0
+Stefan Schwartze	Stefan Schwartze	444872249052425	Facebook	f13_17	female (13-17)	1	1	38	7	0	0
+Sanremo al Centro	Alberto Biancheri - Mandatario elettorale Mauro Giancaterino	688834634807723	Facebook	f13_17	female (13-17)	3	1	38	15	0	0
+Giurgiu-acid.ro		1938045996436420	Facebook	f13_17	female (13-17)	1	1	37	7	0	0
+knopi41	Hendrik Knop	410145443134612	Facebook	f13_17	female (13-17)	2	1	37	5	1	0
+SPD-Ortsverein Spaichingen-Heuberg	SPD Ortsverein Spaichingen-Heuberg	156548791101257	Facebook	f13_17	female (13-17)	1	1	37	7	0	0
+Marion Parnis	Marion Parnis	123892568288417	Facebook	f13_17	female (13-17)	1	1	37	0	3	0
+Davide Milan	Davide Milan	192738147436471	Facebook	f13_17	female (13-17)	1	1	37	0	3	0
+AfD Hamburg-Wandsbek		906048772822472	Facebook	f13_17	female (13-17)	1	1	37	7	0	0
+L'Unità dei Comunisti Casa della Sinistra - Belpasso	Massimo Vallone	314161845659945	Facebook	f13_17	female (13-17)	1	1	36	7	0	0
+Καπλάνης Νικόλαος-Υποψήφιος Ευρωβουλευτής		1279983575473687	Facebook	f13_17	female (13-17)	1	1	35	17	0	0
+Martin Dulig	SPD Sachsen	477257932385743	Facebook	f13_17	female (13-17)	2	1	34	14	0	0
+AfD Magdeburg	AfD Magdeburg	235630759933135	Facebook	f13_17	female (13-17)	1	1	34	6	0	0
+Ελένη Τέτου	Stavros Karypidis	2260197024192013	Facebook	f13_17	female (13-17)	5	1	32	6	0	0
+Jan Olsson	Jan Olsson 	1036735923117842	Facebook	f13_17	female (13-17)	1	1	32	6	0	0
+Fratelli d'Italia - Chiesina Uzzanese	Lorenzo Vignali	838044869621504	Facebook	f13_17	female (13-17)	1	1	31	6	0	0
+Ηλίας Μουρκογιάννης	Ηλιας Μουρκογιαννης	378586679440957	Facebook	f13_17	female (13-17)	1	1	31	15	0	0
+Kommunistiska Partiet Karlstad	Wiklund Thomas Anders Goran	188106197905255	Facebook	f13_17	female (13-17)	1	1	31	6	0	0
+KPÖ Graz	KPÖ Graz	167792116901542	Facebook	f13_17	female (13-17)	1	1	31	15	0	0
+Udo Bullmann	Udo Bullmann	68936775929	Facebook	f13_17	female (13-17)	1	1	30	15	0	0
+Ομάδα Φίλων ΕΔΕΜ	Maria Misentou	1607773836152279	Facebook	f13_17	female (13-17)	2	1	30	0	3	0
+Stefan Schade - Stadtrat für Erfurt		253740755532692	Facebook	f13_17	female (13-17)	1	1	30	6	0	0
+Luca Vecchi	Comitato Elettorale Luca Vecchi 2024	245475858955495	Facebook	f13_17	female (13-17)	1	1	29	5	0	0
+MH TIMES	MINCULEASA CLAUDIU-NICOLAE	559977200816313	Facebook	f13_17	female (13-17)	1	1	29	14	0	0
+Comunitatea PLUS+ Jucu		371511120359966	Facebook	f13_17	female (13-17)	1	1	29	0	0	0
+Piratepartei Gemeng Diddeleng		171972036995630	Facebook	f13_17	female (13-17)	1	1	29	0	2	0
+Satu Jaatinen 216		611696415923639	Facebook	f13_17	female (13-17)	1	1	28	5	0	0
+Socialni demokrati (SD)	Socialni demokrati (SD)	12676777580	Facebook	f13_17	female (13-17)	3	1	28	5	0	0
+Bündnis 90 / Die Grünen Kreisverband Ortenau	Domenic Markus Preukschas	195589923029	Facebook	f13_17	female (13-17)	1	1	26	5	0	0
+Cllr Fran Carpenter	Fran Carpenter	1696934723855624	Facebook	f13_17	female (13-17)	1	1	25	0	2	0
+Piratenpartei Bonn	Piratenpartei	150291295093342	Facebook	f13_17	female (13-17)	1	1	25	5	0	0
+Paul Ziemiak	Paul Ziemiak	1067821176570031	Facebook	f13_17	female (13-17)	2	1	24	6	0	0
+Business.it	Business.it	673556626032617	Facebook	f13_17	female (13-17)	2	1	24	4	0	0
+VOA - Глас на Америка		176413438620	Facebook	f13_17	female (13-17)	1	1	24	0	2	0
+Chris Green	Chris Green MP	249684318543741	Facebook	f13_17	female (13-17)	1	1	24	4	0	0
+Beckha Doyle - Social Democrat for Scarriff & Killaloe	Beckha Doyle For Scarriff Killaloe	286051255266972	Facebook	f13_17	female (13-17)	2	1	23	0	2	0
+Sarah Jones MP - Standing Up for Croydon	Sarah Jones MP	130987447098320	Facebook	f13_17	female (13-17)	1	1	23	4	0	0
+Pamela Rendi-Wagner	SPÖ-Parlamentsklub	1673371229636129	Facebook	f13_17	female (13-17)	1	1	22	11	0	0
+Jussi Mäkipelto - Eurovaaliehdokas 105 - Liberaalipuolue	Makipel To Jussi Markus	1057558317751103	Facebook	f13_17	female (13-17)	1	1	22	0	2	0
+Endlebury Conservatives	Endlebury Conservatives	1530553077072967	Facebook	f13_17	female (13-17)	1	1	22	0	2	0
+Νικόλαος Ταμουρίδης		393583201478905	Facebook	f13_17	female (13-17)	1	1	22	4	0	0
+Austrian World Summit	R2o Austria & EU	1852365868311086	Facebook	f13_17	female (13-17)	4	1	21	1	1	0
+Kirsten Eink	Kirsten Eink 	1684742308321918	Facebook	f13_17	female (13-17)	1	1	21	4	0	0
+CDU Oberndorf a.N.	CDU Oberndorf a.N.	263426807165955	Facebook	f13_17	female (13-17)	1	1	21	4	0	0
+Hyndburn Labour	Graham Peter Jones	824019727657580	Facebook	f13_17	female (13-17)	1	1	21	0	2	0
+Εφημερίδα Πατρίς	Digital Solutions	480080462017104	Facebook	f13_17	female (13-17)	1	1	21	4	0	0
+Kommunalwahl Jena 2019	Richard Machnik	1118361515010184	Facebook	f13_17	female (13-17)	1	1	21	4	0	0
+Freiheitliche Bauernschaft Oberösterreich	Freiheitliche Bauernschaft Oberösterreich	124298681063701	Facebook	f13_17	female (13-17)	1	1	20	10	0	0
+CAFOD	CAFOD	19895907944	Facebook	f13_17	female (13-17)	2	1	20	0	2	0
+Vänsterpartiet Sollentuna	Lindström Dira Louise Ghadir	198650703984891	Facebook	f13_17	female (13-17)	1	1	20	0	0	0
+IG Metall	IG Metall	249296718436	Facebook	f13_17	female (13-17)	1	1	20	4	0	0
+LKS Brandenburg	Landeskoordinierungsstelle für LesBiSchwule & Trans* Belange des Landes Brandenburg	435393940553194	Facebook	f13_17	female (13-17)	1	1	20	4	0	0
+SPD Münster	SPD Münster	123350685201	Facebook	f13_17	female (13-17)	1	1	19	3	0	0
+Per Casier - Guardati Sindaco	Simona Guardati	1424962564426141	Facebook	f13_17	female (13-17)	2	1	19	8	0	0
+Sandra x Tomiño	Bloque Nacionalista Galego de Tomiño	623179161441345	Facebook	f13_17	female (13-17)	2	1	18	3	0	0
+Kristdemokraterna Falkenberg	Ferris Georgia Minnie Anna	184270554952699	Facebook	f13_17	female (13-17)	1	1	18	0	0	0
 Luisa Regimenti	Luisa Regimenti	201996906606311	Facebook	f13_17	female (13-17)	1	1	18	9	0	0
-Ionel Bogdan	Rus Alexandra	1449284915381234	Facebook	f13_17	female (13-17)	1	1	17	0	0	0
-Herwig Mahr	Freiheitlicher Landtagsklub Oberösterreich	212990319049096	Facebook	f13_17	female (13-17)	1	1	16	8	0	0
-Νότης Μαριάς, Ανεξάρτητος Ευρωβουλευτής	Επαμεινωνδας Μαριας	337788662974718	Facebook	f13_17	female (13-17)	1	1	16	3	0	0
+Tobias Jürschke		296545291018094	Facebook	f13_17	female (13-17)	1	1	17	0	1	0
+Compromís Per Meliana	Joan Orts Ruiz	1557491081129008	Facebook	f13_17	female (13-17)	3	1	17	2	0	0
+Compromiso Carballo		293036537520586	Facebook	f13_17	female (13-17)	1	1	17	8	0	0
+Anticapitalistas Murcia	Anticapitalistas Región de Murcia	448332748542132	Facebook	f13_17	female (13-17)	1	1	17	3	0	0
+CDU Lohmar	CDU Lohmar	870550286426379	Facebook	f13_17	female (13-17)	3	1	15	0	1	0
+René Springer	René Springer	180406922444317	Facebook	f13_17	female (13-17)	1	1	15	0	1	0
+Robert Eggleston	Mid Sussex Liberal Democrats 	507679073044664	Facebook	f13_17	female (13-17)	1	1	15	3	0	0
+BÜNDNIS90/ DIE GRÜNEN Leinfelden-Echterdingen		1528281827459641	Facebook	f13_17	female (13-17)	1	1	15	3	0	0
 Marie-Agnes Strack-Zimmermann	Marie-Agnes Strack-Zimmermann	782677895144628	Facebook	f13_17	female (13-17)	1	1	15	0	1	0
-CDU Stadtverband Nauen	CDU Nauen	425338230825019	Facebook	f13_17	female (13-17)	1	1	15	0	1	0
-MalnateSostenibile	Lista civica Malnate Sostenibile	397809613568460	Facebook	f13_17	female (13-17)	2	1	15	0	1	0
-PNL Bucuresti	Rus Alexandra	678840505584990	Facebook	f13_17	female (13-17)	2	1	15	6	0	0
-Sven Giegold	Sven Giegold	1391306014465513	Facebook	f13_17	female (13-17)	3	1	15	7	0	0
-Cavezzo Viva - Associazione Culturale	Enrico Malverti	619037048529553	Facebook	f13_17	female (13-17)	1	1	14	0	1	0
-Matthias Paul - Ihr Bürgermeisterkandidat für Burgdorf	Matthias Paul	587171618465873	Facebook	f13_17	female (13-17)	1	1	13	0	1	0
-Movimento Cinque Stelle Folignano	Diego Di Ovidio	363976727107282	Facebook	f13_17	female (13-17)	3	1	13	2	0	0
-Partito Democratico di Padova	Partito Democratico di Padova	275657555944127	Facebook	f13_17	female (13-17)	1	1	12	6	0	0
-Bradford on Avon Lib Dems	Chippenham Constituency Liberal Democrats	176178532420023	Facebook	f13_17	female (13-17)	1	1	12	0	1	0
-Empoli Ecologista per Beatrice Cioni sindaco	Giuseppe Pluchino	1323687517793993	Facebook	f13_17	female (13-17)	2	1	11	1	0	0
-CDU Wäschenbeuren	CDU Wäschenbeuren	642876995786514	Facebook	f13_17	female (13-17)	1	1	11	0	1	0
-Sandra x Tomiño	Bloque Nacionalista Galego de Tomiño	623179161441345	Facebook	f13_17	female (13-17)	1	1	11	2	0	0
-Fridays For Future Treviso	Ettore Casellato	1893610467414052	Facebook	f13_17	female (13-17)	1	1	11	0	1	0
-Squirrels Antiques	Alan Harvey Stone	309405686175567	Facebook	f13_17	female (13-17)	1	1	11	0	1	0
-Giovanni Russo	Giovanni Russo	1590626850978164	Facebook	f13_17	female (13-17)	1	1	11	2	0	0
-SPD POTSDAM	SPD Potsdam	123837087688700	Facebook	f13_17	female (13-17)	1	1	11	0	1	0
-Fabio Candalice	Fabio Candalice	929896213793987	Facebook	f13_17	female (13-17)	1	1	10	2	0	0
-Νίκος Χουντής-Nikos Chountis	Konstantinos Siampanopoulos	462603193829493	Facebook	f13_17	female (13-17)	1	1	10	5	0	0
-Silvia Sardone	Silvia Sardone	667483386685540	Facebook	f13_17	female (13-17)	1	1	8	0	0	0
-Fabio Amendolara	Fabio Amendolara	122191987831675	Facebook	f13_17	female (13-17)	2	1	8	1	0	0
-Rivivere Borgo con Sunil Pellanda Sindaco	Sunil Pellanda	592540437929912	Facebook	f13_17	female (13-17)	1	1	8	0	0	0
-Bündnis 90 / Die Grünen Gera	Thomas Michael Wieden	260306127714114	Facebook	f13_17	female (13-17)	1	1	8	0	0	0
-Antonio Morales Méndez	Nueva Canarias	972435506102094	Facebook	f13_17	female (13-17)	1	1	8	1	0	0
-Bündnis 90 / Die Grünen Kreisverband Ortenau	Domenic Markus Preukschas	195589923029	Facebook	f13_17	female (13-17)	1	1	7	0	0	0
+AStA Uni Münster	AStA Uni Münster	636844309705837	Facebook	f13_17	female (13-17)	1	1	14	7	0	0
+Enhedslisten Gladsaxe	partiet Enhedslisten	253472068123341	Facebook	f13_17	female (13-17)	2	1	14	0	0	0
+Τοπική Ενότητα Πεδινήσ	Καροππι Χρηστος	358636634760588	Facebook	f13_17	female (13-17)	1	1	14	2	0	0
+Skiftet	Skiftet	100650935646	Facebook	f13_17	female (13-17)	2	1	14	1	0	0
+Eaj Pnv Bergara	EAJ-PNV	1545961079001852	Facebook	f13_17	female (13-17)	1	1	14	2	0	0
+PCTE Asturies		1468898180067574	Facebook	f13_17	female (13-17)	1	1	14	2	0	0
+Mary Gauci		1733645339991743	Facebook	f13_17	female (13-17)	1	1	14	2	0	0
+Bündnis 90 / Die Grünen Pulheim	Bündnis90/DieGrünen	432699783473251	Facebook	f13_17	female (13-17)	1	1	13	2	0	0
+Christoph Högel - AfD	Christoph Högel	316177542661181	Facebook	f13_17	female (13-17)	1	1	13	2	0	0
+SPD Heidekreis	Stephanie Havemann	513311682127338	Facebook	f13_17	female (13-17)	1	1	12	0	1	0
+Fratelli d'Italia Civita Castellana	Fratelli d'Italia Civita Castellana	799617696744055	Facebook	f13_17	female (13-17)	1	1	12	2	0	0
+PS Mons-Borinage		132596773464688	Facebook	f13_17	female (13-17)	1	1	12	0	1	0
+Brexit Votes Matter	Brexit Defence Force	2419328181441973	Facebook	f13_17	female (13-17)	2	1	12	2	0	0
+Giovanni Russo	Giovanni Russo	1590626850978164	Facebook	f13_17	female (13-17)	1	1	12	2	0	0
+Gökhan Kahraman - Bündnis 90/Die Grünen		418176962305100	Facebook	f13_17	female (13-17)	1	1	12	6	0	0
+Ortsbeiratsliste Gelsdorf - SPD Grafschaft	Axel Bend	389734388547572	Facebook	f13_17	female (13-17)	1	1	11	0	1	0
+Δαριβέρη Ιωάννα	Galanisgas	649873868400170	Facebook	f13_17	female (13-17)	1	1	11	2	0	0
+Jonas Hoffmann	Jonas Hoffmann	1757879291167211	Facebook	f13_17	female (13-17)	1	1	11	2	0	0
+Lista  Insieme per Poirino	Pier Antonio Pasquero	478151245572856	Facebook	f13_17	female (13-17)	3	1	10	0	1	0
+Nurten Yilmaz	Nurten Yilmaz	160128484173405	Facebook	f13_17	female (13-17)	1	1	10	2	0	0
+Марина Кальюранд		1819805324767935	Facebook	f13_17	female (13-17)	1	1	10	2	0	0
+Kristdemokraterna i Gagnef	Kristdemokraterna Dalarna	273483286188959	Facebook	f13_17	female (13-17)	1	1	9	0	0	0
+Christos Theodoropoulos	Christos Theodoropoulos	423883275016559	Facebook	f13_17	female (13-17)	2	1	9	3	0	0
+Partito Socialista Italiano f.ne di Teramo		161399151101326	Facebook	f13_17	female (13-17)	1	1	9	1	0	0
+Cornelius Hummel	Cornelius Hummel	2340231972875779	Facebook	f13_17	female (13-17)	2	1	8	0	0	0
+Maria A. Paulaki		574556413037959	Facebook	f13_17	female (13-17)	1	1	8	1	0	0
+Constanta 100%		482887325059745	Facebook	f13_17	female (13-17)	1	1	8	0	0	0
+Eaj Azpeitia	EAJ-PNV	1477625715685677	Facebook	f13_17	female (13-17)	1	1	8	1	0	0
+Zero Waste Greece		344961513035311	Facebook	f13_17	female (13-17)	1	1	8	0	0	0
+Jeszenszki András	MSZP	440197766088272	Facebook	f13_17	female (13-17)	1	1	7	0	0	0
+Lamprinos-Vlattas Efstratios - Stratos	Ευστρατιος Λαμπρινος Βλαττας	378201616112682	Facebook	f13_17	female (13-17)	1	1	7	0	0	0
+Βέργουλας Γεώργιος	Maria-Amalia Vergoula	370968586857091	Facebook	f13_17	female (13-17)	1	1	7	1	0	0
+Paweł Krutul	Komitet Wyborczy Wiosna Roberta Biedronia	1798798630436202	Facebook	f13_17	female (13-17)	1	1	7	0	0	0
 Algeciras "Por y Para"		651685141921384	Facebook	f13_17	female (13-17)	1	1	7	0	0	0
-Gianluca Festa	Gianluca Festa	1414627525508278	Facebook	f13_17	female (13-17)	1	1	7	1	0	0
-Ripamonti Sindaco - Lega Usmate Velate	Francesca Capaccioli	425444267476044	Facebook	f13_17	female (13-17)	1	1	6	0	0	0
-SPD Bitterfeld-Wolfen	SPD Ortsverein Bitterfeld-Wolfen	131796416966341	Facebook	f13_17	female (13-17)	1	1	6	0	0	0
-INBOX	New Digital Media	369693523475596	Facebook	f13_17	female (13-17)	2	1	6	1	0	0
-Beckha Doyle - Social Democrat for Scarriff & Killaloe	Beckha Doyle For Scarriff Killaloe	286051255266972	Facebook	f13_17	female (13-17)	1	1	5	0	0	0
-Sarah Jones MP - Standing Up for Croydon	Sarah Jones MP	130987447098320	Facebook	f13_17	female (13-17)	1	1	5	0	0	0
-Cristian Bușoi	Rus Alexandra	112332998808842	Facebook	f13_17	female (13-17)	1	1	4	0	0	0
+SPD-Bundestagsfraktion	SPD-Bundestagsfraktion	144380008933707	Facebook	f13_17	female (13-17)	2	1	6	3	0	0
+Fundació Nexe		167062453314438	Facebook	f13_17	female (13-17)	2	1	6	1	0	0
+PSPV Meliana	Manuel Carrasquero Viana	103012326454230	Facebook	f13_17	female (13-17)	1	1	5	0	0	0
+Movimento Pelas Nações		2605012812858169	Facebook	f13_17	female (13-17)	1	1	5	0	0	0
+Compromís Per Canals	Compromís	747961705317569	Facebook	f13_17	female (13-17)	2	1	5	1	0	0
+CDU Darmstadt	CDU Kreisverband Darmstadt	192894677394511	Facebook	f13_17	female (13-17)	1	1	4	0	0	0
 ВМРО Горна Оряховица		245988949432379	Facebook	f13_17	female (13-17)	1	1	4	0	0	0
-Fridays For Future - Forlì	Fridays For Future Forlì	834339196918688	Facebook	f13_17	female (13-17)	1	1	3	0	0	0
-Genova che osa	Genova che osa	1538926219695299	Facebook	f13_17	female (13-17)	1	1	3	0	0	0
-Lise Bech - Dansk Folkeparti	Bech Lise	665462313475794	Facebook	f13_17	female (13-17)	1	1	2	0	0	0
+Fofi Gennimata	Κίνημα Αλλαγής	67561345728	Facebook	f13_17	female (13-17)	1	1	3	0	0	0
+Sebastian Lucke	Sebastian Lucke	199847787087074	Facebook	f13_17	female (13-17)	1	1	3	0	0	0
+SFP i Egentliga Finland / RKP Varsinais-Suomi	SFP i Egentliga Finland	169404349771683	Facebook	f13_17	female (13-17)	1	1	3	0	0	0
+Cgil Puglia	Giuseppe Marco Binetti	406962326129744	Facebook	f13_17	female (13-17)	1	1	3	0	0	0
+RitmoLento		1197605863586683	Facebook	f13_17	female (13-17)	1	1	3	0	0	0
+DK Nagykanizsa	Demokratikus Koalíció	704399322958470	Facebook	f13_17	female (13-17)	1	1	2	0	0	0
+Folketingskandidat - Claus Bøgh Svenningsen	Svenningsen Claus Bogh	1392451360871381	Facebook	f13_17	female (13-17)	1	1	2	0	0	0
+Βασίλης Ζαρκωτός - Οικονομολόγος, υποψ. δημοτικός σύμβουλος Βριλησσίων		2451229315147038	Facebook	f13_17	female (13-17)	1	1	2	0	0	0
+Kommunalwahlen 2019 Ludwigshafen		607737313075178	Facebook	f13_17	female (13-17)	1	1	2	0	0	0
+Mehr Wirtschaft wagen	Arbeitgeberverband Gesamtmetall	1805769829749530	Facebook	f13_17	female (13-17)	1	1	1	0	0	0
+SP	SP	128393027527	Facebook	f13_17	female (13-17)	1	1	1	0	0	0

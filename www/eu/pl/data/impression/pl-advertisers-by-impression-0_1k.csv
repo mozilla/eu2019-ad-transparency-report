@@ -1,50 +1,137 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	impression_code_filter	impression_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Bogusław Sonik	KWW KOALICJA EUROPEJSKA PO PSL SLD .N ZIELONI	75775141409	Facebook	0_1k	0 - 1k	PL	Poland	15	1	14985	0	345	0
-Krzysztof Bosak	Konfederacja KORWiN Braun Liroy Narodowcy	141833139301	Facebook	0_1k	0 - 1k	PL	Poland	6	1	5994	0	138	0
-Michał Wawrykiewicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	835519263468051	Facebook	0_1k	0 - 1k	PL	Poland	6	1	5993	0	138	0
-Krzysztof Hetman	Krzysztof Hetman KKW Koalicja Europejska PO PSL SLD .N Zieloni	1607487699534202	Facebook	0_1k	0 - 1k	PL	Poland	5	1	4994	0	115	0
-Patryk Fajdek	KW Wiosna Roberta Biedronia	396085477167186	Facebook	0_1k	0 - 1k	PL	Poland	5	1	4994	0	115	0
-Tomasz Leśniak	KW Wiosna Roberta Biedronia	397430734381499	Facebook	0_1k	0 - 1k	PL	Poland	5	1	4994	0	115	0
-Danuta Hübner	KKW Koalicja Europejska PO SLD PSL .N Zieloni	458440260940195	Facebook	0_1k	0 - 1k	PL	Poland	4	1	3995	0	92	0
-Marcin Gołaszewski	Marcin Łukasz Gołaszewski 	1500359650261089	Facebook	0_1k	0 - 1k	PL	Poland	4	1	3995	0	92	0
-Bogdan Rzońca	Blue Data Bay Sp. z o.o.	247239865295508	Facebook	0_1k	0 - 1k	PL	Poland	3	1	2996	0	69	0
-Karol Karski	Komitet Wyborczy Prawa i Sprawiedliwości	612725748801524	Facebook	0_1k	0 - 1k	PL	Poland	3	1	2996	0	69	0
+Andrzej Kisielewicz	KW Prawo i Sprawiedliwość	1550061501790606	Facebook	0_1k	0 - 1k	PL	Poland	68	1	67932	0	1566	0
+Stanisław Tyszka - Kukiz'15	Komitet Wyborczy Wyborców KUKIZ15	930978763646427	Facebook	0_1k	0 - 1k	PL	Poland	33	1	32966	0	760	0
+Danuta Hübner	KKW Koalicja Europejska PO SLD PSL .N Zieloni	458440260940195	Facebook	0_1k	0 - 1k	PL	Poland	24	1	23976	0	552	0
+KUKIZ'15	Komitet Wyborczy Wyborców Kukiz'15	328170794051845	Facebook	0_1k	0 - 1k	PL	Poland	18	1	17979	0	414	0
+Krzysztof Bosak	Konfederacja KORWiN Braun Liroy Narodowcy	141833139301	Facebook	0_1k	0 - 1k	PL	Poland	17	1	16983	0	391	0
+Karol Karski	Komitet Wyborczy Prawa i Sprawiedliwości	612725748801524	Facebook	0_1k	0 - 1k	PL	Poland	17	1	16869	0	388	0
+Front Europejski	Medium: agencja reklamowa	590514511295079	Facebook	0_1k	0 - 1k	PL	Poland	16	1	15978	0	368	0
+Gazeta Wyborcza	Gazeta Wyborcza	63563473556	Facebook	0_1k	0 - 1k	PL	Poland	15	1	14979	0	345	0
+Miłosława - Miłka Stępień	Partia Zieloni	1045756882124385	Facebook	0_1k	0 - 1k	PL	Poland	13	1	12987	0	299	0
+Tomasz Latos	KW Prawo i Sprawiedliwość	308684629246305	Facebook	0_1k	0 - 1k	PL	Poland	12	1	11988	0	276	0
+Agnieszka Ścigaj - Poseł na Sejm RP	Komitet Wyborczy Wyborców KUKIZ15	1476482495991048	Facebook	0_1k	0 - 1k	PL	Poland	9	1	8991	0	207	0
+Patryk Fajdek	KW Wiosna Roberta Biedronia	396085477167186	Facebook	0_1k	0 - 1k	PL	Poland	9	1	8991	0	207	0
+Anita Kucharska-Dziedzic	KW Wiosna Roberta Biedronia	402330900557208	Facebook	0_1k	0 - 1k	PL	Poland	9	1	8991	0	207	0
+Marek Belka	Marek Marian Belka	254834855469973	Facebook	0_1k	0 - 1k	PL	Poland	8	1	7992	0	184	0
+Krzysztof Jurgiel	Overs sp. z o.o.	465990636788016	Facebook	0_1k	0 - 1k	PL	Poland	8	1	7930	0	182	0
+Maciej Józefowicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	157504851851399	Facebook	0_1k	0 - 1k	PL	Poland	7	1	6993	0	161	0
+Lepiej wybierz	Katarzyna Stańczak	304972010400039	Facebook	0_1k	0 - 1k	PL	Poland	7	1	6989	0	161	0
+Prawo i Sprawiedliwość	Komitet Wyborczy Prawo i Sprawiedliwość	157458232131	Facebook	0_1k	0 - 1k	PL	Poland	7	1	6986	0	161	0
+Konfederacja KORWiN Braun Liroy Narodowcy	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1971966879776579	Facebook	0_1k	0 - 1k	PL	Poland	7	1	6986	0	161	0
+Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	0_1k	0 - 1k	PL	Poland	6	1	5994	0	138	0
+Marcin Gołaszewski	Marcin Łukasz Gołaszewski 	1500359650261089	Facebook	0_1k	0 - 1k	PL	Poland	6	1	5994	0	138	0
+Tomasz Leśniak	KW Wiosna Roberta Biedronia	397430734381499	Facebook	0_1k	0 - 1k	PL	Poland	6	1	5994	0	138	0
+Sabina Obwiosło-Budzyń	KW Wiosna Roberta Biedronia 	371048117077022	Facebook	0_1k	0 - 1k	PL	Poland	6	1	5994	0	138	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	0_1k	0 - 1k	PL	Poland	6	1	5993	0	593	0
+Konfederacja Zach-Pom	Andrzej Ostrowski	1249992775165697	Facebook	0_1k	0 - 1k	PL	Poland	5	1	4995	0	115	0
+Michał Boni	KKW Koalicja Europejska PO PSL SLD .N Zieloni	693499534003775	Facebook	0_1k	0 - 1k	PL	Poland	5	1	4994	0	115	0
+Stanisław Żmijan	MarkNeting Sp. z o.o.	436755540466865	Facebook	0_1k	0 - 1k	PL	Poland	5	1	4994	0	115	0
+Ewa Głowacka - Kandydat do PE z ramienia SBB, lista Kukiz'15, poz.5	Komitet Wyborczy Wyborców KUKIZ15	2249846945096856	Facebook	0_1k	0 - 1k	PL	Poland	5	1	4994	0	115	0
+Bogusław Sonik	KWW KOALICJA EUROPEJSKA PO PSL SLD .N ZIELONI	75775141409	Facebook	0_1k	0 - 1k	PL	Poland	5	1	4994	0	115	0
+Bartosz Arłukowicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	152299864806918	Facebook	0_1k	0 - 1k	PL	Poland	5	1	4994	0	115	0
+Justyna Żalek	Komitet Wyborczy KW Prawo i Sprawiedliwość	548488178922480	Facebook	0_1k	0 - 1k	PL	Poland	5	1	4994	0	115	0
+Federacja dla Rzeczypospolitej Powiat wałecki	Kamil Stanisław Łazarski	623461921444850	Facebook	0_1k	0 - 1k	PL	Poland	4	1	3996	0	92	0
+Paweł Tanajno	Paweł Jan Tanajno	469702339755768	Facebook	0_1k	0 - 1k	PL	Poland	4	1	3995	0	92	0
+Platforma Obywatelska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	102931488739	Facebook	0_1k	0 - 1k	PL	Poland	4	1	3995	0	92	0
+Waldemar Andzel Poseł na Sejm RP	KW Prawo i Sprawiedliwość	173816296461426	Facebook	0_1k	0 - 1k	PL	Poland	4	1	3995	0	92	0
+Adam Bielan	KW PRAWO I SPRAWIEDLIWOŚĆ	228951150597089	Facebook	0_1k	0 - 1k	PL	Poland	4	1	3977	0	91	0
+Plastic Free Polska	Plastic Free Polska	2162232717176151	Facebook	0_1k	0 - 1k	PL	Poland	4	1	3954	0	91	0
+Piotr Müller	Cezary Puławski	267686749910602	Facebook	0_1k	0 - 1k	PL	Poland	3	1	2997	0	69	0
+Przemysław Przybylski	Komitet Wyborczy Prawo i Sprawiedliwość	256850261180940	Facebook	0_1k	0 - 1k	PL	Poland	3	1	2997	0	69	0
+Krystiana Drozd do Parlamentu Europejskiego	KKW Koalicja Europejska PO PSL SLD .N Zieloni	331612664063134	Facebook	0_1k	0 - 1k	PL	Poland	3	1	2996	0	69	0
+Andrzej Halicki	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	370319116027	Facebook	0_1k	0 - 1k	PL	Poland	3	1	2996	0	69	0
+Grzegorz Tobiszowski	KW Prawo i Sprawiedliwość	146655395680362	Facebook	0_1k	0 - 1k	PL	Poland	3	1	2996	0	69	0
+Michał Wawrykiewicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	835519263468051	Facebook	0_1k	0 - 1k	PL	Poland	3	1	2996	0	69	0
+Tomasz Piotr Solis	Rafał Kamieniecki 	246042109419324	Facebook	0_1k	0 - 1k	PL	Poland	3	1	2996	0	69	0
+Konstanty Radziwiłł	KW PRAWO I SPRAWIEDLIWOŚĆ	928240283878303	Facebook	0_1k	0 - 1k	PL	Poland	3	1	2996	0	69	0
+Izabela Kloc	Komitet Wyborczy Prawo i Sprawidliwość	171128483067743	Facebook	0_1k	0 - 1k	PL	Poland	3	1	2996	0	69	0
+Tomasz Frankowski	KWW Koalicja Europejska PO PSL SLD .N Zieloni	2273340699395517	Facebook	0_1k	0 - 1k	PL	Poland	3	1	2996	0	69	0
+Anna Fotyga - Biuro Poselskie	KW Prawo i Sprawiedliwość	1467418970166506	Facebook	0_1k	0 - 1k	PL	Poland	3	1	2996	0	69	0
+Wojciech Czypicki	KW Wiosna Roberta Biedroni	403357120492005	Facebook	0_1k	0 - 1k	PL	Poland	3	1	2996	0	69	0
 Zarabiajwdomu	Piotr Adrian Tyrkalski	1725825690853452	Facebook	0_1k	0 - 1k	PL	Poland	3	1	2996	0	69	0
-Przemysław Przybylski	Komitet Wyborczy Prawo i Sprawiedliwość	256850261180940	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
-Krzysztof Jurgiel	Overs sp. z o.o.	465990636788016	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
-Paweł Tanajno	Paweł Jan Tanajno	469702339755768	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
+Jacek Protas	KKW Koalicja Europejska PO PSL SLD .N Zieloni 	130955346972893	Facebook	0_1k	0 - 1k	PL	Poland	3	1	2995	0	69	0
+European Commission	European Commission	107898832590939	Facebook	0_1k	0 - 1k	PL	Poland	3	1	2002	0	198	0
+Porozumienie - Poznań	Rafał Jan Leszczyński	1444561572423336	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
+Patryk Jaki	KW Prawo i Sprawiedliwość	199877710116314	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	139	23
+Joanna Skrzydlewska	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	274904002573727	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
+Jerzy Buzek	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	69153026654	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
+Julia Rokicka	KKW Koalicja Europejska PO PSL SLD .N Zieloni	145203809517773	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
+Michał Korolko - profil publiczny	KKW Koalicja Europejska PO PSL SLD .N Zieloni (Michał Korolko)	334123340547325	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
+Paweł Kobyliński - Poseł na Sejm RP, Kandydat do Parlamentu Europejskiego	Paweł Kobyliński, kandydat Koalicji Europejskiej do Europarlamentu	1576591379231457	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
+Poseł Jakub Rutnicki	KKW Koalicja Europejska PO PSL SLD .N Zieloni	222141244609992	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
+Ewa Kopacz	Koalicyjny Komitet Wyborczy Koalicja Europejska PO SLD PSL .N Zieloni	213282625349772	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
+Jacek Wezgraj	KW Wiosna Roberta Biedronia	213293582024781	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
+Kamila Gasiuk-Pihowicz	Kamila Gasiuk-PIhowicz KKW Koalicja Europejska PO PSL SLD .N Zieloni	150412465290475	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
 Elżbieta Łukacijewska	EPL	271399596270991	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
 Beata Maciejewska	KW Wiosna Roberta Biedronia	359606364774932	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
-Joanna Szałata - Wybory 2019	Andrzej Ostrowski	337862966919194	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
-Anna Fotyga - Biuro Poselskie	KW Prawo i Sprawiedliwość	1467418970166506	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
-Andrzej Halicki	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	370319116027	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
-Paweł Kobyliński - Poseł na Sejm RP, Kandydat do Parlamentu Europejskiego	Paweł Kobyliński, kandydat Koalicji Europejskiej do Europarlamentu	1576591379231457	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
-Wolność - częstochowskie	KWW KONFEDERACJA KORWIN BRAUN LIROY NARODOWCY	836715293340164	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
-Marcin Bosacki	KWW Koalicja Europejska PO PSL SLD .N Zieloni	325783984956664	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
-Stop Korki na Bałuckiego		204126866871498	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
-Studio Masażu i Fizjoterapii	Bożena Barbara Bartela-Citak	1704799239844675	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
-Joanna Skrzydlewska	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	274904002573727	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1997	0	46	0
-Jarosław Wałęsa	KKW Koalicja Europejska PO PSL SLD N Zieloni	433052760111334	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1997	0	46	0
-Włodzimierz Cimoszewicz. Europa i Konstytucja.	KKW Koalicja Europejska PO PSL SLD .N Zieloni	1945383395767575	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
-Maciej Małecki	Maciej Małecki 	533251443444200	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
-Sabina Obwiosło-Budzyń	KW Wiosna Roberta Biedronia 	371048117077022	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
-Jerzy Buzek	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	69153026654	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
-Mariusz Kotarba - Kandydat do Parlamentu Europejskiego	KW Wiosna Roberta Biedronia	307031223301174	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
-Sven Zagała	KW Wiosna Roberta Biedronia	2215190752031133	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
-Paweł Krutul	Komitet Wyborczy Wiosna Roberta Biedronia	1798798630436202	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
-Kamila Gasiuk-Pihowicz	Kamila Gasiuk-PIhowicz KKW Koalicja Europejska PO PSL SLD .N Zieloni	150412465290475	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
-Elżbieta Stępień Posłanka na Sejm RP kandydatka do Parlamentu Europejskiego	KKW Koalicja Europejska Platforma SLD PSL .N Zieloni	888587617855300	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
-Marcin Sypniewski	Marcin Sypniewski	946704618680358	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
-Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
-Bogdan Klich	Bogdan Adam Klich 	102087510135950	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
-Sławomir Zawiślak - Poseł Naszej Ziemi	GRAFTET Michał Teterycz	175489039166522	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
-Patryk Jaki	KW Prawo i Sprawiedliwość	199877710116314	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Borkowski Łukasz - KUKIZ 15	Komitet Wyborczy Wyborców KUKIZ15	660434801037022	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
+Marcin Sypniewski	Marcin Sypniewski	946704618680358	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
+Mateusz Mirys	KKW Lewica Razem - Razem, Unia Pracy, RSS	293413317485675	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1998	0	46	0
+Sven Zagała	KW Wiosna Roberta Biedronia	2215190752031133	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1997	0	46	0
+Janusz Lewandowski	KKW Koalicja Europejska PO PSL SLD N Zieloni	75571183641	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1997	0	46	0
+Marian Piłka	Komitet Wyborczy Wyborców KUKIZ15	363606376045	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1994	0	45	0
+Paweł Bejda	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	587380481330698	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1981	0	45	0
+To ja jestem Polską. Głosuję.		2253325488072521	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1979	0	174	0
+Jan Olbrycht	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	153098244704447	Facebook	0_1k	0 - 1k	PL	Poland	2	1	1973	0	45	0
+Aiqulle Fillo		194956887722931	Facebook	0_1k	0 - 1k	PL	Poland	3	1	1279	0	112	0
+Scena Kulinarna Art Restaurant	Angelika Katarzyna Borysiak	149390249131701	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Krzysztof Sitarski Poseł na Sejm RP	Krzysztof Serafin Sitarski	897838423640166	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Sylwia Spurek	KW Wiosna Roberta Biedronia 	1967695263556184	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Tomasz Strząbała	Tomasz Strząbała	265135633610304	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Robert Winnicki	Konfederacja KORWiN Braun Liroy Narodowcy	394579780586632	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Marcin Bosacki	KWW Koalicja Europejska PO PSL SLD .N Zieloni	325783984956664	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Renata Caban	Tomasz Mirosław Kowalski	288542178541100	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Michał Pietrzak	KW Wiosna Roberta Biedronia	607778456353454	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Wiktor Idzikowski	KW Wiosna Roberta Biedronia	340063453455898	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Razem	KKW Lewica Razem - Razem, Unia Pracy, RSS	430323810469014	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Andrzej Kobylarz - biuro poselskie	Komitet Wyborczy Wyborców KUKIZ15	466597223537544	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Joanna Frydrych	Łukasz Stefan Zajdel	1669678746631654	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Witold Pahl	Sikker sp. z o.o.	1643994439224385	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Dobromir Sośnierz	KWW KONFEDERACJA KORWIN BRAUN LIROY NARODOWCY	1389430631355482	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Piotr Król	Piotr Marek Król	145329992215815	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Marcin Sawicki	Marcin Sawicki	695659820502457	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
 Polska Fair Play Jolanta Milas	Olaf Szymon Skibiński	363474570925082	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
-Bartosz Arłukowicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	152299864806918	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
-Pracownia Architektury Krajobrazu Anna Zbrzezna		510672049016743	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	88	0
+Dlaczego Tomasz?	Dawid Barsznica	595590707607864	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Kurier Tarnowski	Kurier Tarnowski	266989963481692	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Narodowa Środa	Michał Aleksander Jurga	577240432479236	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Kosma Złotowski	Komitet Wyborczy Prawo i Sprawiedliwość	1477251852486946	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Maciej Małecki	Maciej Małecki 	533251443444200	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+KUKIZ'15 • Podbeskidzie	Dariusz Witold Mierzwa	1499178863637899	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Zabia Wola - Gminą ludzi przedsiębiorczych		488103921327485	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Joanna Szałata - Wybory 2019	Andrzej Ostrowski	337862966919194	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Lidia Sankowska-Grabczuk	Komitet Wyborczy Wyborców KUKIZ15	460952641054841	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Magdalena Wojakowska - kandydatka do PE	Komitet Wyborczy Wyborców KUKIZ15	352612782266151	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Krzysztof Hetman	Krzysztof Hetman KKW Koalicja Europejska PO PSL SLD .N Zieloni	1607487699534202	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Kurier Ząbkowski	Tomasz Kalata 	1507827496163615	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Wiosna w Zachodniopomorskiem	KW Wiosna Roberta Biedronia	779526672397182	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Partia Kierowców	Waldemar Arkadiusz Utecht 	502894740114980	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Włodzimierz Cimoszewicz. Europa i Konstytucja.	KKW Koalicja Europejska PO PSL SLD .N Zieloni	1945383395767575	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Młodzieżowy Strajk Klimatyczny Białystok		392347074877769	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	88	0
+Fundacja Czyste Powietrze	Magdalena Strózik 	282404075935482	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Dawid Kostempski		627434390700275	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Jacek Fordon kandydat do PE Wielkopolska, Lista Kukiz 15 poz.5	Komitet Wyborczy Wyborców KUKIZ15	390245745146413	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Jacek Guzikowski	Komitet Wyborczy Wyborców KUKIZ15	382878862310992	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Bawer Aondo-Akaa	Komitet Wyborczy Wyborców KUKIZ15	1474866972782161	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Tomasz Głowacki	Komitet Wyborczy Wyborców KUKIZ15	413919278720181	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Jan Klawiter - Biuro Poselskie	Komitet Wyborczy Wyborców KUKIZ15	390395698175977	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
 Jacek Kuźniewicz	Jacek Kuźniewicz	1422828751268697	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
-Marta Lempart	KW Wiosna Roberta Biedronia	760311647468570	Facebook	0_1k	0 - 1k	PL	Poland	1	1	998	0	23	0
-Wiosna Biedronia	KW Wiosna Roberta Biedronia	2246647628925721	Facebook	0_1k	0 - 1k	PL	Poland	1	1	997	0	22	0
-Konfederacja KORWiN Braun Liroy Narodowcy	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1971966879776579	Facebook	0_1k	0 - 1k	PL	Poland	1	1	996	0	22	0
-Jan Olbrycht	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	153098244704447	Facebook	0_1k	0 - 1k	PL	Poland	1	1	987	0	22	0
-SPD Oberspreewald-Lausitz	Alexander Krüger	236968340096641	Facebook	0_1k	0 - 1k	PL	Poland	1	1	3	0	0	0
+Mikołaj Pancewicz	KW Wiosna Roberta Biedronia	1021840037839693	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Studio Masażu i Fizjoterapii	Bożena Barbara Bartela-Citak	1704799239844675	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Stop Korki na Bałuckiego		204126866871498	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	23	0
+Pracownia Architektury Krajobrazu Anna Zbrzezna		510672049016743	Facebook	0_1k	0 - 1k	PL	Poland	1	1	999	0	88	0
+Włącz oszczędzanie	Łukasz Tadeusz Pająk	1599655186922126	Facebook	0_1k	0 - 1k	PL	Poland	1	1	998	0	23	0
+FRU.PL - Bilety Lotnicze i Hotele		166901739910	Facebook	0_1k	0 - 1k	PL	Poland	1	1	998	0	23	0
+Filcomp.pl	Paweł Seweryn Pietrusiak	391230480943892	Facebook	0_1k	0 - 1k	PL	Poland	1	1	998	0	23	0
+Adam Cyrański	KKW Koalicja Europejska Platforma PSL SLD .N Zieloni.	407715332768236	Facebook	0_1k	0 - 1k	PL	Poland	1	1	998	0	23	0
+Katarzyna Kotula	KW Wiosna Roberta Biedronia	325724864963813	Facebook	0_1k	0 - 1k	PL	Poland	1	1	998	0	23	0
+Prawica Rzeczypospolitej	Komitet Wyborczy Wyborców KUKIZ15	262966184846	Facebook	0_1k	0 - 1k	PL	Poland	1	1	998	0	23	0
+Skuteczna modlitwa. Przewodnik		2118896628162986	Facebook	0_1k	0 - 1k	PL	Poland	1	1	998	0	23	0
+Michał Drewnicki - wiceprzewodniczący Rady Miasta Krakowa		561843337248654	Facebook	0_1k	0 - 1k	PL	Poland	1	1	995	0	22	0
+Parlament Europejski - Biuro w Polsce	Parlament Europejski - Biuro w Polsce	405326618416	Facebook	0_1k	0 - 1k	PL	Poland	1	1	995	0	22	0
+Paweł Krutul	Komitet Wyborczy Wiosna Roberta Biedronia	1798798630436202	Facebook	0_1k	0 - 1k	PL	Poland	1	1	994	0	22	0
+Saaczech		1891172680926309	Facebook	0_1k	0 - 1k	PL	Poland	1	1	173	0	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	0_1k	0 - 1k	PL	Poland	1	1	167	0	16	0
+MJZ		529557893749660	Facebook	0_1k	0 - 1k	PL	Poland	1	1	142	0	3	0
+ITUC		20556338116	Facebook	0_1k	0 - 1k	PL	Poland	2	1	51	0	5	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	0_1k	0 - 1k	PL	Poland	2	1	27	0	2	0
+Miriam Kuzárová, kandidátka do Európskeho parlamentu	KDH	137416183351336	Facebook	0_1k	0 - 1k	PL	Poland	1	1	13	0	1	0

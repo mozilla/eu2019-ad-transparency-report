@@ -1,30 +1,83 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Ruža Kovačević Bilić	Hrvatska narodna stranka - liberalni demokrati (HNS)	2268602929863854	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	3	1	73139	16553	195	0
-HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	9	1	36243	17298	177	20
-Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	10	1	29960	6664	111	0
-Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	3	1	21604	9337	32	0
-Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	16741	3348	33	0
-Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	5	1	15507	3338	71	0
-SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	3	1	8310	1662	24	0
-Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	2	1	6004	1200	23	0
-Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	5142	1028	10	0
-European Parliament	European Parliament	178362315106	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	4846	969	9	0
-HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	4200	840	8	0
-Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	15	1	3485	429	174	0
-Jozo Radoš	Jozo Radoš	446717938731095	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	5	1	3195	988	51	0
-Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	4	1	1719	320	43	0
-Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	2	1	1563	612	21	0
-Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	2	1	1334	518	18	0
-Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	1320	660	13	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	4	1	1234	543	1	0
-Marijana Petir	Marijana Petir	1418903245032313	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	985	492	9	0
-European Commission	European Commission	107898832590939	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	2	1	515	257	1	0
+HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	49	1	453080	189058	1810	449
+Ruža Kovačević Bilić	Hrvatska narodna stranka - liberalni demokrati (HNS)	2268602929863854	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	7	1	269496	73362	469	0
+European Parliament	European Parliament	178362315106	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	15	1	230485	108233	686	192
+Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	19	1	222130	98959	642	139
+SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	17	1	178230	69652	223	8
+Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	6	1	169174	57532	643	96
+Slobodna Dalmacija	Slobodna Dalmacija	100267330025110	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	25	1	153311	47540	369	0
+Europski parlament, Ured za informiranje u Republici Hrvatskoj	Europski parlament, Ured za informiranje u Republici Hrvatskoj	508795765833382	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	22	1	139702	63551	328	36
+Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	23	1	139194	46978	614	92
+Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	19	1	133255	52654	397	46
+Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	11	1	119347	29964	358	7
+European Greens	European Greens	141366725876424	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	6	1	97649	42327	329	124
+Miro Bulj	MOST nezavisnih lista	1252295741481540	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	8	1	95554	34951	268	38
+MOST nezavisnih lista	MOST nezavisnih lista	388550077899912	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	10	1	92309	33346	352	58
+European Commission	European Commission	107898832590939	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	22	1	52082	24947	76	22
+Joško Klisović	Klisovic Josko	1262594650584725	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	14	1	46458	13289	157	0
+Đanino Sučić	Pametno	1778906682211240	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	41834	20917	208	41
+Model European Union Zagreb - MEUZ	Divea Studio	521874817895935	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	5	1	40364	17248	49	0
+Marijana Petir	Marijana Petir	1418903245032313	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	8	1	37086	12310	129	16
+Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	18	1	35105	7212	203	0
+Goran Pauk	HDZ - Hrvatska demokratska zajednica	581489628528785	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	3	1	32593	6518	64	0
+Jozo Radoš	Jozo Radoš	446717938731095	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	8	1	32043	6408	81	0
+BIOM	BIOM	138743669505642	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	9	1	27934	6563	99	0
+Stjepan Adanić	HDZ - Hrvatska demokratska zajednica	408695383042330	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	3	1	26381	11700	71	10
+Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	20	1	25359	6083	240	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	2	1	24591	12295	16	1
+Sunčana Glavak	HDZ - Hrvatska demokratska zajednica	482597361772021	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	4	1	24557	8973	143	28
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	15	1	21886	9384	37	14
+Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	2	1	19666	9833	60	10
+SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	11	1	17484	6384	92	0
+Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	5	1	16939	3713	50	0
+Krešo Beljak	Vlahovic Mario	52929105855	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	2	1	14533	5638	56	9
+Stjepan Ribić	HDZ - Hrvatska demokratska zajednica	451335681696047	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	3	1	13733	5628	60	8
+HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	2	1	13465	5081	18	0
+GLAS Građansko-liberalni savez	GLAS Građansko-liberalni savez	231052047413325	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	3	1	12885	2577	90	16
+Nova ljevica	Možemo - politička platforma	706769699498076	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	2	1	11780	2356	23	0
+Dr. sc. Tomislav Sokol	HDZ - Hrvatska demokratska zajednica	136900153422435	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	3	1	11062	2179	37	0
+Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	14	1	9994	3674	148	0
+Saša Poljanec-Borić	Hrvatska socijalno liberalna stranka	1914254365351413	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	9949	4974	44	8
+Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	2	1	9795	1959	19	0
+Habib Tahiri	Hrvatska narodna stranka - liberalni demokrati (HNS)	750800161983664	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	2	1	7793	1558	15	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	6988	3494	34	6
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	9	1	6811	2589	13	2
+Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	3	1	6205	1241	28	3
+Nikolina Brnjac	HDZ - Hrvatska demokratska zajednica	287054392229717	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	2	1	6196	1239	35	5
+pametno.org	Pametno	144815235686385	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	4	1	5688	2304	74	0
+Hrvatska stranka umirovljenika	Hrvatska stranka umirovljenika	1437793016448632	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	4358	871	8	0
+Marijana Balić	HDZ - Hrvatska demokratska zajednica	1274752085892321	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	4316	863	43	8
+Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	2	1	3933	938	11	0
+Tonino Picula	Tonino Picula	156057951248853	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	3909	781	7	0
+Davor Škrlec	Zastupnik u Europskom parlamentu Davor Škrlec	1507744276110325	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	3750	750	7	0
+Gong	Gong	135611546456409	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	4	1	2934	1219	33	0
+Sanja Radolović	Radolovic Sanja	508755779649081	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	6	1	2535	716	43	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	3	1	2188	1018	3	1
+HNS Metković	Hrvatska narodna stranka - liberalni demokrati (HNS)	339522549467106	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	1574	787	15	0
+Diana Topčić-Rosenberg	TOPCIC-ROSENBERG DIANA	1702271996513206	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	3	1	1301	481	27	0
+Zelena lista		157025101623973	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	2	1	1244	496	14	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	1055	527	10	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	5	1	845	293	3	0
+HSS Hrvatska	Vlahovic Mario	236043376446622	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	782	391	7	0
+Željka Markić		210218862695602	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	491	98	8	0
+Davor Nađi	Nadi Davor	1640498249359280	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	2	1	447	180	5	0
+Gordan Maras		451079008266520	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	436	87	8	0
 European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	391	195	0	0
-Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	386	193	3	0
-Krešo Beljak	Vlahovic Mario	52929105855	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	369	73	7	0
-Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	363	72	7	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	2	1	256	64	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	3	1	347	64	3	0
+Informativno Dokumentacijski Centar Banije I Korduna		1902779853072038	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	346	69	6	0
+Greenpeace Hrvatska	Greenpeace Hrvatska	359170097532754	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	3	1	332	0	29	0
+Europe Thinx		335839580440114	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	182	36	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	173	34	1	0
 Kulturpunkt.hr		89410579392	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	134	0	11	0
-SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	77	0	7	0
-Sanja Radolović	Radolovic Sanja	508755779649081	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	44	0	4	0
+CRIF		395919323779707	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	129	64	0	0
+Radnička Fronta		770459529655215	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	122	0	10	0
+Telegram.hr		688325737947866	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	75	0	7	0
+ETUC		129041250601685	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	67	13	0	0
+Ne u moje ime		138418753446889	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	56	11	0	0
+Slobodni Infocentar Zagreb		1741621996163657	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	49	0	4	0
+Big News Buzz		125179374733697	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	38	19	0	0
 Hrvatske vijesti		286736758747850	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	36	0	3	0
+Danko Švorinić		1867610616838363	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	21	0	1	0
+ITUC		20556338116	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	2	1	12	0	1	0
+Eurozine		115579498521257	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	9	1	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	split_dalmatia_county_HR	Split-Dalmatia County, Croatia	1	1	6	0	0	0

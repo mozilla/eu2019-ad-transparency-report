@@ -1,74 +1,333 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Green Party of England and Wales	The Green Party of England and Wales	20995300784	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	18	1	13445	6154	53	13
-Conservatives	The Conservative Party	8807334278	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	436	1	7997	1211	389	1
-Change UK - The Independent Group	Change UK - The Independent Group	395151614382309	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	16	1	3994	1770	79	17
-The Labour Party	The Labour Party	25749647410	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	10	1	3746	1625	31	9
-European Parliament	European Parliament	178362315106	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	2943	1457	42	16
-Liberal Democrats	the Liberal Democrats	5883973269	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	157	1	2099	495	69	0
-People's Vote UK	People's Vote	748608695327755	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	12	1	799	205	8	1
-GMB Union	GMB Union	103295786760891	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	772	154	2	0
-38 Degrees	38 Degrees	200006375787	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	7	1	666	191	3	0
-West Midlands Conservatives	West Midlands Conservatives	223025417884693	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	645	322	1	0
-Tom Watson	The Labour Party. Promoted by Tom Watson on behalf of Tom Watson	470873686267967	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	5	1	422	84	2	0
+Change UK - The Independent Group	Change UK - The Independent Group	395151614382309	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	202	1	50648	20872	828	199
+Green Party of England and Wales	The Green Party of England and Wales	20995300784	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	56	1	38488	17278	251	57
+Conservatives	The Conservative Party	8807334278	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	922	1	27833	7006	768	24
+Liberal Democrats	the Liberal Democrats	5883973269	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	483	1	24574	7115	430	39
+The Labour Party	The Labour Party	25749647410	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	174	1	18136	7842	191	38
+Amnesty International UK	Amnesty International UK	7624294394	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	299	1	15652	3347	372	14
+People's Vote UK	People's Vote	748608695327755	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	50	1	13205	5464	206	59
+Friends of the Earth	Friends of the Earth	110861655604080	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	142	1	6597	1733	172	4
+Greenpeace UK	Greenpeace UK 	9250349228	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	50	1	5797	1345	22	1
+Remain United	Centrum Campaign Ltd	388121018451293	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	57	1	5156	1628	59	9
+38 Degrees	38 Degrees	200006375787	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	51	1	4841	1568	34	1
+HOPE not hate	HOPE not hate	91897231853	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	17	1	4473	1981	29	6
+Best For Britain	Best for Britain	1863944713844924	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	7	1	3456	1397	42	9
+London Green Party	London Green Party	175350485880358	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	30	1	3433	1052	36	5
+Scottish Labour Party	Scottish Labour Party	310039442421596	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	24	1	2656	734	33	9
+London Labour Party	The Labour Party	474613052643462	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	19	1	2532	698	33	8
+South West Green Party	The Green Party of England and Wales	244490049076873	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	26	1	2321	702	30	6
+School Cuts	National Education Union	871798409656672	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	32	1	2242	528	13	0
+QuoteSearch.com	QuoteSearch	2235255886787452	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	12	1	2032	720	22	6
+West Midlands Conservatives	West Midlands Conservatives	223025417884693	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	11	1	2004	719	11	2
+Eastern Region Green Party	Eastern Region Green Party 	1635570190048987	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	14	1	1963	694	13	2
+Labour North West	The Labour Party	61950489543	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	8	1	1921	858	14	4
+Global Justice Now	Global Justice Now	6707857033	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	59	1	1763	471	38	0
+European Parliament	European Parliament	178362315106	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	1732	740	22	4
+Welsh Labour	Welsh Labour	159670677391384	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	9	1	1407	469	16	5
+Labour North	Labour North, Promoted by Fiona Stanton on behalf of Labour North	685018844928882	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	17	1	1401	362	25	8
+Labour South East	The Labour Party	123817579216	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	7	1	1393	599	16	6
+Jeremy Corbyn	The Labour Party	330250343871	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	1381	654	9	4
+National Education Union	National Education Union	241312696375349	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	1355	580	9	3
+Daily Mirror	Reach Plc	6149699161	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	1247	498	14	2
+Unite the union	Unite the union	175584152579855	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	6	1	1205	574	7	2
+Social Democratic and Labour Party (SDLP)	Social Democratic and Labour Party (SDLP)	111956985487415	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	32	1	1195	347	11	1
+Plaid Cymru	Plaid Cymru	26416930992	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	1185	512	6	1
+TheArticle	TheArticle	607840469632004	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	1157	578	4	0
+The Brexit Party	The Brexit Party	230416667843105	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	7	1	1108	283	87	20
+Labour South West	The Labour Party	673238736142723	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	1052	420	12	2
+GMB Union	GMB Union	103295786760891	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	6	1	1033	206	2	0
+Labour East	The Labour Party	407402162736656	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	6	1	1031	377	7	2
+Renew	Renew  Party	1923371311278106	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	58	1	941	205	23	0
+Liam Byrne	Liam Byrne MP	147894618876725	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	19	1	924	191	11	1
+Yorkshire and the Humber Labour Party	the Labour party	1608245282744484	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	5	1	923	411	7	2
+Fifth colour	Mehdi Jamali	720997618045137	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	8	1	909	181	10	2
+West Midlands Labour	The Labour Party	1243222025739706	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	6	1	827	258	6	1
+East Midlands Labour	The Labour Party	1104066886293096	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	8	1	819	206	7	1
+Andrea Venzon	Andrea Venzon	190415584911640	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	804	183	6	0
+JW3	JW3	6587671199	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	792	158	1	0
+Bristol Green Party	The Green Party of England and Wales	249696368936	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	21	1	770	153	13	0
+Tom Watson	The Labour Party. Promoted by Tom Watson on behalf of Tom Watson	470873686267967	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	9	1	718	188	4	0
+Pledge for the Future	Pledge for the Future	266157764008126	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	27	1	716	174	3	0
+Dale Vince	Ecotricity	222595381410455	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	669	133	7	1
+Paul Bristow	The Conservative Party	293864561226540	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	18	1	650	198	27	0
+West Midlands Green Party	West Midlands Green Party	216024651755822	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	10	1	644	194	5	0
+The UK EU Party	Pierre Edmond Kirk	863185927364896	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	608	304	3	1
+InFacts	InFacts	678120165658753	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	598	119	6	1
+Democratic Unionist Party	Democratic Unionist Party	105732052794210	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	5	1	522	175	4	0
+East Midlands Green Party	East Midlands Green Party	135118813311824	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	7	1	517	145	4	1
+North East Lib Dems to Stop Brexit	Tom Hancock	437706210130366	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	6	1	512	108	5	1
+WWF UK	WWF UK	311627208673	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	469	160	1	0
+Scottish Green Party	Scottish Green Party	17999726169	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	8	1	467	102	6	0
+Leeds Green Party	Central & Outer Leeds Green Party	161057677319663	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	6	1	466	102	4	0
+Hackney Lib Dems	Hackney Liberal Democrats	138435322972255	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	412	82	1	0
+Reignite	Reignite	702922223165890	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	409	162	4	1
+Alex Salmond	Slainte Media	136191876445102	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	402	201	2	0
+Trades Union Congress (TUC)	Trades Union Congress	124295177616347	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	33	1	399	66	16	0
 Scientists for EU	Scientists for EU	642444842524195	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	392	196	2	0
-Remain United	Centrum Campaign Ltd	388121018451293	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	12	1	318	123	2	0
-South West Green Party	The Green Party of England and Wales	244490049076873	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	14	1	246	87	5	0
-London Green Party	London Green Party	175350485880358	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	9	1	224	44	5	0
-Scottish Labour Party	Scottish Labour Party	310039442421596	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	220	66	2	0
-Plaid Cymru	Plaid Cymru	26416930992	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	212	42	2	0
-Global Justice Now	Global Justice Now	6707857033	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	206	41	0	0
-Alex Salmond	Slainte Media	136191876445102	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	196	39	0	0
-Democratic Unionist Party	Democratic Unionist Party	105732052794210	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	117	23	1	0
-School Cuts	National Education Union	871798409656672	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	5	1	113	21	2	0
-West Midlands Labour	The Labour Party	1243222025739706	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	98	24	0	0
-Liam Byrne	Liam Byrne MP	147894618876725	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	90	45	1	0
-Bristol Green Party	The Green Party of England and Wales	249696368936	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	15	1	83	0	9	0
-London Labour Party	The Labour Party	474613052643462	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	65	13	1	0
-Paul Bristow	Conservatives	293864561226540	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	64	8	3	0
-Pledge for the Future	Pledge for the Future	266157764008126	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	9	1	62	12	1	0
-Peterborough Conservatives	The Conservative Party	1410613969166253	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	62	22	1	0
-Renew	Renew  Party	1923371311278106	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	6	1	48	8	1	0
-Friends of the Earth	Friends of the Earth	110861655604080	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	41	8	0	0
-Trafford Conservatives	Altrincham & Sale West Conservative Association	201951136994785	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	40	8	0	0
-Simon Clarke MP	Simon Clarke	228249960960213	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	39	6	1	0
-East Midlands Labour	The Labour Party	1104066886293096	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	39	13	0	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	385	192	0	0
+The Women's Equality Party	The Women's Equality Party	1567955710156124	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	367	73	4	0
+Camden Council	Camden Council	1621941808050073	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	361	180	1	0
+Scottish National Party (SNP)	the SNP	77249349077	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	315	157	3	1
+Peterborough Conservatives	The Conservative Party	1410613969166253	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	22	1	303	101	6	0
+Moray SNP	Moray SNP	314918278608280	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	303	60	0	0
+Lisa Forbes for Peterborough	The Labour Party	365430600210847	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	19	1	300	91	10	1
+TW-IN	SEBASTIAN JOSEPH 4 ST JOHN	1975276162525168	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	286	53	5	0
+Yorkshire Party	the Yorkshire Party	1416178118647779	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	267	132	1	0
+Mike Hookem MEP	Mike Hookem MEP	628368003989904	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	255	51	0	0
+Animal Welfare Party	Animal Welfare Party	106824832045	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	11	1	251	85	4	0
+Liana Saranga	Liana Saranga Gulcan	406430003544310	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	19	1	244	56	7	0
+Ben Houchen - Tees Valley Mayor	Ben Houchen	1934566156780439	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	243	87	2	0
+Crisis	Crisis UK	6447117653	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	7	1	239	85	5	0
+Alliance Party of Northern Ireland	The Alliance Party	10642639740	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	237	47	2	0
+UKIP Bishop Auckland	ALAN JOJ'Y BREEZE	185015221854196	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	7	1	226	54	3	0
+Reprieve	Reprieve	107485499287	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	217	43	0	0
+Westminster & City Lib Dems	Westminster & City Liberal Democrats	947255511978447	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	215	62	1	0
+Jo Swinson	Jo Swinson	20487968781	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	202	47	3	0
+Bournemouth Green Party	South East Dorset Green Party	140064492697345	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	183	44	2	0
+Dave Chrisp Comedy	David Chrisp	210713339427124	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	182	45	0	0
+Brexit - The Play	Thomas George Salinsky	962944977211240	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	172	34	0	0
+Project Period	This Is Our Period	309277939850011	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	15	1	170	18	11	0
+Vote4Friendship		335742437041631	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	170	34	1	0
+Keep Britain Afloat	Keep Britain Afloat	789695304740584	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	165	38	0	0
+Ealing European Movement	the Ealing European Movement	1518365624947158	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	145	43	2	0
+Scottish Conservatives	the Scottish Conservative and Unionist Party	136308776480	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	143	28	1	0
+Green Lane Masjid	Green Lane Masjid & Community Centre	173087829397613	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	127	63	0	0
+Life After Brexit UK	Life After Brexit	728114827366152	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	5	1	127	24	1	0
+Jason McMahon MEP Campaign Page	Robert John Davis	2354803371253384	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	7	1	120	24	2	0
+Stamford for Europe	Richard James Cleaver	191511674908595	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	118	22	3	0
+European Movement UK	European Movement UK	290498754454402	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	11	1	114	12	7	0
+UK Independence Party (UKIP)	UK Independence Party (UKIP)	209101162445115	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	113	22	0	0
+The Post Truth Post	satirical news site - The Post Truth Post	476757199396262	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	5	1	110	32	2	0
+The Countryside Alliance	Countryside Alliance	116283685076903	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	109	21	0	0
+East Lothian SNP CA	East Lothain SNP	277373879008172	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	109	21	1	0
+Oxfordshire Liberal Democrats	Oxford West & Abingdon Liberal Democrats	549904691843347	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	105	6	8	0
+Cambridge Stays	Cambridge Stays	1106278742785368	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	5	1	101	20	2	0
+Scots For Leave	Scots for Leave	781591985301624	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	100	20	1	0
+Loving Europe 2	Terence Brotheridge	999682533550783	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	7	1	92	15	3	0
+Northumberland County Council	Northumberland County Council	352592201521	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	92	18	0	0
+Our West Lancashire	Our West Lancashire	1517535045204083	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	11	1	87	0	10	0
+BCP Council	BCP Council	140445935123	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	86	17	0	0
+ourEconomy	openDemocracy	253598932237086	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	86	17	1	0
+Save the Children UK		117476785190	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	83	32	1	0
+UK-Cyprus Enterprise Council	UK-Cyprus Enterprise Council 	1837120569879342	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	83	41	1	0
+Johnny For Plymouth	Johnny Mercer 	938126169534790	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	81	40	0	0
+Chatham House	Chatham House	202798122688	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	80	40	0	0
+CAFOD	CAFOD	19895907944	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	8	1	80	7	5	0
+Simon Clarke MP	Simon Clarke	228249960960213	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	79	14	2	0
+I Love EU	Terence Brotheridge	396013737832767	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	8	1	75	11	3	0
+Liberty	Liberty	32514078659	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	75	37	0	0
+Plaid Cymru Montgomeryshire / Maldwyn	Plaid Cymru Maldwyn 	407476889268616	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	7	1	71	12	2	0
+Sky Bet		144126855607425	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	69	13	0	0
+City Index	City Index	212613938870867	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	6	1	68	23	1	0
+Scottish Borders Green Party	Catriona Isabella Hamilton	386646754850062	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	66	13	1	0
+Carmarthenshire Liberal Democrats	Christopher David W Passmore	585876841564510	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	5	1	65	17	2	0
+Advanced Upholstery Services	hugh slight	315346635306354	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	64	28	0	0
+Trafford Conservatives	Altrincham & Sale West Conservative Association	201951136994785	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	64	32	0	0
+Zac Goldsmith	Richmond Park and North Kingston Conservatives	311126315707480	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	63	12	1	0
+Elect Attila Csordas	Attila Miklos Csordas	297321957883207	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	63	11	1	0
+Becky Dell	Rebecca Lucy Dell	409093303006143	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	63	11	1	0
+North East England Conservatives	Richard Marshall Alexander Lawrie	2317233945166352	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	63	12	1	0
+Ideal Bradford	Ideal Bradford	229750704107223	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	62	12	1	0
+Simon Hart MP	Simon Hart MP	914835805358773	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	61	27	0	0
+Lord John Robartes Regiment	Lord John Robartes Regiment	285922155095139	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	59	11	1	0
+Sense Mesura		1606564102740842	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	26	1	57	0	5	0
+Cllr. Gareth Eales - For Northampton South	Northampton South Labour Party	625007417657121	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	53	10	1	0
+Tristan Gray	Tristan Gray	262125774120331	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	51	9	1	0
+Vauxhall for a People's Vote	Vauxhall for a People's Vote	1250023018486398	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	51	25	0	0
+Chuka Umunna	Chuka Umunna	22625199708	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	50	19	0	0
+Global Optimism	Global Optimism	2062802910474026	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	50	9	1	0
+RSPB Scotland	RSPB Scotland	184842418237207	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	48	9	0	0
+Anna Turley MP for Redcar	Redcar Constituency Labour Party	108283675982010	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	47	23	0	0
+Southampton Transformed		227859464770518	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	47	23	0	0
+Peoples Vote West Lancashire	Terence Leonard Brotheridge	679879869119530	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	6	1	46	7	2	0
+Sunderland Green Party	Sunderland Green Party	195292217184234	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	46	18	1	0
+Neil McCann MEP Candidate	Neil McCann	1385517071590419	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	46	15	0	0
+Philip Knowles - Liberal Democrats	Philip Michael Knowles	328784601321351	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	46	23	0	0
+John Hunt	John Hunt	617286011771768	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	46	23	0	0
+Clean Planet Energy	Clean Planet Energy	2305756482788316	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	43	18	0	0
+Cllr Mike Diamond	Cllr Mike Diamond 	1768404463408418	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	41	8	0	0
+Octopus Montage	Octopus Montage	1602128833418754	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	40	8	0	0
+Tom McNeil	Thomas Benjamin Mcneil	1799561767025031	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	40	15	0	0
+Revive: The coalition for grouse moor reform	The League Against Cruel Sports	521212475007788	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	40	8	0	0
+Rishi Sunak	Rishi Sunak MP	1540198936249794	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	39	19	0	0
+The Brickish Times	The Brickish Times	247978256074118	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	39	7	0	0
+Stephen Hammond MP	Wandsworth and Wimbledon Conservatives	587561007950931	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	39	7	0	0
+Beavan 4 Suffolk	D Beavan Southwold LibDems	301436096943410	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	38	7	1	0
+Tees Issues by Andy Preston	Andrew Loughran Preston	356808677783129	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	36	18	0	0
+Brighton and Hove for EU	Kevin Francis Mcnulty	221641368264635	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	36	7	0	0
+Lega nel Mondo UK Eire	Anthony John L Scatena	843190192698192	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	36	16	0	0
 Lib Dem Newswire	Liberal Democrat Newswire	199674550052349	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	36	7	0	0
-Bournemouth Green Party	South East Dorset Green Party	140064492697345	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	34	17	0	0
-Eastern Region Green Party	Eastern Region Green Party 	1635570190048987	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	29	14	0	0
-UCU Left	UCU Left	926862034008348	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	24	4	0	0
-Hackney Lib Dems	Hackney Liberal Democrats	138435322972255	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	23	4	0	0
-Animal Welfare Party	Animal Welfare Party	106824832045	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	22	8	0	0
-East Midlands Green Party	East Midlands Green Party	135118813311824	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	20	7	0	0
-West Midlands Green Party	West Midlands Green Party	216024651755822	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	20	4	0	0
-Simon Hart MP	Simon Hart MP	914835805358773	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	19	3	0	0
+B. Dolan		102386295776	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	35	0	3	0
+Tiverton & Honiton Liberal Democrats	Dr. J Timperley on behalf of Tiverton and Honiton Liberal Democrats	150862338924727	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	35	6	1	0
+Lincolnshire European Movement	John Bland on behalf of Lincolnshire European Movement	177023862659402	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	34	17	0	0
+Alresford & Itchen Valley Greens	Karl Eslie Borges	356980384912024	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	33	6	1	0
+Yorkshire & the Humber Green Party	Yorkshire & the Humber Green Party	305531639643278	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	33	16	1	0
+Rachel Reeves	Office of Rachel Reeves MP	388650307829032	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	33	6	0	0
+UKIP North East of Scotland Branch	Lesley Alison Mcconochie	2507084875991896	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	6	1	32	4	1	0
+Raglan Suite Harrogate	The Raglan Suite	550354995119086	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	32	6	0	0
+Bradford on Avon Lib Dems	Chippenham Constituency Liberal Democrats	176178532420023	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	32	6	0	0
+Rohit K Dasgupta	Rohit K Dasgupta	1467322939993568	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	31	6	0	0
+Grantham for a People's Vote	Richard James Cleaver	558984737865000	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	31	4	1	0
+Mark Weston	Bristol & South Gloucestershire Conservatives	717530348380086	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	31	6	0	0
+Moira Fine Jewellery		644735598990369	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	31	6	0	0
+Lancaster Green Councillors	Lancaster Green Councillors	482280301926914	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	31	6	0	0
+Kevin Hollinrake MP	Kevin Paul  Hollinrake	233673253800826	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	30	0	3	0
+Scottish Family Party	Scottish Family Party	1313354295370593	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	30	6	0	0
+Kevin Nicholson	Team Kevin	125109270876098	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	29	5	0	0
+Southwark Liberal Democrats	Southwark Liberal Democrats	491862484305741	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	29	5	0	0
+Bath for Europe	BathforEurope	341079676234366	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	29	5	0	0
+Oxfordshire Green Party	Oxfordshire Green Party	147852898591155	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	29	5	0	0
+The Radical Tea Towel Company	Radical Tea Towel Company Ltd	242351902481164	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	29	5	0	0
+E.U. Thinking: Deal + Dover	cttee of E.U.Thinking: Deal + Dover	1174824375881755	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	29	5	0	0
+Care4Calais	Care4Calais	1046117708754519	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	28	5	0	0
+Alan Mak MP	Alan Mak MP	1498881147066399	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	27	5	0	0
+Peter Gibson For Darlington	Peter Gibson for Darlington	265680680782145	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	26	4	0	0
+Martina Anderson MEP	Martina Anderson MEP	181068275415047	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	26	13	0	0
+Robert Eggleston	Mid Sussex Liberal Democrats 	507679073044664	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	26	5	0	0
+Aaron Wynne - Aberconwy	Aaron Wynne	1604790526203933	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	25	5	0	0
+Gloucestershire Conservatives	Gloucestershire Conservatives	246259062381902	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	25	5	0	0
+Andrew George	Andrew George	112564222260460	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	25	5	0	0
+Greenock & Inverclyde SNP	Mark Saunders	642335515864888	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	25	5	0	0
+Hartiful - Pins and Patches	Kayleigh Hart	1862783580707663	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	24	4	0	0
+Exit from Brexit	the Liberal Democrats	1600429670027154	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	24	0	2	0
+Jess Green and the Mischief Thieves	Arts Council England	884529311661439	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	23	4	0	0
+Heathlands Conservatives	Simon Michael Ashall	928778930611005	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	23	4	0	0
+Oxfordshire County Council	Oxfordshire County Council	134106130027796	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	23	4	0	0
+Sarah Jones MP - Standing Up for Croydon	Sarah Jones MP	130987447098320	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	23	4	0	0
+SABA Relief & Development Foundation	SABA Relief	401629983213392	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	22	3	0	0
+Oxford For Europe	Colin Nigel Gordon	1047852948624789	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	22	4	0	0
+Cardiff University Students' Union	Cardiff University Students' Union	20298641808	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	22	4	0	0
+Cornwall Greens	Simon Timothy Browning	306882272754527	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	22	4	0	0
+WikiDesign.world	Amritpal Singh Claire	435474777014272	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	22	2	1	0
+Derbyshire Police and Crime Commissioner	Office of the Police and Crime Commissioner for Derbyshire	119937274824522	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	22	0	2	0
+Squirrels Antiques	Alan Harvey Stone	309405686175567	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	22	4	0	0
+Green & Co Accountants and Tax Advisors	Katie Ann Marie Williams	262456550465824	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	22	4	0	0
+North East Green Party: MEP Candidates 2019	North East Green Party	601595533680081	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	21	10	0	0
+Maria Caulfield MP	Maria Caulfield	556389197810785	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	21	4	0	0
+UCU Left	UCU Left	926862034008348	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	21	4	0	0
+Chorley Conservatives	Chorley Conservative Association	129872880401534	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	19	0	2	0
+Just1Ticket	Simon Hamnett	2185621478171676	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	19	3	0	0
+Councillor Paul Kelly - Motherwell West	Paul Kelly	938719826182279	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	4	1	19	2	0	0
+Maderos	Maderos	2271010899795524	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	19	3	0	0
+crudelydrawn	crudelydrawn	222620808398959	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	19	3	0	0
+Nativve	Nativve	146383495502578	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	19	0	2	0
+Chris Webb	Chris Webb for Blackpool North & Cleveleys Campaign	367006363463686	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	19	3	0	0
+Craig Whittaker MP	Independent Parliamentary Standards Authority	992952320734045	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	18	3	0	0
+West Mercia PCC	West Mercia Police and Crime Commissioner	1569628153271237	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	18	3	0	0
+Wyre Forest Labour	Stephen  Alan Brown	149065065103747	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	18	3	0	0
+Councillor Tom Ashton	Thomas Ashton, Dunscroft, Main Road, Wrangle, Boston, Lincolnshire UK. PE22 9AZ	301790566852530	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	18	3	0	0
+David Round Independent Candidate for SE England - EU Elections 2019	David Victor Round	2212820298800330	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	18	7	0	0
+Hefin David AM	National Assembly for Wales	1631875723795674	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	17	3	0	0
+Cllr Leigh Redman - Bridgwater South	Cllr Leigh Redman	515017818555822	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	17	3	0	0
+Stephen Gethins MP	North East Fife SNP	1532665740317736	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	17	3	0	0
 Warrington for Europe	Warrington for Europe	432194743945772	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	17	3	0	0
-UK Independence Party (UKIP)	UK Independence Party (UKIP)	209101162445115	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	15	7	0	0
-Westminster & City Lib Dems	Westminster & City Liberal Democrats	947255511978447	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	14	2	0	0
-SABA Relief & Development Foundation	SABA Relief	401629983213392	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	14	2	0	0
-David Round Independent Candidate for SE England - EU Elections 2019	David Victor Round	2212820298800330	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	12	2	0	0
-Andrew Milton - Lib Dems in Kenilworth	Andrew William Milton	230199117574707	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	11	0	1	0
-Cllr Mike Diamond	Cllr Mike Diamond 	1768404463408418	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	10	0	1	0
+Zero Carbon Harrogate		1752564194956506	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	16	0	1	0
+Chris Green	Chris Green MP	249684318543741	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	16	3	0	0
+Cllr Gillian Sharples	Miss Gillian Frances Sharples	347234755730703	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	16	3	0	0
+Business for Scotland	Business for Scotland	430016723726801	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	15	2	0	0
+WarwickDistrict4Europe	Warwick District 4 Europe	173537993272024	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	15	3	0	0
+Hartlepool Labour Party	Hartlepool Labour Party	216223538890115	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	15	3	0	0
+Liberal Reform	Liberal Reform	284957834900926	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	14	0	1	0
+London Assembly	London Assembly	328498650513309	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	14	2	0	0
+Eddie Hughes MP	Eddie Hughes & Walsall Conservatives	1544601488897440	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	14	2	0	0
+South West AutoWorx	Lawrence Vernon E Baldwin	329826207739589	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	14	7	0	0
+Gosport Conservatives	Gosport Conservative Association	252502171807508	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	13	0	1	0
+Alex Rowley MSP	Alex Rowley MSP	1463126643980071	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	13	2	0	0
+Lilian Seenoi-Barr for Council	Lilian Seenoi	421660725077543	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	13	2	0	0
+Paul Davies AM / AC	National Assembly for Wales	728078477523088	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	13	2	0	0
+Labour Alternative	Labour Alternative	1518041588499922	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	13	6	0	0
+Scott Dickinson	Scott Dickinson	1564849170444385	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	12	2	0	0
+Rotherham Conservatives	Rotherham and District Conservative Federation	151299025822248	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	12	2	0	0
+Cllr Graham Hinchey - Heath & Birchgrove Community News	Cllr Graham Hinchey - Heath & Birchgrove Community News	1834464963478547	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	12	2	0	0
+Andrew Milton - Lib Dems in Kenilworth	Andrew William Milton	230199117574707	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	12	0	1	0
+Lilongwe Wildlife Trust	Lilongwe Wildlife Trust	166774108410	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	11	2	0	0
+British Muslim Friends of Labour	British Muslim Friends of Labour 	913123148829000	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	11	2	0	0
+Stephanie Peacock MP	Barnsley East Labour Party	1005960859538065	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	11	2	0	0
+Yusuf Chambers	One Ummah	111257452230362	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	10	2	0	0
+ASR Activism Photography	ASR Activism Photography	1750381455268923	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	10	2	0	0
+Scottish Liberal Democrats	the Liberal Democrats	397986050296687	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	10	2	0	0
+Westmorland and Lonsdale Conservatives	Westmorland and Lonsdale Conservatives	157135178325014	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	10	0	1	0
+County Cllr Mike Jordan	Mike Jordan	1364555943628425	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	10	2	0	0
 Jack Gebhard - Mayor of Morpeth	Jack Gebhard	106346843584832	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	10	0	1	0
 Beira Moda	Ms Antonietta Marie Fionda	184230978956996	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	10	0	1	0
-Larry Sanders Green Party Spokesperson for Health and Social Care	Oxfordshire Green Party	357293541126414	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	9	1	0	0
+Fabian Society	the Fabian Society	65172792081	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	9	1	0	0
+Ramblers Scotland	Ramblers Scotland	136198803072713	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	9	1	0	0
+USR Diaspora	Uniunea Salvați România - USR	1793510380925494	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	9	2	0	0
+Grant Sharkey	Grant Edward Sharkey	34533701462	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	9	1	0	0
+Stephen Lloyd MP	Stephen Lloyd MP	1632026600406302	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	9	1	0	0
 Gutenberg Unbound	Gutenberg Unbound (apolitical apparel and accessories web-store)	2189982847933458	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	9	0	1	0
-Tristan Gray	Tristan Gray	262125774120331	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	9	1	0	0
-Loving Europe 2	Terence Brotheridge	999682533550783	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	9	0	1	0
-The Brexit Party	The Brexit Party	230416667843105	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	9	4	0	0
-Peoples Vote West Lancashire	Terence Leonard Brotheridge	679879869119530	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	8	1	0	0
-Squirrels Antiques	Alan Harvey Stone	309405686175567	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	7	0	0	0
-Lega nel Mondo UK Eire	Anthony John L Scatena	843190192698192	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	7	3	0	0
-Ideal Bradford	Ideal Bradford	229750704107223	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	6	0	0	0
-Labour North West	The Labour Party	61950489543	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	5	1	0	0
-Kennington Community Council	Kennington Shadow Community Council	585914318462112	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	5	0	0	0
-Tiverton & Honiton Liberal Democrats	Dr. J Timperley on behalf of Tiverton and Honiton Liberal Democrats	150862338924727	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	5	0	0	0
-InFacts	InFacts	678120165658753	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	4	0	0	0
-Bradford on Avon Lib Dems	Chippenham Constituency Liberal Democrats	176178532420023	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	4	0	0	0
+Tim Farron	Westmorland and Lonsdale Liberal Democrats	118873691462974	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	8	1	0	0
+Universal Credit Sufferer - Black Isle Journalism	Alex Tiffin Labour Party Member	195645871059826	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	8	1	0	0
+Warrington Conservatives	Warrington Conservatives	603620649779505	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	8	0	0	0
+THTC - The Hemp Trading Company	THTC Clothing Ltd	30239959348	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	8	0	0	0
+Stack	Stack	156156711111279	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	8	1	0	0
+The Bank Nightclub - Perth	ENT24 Ltd	621160024690830	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	7	0	0	0
+Kirsten Johnson	North Devon Liberal Democrats	453504991463953	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	7	0	0	0
+Wandsworth Labour	Wandsworth Labour	185625017130	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	7	1	0	0
+Luke and Linda 4 Eastney and Craneswater	Luke Stubbs promoting Linda Symes	648245968693681	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	7	0	0	0
+Southampton Green Party	Joseph  William Cox	347038758816735	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	7	1	0	0
+Cllr Darren Byford - Horbury & South Ossett - Ward 8	Darren Byford	1675627896042124	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	6	0	0	0
+Helen Goodman, Bishop Auckland Constituency	the Labour Party. Promoted by and on behalf of Helen Goodman MP	985380408144684	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	6	1	0	0
+TS Joinery Services	TS joinery services 	249840792393105	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	6	1	0	0
+Shanklin Conservatives	Shanklin Conservatives	1894117177585611	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	6	1	0	0
+Unredacted	Reignite	343424779648502	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	6	1	0	0
+Max Bryant	Max Taylor Bryant	1511114899101340	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	6	0	0	0
+NorthAntrim SinnFéin	North Antrim Sinn Féin	1531584400424502	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	6	1	0	0
+Perth4Europe	Susannah Clare Rae	1050896375014974	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	6	1	0	0
+Kennington Community Council	Kennington Shadow Community Council	585914318462112	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	6	1	0	0
+Graham Jones MP	Graham Peter Jones	1876607552621015	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	5	0	0	0
+Europe Thinx		335839580440114	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	5	1	0	0
+Theberton & Eastbridge Action Group on Sizewell - TEAGS	Theberton & Eastbridge Action Group on Sizewell (TEAGS)	474263022674218	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	5	1	0	0
+African Wildlife Courses	Jason Alexander Hendry	2345328912417791	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	4	0	0	0
+Hengrove and Whitchurch Park - Bristol Ward Page	Bristol Liberal Democrats	130741070293378	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	4	0	0	0
+Derwent Ward Councillors	Derwent Ward Conservatives (Mid Derbyshire & Derby City Conservative Association)	447891905402755	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	4	0	0	0
+Pinksixty	Leeze Lawrence	108182029247820	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	4	0	0	0
+Northenden's World	Northenden World Admin	1692130001038191	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	4	0	0	0
+Camden Liberal Democrats	Camden Liberal Democrats	348199775258128	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	4	0	0	0
+Cllr Vincent Bailey & Cllr Leighton Rowlands	Vale of Glamorgan Conservatives 	1802752836609283	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	4	0	0	0
+Larry Sanders Green Party Spokesperson for Health and Social Care	Oxfordshire Green Party	357293541126414	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	4	0	0	0
+Cllr Nick Adams-King	Nick Adams-King	220735411764575	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	4	0	0	0
 Ipswich Region	Region Media Ltd	2075147492755843	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	4	0	0	0
-The Radical Tea Towel Company	Radical Tea Towel Company Ltd	242351902481164	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	3	0	0	0
-Sarah Jones MP - Standing Up for Croydon	Sarah Jones MP	130987447098320	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	3	0	0	0
-USR Diaspora	Uniunea Salvați România - USR	1793510380925494	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	2	0	0	0
-I Love EU	Terence Brotheridge	396013737832767	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	2	0	0	0
-Green & Co Accountants and Tax Advisors	Katie Ann Marie Williams	262456550465824	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	2	0	0	0
-Eddie Hughes MP	Eddie Hughes & Walsall Conservatives	1544601488897440	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	1	0	0	0
-Michael  O'Dowd for Europe	O'Dowd Michael Joseph	878147035569806	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	0	0	0	0
+Wee Schools Matter	Wee Schools Matter	2258168307595181	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	3	0	0	0
+Save Our NHS Leicestershire	Tom Barker	146757272398355	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	3	0	0	0
+Abu Sultan	Abu Sultan	1662727273988970	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	3	0	0	0
+Jubilee+	Jubilee+	438366662862174	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	3	0	0	0
+CRIF		395919323779707	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	3	1	0	0
+PositiveLuxury	PositiveLuxury	174227905981175	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	3	0	0	0
+Fondant Boss Stamps	Deborah Susanne Wagstaff	1144356245744858	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	2	0	0	0
+Evolution Circle t/a Evolution Vans	Neal Christopher Glass	2085311085118659	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	2	0	0	0
+Evolution Vehicle Leasing	Neal Christopher Glass	460432784693049	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	2	0	0	0
+Brexit Votes Matter	Brexit Defence Force	2419328181441973	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	2	0	0	0
+Cllr Nitesh Hirani - Kenton East - Conservatives	N Hirani	162424471000792	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	2	0	0	0
+John Feely - Sinn Féin	Sinn Féin Fermanagh	1561905844138855	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	2	0	0	0
+HEIST		225032047662461	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	2	0	0	0
+Torridge & West Devon Conservative Association	Torridge & West Devon Conservatives	1874130146169096	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	2	0	0	0
+CEMEX		275606287530	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	2	1	0	0
+Bridget Phillipson	 the Labour Party. Promoted by Les Scott on behalf of Bridget Phillipson	329262860438866	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	1	0	0	0
+Free Quran Education		388655174641163	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	1	0	0	0
+Cllr Adam Hurst	Adam Hurst	564056727325283	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	1	0	0	0
+Inverclyde Liberal Democrats	Inverclyde Liberal Democrat Party	179796895369910	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	1	0	0	0
+Discover Philadelphia		60364167807	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	1	0	0	0
+Gabriela Mirescu		2618888988127707	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	0	0	0	0
+EiendomsMegler 1 Hamar		1629418810634981	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	0	0	0	0
+Maria Walsh	Fine Gael	883806764992893	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	0	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	0	0	0	0
+Big News Buzz		125179374733697	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	0	0	0	0
+Peter Casey	Casey Peter Joseph	1473814189502078	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	0	0	0	0
+Cllr Liam Doherty	Doherty Liam	396453641142781	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	0	0	0	0
+Volkspartei Niederösterreich	Volkspartei Niederösterreich	185269004912086	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	0	0	0	0
+SMER - SD Bardejov	SMER - SD	424019988386535	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	0	0	0	0
+Green Party Ireland	Green Party Ireland	108339693065	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	0	0	0	0
+Horseworldeu		106222951129	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	0	0	0	0
+Antonio García Marichal	Antonio Miguel García Marichal	266888690629486	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	0	0	0	0
+ETUC		129041250601685	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	0	0	0	0
+Maria Doherty Sinn Féin	Doherty Aine	316154535751769	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	0	0	0	0
+Luke 'Ming' Flanagan MEP	Luke 'Ming' Flanagan MEP	182354901841834	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	0	0	0	0
+Manchester City		208411345454	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	0	0	0	0
+John McGahon	John Mcgahon	1408702926037982	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	0	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	0	0	0	0
+Michael  O'Dowd for Europe	O'Dowd Michael Joseph	878147035569806	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	3	1	0	0	0	0
+Patrick Barry PJ		2443361185698404	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	2	1	0	0	0	0
+Sme rodina	Sme rodina	600235073447674	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	0	0	0	0
+Eurozine		115579498521257	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	0	0	0	0
+Yellowed		422966644928472	Facebook	u45_54	unknown (45-54)	UK	United Kingdom	1	1	0	0	0	0

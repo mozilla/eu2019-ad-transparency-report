@@ -1,18 +1,57 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	age_code_filter	age_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-European Parliament	European Parliament	178362315106	Facebook	55_64	55-64	LU	Luxembourg	2	1	10044	2575	34	0
-DP - Demokratesch Partei	DP - Demokratesch Partei	280875378609326	Facebook	55_64	55-64	LU	Luxembourg	4	1	5981	1196	48	0
-Wee2050 / Nee2015	Wee2050 / Nee2015	889354561125041	Facebook	55_64	55-64	LU	Luxembourg	3	1	3262	1175	62	0
-LSAP	Lëtzebuerger Sozialistesch Aarbechterpartei	47216059667	Facebook	55_64	55-64	LU	Luxembourg	4	1	2758	514	69	0
-ADR  - Alternativ Demokratesch Reformpartei	ADR	115916035102253	Facebook	55_64	55-64	LU	Luxembourg	1	1	1335	267	26	0
-Gary Diderich	Gary Diderich	73144437219	Facebook	55_64	55-64	LU	Luxembourg	2	1	958	167	28	0
-Friddens- a Solidaritéitsplattform	Gary Diderich	110747949801520	Facebook	55_64	55-64	LU	Luxembourg	1	1	906	181	17	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	55_64	55-64	LU	Luxembourg	1	1	645	322	1	0
-European Commission	European Commission	107898832590939	Facebook	55_64	55-64	LU	Luxembourg	2	1	107	53	0	0
-CSV	CSV	56016549775	Facebook	55_64	55-64	LU	Luxembourg	2	1	86	11	4	0
-déi gréng	déi gréng	21710789873	Facebook	55_64	55-64	LU	Luxembourg	1	1	80	0	7	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	55_64	55-64	LU	Luxembourg	2	1	25	6	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	55_64	55-64	LU	Luxembourg	1	1	19	9	0	0
-déi Lénk	déi Lénk	120444648033670	Facebook	55_64	55-64	LU	Luxembourg	1	1	17	3	0	0
-Parti Socialiste (PS)	Parti Socialiste (PS)	518402351504731	Facebook	55_64	55-64	LU	Luxembourg	1	1	9	1	0	0
-CDH liste à la Chambre province de Liège	CDH - Centre Démocrate Humaniste	268478507423505	Facebook	55_64	55-64	LU	Luxembourg	3	1	4	0	0	0
-Rainer Keller	Rainer Keller	2324783081132960	Facebook	55_64	55-64	LU	Luxembourg	1	1	0	0	0	0
+déi gréng	déi gréng	21710789873	Facebook	55_64	55-64	LU	Luxembourg	33	1	199596	60976	1349	232
+Mischel Sylvie	Sylvie Suzette Renee Mischel	155913575037227	Facebook	55_64	55-64	LU	Luxembourg	18	1	107736	22838	1025	183
+ADR  - Alternativ Demokratesch Reformpartei	ADR	115916035102253	Facebook	55_64	55-64	LU	Luxembourg	13	1	96113	19223	864	168
+European Parliament	European Parliament	178362315106	Facebook	55_64	55-64	LU	Luxembourg	24	1	93091	27011	592	66
+CSV	CSV	56016549775	Facebook	55_64	55-64	LU	Luxembourg	24	1	70963	15240	321	36
+LSAP	Lëtzebuerger Sozialistesch Aarbechterpartei	47216059667	Facebook	55_64	55-64	LU	Luxembourg	10	1	69185	16706	425	71
+DP - Demokratesch Partei	DP - Demokratesch Partei	280875378609326	Facebook	55_64	55-64	LU	Luxembourg	11	1	58287	22001	405	95
+Give Us A Voice Lëtzebuerg		1505184473073824	Facebook	55_64	55-64	LU	Luxembourg	1	1	26445	13222	661	132
+Volt Luxembourg	Volt Luxembourg	766459183561998	Facebook	55_64	55-64	LU	Luxembourg	12	1	21252	5075	246	11
+Wee2050 / Nee2015	Wee2050 / Nee2015	889354561125041	Facebook	55_64	55-64	LU	Luxembourg	7	1	17097	5693	116	0
+Friddens- a Solidaritéitsplattform		110747949801520	Facebook	55_64	55-64	LU	Luxembourg	2	1	9897	1972	22	0
+Gary Diderich	Gary Diderich	73144437219	Facebook	55_64	55-64	LU	Luxembourg	2	1	9490	1898	103	17
+déi Lénk	déi Lénk	120444648033670	Facebook	55_64	55-64	LU	Luxembourg	5	1	8005	1962	32	1
+Piraten Bezierk Osten		141480992729926	Facebook	55_64	55-64	LU	Luxembourg	1	1	7390	1478	73	14
+Christopher Lilyblad	Christopher Lilyblad	163909507424327	Facebook	55_64	55-64	LU	Luxembourg	1	1	5968	1193	59	11
+déi jonk gréng	Déi jonk gréng	197451906960613	Facebook	55_64	55-64	LU	Luxembourg	16	1	5051	1591	62	0
+Marc ANGEL	Marc Angel	1404458223105541	Facebook	55_64	55-64	LU	Luxembourg	4	1	4193	1421	73	0
+Greenpeace Luxembourg	Greenpeace Luxembourg	67370457805	Facebook	55_64	55-64	LU	Luxembourg	5	1	3466	950	34	0
+Piraten Bezierk Süden		659368007411223	Facebook	55_64	55-64	LU	Luxembourg	7	1	3173	418	148	0
+Julia Elisabetta Pitterman	Volt Luxembourg	2235333396715580	Facebook	55_64	55-64	LU	Luxembourg	4	1	2130	426	42	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	55_64	55-64	LU	Luxembourg	1	1	1978	989	4	0
+Marc Spautz		143237373145276	Facebook	55_64	55-64	LU	Luxembourg	1	1	1246	623	12	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	55_64	55-64	LU	Luxembourg	1	1	646	323	1	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	55_64	55-64	LU	Luxembourg	9	1	522	156	3	0
+European Commission	European Commission	107898832590939	Facebook	55_64	55-64	LU	Luxembourg	10	1	446	197	0	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	55_64	55-64	LU	Luxembourg	3	1	358	171	0	0
+Marc Goergen		2139886662711123	Facebook	55_64	55-64	LU	Luxembourg	2	1	287	51	19	0
+Piraten Lëtzebuerg		183148710560	Facebook	55_64	55-64	LU	Luxembourg	1	1	281	0	27	0
+Roy Reding		734660406636837	Facebook	55_64	55-64	LU	Luxembourg	1	1	192	0	19	0
+Piratepartei Gemeng Diddeleng		171972036995630	Facebook	55_64	55-64	LU	Luxembourg	1	1	122	0	12	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	55_64	55-64	LU	Luxembourg	1	1	101	50	0	0
+Piratepartei Bezierk Norden		494284087327520	Facebook	55_64	55-64	LU	Luxembourg	1	1	96	0	9	0
+mymuesli		20393019390	Facebook	55_64	55-64	LU	Luxembourg	1	1	94	18	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	55_64	55-64	LU	Luxembourg	5	1	87	30	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	55_64	55-64	LU	Luxembourg	2	1	62	12	0	0
+Parti Socialiste (PS)	Parti Socialiste (PS)	518402351504731	Facebook	55_64	55-64	LU	Luxembourg	11	1	54	16	0	0
+CDH liste à la Chambre province de Liège	CDH - Centre Démocrate Humaniste	268478507423505	Facebook	55_64	55-64	LU	Luxembourg	9	1	38	14	0	0
+Europe Thinx		335839580440114	Facebook	55_64	55-64	LU	Luxembourg	1	1	19	3	0	0
+Big News Buzz		125179374733697	Facebook	55_64	55-64	LU	Luxembourg	1	1	15	7	0	0
+Olivier Chastel	MR - Mouvement Réformateur	36858143935	Facebook	55_64	55-64	LU	Luxembourg	4	1	13	3	0	0
+Vivant   Ostbelgien	Vivant Ostbelgien	1440393739538888	Facebook	55_64	55-64	LU	Luxembourg	4	1	10	3	0	0
+SPD Rheinland-Pfalz	SPD Rheinland-Pfalz	330165526782	Facebook	55_64	55-64	LU	Luxembourg	1	1	9	4	0	0
+ETUC		129041250601685	Facebook	55_64	55-64	LU	Luxembourg	1	1	9	1	0	0
+Rainer Keller	Rainer Keller	2324783081132960	Facebook	55_64	55-64	LU	Luxembourg	2	1	8	1	0	0
+Volt Deutschland	Volt Deutschland	134209407129787	Facebook	55_64	55-64	LU	Luxembourg	2	1	3	0	0	0
+Alain Mertes	Vivant Ostbelgien	168912413949537	Facebook	55_64	55-64	LU	Luxembourg	2	1	3	0	0	0
+Eurozine		115579498521257	Facebook	55_64	55-64	LU	Luxembourg	1	1	3	0	0	0
+MR - Mouvement Réformateur	MR - Mouvement Réformateur	236330169511	Facebook	55_64	55-64	LU	Luxembourg	2	1	2	1	0	0
+GEW Saarland	GEW Saarland	223078917757220	Facebook	55_64	55-64	LU	Luxembourg	1	1	2	0	0	0
+Melanie Blesgen, Candidate aux élections régionales 2019	Melanie Blesgen	408261873079490	Facebook	55_64	55-64	LU	Luxembourg	1	1	1	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	55_64	55-64	LU	Luxembourg	1	1	0	0	0	0
+Alexander Miesen	Alexander Marcellus Miesen	136747073688457	Facebook	55_64	55-64	LU	Luxembourg	1	1	0	0	0	0
+Simon Bultot, 3ème à la Chambre, Liste PS	Simon Fabrice Bultot	2180842748675219	Facebook	55_64	55-64	LU	Luxembourg	1	1	0	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	55_64	55-64	LU	Luxembourg	2	1	0	0	0	0
+Nicolas Stilmant - 2e effectif - liste Chambre	Nicolas Stilmant	371323650128015	Facebook	55_64	55-64	LU	Luxembourg	1	1	0	0	0	0
+Minister Harald Mollers	Harald Mollers	1869992013240347	Facebook	55_64	55-64	LU	Luxembourg	1	1	0	0	0	0

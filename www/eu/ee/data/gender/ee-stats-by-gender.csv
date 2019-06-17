@@ -1,4 +1,4 @@
 gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-f	female	EE	Estonia	50	12	305695	65749	3220	195
-m	male	EE	Estonia	50	11	163311	35629	2522	103
-u	unknown	EE	Estonia	35	11	1468	321	15	0
+f	female	EE	Estonia	358	49	4927255	1397750	34538	4793
+m	male	EE	Estonia	347	49	3456806	966700	23724	2838
+u	unknown	EE	Estonia	312	49	33690	9667	233	32

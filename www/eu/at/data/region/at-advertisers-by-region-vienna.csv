@@ -1,39 +1,149 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	region_code_filter	region_name_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-SPÖ	SPÖ	77393060080	Facebook	vienna	Vienna	AT	Austria	25	1	486499	208270	6814	1295
-Werner Kogler	Die Grünen	133612666671985	Facebook	vienna	Vienna	AT	Austria	2	1	217998	84309	2179	435
-Beate Meinl-Reisinger	NEOS	243225039137708	Facebook	vienna	Vienna	AT	Austria	3	1	215943	107972	1203	315
-Harald Vilimsky	FPÖ	547597092025909	Facebook	vienna	Vienna	AT	Austria	4	1	90486	32284	160	26
-European Parliament	European Parliament	178362315106	Facebook	vienna	Vienna	AT	Austria	1	1	55154	27577	137	27
-NR KLUB JETZT	NR KLUB JETZT	833013456857401	Facebook	vienna	Vienna	AT	Austria	12	1	47243	10212	328	15
-Andreas Schieder	SPÖ	290881691011354	Facebook	vienna	Vienna	AT	Austria	3	1	31417	14383	406	137
-KPÖ PLUS	KPÖ PLUS	849742871847407	Facebook	vienna	Vienna	AT	Austria	1	1	28422	5684	283	56
-Claudia Gamon	NEOS	447992848717452	Facebook	vienna	Vienna	AT	Austria	2	1	25312	5062	252	50
-FSG - Fraktion Sozialdemokratischer GewerkschafterInnen	GewerkschafterInnen in der SPÖ	364093897023468	Facebook	vienna	Vienna	AT	Austria	4	1	23348	5293	189	0
-Alma Zadic	NR KLUB JETZT	1891626681100935	Facebook	vienna	Vienna	AT	Austria	9	1	16324	3577	263	0
-kontrast.at	kontrast.at	1079650008770485	Facebook	vienna	Vienna	AT	Austria	1	1	15326	3065	30	0
-Peter Pilz	NR KLUB JETZT	127399223970566	Facebook	vienna	Vienna	AT	Austria	3	1	13682	3730	146	18
-Wirtschaftskammer	Wirtschaftskammer	125946327466544	Facebook	vienna	Vienna	AT	Austria	1	1	11914	2382	23	0
-Wilfried Haslauer	Salzburger Volkspartei	49835536470	Facebook	vienna	Vienna	AT	Austria	1	1	10770	2154	107	21
-GRAS - Grüne & Alternative Student_innen	GRAS - Grüne & Alternative Student_innen	79935247286	Facebook	vienna	Vienna	AT	Austria	1	1	9781	1956	19	0
-1Europa	Peter Glawischnig	320389701908367	Facebook	vienna	Vienna	AT	Austria	2	1	5530	1106	109	0
-Die Grünen Wien	Die Grünen Wien	88676876113	Facebook	vienna	Vienna	AT	Austria	1	1	4999	1000	99	0
-Markus Ornig	NEOS Wien	1604393142995063	Facebook	vienna	Vienna	AT	Austria	1	1	4999	1000	99	0
-Partei der Arbeit	Partei der Arbeit	298693416922933	Facebook	vienna	Vienna	AT	Austria	1	1	4336	867	85	0
-Die Grünen	Die Grünen	21759893033	Facebook	vienna	Vienna	AT	Austria	2	1	3803	760	75	0
-Sebastian Bohrn Mena	Tierschutzvolksbegehren	1583324305255890	Facebook	vienna	Vienna	AT	Austria	5	1	2927	457	108	0
-Europäisches Parlament Österreich	Europäisches Parlament Österreich	124468054313069	Facebook	vienna	Vienna	AT	Austria	1	1	1895	947	18	0
-Steffi Krisper	Stephanie Krisper	170392456839307	Facebook	vienna	Vienna	AT	Austria	2	1	1661	270	57	0
-Alex Bernhuber	Niederösterreichischer Bauernbund	382872055842390	Facebook	vienna	Vienna	AT	Austria	1	1	1642	821	16	0
-Österreichische Gesellschaft für Europapolitik	Österreichische Gesellschaft für Europapolitik	290449626693	Facebook	vienna	Vienna	AT	Austria	3	1	1612	102	119	0
-Junge Generation in der SPÖ	Junge Generation in der SPÖ	138952762862969	Facebook	vienna	Vienna	AT	Austria	2	1	1258	0	124	0
-Keinen Millimeter	Michael Dorner	356665748284436	Facebook	vienna	Vienna	AT	Austria	3	1	1003	0	99	0
-Politik muss wieder für die einfachen Menschen gemacht werden.	Georg Krejci	2060122567590322	Facebook	vienna	Vienna	AT	Austria	3	1	785	0	77	0
-bagru GRAS boku	bagru*GRAS*boku	110449662370582	Facebook	vienna	Vienna	AT	Austria	1	1	733	0	72	0
-Angelika Winzig	Wirtschaftsbund Österreich	141015722773374	Facebook	vienna	Vienna	AT	Austria	1	1	724	144	14	0
-Norbert Hofer	FPÖ	1650580648552563	Facebook	vienna	Vienna	AT	Austria	1	1	708	141	14	0
-Christian Zoll	Vorarlberger Volkspartei	601419393620184	Facebook	vienna	Vienna	AT	Austria	1	1	278	0	27	0
-Lukas Mandl	Verein VSM - Vorzugsstimmen für Mandl	436914289678818	Facebook	vienna	Vienna	AT	Austria	3	1	258	0	25	0
-European Commission	European Commission	107898832590939	Facebook	vienna	Vienna	AT	Austria	2	1	12	6	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	vienna	Vienna	AT	Austria	4	1	3	0	0	0
+SPÖ	SPÖ	77393060080	Facebook	vienna	Vienna	AT	Austria	84	1	2380769	1010349	18309	5365
+Stadt Wien	Stadt Wien	110971788921077	Facebook	vienna	Vienna	AT	Austria	21	1	1815979	756000	7079	1800
+Die Grünen	Die Grünen	21759893033	Facebook	vienna	Vienna	AT	Austria	32	1	1152537	509781	12454	3502
+Harald Vilimsky	FPÖ	547597092025909	Facebook	vienna	Vienna	AT	Austria	37	1	996238	436357	8320	1843
+Werner Kogler	Die Grünen	133612666671985	Facebook	vienna	Vienna	AT	Austria	6	1	773425	359842	4269	1078
+Sebastian Kurz	Volkspartei	105151752909840	Facebook	vienna	Vienna	AT	Austria	20	1	695904	314828	7086	1534
+European Greens	European Greens	141366725876424	Facebook	vienna	Vienna	AT	Austria	14	1	653654	303189	6830	1432
+Dominik Nepp	FPÖ-Wien	135953609780627	Facebook	vienna	Vienna	AT	Austria	3	1	599997	300000	6997	2000
+European Parliament	European Parliament	178362315106	Facebook	vienna	Vienna	AT	Austria	20	1	501870	211042	2617	723
+kontrast.at	kontrast.at	1079650008770485	Facebook	vienna	Vienna	AT	Austria	30	1	479226	181791	5865	1246
+JUNOS Studierende	JUNOS Studierende	231166380411824	Facebook	vienna	Vienna	AT	Austria	37	1	466399	116658	1915	62
+Claudia Gamon	NEOS	447992848717452	Facebook	vienna	Vienna	AT	Austria	13	1	450653	185232	2650	908
+FPÖ	FPÖ	169051073236170	Facebook	vienna	Vienna	AT	Austria	13	1	445670	205268	4072	1225
+KPÖ PLUS	KPÖ PLUS	849742871847407	Facebook	vienna	Vienna	AT	Austria	21	1	301793	69632	2578	461
+Beate Meinl-Reisinger	NEOS	243225039137708	Facebook	vienna	Vienna	AT	Austria	5	1	274071	137036	2350	502
+Othmar Karas	Volkspartei	395638503864459	Facebook	vienna	Vienna	AT	Austria	5	1	266931	119954	4964	1184
+1Europa	Peter Glawischnig	320389701908367	Facebook	vienna	Vienna	AT	Austria	17	1	227479	78735	2286	366
+GRAS - Grüne & Alternative Student_innen	GRAS - Grüne & Alternative Student_innen	79935247286	Facebook	vienna	Vienna	AT	Austria	17	1	211609	71890	1362	248
+NR KLUB JETZT	NR KLUB JETZT	833013456857401	Facebook	vienna	Vienna	AT	Austria	75	1	203178	50493	2009	28
+Alexander Van der Bellen	Österreichische Präsidentschaftskanzlei	138508202860897	Facebook	vienna	Vienna	AT	Austria	1	1	201587	100793	1007	201
+Wolfram Pirchner	Österreichischer Seniorenbund	296676857050295	Facebook	vienna	Vienna	AT	Austria	9	1	197555	84665	1634	422
+FSG - Fraktion Sozialdemokratischer GewerkschafterInnen	GewerkschafterInnen in der SPÖ	364093897023468	Facebook	vienna	Vienna	AT	Austria	14	1	196234	58743	1677	287
+Herbert Kickl	FPÖ	1977684662509834	Facebook	vienna	Vienna	AT	Austria	5	1	192271	80823	1614	344
+Andreas Schieder	SPÖ	290881691011354	Facebook	vienna	Vienna	AT	Austria	9	1	189723	62044	1396	342
+Norbert Hofer	FPÖ	1650580648552563	Facebook	vienna	Vienna	AT	Austria	9	1	179386	71031	1654	491
+Lukas Mandl	Verein VSM - Vorzugsstimmen für Mandl	436914289678818	Facebook	vienna	Vienna	AT	Austria	64	1	164804	49755	1780	130
+NEOS	NEOS	327450964017497	Facebook	vienna	Vienna	AT	Austria	13	1	160967	54775	1140	290
+Europäisches Parlament Österreich	Europäisches Parlament Österreich	124468054313069	Facebook	vienna	Vienna	AT	Austria	5	1	148968	61579	1219	235
+Pamela Rendi-Wagner	SPÖ-Parlamentsklub	1673371229636129	Facebook	vienna	Vienna	AT	Austria	16	1	126127	39177	717	57
+GPA-djp	GPA-djp	214499840736	Facebook	vienna	Vienna	AT	Austria	11	1	108253	27446	392	0
+Sozialdemokratische Partei Europas	Sozialdemokratische Partei Europas	338549033673221	Facebook	vienna	Vienna	AT	Austria	10	1	100818	32636	327	18
+ÖGB	ÖGB	179085222154531	Facebook	vienna	Vienna	AT	Austria	1	1	99999	50000	499	100
+Team Kurz	Volkspartei	1446536545429987	Facebook	vienna	Vienna	AT	Austria	5	1	94329	44764	1013	239
+NEOS Wien	NEOS Wien	580791221952500	Facebook	vienna	Vienna	AT	Austria	4	1	93166	46085	657	72
+Christian Zoll	Vorarlberger Volkspartei	601419393620184	Facebook	vienna	Vienna	AT	Austria	2	1	92959	37072	120	18
+Grüne Jugend - Grünalternative Jugend	Grüne Jugend - Grünalternative Jugend	533665483708070	Facebook	vienna	Vienna	AT	Austria	15	1	92315	32921	379	18
+Evelyn Regner	SPÖ	291746820967544	Facebook	vienna	Vienna	AT	Austria	4	1	86939	35816	561	112
+VSStÖ - Verband sozialistischer Student_innen	VSStÖ - Verband sozialistischer Student_innen	69881866093	Facebook	vienna	Vienna	AT	Austria	2	1	82214	16443	488	81
+Wirtschaftsbund Österreich	Wirtschaftsbund Österreich	385183128166442	Facebook	vienna	Vienna	AT	Austria	6	1	65695	21666	502	79
+Amnesty International Austria	Amnesty International Austria	30925241455	Facebook	vienna	Vienna	AT	Austria	6	1	59543	12984	499	81
+Die Grünen Wien	Die Grünen Wien	88676876113	Facebook	vienna	Vienna	AT	Austria	2	1	54998	11000	198	0
+Österreichische Gesellschaft für Europapolitik	Österreichische Gesellschaft für Europapolitik	290449626693	Facebook	vienna	Vienna	AT	Austria	4	1	47271	20277	1044	186
+Alex Bernhuber	Niederösterreichischer Bauernbund	382872055842390	Facebook	vienna	Vienna	AT	Austria	8	1	44545	9941	391	68
+Wochenblick	Wochenblick	991628130904203	Facebook	vienna	Vienna	AT	Austria	7	1	42866	9072	229	29
+Maysara Soliman	Maysara Soliman	169929840584692	Facebook	vienna	Vienna	AT	Austria	4	1	36008	7122	334	56
+Nurten Yilmaz	Nurten Yilmaz	160128484173405	Facebook	vienna	Vienna	AT	Austria	3	1	31744	6349	241	0
+Alma Zadic	NR KLUB JETZT	1891626681100935	Facebook	vienna	Vienna	AT	Austria	34	1	30571	5435	939	0
+Sarah Wiener	Die Grünen	970529566390833	Facebook	vienna	Vienna	AT	Austria	1	1	30124	15062	150	30
+Wilfried Haslauer	Salzburger Volkspartei	49835536470	Facebook	vienna	Vienna	AT	Austria	3	1	27426	10506	251	50
+Keinen Millimeter	Michael Dorner	356665748284436	Facebook	vienna	Vienna	AT	Austria	3	1	25137	6675	93	0
+Peter Pilz	NR KLUB JETZT	127399223970566	Facebook	vienna	Vienna	AT	Austria	7	1	24667	5881	298	35
+Wirtschaftskammer	Wirtschaftskammer	125946327466544	Facebook	vienna	Vienna	AT	Austria	1	1	23691	11845	118	23
+Unser Niederösterreich	Unser Niederösterreich	469284460250113	Facebook	vienna	Vienna	AT	Austria	1	1	22027	4405	43	0
+Arbeit&Wirtschaft Magazin	Arbeit&Wirtschaft Magazin	312134126182731	Facebook	vienna	Vienna	AT	Austria	6	1	21964	7018	163	0
+Volkspartei	Volkspartei	15078244418	Facebook	vienna	Vienna	AT	Austria	2	1	21364	8398	289	144
+KOSMO	KOSMO	191576624211837	Facebook	vienna	Vienna	AT	Austria	6	1	19696	4432	134	0
+bagru GRAS boku	bagru*GRAS*boku	110449662370582	Facebook	vienna	Vienna	AT	Austria	7	1	19519	5341	618	0
+Greenpeace Österreich	Greenpeace Österreich	32984679070	Facebook	vienna	Vienna	AT	Austria	31	1	19262	4999	620	0
+Die Grünen Oberösterreich	Die Grünen Oberösterreich	84955135551	Facebook	vienna	Vienna	AT	Austria	2	1	18242	3648	189	35
+ZARA - Zivilcourage und Anti-Rassismus-Arbeit	ZARA - Zivilcourage und Anti-Rassismus-Arbeit	100290843377097	Facebook	vienna	Vienna	AT	Austria	6	1	17949	3590	355	0
+Junge Generation Wien	Junge Generation Wien	554259997948372	Facebook	vienna	Vienna	AT	Austria	2	1	14998	6000	198	0
+AktionsGemeinschaft Uni Wien	AktionsGemeinschaft	185474925851	Facebook	vienna	Vienna	AT	Austria	3	1	14997	3000	297	0
+Julia Herr	Sozialistische Jugend Österreich	345172509462824	Facebook	vienna	Vienna	AT	Austria	1	1	14048	2809	140	28
+Simone Schmiedtbauer	Bauernbund	2423163447708524	Facebook	vienna	Vienna	AT	Austria	5	1	14009	3649	191	35
+Georg Strasser	Georg Strasser	1450886738334945	Facebook	vienna	Vienna	AT	Austria	1	1	13790	2758	27	0
+Austrian World Summit	R2o Austria & EU	1852365868311086	Facebook	vienna	Vienna	AT	Austria	12	1	12919	1388	729	0
+Ahmed Husagić	SPÖ	1617700101837646	Facebook	vienna	Vienna	AT	Austria	7	1	12790	3081	236	0
+Irmgard Griss	Irmgard Griss	1505949083037195	Facebook	vienna	Vienna	AT	Austria	1	1	11888	2377	23	0
+Petra Steger	Petra Steger	1525366237690952	Facebook	vienna	Vienna	AT	Austria	2	1	11597	5480	73	10
+Europa-Wahl 2019	Michael Eisenriegler Bakk Phil	489866264465481	Facebook	vienna	Vienna	AT	Austria	22	1	11300	2233	234	0
+Sebastian Bohrn Mena	Tierschutzvolksbegehren	1583324305255890	Facebook	vienna	Vienna	AT	Austria	21	1	11232	1585	484	0
+FPÖ Niederösterreich	FPÖ Niederösterreich	150623338441911	Facebook	vienna	Vienna	AT	Austria	2	1	10999	2199	109	21
+Markus Ornig	NEOS Wien	1604393142995063	Facebook	vienna	Vienna	AT	Austria	2	1	9998	2000	198	0
+Solidarität - Für faire Löhne & Arbeitsbedingungen	Martin Gutlederer	1987368681572469	Facebook	vienna	Vienna	AT	Austria	2	1	9998	2000	198	0
+Partei der Arbeit	Partei der Arbeit	298693416922933	Facebook	vienna	Vienna	AT	Austria	2	1	9272	4179	173	0
+LET'S CEE Film Festival	LET'S CEE Film Festival	374807339208829	Facebook	vienna	Vienna	AT	Austria	9	1	9190	2567	268	0
+Wandel	Wandel	441927269154538	Facebook	vienna	Vienna	AT	Austria	7	1	8780	1327	343	0
+NEOS Tirol	NEOS Tirol	459133680794363	Facebook	vienna	Vienna	AT	Austria	1	1	8526	1705	16	0
+Christoph Wiederkehr	NEOS Wien	1047221682152437	Facebook	vienna	Vienna	AT	Austria	1	1	8431	4216	83	0
+wienerinnen.at	Valeria Foglar-Deinhardstein 	293185317391782	Facebook	vienna	Vienna	AT	Austria	3	1	7407	1481	146	0
+Mario Kunasek	FPÖ - Landespartei Steiermark	66095458281	Facebook	vienna	Vienna	AT	Austria	1	1	7155	1431	71	14
+Udo Landbauer	FPÖ Niederösterreich	494195290313	Facebook	vienna	Vienna	AT	Austria	5	1	6882	2507	98	0
+Junge Generation in der SPÖ	Junge Generation in der SPÖ	138952762862969	Facebook	vienna	Vienna	AT	Austria	2	1	6512	1302	128	0
+Tierschutzvolksbegehren	Tierschutzvolksbegehren	1642678769161065	Facebook	vienna	Vienna	AT	Austria	13	1	6163	836	279	0
+KPÖ Wien	KPÖ	1823664304518774	Facebook	vienna	Vienna	AT	Austria	2	1	5537	1107	109	0
+Junge ÖVP	Junge ÖVP	38896933646	Facebook	vienna	Vienna	AT	Austria	1	1	5487	2743	54	0
+BIBER	BIBER	20236828906	Facebook	vienna	Vienna	AT	Austria	1	1	4999	1000	99	0
+Michael Ludwig	SPÖ Wien	328018270709073	Facebook	vienna	Vienna	AT	Austria	1	1	4999	1000	99	0
+Michael Bernhard	Michael Bernhard	217394141743074	Facebook	vienna	Vienna	AT	Austria	1	1	4999	1000	99	0
+Sozialdemokratischer Wirtschaftsverband Wien	Sozialdemokratischer Wirtschaftsverband Wien	217664835989	Facebook	vienna	Vienna	AT	Austria	1	1	4999	1000	99	0
+VSStÖ Wien	Eva Sager 	310569117205	Facebook	vienna	Vienna	AT	Austria	1	1	4999	1000	99	0
+VSStÖ Juridicum	Eva Sager 	331632570217876	Facebook	vienna	Vienna	AT	Austria	1	1	4999	1000	99	0
+Grüne Wirtschaft	Grüne Wirtschaft	134093926635579	Facebook	vienna	Vienna	AT	Austria	1	1	4999	1000	99	0
+Wirtschaftsbund Niederösterreich	Wirtschaftsbund Niederösterreich	150609794968507	Facebook	vienna	Vienna	AT	Austria	1	1	4455	891	88	0
+ServusTV	ServusTV	248450014269	Facebook	vienna	Vienna	AT	Austria	1	1	4374	874	43	8
+Steffi Krisper	Stephanie Krisper	170392456839307	Facebook	vienna	Vienna	AT	Austria	3	1	3859	771	76	0
+Politik muss wieder für die einfachen Menschen gemacht werden.	Georg Krejci	2060122567590322	Facebook	vienna	Vienna	AT	Austria	4	1	3705	671	100	0
+Freiheitliche Jugend	Freiheitliche Jugend	261850724850	Facebook	vienna	Vienna	AT	Austria	3	1	3460	1499	41	0
+Michael Raml	FPÖ Linz	1499759610320321	Facebook	vienna	Vienna	AT	Austria	3	1	3264	1073	50	0
+Gottfried Waldhäusl	FPÖ Niederösterreich	627580790692097	Facebook	vienna	Vienna	AT	Austria	2	1	3164	1245	42	0
+Volksmacht AT / Presse-Stelle		294218140927490	Facebook	vienna	Vienna	AT	Austria	3	1	2997	0	297	0
+VSStÖ Med Wien	Eva Sager 	1557561051146053	Facebook	vienna	Vienna	AT	Austria	3	1	2997	0	297	0
+Thomas Waitz	Die Grünen	235816017203590	Facebook	vienna	Vienna	AT	Austria	1	1	1923	961	19	0
+scoop.me		100745679654	Facebook	vienna	Vienna	AT	Austria	2	1	1892	313	56	0
+Herwig Mahr	Freiheitlicher Landtagsklub Oberösterreich	212990319049096	Facebook	vienna	Vienna	AT	Austria	1	1	1705	852	16	0
+Salzburger Volkspartei	Salzburger Volkspartei	243190742384882	Facebook	vienna	Vienna	AT	Austria	1	1	1498	749	14	0
+mymuesli		20393019390	Facebook	vienna	Vienna	AT	Austria	1	1	1412	282	2	0
+Hermann Schützenhöfer	Steirische Volkspartei	141720165842248	Facebook	vienna	Vienna	AT	Austria	1	1	1224	244	12	2
+Freiheitliche Bauernschaft Oberösterreich	Freiheitliche Bauernschaft Oberösterreich	124298681063701	Facebook	vienna	Vienna	AT	Austria	1	1	1215	607	12	0
+Österreich&Europa	Johann Eichhorn	396597551187061	Facebook	vienna	Vienna	AT	Austria	2	1	1198	0	118	0
+Maximilian Krauss	FPÖ-Wien	590930261019192	Facebook	vienna	Vienna	AT	Austria	1	1	1133	566	56	11
+Günther Sidl	BSA Niederösterreich	806694216374998	Facebook	vienna	Vienna	AT	Austria	4	1	976	0	96	0
+Freiheitliche Arbeitnehmer Oberösterreich	Freiheitliche Arbeitnehmer Oberösterreich	346842098763288	Facebook	vienna	Vienna	AT	Austria	1	1	887	177	17	0
+WahlSwiper		111883876144163	Facebook	vienna	Vienna	AT	Austria	1	1	852	426	8	0
+Angelika Winzig	Wirtschaftsbund Österreich	141015722773374	Facebook	vienna	Vienna	AT	Austria	1	1	755	151	14	0
+Markus Hein	FPÖ Linz	624525897689879	Facebook	vienna	Vienna	AT	Austria	1	1	747	373	7	0
+Phibie v. Aldebaran		447772735582107	Facebook	vienna	Vienna	AT	Austria	1	1	532	106	10	0
+European Commission	European Commission	107898832590939	Facebook	vienna	Vienna	AT	Austria	15	1	445	198	0	0
+SPÖ Oberösterreich	SPÖ Oberösterreich	208930355786005	Facebook	vienna	Vienna	AT	Austria	1	1	405	81	8	0
+Lui Hofmann	Ing. Mag. Ludwig Harald Hofmann	1571665456409772	Facebook	vienna	Vienna	AT	Austria	2	1	290	58	5	0
+Europäische Kommission - Vertretung in Österreich	Europäische Kommission - Vertretung in Österreich	187626534620326	Facebook	vienna	Vienna	AT	Austria	1	1	222	0	22	0
+Bildungsverein der KPÖ Steiermark	KPÖ Steiermark	124940167578420	Facebook	vienna	Vienna	AT	Austria	1	1	194	38	3	0
+A Solution to Plastic Pollution - First International Online Summit		1098001547034272	Facebook	vienna	Vienna	AT	Austria	1	1	191	95	1	0
+Volkspartei Niederösterreich	Volkspartei Niederösterreich	185269004912086	Facebook	vienna	Vienna	AT	Austria	6	1	182	80	1	0
+Sense Mesura		1606564102740842	Facebook	vienna	Vienna	AT	Austria	39	1	173	0	17	0
+INA D		47534907213	Facebook	vienna	Vienna	AT	Austria	1	1	110	0	10	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	vienna	Vienna	AT	Austria	23	1	83	35	0	0
+Gütersloher Verlagshaus		341789431722	Facebook	vienna	Vienna	AT	Austria	1	1	79	15	1	0
+GRAS Linz - Grüne und Alternative Student_innen	GRAS Linz - Grüne und Alternative Student_innen	1738792296441731	Facebook	vienna	Vienna	AT	Austria	1	1	61	12	1	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	vienna	Vienna	AT	Austria	11	1	35	15	0	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	vienna	Vienna	AT	Austria	3	1	29	12	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	vienna	Vienna	AT	Austria	1	1	6	3	0	0
 European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	vienna	Vienna	AT	Austria	1	1	3	1	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	vienna	Vienna	AT	Austria	2	1	0	0	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	vienna	Vienna	AT	Austria	3	1	1	0	0	0
+Eurozine		115579498521257	Facebook	vienna	Vienna	AT	Austria	1	1	1	0	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	vienna	Vienna	AT	Austria	5	1	0	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	vienna	Vienna	AT	Austria	2	1	0	0	0	0
+Big News Buzz		125179374733697	Facebook	vienna	Vienna	AT	Austria	1	1	0	0	0	0
+Europe Thinx		335839580440114	Facebook	vienna	Vienna	AT	Austria	1	1	0	0	0	0
+CRIF		395919323779707	Facebook	vienna	Vienna	AT	Austria	1	1	0	0	0	0
+ETUC		129041250601685	Facebook	vienna	Vienna	AT	Austria	1	1	0	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	vienna	Vienna	AT	Austria	1	1	0	0	0	0
+I LOVE GERASDORF	ÖVP Gerasdorf	225716772430	Facebook	vienna	Vienna	AT	Austria	2	1	0	0	0	0
+Ne u moje ime		138418753446889	Facebook	vienna	Vienna	AT	Austria	1	1	0	0	0	0
+Lucia Kleštincová	EUpositive.sk	1933440166748185	Facebook	vienna	Vienna	AT	Austria	1	1	0	0	0	0
+MN Benito		1273446302821491	Facebook	vienna	Vienna	AT	Austria	1	1	0	0	0	0
+dom-i-NEEK		260052198180831	Facebook	vienna	Vienna	AT	Austria	1	1	0	0	0	0
+CLAYTON		122493385103	Facebook	vienna	Vienna	AT	Austria	1	1	0	0	0	0

@@ -1,29 +1,81 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	9	1	7651	3627	38	4
-Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	10	1	4965	1082	17	0
-Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	3	1	3650	1431	6	0
-SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	3	1	3089	617	7	0
-Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	4	1	2833	612	6	0
-HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	1014	202	2	0
-European Parliament	European Parliament	178362315106	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	887	177	1	0
-Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	869	173	2	0
-Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	864	172	1	0
-Jozo Radoš	Jozo Radoš	446717938731095	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	5	1	677	195	11	0
-Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	15	1	533	42	35	0
-Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	404	80	0	0
-Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	387	164	4	0
-Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	341	170	3	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	3	1	326	159	0	0
-Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	4	1	305	58	7	0
-Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	299	120	3	0
-Tomislav Stojak	Hrvatska narodna stranka - liberalni demokrati (HNS)	442201595870855	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	295	59	5	0
-Marijana Petir	Marijana Petir	1418903245032313	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	221	110	2	0
-Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	135	27	2	0
-Krešo Beljak	Vlahovic Mario	52929105855	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	131	26	2	0
-Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	120	60	1	0
-European Commission	European Commission	107898832590939	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	83	41	0	0
+HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	49	1	106326	44860	410	108
+SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	16	1	52433	22285	56	2
+Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	19	1	46357	20853	132	27
+Europski parlament, Ured za informiranje u Republici Hrvatskoj	Europski parlament, Ured za informiranje u Republici Hrvatskoj	508795765833382	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	21	1	41552	18669	94	9
+European Parliament	European Parliament	178362315106	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	15	1	39670	18401	115	33
+Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	18	1	29173	12154	80	11
+Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	20	1	22802	8113	93	15
+Slobodna Dalmacija	Slobodna Dalmacija	100267330025110	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	25	1	19110	5640	50	0
+European Greens	European Greens	141366725876424	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	6	1	17494	7420	53	20
+Marijana Petir	Marijana Petir	1418903245032313	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	9	1	17471	5289	50	5
+Miro Bulj	MOST nezavisnih lista	1252295741481540	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	8	1	14299	5665	37	5
+MOST nezavisnih lista	MOST nezavisnih lista	388550077899912	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	10	1	13658	5275	53	9
+Model European Union Zagreb - MEUZ	Divea Studio	521874817895935	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	5	1	13167	5588	16	0
+Joško Klisović	Klisovic Josko	1262594650584725	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	14	1	12383	3324	35	0
+Sunčana Glavak	HDZ - Hrvatska demokratska zajednica	482597361772021	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	4	1	10487	4166	53	10
+European Commission	European Commission	107898832590939	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	21	1	10412	5046	14	4
+Jozo Radoš	Jozo Radoš	446717938731095	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	8	1	7095	1419	18	0
+Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	8	1	6732	2072	22	2
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	4760	2380	3	0
+SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	11	1	4666	1746	23	0
+Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	18	1	4654	939	42	0
+Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	3	1	4293	858	17	2
+Stjepan Adanić	HDZ - Hrvatska demokratska zajednica	408695383042330	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	3	1	3836	1645	9	1
+Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	3633	1816	9	1
+Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	20	1	3545	882	30	0
+GLAS Građansko-liberalni savez	GLAS Građansko-liberalni savez	231052047413325	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	3	1	3407	681	20	3
+Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	5	1	3307	722	10	0
+Stjepan Ribić	HDZ - Hrvatska demokratska zajednica	451335681696047	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	3	1	3187	1265	13	1
+Saša Poljanec-Borić	Hrvatska socijalno liberalna stranka	1914254365351413	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	3156	1578	14	2
+HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	3102	1266	4	0
+Krešo Beljak	Vlahovic Mario	52929105855	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	2936	1134	11	1
+BIOM	BIOM	138743669505642	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	7	1	2933	762	16	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	15	1	2814	1224	5	1
+Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	4	1	2550	946	14	2
+Nikolina Brnjac	HDZ - Hrvatska demokratska zajednica	287054392229717	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	2327	465	13	2
+Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	2187	437	4	0
+Dr. sc. Tomislav Sokol	HDZ - Hrvatska demokratska zajednica	136900153422435	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	3	1	2033	403	5	0
+Goran Pauk	HDZ - Hrvatska demokratska zajednica	581489628528785	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	2010	402	3	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	9	1	1876	735	2	0
+Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	12	1	1493	449	24	0
+Nova ljevica	Možemo - politička platforma	706769699498076	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	1481	296	2	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	1441	721	7	1
+Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	1422	360	4	0
+Marijana Balić	HDZ - Hrvatska demokratska zajednica	1274752085892321	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	1210	242	12	2
+Tonino Picula	Tonino Picula	156057951248853	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	1204	240	2	0
+Davor Škrlec	Zastupnik u Europskom parlamentu Davor Škrlec	1507744276110325	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	1204	240	2	0
+Tomislav Stojak	Hrvatska narodna stranka - liberalni demokrati (HNS)	442201595870855	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	1100	220	5	0
+Habib Tahiri	Hrvatska narodna stranka - liberalni demokrati (HNS)	750800161983664	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	1033	206	2	0
+Hrvatska stranka umirovljenika	Hrvatska stranka umirovljenika	1437793016448632	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	1024	204	2	0
+pametno.org	Pametno	144815235686385	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	4	1	777	300	10	0
+Sanja Radolović	Radolovic Sanja	508755779649081	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	6	1	689	207	11	0
+Diana Topčić-Rosenberg	TOPCIC-ROSENBERG DIANA	1702271996513206	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	3	1	688	238	10	0
+Zelena lista		157025101623973	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	623	253	7	0
+Gong	Gong	135611546456409	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	4	1	438	179	5	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	3	1	285	130	0	0
+HSS Hrvatska	Vlahovic Mario	236043376446622	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	191	95	1	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	175	87	1	0
+Gordan Maras		451079008266520	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	171	34	3	0
+Davor Nađi	Nadi Davor	1640498249359280	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	150	60	1	0
+Informativno Dokumentacijski Centar Banije I Korduna		1902779853072038	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	106	21	1	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	4	1	86	38	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	3	1	69	13	0	0
+Željka Markić		210218862695602	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	68	13	1	0
+Greenpeace Hrvatska	Greenpeace Hrvatska	359170097532754	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	3	1	64	0	5	0
+Telegram.hr		688325737947866	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	29	0	2	0
+CRIF		395919323779707	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	27	13	0	0
+Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	26	13	0	0
+Europe Thinx		335839580440114	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	25	5	0	0
 European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	24	12	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	21	6	0	0
-SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	19	0	1	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	19	3	0	0
 Kulturpunkt.hr		89410579392	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	17	0	1	0
-Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	8	1	0	0
+Demokratikus Koalíció	Demokratikus Koalíció	169599166463839	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	2	1	12	6	0	0
+Radnička Fronta		770459529655215	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	11	0	1	0
+DK Nagykanizsa	Demokratikus Koalíció	704399322958470	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	5	1	0	0
+ETUC		129041250601685	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	5	1	0	0
+Stranka hrvatskog zajedništva		944262495628175	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	4	0	0	0
+Ne u moje ime		138418753446889	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	3	0	0	0
+Hydrogene Technologies Hungary	Nagy Tamás	406305670209771	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	2	1	0	0
+Schmuck Erzsébet	LMP - Lehet Más a Politika	1461534750733248	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	1	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	koprivnica_krizevci_county_HR	Koprivnica-Križevci County, Croatia	1	1	1	0	0	0

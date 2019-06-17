@@ -1,15 +1,26 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Gouvernement	Gouvernement	392341217527576	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	30	1	473933	191361	751	175
-European Parliament	European Parliament	178362315106	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	1	1	85714	42857	428	85
-Cogito	Cogito	2059332547662115	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	1	1	5296	2648	5	0
-Fille Unique	Sébastien Jean-Pierre Paul Henri Gourdon	268836617151334	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	1	1	3888	777	38	7
-VoteEuropa - France	Jules Nicolas André Bejot 	2031732090462417	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	2	1	1300	471	18	0
-Eurolapins	Pulse of Europe France	755726434768654	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	2	1	1182	480	47	8
-European Commission	European Commission	107898832590939	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	2	1	718	359	1	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	1	1	209	105	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	2	1	59	12	0	0
-Parti Populaire - Le Peuple	Parti Populaire - Le Peuple	482811111771571	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	1	1	20	4	0	0
-Charis Kamoen	Kamoen Charis Oswald M	207387513240677	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	1	1	12	2	0	0
-Hendrik Bogaert	Bogaert Hendrik Frank	277636928983663	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	2	1	10	2	0	0
-Open Vld	Open Vld	53668151866	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	1	1	1	0	0	0
-Wouter Vermeersch	Vlaams Belang	1819099895078637	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	1	1	1	0	0	0
+Gouvernement	Gouvernement	392341217527576	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	40	1	1018639	447773	5794	1260
+European Parliament	European Parliament	178362315106	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	13	1	405646	184483	2790	603
+Greenpeace France	Greenpeace France	39435457457	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	15	1	223133	96678	872	212
+Make.org	Make.org	122037308191612	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	6	1	99375	43282	1347	285
+Agence française pour la biodiversité	Agence française pour la biodiversité	500437833654583	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	1	1	82975	41488	414	82
+Avaaz	Avaaz	8340223883	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	3	1	66793	33250	346	66
+GRDF	GRDF	314443337102	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	1	1	61609	30805	307	61
+Cogito	Cogito	2059332547662115	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	12	1	51194	19107	176	26
+European Free Alliance	European Free Alliance	46708306425	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	2	1	39804	15958	403	80
+Jam		299724236866849	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	1	1	35519	14208	316	63
+Le mouvement	~ le mouvement	1030528233746321	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	1	1	31606	12642	316	63
+VoteEuropa - France	Jules Nicolas André Bejot 	2031732090462417	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	7	1	27409	5481	252	47
+EcoTree	EcoTree	386108291584856	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	1	1	26524	10609	26	5
+Fille Unique	Sébastien Jean-Pierre Paul Henri Gourdon	268836617151334	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	2	1	24233	12116	121	48
+WWF-France	WWF-France	145392792632	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	22	1	18943	4724	179	8
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	16	1	12149	5278	20	9
+CARE France	CARE France	93745060700	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	6	1	7476	1635	39	0
+Sciences Po	Sciences Po	212218225479739	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	2	1	7310	1462	44	7
+Service-Public.fr	Service-Public.fr	244226855990028	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	1	1	6628	1325	66	13
+Il est encore temps	Il est encore temps	353979872007801	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	1	1	5545	2772	27	5
+Eurolapins	Pulse of Europe France	755726434768654	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	4	1	5273	1252	67	8
+Jean Létoquart		1882806205107561	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	1	1	4999	1000	99	0
+Déclic	OFAJ	472408162883256	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	4	1	4550	898	17	0
+Elio Di Rupo	Parti Socialiste (PS)	16301530829	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	16	1	4363	1594	47	9
+La Poste		173022039045	Facebook	nord_pas_de_calais_FR	Nord-Pas-de-Calais, France	4	1	4205	2103	41	0

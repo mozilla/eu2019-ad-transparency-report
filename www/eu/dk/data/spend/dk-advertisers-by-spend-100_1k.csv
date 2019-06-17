@@ -1,13 +1,231 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	spend_code_filter	spend_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Det Konservative Folkeparti	Det Konservative Folkeparti	39233495912	Facebook	100_1k	100 - 1k	DK	Denmark	29	1	1411540	315790	18227	3692
-Socialdemokratiet	Socialdemokratiet	41459763029	Facebook	100_1k	100 - 1k	DK	Denmark	7	1	242708	50281	2318	556
-Mette Abildgaard	Mette Abildgaard	309867232515766	Facebook	100_1k	100 - 1k	DK	Denmark	8	1	204297	46075	1803	500
-Venstre, Danmarks Liberale Parti	Venstre, Danmarks Liberale Parti	21465928829	Facebook	100_1k	100 - 1k	DK	Denmark	3	1	84765	18691	824	211
-Enhedslisten	Enhedslisten	223040066022	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	55793	12897	746	172
-European Parliament	European Parliament	178362315106	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49996	9999	498	99
-Mona Juul	Mona Juul	2079067062409423	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	34766	8691	155	77
-Lise Müller	Müller Lise	145989963343	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	28972	5794	77	38
-Mette Thiesen	Mette Thiesen	718327901589937	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5786	2893	77	38
-European Commission	European Commission	107898832590939	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	961	481	2	0
+Venstre, Danmarks Liberale Parti	Venstre, Danmarks Liberale Parti	21465928829	Facebook	100_1k	100 - 1k	DK	Denmark	61	1	3964045	1455618	30622	7682
+Det Konservative Folkeparti	Det Konservative Folkeparti	39233495912	Facebook	100_1k	100 - 1k	DK	Denmark	47	1	2228662	627171	29325	7435
+Socialdemokratiet	Socialdemokratiet	41459763029	Facebook	100_1k	100 - 1k	DK	Denmark	40	1	1959482	591341	21193	5778
+Morten Klessen	Socialdemokratiet i Nordjylland	1039840406189567	Facebook	100_1k	100 - 1k	DK	Denmark	13	1	1064530	499017	5636	1413
+Enhedslisten	Enhedslisten	223040066022	Facebook	100_1k	100 - 1k	DK	Denmark	26	1	989169	272686	8906	2445
+SF	SF	74796954245	Facebook	100_1k	100 - 1k	DK	Denmark	23	1	911483	184038	10068	2223
+European Parliament	European Parliament	178362315106	Facebook	100_1k	100 - 1k	DK	Denmark	7	1	899922	419971	5992	2699
+Nikolaj Villumsen	Nikolaj Villumsen	529124290474705	Facebook	100_1k	100 - 1k	DK	Denmark	19	1	858894	255788	10519	2850
+Margrete Auken	SF	36730930417	Facebook	100_1k	100 - 1k	DK	Denmark	21	1	851386	173757	10505	2241
+Dansk Folkeparti	Dansk Folkeparti	520449347983427	Facebook	100_1k	100 - 1k	DK	Denmark	6	1	668427	334216	3804	1099
+Europa-Parlamentet i Danmark	Europa-Parlamentet i Danmark	128700897207990	Facebook	100_1k	100 - 1k	DK	Denmark	14	1	533198	141856	5227	1208
+Pia Olsen Dyhr	SF	49348971479	Facebook	100_1k	100 - 1k	DK	Denmark	18	1	508337	111146	6024	1607
+Tommy Ahlers	Ahlers Tommy	2121857298076689	Facebook	100_1k	100 - 1k	DK	Denmark	12	1	490551	101589	6256	1321
+Mai Mercado	Mai Mercado	397094903687472	Facebook	100_1k	100 - 1k	DK	Denmark	13	1	473167	101589	6334	1360
+Zenia Stampe	Zenia Stampe	127344360615074	Facebook	100_1k	100 - 1k	DK	Denmark	14	1	463715	133175	5228	1208
+Søren Pape Poulsen	Søren Pape Poulsen	952334508116178	Facebook	100_1k	100 - 1k	DK	Denmark	10	1	461058	149216	5785	1687
+Mette Abildgaard	Mette Abildgaard	309867232515766	Facebook	100_1k	100 - 1k	DK	Denmark	12	1	454293	126075	4481	1036
+Dansk Industri - DI	Dansk Industri	141343589252160	Facebook	100_1k	100 - 1k	DK	Denmark	11	1	448499	123178	4403	997
+Mona Juul	Mona Juul	2079067062409423	Facebook	100_1k	100 - 1k	DK	Denmark	13	1	365882	81870	3966	979
+Bergur Larsson Løkke Rasmussen	Bergur Løkke Rasmussen	141378109375840	Facebook	100_1k	100 - 1k	DK	Denmark	11	1	365270	92642	4889	1240
+Nikolaj Bøgh	Nikolaj Bøgh	674034729594774	Facebook	100_1k	100 - 1k	DK	Denmark	6	1	363735	164486	2240	518
+Zetland	Zetland	341299649231023	Facebook	100_1k	100 - 1k	DK	Denmark	5	1	347456	111600	1465	532
+BUPL	BUPL	359674067377201	Facebook	100_1k	100 - 1k	DK	Denmark	7	1	347374	107373	4368	1381
+Niels Flemming Hansen	Hansen Niels Flemming Schultz	177609692660255	Facebook	100_1k	100 - 1k	DK	Denmark	9	1	325782	72896	5432	1109
+Sophie Løhde	Sophie Løhde	699619700116377	Facebook	100_1k	100 - 1k	DK	Denmark	12	1	323736	103429	2113	655
+Jeppe Kofod	Socialdemokratiet	137685999659722	Facebook	100_1k	100 - 1k	DK	Denmark	7	1	320275	159271	2318	556
+Fagbevægelsens Hovedorganisation	Fagbevægelsens Hovedorganisation	261599053881378	Facebook	100_1k	100 - 1k	DK	Denmark	7	1	318418	101579	4263	1529
+Lars Løkke Rasmussen	Venstre, Danmarks Liberale Parti	58140803787	Facebook	100_1k	100 - 1k	DK	Denmark	6	1	307940	91589	2832	613
+FOA	FOA	132344416862423	Facebook	100_1k	100 - 1k	DK	Denmark	5	1	307940	121588	2163	479
+Petar Socevic - Radikale Venstre	Socevic Petar	2190488887846226	Facebook	100_1k	100 - 1k	DK	Denmark	6	1	299994	59999	4016	803
+Pernille Weiss	Det Konservative Folkeparti	2071183673144991	Facebook	100_1k	100 - 1k	DK	Denmark	16	1	294736	91321	8722	2153
+Troels Lund Poulsen	Poulsen Troels Lund	139443622778678	Facebook	100_1k	100 - 1k	DK	Denmark	8	1	287658	59271	3579	785
+Mia Tang	Mia Tang	358828094665364	Facebook	100_1k	100 - 1k	DK	Denmark	7	1	286913	57383	2909	651
+Linea Søgaard-Lidell	Søgaard-Lidell Linea	1002755833225691	Facebook	100_1k	100 - 1k	DK	Denmark	7	1	284717	58683	3501	746
+Thomas Thomsen	Thomsen Thomas	155006118510945	Facebook	100_1k	100 - 1k	DK	Denmark	4	1	278904	115763	2085	440
+René Nord Hansen - folketingskandidat	Det Konservative Folkeparti	779582492178326	Facebook	100_1k	100 - 1k	DK	Denmark	6	1	255789	52897	3424	708
+Plantebevægelsen	Plantebevægelsen	136775899834790	Facebook	100_1k	100 - 1k	DK	Denmark	5	1	249995	50000	3346	669
+Ali Aminali	Det Konservative Folkeparti	1452133531486822	Facebook	100_1k	100 - 1k	DK	Denmark	9	1	224746	46688	3931	1363
+Erik Poulsen - kandidat til Europa-Parlamentet	Erik Poulsen - kandidat til Europa-Parlamentet	203735820417737	Facebook	100_1k	100 - 1k	DK	Denmark	8	1	220789	64530	4065	1028
+Asger Christensen i EU	Christensen Asger Bank Møller	1450750935146684	Facebook	100_1k	100 - 1k	DK	Denmark	11	1	213732	51439	2628	712
+Per Møller	Det Konservative Folkeparti	279383622197240	Facebook	100_1k	100 - 1k	DK	Denmark	5	1	205790	42897	2754	574
+Alternativet	Alternativet	676061179094769	Facebook	100_1k	100 - 1k	DK	Denmark	6	1	203748	69492	1543	570
+Anders Krojgaard Lund	Det Konservative Folkeparti	310638582806533	Facebook	100_1k	100 - 1k	DK	Denmark	3	1	199997	69999	2008	401
+Klaus Riskær Pedersen	Parti Klaus Riskaer Pedersen	728307113871618	Facebook	100_1k	100 - 1k	DK	Denmark	4	1	199996	40000	2677	535
+Ældre Sagen	Ældre Sagen	126543540781090	Facebook	100_1k	100 - 1k	DK	Denmark	9	1	197474	48972	2473	634
+Alex Vanopslagh	Alex Vanopslagh	671022293105597	Facebook	100_1k	100 - 1k	DK	Denmark	8	1	185422	40562	620	310
+Liberal Alliance	Liberal Alliance	106952222676974	Facebook	100_1k	100 - 1k	DK	Denmark	6	1	173817	34764	465	232
+Mette Frederiksen	Socialdemokratiet	57497067718	Facebook	100_1k	100 - 1k	DK	Denmark	6	1	169530	37383	1648	422
+Der er noget, der ikke stemmer	The Brand Agency ApS	607503123085160	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	168433	84217	1127	563
+Danmarks Socialdemokratiske Ungdom (DSU)	DSU	126084211821	Facebook	100_1k	100 - 1k	DK	Denmark	5	1	155817	45532	1465	532
+Amnesty International Danmark	Amnesty International Danmark	36664432940	Facebook	100_1k	100 - 1k	DK	Denmark	4	1	155790	32897	2085	440
+Simon Emil Ammitzbøll-Bille	Liberal Alliance	1489320827982521	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	149998	60000	1338	267
+Kira Marie Peter-Hansen	Peter-Hansen Kira Marie	1497190180404355	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	149995	59998	1338	267
+Jan E. Jørgensen	Jørgensen Jan Ejnar	329413910880676	Facebook	100_1k	100 - 1k	DK	Denmark	3	1	149994	29999	2008	401
+VoteEuropa Danmark	Channirr Rizwana Shah	325480551446041	Facebook	100_1k	100 - 1k	DK	Denmark	3	1	149991	29998	2008	401
+Nye Borgerlige	Nye Borgerlige	646746285466931	Facebook	100_1k	100 - 1k	DK	Denmark	3	1	149991	29998	2008	401
+Karina Lorentzen Dehnhardt	Dehnhardt Karina Lorentzen	116061635098137	Facebook	100_1k	100 - 1k	DK	Denmark	5	1	142710	30281	979	289
+Stig Grenov	Kristendemokraterne	461906303966227	Facebook	100_1k	100 - 1k	DK	Denmark	3	1	142106	41054	1902	549
+Kuzma Pavlov Jensen	Det Konservative Folkeparti	2798719490153637	Facebook	100_1k	100 - 1k	DK	Denmark	4	1	138969	30794	2085	440
+Niels Fuglsang	Fuglsang Niels Peder Rindum	264009771074617	Facebook	100_1k	100 - 1k	DK	Denmark	11	1	136068	31953	2628	712
+Morten Helveg Petersen	Morten Helveg Petersen	442403485851495	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	134200	52104	1232	415
+Lise Müller	Müller Lise	145989963343	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	128971	55794	746	172
+Dino Selimović	Selimovic Dino	423838101331835	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	128971	55794	746	172
+Morten Messerschmidt	Morten Messerschmidt	111394892261429	Facebook	100_1k	100 - 1k	DK	Denmark	3	1	128970	25794	1416	306
+Rasmus Norup	Det Konservative Folkeparti	1662803373975162	Facebook	100_1k	100 - 1k	DK	Denmark	3	1	128970	25794	1416	306
+Marie Høgh  - konservativ folketingskandidat i Københavns storkreds	Det Konservative Folkeparti	369282413923161	Facebook	100_1k	100 - 1k	DK	Denmark	7	1	128968	34486	1726	461
+Gitte Willumsen - Folketingskandidat for Venstre	Willumsen Gitte	1751959911736210	Facebook	100_1k	100 - 1k	DK	Denmark	5	1	123736	29486	1571	384
+Caspar Stefani	Det Konservative Folkeparti	1333714923324143	Facebook	100_1k	100 - 1k	DK	Denmark	6	1	123174	31589	1648	422
+Mellemfolkeligt Samvirke	Mellemfolkeligt Samvirke	5624899398	Facebook	100_1k	100 - 1k	DK	Denmark	5	1	119531	27383	979	289
+Frederik Bloch Münster	Det Konservative Folkeparti	161801967707312	Facebook	100_1k	100 - 1k	DK	Denmark	5	1	119531	27383	979	289
+Morten Østergaard	Radikale Venstre	252520351444054	Facebook	100_1k	100 - 1k	DK	Denmark	4	1	115889	23178	310	155
+Steffen Mølgaard	Det Konservative Folkeparti	1902645456721589	Facebook	100_1k	100 - 1k	DK	Denmark	4	1	115791	27897	2085	440
+Charlotte Libach	Johansen Charlotte Libach	161798761017183	Facebook	100_1k	100 - 1k	DK	Denmark	5	1	114478	26371	1571	384
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	100_1k	100 - 1k	DK	Denmark	13	1	113846	26045	1020	210
+Joachim Hjorting	Det Konservative Folkeparti	1476612932380077	Facebook	100_1k	100 - 1k	DK	Denmark	4	1	111586	25794	1493	345
+Isabella Arendt	Kristendemokraterne	231609407194100	Facebook	100_1k	100 - 1k	DK	Denmark	3	1	109997	25000	2008	401
+Merete Scheelsbeck	Scheelsbeck Merete Elizabeth	1477361382543402	Facebook	100_1k	100 - 1k	DK	Denmark	5	1	108968	30794	2754	574
+Søren Valgreen Knudsen - Folketingskandidat	Knudsen Soren Valgreen	1727075740642843	Facebook	100_1k	100 - 1k	DK	Denmark	3	1	107943	21589	824	211
+Troels Stru Schmidt	Schmidt Troels Stru	543881642649343	Facebook	100_1k	100 - 1k	DK	Denmark	3	1	105792	22897	1416	306
+Lise Bech - Dansk Folkeparti	Bech Lise	665462313475794	Facebook	100_1k	100 - 1k	DK	Denmark	3	1	105792	22897	1416	306
+IDA	IDA	154415494575789	Facebook	100_1k	100 - 1k	DK	Denmark	6	1	104299	26075	465	232
+Naser Khader	Naser Khader	1995019340791443	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	99999	49999	669	133
+Eva Kjer Hansen	Hansen Eva Kjer	331049873725952	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	99999	50000	669	133
+FDM	FDM	46265612799	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	99998	20000	1338	267
+Rosa Lund	Enhedslisten	195621950482248	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	99998	20000	1338	267
+Steffen Sjørslev - Liberal Alliance	Sjorslev Steffen	339937129764672	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	99997	20000	1338	267
+Så er det nu: Gør valget grønt	Jørgensen Mattias Friis	2074470782634792	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	99997	20000	1338	267
+Peter Skaarup	Dansk Folkeparti	691707047549076	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	99838	19968	1336	267
+Konservativ Ungdom	Konservativ Ungdom	119769598101853	Facebook	100_1k	100 - 1k	DK	Denmark	4	1	90559	21589	901	250
+Jacob Mark	SF	69985338410	Facebook	100_1k	100 - 1k	DK	Denmark	3	1	86917	17383	232	116
+Ida Auken	Ida Auken	24352982198	Facebook	100_1k	100 - 1k	DK	Denmark	3	1	84765	18691	824	211
+3F - Danmarks Stærkeste Fagforening	3F - Danmarks Stærkeste Fagforening	109012749124622	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	84216	42108	563	281
+Alternativet - Storkreds København	Alternativet	1645812852307131	Facebook	100_1k	100 - 1k	DK	Denmark	3	1	81868	16374	824	211
+Rune Christiansen - Radikale Venstre	Christiansen Rune	170821413115387	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	78971	15794	746	172
+Sissel van Run-Kvist	Kvist Sissel	176580099127279	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	78971	15794	746	172
+Erling Bonnesen	Bonnesen Erling Faber	390925417751473	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	78971	15794	746	172
+Pernille Skipper	Pernille Skipper	547840621916967	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	78971	15794	746	172
+Kunsthal Charlottenborg	Kunsthal Charlottenborg	210190795661724	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	78935	15787	746	172
+Henrik Sass Larsen	Socialdemokratiet	530069377053107	Facebook	100_1k	100 - 1k	DK	Denmark	5	1	75326	20281	387	193
+Oxfam IBIS	Oxfam IBIS	144965885963	Facebook	100_1k	100 - 1k	DK	Denmark	5	1	75001	36633	2649	722
+Marianne Vind	Marianne Vind	329236874385098	Facebook	100_1k	100 - 1k	DK	Denmark	5	1	74482	21374	1571	384
+Theresa Scavenius	Theresa Scavenius	406921453049822	Facebook	100_1k	100 - 1k	DK	Denmark	5	1	73173	21588	979	289
+Christel Schaldemose	Christel Schaldemose	424159230945271	Facebook	100_1k	100 - 1k	DK	Denmark	4	1	71585	20794	1493	345
+Sammen er du stærkere	HK Danmark	732591266819090	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	71052	14210	1233	415
+Venstres Ungdom - VU	Venstres Ungdom - VU	167412043730	Facebook	100_1k	100 - 1k	DK	Denmark	5	1	67373	16950	979	289
+Verner i Folketinget	Verner Sand Kirk	935600569947728	Facebook	100_1k	100 - 1k	DK	Denmark	3	1	65792	17897	1416	306
+Rune Frøding	Frøding Rune	493940517678048	Facebook	100_1k	100 - 1k	DK	Denmark	4	1	64477	16372	901	250
+Mette Thiesen	Mette Thiesen	718327901589937	Facebook	100_1k	100 - 1k	DK	Denmark	6	1	62109	22370	1055	327
+European Commission	European Commission	107898832590939	Facebook	100_1k	100 - 1k	DK	Denmark	17	1	58398	26940	58	20
+SF Ungdom	SF Ungdom	113555862534	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	57945	28972	77	38
+Our Europe - Vores Europa	Vores Europa	255229414620957	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	57944	11589	155	77
+Anne Honoré Østergaard	Ostergaard Anne Honore	1719764131664489	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	57944	11589	155	77
+Dansk Sygeplejeråd	Dansk Sygeplejeråd	141531689719	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	57944	11589	155	77
+Folketingskandidat Anders G. Christensen	Christensen Anders Georg	1394304720620628	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	57944	11589	155	77
+Danske Bank	Danske Bank	130388840342741	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	57944	11589	155	77
+Jeanné Vetling - Radikale Venstre	Vetling Jeanné Stobbe	1036916083074871	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	55793	12897	746	172
+Vivi Nør Jacobsen	Jacobsen Vivi Nor	1492301517467484	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	55793	12897	746	172
+Mads Fuglede	Mads Fuglede	1554525611484429	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	55793	12897	746	172
+Jeppe Bruus	Christensen Jeppe Bruus	340189926157676	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	55793	12897	746	172
+Kim Valentin	Valentin Kim	362875644473220	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	52895	10579	746	172
+Jens Meilvang	Meilvang Jens	1550318855207094	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	52895	10579	746	172
+Mads Andersen	Det Konservative Folkeparti	153005544821843	Facebook	100_1k	100 - 1k	DK	Denmark	4	1	51867	16374	1493	345
+Camilla Hersom - Radikale Venstre	Hersom Camilla	425927674119415	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	50026	10005	641	320
+Benny Engelbrecht	Socialdemokratiet	270431402967189	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49999	10000	669	133
+Rasmus Vestergaard Madsen	Madsen Rasmus Vestergaard	196270790402710	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49999	10000	669	133
+Laura Lindahl	Laura Lindahl	504310436316194	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49999	10000	669	133
+Mette Poulsen	Poulsen Mette	1732891513391281	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49999	10000	669	133
+European Greens	European Greens	141366725876424	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49999	9999	499	100
+Henrik Noes Piester - kandidat til Europa-Parlamentet 2019	Piester Henrik Noes	2104859779842952	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49999	10000	669	133
+Folketingskandidat Jørgen Nielsen	Nielsen Jørgen	1922596311326861	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49999	10000	669	133
+Stén Knuth	Knuth Stén	449803521791656	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49999	10000	669	133
+Sex og Samfund	Sex og Samfund	250994288337708	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49999	10000	669	133
+Theresa Blegvad, Aarhus Byråd	Venstre, Danmarks Liberale Parti	401991943254934	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49999	10000	669	133
+Pia Kjærsgaard	Dansk Folkeparti	33510214383	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49999	10000	669	133
+Charlotte Green	Det Konservative Folkeparti	1895601153841380	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49999	10000	669	133
+Katrine Robsøe	Robsøe Katrine Kjaer	1791759817712146	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49999	10000	669	133
+Karina Rohrberg Jessen	Thomsen Hans Kargaard	168657049964070	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49999	10000	669	133
+Kristian Pihl Lorentzen	Lorentzen Kristian Pihl	1956719637909855	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49999	10000	669	133
+SF Amager KBH	Rasmus Steenberger	262391220488874	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49999	10000	669	133
+Dina Raabjerg - Kandidat til EU - En jysk stemme	Myrup Dina Hoff	262868500820455	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49998	9999	669	133
+Tina Christensen	Frandsen Søren Orlof	372304226446022	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49998	10000	669	133
+Peter Miltersen Sørensen	Sørensen Peter Miltersen	1958321471140367	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49998	9999	669	133
+Geodrilling	Andersen Soren	234290023402609	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49998	9999	669	133
+Charlotte Munch - Politiker	Munch Charlotte	210317432480139	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49992	9998	669	133
+Martin Henriksen	Dansk Folkeparti	1604502423155684	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	49992	9998	669	133
+Lizette Risgaard	Lizette Risgaard	547601668763372	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	42108	21054	563	281
+Kristian Thulesen Dahl	Dansk Folkeparti	531761723507375	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	42108	21054	563	281
+Birgitte Bergman	Det Konservative Folkeparti	314962322593667	Facebook	100_1k	100 - 1k	DK	Denmark	3	1	40560	11589	232	116
+Andreas Steenberg	Streenberg Andreas Frost	132364993978468	Facebook	100_1k	100 - 1k	DK	Denmark	3	1	37663	9271	232	116
+Karsten Hønge	SF	1246666085407861	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	34766	8691	155	77
+Philip Tarning-Andersen	Tarning-Andersen Philip	1546391055463179	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	34766	8691	155	77
+Henrik Jørgensen - Folketingskandidat for Venstre Brønderslevkredsen	Ladefoged Martin Aggerholm	523900267627364	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	34766	8691	155	77
+Villy Søvndal	SF	8611462388	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	34766	8691	155	77
+Casper Pedersen	Pedersen Casper	2252326791657399	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	34745	8687	154	77
+Ulla Tørnæs	Ulla Tørnæs	1442400742660069	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	28972	5794	77	38
+Michael Aastrup Jensen	Jensen Michael Aastrup	389665107805619	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	28972	5794	77	38
+Stine Helles, spidskandidat, Alternativet Fyn	Helles Stine	1202144586507625	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	28972	5794	77	38
+Britt Bager	Bager Britt	460055244123143	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	28972	5794	77	38
+Mette Gjerskov - Socialdemokratiet	Mette Gjerskov - Socialdemokratiet	130494840642224	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	28972	5794	77	38
+Anders Burlund - Liberal Alliance	Burlund Andres Preben	256725284456505	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	28972	5794	77	38
+Camilla Lydiksen	Lydiksen Camilla Louise	512961532554394	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	28972	5794	77	38
+Alternativet Nordjylland	Alternativet Nordjylland	1434894720136798	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	28972	5794	77	38
+Per Husted i Folketinget	Nielsen Per Husted	125832481208156	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	28972	5794	77	38
+En grønnere planet	Greenpeace Danmark	301647537160818	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	28972	5794	77	38
+Hizb ut Tahrir Skandinavien	Shoaib Umais Usman	256932138237638	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	28972	5794	77	38
+Claus Hasselmann - Folketingskandidat	Hasselmann Claus	611297145887529	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	28969	5794	77	38
+Dansk Magisterforening	Dansk Magisterforening	314676938743	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	28969	5793	77	38
+Nyt Europa	Nyt Europa	284571169850	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	28968	5793	77	38
+Nick Zimmermann - Dansk Folkeparti	Zimmermann Nick	331034483992282	Facebook	100_1k	100 - 1k	DK	Denmark	7	1	26071	8691	542	271
+Helle  Bonnesen	Det Konservative Folkeparti	221368818036876	Facebook	100_1k	100 - 1k	DK	Denmark	5	1	17380	5215	387	193
+Ørsted	Ørsted	170902079673829	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	15793	7897	746	172
+Lars-Christian Brask, Venstre	Brask Lars-Christian	221153291386123	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	15793	7897	746	172
+DEO - Demokrati i Europa	Rasmus Nørlem Sørensen	115737371820702	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	15793	7897	746	172
+Kristian Hegaard	Hegaard Kristian Wurtz	309352049198824	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	11588	5794	155	77
+Jens Møller Jensen - kandidat til Europa-Parlamentet	Jensen Jens Moller	411042269671603	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	11588	5794	155	77
+Ole Birk Olesen	Olesen Ole Birk	538656116640182	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	11588	5794	155	77
+Astrid Krag	Astrid Krag	256203941229187	Facebook	100_1k	100 - 1k	DK	Denmark	4	1	11586	2317	310	155
+Bertel Haarder	Haarder Bertel Geismar	404683979561081	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	9999	5000	669	133
+Lave K. Broch	Lave K. Broch	771759999508022	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	9999	5000	669	133
+Anna Libak i Folketinget	Venstre i Hillerød Kredsen	257752968245827	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	8690	3476	155	77
+JØP - Stem på klima og højt ansvarligt afkast	Demokratisk Erhvervsnetværk	290304768567003	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	8690	3476	155	77
+Per Larsen i Folketinget	Det Konservative Folkeparti	129802704387687	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	8689	3475	155	77
+Folketingskandidat Simon Pihl Sørensen	Bastrup Christoph	330982924314138	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Heidi Bank	Heidi Farsoe Bank	1912736882278358	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Sofie Carsten Nielsen	Sofie Carsten Nielsen	148900938515423	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Ina Strøjer-Schmidt - Folketingskandidat for SF i Københavns omegnskommuner	Schmidt Ina	211409879739775	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Mick Keller - Liberal Alliance	Mick Alexander Keller	184347308564575	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Dan Jørgensen	Socialdemokratiet	46151445835	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Nicolai Wammen	Socialdemokratiet	1458354184437993	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Enhedslisten Køge	Rolskov Niels	366165650071333	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Jesper Petersen	Jesper Petersen	287814831337164	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Henning Hyllested	Enhedslisten	100255467044528	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Orla Østerby i Folketinget	Orla Østerby i Folketinget	380183085486892	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Magistrene studerende	Dansk Magisterforening	334571029981175	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Odense ser Rødt / Rundfunk la Rouge	Odense ser Rødt / Rundfunk la Rouge	129940943738051	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Henrik Boye	Boye Henrik	261240774042881	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Danmarks Lærerforening	Danmarks Lærerforening	162408904078	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Simon Leed Krøs	Krøs Simon Leed	2213595128921256	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Margrethe Agerup Præst - Folketingskandidat	Rosborg Sara Bagger Hougaard	186625905603087	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Morten Løkkegaard	Morten Løkkegaard	143232155749217	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Europabevægelsen	Europabevægelsen	356520931077196	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Rina Ronja Kari	Rina Ronja Kari	41763808759	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+SF FAXE	SF Faxe	588679974556626	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+Lasse Holm Grønning	Grønning Lasse Holm	2086240905000235	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	5794	2897	77	38
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	3663	1676	8	2
+Peter Seier Christensen	Peter Seier Christensen	1104790642968068	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	2896	579	77	38
+Tobias Clausen	Tobias Borup Clausen	191351967739859	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	2896	579	77	38
+Det Konservative Folkeparti Hvidovre	Skræddergaard Ejner	179875425454374	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	2896	579	77	38
+Jakob Rixen	Rixen Jakob Ulrich	300128063486243	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	2896	579	77	38
+Susanna Dyre-Greensite	Dyre-Greensite Susanna Jenny Margrethe	178957012989198	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	2896	579	77	38
+SF Lejre	SF Lejre	183323781717322	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	2896	579	77	38
+Konservative i Brøndby	Konservative i Brøndby	1427602130822979	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	2896	579	77	38
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	100_1k	100 - 1k	DK	Denmark	8	1	1007	375	5	1
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	966	483	2	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	293	146	0	0
 European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	172	86	0	0
-Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	3	0	0	0
+Socialdemokraterna i Helsingborg	Socialdemokraterna Helsingborg	303070626373544	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	125	25	1	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	118	59	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	62	25	0	0
+Big News Buzz		125179374733697	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	26	13	0	0
+Centerpartiet i Skåne	Centerpartiet i Skåne	109030109129243	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	20	4	0	0
+Socialdemokraterna i Skåne	Socialdemokraterna i Skåne	102414309949126	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	14	2	0	0
+CRIF		395919323779707	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	14	7	0	0
+SSU	SSU	45101268520	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	8	4	0	0
+Miljöpartiet de gröna i Helsingborg	Miljöpartiet de gröna i Helsingborg	106956499327992	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	8	1	0	0
+ETUC		129041250601685	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	6	1	0	0
+Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	100_1k	100 - 1k	DK	Denmark	2	1	3	1	0	0
+Sveriges Kommunistiska Parti	Sveriges Kommunistiska Parti	133234606721672	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	3	0	0	0
+Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	2	0	0	0
+Annie Lööf	Centerpartiet	118943054880945	Facebook	100_1k	100 - 1k	DK	Denmark	1	1	1	0	0	0

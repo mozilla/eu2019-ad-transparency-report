@@ -1,29 +1,62 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Ian Borg	Ian Borg	151496594943131	Facebook	f55_64	female (55-64)	MT	Malta	5	1	11843	2760	48	0
-European Parliament	European Parliament	178362315106	Facebook	f55_64	female (55-64)	MT	Malta	2	1	11505	2301	77	13
-Partit Nazzjonalista	Partit Nazzjonalista	159249234115841	Facebook	f55_64	female (55-64)	MT	Malta	2	1	4788	957	31	5
-David Casa	David Casa	193035580892638	Facebook	f55_64	female (55-64)	MT	Malta	1	1	4052	810	8	0
-Roberta Metsola	Roberta Metsola	406824526101449	Facebook	f55_64	female (55-64)	MT	Malta	5	1	3533	1046	58	0
-Martin Cauchi Inglott II	Martin Cauchi Inglott 	381424722583691	Facebook	f55_64	female (55-64)	MT	Malta	1	1	2956	591	5	0
-Alfred Sant	Alfred Sant	537789116260209	Facebook	f55_64	female (55-64)	MT	Malta	5	1	2685	510	63	0
-Michael Briguglio	Michael Briguglio	1040577706078198	Facebook	f55_64	female (55-64)	MT	Malta	9	1	2460	444	67	0
-Cyrus Engerer	Cyrus Engerer	212468218793878	Facebook	f55_64	female (55-64)	MT	Malta	8	1	2445	441	67	0
-Roselyn Borg Knight	Roselyn Borg	446487702156732	Facebook	f55_64	female (55-64)	MT	Malta	5	1	1935	345	54	0
-Francis Zammit Dimech	Francis Zammit Dimech	117406495021568	Facebook	f55_64	female (55-64)	MT	Malta	4	1	1678	272	58	0
-Miriam Dalli	Miriam Dalli	277980849002904	Facebook	f55_64	female (55-64)	MT	Malta	5	1	1552	504	27	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	f55_64	female (55-64)	MT	Malta	1	1	1217	608	3	0
-Robert Micallef for MEP	Robert James Bugeja	2123200014472283	Facebook	f55_64	female (55-64)	MT	Malta	1	1	925	185	1	0
-Dr. Anthony Buttigieg	Buttigieg Anthony Emanuel	410157219370162	Facebook	f55_64	female (55-64)	MT	Malta	2	1	769	126	26	0
-Frank Psaila	Frank Psaila	458318884361628	Facebook	f55_64	female (55-64)	MT	Malta	4	1	765	243	17	0
-Josef Caruana	Josef Caruana	166617437361908	Facebook	f55_64	female (55-64)	MT	Malta	2	1	754	150	14	0
-European Parliament Office in Malta	European Parliament Office in Malta	116353271736965	Facebook	f55_64	female (55-64)	MT	Malta	1	1	749	149	14	0
-Malta Independent	Malta Independent	480288348662981	Facebook	f55_64	female (55-64)	MT	Malta	5	1	693	66	42	0
-Alex Agius Saliba	Alex Agius Saliba	656955664383156	Facebook	f55_64	female (55-64)	MT	Malta	2	1	476	89	11	0
-Tabib Malcolm Paul Galea	Malcolm Paul Galea	558899981162708	Facebook	f55_64	female (55-64)	MT	Malta	1	1	454	90	9	0
-Ralph Puli: Kap tal-Kunsilliera PN f'Hal Qormi	Ralph Puli	312887412236411	Facebook	f55_64	female (55-64)	MT	Malta	6	1	389	0	38	0
-Live Communications for MEP Elections May 2019	Stephen Florian	962042630582450	Facebook	f55_64	female (55-64)	MT	Malta	3	1	344	47	15	0
-European Commission	European Commission	107898832590939	Facebook	f55_64	female (55-64)	MT	Malta	2	1	326	163	0	0
-Romilda Baldacchino Zarb	Romilda Baldacchino Zarb	295310111175191	Facebook	f55_64	female (55-64)	MT	Malta	1	1	109	0	10	0
-Anna Azzopardi	Ann Marie Azzopardi	380497969456408	Facebook	f55_64	female (55-64)	MT	Malta	1	1	79	0	7	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	f55_64	female (55-64)	MT	Malta	2	1	72	20	0	0
-Common Sense	Peter Mercieca	144274229676499	Facebook	f55_64	female (55-64)	MT	Malta	1	1	14	0	1	0
+Partit Nazzjonalista	Partit Nazzjonalista	159249234115841	Facebook	f55_64	female (55-64)	MT	Malta	13	1	184380	77033	1563	361
+Alfred Sant	Alfred Sant	537789116260209	Facebook	f55_64	female (55-64)	MT	Malta	28	1	145865	52094	523	85
+Joseph Muscat	Partit Laburista	63887949740	Facebook	f55_64	female (55-64)	MT	Malta	7	1	88070	38528	2262	556
+European Parliament	European Parliament	178362315106	Facebook	f55_64	female (55-64)	MT	Malta	15	1	74814	30906	412	69
+Francis Zammit Dimech	Francis Zammit Dimech	117406495021568	Facebook	f55_64	female (55-64)	MT	Malta	59	1	70879	17711	758	14
+Cyrus Engerer	Cyrus Engerer	212468218793878	Facebook	f55_64	female (55-64)	MT	Malta	32	1	60369	14803	260	0
+Adrian Delia	Partit Nazzjonalista	1442808799090985	Facebook	f55_64	female (55-64)	MT	Malta	12	1	57389	23241	247	42
+David Casa	David Casa	193035580892638	Facebook	f55_64	female (55-64)	MT	Malta	21	1	53619	17949	336	43
+Roselyn Borg Knight	Roselyn Borg	446487702156732	Facebook	f55_64	female (55-64)	MT	Malta	22	1	44946	16992	406	42
+Roberta Metsola	Roberta Metsola	406824526101449	Facebook	f55_64	female (55-64)	MT	Malta	24	1	44116	11793	260	0
+Michael Briguglio	Michael Briguglio	1040577706078198	Facebook	f55_64	female (55-64)	MT	Malta	52	1	38826	9623	466	0
+Ian Borg	Ian Borg	151496594943131	Facebook	f55_64	female (55-64)	MT	Malta	8	1	34892	8841	75	0
+Alex Agius Saliba	Alex Agius Saliba	656955664383156	Facebook	f55_64	female (55-64)	MT	Malta	19	1	33796	11622	185	12
+Ralph Puli: Kap tal-Kunsilliera PN f'Hal Qormi	Ralph Puli	312887412236411	Facebook	f55_64	female (55-64)	MT	Malta	26	1	33236	6781	316	21
+Josef Caruana	Josef Caruana	166617437361908	Facebook	f55_64	female (55-64)	MT	Malta	7	1	27833	8423	103	5
+David Stellini	David Stellini	1911257335785088	Facebook	f55_64	female (55-64)	MT	Malta	7	1	26475	6771	199	36
+Peter Agius	Peter Agius	263881160919130	Facebook	f55_64	female (55-64)	MT	Malta	4	1	24893	5206	55	0
+Robert Micallef for MEP	Robert James Bugeja	2123200014472283	Facebook	f55_64	female (55-64)	MT	Malta	36	1	21434	5618	106	0
+European Commission	European Commission	107898832590939	Facebook	f55_64	female (55-64)	MT	Malta	12	1	19826	9861	95	19
+Lovin Malta	Lovin Malta	1700937210129433	Facebook	f55_64	female (55-64)	MT	Malta	5	1	17260	4647	152	30
+Frank Psaila	Frank Psaila	458318884361628	Facebook	f55_64	female (55-64)	MT	Malta	10	1	17069	3798	69	0
+European Parliament Office in Malta	European Parliament Office in Malta	116353271736965	Facebook	f55_64	female (55-64)	MT	Malta	5	1	15060	3431	44	0
+Miriam Dalli	Miriam Dalli	277980849002904	Facebook	f55_64	female (55-64)	MT	Malta	12	1	14230	3843	81	0
+Live Communications for MEP Elections May 2019	Stephen Florian	962042630582450	Facebook	f55_64	female (55-64)	MT	Malta	14	1	12842	3685	79	0
+Dr. Anthony Buttigieg	Buttigieg Anthony Emanuel	410157219370162	Facebook	f55_64	female (55-64)	MT	Malta	9	1	11640	4971	123	0
+Malta Independent	Malta Independent	480288348662981	Facebook	f55_64	female (55-64)	MT	Malta	25	1	10340	2298	197	0
+Dr. Rebecca Dalli Gonzi		265708320989344	Facebook	f55_64	female (55-64)	MT	Malta	2	1	9576	1915	18	0
+Romilda Baldacchino Zarb	Romilda Baldacchino Zarb	295310111175191	Facebook	f55_64	female (55-64)	MT	Malta	5	1	8638	1900	37	0
+Martin Cauchi Inglott II	Martin Cauchi Inglott 	381424722583691	Facebook	f55_64	female (55-64)	MT	Malta	2	1	8529	1705	85	17
+FŻL - Forum Żgħażagħ Laburisti	FŻL - Forum Żgħażagħ Laburisti	40870184668	Facebook	f55_64	female (55-64)	MT	Malta	2	1	8353	1670	16	0
+Mercieca Michael		2178422028892229	Facebook	f55_64	female (55-64)	MT	Malta	1	1	7245	1449	14	0
+Friends of the Earth Malta	Friends of the Earth Malta	137236009675929	Facebook	f55_64	female (55-64)	MT	Malta	6	1	7054	1556	46	6
+Joe Sammut	Joe Sammut	433245190070343	Facebook	f55_64	female (55-64)	MT	Malta	2	1	7053	1410	70	14
+Noel Cassar	Noel Caesar	290329184871610	Facebook	f55_64	female (55-64)	MT	Malta	1	1	5091	1018	10	0
+Alternattiva Demokratika - The Green Party	Alternattiva Demokratika - The Green Party	309359272432391	Facebook	f55_64	female (55-64)	MT	Malta	2	1	4183	836	16	0
+Tabib Malcolm Paul Galea	Malcolm Paul Galea	558899981162708	Facebook	f55_64	female (55-64)	MT	Malta	3	1	1962	665	29	0
+Anna Azzopardi	Ann Marie Azzopardi	380497969456408	Facebook	f55_64	female (55-64)	MT	Malta	3	1	1581	560	23	0
+Marion Parnis	Marion Parnis	123892568288417	Facebook	f55_64	female (55-64)	MT	Malta	4	1	1275	432	30	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	f55_64	female (55-64)	MT	Malta	1	1	1222	611	3	0
+Exodus prog		1708791049357843	Facebook	f55_64	female (55-64)	MT	Malta	2	1	1143	543	16	0
+Kevin Cauchi - Ghajnsielem	Kevin Cauchi	325758517614182	Facebook	f55_64	female (55-64)	MT	Malta	7	1	1070	458	17	0
+Felix Busuttil		1698335456918274	Facebook	f55_64	female (55-64)	MT	Malta	4	1	852	237	26	0
+Mary Gauci		1733645339991743	Facebook	f55_64	female (55-64)	MT	Malta	1	1	843	168	16	0
+Elenia Desira		636015460129738	Facebook	f55_64	female (55-64)	MT	Malta	1	1	671	134	13	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	f55_64	female (55-64)	MT	Malta	1	1	425	212	1	0
+Luke Caruana	Alternattiva Demokratika - The Green Party	289569618166195	Facebook	f55_64	female (55-64)	MT	Malta	1	1	381	190	3	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	f55_64	female (55-64)	MT	Malta	5	1	325	121	1	0
+Europe Thinx		335839580440114	Facebook	f55_64	female (55-64)	MT	Malta	1	1	251	50	0	0
+CRIF		395919323779707	Facebook	f55_64	female (55-64)	MT	Malta	1	1	243	121	1	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	f55_64	female (55-64)	MT	Malta	3	1	220	97	0	0
+Common Sense	Peter Mercieca	144274229676499	Facebook	f55_64	female (55-64)	MT	Malta	2	1	150	30	2	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	f55_64	female (55-64)	MT	Malta	2	1	150	30	0	0
+Big News Buzz		125179374733697	Facebook	f55_64	female (55-64)	MT	Malta	1	1	86	43	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	f55_64	female (55-64)	MT	Malta	2	1	80	0	7	0
+ETUC		129041250601685	Facebook	f55_64	female (55-64)	MT	Malta	1	1	16	3	0	0
+ITUC		20556338116	Facebook	f55_64	female (55-64)	MT	Malta	2	1	2	0	0	0
+Free Quran Education		388655174641163	Facebook	f55_64	female (55-64)	MT	Malta	1	1	1	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	f55_64	female (55-64)	MT	Malta	1	1	0	0	0	0
+Eurozine		115579498521257	Facebook	f55_64	female (55-64)	MT	Malta	1	1	0	0	0	0
+Tom MacDonald		212732770186	Facebook	f55_64	female (55-64)	MT	Malta	1	1	0	0	0	0
+Tokyo Weekender		134654693230171	Facebook	f55_64	female (55-64)	MT	Malta	1	1	0	0	0	0

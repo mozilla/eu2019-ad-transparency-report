@@ -1,32 +1,124 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Konfederacja KORWiN Braun Liroy Narodowcy	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1971966879776579	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	19	1	85908	33545	285	78
-Wiosna Biedronia	KW Wiosna Roberta Biedronia	2246647628925721	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	4	1	75319	30742	257	103
-Joanna Skrzydlewska	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	274904002573727	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	4	1	56582	11000	82	0
-Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	4	1	40587	17282	135	26
-European Parliament	European Parliament	178362315106	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	28204	11282	281	56
-KUKIZ'15	Komitet Wyborczy Wyborców Kukiz'15	328170794051845	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	13	1	14156	4216	38	3
-Marcin Gołaszewski	Marcin Łukasz Gołaszewski 	1500359650261089	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	6	1	13994	2000	138	0
-Front Europejski	Medium: agencja reklamowa	590514511295079	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	6	1	10280	2248	31	5
-Marek Belka	Marek Marian Belka	254834855469973	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	9999	5000	23	0
-Anita Sowińska	KW Wiosna Roberta Biedronia	2154797738169705	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	9896	4948	22	0
-Joanna Kopcińska	KW Prawo i Sprawiedliowość	1324558754300684	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	9563	4782	111	22
-Paweł Bejda	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	587380481330698	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	7009	3505	16	0
-Amnesty International Polska	Amnesty International Polska	57544755889	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	3	1	6594	1496	20	4
-Polski Klub Ekologiczny Koło Miejskie w Gliwicach	Maria Wanda Staniszewska	291839444209363	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	4812	962	11	2
-Platforma Obywatelska	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	102931488739	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	3645	935	8	1
-Krzysztof Bosak	Konfederacja KORWiN Braun Liroy Narodowcy	141833139301	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	3141	628	7	1
-Norbert Kaczmarczyk Poseł na Sejm RP	Kukiz'15 • Posłowie	814991668621838	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	3126	625	1	0
-Parlament Europejski - Biuro w Polsce	Parlament Europejski - Biuro w Polsce	405326618416	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	2971	594	1	0
-Nie Wstydzę Się Jezusa	Nie Wstydzę Się Jezusa	174848285894374	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	2688	537	6	1
-Zbigniew Kuźmiuk	Przemysław Balmowski 	286259248181285	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	1545	772	3	0
-European Commission	European Commission	107898832590939	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	1179	589	2	0
-Jan Olbrycht	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	153098244704447	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	4	1	975	440	10	1
-Michał Korolko - profil publiczny	KKW Koalicja Europejska PO PSL SLD .N Zieloni (Michał Korolko)	334123340547325	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	4	1	824	165	3	0
-Adam Bielan	Adam Bielan	228951150597089	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	607	303	1	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	4	1	302	112	0	0
+Joanna Skrzydlewska	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	274904002573727	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	49	1	1743187	545192	4794	1186
+Konfederacja KORWiN Braun Liroy Narodowcy	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1971966879776579	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	61	1	869206	381082	2716	681
+Paweł Bejda	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	587380481330698	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	68	1	459638	139075	1464	38
+Wiosna Biedronia	KW Wiosna Roberta Biedronia	2246647628925721	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	21	1	329411	154390	1573	363
+Platforma Obywatelska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	102931488739	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	31	1	313985	107948	1006	304
+European Parliament	European Parliament	178362315106	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	16	1	285520	122190	1531	371
+KUKIZ'15	Komitet Wyborczy Wyborców Kukiz'15	328170794051845	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	81	1	259403	75843	661	120
+Adam Bielan	KW PRAWO I SPRAWIEDLIWOŚĆ	228951150597089	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	35	1	241881	102071	775	231
+Edukacja dla Dobrego Klimatu	Wojciech Makowski	798249970192065	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	27	1	209273	85674	986	259
+European Commission	European Commission	107898832590939	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	33	1	201060	93994	1032	203
+Anita Sowińska	KW Wiosna Roberta Biedronia	2154797738169705	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	7	1	184890	45948	649	186
+Front Europejski	Medium: agencja reklamowa	590514511295079	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	61	1	162647	54351	703	151
+European Greens	European Greens	141366725876424	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	5	1	157431	75583	916	183
+Patryk Marjan	Komitet Wyborczy Wyborców Konfederacja Korwin Braun Liroy Narodowcy	1224502281011628	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	10	1	148935	35788	597	93
+Gazeta Wyborcza	Gazeta Wyborcza	63563473556	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	76	1	139494	44447	312	49
+Beata Mateusiak-Pielucha - Poseł na Sejm RP	Komitet Wyborczy Prawo i Sprawiedliwość	169112936501251	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	4	1	118840	29767	461	92
+Piotr Apel - Kukiz'15	Radosław Krzysztof Dobrowolski	286089935061890	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	3	1	109997	25000	348	69
+Magdalena Gałkiewicz - Partia Zieloni	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	2141505889506223	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	3	1	109997	25000	255	46
+Razem	KKW Lewica Razem - Razem, Unia Pracy, RSS	430323810469014	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	20	1	100844	41135	373	76
+Joanna Kopcińska	KW Prawo i Sprawiedliowość	1324558754300684	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	95636	19127	222	44
+Wiktor Idzikowski	KW Wiosna Roberta Biedronia	340063453455898	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	8	1	84668	19735	364	46
+Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	16	1	69658	25556	173	30
+Marek Belka	Marek Marian Belka	254834855469973	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	17	1	62983	17000	484	23
+Mateusz Mirys	KKW Lewica Razem - Razem, Unia Pracy, RSS	293413317485675	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	4	1	61996	15000	278	46
+Marcin Gołaszewski	Marcin Łukasz Gołaszewski 	1500359650261089	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	17	1	60983	11000	391	0
+KlimatAlert	Wojciech Makowski	342956762998558	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	14	1	53995	17933	162	36
+Prawo i Sprawiedliwość	Komitet Wyborczy Prawo i Sprawiedliwość	157458232131	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	26	1	51489	15332	208	40
+Hanna Gill-Piątek	KW Wiosna Roberta Biedronia	1025086447521656	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	3	1	50494	13099	128	16
+Amnesty International Polska	Amnesty International Polska	57544755889	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	9	1	48518	18858	232	71
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	4	1	43106	15989	52	7
+Partia Zieloni	KKW Koalicja Europejska PO PSL SLD .N Zieloni	48391402694	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	8	1	41251	15660	222	63
+Parlament Europejski - Biuro w Polsce	Parlament Europejski - Biuro w Polsce	405326618416	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	23	1	40089	8466	35	1
+Piotr Ikonowicz	KKW Lewica Razem - Razem, Unia Pracy, RSS	121066958084066	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	6	1	34659	15292	205	36
+Parlament Europejski - Biuro we Wrocławiu	Parlament Europejski - Biuro we Wrocławiu	426735034064813	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	29362	11745	68	13
+Aleksandra Knapik Wiosna Biedronia	KW Wiosna Roberta Biedronia	1856463364470576	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	4	1	23858	7598	266	44
+Prawica Rzeczypospolitej	Komitet Wyborczy Wyborców KUKIZ15	262966184846	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	4	1	18903	3752	41	16
+Tomasz Głowacki	Komitet Wyborczy Wyborców KUKIZ15	413919278720181	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	4	1	15996	3000	92	0
+Andrzej Buła	KKW Koalicja Europejska PO PSL SLD .N Zieloni	158877910847285	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	14684	2937	6	0
+Norbert Kaczmarczyk Poseł na Sejm RP	Kukiz'15 • Posłowie	814991668621838	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	4	1	13044	2608	30	6
+Jacek Wilk	KWW Konfederacja Korwin Braun Liroy Narodowcy	499646073441042	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	12633	6317	21	8
+Polski Klub Ekologiczny Koło Miejskie w Gliwicach	Maria Wanda Staniszewska	291839444209363	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	12441	4886	113	28
+Krzysztof Bosak	Konfederacja KORWiN Braun Liroy Narodowcy	141833139301	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	16	1	10551	2344	28	5
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	15	1	10192	4428	18	7
+Paweł Wojtunik	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N ZIELONI	406777400148454	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	10060	4793	14	2
+Marta Stasiak - radna Powiatu Łódzkiego Wschodniego		291474638123921	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	9999	5000	116	23
+Michał Korolko - profil publiczny	KKW Koalicja Europejska PO PSL SLD .N Zieloni (Michał Korolko)	334123340547325	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	13	1	9493	1913	22	4
+Narodowa Środa	Michał Aleksander Jurga	577240432479236	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	5	1	8885	2030	20	3
+Michał Wawrykiewicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	835519263468051	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	12	1	8461	1689	15	2
+Polska Fundacja im. Roberta Schumana	Polska Fundacja im. Roberta Schumana	150617698324166	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	8206	1641	30	1
+Grzegorz Tobiszowski	KW Prawo i Sprawiedliwość	146655395680362	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	8012	1602	18	3
+Nie Wstydzę Się Jezusa	Nie Wstydzę Się Jezusa	174848285894374	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	3	1	7779	2991	18	6
+Zbigniew Kuźmiuk	Przemysław Balmowski 	286259248181285	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	7774	1554	3	0
+MamPrawoWiedziec.pl	Picture Doc Foundation	219298606466	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	4	1	6715	1528	16	2
+Jan Olbrycht	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	153098244704447	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	12	1	6210	2487	27	7
+Sojusz Lewicy Demokratycznej - Koalicja Europejska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	137877409609952	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	6122	3061	14	7
+Michał Pietrzak	KW Wiosna Roberta Biedronia	607778456353454	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	5998	1000	46	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	5931	2966	29	5
+Polonia Semper Fidelis	Polonia Semper Fidelis	155770611655343	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	5667	1133	19	7
+Protestuj.pl	Protestuj.pl	450781218391641	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	5568	1113	12	2
+Grzegorz Schetyna	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	1077045142306060	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	5316	1277	29	12
+Piotr Müller	Cezary Puławski	267686749910602	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	5	1	5053	1227	10	1
+Adam Janusz Jarecki	Adam Janusz Jarecki	111716448916594	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	4999	1000	23	0
+Grzegorz Majewski	Grzegorz Piotr Majewski	2199237327027242	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	4787	957	22	0
+Jarosław Duda	KKW Koalicja Europejska PO PSL SLD .N ZIELONI	100666510056063	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	4474	895	11	1
+Lepiej wybierz	Katarzyna Stańczak	304972010400039	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	8	1	4368	986	13	0
+Solier nieruchomości	Paulina Olszak	401350997318333	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	4302	860	19	0
+Plastic Free Polska	Plastic Free Polska	2162232717176151	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	8	1	3946	889	10	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	3927	785	18	9
+Wojciech Kubalewski - Partia Zieloni	KKW Koalicja Europejska PO PSL SLD .N Zieloni	2197489437193415	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	3918	783	9	1
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	4	1	3665	890	8	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	3500	731	6	0
+Błękitny Węgiel	Błękitny Węgiel	567066860335135	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	3337	667	8	1
+Marek Balt	KKW Koalicja Europejska PO PSL SLD  .N Zieloni	398824790221548	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	3305	935	16	3
+Krytyka Polityczna	Krytyka Polityczna	74863922834	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	3255	651	2	0
+K MAG	K MAG	317722036029	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	3252	650	7	1
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	20	1	3132	1079	9	1
+Krystiana Drozd do Parlamentu Europejskiego	KKW Koalicja Europejska PO PSL SLD .N Zieloni	331612664063134	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	2814	562	5	1
+adidas		182162001806727	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	2722	544	5	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	3	1	1867	814	3	1
+Tomasz "Maślak" Maśnica	Jerzy Marian Smolicha	592440527549498	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	1191	281	2	0
+Partia Kierowców	Waldemar Arkadiusz Utecht 	502894740114980	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	999	0	23	0
+Ministerstwo Rodziny, Pracy i Polityki Społecznej		380485532115847	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	919	363	2	0
+Ewa Jeżak	KW Wiosna Roberta Biedronia	1934052153566297	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	897	448	10	2
+Jarosław Rzepa	KKW Koalicja Europejska PO PSL SLD .N Zieloni	187622121427045	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	882	176	4	0
+Poseł Jakub Rutnicki	KKW Koalicja Europejska PO PSL SLD .N Zieloni	222141244609992	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	867	173	2	0
+Lidia Sankowska-Grabczuk	Komitet Wyborczy Wyborców KUKIZ15	460952641054841	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	6	1	812	159	2	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	5	1	687	239	2	0
+Lambda Warszawa		38339083373	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	644	322	1	0
+Marian Piłka	Komitet Wyborczy Wyborców KUKIZ15	363606376045	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	4	1	618	121	1	0
+Włącz oszczędzanie	Łukasz Tadeusz Pająk	1599655186922126	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	3	1	581	103	3	0
+Andrzej Grzyb Poseł do Parlamentu Europejskiego	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	235676093175456	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	456	91	1	0
+Fine Dine	Angelika Katarzyna Borysiak	1650498151902140	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	395	79	1	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	3	1	386	73	2	0
+Bożena Lisowska	Paweł Galewski	1164052730286958	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	382	76	1	0
+Zdecentralizowana Rzeczpospolita	Anna Aleksandra Wojciuk	270581597199597	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	339	67	1	0
+Bolesław Piecha - poseł do Parlamentu Europejskiego	Agencja reklamowa NXT	704363502985858	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	292	115	0	0
+Łukasz Kohut	KW Wiosna Roberta Biedronia 	1465965073732774	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	257	128	2	0
 Nomada Stowarzyszenie		114318528622863	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	247	49	1	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	206	49	0	0
-Michał Wawrykiewicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	835519263468051	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	5	1	127	9	2	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	103	51	0	0
+To ja jestem Polską. Głosuję.		2253325488072521	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	174	0	15	0
+Izabela Kloc	Komitet Wyborczy Prawo i Sprawidliwość	171128483067743	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	3	1	147	52	1	0
+Renata Caban	Tomasz Mirosław Kowalski	288542178541100	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	3	1	138	27	3	0
+Europe Thinx		335839580440114	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	124	24	0	0
+Skuteczna modlitwa. Przewodnik		2118896628162986	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	89	0	2	0
 Pracownia Architektury Krajobrazu Anna Zbrzezna		510672049016743	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	86	0	7	0
-Izabela Kloc	Komitet Wyborczy Prawo i Sprawidliwość	171128483067743	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	44	8	0	0
+ETUC		129041250601685	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	85	17	0	0
+FRU.PL - Bilety Lotnicze i Hotele		166901739910	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	59	0	1	0
+Michał Drewnicki - wiceprzewodniczący Rady Miasta Krakowa		561843337248654	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	56	0	1	0
+Jacek Wezgraj	KW Wiosna Roberta Biedronia	213293582024781	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	55	0	1	0
+Paweł Krutul	Komitet Wyborczy Wiosna Roberta Biedronia	1798798630436202	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	55	0	1	0
+Filcomp.pl	Paweł Seweryn Pietrusiak	391230480943892	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	51	0	1	0
+Jakub Kulesza #NowePokolenie	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1494905190821954	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	3	1	49	19	0	0
+Miłosława - Miłka Stępień	Partia Zieloni	1045756882124385	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	38	7	0	0
+Kurier Ząbkowski	Tomasz Kalata 	1507827496163615	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	34	0	0	0
+Konstanty Radziwiłł	KW PRAWO I SPRAWIEDLIWOŚĆ	928240283878303	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	12	6	0	0
+Stanisław Żmijan	MarkNeting Sp. z o.o.	436755540466865	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	2	1	11	0	0	0
+Maciej Małecki	Maciej Małecki 	533251443444200	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	10	2	0	0
+Krzysztof Hetman	Krzysztof Hetman KKW Koalicja Europejska PO PSL SLD .N Zieloni	1607487699534202	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	4	1	9	2	0	0
+Eurozine		115579498521257	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	9	1	0	0
+Big News Buzz		125179374733697	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	8	4	0	0
+Porozumienie - Poznań	Rafał Jan Leszczyński	1444561572423336	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	3	0	0	0
+Joanna Mucha	KKW Koalicja Europejska PO PSL SLD .N Zieloni	308920973786	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	2	1	0	0
+ITUC		20556338116	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	1	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	lodz_voivodeship_PL	Łódź Voivodeship, Poland	1	1	1	0	0	0

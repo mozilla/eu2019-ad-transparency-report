@@ -1,4 +1,4 @@
 gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-f	female	MT	Malta	93	28	292686	62351	3673	84
-m	male	MT	Malta	96	28	500297	105681	6122	122
-u	unknown	MT	Malta	89	28	4509	962	54	1
+f	female	MT	Malta	627	66	7604257	2614699	51644	6971
+m	male	MT	Malta	634	66	10120287	3359227	65913	8175
+u	unknown	MT	Malta	603	64	94372	32131	635	84

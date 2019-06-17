@@ -1,28 +1,77 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	9	1	9908	4762	44	5
-Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	10	1	6952	1528	23	0
-Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	3	1	3738	1456	6	0
-SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	3	1	3470	694	9	0
-Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	4	1	3069	654	7	0
-HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	1510	302	2	0
-Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	1365	273	4	0
-Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	1172	234	2	0
-European Parliament	European Parliament	178362315106	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	1087	217	2	0
-Jozo Radoš	Jozo Radoš	446717938731095	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	5	1	751	223	12	0
-Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	14	1	661	56	43	0
-Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	361	72	0	0
-Marijana Petir	Marijana Petir	1418903245032313	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	320	160	3	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	4	1	320	146	0	0
-Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	4	1	318	58	8	0
-Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	317	130	4	0
-Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	313	125	4	0
-Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	282	141	2	0
-Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	247	123	2	0
-Krešo Beljak	Vlahovic Mario	52929105855	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	112	22	2	0
-Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	92	18	1	0
-European Commission	European Commission	107898832590939	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	52	26	0	0
+HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	49	1	123793	51984	473	122
+SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	16	1	53284	22588	58	2
+Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	19	1	49131	22027	143	30
+European Parliament	European Parliament	178362315106	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	15	1	44102	20504	127	36
+Europski parlament, Ured za informiranje u Republici Hrvatskoj	Europski parlament, Ured za informiranje u Republici Hrvatskoj	508795765833382	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	22	1	40470	18042	89	9
+Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	18	1	35236	14510	96	13
+Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	20	1	24972	8846	115	17
+Marijana Petir	Marijana Petir	1418903245032313	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	9	1	21449	6459	63	6
+Miro Bulj	MOST nezavisnih lista	1252295741481540	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	8	1	18247	7161	48	7
+Slobodna Dalmacija	Slobodna Dalmacija	100267330025110	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	24	1	17226	5148	40	0
+MOST nezavisnih lista	MOST nezavisnih lista	388550077899912	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	10	1	16652	6476	64	11
+European Greens	European Greens	141366725876424	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	6	1	15500	6556	47	18
+Joško Klisović	Klisovic Josko	1262594650584725	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	14	1	13831	3597	38	0
+Model European Union Zagreb - MEUZ	Divea Studio	521874817895935	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	5	1	12411	5235	15	0
+Sunčana Glavak	HDZ - Hrvatska demokratska zajednica	482597361772021	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	4	1	10062	3828	55	11
+European Commission	European Commission	107898832590939	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	21	1	9369	4542	12	4
+Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	8	1	9138	2785	30	2
+Jozo Radoš	Jozo Radoš	446717938731095	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	8	1	8172	1634	21	0
+Stjepan Adanić	HDZ - Hrvatska demokratska zajednica	408695383042330	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	3	1	6650	2965	16	2
+Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	18	1	6640	1348	43	0
+Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	20	1	5423	1393	47	0
+SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	11	1	5173	1902	28	0
+Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	5117	2558	14	2
+Goran Pauk	HDZ - Hrvatska demokratska zajednica	581489628528785	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	3	1	4665	933	9	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	4359	2179	2	0
+GLAS Građansko-liberalni savez	GLAS Građansko-liberalni savez	231052047413325	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	3	1	4298	859	26	4
+Stjepan Ribić	HDZ - Hrvatska demokratska zajednica	451335681696047	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	3	1	4273	1705	17	2
+HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	4137	1675	5	0
+Saša Poljanec-Borić	Hrvatska socijalno liberalna stranka	1914254365351413	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	3918	1959	17	3
+Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	3	1	3789	757	15	1
+Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	5	1	3733	811	10	0
+Krešo Beljak	Vlahovic Mario	52929105855	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	3208	1259	12	2
+Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	14	1	3145	1269	41	0
+Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	4	1	2936	1100	17	3
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	15	1	2882	1250	5	1
+Nikolina Brnjac	HDZ - Hrvatska demokratska zajednica	287054392229717	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	2625	525	12	1
+Dr. sc. Tomislav Sokol	HDZ - Hrvatska demokratska zajednica	136900153422435	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	2483	496	4	0
+Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	2366	473	4	0
+BIOM	BIOM	138743669505642	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	6	1	2090	606	10	0
+Marijana Balić	HDZ - Hrvatska demokratska zajednica	1274752085892321	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	1826	365	18	3
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	9	1	1730	679	2	0
+Nova ljevica	Možemo - politička platforma	706769699498076	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	1604	320	3	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	1602	801	8	1
+Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	1599	411	5	0
+Zelena lista		157025101623973	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	1435	539	17	0
+Hrvatska stranka umirovljenika	Hrvatska stranka umirovljenika	1437793016448632	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	1433	286	2	0
+Davor Škrlec	Zastupnik u Europskom parlamentu Davor Škrlec	1507744276110325	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	1353	270	2	0
+Tonino Picula	Tonino Picula	156057951248853	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	1212	242	2	0
+Habib Tahiri	Hrvatska narodna stranka - liberalni demokrati (HNS)	750800161983664	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	917	183	1	0
+pametno.org	Pametno	144815235686385	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	4	1	787	302	10	0
+Sanja Radolović	Radolovic Sanja	508755779649081	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	6	1	708	219	11	0
+Diana Topčić-Rosenberg	TOPCIC-ROSENBERG DIANA	1702271996513206	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	3	1	578	218	9	0
+Gong	Gong	135611546456409	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	4	1	451	178	5	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	3	1	415	194	0	0
+HSS Hrvatska	Vlahovic Mario	236043376446622	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	300	150	2	0
+Gordan Maras		451079008266520	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	217	43	4	0
+Davor Nađi	Nadi Davor	1640498249359280	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	177	74	2	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	175	87	1	0
+Informativno Dokumentacijski Centar Banije I Korduna		1902779853072038	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	145	29	2	0
+Željka Markić		210218862695602	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	102	20	1	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	92	18	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	5	1	91	38	0	0
+Greenpeace Hrvatska	Greenpeace Hrvatska	359170097532754	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	3	1	77	0	6	0
+Slobodni Infocentar Zagreb		1741621996163657	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	49	0	4	0
 European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	44	22	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	20	6	0	0
-SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	17	0	1	0
+CRIF		395919323779707	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	37	18	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	33	6	0	0
+Telegram.hr		688325737947866	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	21	0	2	0
+Danko Švorinić		1867610616838363	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	21	0	1	0
+Europe Thinx		335839580440114	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	17	3	0	0
+Radnička Fronta		770459529655215	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	15	0	1	0
+Tomislav Stojak	Hrvatska narodna stranka - liberalni demokrati (HNS)	442201595870855	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	2	1	15	3	0	0
 Kulturpunkt.hr		89410579392	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	11	0	1	0
-Tomislav Stojak	Hrvatska narodna stranka - liberalni demokrati (HNS)	442201595870855	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	1	0	0	0
+Ne u moje ime		138418753446889	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	7	1	0	0
+ETUC		129041250601685	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	6	1	0	0
+ITUC		20556338116	Facebook	bjelovar_bilogora_county_HR	Bjelovar-Bilogora County, Croatia	1	1	1	0	0	0

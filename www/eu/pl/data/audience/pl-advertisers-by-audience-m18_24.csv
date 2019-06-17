@@ -1,105 +1,332 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	audience_code_filter	audience_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Konfederacja KORWiN Braun Liroy Narodowcy	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1971966879776579	Facebook	m18_24	male (18-24)	PL	Poland	19	1	293518	105356	847	238
-Prawo i Sprawiedliwość	Komitet Wyborczy Prawo i Sprawiedliwość	157458232131	Facebook	m18_24	male (18-24)	PL	Poland	5	1	281513	118460	586	117
-Wiosna Biedronia	KW Wiosna Roberta Biedronia	2246647628925721	Facebook	m18_24	male (18-24)	PL	Poland	4	1	217935	90164	739	306
-Krzysztof Jurgiel	Overs sp. z o.o.	465990636788016	Facebook	m18_24	male (18-24)	PL	Poland	6	1	84484	31816	185	32
-Front Europejski	Medium: agencja reklamowa	590514511295079	Facebook	m18_24	male (18-24)	PL	Poland	6	1	58820	13581	201	36
-KUKIZ'15	Komitet Wyborczy Wyborców Kukiz'15	328170794051845	Facebook	m18_24	male (18-24)	PL	Poland	20	1	47866	17627	135	11
-Krzysztof Bosak	Konfederacja KORWiN Braun Liroy Narodowcy	141833139301	Facebook	m18_24	male (18-24)	PL	Poland	15	1	42016	8569	123	20
-Maciej Józefowicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	157504851851399	Facebook	m18_24	male (18-24)	PL	Poland	2	1	38123	7624	53	9
-Elżbieta Łukacijewska	EPL	271399596270991	Facebook	m18_24	male (18-24)	PL	Poland	3	1	36451	14566	153	29
-Bogdan Rzońca	Blue Data Bay Sp. z o.o.	247239865295508	Facebook	m18_24	male (18-24)	PL	Poland	7	1	28349	7005	77	9
-Karol Karski	Komitet Wyborczy Prawa i Sprawiedliwości	612725748801524	Facebook	m18_24	male (18-24)	PL	Poland	8	1	24746	5350	74	9
-Sylwia Spurek	KW Wiosna Roberta Biedronia 	1967695263556184	Facebook	m18_24	male (18-24)	PL	Poland	4	1	23347	4948	54	10
-Przemysław Przybylski	Komitet Wyborczy Prawo i Sprawiedliwość	256850261180940	Facebook	m18_24	male (18-24)	PL	Poland	4	1	22813	8411	62	19
-Joachim Brudziński	Joachim Brudziński	722625777782250	Facebook	m18_24	male (18-24)	PL	Poland	5	1	20009	4002	19	0
-Michał Boni	KKW Koalicja Europejska PO PSL SLD .N Zieloni	693499534003775	Facebook	m18_24	male (18-24)	PL	Poland	3	1	18047	3609	17	2
-Michał Wawrykiewicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	835519263468051	Facebook	m18_24	male (18-24)	PL	Poland	4	1	17143	3418	17	0
-Parlament Europejski - Biuro w Polsce	Parlament Europejski - Biuro w Polsce	405326618416	Facebook	m18_24	male (18-24)	PL	Poland	1	1	16711	3342	7	0
-Jerzy Buzek	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	69153026654	Facebook	m18_24	male (18-24)	PL	Poland	11	1	15550	4274	50	4
-Tomasz Latos	KW Prawo i Sprawiedliwość	308684629246305	Facebook	m18_24	male (18-24)	PL	Poland	1	1	15260	3052	35	7
-Beata Maciejewska	KW Wiosna Roberta Biedronia	359606364774932	Facebook	m18_24	male (18-24)	PL	Poland	4	1	14385	2780	24	0
+Konfederacja KORWiN Braun Liroy Narodowcy	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1971966879776579	Facebook	m18_24	male (18-24)	PL	Poland	59	1	3257224	1422857	9287	2297
+KUKIZ'15	Komitet Wyborczy Wyborców Kukiz'15	328170794051845	Facebook	m18_24	male (18-24)	PL	Poland	180	1	1112059	338256	2897	547
+European Commission	European Commission	107898832590939	Facebook	m18_24	male (18-24)	PL	Poland	33	1	912571	427175	4722	909
+Wiosna Biedronia	KW Wiosna Roberta Biedronia	2246647628925721	Facebook	m18_24	male (18-24)	PL	Poland	19	1	756385	352905	4573	1036
+Front Europejski	Medium: agencja reklamowa	590514511295079	Facebook	m18_24	male (18-24)	PL	Poland	59	1	736249	251313	2788	592
+Adam Bielan	KW PRAWO I SPRAWIEDLIWOŚĆ	228951150597089	Facebook	m18_24	male (18-24)	PL	Poland	48	1	708809	285362	2509	689
+Platforma Obywatelska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	102931488739	Facebook	m18_24	male (18-24)	PL	Poland	65	1	652679	243540	1822	350
+European Parliament	European Parliament	178362315106	Facebook	m18_24	male (18-24)	PL	Poland	16	1	634140	260566	4019	919
+European Greens	European Greens	141366725876424	Facebook	m18_24	male (18-24)	PL	Poland	6	1	569196	271389	2959	629
+Prawo i Sprawiedliwość	Komitet Wyborczy Prawo i Sprawiedliwość	157458232131	Facebook	m18_24	male (18-24)	PL	Poland	30	1	380844	175546	644	144
+Konstanty Radziwiłł	KW PRAWO I SPRAWIEDLIWOŚĆ	928240283878303	Facebook	m18_24	male (18-24)	PL	Poland	41	1	327559	117071	1240	369
+Krzysztof Bosak	Konfederacja KORWiN Braun Liroy Narodowcy	141833139301	Facebook	m18_24	male (18-24)	PL	Poland	57	1	275921	59319	1389	354
+Krzysztof Hetman	Krzysztof Hetman KKW Koalicja Europejska PO PSL SLD .N Zieloni	1607487699534202	Facebook	m18_24	male (18-24)	PL	Poland	32	1	271420	66669	549	106
+Jerzy Buzek	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	69153026654	Facebook	m18_24	male (18-24)	PL	Poland	29	1	271165	114954	669	194
+Joachim Brudziński	Joachim Brudziński	722625777782250	Facebook	m18_24	male (18-24)	PL	Poland	18	1	242594	82904	464	85
+Róża Thun	KKW Koalicja Europejska PO PSL SLD .N Zieloni	273260992765744	Facebook	m18_24	male (18-24)	PL	Poland	5	1	240244	101439	448	100
+Krzysztof Jurgiel	Overs sp. z o.o.	465990636788016	Facebook	m18_24	male (18-24)	PL	Poland	24	1	238520	83921	677	143
+Tomasz Latos	KW Prawo i Sprawiedliwość	308684629246305	Facebook	m18_24	male (18-24)	PL	Poland	18	1	220873	87808	667	134
+Joanna Skrzydlewska	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	274904002573727	Facebook	m18_24	male (18-24)	PL	Poland	47	1	217492	64696	592	132
+Parlament Europejski - Biuro w Polsce	Parlament Europejski - Biuro w Polsce	405326618416	Facebook	m18_24	male (18-24)	PL	Poland	23	1	207654	44776	193	7
+Robert Jarosław Iwaszkiewicz	Marcin Piotr Dudek	1492626540957540	Facebook	m18_24	male (18-24)	PL	Poland	2	1	190715	72224	490	126
+Bogdan Rzońca	Blue Data Bay Sp. z o.o.	247239865295508	Facebook	m18_24	male (18-24)	PL	Poland	15	1	175428	63410	938	211
+Maciej Józefowicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	157504851851399	Facebook	m18_24	male (18-24)	PL	Poland	17	1	165824	63650	375	129
+Razem	KKW Lewica Razem - Razem, Unia Pracy, RSS	430323810469014	Facebook	m18_24	male (18-24)	PL	Poland	20	1	157313	62897	505	122
+Sven Zagała	KW Wiosna Roberta Biedronia	2215190752031133	Facebook	m18_24	male (18-24)	PL	Poland	24	1	154364	50033	745	212
+Parlament Europejski - Biuro we Wrocławiu	Parlament Europejski - Biuro we Wrocławiu	426735034064813	Facebook	m18_24	male (18-24)	PL	Poland	1	1	150906	60362	350	70
+Dobromir Sośnierz	KWW KONFEDERACJA KORWIN BRAUN LIROY NARODOWCY	1389430631355482	Facebook	m18_24	male (18-24)	PL	Poland	13	1	147741	31723	404	77
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	m18_24	male (18-24)	PL	Poland	8	1	142725	53691	251	31
+Paweł Tanajno	Paweł Jan Tanajno	469702339755768	Facebook	m18_24	male (18-24)	PL	Poland	16	1	142114	43186	631	172
+Edukacja dla Dobrego Klimatu	Wojciech Makowski	798249970192065	Facebook	m18_24	male (18-24)	PL	Poland	7	1	140872	53915	362	72
+Czesław Siekierski	KKW Koalicja Europejska PO PSL SLD .N Zieloni	467184786631576	Facebook	m18_24	male (18-24)	PL	Poland	9	1	126615	56248	262	120
+Stanisław Tyszka - Kukiz'15	Komitet Wyborczy Wyborców KUKIZ15	930978763646427	Facebook	m18_24	male (18-24)	PL	Poland	60	1	126423	30118	680	89
+Patryk Marjan	Komitet Wyborczy Wyborców Konfederacja Korwin Braun Liroy Narodowcy	1224502281011628	Facebook	m18_24	male (18-24)	PL	Poland	10	1	124042	27757	411	69
+Partia Zieloni	KKW Koalicja Europejska PO PSL SLD .N Zieloni	48391402694	Facebook	m18_24	male (18-24)	PL	Poland	8	1	122072	50650	671	175
+Anna Fotyga - Biuro Poselskie	KW Prawo i Sprawiedliwość	1467418970166506	Facebook	m18_24	male (18-24)	PL	Poland	12	1	120486	49536	511	132
+Paweł Bejda	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	587380481330698	Facebook	m18_24	male (18-24)	PL	Poland	68	1	115737	37217	346	8
+Bogusław Sonik	KWW KOALICJA EUROPEJSKA PO PSL SLD .N ZIELONI	75775141409	Facebook	m18_24	male (18-24)	PL	Poland	45	1	114521	25122	401	30
+Jacek Wilk	KWW Konfederacja Korwin Braun Liroy Narodowcy	499646073441042	Facebook	m18_24	male (18-24)	PL	Poland	13	1	112363	36883	330	99
+Maciej Gdula	KW Wiosna Roberta Biedronia	831495030528894	Facebook	m18_24	male (18-24)	PL	Poland	8	1	110445	36689	746	171
+Izabela Kloc	Komitet Wyborczy Prawo i Sprawidliwość	171128483067743	Facebook	m18_24	male (18-24)	PL	Poland	16	1	109372	34022	454	103
+Michał Korolko - profil publiczny	KKW Koalicja Europejska PO PSL SLD .N Zieloni (Michał Korolko)	334123340547325	Facebook	m18_24	male (18-24)	PL	Poland	32	1	107021	30421	370	91
+Marek Balt	KKW Koalicja Europejska PO PSL SLD  .N Zieloni	398824790221548	Facebook	m18_24	male (18-24)	PL	Poland	25	1	106729	22753	276	52
+Jakub Kulesza #NowePokolenie	KWW Konfederacja KORWiN Braun Liroy Narodowcy	1494905190821954	Facebook	m18_24	male (18-24)	PL	Poland	5	1	105710	43310	913	182
+Michał Boni	KKW Koalicja Europejska PO PSL SLD .N Zieloni	693499534003775	Facebook	m18_24	male (18-24)	PL	Poland	36	1	103625	28408	311	73
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	m18_24	male (18-24)	PL	Poland	33	1	99596	31187	635	76
+Janusz Lewandowski	KKW Koalicja Europejska PO PSL SLD N Zieloni	75571183641	Facebook	m18_24	male (18-24)	PL	Poland	16	1	96903	31202	281	100
+Jan Olbrycht	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	153098244704447	Facebook	m18_24	male (18-24)	PL	Poland	27	1	94347	26255	289	64
+Sylwia Spurek	KW Wiosna Roberta Biedronia 	1967695263556184	Facebook	m18_24	male (18-24)	PL	Poland	16	1	88399	20204	230	43
+Michał Wawrykiewicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	835519263468051	Facebook	m18_24	male (18-24)	PL	Poland	14	1	83325	17400	135	18
+Gazeta Wyborcza	Gazeta Wyborcza	63563473556	Facebook	m18_24	male (18-24)	PL	Poland	74	1	82061	27482	200	23
+Grzegorz Długi Kukiz'15	Dariusz Witold Mierzwa	1709231132633714	Facebook	m18_24	male (18-24)	PL	Poland	6	1	81599	27153	169	56
+Koalicja Europejska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	3116013818724635	Facebook	m18_24	male (18-24)	PL	Poland	33	1	81534	19197	220	34
+Marcin Sypniewski	Marcin Sypniewski	946704618680358	Facebook	m18_24	male (18-24)	PL	Poland	13	1	79772	29671	260	55
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	m18_24	male (18-24)	PL	Poland	5	1	79706	15941	290	121
+Zbigniew Kuźmiuk	Przemysław Balmowski 	286259248181285	Facebook	m18_24	male (18-24)	PL	Poland	8	1	78262	24325	141	44
+Poseł Jakub Rutnicki	KKW Koalicja Europejska PO PSL SLD .N Zieloni	222141244609992	Facebook	m18_24	male (18-24)	PL	Poland	18	1	77966	17795	244	44
+Przemysław Przybylski	Komitet Wyborczy Prawo i Sprawiedliwość	256850261180940	Facebook	m18_24	male (18-24)	PL	Poland	14	1	77105	26339	345	88
+Jakub Ziółkowski	KW Wiosna Roberta Biedronia	728590287185661	Facebook	m18_24	male (18-24)	PL	Poland	6	1	76556	15311	177	35
+Amnesty International Polska	Amnesty International Polska	57544755889	Facebook	m18_24	male (18-24)	PL	Poland	8	1	74741	34054	374	99
+Radosław Sikorski	KKW Koalicja Europejska PO PSL SLD .N Zieloni	134214926657042	Facebook	m18_24	male (18-24)	PL	Poland	22	1	71610	17877	212	37
+Roman Knop	Andrzej Bartosz Piotrowicz	749503038777719	Facebook	m18_24	male (18-24)	PL	Poland	13	1	71557	21824	133	30
+Ireneusz Dzieszko	Ireneusz Dzieszko	765150530190943	Facebook	m18_24	male (18-24)	PL	Poland	12	1	69496	15697	154	27
+Patryk Jaki	KW Prawo i Sprawiedliwość	199877710116314	Facebook	m18_24	male (18-24)	PL	Poland	16	1	68549	21886	197	45
+Agnieszka Ścigaj - Poseł na Sejm RP	Komitet Wyborczy Wyborców KUKIZ15	1476482495991048	Facebook	m18_24	male (18-24)	PL	Poland	26	1	68442	16189	223	48
+Łukasz Kohut	KW Wiosna Roberta Biedronia 	1465965073732774	Facebook	m18_24	male (18-24)	PL	Poland	8	1	66235	18408	313	62
+KlimatAlert	Wojciech Makowski	342956762998558	Facebook	m18_24	male (18-24)	PL	Poland	7	1	64203	25204	361	68
+Karol Karski	Komitet Wyborczy Prawa i Sprawiedliwości	612725748801524	Facebook	m18_24	male (18-24)	PL	Poland	43	1	61604	17193	248	52
+Robert Winnicki	Konfederacja KORWiN Braun Liroy Narodowcy	394579780586632	Facebook	m18_24	male (18-24)	PL	Poland	20	1	61479	15554	275	30
+Krystiana Drozd do Parlamentu Europejskiego	KKW Koalicja Europejska PO PSL SLD .N Zieloni	331612664063134	Facebook	m18_24	male (18-24)	PL	Poland	12	1	56168	18082	92	26
+Marcin Bosacki	KWW Koalicja Europejska PO PSL SLD .N Zieloni	325783984956664	Facebook	m18_24	male (18-24)	PL	Poland	5	1	53168	26455	256	61
+Marcin Walasek	KW Wiosna  Roberta Biedronia	411040156345710	Facebook	m18_24	male (18-24)	PL	Poland	4	1	52707	10541	122	24
+Andrzej Buła	KKW Koalicja Europejska PO PSL SLD .N Zieloni	158877910847285	Facebook	m18_24	male (18-24)	PL	Poland	10	1	51059	10212	104	19
+Grzegorz Braun	KOMITET WYBORCZY WYBORCÓW KONFEDERACJA KORWIN BRAUN LIROY NARODOWCY	268872956643088	Facebook	m18_24	male (18-24)	PL	Poland	1	1	51029	25514	118	59
+Krzysztof Gawkowski	KW Wiosna Roberta Biedronia	268366156599556	Facebook	m18_24	male (18-24)	PL	Poland	3	1	48398	24199	562	112
+Paweł Wojtunik	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N ZIELONI	406777400148454	Facebook	m18_24	male (18-24)	PL	Poland	9	1	47818	20529	70	19
+Piotr Müller	Cezary Puławski	267686749910602	Facebook	m18_24	male (18-24)	PL	Poland	9	1	46970	11019	124	16
+Dominika Chorosińska	Komitet Wyborczy Prawo i Sprawiedliwość	580557092422382	Facebook	m18_24	male (18-24)	PL	Poland	3	1	46593	23296	342	68
+Tomasz Frankowski	KWW Koalicja Europejska PO PSL SLD .N Zieloni	2273340699395517	Facebook	m18_24	male (18-24)	PL	Poland	15	1	46244	10610	205	49
+Marek Jurek	Komitet Wyborczy Wyborców KUKIZ15	463061580087	Facebook	m18_24	male (18-24)	PL	Poland	5	1	44927	14767	207	53
+Grzegorz Tobiszowski	KW Prawo i Sprawiedliwość	146655395680362	Facebook	m18_24	male (18-24)	PL	Poland	11	1	43863	14021	178	34
+Joanna Frydrych	Łukasz Stefan Zajdel	1669678746631654	Facebook	m18_24	male (18-24)	PL	Poland	10	1	43708	10716	107	16
+Krzysztof Śmiszek	KW Wiosna Roberta Biedronia	954692934606047	Facebook	m18_24	male (18-24)	PL	Poland	5	1	43381	9239	118	23
+Hubert Czerniak - Włączamy myślenie	Komitet Wyborczy Wyborców Konfederacja Korwin Braun Liroy Narodowcy	798940726870349	Facebook	m18_24	male (18-24)	PL	Poland	6	1	43364	8673	140	51
+Beata Maciejewska	KW Wiosna Roberta Biedronia	359606364774932	Facebook	m18_24	male (18-24)	PL	Poland	6	1	42751	9461	89	13
+Beata Kempa	KW Prawo i Sprawiedliwość	342536459089859	Facebook	m18_24	male (18-24)	PL	Poland	3	1	41945	16074	224	67
+Paweł Kobyliński - Poseł na Sejm RP, Kandydat do Parlamentu Europejskiego	Paweł Kobyliński, kandydat Koalicji Europejskiej do Europarlamentu	1576591379231457	Facebook	m18_24	male (18-24)	PL	Poland	8	1	41701	16483	210	51
+Piotr Apel - Kukiz'15	Radosław Krzysztof Dobrowolski	286089935061890	Facebook	m18_24	male (18-24)	PL	Poland	3	1	41448	9801	143	28
+Elżbieta Łukacijewska	EPL	271399596270991	Facebook	m18_24	male (18-24)	PL	Poland	3	1	41372	15903	184	36
+Anna Wachowska-Kucharska	KKW Lewica Razem – Razem, Unia Pracy, RSS	362029083948983	Facebook	m18_24	male (18-24)	PL	Poland	4	1	40222	8400	45	6
+Tomasz Terlecki	KW Wiosna Roberta Biedronia	2272893249704364	Facebook	m18_24	male (18-24)	PL	Poland	2	1	39758	15566	125	62
+Krystyna Wróblewska Poseł na Sejm RP	Komitet Wyborczy Prawo i Sprawiedliwość	612524765499822	Facebook	m18_24	male (18-24)	PL	Poland	9	1	39625	9417	114	20
+Dariusz Standerski	KW Wiosna Roberta Biedronia	694438127592755	Facebook	m18_24	male (18-24)	PL	Poland	2	1	39491	19746	459	91
+Norbert Kaczmarczyk Poseł na Sejm RP	Kukiz'15 • Posłowie	814991668621838	Facebook	m18_24	male (18-24)	PL	Poland	6	1	39362	7872	91	18
+Stanisław Żmijan	MarkNeting Sp. z o.o.	436755540466865	Facebook	m18_24	male (18-24)	PL	Poland	15	1	39230	9044	51	0
+Polska Fundacja im. Roberta Schumana	Polska Fundacja im. Roberta Schumana	150617698324166	Facebook	m18_24	male (18-24)	PL	Poland	9	1	37186	7997	126	16
+Jarosław Duda	KKW Koalicja Europejska PO PSL SLD .N ZIELONI	100666510056063	Facebook	m18_24	male (18-24)	PL	Poland	6	1	36772	7551	94	17
+Paweł Pudłowski	Selectivv	404295586445224	Facebook	m18_24	male (18-24)	PL	Poland	5	1	36698	7797	161	69
+Miłosława - Miłka Stępień	Partia Zieloni	1045756882124385	Facebook	m18_24	male (18-24)	PL	Poland	14	1	35832	6809	70	2
+Kamila Gasiuk-Pihowicz	Kamila Gasiuk-PIhowicz KKW Koalicja Europejska PO PSL SLD .N Zieloni	150412465290475	Facebook	m18_24	male (18-24)	PL	Poland	9	1	35055	7539	99	19
+Ewa Sufin-Jacquemart	KKW Koalicja Europejska PO PSL SLD .N Zieloni	497768517019635	Facebook	m18_24	male (18-24)	PL	Poland	2	1	34898	14781	50	10
+Narodowa Środa	Michał Aleksander Jurga	577240432479236	Facebook	m18_24	male (18-24)	PL	Poland	3	1	34104	6735	88	15
+Paweł Szramka	KWW Kukiz'15	1469910760001090	Facebook	m18_24	male (18-24)	PL	Poland	2	1	33817	14475	168	33
+Andrzej Kisielewicz	KW Prawo i Sprawiedliwość	1550061501790606	Facebook	m18_24	male (18-24)	PL	Poland	49	1	33172	6003	310	2
+Prawica Rzeczypospolitej	Komitet Wyborczy Wyborców KUKIZ15	262966184846	Facebook	m18_24	male (18-24)	PL	Poland	4	1	32074	6407	27	6
+Wolność - Górny Śląsk	KWW KONFEDERACJA KORWIN BRAUN LIROY NARODOWCY	517179565069513	Facebook	m18_24	male (18-24)	PL	Poland	1	1	31569	15784	73	36
+Razem Pomorze	KKW Lewica Razem - Razem, Unia Pracy, RSS	835823859869930	Facebook	m18_24	male (18-24)	PL	Poland	7	1	30867	9391	91	26
+Marek Rutka	KW Wiosna Roberta Biedronia	1547728638791843	Facebook	m18_24	male (18-24)	PL	Poland	3	1	30374	11626	50	9
+Patryk Fajdek	KW Wiosna Roberta Biedronia	396085477167186	Facebook	m18_24	male (18-24)	PL	Poland	29	1	30373	7512	175	0
+Tomasz Leśniak	KW Wiosna Roberta Biedronia	397430734381499	Facebook	m18_24	male (18-24)	PL	Poland	6	1	30270	13823	391	71
+Konfederacja Zach-Pom	Andrzej Ostrowski	1249992775165697	Facebook	m18_24	male (18-24)	PL	Poland	9	1	29780	12093	120	31
+Andrzej Halicki	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	370319116027	Facebook	m18_24	male (18-24)	PL	Poland	18	1	29445	6683	105	13
+Sebastian Kaleta	KW Prawo i Sprawiedliwość	1643686859194259	Facebook	m18_24	male (18-24)	PL	Poland	5	1	29138	6984	271	54
+Julia Rokicka	KKW Koalicja Europejska PO PSL SLD .N Zieloni	145203809517773	Facebook	m18_24	male (18-24)	PL	Poland	4	1	28761	9914	98	37
+MamPrawoWiedziec.pl	Picture Doc Foundation	219298606466	Facebook	m18_24	male (18-24)	PL	Poland	7	1	28660	6072	74	11
+Fundacja Czyste Powietrze	Magdalena Strózik 	282404075935482	Facebook	m18_24	male (18-24)	PL	Poland	4	1	28105	5611	42	7
+03 PRUŚ Sylwester Zbigniew	Medium: agencja reklamowa	664122587050787	Facebook	m18_24	male (18-24)	PL	Poland	1	1	26842	5368	62	12
+Dom Otwarty	Dom Otwarty	649621911846280	Facebook	m18_24	male (18-24)	PL	Poland	1	1	26360	13180	61	30
+Artur Mazur - Partia Zieloni & Koalicja Europejska	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	172287049543925	Facebook	m18_24	male (18-24)	PL	Poland	3	1	25639	5127	61	11
+Paweł Krutul	Komitet Wyborczy Wiosna Roberta Biedronia	1798798630436202	Facebook	m18_24	male (18-24)	PL	Poland	5	1	25431	5083	59	11
+Agata Witkowska • Kukiz'15	Komitet Wyborczy Wyborców KUKIZ15	268523123751424	Facebook	m18_24	male (18-24)	PL	Poland	2	1	24804	12402	57	25
+Anna Karwot - Polityk	Cityboard Media Sp. z o.o.	287671955182458	Facebook	m18_24	male (18-24)	PL	Poland	5	1	24665	5190	65	12
+Lidia Sankowska-Grabczuk	Komitet Wyborczy Wyborców KUKIZ15	460952641054841	Facebook	m18_24	male (18-24)	PL	Poland	6	1	24605	4920	62	10
+Anna Zalewska	Paweł Kociński	171114382968728	Facebook	m18_24	male (18-24)	PL	Poland	8	1	24506	5942	38	5
+European Free Alliance	European Free Alliance	46708306425	Facebook	m18_24	male (18-24)	PL	Poland	1	1	24200	12100	120	24
+Konrad Berkowicz	Konrad Berkowicz	140962469393020	Facebook	m18_24	male (18-24)	PL	Poland	1	1	24196	4839	56	11
+Dr Zbigniew Girzyński	KW Prawo i Sprawiedliwość	195400413904081	Facebook	m18_24	male (18-24)	PL	Poland	3	1	23819	10830	125	25
+K MAG	K MAG	317722036029	Facebook	m18_24	male (18-24)	PL	Poland	2	1	23659	4731	54	11
+Andrzej Grzyb Poseł do Parlamentu Europejskiego	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	235676093175456	Facebook	m18_24	male (18-24)	PL	Poland	3	1	23317	4663	57	10
+Elżbieta Zielińska	Komitet Wyborczy Wyborców KUKIZ15	513841568765040	Facebook	m18_24	male (18-24)	PL	Poland	3	1	22945	4589	56	9
+Wojciech Kubalewski - Partia Zieloni	KKW Koalicja Europejska PO PSL SLD .N Zieloni	2197489437193415	Facebook	m18_24	male (18-24)	PL	Poland	2	1	22386	4477	51	10
+Anna Krupka	Komitet Wyborczy Prawo i Sprawiedliwość  	130727956973250	Facebook	m18_24	male (18-24)	PL	Poland	5	1	22016	4940	88	25
+Marcin Sawicki	Marcin Sawicki	695659820502457	Facebook	m18_24	male (18-24)	PL	Poland	11	1	22001	4330	107	0
+Protestuj.pl	Protestuj.pl	450781218391641	Facebook	m18_24	male (18-24)	PL	Poland	2	1	21527	4305	49	10
+Jarosław Wałęsa	KKW Koalicja Europejska PO PSL SLD N Zieloni	433052760111334	Facebook	m18_24	male (18-24)	PL	Poland	14	1	21137	5870	102	20
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	m18_24	male (18-24)	PL	Poland	4	1	20772	4963	44	1
+Krzysztof Brejza	KKW Koalicja Europejska PO PSL SLD .N Zieloni	120766181437537	Facebook	m18_24	male (18-24)	PL	Poland	8	1	20670	4644	45	7
+Borkowski Łukasz - KUKIZ 15	Komitet Wyborczy Wyborców KUKIZ15	660434801037022	Facebook	m18_24	male (18-24)	PL	Poland	5	1	20647	4862	61	7
+Razem Podkarpackie	KKW Lewica Razem – Razem, Unia Pracy, RSS	562444343908881	Facebook	m18_24	male (18-24)	PL	Poland	4	1	20575	5413	47	7
+Polski Klub Ekologiczny Koło Miejskie w Gliwicach	Maria Wanda Staniszewska	291839444209363	Facebook	m18_24	male (18-24)	PL	Poland	6	1	19283	4679	83	27
+Beata Mateusiak-Pielucha - Poseł na Sejm RP	Komitet Wyborczy Prawo i Sprawiedliwość	169112936501251	Facebook	m18_24	male (18-24)	PL	Poland	4	1	19220	4861	76	15
+Joanna Sekuła - Kandydatka do Parlamentu Europejskiego	KKW Koalicja Europejska PO PSL SLD .N Zieloni 	797920373599555	Facebook	m18_24	male (18-24)	PL	Poland	3	1	18977	4380	12	0
+Beata Mazurek	KW Prawo i Sprawiedliwość	564941230235866	Facebook	m18_24	male (18-24)	PL	Poland	2	1	18532	7224	152	30
+Magdalena Gałkiewicz - Partia Zieloni	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	2141505889506223	Facebook	m18_24	male (18-24)	PL	Poland	3	1	18341	3940	42	8
+Jolanta Hibner - polityk	Grzegorz Mrózek	2912819075610107	Facebook	m18_24	male (18-24)	PL	Poland	4	1	18323	4206	59	11
+Tadeusz Zenon Nowak	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	1225040300979138	Facebook	m18_24	male (18-24)	PL	Poland	2	1	18301	3660	42	8
+Bartosz Arłukowicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	152299864806918	Facebook	m18_24	male (18-24)	PL	Poland	21	1	18200	4163	50	2
+Poseł Andrzej Maciejewski  Kukiz15	Komitet Wyborczy Wyborców KUKIZ15	984149068324464	Facebook	m18_24	male (18-24)	PL	Poland	2	1	17843	3568	46	7
+Grzegorz Schetyna	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	1077045142306060	Facebook	m18_24	male (18-24)	PL	Poland	2	1	17142	3583	83	39
+Mariusz Kotarba - Kandydat do Parlamentu Europejskiego	KW Wiosna Roberta Biedronia	307031223301174	Facebook	m18_24	male (18-24)	PL	Poland	2	1	16462	3292	38	7
+Jakub Bocheński	KW Wiosna Roberta Biedronia	857809167586212	Facebook	m18_24	male (18-24)	PL	Poland	1	1	16194	3238	37	7
+Anita Sowińska	KW Wiosna Roberta Biedronia	2154797738169705	Facebook	m18_24	male (18-24)	PL	Poland	6	1	16082	4190	63	17
+Razem Podlaskie	KKW Lewica Razem - Razem, Unia Pracy, RSS	625900507551801	Facebook	m18_24	male (18-24)	PL	Poland	2	1	15604	3120	36	7
+Anna Grodzka	KKW Lewica Razem - Razem, Unia Pracy, RSS	259175827459379	Facebook	m18_24	male (18-24)	PL	Poland	4	1	15521	3414	47	8
+Adam Traczyk	KW Wiosna Roberta Biedronia	385541738945328	Facebook	m18_24	male (18-24)	PL	Poland	3	1	15472	3811	88	33
+Kosma Złotowski	Komitet Wyborczy Prawo i Sprawiedliwość	1477251852486946	Facebook	m18_24	male (18-24)	PL	Poland	6	1	15186	3016	55	9
+Sabina Obwiosło-Budzyń	KW Wiosna Roberta Biedronia 	371048117077022	Facebook	m18_24	male (18-24)	PL	Poland	12	1	15162	3367	57	4
+adidas		182162001806727	Facebook	m18_24	male (18-24)	PL	Poland	1	1	14939	2987	29	0
 Włodzimierz Cimoszewicz. Europa i Konstytucja.	KKW Koalicja Europejska PO PSL SLD .N Zieloni	1945383395767575	Facebook	m18_24	male (18-24)	PL	Poland	2	1	14363	2872	44	15
-Poseł Jakub Rutnicki	KKW Koalicja Europejska PO PSL SLD .N Zieloni	222141244609992	Facebook	m18_24	male (18-24)	PL	Poland	4	1	14271	3659	58	11
-Krzysztof Śmiszek	KW Wiosna Roberta Biedronia	954692934606047	Facebook	m18_24	male (18-24)	PL	Poland	2	1	13797	3321	49	9
-Tomasz Leśniak	KW Wiosna Roberta Biedronia	397430734381499	Facebook	m18_24	male (18-24)	PL	Poland	3	1	13310	2498	47	5
-Michał Korolko - profil publiczny	KKW Koalicja Europejska PO PSL SLD .N Zieloni (Michał Korolko)	334123340547325	Facebook	m18_24	male (18-24)	PL	Poland	11	1	13279	2809	46	2
-Polski Klub Ekologiczny Koło Miejskie w Gliwicach	Maria Wanda Staniszewska	291839444209363	Facebook	m18_24	male (18-24)	PL	Poland	5	1	12689	3420	29	4
-Łukasz Kohut	KW Wiosna Roberta Biedronia 	1465965073732774	Facebook	m18_24	male (18-24)	PL	Poland	1	1	12300	2460	28	5
-Adam Bielan	Adam Bielan	228951150597089	Facebook	m18_24	male (18-24)	PL	Poland	2	1	11533	3188	26	3
-Sven Zagała	KW Wiosna Roberta Biedronia	2215190752031133	Facebook	m18_24	male (18-24)	PL	Poland	7	1	10735	2127	34	3
-Janusz Lewandowski	KKW Koalicja Europejska PO PSL SLD N Zieloni	75571183641	Facebook	m18_24	male (18-24)	PL	Poland	1	1	9503	1900	22	4
-Paweł Pudłowski	Selectivv	404295586445224	Facebook	m18_24	male (18-24)	PL	Poland	1	1	9015	1803	20	4
-Paweł Krutul	Komitet Wyborczy Wiosna Roberta Biedronia	1798798630436202	Facebook	m18_24	male (18-24)	PL	Poland	2	1	8721	1741	20	4
-Joanna Skrzydlewska	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	274904002573727	Facebook	m18_24	male (18-24)	PL	Poland	4	1	8627	1666	13	0
-Joanna Sekuła - Kandydatka do Parlamentu Europejskiego	KKW Koalicja Europejska PO PSL SLD .N Zieloni 	797920373599555	Facebook	m18_24	male (18-24)	PL	Poland	2	1	8107	1621	7	0
-Maciej Gdula	KW Wiosna Roberta Biedronia	831495030528894	Facebook	m18_24	male (18-24)	PL	Poland	1	1	8042	1608	18	3
-Marek Balt	KKW Koalicja Europejska PO PSL SLD  .N Zieloni	398824790221548	Facebook	m18_24	male (18-24)	PL	Poland	5	1	7912	2235	12	0
-Amnesty International Polska	Amnesty International Polska	57544755889	Facebook	m18_24	male (18-24)	PL	Poland	3	1	7534	1679	22	4
-Marcin Sypniewski	Marcin Sypniewski	946704618680358	Facebook	m18_24	male (18-24)	PL	Poland	3	1	7217	2719	29	0
-European Parliament	European Parliament	178362315106	Facebook	m18_24	male (18-24)	PL	Poland	1	1	7039	2815	70	14
-Bogusław Sonik	KWW KOALICJA EUROPEJSKA PO PSL SLD .N ZIELONI	75775141409	Facebook	m18_24	male (18-24)	PL	Poland	12	1	6477	740	81	0
-Nie Wstydzę Się Jezusa	Nie Wstydzę Się Jezusa	174848285894374	Facebook	m18_24	male (18-24)	PL	Poland	1	1	5223	1044	12	2
-Grzegorz Tobiszowski	KW Prawo i Sprawiedliwość	146655395680362	Facebook	m18_24	male (18-24)	PL	Poland	2	1	3900	780	9	1
-Anna Fotyga - Biuro Poselskie	KW Prawo i Sprawiedliwość	1467418970166506	Facebook	m18_24	male (18-24)	PL	Poland	6	1	3836	1480	27	2
-Paweł Tanajno	Paweł Jan Tanajno	469702339755768	Facebook	m18_24	male (18-24)	PL	Poland	3	1	3773	1655	18	0
-Sabina Obwiosło-Budzyń	KW Wiosna Roberta Biedronia 	371048117077022	Facebook	m18_24	male (18-24)	PL	Poland	4	1	3752	1607	11	0
-Wolność - Górny Śląsk	KWW KONFEDERACJA KORWIN BRAUN LIROY NARODOWCY	517179565069513	Facebook	m18_24	male (18-24)	PL	Poland	1	1	3735	1868	43	8
-Platforma Obywatelska	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	102931488739	Facebook	m18_24	male (18-24)	PL	Poland	2	1	3276	679	7	1
-Norbert Kaczmarczyk Poseł na Sejm RP	Kukiz'15 • Posłowie	814991668621838	Facebook	m18_24	male (18-24)	PL	Poland	2	1	2818	563	5	0
-Sebastian Kaleta	KW Prawo i Sprawiedliwość	1643686859194259	Facebook	m18_24	male (18-24)	PL	Poland	1	1	2726	1363	6	0
-Maciej Jarosz	KW Wiosna Roberta Biedronia	2259859161005527	Facebook	m18_24	male (18-24)	PL	Poland	1	1	2369	474	10	0
-Krystiana Drozd do Parlamentu Europejskiego	KKW Koalicja Europejska PO PSL SLD .N Zieloni	331612664063134	Facebook	m18_24	male (18-24)	PL	Poland	1	1	2360	1180	5	0
-Zbigniew Kuźmiuk	Przemysław Balmowski 	286259248181285	Facebook	m18_24	male (18-24)	PL	Poland	2	1	2311	862	7	0
-Paweł Bejda	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	587380481330698	Facebook	m18_24	male (18-24)	PL	Poland	1	1	2095	1047	4	0
-Marek Belka	Marek Marian Belka	254834855469973	Facebook	m18_24	male (18-24)	PL	Poland	1	1	2015	1007	4	0
-Tomasz Frankowski	KWW Koalicja Europejska PO PSL SLD .N Zieloni	2273340699395517	Facebook	m18_24	male (18-24)	PL	Poland	3	1	1945	906	17	3
-Robert Jarosław Iwaszkiewicz	Marcin Piotr Dudek	1492626540957540	Facebook	m18_24	male (18-24)	PL	Poland	1	1	1912	382	8	0
-European Commission	European Commission	107898832590939	Facebook	m18_24	male (18-24)	PL	Poland	2	1	1848	924	4	0
-Jolanta Hibner - polityk	Grzegorz Mrózek	2912819075610107	Facebook	m18_24	male (18-24)	PL	Poland	2	1	1709	458	6	0
-Witold Pahl	Sikker sp. z o.o.	1643994439224385	Facebook	m18_24	male (18-24)	PL	Poland	3	1	1585	317	7	0
-Anna Zalewska	Paweł Kociński	171114382968728	Facebook	m18_24	male (18-24)	PL	Poland	2	1	1475	619	4	0
-Andrzej Halicki	. KKW Koalicja Europejska PO PSL SLD .N Zieloni	370319116027	Facebook	m18_24	male (18-24)	PL	Poland	3	1	1356	271	6	0
-Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	m18_24	male (18-24)	PL	Poland	3	1	1323	435	10	1
-Monika Falej	KW Wiosna Roberta Biedronia	380133332829228	Facebook	m18_24	male (18-24)	PL	Poland	3	1	1270	392	4	0
-Dr Zbigniew Girzyński	KW Prawo i Sprawiedliwość	195400413904081	Facebook	m18_24	male (18-24)	PL	Poland	1	1	1199	239	2	0
-Mariusz Kotarba - Kandydat do Parlamentu Europejskiego	KW Wiosna Roberta Biedronia	307031223301174	Facebook	m18_24	male (18-24)	PL	Poland	2	1	1110	211	6	0
-Krzysztof Brejza	KKW Koalicja Europejska PO PSL SLD .N Zieloni	120766181437537	Facebook	m18_24	male (18-24)	PL	Poland	2	1	1104	220	5	0
-Radosław Sikorski	KKW Koalicja Europejska PO PSL SLD .N Zieloni	134214926657042	Facebook	m18_24	male (18-24)	PL	Poland	1	1	1030	515	11	2
-Krzysztof Hetman	Krzysztof Hetman KKW Koalicja Europejska PO PSL SLD .N Zieloni	1607487699534202	Facebook	m18_24	male (18-24)	PL	Poland	5	1	995	0	22	0
-Stanisław Żmijan	MarkNeting Sp. z o.o.	436755540466865	Facebook	m18_24	male (18-24)	PL	Poland	1	1	786	157	3	0
-Joanna Kopcińska	KW Prawo i Sprawiedliowość	1324558754300684	Facebook	m18_24	male (18-24)	PL	Poland	1	1	736	368	8	1
-Jarosław Sellin - oficjalna strona	Cityboard Media Sp. z o.o.	251126394921117	Facebook	m18_24	male (18-24)	PL	Poland	1	1	728	145	1	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	m18_24	male (18-24)	PL	Poland	2	1	719	168	2	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	m18_24	male (18-24)	PL	Poland	4	1	686	293	0	0
+Maciej Jarosz	KW Wiosna Roberta Biedronia	2259859161005527	Facebook	m18_24	male (18-24)	PL	Poland	3	1	12917	2583	21	0
+Marian Piłka	Komitet Wyborczy Wyborców KUKIZ15	363606376045	Facebook	m18_24	male (18-24)	PL	Poland	5	1	12638	2511	35	4
+Waldemar Andzel Poseł na Sejm RP	KW Prawo i Sprawiedliwość	173816296461426	Facebook	m18_24	male (18-24)	PL	Poland	7	1	12537	2391	31	0
+Kujawsko-Pomorskie	Kujawsko-Pomorskie	649437431853583	Facebook	m18_24	male (18-24)	PL	Poland	2	1	12290	2458	28	5
+Tomasz Aniśko - Kandydat do Parlamentu Europejskiego	KKW Koalicja Europejska PO PSL SLD .N Zieloni	605038106603214	Facebook	m18_24	male (18-24)	PL	Poland	2	1	12030	2406	55	27
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	m18_24	male (18-24)	PL	Poland	1	1	11526	2305	22	0
+Tomasz Jaskóła - Kukiz'15	Dariusz Witold Mierzwa	676871362347131	Facebook	m18_24	male (18-24)	PL	Poland	1	1	11485	2297	26	5
+Magdalena Popowska kandydatka Koalicja Europejska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	298313447532081	Facebook	m18_24	male (18-24)	PL	Poland	2	1	11270	2833	65	26
+Maciej Małecki	Maciej Małecki 	533251443444200	Facebook	m18_24	male (18-24)	PL	Poland	4	1	11235	2230	42	16
+Krystyna Skowrońska		415516002548219	Facebook	m18_24	male (18-24)	PL	Poland	1	1	11047	5524	25	12
+Magdalena Wojakowska - kandydatka do PE	Komitet Wyborczy Wyborców KUKIZ15	352612782266151	Facebook	m18_24	male (18-24)	PL	Poland	3	1	10997	2000	69	0
+Szymon Chojnowski	KW Wiosna Roberta Biedronia	227555114762803	Facebook	m18_24	male (18-24)	PL	Poland	2	1	10863	2172	37	14
+Wiktor Idzikowski	KW Wiosna Roberta Biedronia	340063453455898	Facebook	m18_24	male (18-24)	PL	Poland	7	1	10816	2541	44	5
+Marek Belka	Marek Marian Belka	254834855469973	Facebook	m18_24	male (18-24)	PL	Poland	17	1	9951	2672	73	2
+Katarzyna Ueberhan	KW Wiosna Roberta Biedronia	912666098801838	Facebook	m18_24	male (18-24)	PL	Poland	2	1	9943	1988	23	4
+Jolanta Den Kandydatka do Parlamentu Europejskiego		292555524889341	Facebook	m18_24	male (18-24)	PL	Poland	1	1	9753	1950	22	4
+Katarzyna Czochara	Marcin Feliks Miłkowski	167137436954873	Facebook	m18_24	male (18-24)	PL	Poland	1	1	9619	1923	22	4
+KUKIZ'15 • Podbeskidzie	Dariusz Witold Mierzwa	1499178863637899	Facebook	m18_24	male (18-24)	PL	Poland	2	1	9314	1838	24	4
+Akcja Demokracja	Akcja Demokracja	277892342334350	Facebook	m18_24	male (18-24)	PL	Poland	10	1	9250	1963	37	4
+Marcin Anaszewicz	KW Wiosna Roberta Biedronia	636359833430128	Facebook	m18_24	male (18-24)	PL	Poland	1	1	9144	1828	21	4
+SLD Warmia i Mazury - Koalicja Europejska	Cityboard Media Sp. z o.o.	150062391754212	Facebook	m18_24	male (18-24)	PL	Poland	2	1	8973	2253	20	3
+Krzysztof Sitarski Poseł na Sejm RP	Krzysztof Serafin Sitarski	897838423640166	Facebook	m18_24	male (18-24)	PL	Poland	16	1	8920	2416	36	0
+Portal Poznan.pl	Portal Poznan.pl	491439407560076	Facebook	m18_24	male (18-24)	PL	Poland	1	1	8816	1763	4	0
+Magdalena Długosz	KKW Lewica Razem – Razem, Unia Pracy, RSS	350731038804070	Facebook	m18_24	male (18-24)	PL	Poland	1	1	8692	1738	20	4
+Tomasz "Maślak" Maśnica	Jerzy Marian Smolicha	592440527549498	Facebook	m18_24	male (18-24)	PL	Poland	2	1	8146	2019	18	3
+Piotr Ikonowicz	KKW Lewica Razem - Razem, Unia Pracy, RSS	121066958084066	Facebook	m18_24	male (18-24)	PL	Poland	2	1	7926	3963	48	9
+Adam Jarubas	Materiał sfinansowany przez KKW Koalicja Europejska PO PSL SLD .N Zieloni	140229586049381	Facebook	m18_24	male (18-24)	PL	Poland	1	1	7919	1583	18	3
+Renata Caban	Tomasz Mirosław Kowalski	288542178541100	Facebook	m18_24	male (18-24)	PL	Poland	6	1	7738	1547	34	6
+Razem Lubuskie	KKW Lewica Razem - Razem, Unia Pracy, RSS	859639814104576	Facebook	m18_24	male (18-24)	PL	Poland	5	1	7570	2922	61	12
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	m18_24	male (18-24)	PL	Poland	20	1	7427	2722	14	2
+Anita Kucharska-Dziedzic	KW Wiosna Roberta Biedronia	402330900557208	Facebook	m18_24	male (18-24)	PL	Poland	16	1	7399	1446	21	3
+Krytyka Polityczna	Krytyka Polityczna	74863922834	Facebook	m18_24	male (18-24)	PL	Poland	3	1	7345	1469	9	1
+Joanna Mucha	KKW Koalicja Europejska PO PSL SLD .N Zieloni	308920973786	Facebook	m18_24	male (18-24)	PL	Poland	5	1	6973	2140	40	7
+Nie Wstydzę Się Jezusa	Nie Wstydzę Się Jezusa	174848285894374	Facebook	m18_24	male (18-24)	PL	Poland	3	1	6959	1727	16	3
+Jacek Fordon kandydat do PE Wielkopolska, Lista Kukiz 15 poz.5	Komitet Wyborczy Wyborców KUKIZ15	390245745146413	Facebook	m18_24	male (18-24)	PL	Poland	4	1	6776	1269	39	0
+Ewa Głowacka - Kandydat do PE z ramienia SBB, lista Kukiz'15, poz.5	Komitet Wyborczy Wyborców KUKIZ15	2249846945096856	Facebook	m18_24	male (18-24)	PL	Poland	5	1	6765	2511	45	5
+Andrzej Kobylarz - biuro poselskie	Komitet Wyborczy Wyborców KUKIZ15	466597223537544	Facebook	m18_24	male (18-24)	PL	Poland	3	1	6660	2253	52	7
+Sylwester Jankowski	KKW Koalicja Europejska PO PSL SLD .N Zieloni	795085604199707	Facebook	m18_24	male (18-24)	PL	Poland	1	1	6614	1322	30	15
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	m18_24	male (18-24)	PL	Poland	3	1	6433	2844	12	4
+Urszula Sara Zielińska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	505787423224273	Facebook	m18_24	male (18-24)	PL	Poland	1	1	6400	1280	29	14
+Monika Falej	KW Wiosna Roberta Biedronia	380133332829228	Facebook	m18_24	male (18-24)	PL	Poland	3	1	6258	1764	30	6
+Jerzy Janoska - Radny MiG Ogrodzieniec	KWW KONFEDERACJA KORWIN BRAUN LIROY NARODOWCY	934929276593605	Facebook	m18_24	male (18-24)	PL	Poland	1	1	6014	1202	13	2
+Jacek Protas	KKW Koalicja Europejska PO PSL SLD .N Zieloni 	130955346972893	Facebook	m18_24	male (18-24)	PL	Poland	10	1	5673	1056	20	0
+Anna Tarczyńska	KW Wiosna Roberta Biedronia	2162224773873936	Facebook	m18_24	male (18-24)	PL	Poland	1	1	5529	1105	12	2
+Jarosław Rzepa	KKW Koalicja Europejska PO PSL SLD .N Zieloni	187622121427045	Facebook	m18_24	male (18-24)	PL	Poland	16	1	5521	1104	25	0
+Joanna Karpowicz	Uczelnia Jańskiego w Łomży	320757495290279	Facebook	m18_24	male (18-24)	PL	Poland	6	1	5384	2287	44	7
+Hanna Gill-Piątek	KW Wiosna Roberta Biedronia	1025086447521656	Facebook	m18_24	male (18-24)	PL	Poland	3	1	5302	1388	13	1
+Joanna Kopcińska	KW Prawo i Sprawiedliowość	1324558754300684	Facebook	m18_24	male (18-24)	PL	Poland	2	1	4904	980	11	2
+Adam Cyrański	KKW Koalicja Europejska Platforma PSL SLD .N Zieloni.	407715332768236	Facebook	m18_24	male (18-24)	PL	Poland	4	1	4817	1836	26	4
+Bawer Aondo-Akaa	Komitet Wyborczy Wyborców KUKIZ15	1474866972782161	Facebook	m18_24	male (18-24)	PL	Poland	4	1	4741	916	24	0
+Dlaczego Tomasz?	Dawid Barsznica	595590707607864	Facebook	m18_24	male (18-24)	PL	Poland	7	1	4510	1420	37	4
+Urszula Pasławska	KWW Koalicja Europejska PO PSL SLD .N Zieloni	149179815186721	Facebook	m18_24	male (18-24)	PL	Poland	2	1	4243	1305	9	1
+Plastic Free Polska	Plastic Free Polska	2162232717176151	Facebook	m18_24	male (18-24)	PL	Poland	8	1	4098	1117	12	0
+Lambda Warszawa		38339083373	Facebook	m18_24	male (18-24)	PL	Poland	1	1	4043	2021	9	0
+Jacek Wezgraj	KW Wiosna Roberta Biedronia	213293582024781	Facebook	m18_24	male (18-24)	PL	Poland	4	1	3966	1225	20	0
+Pracownicza Demokracja		168540019842341	Facebook	m18_24	male (18-24)	PL	Poland	1	1	3770	1885	8	0
+Jacek Baczyński	Kamil Daniel Halot	906934479400053	Facebook	m18_24	male (18-24)	PL	Poland	2	1	3683	736	8	1
+Witold Pahl	Sikker sp. z o.o.	1643994439224385	Facebook	m18_24	male (18-24)	PL	Poland	11	1	3674	728	21	0
+Mateusz Mirys	KKW Lewica Razem - Razem, Unia Pracy, RSS	293413317485675	Facebook	m18_24	male (18-24)	PL	Poland	4	1	3583	877	20	2
+Polska Fair Play Jolanta Milas	Olaf Szymon Skibiński	363474570925082	Facebook	m18_24	male (18-24)	PL	Poland	8	1	3102	676	16	0
+Jan Klawiter - Biuro Poselskie	Komitet Wyborczy Wyborców KUKIZ15	390395698175977	Facebook	m18_24	male (18-24)	PL	Poland	4	1	2936	583	23	2
+Tomasz Głowacki	Komitet Wyborczy Wyborców KUKIZ15	413919278720181	Facebook	m18_24	male (18-24)	PL	Poland	4	1	2840	563	13	0
+Ewa Kopacz	Koalicyjny Komitet Wyborczy Koalicja Europejska PO SLD PSL .N Zieloni	213282625349772	Facebook	m18_24	male (18-24)	PL	Poland	8	1	2807	546	14	0
+Elżbieta Jabłońska - Przewodnicząca Rady Miasta Świnoujście	KKW Koalicja Europejska PO PSL SLD .N Zieloni	659137817565779	Facebook	m18_24	male (18-24)	PL	Poland	1	1	2680	1340	6	0
+Aleksandra Knapik Wiosna Biedronia	KW Wiosna Roberta Biedronia	1856463364470576	Facebook	m18_24	male (18-24)	PL	Poland	4	1	2644	975	28	4
+Razem Bydgoszcz	KKW Lewica Razem - Razem, Unia Pracy, RSS	543584185807219	Facebook	m18_24	male (18-24)	PL	Poland	1	1	2636	527	6	1
+Zbigniew Zalesiński - Wiosna Biedronia	KW Wiosna Roberta Biedronia	319621255393968	Facebook	m18_24	male (18-24)	PL	Poland	2	1	2530	1265	29	5
+Jacek Guzikowski	Komitet Wyborczy Wyborców KUKIZ15	382878862310992	Facebook	m18_24	male (18-24)	PL	Poland	4	1	2397	476	14	0
+Marta Lempart	KW Wiosna Roberta Biedronia	760311647468570	Facebook	m18_24	male (18-24)	PL	Poland	1	1	2382	476	5	1
+Razem Toruń	KKW Lewica Razem - Razem, Unia Pracy, RSS	1007767002590817	Facebook	m18_24	male (18-24)	PL	Poland	1	1	2353	470	5	1
+Ewa Jeżak	KW Wiosna Roberta Biedronia	1934052153566297	Facebook	m18_24	male (18-24)	PL	Poland	2	1	2299	1149	18	3
+Marszałek Elżbieta Anna Polak		324088538395706	Facebook	m18_24	male (18-24)	PL	Poland	1	1	2283	456	1	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	m18_24	male (18-24)	PL	Poland	5	1	2179	732	8	0
+Dariusz Rosati	CommSense	238903929634988	Facebook	m18_24	male (18-24)	PL	Poland	3	1	2057	803	6	0
+Wolność - częstochowskie	KWW KONFEDERACJA KORWIN BRAUN LIROY NARODOWCY	836715293340164	Facebook	m18_24	male (18-24)	PL	Poland	2	1	1800	360	8	0
+Adam Andruszkiewicz	Marcin Zabłudowski 	658695000844495	Facebook	m18_24	male (18-24)	PL	Poland	1	1	1769	885	20	4
+Polonia Semper Fidelis	Polonia Semper Fidelis	155770611655343	Facebook	m18_24	male (18-24)	PL	Poland	1	1	1751	350	8	4
+Studio Masażu i Fizjoterapii	Bożena Barbara Bartela-Citak	1704799239844675	Facebook	m18_24	male (18-24)	PL	Poland	5	1	1742	332	9	0
+Solier nieruchomości	Paulina Olszak	401350997318333	Facebook	m18_24	male (18-24)	PL	Poland	1	1	1690	338	7	0
+Sławomir Zawiślak - Poseł Naszej Ziemi	GRAFTET Michał Teterycz	175489039166522	Facebook	m18_24	male (18-24)	PL	Poland	2	1	1598	704	4	0
+Anna Wiśniewska	Ania Elżbieta Wiśniewska	1513966862036540	Facebook	m18_24	male (18-24)	PL	Poland	1	1	1579	316	7	0
+Justyna Żalek	Komitet Wyborczy KW Prawo i Sprawiedliwość	548488178922480	Facebook	m18_24	male (18-24)	PL	Poland	6	1	1483	225	34	5
+Mirosława Nykiel Posłanka na Sejm RP	KKW Koalicja Europejska Platforma PSL SLD .N Zieloni 	150873051654314	Facebook	m18_24	male (18-24)	PL	Poland	2	1	1472	610	21	4
+Marta Stasiak - radna Powiatu Łódzkiego Wschodniego		291474638123921	Facebook	m18_24	male (18-24)	PL	Poland	1	1	1347	673	15	3
+Elżbieta Stępień Posłanka na Sejm RP kandydatka do Parlamentu Europejskiego	KKW Koalicja Europejska Platforma SLD PSL .N Zieloni	888587617855300	Facebook	m18_24	male (18-24)	PL	Poland	1	1	1314	262	3	0
+Magdalena Decker	KW Wiosna Roberta Biedronia	302041150729677	Facebook	m18_24	male (18-24)	PL	Poland	1	1	1303	651	15	3
+PARDA Błażej Łukasz	Błażej Łukasz Parda	783039918472235	Facebook	m18_24	male (18-24)	PL	Poland	2	1	1269	253	5	0
+Jarosław Sellin - oficjalna strona	Cityboard Media Sp. z o.o.	251126394921117	Facebook	m18_24	male (18-24)	PL	Poland	2	1	1240	248	2	0
+Grażyna Kulik	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	638588696577700	Facebook	m18_24	male (18-24)	PL	Poland	1	1	1192	596	13	2
+Info Lwówek	Katarzyna Luch	1429420873951263	Facebook	m18_24	male (18-24)	PL	Poland	2	1	1175	235	5	0
+Wojciech Czypicki	KW Wiosna Roberta Biedroni	403357120492005	Facebook	m18_24	male (18-24)	PL	Poland	6	1	1157	197	8	0
+Marcin Gołaszewski	Marcin Łukasz Gołaszewski 	1500359650261089	Facebook	m18_24	male (18-24)	PL	Poland	4	1	1099	214	5	0
+To ja jestem Polską. Głosuję.		2253325488072521	Facebook	m18_24	male (18-24)	PL	Poland	2	1	1055	0	93	0
+Piotr Król	Piotr Marek Król	145329992215815	Facebook	m18_24	male (18-24)	PL	Poland	1	1	999	0	23	0
+Kurier Ząbkowski	Tomasz Kalata 	1507827496163615	Facebook	m18_24	male (18-24)	PL	Poland	2	1	978	142	9	0
+Jacek Kuźniewicz	Jacek Kuźniewicz	1422828751268697	Facebook	m18_24	male (18-24)	PL	Poland	2	1	976	153	8	0
+Małgorzata Prokop-Paczkowska	KW Wiosna Roberta Biedronia	599088633511810	Facebook	m18_24	male (18-24)	PL	Poland	2	1	972	486	6	1
+Katarzyna Kotula	KW Wiosna Roberta Biedronia	325724864963813	Facebook	m18_24	male (18-24)	PL	Poland	4	1	887	305	12	2
+Grzegorz Majewski	Grzegorz Piotr Majewski	2199237327027242	Facebook	m18_24	male (18-24)	PL	Poland	1	1	854	170	3	0
+Bożena Lisowska	Paweł Galewski	1164052730286958	Facebook	m18_24	male (18-24)	PL	Poland	2	1	811	162	3	0
+Danuta Hübner	KKW Koalicja Europejska PO SLD PSL .N Zieloni	458440260940195	Facebook	m18_24	male (18-24)	PL	Poland	3	1	797	144	5	0
+Janka Ochojska	KKW Koalicja Europejska PO PSL SLD .N Zieloni	573994789747274	Facebook	m18_24	male (18-24)	PL	Poland	1	1	757	378	8	1
+Federacja dla Rzeczypospolitej Powiat wałecki	Kamil Stanisław Łazarski	623461921444850	Facebook	m18_24	male (18-24)	PL	Poland	4	1	699	0	16	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	m18_24	male (18-24)	PL	Poland	1	1	677	135	1	0
 Nomada Stowarzyszenie		114318528622863	Facebook	m18_24	male (18-24)	PL	Poland	1	1	673	134	3	0
-Anita Sowińska	KW Wiosna Roberta Biedronia	2154797738169705	Facebook	m18_24	male (18-24)	PL	Poland	1	1	656	328	1	0
-Kamila Gasiuk-Pihowicz	Kamila Gasiuk-PIhowicz KKW Koalicja Europejska PO PSL SLD .N Zieloni	150412465290475	Facebook	m18_24	male (18-24)	PL	Poland	2	1	627	107	4	0
-Patryk Fajdek	KW Wiosna Roberta Biedronia	396085477167186	Facebook	m18_24	male (18-24)	PL	Poland	4	1	555	0	12	0
-Jan Olbrycht	Koalicyjny Komitet Wyborczy Koalicja Europejska PO PSL SLD .N Zieloni	153098244704447	Facebook	m18_24	male (18-24)	PL	Poland	4	1	549	135	6	0
-Paweł Kobyliński - Poseł na Sejm RP, Kandydat do Parlamentu Europejskiego	Paweł Kobyliński, kandydat Koalicji Europejskiej do Europarlamentu	1576591379231457	Facebook	m18_24	male (18-24)	PL	Poland	5	1	487	130	5	0
-Beata Mazurek	KW Prawo i Sprawiedliwość	564941230235866	Facebook	m18_24	male (18-24)	PL	Poland	1	1	482	96	2	0
-Zarabiajwdomu	Piotr Adrian Tyrkalski	1725825690853452	Facebook	m18_24	male (18-24)	PL	Poland	3	1	417	0	9	0
-Wolność - częstochowskie	KWW KONFEDERACJA KORWIN BRAUN LIROY NARODOWCY	836715293340164	Facebook	m18_24	male (18-24)	PL	Poland	2	1	361	0	8	0
-Stop Korki na Bałuckiego		204126866871498	Facebook	m18_24	male (18-24)	PL	Poland	2	1	324	0	7	0
-Anita Kucharska-Dziedzic	KW Wiosna Roberta Biedronia	402330900557208	Facebook	m18_24	male (18-24)	PL	Poland	1	1	294	58	1	0
-Konstanty Radziwiłł	Konstanty Radziwiłł	928240283878303	Facebook	m18_24	male (18-24)	PL	Poland	1	1	284	56	6	1
-Jacek Kuźniewicz	Jacek Kuźniewicz	1422828751268697	Facebook	m18_24	male (18-24)	PL	Poland	1	1	211	0	4	0
-Justyna Żalek	Komitet Wyborczy KW Prawo i Sprawiedliwość	548488178922480	Facebook	m18_24	male (18-24)	PL	Poland	1	1	195	39	4	0
-Patryk Jaki	KW Prawo i Sprawiedliwość	199877710116314	Facebook	m18_24	male (18-24)	PL	Poland	1	1	185	0	4	0
-Danuta Hübner	KKW Koalicja Europejska PO SLD PSL .N Zieloni	458440260940195	Facebook	m18_24	male (18-24)	PL	Poland	2	1	145	0	3	0
-Bartosz Arłukowicz	KKW Koalicja Europejska PO PSL SLD .N Zieloni	152299864806918	Facebook	m18_24	male (18-24)	PL	Poland	1	1	143	28	0	0
-Marcin Bosacki	KWW Koalicja Europejska PO PSL SLD .N Zieloni	325783984956664	Facebook	m18_24	male (18-24)	PL	Poland	2	1	139	0	3	0
-Studio Masażu i Fizjoterapii	Bożena Barbara Bartela-Citak	1704799239844675	Facebook	m18_24	male (18-24)	PL	Poland	2	1	136	0	3	0
-Sławomir Zawiślak - Poseł Naszej Ziemi	GRAFTET Michał Teterycz	175489039166522	Facebook	m18_24	male (18-24)	PL	Poland	1	1	117	0	2	0
-Ewa Kopacz	Koalicyjny Komitet Wyborczy Koalicja Europejska PO SLD PSL .N Zieloni	213282625349772	Facebook	m18_24	male (18-24)	PL	Poland	1	1	110	22	0	0
-Dominika Chorosińska	Komitet Wyborczy Prawo i Sprawiedliwość	580557092422382	Facebook	m18_24	male (18-24)	PL	Poland	1	1	107	21	0	0
-Maciej Małecki	Maciej Małecki 	533251443444200	Facebook	m18_24	male (18-24)	PL	Poland	1	1	78	0	1	0
-Jarosław Wałęsa	KKW Koalicja Europejska PO PSL SLD N Zieloni	433052760111334	Facebook	m18_24	male (18-24)	PL	Poland	1	1	23	0	0	0
-Marta Lempart	KW Wiosna Roberta Biedronia	760311647468570	Facebook	m18_24	male (18-24)	PL	Poland	1	1	23	0	0	0
-Elżbieta Stępień Posłanka na Sejm RP kandydatka do Parlamentu Europejskiego	KKW Koalicja Europejska Platforma SLD PSL .N Zieloni	888587617855300	Facebook	m18_24	male (18-24)	PL	Poland	1	1	11	0	0	0
-Polska Fair Play Jolanta Milas	Olaf Szymon Skibiński	363474570925082	Facebook	m18_24	male (18-24)	PL	Poland	1	1	8	0	0	0
-Lucia Kleštincová	EUpositive.sk	1933440166748185	Facebook	m18_24	male (18-24)	PL	Poland	1	1	1	0	0	0
+Stop Korki na Bałuckiego		204126866871498	Facebook	m18_24	male (18-24)	PL	Poland	3	1	629	92	5	0
+Mikołaj Pancewicz	KW Wiosna Roberta Biedronia	1021840037839693	Facebook	m18_24	male (18-24)	PL	Poland	2	1	546	99	3	0
+Zdecentralizowana Rzeczpospolita	Anna Aleksandra Wojciuk	270581597199597	Facebook	m18_24	male (18-24)	PL	Poland	1	1	500	100	2	0
+Przemysław Słowik	Przemysław Szczepan Słowik	399527046922445	Facebook	m18_24	male (18-24)	PL	Poland	1	1	478	95	2	0
+Michał Stasiński	Platforma Obywatelska	1637210543157734	Facebook	m18_24	male (18-24)	PL	Poland	1	1	461	92	2	0
+Michał Pietrzak	KW Wiosna Roberta Biedronia	607778456353454	Facebook	m18_24	male (18-24)	PL	Poland	1	1	429	85	1	0
+Zarabiajwdomu	Piotr Adrian Tyrkalski	1725825690853452	Facebook	m18_24	male (18-24)	PL	Poland	3	1	406	0	9	0
+Punkt Informacji Europejskiej Europe Direct - Poznań	Komisja Europejska Przedstawicielstwo w Polsce	195007710515979	Facebook	m18_24	male (18-24)	PL	Poland	2	1	392	78	1	0
+Kurier Tarnowski	Kurier Tarnowski	266989963481692	Facebook	m18_24	male (18-24)	PL	Poland	1	1	380	0	8	0
+Kalina Michocka	KW Wiosna Roberta Biedronia)	393061891467410	Facebook	m18_24	male (18-24)	PL	Poland	1	1	376	75	1	0
+Monika Drubkowska	KW Wiosna Roberta Biedronia	2329294190674046	Facebook	m18_24	male (18-24)	PL	Poland	2	1	373	74	1	0
+Cityboard Media	Cityboard Media Sp. z o.o.	110676288949536	Facebook	m18_24	male (18-24)	PL	Poland	2	1	346	173	0	0
+Lepiej wybierz	Katarzyna Stańczak	304972010400039	Facebook	m18_24	male (18-24)	PL	Poland	7	1	330	8	7	0
+Paweł Olszewski	Platforma Obywatelska	256314858405394	Facebook	m18_24	male (18-24)	PL	Poland	1	1	304	60	1	0
+Wiosna w Zachodniopomorskiem	KW Wiosna Roberta Biedronia	779526672397182	Facebook	m18_24	male (18-24)	PL	Poland	2	1	294	49	2	0
+Łukasz Świtek Fotografia	Łukasz Krzysztof Świtek 	720539361295873	Facebook	m18_24	male (18-24)	PL	Poland	1	1	287	143	0	0
+Europe Thinx		335839580440114	Facebook	m18_24	male (18-24)	PL	Poland	1	1	258	51	0	0
+Magdalena Targańska	Magdalena Ewa Targańska	1539741089649187	Facebook	m18_24	male (18-24)	PL	Poland	1	1	258	51	1	0
+PiS Mazowieckie	lite	312380839407375	Facebook	m18_24	male (18-24)	PL	Poland	1	1	231	46	1	0
+Tomasz Piotr Solis	Rafał Kamieniecki 	246042109419324	Facebook	m18_24	male (18-24)	PL	Poland	3	1	223	0	5	0
+Ministerstwo Rodziny, Pracy i Polityki Społecznej		380485532115847	Facebook	m18_24	male (18-24)	PL	Poland	2	1	211	102	0	0
+Razem Szczecin	Razem	888109877905150	Facebook	m18_24	male (18-24)	PL	Poland	1	1	177	35	0	0
+ETUC		129041250601685	Facebook	m18_24	male (18-24)	PL	Poland	1	1	165	33	1	0
+Beata Błażejczak-Kleczewska	KKW Lewica Razem - Razem, Unia Pracy, RSS	523962998436847	Facebook	m18_24	male (18-24)	PL	Poland	1	1	158	31	0	0
+Partia Kierowców	Waldemar Arkadiusz Utecht 	502894740114980	Facebook	m18_24	male (18-24)	PL	Poland	1	1	155	0	3	0
+Fine Dine	Angelika Katarzyna Borysiak	1650498151902140	Facebook	m18_24	male (18-24)	PL	Poland	1	1	153	30	0	0
+Scena Kulinarna Art Restaurant	Angelika Katarzyna Borysiak	149390249131701	Facebook	m18_24	male (18-24)	PL	Poland	2	1	134	22	1	0
+Dawid Kostempski		627434390700275	Facebook	m18_24	male (18-24)	PL	Poland	1	1	133	0	3	0
+Exclusive home	Kamila Gburzyńska	277151879830281	Facebook	m18_24	male (18-24)	PL	Poland	1	1	95	19	0	0
+Młodzieżowy Strajk Klimatyczny Białystok		392347074877769	Facebook	m18_24	male (18-24)	PL	Poland	1	1	83	0	7	0
+CRIF		395919323779707	Facebook	m18_24	male (18-24)	PL	Poland	1	1	79	39	0	0
+Zabia Wola - Gminą ludzi przedsiębiorczych		488103921327485	Facebook	m18_24	male (18-24)	PL	Poland	1	1	58	0	1	0
+ANTICLIMBERS		1008414972688083	Facebook	m18_24	male (18-24)	PL	Poland	1	1	58	11	0	0
+Włącz oszczędzanie	Łukasz Tadeusz Pająk	1599655186922126	Facebook	m18_24	male (18-24)	PL	Poland	2	1	43	8	0	0
+Michał Drewnicki - wiceprzewodniczący Rady Miasta Krakowa		561843337248654	Facebook	m18_24	male (18-24)	PL	Poland	1	1	40	0	0	0
+Błękitny Węgiel	Błękitny Węgiel	567066860335135	Facebook	m18_24	male (18-24)	PL	Poland	1	1	24	4	0	0
+Daniela	Vasatkova Daniela	252673128998993	Facebook	m18_24	male (18-24)	PL	Poland	1	1	24	4	0	0
+Olga Sehnalová	Olga Sehnalová	474594005906021	Facebook	m18_24	male (18-24)	PL	Poland	1	1	14	2	0	0
+Skuteczna modlitwa. Przewodnik		2118896628162986	Facebook	m18_24	male (18-24)	PL	Poland	1	1	14	0	0	0
+POST VON GEHRKE	Elmar Gehrke	630172117364339	Facebook	m18_24	male (18-24)	PL	Poland	1	1	10	5	0	0
+Tomasz Strząbała	Tomasz Strząbała	265135633610304	Facebook	m18_24	male (18-24)	PL	Poland	1	1	10	0	0	0
+Big News Buzz		125179374733697	Facebook	m18_24	male (18-24)	PL	Poland	1	1	8	4	0	0
+Miriam Kuzárová, kandidátka do Európskeho parlamentu	KDH	137416183351336	Facebook	m18_24	male (18-24)	PL	Poland	3	1	7	1	0	0
+Eurozine		115579498521257	Facebook	m18_24	male (18-24)	PL	Poland	1	1	7	1	0	0
+CDU Hoyerswerda	Gerd Oliver Heinze	131251370415005	Facebook	m18_24	male (18-24)	PL	Poland	1	1	6	1	0	0
+SPD Oberspreewald-Lausitz	Alexander Krüger	236968340096641	Facebook	m18_24	male (18-24)	PL	Poland	1	1	5	1	0	0
+FRU.PL - Bilety Lotnicze i Hotele		166901739910	Facebook	m18_24	male (18-24)	PL	Poland	1	1	4	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	m18_24	male (18-24)	PL	Poland	1	1	4	1	0	0
+JUDr. Miroslav Radačovský, ex sudca - kandidát na poslanca EP	Radačovský Michal	730919327293761	Facebook	m18_24	male (18-24)	PL	Poland	4	1	4	1	0	0
+ITUC		20556338116	Facebook	m18_24	male (18-24)	PL	Poland	2	1	3	0	0	0
+Lucia Kleštincová	EUpositive.sk	1933440166748185	Facebook	m18_24	male (18-24)	PL	Poland	1	1	3	1	0	0
+CDU Spree-Neiße		1251143418258273	Facebook	m18_24	male (18-24)	PL	Poland	1	1	3	0	0	0
+Radek Hlaváček	Hlavacek Radek	294674561247936	Facebook	m18_24	male (18-24)	PL	Poland	1	1	2	1	0	0
+KDH	KDH	163449818290	Facebook	m18_24	male (18-24)	PL	Poland	1	1	2	1	0	0
+SPD BRANDENBURG	SPD BRANDENBURG	139470429458087	Facebook	m18_24	male (18-24)	PL	Poland	1	1	1	0	0	0
+Česká společnost ornitologická	Česká společnost ornitologická	479746075051	Facebook	m18_24	male (18-24)	PL	Poland	1	1	1	0	0	0
+Ondřej Krutílek - kandidát do Evropského parlamentu	ODS	1220066088147062	Facebook	m18_24	male (18-24)	PL	Poland	2	1	1	0	0	0
+Jaroslav Paška	Pašková Juliana	480862355305905	Facebook	m18_24	male (18-24)	PL	Poland	3	1	1	0	0	0
 Ivan ŠTEFANEC	KDH	324560137683033	Facebook	m18_24	male (18-24)	PL	Poland	1	1	1	0	0	0
-JUDr. Miroslav Radačovský, ex sudca - kandidát na poslanca EP	Radačovský Michal	730919327293761	Facebook	m18_24	male (18-24)	PL	Poland	1	1	0	0	0	0
-SPD Oberspreewald-Lausitz	Alexander Krüger	236968340096641	Facebook	m18_24	male (18-24)	PL	Poland	1	1	0	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	m18_24	male (18-24)	PL	Poland	2	1	1	0	0	0
+CDU Berlin	CDU Berlin	126952903983246	Facebook	m18_24	male (18-24)	PL	Poland	1	1	0	0	0	0
+Tomáš Hanuš	Kricfalusi Jiri	298486534052289	Facebook	m18_24	male (18-24)	PL	Poland	1	1	0	0	0	0
+Lietuvos valstiečių ir žaliųjų sąjunga	Lietuvos valstiečių ir žaliųjų sąjunga	190209177745566	Facebook	m18_24	male (18-24)	PL	Poland	1	1	0	0	0	0
+Norbert Kurilla	Most-Híd (Híd-Most)	355021862017547	Facebook	m18_24	male (18-24)	PL	Poland	1	1	0	0	0	0
+Vladimír Bilčík SPOLU - občianska demokracia	SPOLU - občianska demokracia	1501859650125625	Facebook	m18_24	male (18-24)	PL	Poland	1	1	0	0	0	0
+Michal Goriščák - kandidát do Európskeho parlamentu	Most-Híd (Híd-Most)	557989851389083	Facebook	m18_24	male (18-24)	PL	Poland	1	1	0	0	0	0
+Lucia Rennerová - kandidátka na europoslankyňu	OBYČAJNÍ ĽUDIA a nezávislé osobnosti	385980928867138	Facebook	m18_24	male (18-24)	PL	Poland	1	1	0	0	0	0
+Tom MacDonald		212732770186	Facebook	m18_24	male (18-24)	PL	Poland	1	1	0	0	0	0

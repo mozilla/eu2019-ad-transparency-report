@@ -1,115 +1,487 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	recent_code_filter	recent_label_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Moderaterna	Moderaterna	7719591155	Facebook	rd3	Last 3 days	SE	Sweden	20	1	597980	244000	8212	1907
-Liberalerna Stockholm	Liberalerna Stockholm	682180208473039	Facebook	rd3	Last 3 days	SE	Sweden	5	1	249995	50000	462	231
-Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	rd3	Last 3 days	SE	Sweden	1	1	199999	100000	4630	926
-Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	rd3	Last 3 days	SE	Sweden	4	1	114984	25997	1481	324
-Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	rd3	Last 3 days	SE	Sweden	12	1	111987	30999	1869	453
-European Parliament	European Parliament	178362315106	Facebook	rd3	Last 3 days	SE	Sweden	1	1	99999	50000	499	100
-ActionAid Sweden	ActionAid Sweden	18880778360	Facebook	rd3	Last 3 days	SE	Sweden	2	1	99997	20000	925	185
-Eric Luth	Eric Luth – Centerpartiet	757931234599499	Facebook	rd3	Last 3 days	SE	Sweden	5	1	84995	26000	1110	250
-Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	rd3	Last 3 days	SE	Sweden	5	1	74995	18000	323	120
-Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	rd3	Last 3 days	SE	Sweden	3	1	59996	11999	555	111
-Sverigedemokraterna Kalmar län	Kotanen Mika Erik	117200235024372	Facebook	rd3	Last 3 days	SE	Sweden	13	1	41987	10000	267	37
-Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	rd3	Last 3 days	SE	Sweden	4	1	24996	8000	184	37
-Moderaterna i Örebro län	Moderaterna i Örebro län	1622018661360930	Facebook	rd3	Last 3 days	SE	Sweden	5	1	24994	4999	323	120
-Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	rd3	Last 3 days	SE	Sweden	10	1	21990	3000	165	18
-Socialdemokraterna i Skåne	Socialdemokraterna i Skåne	102414309949126	Facebook	rd3	Last 3 days	SE	Sweden	3	1	19997	7000	184	64
-Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	rd3	Last 3 days	SE	Sweden	2	1	19997	9999	138	55
-Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	rd3	Last 3 days	SE	Sweden	3	1	19996	6999	601	148
-Centerpartiet Gotland	Ahlin Siv Eva Marie	513330082107760	Facebook	rd3	Last 3 days	SE	Sweden	3	1	14997	3000	138	27
-Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	rd3	Last 3 days	SE	Sweden	3	1	14997	3000	101	18
-En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	rd3	Last 3 days	SE	Sweden	4	1	11996	2000	73	9
-Sverigedemokraterna Värmlands län	Grahn Mats Andreas Johnny	336384546384299	Facebook	rd3	Last 3 days	SE	Sweden	2	1	10998	5000	101	46
-Socialdemokraterna Västmanland	Socialdemokraterna Västmanland	439408222749809	Facebook	rd3	Last 3 days	SE	Sweden	3	1	10997	1999	110	46
-Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	rd3	Last 3 days	SE	Sweden	3	1	10996	1999	147	55
-Kristdemokraterna Sundsvall	Kristdemokraterna Sundsvall	1017885421625799	Facebook	rd3	Last 3 days	SE	Sweden	3	1	10996	1999	101	18
-Miljöpartiet de gröna i Skåne	Miljöpartiet de gröna i Skåne	187178991394420	Facebook	rd3	Last 3 days	SE	Sweden	1	1	9999	5000	46	9
-Liberalerna Luleå	Liberalerna Luleå	588513591196975	Facebook	rd3	Last 3 days	SE	Sweden	3	1	6997	1000	64	9
-Moderaterna i Varberg	Moderaterna	665682436792792	Facebook	rd3	Last 3 days	SE	Sweden	3	1	6997	1000	64	9
-Centerkvinnorna i Göteborg	Ostring Bergman Karin Maria	170111706526814	Facebook	rd3	Last 3 days	SE	Sweden	2	1	5998	1000	55	9
-LO-distriktet i Västsverige	LO-distriktet i Västsverige	213326548681872	Facebook	rd3	Last 3 days	SE	Sweden	2	1	5998	1000	55	9
-Socialdemokraterna i Malmö	Socialdemokraterna i Malmö	133148933394485	Facebook	rd3	Last 3 days	SE	Sweden	2	1	5998	1000	55	9
-Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	rd3	Last 3 days	SE	Sweden	2	1	5998	1000	55	9
-Miljöpartiet Västra Götaland	Miljöpartiet Västra Götaland	835842266433861	Facebook	rd3	Last 3 days	SE	Sweden	2	1	5997	1000	55	9
-Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	rd3	Last 3 days	SE	Sweden	6	1	5993	0	55	0
-Fredrick Federley	Fredrick Federley	189892183097	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
-Moderaterna i Region Västmanland	Moderaterna Västmanland	161086337290646	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
-Centerstudenter Linköping	Isac Riddarsparre (Centerstudenter Linköping)	668083499965739	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
-Zandra Pettersson SD politiker	Pettersson Zandra Margareta	1731576980266356	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	92	46
-Kristdemokraterna Västerbotten	Kristdemokraterna Västerbotten	414156238684191	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
-Socialdemokraterna Värmdö - Framtidspartiet	Nygren Linda Elisabet	217897918243937	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
-Evin Incir	Socialdemokraterna i Uppsala län	1439778006254125	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
-Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	999	46	9
-Moderaterna i Jönköpings Län	Moderaterna i Jönköpings län	164355807916	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	92	46
-Karin Östring Bergman / Centerpartiet	Ostring Bergman Karin Maria	95356393777	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
-Moderaterna i Mölndal	Brown Stjarna Amanda Charlotte	125396154314182	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
-Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
-Kristdemokraterna Fyrbodal	Kristdemokraterna i VGN	1764033887144522	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	9	0
-Liberalerna Mariestad	Bergstrom Viktor Gunnar Lexer	1450259805246166	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
-Conny Brännberg	Brannberg Conny Ruben	656908278084235	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
-Miljöpartiet de gröna i Örebro län	Miljöpartiet de gröna i Örebro län	518485684936538	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
-Socialdemokraterna i Uppsala	Socialdemokraterna i Uppsala	174949672555149	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
-Byggnads Skåne	Sjoberg Jonas Fredrik	294444197371898	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
-Miljöpartiet de gröna i Värmland	Miljöpartiet de gröna i Värmland	325179334216792	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
-Centerpartiet i Jönköpings län	Luth Eric Gunnar Johan	226810677402741	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
-KDU Sverige	KDU Sverige	177549278946958	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4998	999	46	9
-Folkstyret	Ströberg Mikael	1243789685638222	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4998	999	46	9
-Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	rd3	Last 3 days	SE	Sweden	5	1	4994	0	45	0
-Miljöpartiet de gröna i Örebro	Miljöpartiet de gröna i Örebro	149671858392184	Facebook	rd3	Last 3 days	SE	Sweden	4	1	3996	0	36	0
-David Lega	Kristdemokraterna	251829904829983	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1998	0	18	0
-Linus Lakso - MP	Miljöpartiet de gröna	1038425926323402	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1998	0	18	0
-Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1998	0	18	0
-Sverigedemokraterna Norrtelje	Sverigedemokraterna Norrtelje	231584306927975	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1998	0	18	0
-Kristdemokraterna i Marks kommun	Hermansson Per-Olof Ingvar	511527222310641	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1998	0	18	0
-Miljöpartiet de gröna i Malmö	Miljöpartiet de gröna i Malmö	1506025182942351	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1998	0	18	0
-Kristdemokraterna i Örebro län	Cesar Eje Alexander	430535663641398	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1998	0	18	0
-Kristdemokraterna på Gotland	Kristdemokraterna på Gotland	1375539726041747	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1998	0	18	0
-Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1998	0	18	0
-Miljöpartiet de gröna Gävle	Johansson Evelina Sofia	127624557250669	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1998	0	18	0
-European Commission	European Commission	107898832590939	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1727	863	4	0
-Kristdemokraterna Täby	Kristdemokraterna Täby	500140550093378	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Vänsterpartiet Helsingborg	Mattiasson Saarinen Ingrid Kristina	732887920091032	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Malin Forsbrand kommunalråd Vaxholm	Forsbrand Malin Kristina	298053177394356	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Miljöpartiet de gröna i Solna	Bernhard Huber	183031871858967	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Adnan Dibrani till Bryssel	Ghafari Sebastian	1308296045984813	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Liberalerna Malmö	Karlson Christoffer Johan	109988009048564	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Kristdemokraterna Lysekil	Kristdemokraterna	347568685423907	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Miljöpartiet de gröna i Katrineholm	Miljöpartiet de gröna i Katrineholm	744040148974429	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Maric politik	Marić Maria Charlotta	389748451834422	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Miljöpartiet de gröna region Kalmar	Miljöpartiet de gröna Kalmar län	161091964101674	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Vänsterpartiet Sundbyberg	Vänsterpartiet Sundbyberg	1592860820974499	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Sverigedemokraterna Östergötland	Svensson Jan Hubert	386410271448008	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Kristdemokraterna Falkenberg	Ferris Georgia Minnie Anna	184270554952699	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	46	9
-Georgia Ferris KD EU-Kandidat	Ferris Georgia Minnie Anna	407374246718043	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Kristdemokraterna Halland	Ferris Georgia Minnie Anna	727605503925235	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Emma Wiesner	Emma Wiesner (Centerpartiet)	653072158104424	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Socialdemokraterna Dalarna	Socialdemokraterna Dalarna	362970427153858	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Socialdemokraterna i Borås	Socialdemokraterna i Borås	104604012928735	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-EslövsModeraterna	Malmborg Rikard	1563356257213073	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Centerpartiet Västerbotten	Andersson Ase Amandah	281642088439	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Kommunistiska Partiet Göteborg	Kommunistiska Partiet Göteborg	355113523668	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Miljöpartiet de Gröna i Sundbyberg	Miljöpartiet Sundbyberg	107104919328517	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
+Valmyndigheten	Valmyndigheten	1737852076287450	Facebook	rd3	Last 3 days	SE	Sweden	59	1	8944456	3952497	55834	13400
+Moderaterna	Moderaterna	7719591155	Facebook	rd3	Last 3 days	SE	Sweden	120	1	6327348	2500345	98871	24896
+Sverigedemokraterna	Sverigedemokraterna	676246449160270	Facebook	rd3	Last 3 days	SE	Sweden	48	1	4961455	2114249	65437	20308
+Socialdemokraterna	Socialdemokraterna	8040892957	Facebook	rd3	Last 3 days	SE	Sweden	372	1	4666247	1702567	107098	23707
+Miljöpartiet de gröna	Miljöpartiet de gröna	34780126150	Facebook	rd3	Last 3 days	SE	Sweden	44	1	4055914	1800190	50307	11769
+SSU	SSU	45101268520	Facebook	rd3	Last 3 days	SE	Sweden	60	1	2306742	860775	34936	8963
+Kristdemokraterna	Kristdemokraterna	115198178364	Facebook	rd3	Last 3 days	SE	Sweden	113	1	1995728	676157	30288	9519
+Centerpartiet	Centerpartiet	12690894340	Facebook	rd3	Last 3 days	SE	Sweden	32	1	1837284	794699	27944	11408
+European Parliament	European Parliament	178362315106	Facebook	rd3	Last 3 days	SE	Sweden	12	1	1456021	661893	17219	5355
+European Greens	European Greens	141366725876424	Facebook	rd3	Last 3 days	SE	Sweden	8	1	1334824	615411	18594	5519
+European Commission	European Commission	107898832590939	Facebook	rd3	Last 3 days	SE	Sweden	10	1	1096130	544102	7001	2403
+Centerpartiets Ungdomsförbund	Centerpartiets Ungdomsförbund	110793008936879	Facebook	rd3	Last 3 days	SE	Sweden	9	1	1028492	433499	9982	2330
+Ebba Busch Thor	Kristdemokraterna	661702230515862	Facebook	rd3	Last 3 days	SE	Sweden	26	1	1012932	336952	8105	2957
+Plan International Sverige	Plan International Sverige	382243262003	Facebook	rd3	Last 3 days	SE	Sweden	23	1	922332	368975	9764	2522
+Liberalerna Stockholm	Liberalerna Stockholm	682180208473039	Facebook	rd3	Last 3 days	SE	Sweden	38	1	802520	223985	7170	1595
+Sara Skyttedal	Sara Skyttedal	249195615122371	Facebook	rd3	Last 3 days	SE	Sweden	41	1	796527	223500	10341	3938
+Vänsterpartiet	Vänsterpartiet	323156205347	Facebook	rd3	Last 3 days	SE	Sweden	70	1	728610	152100	4033	980
+Alternativ för Sverige	Alternativ för Sverige	270592853332987	Facebook	rd3	Last 3 days	SE	Sweden	6	1	684994	327500	14122	3310
+Vänsterpartiet Göteborg	Vänsterpartiet Göteborg	175873745789190	Facebook	rd3	Last 3 days	SE	Sweden	7	1	607138	232856	6812	1362
+Rädda Barnen	Rädda Barnen	72659261793	Facebook	rd3	Last 3 days	SE	Sweden	94	1	544603	140916	4282	866
+Stefan Löfven	Socialdemokraterna	329885883718979	Facebook	rd3	Last 3 days	SE	Sweden	1	1	499998	199999	18521	9260
+Said till Europaparlamentet	Liberalernas riksorganisation	1509050235995572	Facebook	rd3	Last 3 days	SE	Sweden	23	1	485314	134166	6258	1472
+Abir till Bryssel	Nyberg Claes Otto	252516142116820	Facebook	rd3	Last 3 days	SE	Sweden	24	1	437478	111100	5908	1933
+Sverige för UNHCR	Viva Media	643137272398136	Facebook	rd3	Last 3 days	SE	Sweden	3	1	404996	200999	5102	1018
+Arba Kokalari	Moderaterna i Stockholms stad och län	355819811185620	Facebook	rd3	Last 3 days	SE	Sweden	12	1	400824	83166	2630	614
+Nya Moderaterna i Kalmar län	Hemgard Lars Peter	159513904100440	Facebook	rd3	Last 3 days	SE	Sweden	15	1	352847	73142	3445	713
+Tomas Tobé	Moderaterna	1829725353928210	Facebook	rd3	Last 3 days	SE	Sweden	23	1	350644	85999	5233	1145
+Operation Smile Sverige	Operation Smile Sverige	161213770567846	Facebook	rd3	Last 3 days	SE	Sweden	47	1	344954	61999	3227	583
+Magnus Thulin - Centerpartiet	Thulin Magnus Nils Oscar	161302754576832	Facebook	rd3	Last 3 days	SE	Sweden	14	1	329032	71428	3833	1041
+Svenskt Näringsliv	Svenskt Näringsliv	90882504375	Facebook	rd3	Last 3 days	SE	Sweden	9	1	325695	131849	6615	1489
+Socialdemokraterna i Stockholm	Socialdemokraterna i Stockholm	117056501654820	Facebook	rd3	Last 3 days	SE	Sweden	13	1	302766	130238	6172	1713
+Unga Feminister	Unga Feminister	100642360004457	Facebook	rd3	Last 3 days	SE	Sweden	9	1	281660	89166	2978	872
+Grön Ungdom	Grön Ungdom	113234935374946	Facebook	rd3	Last 3 days	SE	Sweden	3	1	269997	119999	3704	879
+Karin Karlsbro - Liberalerna.	Liberalerna	559163754139097	Facebook	rd3	Last 3 days	SE	Sweden	7	1	254459	93750	4013	921
+Heléne Fritzon	Socialdemokraterna	767749640051136	Facebook	rd3	Last 3 days	SE	Sweden	20	1	253188	55800	2321	511
+Jordens Vänner / Friends of the Earth Sweden	Jordens Vänner / Friends of the Earth Sweden	207890945895422	Facebook	rd3	Last 3 days	SE	Sweden	9	1	238566	77714	753	176
+Gustav Hemming	Gustav Hemming (Centerpartiet)	722853564439941	Facebook	rd3	Last 3 days	SE	Sweden	9	1	229922	63035	4258	850
+Fredrick Federley	Fredrick Federley	189892183097	Facebook	rd3	Last 3 days	SE	Sweden	4	1	224996	89999	1736	555
+Vänsterpartiet Malmö	Vänsterpartiet Malmö	170519996379	Facebook	rd3	Last 3 days	SE	Sweden	17	1	220322	47366	1866	467
+LUF Storstockholm	Emerse	321456164675366	Facebook	rd3	Last 3 days	SE	Sweden	24	1	211704	61285	907	261
+Liberalerna Region Uppsala	Emerse	760092737373457	Facebook	rd3	Last 3 days	SE	Sweden	9	1	209564	41714	1040	273
+Sverigedemokraterna Värmlands län	Sverigedemokraterna Värmlands län	336384546384299	Facebook	rd3	Last 3 days	SE	Sweden	10	1	208350	41321	2567	873
+Jörgen Warborn EU-kandidat	Moderaterna	56002955332	Facebook	rd3	Last 3 days	SE	Sweden	14	1	197323	49166	2771	635
+Liberalerna Stenungsund	Emerse	635481149919229	Facebook	rd3	Last 3 days	SE	Sweden	15	1	196991	45600	943	243
+Greenpeace Sverige	Greenpeace Sverige	95735961890	Facebook	rd3	Last 3 days	SE	Sweden	38	1	185111	40509	1478	336
+IF Metall	IF Metall	108492218918	Facebook	rd3	Last 3 days	SE	Sweden	10	1	182779	54892	1128	244
+Feministiskt initiativ	Feministiskt initiativ	112513375470294	Facebook	rd3	Last 3 days	SE	Sweden	6	1	182495	38749	6134	1227
+LO Sverige	LO Sverige	163820136238	Facebook	rd3	Last 3 days	SE	Sweden	3	1	179164	78333	2237	447
+Liberalerna Botkyrka	Emerse	529270410491237	Facebook	rd3	Last 3 days	SE	Sweden	60	1	177166	39933	935	141
+Liberalerna Västsverige	Liberalerna Västsverige	106102553268601	Facebook	rd3	Last 3 days	SE	Sweden	7	1	175711	62142	1984	754
+David Lega	Kristdemokraterna	251829904829983	Facebook	rd3	Last 3 days	SE	Sweden	7	1	171495	37000	1921	384
+Miljöpartiet Västra Götaland	Miljöpartiet Västra Götaland	835842266433861	Facebook	rd3	Last 3 days	SE	Sweden	5	1	169995	59500	1944	597
+Socialdemokraterna i Malmö	Socialdemokraterna i Malmö	133148933394485	Facebook	rd3	Last 3 days	SE	Sweden	8	1	169042	35095	1168	275
+Socialdemokraterna Örebro kommun	Nerelius Carin Isabelle	223141487866750	Facebook	rd3	Last 3 days	SE	Sweden	11	1	168740	38000	1811	386
+Liberalerna Värmland	Liberalerna Värmland	201659616523774	Facebook	rd3	Last 3 days	SE	Sweden	6	1	161245	34499	504	169
+Skogsindustrierna	Skogsindustrierna 	182933185135	Facebook	rd3	Last 3 days	SE	Sweden	3	1	159997	65000	972	333
+Nyhetssajten Europaportalen	Nyhetssajten Europaportalen	8005743307	Facebook	rd3	Last 3 days	SE	Sweden	7	1	157257	37380	2135	431
+Liberalerna	Liberalerna	132266740623	Facebook	rd3	Last 3 days	SE	Sweden	12	1	152490	39999	3718	757
+Miljöpartiet de gröna i Örebro	Miljöpartiet de gröna i Örebro	149671858392184	Facebook	rd3	Last 3 days	SE	Sweden	23	1	148613	43585	4968	1059
+Sverigedemokraterna Kalmar län	Kotanen Mika Erik	117200235024372	Facebook	rd3	Last 3 days	SE	Sweden	12	1	147702	31041	402	172
+Diakonia	Diakonia	42676805259	Facebook	rd3	Last 3 days	SE	Sweden	13	1	146538	37595	981	213
+Sverigedemokraterna Region Stockholm	SD Stockholm	1729304067391998	Facebook	rd3	Last 3 days	SE	Sweden	10	1	146089	30719	1390	315
+Emma Wiesner	Emma Wiesner (Centerpartiet)	653072158104424	Facebook	rd3	Last 3 days	SE	Sweden	17	1	146072	30832	1201	248
+Evin Incir	Socialdemokraterna i Uppsala län	1439778006254125	Facebook	rd3	Last 3 days	SE	Sweden	6	1	132413	27083	1225	250
+Kristdemokraterna Stockholm	Kristdemokraterna Stockholm	176875999028086	Facebook	rd3	Last 3 days	SE	Sweden	18	1	131776	55257	1316	558
+Linköpingsmoderaterna	Moderaterna Linköping	108239705998001	Facebook	rd3	Last 3 days	SE	Sweden	6	1	128996	27600	749	200
+Socialdemokraterna i Uppsala	Socialdemokraterna i Uppsala	174949672555149	Facebook	rd3	Last 3 days	SE	Sweden	45	1	128988	30082	1645	560
+Annie Lööf	Centerpartiet	118943054880945	Facebook	rd3	Last 3 days	SE	Sweden	4	1	126981	25994	805	194
+Centerpartiet Gotland	Ahlin Siv Eva Marie	513330082107760	Facebook	rd3	Last 3 days	SE	Sweden	7	1	115829	25666	948	222
+Arabiska Teatern / أرابيسكا تياترن	Arabiska Teatern / أرابيسكا تياترن	996264337099052	Facebook	rd3	Last 3 days	SE	Sweden	3	1	115498	56849	548	213
+Kristdemokraterna i Dalarna	Kristdemokraterna Dalarna	321670347944266	Facebook	rd3	Last 3 days	SE	Sweden	24	1	113066	29516	3184	707
+EU-kommissionen i Sverige	EU-kommissionen i Sverige	155824787799	Facebook	rd3	Last 3 days	SE	Sweden	6	1	108280	52142	982	467
+Socialdemokraterna Kungsbacka	Strand Bo Jonas	250833255029427	Facebook	rd3	Last 3 days	SE	Sweden	3	1	104997	20999	972	194
+Moderaterna i Järfälla	Moderaterna i Järfälla	443813509046190	Facebook	rd3	Last 3 days	SE	Sweden	3	1	104996	20999	1018	231
+Miljöpartiet de gröna i Växjö	Miljöpartiet de gröna i Växjö	115219002018409	Facebook	rd3	Last 3 days	SE	Sweden	9	1	103658	26333	1450	345
+Moderaterna i Örebro län	Moderaterna i Örebro län	1622018661360930	Facebook	rd3	Last 3 days	SE	Sweden	11	1	103194	21300	1527	405
+Miljöpartiet de Gröna i Västerbotten	Lemontzis Sofie Olga	70208617833	Facebook	rd3	Last 3 days	SE	Sweden	1	1	99999	49999	4630	926
+Jonas Sjöstedt		261331320599298	Facebook	rd3	Last 3 days	SE	Sweden	2	1	99998	20000	555	138
+Moderaterna i Värmland	Moderaterna i Värmland	1458035847741432	Facebook	rd3	Last 3 days	SE	Sweden	3	1	97498	19500	902	180
+Socialdemokraterna Västmanland	Socialdemokraterna Västmanland	439408222749809	Facebook	rd3	Last 3 days	SE	Sweden	8	1	96651	22516	1288	266
+En Företagares Vardag	Eriksson Mats Ove	347852331958080	Facebook	rd3	Last 3 days	SE	Sweden	10	1	96244	19249	705	155
+Socialdemokraterna i Skåne	Socialdemokraterna i Skåne	102414309949126	Facebook	rd3	Last 3 days	SE	Sweden	11	1	89556	23012	1098	304
+Eric Luth	Eric Luth – Centerpartiet	757931234599499	Facebook	rd3	Last 3 days	SE	Sweden	6	1	87997	21500	1185	245
+LO-distriktet i Västsverige	LO-distriktet i Västsverige	213326548681872	Facebook	rd3	Last 3 days	SE	Sweden	7	1	84924	19460	841	209
+Zandra Pettersson SD politiker	Pettersson Zandra Margareta	1731576980266356	Facebook	rd3	Last 3 days	SE	Sweden	6	1	83412	18583	1095	253
+Moderaterna i Norrbotten	Moderaterna Norrbotten	195594843916366	Facebook	rd3	Last 3 days	SE	Sweden	16	1	82365	17953	1087	296
+Vi-skogen	Vi-skogen	356032977210	Facebook	rd3	Last 3 days	SE	Sweden	2	1	79998	15999	740	148
+Socialdemokraterna i Södertälje	Socialdemokraterna i Södertälje	114736451897793	Facebook	rd3	Last 3 days	SE	Sweden	12	1	79590	15200	1328	314
+KDU Jönköpings län	KDU Jönköpings län	1502764403290092	Facebook	rd3	Last 3 days	SE	Sweden	3	1	78998	17000	879	175
+Svensk Handel	Svensk Handel	120477444659925	Facebook	rd3	Last 3 days	SE	Sweden	6	1	78328	20666	231	46
+Socialdemokraterna i Helsingborg	Socialdemokraterna Helsingborg	303070626373544	Facebook	rd3	Last 3 days	SE	Sweden	9	1	76310	20619	582	175
+Sverigedemokraterna Uppland	Sverigedemokraterna Uppland	479236215426943	Facebook	rd3	Last 3 days	SE	Sweden	2	1	74998	14999	509	115
+Vänsterpartiet Uppsala län	Bergegardh Hans Andreas Abe	326729237396677	Facebook	rd3	Last 3 days	SE	Sweden	12	1	73992	22900	1809	407
+En bättre framtid	Plan International Sverige	1173808162671999	Facebook	rd3	Last 3 days	SE	Sweden	7	1	71992	13999	629	120
+Botkyrka kommun	Botkyrka kommun	313066622056883	Facebook	rd3	Last 3 days	SE	Sweden	4	1	70712	28285	813	281
+Socialdemokraterna i Borås	Socialdemokraterna i Borås	104604012928735	Facebook	rd3	Last 3 days	SE	Sweden	7	1	67678	14416	610	121
+Moderaterna i Kävlinge	Bengtsson Patrik Mikael	108304136037279	Facebook	rd3	Last 3 days	SE	Sweden	3	1	67664	13333	663	132
+Socialdemokraterna i Jönköpings län	Socialdemokraterna i Jönköpings län	390479295816	Facebook	rd3	Last 3 days	SE	Sweden	2	1	66665	13333	617	123
+6F - Fackförbund i samverkan	6F - Fackförbund i samverkan	720556414800953	Facebook	rd3	Last 3 days	SE	Sweden	3	1	64284	12857	595	119
+Karin Wanngård	Socialdemokraterna i Stockholm	389223741094370	Facebook	rd3	Last 3 days	SE	Sweden	2	1	62498	12499	578	115
+Djurens parti	Eriksson Monica Maria Therese	207364469446997	Facebook	rd3	Last 3 days	SE	Sweden	3	1	62260	13452	561	112
+Kryssa Birgitta Sacrédeus	Kristdemokraterna Dalarna	1452780184793248	Facebook	rd3	Last 3 days	SE	Sweden	6	1	60282	13142	1151	229
+Städa Sverige - Idrottens miljöorganisation	Nilsson Patrik Topias Lennart	302156023140090	Facebook	rd3	Last 3 days	SE	Sweden	1	1	59999	30000	555	277
+ABF	ABF	80386149597	Facebook	rd3	Last 3 days	SE	Sweden	2	1	59998	30000	323	92
+WaterAid Sverige	WaterAid Sverige	175843834306	Facebook	rd3	Last 3 days	SE	Sweden	2	1	59997	14999	185	92
+Centerstudenter Linköping	Isac Riddarsparre (Centerstudenter Linköping)	668083499965739	Facebook	rd3	Last 3 days	SE	Sweden	3	1	59996	12000	277	138
+Miljöpartiet de gröna i Örebro län	Miljöpartiet de gröna i Örebro län	518485684936538	Facebook	rd3	Last 3 days	SE	Sweden	15	1	58488	12000	818	183
+Allan Widman	Liberalerna	540799486089503	Facebook	rd3	Last 3 days	SE	Sweden	2	1	58332	21666	1774	354
+Hungerprojektet	Hungerprojektet	212049035488183	Facebook	rd3	Last 3 days	SE	Sweden	3	1	57140	11428	548	121
+Sverigedemokraterna Eskilstuna	Fredriksson Kim David	161935043870264	Facebook	rd3	Last 3 days	SE	Sweden	4	1	56996	11000	573	138
+Miljöpartiet de gröna i Skåne	Miljöpartiet de gröna i Skåne	187178991394420	Facebook	rd3	Last 3 days	SE	Sweden	3	1	54641	10928	505	101
+Vänsterpartiet Skåne	Vänsterpartiet Skåne	111566022258925	Facebook	rd3	Last 3 days	SE	Sweden	14	1	54445	19702	526	200
+Sveriges Kommunistiska Parti	Sveriges Kommunistiska Parti	133234606721672	Facebook	rd3	Last 3 days	SE	Sweden	3	1	54281	12142	502	112
+Centerpartiet i Skåne	Centerpartiet i Skåne	109030109129243	Facebook	rd3	Last 3 days	SE	Sweden	2	1	52852	23427	581	291
+Centerpartiet i Stockholms län	Centerpartiet i Stockholms län	154533721332462	Facebook	rd3	Last 3 days	SE	Sweden	3	1	52497	15000	1041	208
+Maria Johansson Liberalerna	Johansson Maria Birgitta	200983887194604	Facebook	rd3	Last 3 days	SE	Sweden	18	1	51411	9165	645	127
+Moderaterna i Västra Götaland	Moderaterna i Västra Götaland	295727652090	Facebook	rd3	Last 3 days	SE	Sweden	8	1	51222	16345	1397	297
+Miljöpartiet de gröna i Solna	Bernhard Huber	183031871858967	Facebook	rd3	Last 3 days	SE	Sweden	3	1	50848	10000	479	94
+Kristdemokraterna Fyrbodal	Kristdemokraterna i VGN	1764033887144522	Facebook	rd3	Last 3 days	SE	Sweden	15	1	50606	14833	2071	522
+KDU Skåne	Lindholm 	250864784955763	Facebook	rd3	Last 3 days	SE	Sweden	1	1	49999	10000	462	92
+Miljöpartiet de gröna i Värmdö	Miljöpartiet de gröna i Värmdö	279546375195	Facebook	rd3	Last 3 days	SE	Sweden	1	1	49999	10000	462	92
+Skiftet	Skiftet	100650935646	Facebook	rd3	Last 3 days	SE	Sweden	2	1	49999	10000	462	92
+Medborgerlig Samling	Medborgerlig Samling	189332844828330	Facebook	rd3	Last 3 days	SE	Sweden	1	1	49998	9999	462	92
+Liberala studenter Stockholm	Gronkvist Agnes Mimmie Mica Bjornsdotter	597912210359600	Facebook	rd3	Last 3 days	SE	Sweden	2	1	49998	9999	462	92
+Frihet	Hayrynen Lotta Ilona	1722887348013516	Facebook	rd3	Last 3 days	SE	Sweden	9	1	49994	22599	684	237
+Liberalerna Malmö	Karlson Christoffer Johan	109988009048564	Facebook	rd3	Last 3 days	SE	Sweden	8	1	49145	9199	802	299
+Saco	Saco	133910158381	Facebook	rd3	Last 3 days	SE	Sweden	3	1	47141	10714	277	79
+Liberala ungdomsförbundet	Tilstam Emilie Josefin	108941769135355	Facebook	rd3	Last 3 days	SE	Sweden	4	1	46354	9071	466	93
+Centerpartiet Västernorrland	Sjolund Anne-Li Marie	2117823355168432	Facebook	rd3	Last 3 days	SE	Sweden	3	1	45831	11666	393	83
+ActionAid Sweden	ActionAid Sweden	18880778360	Facebook	rd3	Last 3 days	SE	Sweden	8	1	45778	11855	463	141
+Kristdemokraterna Helsingborg	Lindholm 	119710274891528	Facebook	rd3	Last 3 days	SE	Sweden	4	1	44996	12000	509	185
+Yrkesdörren	ÖppnaDörren	1047016558650888	Facebook	rd3	Last 3 days	SE	Sweden	12	1	44790	14200	488	190
+Miljöpartiet de gröna Jämtland Härjedalen	Miljöpartiet de gröna Jämtland/Härjedalen	573954772674425	Facebook	rd3	Last 3 days	SE	Sweden	4	1	44283	13142	939	187
+Kristdemokraterna Täby	Kristdemokraterna Täby	500140550093378	Facebook	rd3	Last 3 days	SE	Sweden	14	1	43264	13142	935	198
+Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	rd3	Last 3 days	SE	Sweden	5	1	42956	11391	521	120
+Nyheter i Västerbotten	Bergstrom Carl Erik Anton	1400334680268097	Facebook	rd3	Last 3 days	SE	Sweden	2	1	41248	8250	381	76
+KDU Sverige	KDU Sverige	177549278946958	Facebook	rd3	Last 3 days	SE	Sweden	5	1	39914	12083	894	177
+Ydrenäs4EU	Ydrenas Hans Rickard	1538819782888095	Facebook	rd3	Last 3 days	SE	Sweden	6	1	39658	7857	367	72
+Liberalerna Örebro län	Liberalerna i Örebro län	388964421149126	Facebook	rd3	Last 3 days	SE	Sweden	5	1	39563	7500	433	86
+Liberalerna Norrmalm	Tufvesson Elsa Christina	173275532684116	Facebook	rd3	Last 3 days	SE	Sweden	33	1	38564	4999	515	137
+Centerstudenter	Centerstudenter	118486018229497	Facebook	rd3	Last 3 days	SE	Sweden	1	1	37499	7500	347	69
+Henrik Sundström - M	Sundström Claes Henrik	180745369170	Facebook	rd3	Last 3 days	SE	Sweden	4	1	37497	9000	393	120
+Sverigedemokraterna Uppsala	SD Uppsala	1649460475294700	Facebook	rd3	Last 3 days	SE	Sweden	3	1	37497	7500	347	69
+Vänsterpartiet Södermalm	Vänsterpartiet Södermalm	376804565780243	Facebook	rd3	Last 3 days	SE	Sweden	8	1	37494	13500	957	263
+Miljöpartiet de gröna i Värmland	Miljöpartiet de gröna i Värmland	325179334216792	Facebook	rd3	Last 3 days	SE	Sweden	7	1	36661	16083	1512	339
+Liberalerna Norrköping	Liberalerna Norrköping	225505640849010	Facebook	rd3	Last 3 days	SE	Sweden	11	1	35469	7095	383	110
+Afram Yakoub	Yakuob Afram	1849562398465143	Facebook	rd3	Last 3 days	SE	Sweden	2	1	34998	10000	323	92
+Anders Rehnberg till Europaparlamentet	Rehnberg Anders John Henry	362678667854817	Facebook	rd3	Last 3 days	SE	Sweden	3	1	33926	9035	638	155
+Kristdemokraterna Västerbotten	Kristdemokraterna Västerbotten	414156238684191	Facebook	rd3	Last 3 days	SE	Sweden	10	1	33825	7833	608	174
+Maria Weimer	Weimer Maria Eva Margareta	467374630087356	Facebook	rd3	Last 3 days	SE	Sweden	8	1	33593	12250	1078	227
+Kristdemokraterna i Nässjö	Kristdemokraterna Nässjö kommun	397392223956552	Facebook	rd3	Last 3 days	SE	Sweden	1	1	33332	6666	308	61
+Vänsterpartiet Gävleborg	Vänsterpartiet Gävleborg	137604056369425	Facebook	rd3	Last 3 days	SE	Sweden	4	1	32068	8464	594	128
+Miljöpartiet Södertälje	Miljöpartiet Södertälje	181419098546246	Facebook	rd3	Last 3 days	SE	Sweden	3	1	31664	8333	586	145
+Moderaterna i Jönköpings Län	Moderaterna i Jönköpings län	164355807916	Facebook	rd3	Last 3 days	SE	Sweden	9	1	31654	7832	1002	265
+Slöseriombudsmannen	Skattebetalarna	408171019221426	Facebook	rd3	Last 3 days	SE	Sweden	6	1	30330	15000	141	27
+Linus Glanzelius till EU	SSU	410320602850904	Facebook	rd3	Last 3 days	SE	Sweden	5	1	29993	8999	369	157
+Centerpartiet i Uppsala län	Grew Hedda Anna Magdalena Jarta	801293393230795	Facebook	rd3	Last 3 days	SE	Sweden	7	1	29745	11249	321	141
+Miljöpartiet de gröna i Kalmar	Miljöpartiet de gröna i Kalmar	700878769933437	Facebook	rd3	Last 3 days	SE	Sweden	9	1	28076	5366	305	86
+Miljöpartiet de gröna i Helsingborg	Miljöpartiet de gröna i Helsingborg	106956499327992	Facebook	rd3	Last 3 days	SE	Sweden	5	1	27418	5034	253	46
+S-studenter	Jordas John Anton Ingvar	123266647715651	Facebook	rd3	Last 3 days	SE	Sweden	2	1	27141	5428	251	50
+Islamic Relief Sverige	Islamic Relief Sverige	121702404531696	Facebook	rd3	Last 3 days	SE	Sweden	14	1	26490	4200	163	18
+Liberala Studenter	Heimbrand Christoffer	118645251482192	Facebook	rd3	Last 3 days	SE	Sweden	16	1	26486	6800	202	29
+Kristdemokraterna i Sollentuna	Nyman Lars Thomas	242233339297081	Facebook	rd3	Last 3 days	SE	Sweden	17	1	26457	3773	262	39
+CIVIL RIGHTS DEFENDERS	CIVIL RIGHTS DEFENDERS	128452220525979	Facebook	rd3	Last 3 days	SE	Sweden	1	1	24999	4999	462	231
+Socialdemokraterna Gotland	Andersson Charlotte Kristina	182610765125197	Facebook	rd3	Last 3 days	SE	Sweden	1	1	24999	5000	231	46
+Olof Palme International Center	Olof Palme International Center	62185934430	Facebook	rd3	Last 3 days	SE	Sweden	5	1	24996	10100	231	93
+Liberalerna Kungsholmen	Johansson Maria Birgitta	1632307106990705	Facebook	rd3	Last 3 days	SE	Sweden	9	1	24990	4000	341	64
+Centerpartiet Västerbotten	Andersson Ase Amandah	281642088439	Facebook	rd3	Last 3 days	SE	Sweden	10	1	24825	4200	334	65
+Vänsterpartiet Sundbyberg	Vänsterpartiet Sundbyberg	1592860820974499	Facebook	rd3	Last 3 days	SE	Sweden	11	1	24657	6733	326	121
+Gröna Studenter	Almén Henrik Carl Olof	31779071967	Facebook	rd3	Last 3 days	SE	Sweden	5	1	24096	9499	884	217
+Kristdemokraterna Uppsala	Kristdemokraterna Uppsala	783969528368300	Facebook	rd3	Last 3 days	SE	Sweden	5	1	22496	7500	636	162
+Forum Syd	Forum Syd	152060917636	Facebook	rd3	Last 3 days	SE	Sweden	6	1	22496	7500	208	69
+Socialdemokraterna på Linje 17	Socialdemokraterna på Linje 17 	174527259250554	Facebook	rd3	Last 3 days	SE	Sweden	12	1	21466	2961	197	27
+Miljöpartiet de gröna i Botkyrka	Miljöpartiet de Gröna i Botkyrka	124443770929754	Facebook	rd3	Last 3 days	SE	Sweden	1	1	21428	4285	396	198
+Skövde kommun	Skövde kommun	147868325286010	Facebook	rd3	Last 3 days	SE	Sweden	1	1	21428	4285	198	39
+Magnus Kolsjö	Magnus Kolsjö	46378622086	Facebook	rd3	Last 3 days	SE	Sweden	12	1	21102	4961	145	20
+Dalarnas unika kontakt med Fredrick Federley	Persson Robert Gote	2312353715706687	Facebook	rd3	Last 3 days	SE	Sweden	5	1	20994	4000	194	37
+Moderaterna i Varberg	Moderaterna	665682436792792	Facebook	rd3	Last 3 days	SE	Sweden	7	1	20493	3500	189	32
+Moderaterna i Gävleborg	Moderaterna Gävleborg	115148865168902	Facebook	rd3	Last 3 days	SE	Sweden	7	1	20328	4500	280	55
+Moderaterna i Region Västmanland	Moderaterna Västmanland	161086337290646	Facebook	rd3	Last 3 days	SE	Sweden	2	1	19998	9999	925	185
+Andreas Sturesson, kommunalråd	Kristdemokraterna Jönköpings Kommun	189699774387238	Facebook	rd3	Last 3 days	SE	Sweden	3	1	19996	6999	601	148
+Hyresgästföreningen	Hyresgästföreningen	126567104406	Facebook	rd3	Last 3 days	SE	Sweden	4	1	19996	4000	184	37
+Vänsterpartiet Jönköping	Vänsterpartiet Jönköping	169508586461	Facebook	rd3	Last 3 days	SE	Sweden	4	1	19995	3999	184	37
+Christoffer Nordmark	Christoffer Nordmark	2407206712838704	Facebook	rd3	Last 3 days	SE	Sweden	8	1	18992	2999	119	13
+Liberalerna Västmanland	Liberalerna Västmanland	112927778743586	Facebook	rd3	Last 3 days	SE	Sweden	4	1	18746	3750	173	34
+Socialdemokraterna Blekinge	 Johansson Jan Magnus	154369674717313	Facebook	rd3	Last 3 days	SE	Sweden	5	1	18746	3750	254	99
+Centerpartiet Halland	ENEVOLDSEN SONJA ANN-KRISTIN	303963156401468	Facebook	rd3	Last 3 days	SE	Sweden	5	1	18495	3500	254	78
+Vänsterpartiet Östergötland	Ellehammar Lundstrom M J Nicklas	475427706138827	Facebook	rd3	Last 3 days	SE	Sweden	3	1	18033	7892	696	139
+Moderaterna i Stockholms stad och län	Moderaterna i Stockholms stad och län	118162038224731	Facebook	rd3	Last 3 days	SE	Sweden	1	1	16666	3333	154	30
+Jan Björklund	Liberalerna	221193798389602	Facebook	rd3	Last 3 days	SE	Sweden	2	1	16665	8333	771	154
+Jessica Polfjärd	Moderaterna	337086006951883	Facebook	rd3	Last 3 days	SE	Sweden	2	1	16664	8333	771	154
+Miljöpartiet Borlänge	Miljöpartiet Borlänge	282739598890951	Facebook	rd3	Last 3 days	SE	Sweden	5	1	16222	3178	263	113
+Socialdemokraterna Värmdö - Framtidspartiet	Nygren Linda Elisabet	217897918243937	Facebook	rd3	Last 3 days	SE	Sweden	6	1	16015	6809	482	111
+Miljöpartiet de gröna i Katrineholm	Miljöpartiet de gröna i Katrineholm	744040148974429	Facebook	rd3	Last 3 days	SE	Sweden	6	1	15914	5333	286	77
+Kristdemokraterna i Karlstad	Kristdemokraterna i Karlstad	184527058316756	Facebook	rd3	Last 3 days	SE	Sweden	8	1	15804	2761	183	34
+Socialdemokraterna i Sollentuna	Jonsson Sven Joakim	465428396919164	Facebook	rd3	Last 3 days	SE	Sweden	6	1	15596	3000	166	33
+Linus Lakso - MP	Miljöpartiet de gröna	1038425926323402	Facebook	rd3	Last 3 days	SE	Sweden	9	1	15368	3374	138	20
+Moderaterna i Östergötland	Moderaterna i Östergötland	435489349877161	Facebook	rd3	Last 3 days	SE	Sweden	3	1	15331	7666	635	132
+Landskronamoderaterna	Tingstrom Emil Gustaf Eric	216527871697704	Facebook	rd3	Last 3 days	SE	Sweden	6	1	15232	4142	148	40
+Centerpartiet i Jönköpings län	Luth Eric Gunnar Johan	226810677402741	Facebook	rd3	Last 3 days	SE	Sweden	1	1	14999	3000	138	27
+Västerbottensmedjan	Abrahamsson Markku Johannes	309711879702623	Facebook	rd3	Last 3 days	SE	Sweden	3	1	14997	3000	138	27
+Kristdemokraterna i Jönköpings län	Kristdemokraterna Jönköpings län	116545538368003	Facebook	rd3	Last 3 days	SE	Sweden	3	1	14997	5250	208	104
+Liberalerna i Karlstad	Liberalerna Karlstad	108881742481938	Facebook	rd3	Last 3 days	SE	Sweden	4	1	14997	6000	92	18
+Moderaterna i Mölndal	Brown Stjarna Amanda Charlotte	125396154314182	Facebook	rd3	Last 3 days	SE	Sweden	4	1	14996	2999	647	185
+Centerkvinnorna	Lek Ingrid Magdalena	265585313460256	Facebook	rd3	Last 3 days	SE	Sweden	8	1	14571	2395	193	36
+Liberalerna Helsingborg	Martensen Axel Erik Alfons	136883253004732	Facebook	rd3	Last 3 days	SE	Sweden	3	1	13998	6099	601	134
+Moderaterna i Danderyd	Smidhammar Leo	488238954615693	Facebook	rd3	Last 3 days	SE	Sweden	6	1	13994	1999	175	55
+Miljöpartiet de gröna i Malmö	Miljöpartiet de gröna i Malmö	1506025182942351	Facebook	rd3	Last 3 days	SE	Sweden	10	1	13926	1733	140	19
+Eva B Arnesson - KD	Eva B Arnesson - KD	297923747637590	Facebook	rd3	Last 3 days	SE	Sweden	7	1	13769	2124	178	32
+Kristdemokraterna Arboga	Stenzelius Jonas Peter Mikael	1083070925184919	Facebook	rd3	Last 3 days	SE	Sweden	7	1	13245	2300	122	21
+Centerkvinnorna i Göteborg	Ostring Bergman Karin Maria	170111706526814	Facebook	rd3	Last 3 days	SE	Sweden	3	1	13082	6541	466	103
+IOGT-NTO	IOGT-NTO	28237261288	Facebook	rd3	Last 3 days	SE	Sweden	3	1	12997	6000	564	111
+Vänsterpartiet Dalarna	Fredholm Kajsa	154956994679599	Facebook	rd3	Last 3 days	SE	Sweden	8	1	12742	1350	302	58
+FPlus – nyhetstjänsten för företagsamma	fPlus	130927360876045	Facebook	rd3	Last 3 days	SE	Sweden	3	1	12497	2500	115	23
+Miljöpartiet de gröna region Kalmar	Miljöpartiet de gröna Kalmar län	161091964101674	Facebook	rd3	Last 3 days	SE	Sweden	3	1	12497	2500	161	60
+Miljöpartiet de Gröna i Sundbyberg	Miljöpartiet Sundbyberg	107104919328517	Facebook	rd3	Last 3 days	SE	Sweden	5	1	12174	2150	149	29
+Moderaterna i Håbo	Erling Björn Karl Gustaf	256926791030140	Facebook	rd3	Last 3 days	SE	Sweden	12	1	12144	2500	297	46
+Socialdemokraterna Falkenberg - Hela kommunens framtidsparti	Svensson Per Johan Klas	1383867568544212	Facebook	rd3	Last 3 days	SE	Sweden	3	1	12140	2428	158	59
+Vänsterpartiet Jönköpings län	Vänsterpartiet Jönköpings län	433323816696224	Facebook	rd3	Last 3 days	SE	Sweden	4	1	11997	2250	138	27
+Liberalerna Varberg	Liberalerna Varberg	780698325379963	Facebook	rd3	Last 3 days	SE	Sweden	8	1	11997	2333	154	49
+Socialdemokraterna i Eskilstuna	Socialdemokraterna i Eskilstuna 	272041890388	Facebook	rd3	Last 3 days	SE	Sweden	2	1	11498	5750	365	73
+Liberalerna Blekinge	Liberalerna i Blekinge	337623463039217	Facebook	rd3	Last 3 days	SE	Sweden	2	1	11248	4500	416	104
+Kristdemokraterna Solna	Kristdemokraterna i Solna	153194577050	Facebook	rd3	Last 3 days	SE	Sweden	4	1	11164	2166	115	23
+Socialdemokraterna i Norrbotten	Friberg Camilla Kristina	60068877157	Facebook	rd3	Last 3 days	SE	Sweden	6	1	11138	1761	127	22
+Liberalerna Västerås	Liberalerna Västerås	39940078116	Facebook	rd3	Last 3 days	SE	Sweden	3	1	10997	2000	184	64
+Centerpartiet Upplands Väsby	Magnusson Kjell Johan Sonny	1457926257795252	Facebook	rd3	Last 3 days	SE	Sweden	3	1	10997	2000	138	27
+LO Skåne	LO-distriktet i Skåne	196081621460	Facebook	rd3	Last 3 days	SE	Sweden	3	1	10997	2000	64	9
+Vänsterpartiet Falun	Vänsterpartiet Falun	274157822060	Facebook	rd3	Last 3 days	SE	Sweden	3	1	10997	2000	101	18
+Lina Eriksson	Lina Eriksson	273049170050654	Facebook	rd3	Last 3 days	SE	Sweden	7	1	10743	1000	163	25
+Sverigedemokraterna Fryksdalen	Sverigedemokraterna Värmlands län	176537522685841	Facebook	rd3	Last 3 days	SE	Sweden	2	1	10284	5142	317	75
+Centerpartiet i Solna	Centerpartiet i Solna	155999571265763	Facebook	rd3	Last 3 days	SE	Sweden	1	1	9999	5000	462	92
+Karin Östring Bergman / Centerpartiet	Ostring Bergman Karin Maria	95356393777	Facebook	rd3	Last 3 days	SE	Sweden	1	1	9999	5000	92	46
+Sundsvallspartiet	Ammor Else	271369483068463	Facebook	rd3	Last 3 days	SE	Sweden	1	1	9999	5000	46	9
+Miljöpartiet de gröna i Landskrona	Miljöpartiet de gröna i Landskrona 	123287631044300	Facebook	rd3	Last 3 days	SE	Sweden	1	1	9999	5000	462	92
+Socialdemokraterna Halland	Socialdemokraterna	329938067056917	Facebook	rd3	Last 3 days	SE	Sweden	1	1	9999	5000	462	92
+SSU Uppland	SSU Uppland	314198681994215	Facebook	rd3	Last 3 days	SE	Sweden	2	1	9998	2000	138	55
+Skaramoderaterna	Grönlund Plöen Anna Lotta	1757410027826711	Facebook	rd3	Last 3 days	SE	Sweden	2	1	9998	1999	92	18
+Utvecklingsmagasinet (fd Biståndsdebatten)	Edquist Kerstin Helena	162523667123095	Facebook	rd3	Last 3 days	SE	Sweden	3	1	9997	1999	55	9
+Miljöpartiet de Gröna i Östergötland	LINDELL JENS-OLOF BERTIL	166934049354	Facebook	rd3	Last 3 days	SE	Sweden	3	1	9748	1950	90	18
+Socialdemokraterna Ystad	Martensson Hans Inge Marten	358016594293864	Facebook	rd3	Last 3 days	SE	Sweden	5	1	9663	1583	89	14
+Moderaterna i Arboga	Soderland Anders Mikael	1307727569320278	Facebook	rd3	Last 3 days	SE	Sweden	2	1	9373	4125	86	38
+Liberalerna Haninge	Liberalerna Haninge	183607788350923	Facebook	rd3	Last 3 days	SE	Sweden	2	1	9332	4666	432	86
+Centerpartiet Uppsala Län	Grew Hedda Anna Magdalena Jarta	597947044056811	Facebook	rd3	Last 3 days	SE	Sweden	2	1	9284	3142	66	13
+Kryssa Mohammad Omran KD	Omran Mohammad	294934427940073	Facebook	rd3	Last 3 days	SE	Sweden	2	1	9165	3833	53	10
+Moderaterna Kungsbacka	Moderaterna Kungsbackakretsen	121182911263997	Facebook	rd3	Last 3 days	SE	Sweden	6	1	9138	1095	121	19
+Conny Brännberg	Brannberg Conny Ruben	656908278084235	Facebook	rd3	Last 3 days	SE	Sweden	4	1	8760	2752	112	50
+Vänsterpartiet Botkyrka	Vänsterpartiet Botkyrka	112154658794592	Facebook	rd3	Last 3 days	SE	Sweden	2	1	8748	3250	300	81
+20% Klimatvarning	Arleskar Carl Albin	362163934600158	Facebook	rd3	Last 3 days	SE	Sweden	2	1	8499	3950	356	71
+Jesper Skalberg Karlsson	Skalberg Karlsson Jesper Jens J	2171970199486213	Facebook	rd3	Last 3 days	SE	Sweden	3	1	8414	1683	77	15
+Kristdemokraterna Sörmland	Tinglöf Miriam Monica Mariana	1633975010236193	Facebook	rd3	Last 3 days	SE	Sweden	3	1	8391	2803	77	25
+Kristdemokraterna Sundsvall	Kristdemokraterna Sundsvall	1017885421625799	Facebook	rd3	Last 3 days	SE	Sweden	4	1	8298	3499	311	61
+Liberalerna Sollentuna	Angressved Lars Johannes	1447781535451300	Facebook	rd3	Last 3 days	SE	Sweden	4	1	8247	1375	90	16
+Folkstyret	Ströberg Mikael	1243789685638222	Facebook	rd3	Last 3 days	SE	Sweden	5	1	8175	1299	75	12
+KD Mölndal	Karlsson Sven Anders Mattias	679052525613883	Facebook	rd3	Last 3 days	SE	Sweden	5	1	8096	1200	111	20
+Vänsterpartiet Leksand	Fredholm Kajsa	348264571925203	Facebook	rd3	Last 3 days	SE	Sweden	3	1	7766	1553	71	14
+Vänsterpartiet Fyrbodal	Vänsterpartiet Fyrbodal	154507768394620	Facebook	rd3	Last 3 days	SE	Sweden	3	1	7748	2250	164	32
+Vänsterpartiet Solna	Vänsterpartiet 	273249776157066	Facebook	rd3	Last 3 days	SE	Sweden	3	1	7569	1428	69	13
+Centerpartiet i Huddinge	Tomas Selin	167980936712785	Facebook	rd3	Last 3 days	SE	Sweden	2	1	7498	1500	69	13
+Susanna Gideonsson	Handelsanställdas förbund	2256836864595743	Facebook	rd3	Last 3 days	SE	Sweden	2	1	7498	1500	115	50
+Sverigedemokraterna Linköping	Sverigedemokraterna Linköping	147672065396607	Facebook	rd3	Last 3 days	SE	Sweden	2	1	7498	1500	138	69
+Fredsövning	ABRAHAMSSON PER-OLOV	717556358417977	Facebook	rd3	Last 3 days	SE	Sweden	2	1	7498	1499	69	13
+Tobias Baudin	Kommunal	614939535271869	Facebook	rd3	Last 3 days	SE	Sweden	3	1	7498	1499	115	50
+Miljöpartiet de gröna Gävle	Johansson Evelina Sofia	127624557250669	Facebook	rd3	Last 3 days	SE	Sweden	9	1	7421	0	68	0
+Liberalerna Luleå	Liberalerna Luleå	588513591196975	Facebook	rd3	Last 3 days	SE	Sweden	6	1	7354	1642	67	15
+Huddingemoderaterna	Huddingemoderaterna	160210550756111	Facebook	rd3	Last 3 days	SE	Sweden	2	1	7284	2742	226	45
+Byggnads Skåne	Sjoberg Jonas Fredrik	294444197371898	Facebook	rd3	Last 3 days	SE	Sweden	2	1	7141	1428	66	13
+Kristdemokraterna Jönköpings Kommun	Kristdemokraterna Jönköpings kommun	836852369693689	Facebook	rd3	Last 3 days	SE	Sweden	2	1	7081	1416	96	37
+Centerpartiet i Hällefors	Nygren Ingemar Tobias	189736311810878	Facebook	rd3	Last 3 days	SE	Sweden	2	1	6998	1399	83	27
+Marie Nilsson	IF Metall	292532504512919	Facebook	rd3	Last 3 days	SE	Sweden	3	1	6997	1000	64	9
+Kristdemokraterna Skaraborg	Kristdemokraterna Skaraborg	123405474354465	Facebook	rd3	Last 3 days	SE	Sweden	3	1	6748	1250	80	16
+SSU Norrbotten	SSU Norrbotten	109573799125007	Facebook	rd3	Last 3 days	SE	Sweden	2	1	6748	1350	124	62
+Stoppa höjningen av Sveriges EU-avgift	Fria Moderata Studentförbundet	306402583588293	Facebook	rd3	Last 3 days	SE	Sweden	2	1	6665	1333	123	61
+Nackamoderaterna	Nackamoderaterna	132143480932	Facebook	rd3	Last 3 days	SE	Sweden	1	1	6665	3333	61	30
+Spannmålsfritt	Spannmålsfritt	886531201686249	Facebook	rd3	Last 3 days	SE	Sweden	2	1	6664	1333	61	12
+Timbro	Timbro	237146235237	Facebook	rd3	Last 3 days	SE	Sweden	3	1	6597	1000	46	5
+Moderaterna i Växjö kommun	Moderaterna Kronoberg	262695680545557	Facebook	rd3	Last 3 days	SE	Sweden	2	1	6498	3000	300	60
+Sverigedemokraterna Norrtelje	Sverigedemokraterna Norrtelje	231584306927975	Facebook	rd3	Last 3 days	SE	Sweden	5	1	6498	1233	60	11
+Centerpartiet Västra Götaland	Centerpartiet	199121803446165	Facebook	rd3	Last 3 days	SE	Sweden	3	1	6331	1200	58	11
+Pietro Marchesi	Marchesi Pietro Angelo Giuseppe	412659735929497	Facebook	rd3	Last 3 days	SE	Sweden	5	1	6196	600	138	25
+Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	rd3	Last 3 days	SE	Sweden	7	1	6194	200	49	0
+Go Climate Neutral	Go Climate Neutral	1797724450537743	Facebook	rd3	Last 3 days	SE	Sweden	1	1	5999	3000	277	55
+Skattebetalarnas Förening	Skattebetalarnas Förening	72832167834	Facebook	rd3	Last 3 days	SE	Sweden	1	1	5999	3000	27	5
+Landsbygdspartiet oberoende	Landsbygdspartiet oberoende	1549988978561671	Facebook	rd3	Last 3 days	SE	Sweden	1	1	5999	3000	277	55
+Kristdemokraterna på Orust	Kristdemokraterna	159407334910426	Facebook	rd3	Last 3 days	SE	Sweden	1	1	5999	3000	55	27
+Liberalerna Österåker	Liberalerna i Österåker	316933851779070	Facebook	rd3	Last 3 days	SE	Sweden	2	1	5998	1000	55	9
+Socialdemokraterna i Mark	Andersson Hakan Ulf Goran	528944283871109	Facebook	rd3	Last 3 days	SE	Sweden	2	1	5998	1000	55	9
+Miljöpartiet de gröna i Gnesta	Miljöpartiet de Gröna i Gnesta	288168764608020	Facebook	rd3	Last 3 days	SE	Sweden	2	1	5998	1200	64	18
+Kristdemokraterna i Mörbylånga kommun	Dicksson Eric Jan	459355064132583	Facebook	rd3	Last 3 days	SE	Sweden	2	1	5998	1000	55	9
+Centerpartiet Dalarna	Persson Robert Gote	300963926616	Facebook	rd3	Last 3 days	SE	Sweden	2	1	5998	1000	55	9
+Bodil Valero sida	Valero Bodil Elisabeth	300733377216643	Facebook	rd3	Last 3 days	SE	Sweden	2	1	5998	1200	55	11
+Ulricehamns kommun	Ulricehamns kommun	195221297179003	Facebook	rd3	Last 3 days	SE	Sweden	2	1	5997	999	55	9
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	rd3	Last 3 days	SE	Sweden	19	1	5811	2469	13	0
+Jan Lenander, politiskt engagerad	Lenander Jan Richard	1834522019966466	Facebook	rd3	Last 3 days	SE	Sweden	4	1	5496	500	50	4
+KD Region Uppsala	KD Region Uppsala	195658617439309	Facebook	rd3	Last 3 days	SE	Sweden	7	1	5469	0	50	0
+Partiet Vändpunkt	Partiet Vändpunkt	334741620478680	Facebook	rd3	Last 3 days	SE	Sweden	6	1	5048	1499	58	23
+Liberalerna Sundbyberg	Liberalerna i Sundbyberg	507299542640142	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
+Socialdemokraterna i Älvsjö	Socialdemokraterna i Stockholm	776538829218458	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
+Vänsterpartiet Västmanland	Vänsterpartiet Västmanland	1438013249820378	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
+Richard Brodd Liberalerna	Brodd Karl Erik Richard	223726468440460	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	999	462	92
+Kristdemokraterna Arvika	Kristensen Daniel Zatteri Of Harbo	182675985548698	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
+Demokratibygget	Barrett Sara Helena	536156530105433	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
+Liberalerna i Karlshamn	Liberalerna i Karlshamn	142412302620892	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
+Moderaterna Skellefteå	Bergstrom Carl Erik Anton	153150404966	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	462	92
+Georgia Ferris KD EU-Kandidat	Ferris Georgia Minnie Anna	407374246718043	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	999	46	9
+Socialdemokraterna Dalarna	Socialdemokraterna Dalarna	362970427153858	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
+Socialdemokraterna i Lund	Persson Arne Roger Sebastian	140849879424265	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
+Joakim Jonsson		506344336447634	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
+Liberalerna Kristianstad		150526214995429	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
+Centerpartiet Lidingö	Patrik Buddgård	370182686393713	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	92	46
+Kristdemokraterna Tyresö	Kennerberg Leif Robert	268593563268202	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	46	9
+Kristdemokraterna Vansbro	Ilar Lars André	573126923032007	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	1000	92	46
+Moderaterna i Västerbotten	Moderaterna i Västerbotten	267640803634611	Facebook	rd3	Last 3 days	SE	Sweden	2	1	4999	1000	358	71
+Borlänge kommun	Borlänge kommun	1540851856197497	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	2500	46	23
+Torgny Jönsson	Jonsson Bjorn Torgny	972455966286401	Facebook	rd3	Last 3 days	SE	Sweden	2	1	4999	1000	77	33
+Socialdemokraterna Tidaholm	Socialdemokraterna Tidaholm	665730566798078	Facebook	rd3	Last 3 days	SE	Sweden	2	1	4999	999	46	9
+Moderaterna Alingsås	Thim Jens Lennart Thomas	206273962768960	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	2500	46	23
+Lina Bodestad - Centerpartiet Ale	Bodestad Lina Eva	448679432228672	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4999	2500	23	4
+Vänsterpartiet Södertälje	Vänsterpartiet Södertälje	1491285471125054	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4998	1000	92	46
+Reformisterna	Reformisterna	2337692372925538	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4998	1000	46	9
+Kvinna till Kvinna	Kvinna till Kvinna	153028052500	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4998	999	46	9
+Socialdemokraterna Värmland	Socialdemokraterna Värmland	273755455974802	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4958	991	45	9
+Martin Ängeby	Angeby Martin Lennart Valdemar	354019898061233	Facebook	rd3	Last 3 days	SE	Sweden	3	1	4832	900	56	11
+Kristdemokraterna i Gagnef	Kristdemokraterna Dalarna	273483286188959	Facebook	rd3	Last 3 days	SE	Sweden	3	1	4581	750	42	6
+KDMaria	Nilsson Anna Maria	250279129252623	Facebook	rd3	Last 3 days	SE	Sweden	6	1	4528	0	48	1
+Adnan Dibrani till Bryssel	Ghafari Sebastian	1308296045984813	Facebook	rd3	Last 3 days	SE	Sweden	2	1	4498	1875	180	34
+Moderaterna i Mellerud	Moderaterna i Mellerud	1696828960384153	Facebook	rd3	Last 3 days	SE	Sweden	3	1	4497	500	41	4
+Funktionsrätt Göteborg	Green Karin Maria Johanna	392199114162215	Facebook	rd3	Last 3 days	SE	Sweden	2	1	4348	750	62	12
+Kristdemokraterna Eslöv	Estenlund Per Samuel	156298131645410	Facebook	rd3	Last 3 days	SE	Sweden	1	1	4285	2142	198	39
+Centerpartiet i Göteborg	Centerpartiet i Göteborg	116621488352172	Facebook	rd3	Last 3 days	SE	Sweden	2	1	4284	857	39	7
+Liberalerna Kumla	Liberalerna i Örebro län	109612275862342	Facebook	rd3	Last 3 days	SE	Sweden	1	1	3999	2000	37	18
+Socialdemokraterna i Nyköping	Socialdemokraterna i Nyköping	109911525800180	Facebook	rd3	Last 3 days	SE	Sweden	1	1	3749	750	34	6
+Stiftelsen Expo	Stiftelsen Expo	208751565805849	Facebook	rd3	Last 3 days	SE	Sweden	1	1	3749	750	34	6
+Axess Magasin & TV	Axess Magasin & TV	887305194662637	Facebook	rd3	Last 3 days	SE	Sweden	1	1	3749	750	34	6
+Anna Vikström		1671556912954715	Facebook	rd3	Last 3 days	SE	Sweden	1	1	3749	749	34	6
+Volt Sverige	Rolf Michael Holz	939004146262372	Facebook	rd3	Last 3 days	SE	Sweden	1	1	3749	1875	34	17
+Moderaterna i Salem	Kalderén Bo Lennart	1408104366115145	Facebook	rd3	Last 3 days	SE	Sweden	2	1	3598	600	33	5
+Moderaterna i Stenungsund	Renfors Anna Maria	488439967871997	Facebook	rd3	Last 3 days	SE	Sweden	3	1	3598	500	33	4
+Moderaterna i Solna	Moderaterna Solna	450481758311196	Facebook	rd3	Last 3 days	SE	Sweden	3	1	3473	375	86	26
+Kristdemokraterna Södertälje	Kristdemokraterna Södertälje	132086976967371	Facebook	rd3	Last 3 days	SE	Sweden	2	1	3427	600	31	5
+Socialdemokraterna Kungälv	Kungälvs Socialdemokratiska Arbetarekommun	241319269242484	Facebook	rd3	Last 3 days	SE	Sweden	1	1	3332	666	30	6
+Fria Moderata Studentförbundet	Fria Moderata Studentförbundet	119885094691458	Facebook	rd3	Last 3 days	SE	Sweden	1	1	3332	666	61	30
+Socialdemokraterna Hässleholm	Hässleholms Socialdemokratiska arbetarekommun	838924659467812	Facebook	rd3	Last 3 days	SE	Sweden	1	1	3332	666	61	30
+Fredrik Elgh  Centerpartiet		254722685215936	Facebook	rd3	Last 3 days	SE	Sweden	2	1	3332	666	30	6
+KD Sigtuna	Makris Jessica Therese	2063183643940247	Facebook	rd3	Last 3 days	SE	Sweden	4	1	3327	535	54	10
+Kristdemokraterna Sotenäs	Kristdemokraterna	887339628029300	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2999	600	55	27
+Vänsterpartiet Örebro	Vänsterpartiet Örebro kommun	297546973785228	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2999	600	55	27
+Fredrik Brange	Norrman Brange Fredrik Oskar	1992227544209769	Facebook	rd3	Last 3 days	SE	Sweden	2	1	2999	600	36	12
+Kristdemokraterna i Gävle	Kristdemokraterna i Gävle	850584251725329	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2499	500	23	4
+Socialdemokraterna i Staffanstorp	Socialdemokraterna i Skåne	119684144775996	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2499	500	23	4
+Kristdemokraterna Varberg	Kardemark Benny Roger	1604039079717231	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2499	500	23	4
+Maric politik	Marić Maria Charlotta	389748451834422	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2499	500	23	4
+Kristdemokraterna Göteborg	Kristdemokraterna Göteborg	1139097292843761	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2499	500	23	4
+Kristdemokraterna i Ludvika/Smedjebacken	Kristdemokraterna i Ludvika/Smedjebacken	1766734230288122	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2499	500	23	4
+Kristdemokraterna i Tibro	Kristdemokraterna i Tibro	127956383885303	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2499	500	23	4
+Utrikespolitiska Föreningen Örebro	Utrikespolitiska Föreningen Örebro	812213475510282	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2499	500	23	4
+Feminism & Gestaltning	Hillerbrand Rune Johanna Maria	182667815652758	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2499	500	23	4
+Carl Kangas - S Värmdö	Nygren Linda Elisabet	879887542403191	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2499	500	23	4
+Socialdemokraterna Gävleborg	Backeskog Sanna Agnes Moa	103487509736810	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2499	500	23	4
+Folkbildarforum	Bildningsförbundet Östergötland	164688070209892	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2499	500	23	4
+Kristdemokraterna i Marks kommun	Hermansson Per-Olof Ingvar	511527222310641	Facebook	rd3	Last 3 days	SE	Sweden	2	1	2499	500	23	4
+Liberalerna Kalmar kommun		143303167656	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2222	1111	10	2
+Studieförbundet Bilda	Wallstedt Bo Fredrik	161514177194883	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2142	428	19	3
+VadstenaModeraterna	Sjöberg Arne Lennart	560250150734818	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2142	428	19	3
+Nya Moderaterna Karlskoga	Moderaterna i Karlskoga	164539323567730	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2142	428	19	3
+Centerpartiet i Umeå	Centerpartiet	450620155297	Facebook	rd3	Last 3 days	SE	Sweden	4	1	2033	0	18	0
+Grön Omstart	Wallin Lena Maria	407812702944641	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1999	400	3	0
+Erik Ciardi - en smålänning i Europa	Bengtsson Qvarnström Bert B Filip	228671011420851	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1999	333	33	15
+KDU Göteborg	KDU Göteborg	337673949604125	Facebook	rd3	Last 3 days	SE	Sweden	3	1	1998	0	18	0
+Torkild Strandberg	Howard Liselotte Caroline	773867402653937	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1998	0	18	0
+Lidingömoderaterna	Lidingömoderaterna	417744054982151	Facebook	rd3	Last 3 days	SE	Sweden	3	1	1998	0	55	9
+Common sense in Sweden		697826370283167	Facebook	rd3	Last 3 days	SE	Sweden	3	1	1998	0	18	0
+Moderaterna i Södermanland	Moderaterna	144955505526463	Facebook	rd3	Last 3 days	SE	Sweden	3	1	1998	0	18	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	rd3	Last 3 days	SE	Sweden	3	1	1896	867	4	1
+KD Kungsbacka	KD Kungsbacka	2024157037852156	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1874	374	17	3
+Moderaterna Kronoberg	Moderaterna Kronoberg	234282713350536	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1666	333	15	3
+Arbetsmarknadsnytt	Arbetsmarknadsnytt	799634660143537	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1666	333	15	3
+Concord Sverige	CONCORD Sverige	119628488091475	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1666	333	15	3
+Eva Ahlin - Centerpartist	Ahlin Siv Eva Marie	334933870387484	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1666	333	15	3
+Kommunistiska Partiet Karlstad	Wiklund Thomas Anders Goran	188106197905255	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1666	333	15	3
+Emil Forslund - Politiker	Forslund Emil Jonathan	629056647456278	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1666	333	15	3
+Kristdemokraterna på Gotland	Kristdemokraterna på Gotland	1375539726041747	Facebook	rd3	Last 3 days	SE	Sweden	3	1	1665	0	77	15
+Liberala Studenter Örebro	Liberala Studenter Örebro	1453776514737275	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1665	0	15	0
+studietid	#studietid	637235366608588	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1623	125	14	1
+Moderaterna i Skåne	Moderaterna i Skåne	336995309750321	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1594	199	23	9
+Hyresgästföreningen region Mitt	Collin Petra Jessica	799284903479521	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1498	0	13	0
+Vänsterpartiet Norrköping	Carlstein Hans Olof	534898423283520	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1428	285	13	2
+Sverigedemokraterna Östergötland	Svensson Jan Hubert	386410271448008	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1428	714	66	13
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1422	711	3	0
+EslövsModeraterna	Malmborg Rikard	1563356257213073	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1332	0	12	0
+Centerpartiet i Enhörna		584208725271615	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1332	0	12	0
+Kristdemokraterna Botkyrka	Kristdemokraterna Botkyrka	650240125071536	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1249	250	23	11
+Socialdemokraterna i Kristianstad	Socialdemokraterna i Skåne	209827375704176	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1249	250	11	2
+Vänsterpartiet Umeå	Sellstedt Karl Sven Andreas	237863203023150	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1249	250	11	2
+KD Uddevalla	Kristdemokraterna	1415631785342345	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1198	0	33	5
+Tankar Online		114769995938282	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	99	0
+Liberalerna Landskrona	Strandberg Torkild Soren	635025056686844	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
+Vänsterpartiet Hammarö	HESSELSTEDT JAN-OLOF	348216195261594	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
+Kommunistiska Partiet Örebro		147362478686033	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
+RKU – Revolutionär Kommunistisk Ungdom	Gustafsson Arvid	328797072776	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
+Centerpartiet Botkyrka - Grödinge	Alse Dag Lucas	439419836148910	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
+Vänsterpartiet Ystad	Brante Goran	513520638755798	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
+Anna Lipinska - Kristdemokraterna Värmdö	Lipinska Anna Weronika	176755019604222	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
 Charlotte Nordström	Nordstrom Charlotte Astrid	1470292919905819	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Kristdemokraterna på Orust	Kristdemokraterna	159407334910426	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Kristdemokraterna Göteborg	Kristdemokraterna Göteborg	1139097292843761	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Emil Forslund - Politiker	Forslund Emil Jonathan	629056647456278	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-KD Sigtuna	Makris Jessica Therese	2063183643940247	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Kristdemokraterna i Gagnef	Kristdemokraterna Dalarna	273483286188959	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-KDMaria	Nilsson Anna Maria	250279129252623	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Kristdemokraterna i Dalarna	Kristdemokraterna Dalarna	321670347944266	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	46	9
-Kristdemokraterna i Ulricehamn	Kristdemokraterna i Ulricehamn	204903883423715	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Eva B Arnesson - KD	Eva B Arnesson - KD	297923747637590	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Demokratibygget	Barrett Sara Helena	536156530105433	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Socialdemokraterna på Linje 17	Socialdemokraterna på Linje 17 	174527259250554	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Liberalerna Österåker	Liberalerna i Österåker	316933851779070	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-studietid	#studietid	637235366608588	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Socialdemokraterna i Helsingborg	Socialdemokraterna Helsingborg	303070626373544	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	46	9
-Moderata Ungdomsförbundet	Moderata Ungdomsförbundet	139375052786521	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	46	9
-Svensk Tidskrift	Svensk Tidskrift	268608766607208	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
-Miljöpartiet de gröna i Kalmar	Miljöpartiet de gröna i Kalmar	700878769933437	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	46	9
-Moderaterna i Östergötland	Moderaterna i Östergötland	435489349877161	Facebook	rd3	Last 3 days	SE	Sweden	1	1	998	0	46	9
-Anders Rehnberg till Europaparlamentet	Rehnberg Anders John Henry	362678667854817	Facebook	rd3	Last 3 days	SE	Sweden	1	1	998	0	9	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	rd3	Last 3 days	SE	Sweden	4	1	494	125	1	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	rd3	Last 3 days	SE	Sweden	1	1	442	221	1	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	rd3	Last 3 days	SE	Sweden	2	1	434	98	1	0
-Mette Thiesen	Mette Thiesen	718327901589937	Facebook	rd3	Last 3 days	SE	Sweden	3	1	21	8	0	0
+Engelbrektsmoderaterna		1445413619024688	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
+Kristdemokraterna Lidingö	Kristdemokraterna på Lidingö	703204236400845	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
+Semantiko	MTWABP Sweden AB	656090384536434	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
+Gabriella Hammarskjöld - C	Hammarskjold Eva Gabriella	1818298128486692	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	46	9
+Moderaterna i Halland	Moderaterna	687371547986856	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
+Vänsterpartiet Region Dalarna	Fredholm Kajsa	816257315147676	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	46	9
+Socialdemokraterna Solna	Socialdemokraterna i Solna	286987014656068	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
+Kristdemokraterna Vänersborg	Nilsson Anna Maria	1436550706597391	Facebook	rd3	Last 3 days	SE	Sweden	1	1	999	0	9	0
+The Good Show	Assur Stagliano Stefan Giuseppe	1923750267869320	Facebook	rd3	Last 3 days	SE	Sweden	1	1	998	0	9	0
+Kristdemokraterna i Ulricehamn	Kristdemokraterna i Ulricehamn	204903883423715	Facebook	rd3	Last 3 days	SE	Sweden	1	1	749	0	34	6
+Mathias Lindow, kommunalråd -L- Österåker	Lindow Johan Mathias	1543451862565120	Facebook	rd3	Last 3 days	SE	Sweden	1	1	749	0	6	0
+IRANDN		1535002403434216	Facebook	rd3	Last 3 days	SE	Sweden	1	1	749	0	6	0
+Fredrik Holmbom		747661682030643	Facebook	rd3	Last 3 days	SE	Sweden	1	1	714	142	1	0
+Kommunistiska Partiet Göteborg	Kommunistiska Partiet Göteborg	355113523668	Facebook	rd3	Last 3 days	SE	Sweden	1	1	714	142	6	1
+Kristdemokraterna i Åmål	Kristdemokraterna	673797989636777	Facebook	rd3	Last 3 days	SE	Sweden	1	1	666	0	30	6
+Sverigedemokraterna Sjöbo		613881641983158	Facebook	rd3	Last 3 days	SE	Sweden	2	1	666	0	6	0
+SSU Jönköpings län	SSU Jönköpings län	191733034225333	Facebook	rd3	Last 3 days	SE	Sweden	1	1	599	0	27	5
+Socialdemokraterna i Nynäshamn	Persson Gunnar Henrik Haakan	552680558109355	Facebook	rd3	Last 3 days	SE	Sweden	1	1	599	0	5	0
+Vänsterpartiet Sollentuna	Lindström Dira Louise Ghadir	198650703984891	Facebook	rd3	Last 3 days	SE	Sweden	1	1	599	0	5	0
+Anders G Johansson	Johansson Anders Gustaf Werner	357659877249	Facebook	rd3	Last 3 days	SE	Sweden	1	1	599	0	5	0
+Kristdemokraterna i Örebro län	Cesar Eje Alexander	430535663641398	Facebook	rd3	Last 3 days	SE	Sweden	2	1	582	0	17	3
+Kristdemokraterna i Värmdö	Lipinska Anna Weronika	1428064517465758	Facebook	rd3	Last 3 days	SE	Sweden	1	1	499	0	4	0
+Caritas Sweden		119140545477108	Facebook	rd3	Last 3 days	SE	Sweden	1	1	499	0	4	0
+Centerpartiet i Jämtlands län	Fallman Eva Kristina Jeanette	121396547892591	Facebook	rd3	Last 3 days	SE	Sweden	1	1	499	0	23	4
+Sverigedemokraterna Sotenäs		227238350776236	Facebook	rd3	Last 3 days	SE	Sweden	1	1	428	0	3	0
+Arbetarekommunen	Persson Gunnar Henrik Haakan	2053389964962411	Facebook	rd3	Last 3 days	SE	Sweden	1	1	428	0	3	0
+Kristdemokraterna Jämtlands Län	Kristdemokraterna i Jämtlands län	276637759146677	Facebook	rd3	Last 3 days	SE	Sweden	1	1	374	0	3	0
+Global Strike For Future Kungsbacka	Borg Bjorn Gustav Emanuel Simon	2421479197884767	Facebook	rd3	Last 3 days	SE	Sweden	1	1	333	0	15	3
+Lidingöpartiet - Grön skön ö.		169961746503287	Facebook	rd3	Last 3 days	SE	Sweden	1	1	333	0	3	0
+Kristdemokraterna i Tidaholm		427648701368670	Facebook	rd3	Last 3 days	SE	Sweden	1	1	333	0	3	0
+SPI Välfärden Nybro		214732125748828	Facebook	rd3	Last 3 days	SE	Sweden	1	1	333	0	3	0
+Tallis talar		1206136579519699	Facebook	rd3	Last 3 days	SE	Sweden	1	1	332	0	3	0
+Kommunistiska Partiet Stockholm		1572942986309050	Facebook	rd3	Last 3 days	SE	Sweden	1	1	332	0	3	0
+Socialdemokraterna i Katrineholm		126125844249254	Facebook	rd3	Last 3 days	SE	Sweden	1	1	299	0	2	0
+Rösta Moderat		349668178981055	Facebook	rd3	Last 3 days	SE	Sweden	1	1	249	0	2	0
+Socialdemokraterna i Järfälla	Socialdemokraterna i Järfälla	125830894149167	Facebook	rd3	Last 3 days	SE	Sweden	1	1	249	0	11	2
+Socialdemokraterna Grums		1417370158528344	Facebook	rd3	Last 3 days	SE	Sweden	1	1	249	0	2	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	rd3	Last 3 days	SE	Sweden	1	1	244	122	1	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	rd3	Last 3 days	SE	Sweden	2	1	227	90	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	rd3	Last 3 days	SE	Sweden	1	1	190	38	0	0
+Frivilliga Familjehem i Österåker		126710901300090	Facebook	rd3	Last 3 days	SE	Sweden	1	1	142	0	1	0
+Sophie Løhde	Sophie Løhde	699619700116377	Facebook	rd3	Last 3 days	SE	Sweden	7	1	100	30	0	0
+Peter Skaarup	Dansk Folkeparti	691707047549076	Facebook	rd3	Last 3 days	SE	Sweden	2	1	68	13	0	0
+Big News Buzz		125179374733697	Facebook	rd3	Last 3 days	SE	Sweden	1	1	61	30	0	0
+Kunsthal Charlottenborg	Kunsthal Charlottenborg	210190795661724	Facebook	rd3	Last 3 days	SE	Sweden	3	1	46	9	0	0
+Mette Thiesen	Mette Thiesen	718327901589937	Facebook	rd3	Last 3 days	SE	Sweden	7	1	35	9	0	0
+Thomas Thomsen	Thomsen Thomas	155006118510945	Facebook	rd3	Last 3 days	SE	Sweden	1	1	29	14	0	0
+CRIF		395919323779707	Facebook	rd3	Last 3 days	SE	Sweden	1	1	22	11	0	0
+Liberal Alliance	Liberal Alliance	106952222676974	Facebook	rd3	Last 3 days	SE	Sweden	7	1	22	5	0	0
+ETUC		129041250601685	Facebook	rd3	Last 3 days	SE	Sweden	1	1	20	4	0	0
+Free Quran Education		388655174641163	Facebook	rd3	Last 3 days	SE	Sweden	1	1	18	3	0	0
+Danmarks Socialdemokratiske Ungdom (DSU)	DSU	126084211821	Facebook	rd3	Last 3 days	SE	Sweden	1	1	16	8	0	0
+Morten Helveg Petersen	Morten Helveg Petersen	442403485851495	Facebook	rd3	Last 3 days	SE	Sweden	2	1	14	3	0	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	rd3	Last 3 days	SE	Sweden	4	1	14	7	0	0
+Rune Frøding	Frøding Rune	493940517678048	Facebook	rd3	Last 3 days	SE	Sweden	3	1	9	2	0	0
+Socialdemokratiet	Socialdemokratiet	41459763029	Facebook	rd3	Last 3 days	SE	Sweden	3	1	8	1	0	0
+Ruben Kidde	Ruben Kidde	113588132144811	Facebook	rd3	Last 3 days	SE	Sweden	3	1	7	1	0	0
+Jacob Netteberg	Netteberg Jacob	1438856909487306	Facebook	rd3	Last 3 days	SE	Sweden	2	1	6	3	0	0
+Miikka Keränen	Keranen Miikka Markus	126768630726940	Facebook	rd3	Last 3 days	SE	Sweden	2	1	6	2	0	0
+Janne Kaisanlahti	Kaisanlahti Janne Kalervo	309381625805373	Facebook	rd3	Last 3 days	SE	Sweden	1	1	6	1	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	rd3	Last 3 days	SE	Sweden	2	1	6	1	0	0
+Bergur Larsson Løkke Rasmussen	Bergur Løkke Rasmussen	141378109375840	Facebook	rd3	Last 3 days	SE	Sweden	1	1	5	1	0	0
+Europe Thinx		335839580440114	Facebook	rd3	Last 3 days	SE	Sweden	1	1	5	1	0	0
+Eurozine		115579498521257	Facebook	rd3	Last 3 days	SE	Sweden	1	1	5	1	0	0
+SF Ungdom	SF Ungdom	113555862534	Facebook	rd3	Last 3 days	SE	Sweden	1	1	3	0	0	0
+Claus Hasselmann - Folketingskandidat	Hasselmann Claus	611297145887529	Facebook	rd3	Last 3 days	SE	Sweden	2	1	3	1	0	0
+Theresa Scavenius	Theresa Scavenius	406921453049822	Facebook	rd3	Last 3 days	SE	Sweden	2	1	3	1	0	0
+VoteEuropa Danmark	Channirr Rizwana Shah	325480551446041	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2	0	0	0
+Erik Poulsen - kandidat til Europa-Parlamentet	Erik Poulsen - kandidat til Europa-Parlamentet	203735820417737	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2	0	0	0
+Jan E. Jørgensen	Jørgensen Jan Ejnar	329413910880676	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2	0	0	0
+Charlotte Libach	Johansen Charlotte Libach	161798761017183	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2	1	0	0
+Martin Henriksen	Dansk Folkeparti	1604502423155684	Facebook	rd3	Last 3 days	SE	Sweden	1	1	2	0	0	0
+Anton Nilsson	Betalt av stödföreningen för Anton Nilsson	290501338278566	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1	0	0	0
+Mette Poulsen	Poulsen Mette	1732891513391281	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1	0	0	0
+Jacob Rosenberg	Rosenberg Jacob	804239283072976	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1	0	0	0
+Camilla Kampmann	Kampmann Camila	1071071099585942	Facebook	rd3	Last 3 days	SE	Sweden	2	1	1	0	0	0
+Kira Marie Peter-Hansen	Peter-Hansen Kira Marie	1497190180404355	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1	0	0	0
+ITUC		20556338116	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1	0	0	0
+Per Larsen i Folketinget	Det Konservative Folkeparti	129802704387687	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1	0	0	0
+dom-i-NEEK		260052198180831	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1	0	0	0
+Tokyo Weekender		134654693230171	Facebook	rd3	Last 3 days	SE	Sweden	1	1	1	0	0	0
+Petra Schulze Steinen	Schulze-Steinen Petra Elina Marjatta	266912807301110	Facebook	rd3	Last 3 days	SE	Sweden	1	1	0	0	0	0
+Susanna Kisner	Susanna Kisnerin tukiryhmä	1569715913292949	Facebook	rd3	Last 3 days	SE	Sweden	1	1	0	0	0	0

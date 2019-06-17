@@ -1,37 +1,135 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Alianța 2020 USR PLUS	Alianța 2020 USR PLUS	621574984950400	Facebook	salaj_county_RO	Sălaj County, Romania	4	1	12983	5674	28	7
-USR Zalău	Uniunea Salavati Romania Filiala Salaj	260094808237890	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	9999	5000	20	0
-RMDSZ	RMDSZ	102601499822802	Facebook	salaj_county_RO	Sălaj County, Romania	6	1	8408	2259	8	0
-European Parliament	European Parliament	178362315106	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	7239	2895	14	7
-Romania #nuepsd	Future Innovation	293215748279337	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	5232	2093	2	1
-ALDE - Partidul Alianta Liberalilor si Democratilor	EvolveDreamSoft	1445317929104549	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	4740	2370	6	3
-Partidul Naţional Liberal	Future Innovation 	181375448581167	Facebook	salaj_county_RO	Sălaj County, Romania	3	1	4313	2010	5	2
-Kelemen Hunor	RMDSZ	175293925828191	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	2631	535	1	0
-Parlamentul European, Biroul de Informare în Romania	Parlamentul European, Biroul de Informare în Romania	138896782840976	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	2469	864	3	0
-Nicu Ștefănuță	Uniunea Salvați România - USR	279454772645662	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	1343	671	1	0
-Viorel Catarama	Dreapta Liberala	795022763862618	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	1207	241	2	0
-Cristian Ghinea	Uniunea Salvați România	269505079808785	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	1182	587	0	0
-Takacs Zoltan	Takacs Zoltan	1827240594259659	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	999	0	20	0
-Dreapta Liberală - DL	Dreapta Liberala	1881461575305499	Facebook	salaj_county_RO	Sălaj County, Romania	4	1	985	192	1	0
-Partidul Mișcarea Populară	Amerisoft	581911828514783	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	850	170	0	0
-Erdélyi magyarok Orbán Viktor mellett	Erdélyi magyarok Orbán Viktor mellett	1537537942983268	Facebook	salaj_county_RO	Sălaj County, Romania	3	1	703	241	3	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	663	264	0	0
-Dacian Cioloş	PLUS	107543802616247	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	649	129	1	0
-Greenpeace Romania	Greenpeace Romania	291132089193	Facebook	salaj_county_RO	Sălaj County, Romania	10	1	595	103	3	0
-Legyen ELÉG	Legyen Elég	1500893963467932	Facebook	salaj_county_RO	Sălaj County, Romania	4	1	579	108	3	0
-European Commission	European Commission	107898832590939	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	543	271	1	0
-Virgil Popescu	POPESCU VIRGIL-DANIEL	1641765056062575	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	487	97	1	0
-Kárpát-medencei Magyar Összefogás	Kárpát-medencei Magyar Összefogás	221361328752151	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	478	239	0	0
-Todoran Adrian	Deputat Adrian Todoran	378450619599004	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	295	59	1	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	136	68	0	0
-Cristian Bușoi	Rus Alexandra	112332998808842	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	132	26	0	0
-Mihai Goţiu	Uniunea Salvați România	602280189818804	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	132	66	0	0
-Raluca Amariei	USR Sibiu	183087692172986	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	118	59	0	0
-MH TIMES	MINCULEASA CLAUDIU-NICOLAE	559977200816313	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	87	17	0	0
-Corina Cretu	Corina Cretu	200813406761691	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	69	13	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	56	17	0	0
-Iulian Lorincz	Uniunea Salvați România - USR	924354934394338	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	51	10	0	0
-Gregoriana Tudoran	Tudoran Gregoriana Carmen	1985293741779690	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	25	0	0	0
-Socioblog.ro	ZODIAN ALEXANDRU-SERBAN	815735411826201	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	22	4	0	0
-Norica Nicolai	Increase Digital	121265151226126	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	11	0	0	0
-USR Bistrița-Năsăud	Stan Calin	1097122383697273	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	9	0	0	0
+USR Sălaj	Uniunea Salvați Romania Filiala Salaj	665719730245460	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	149998	60000	209	42
+USR Zalău	Uniunea Salavati Romania Filiala Salaj	260094808237890	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	149998	60000	314	126
+Alianța 2020 USR PLUS	Alianța 2020 USR PLUS	621574984950400	Facebook	salaj_county_RO	Sălaj County, Romania	35	1	125845	56614	174	35
+USR Jibou	Uniunea Salvati Romania Filala Salaj	1133497573372670	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	93217	18643	195	39
+Partidul Naţional Liberal	Future Innovation 	181375448581167	Facebook	salaj_county_RO	Sălaj County, Romania	18	1	84796	40368	197	86
+European Commission	European Commission	107898832590939	Facebook	salaj_county_RO	Sălaj County, Romania	27	1	80730	37791	191	53
+RMDSZ	RMDSZ	102601499822802	Facebook	salaj_county_RO	Sălaj County, Romania	41	1	77934	22514	164	32
+ALDE - Partidul Alianta Liberalilor si Democratilor	EvolveDreamSoft	1445317929104549	Facebook	salaj_county_RO	Sălaj County, Romania	41	1	77754	35011	216	50
+European Parliament	European Parliament	178362315106	Facebook	salaj_county_RO	Sălaj County, Romania	15	1	77633	35711	205	47
+Partidul Social Democrat	Partidul Social Democrat	291177524360702	Facebook	salaj_county_RO	Sălaj County, Romania	12	1	67809	32796	135	27
+Parlamentul European, Biroul de Informare în Romania	Parlamentul European, Biroul de Informare în Romania	138896782840976	Facebook	salaj_county_RO	Sălaj County, Romania	15	1	67224	31078	95	21
+Norica Nicolai	Increase Digital	121265151226126	Facebook	salaj_county_RO	Sălaj County, Romania	16	1	66001	15297	71	5
+USR Cehu Silvaniei	Uniunea Salvati Romania Filala Salaj	879029628954000	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	44347	8869	92	18
+Erdélyi magyarok Orbán Viktor mellett	Erdélyi magyarok Orbán Viktor mellett	1537537942983268	Facebook	salaj_county_RO	Sălaj County, Romania	28	1	43665	10038	94	16
+Kárpát-medencei Magyar Összefogás	Kárpát-medencei Magyar Összefogás	221361328752151	Facebook	salaj_county_RO	Sălaj County, Romania	32	1	38083	10695	72	10
+Cristian Bușoi	Rus Alexandra	112332998808842	Facebook	salaj_county_RO	Sălaj County, Romania	26	1	30704	13684	39	12
+Departamentul pentru Agricultură și Dezvoltare Rurală al PSD	Partidul Social Democrat	339365506708219	Facebook	salaj_county_RO	Sălaj County, Romania	5	1	24552	10067	10	4
+PLUS	PLUS	1903580739951981	Facebook	salaj_county_RO	Sălaj County, Romania	4	1	23546	11328	30	6
+Partidul Mișcarea Populară	Amerisoft	581911828514783	Facebook	salaj_county_RO	Sălaj County, Romania	15	1	23478	10165	27	7
+Răcnetul Oamenilor Sătui	IOANITA MARIN-IOANA	165452684079944	Facebook	salaj_county_RO	Sălaj County, Romania	8	1	23334	10184	22	5
+Legyen ELÉG	Legyen Elég	1500893963467932	Facebook	salaj_county_RO	Sălaj County, Romania	16	1	19611	5378	39	9
+Takacs Zoltan	Takacs Zoltan	1827240594259659	Facebook	salaj_county_RO	Sălaj County, Romania	3	1	14997	3000	62	0
+Cristian Ghinea	Uniunea Salvați România	269505079808785	Facebook	salaj_county_RO	Sălaj County, Romania	11	1	13797	5861	9	1
+Calin Popescu Tariceanu	EvolveDreamSoft	227922987222524	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	11868	5934	21	10
+USR Târgu-Lăpuș	USR Maramureș	660431470978348	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	11834	4233	24	8
+România în primul rând	Future Innovation	770704223323599	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	11474	5737	12	2
+Vincze Loránt	Vincze Loránt	675042232534141	Facebook	salaj_county_RO	Sălaj County, Romania	9	1	11425	2586	17	0
+Romania #nuepsd	Future Innovation	293215748279337	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	11258	5629	11	2
+Ionel Dancă	ETIS Design	227578001357165	Facebook	salaj_county_RO	Sălaj County, Romania	5	1	11060	4870	7	2
+Kelemen Hunor	RMDSZ	175293925828191	Facebook	salaj_county_RO	Sălaj County, Romania	9	1	10815	2858	26	4
+Pavel Emilian		1557836147771248	Facebook	salaj_county_RO	Sălaj County, Romania	9	1	10394	2968	17	3
+Mihai Tămaș	Tamas Mihai-Dan	126158454726160	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	9998	2000	41	0
+Mága Zoltán hegedűművész		164762586881530	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	9705	4853	15	7
+Raluca Turcan	ETIS Design	360184320712594	Facebook	salaj_county_RO	Sălaj County, Romania	5	1	8925	4323	7	2
+Mihai Goţiu	Uniunea Salvați România	602280189818804	Facebook	salaj_county_RO	Sălaj County, Romania	9	1	8601	3125	14	2
+Gregoriana Tudoran	Tudoran Gregoriana Carmen	1985293741779690	Facebook	salaj_county_RO	Sălaj County, Romania	10	1	8573	1714	13	2
+PRO România	Networld IT&C SRL	2177244962290894	Facebook	salaj_county_RO	Sălaj County, Romania	20	1	8348	2743	17	5
+Declic	Declic	686190454826244	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	7959	3403	3	1
+Winkler Gyula	Winkler Iuliu	1560147330888040	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	7805	3066	11	2
+USR Bihor	Uniunea Salvați România Filiala Bihor	1592660281028385	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	7496	1499	15	3
+Nicu Ștefănuță	Uniunea Salvați România - USR	279454772645662	Facebook	salaj_county_RO	Sălaj County, Romania	7	1	7335	2866	10	3
+Daniel Buda	ETIS Design	220579784732993	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	7307	3654	5	2
+European Greens	European Greens	141366725876424	Facebook	salaj_county_RO	Sălaj County, Romania	4	1	7157	3487	29	4
+Viorel Catarama	Dreapta Liberala	795022763862618	Facebook	salaj_county_RO	Sălaj County, Romania	4	1	7148	3574	19	6
+Eugen Tomac	Amerisoft	494469087244449	Facebook	salaj_county_RO	Sălaj County, Romania	7	1	6887	3026	7	3
+Greenpeace Romania	Greenpeace Romania	291132089193	Facebook	salaj_county_RO	Sălaj County, Romania	17	1	6859	2167	11	1
+Raluca Amariei	USR Sibiu	183087692172986	Facebook	salaj_county_RO	Sălaj County, Romania	7	1	6654	3033	39	9
+George Simion	George Simion	2212856535602171	Facebook	salaj_county_RO	Sălaj County, Romania	10	1	6540	2421	24	6
+Virgil Popescu	POPESCU VIRGIL-DANIEL	1641765056062575	Facebook	salaj_county_RO	Sălaj County, Romania	3	1	6441	2377	13	2
+Litere.net	litere.net	1504323906337545	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	6260	2504	2	1
+Departamentul pentru Comunicații și Societate Informațională al PSD	Partidul Social Democrat	346281832652995	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	6223	2489	2	1
+Rares Bogdan	ETIS Design	204397909629079	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	5531	2212	2	1
+Dacian Cioloş	PLUS	107543802616247	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	5470	2188	11	2
+Departamentul pentru Turism - Partidul Social Democrat	Partidul Social Democrat	339973510194748	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	4894	1958	1	0
+Simona Maria Vlădica	Amerisoft	236992636715917	Facebook	salaj_county_RO	Sălaj County, Romania	4	1	4841	2177	6	1
+Partidul Social Democrat Departamentul pentru Politici Fiscal Bugetare	Partidul Social Democrat	2006803969624108	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	4652	1861	0	0
+Todoran Adrian	Deputat Adrian Todoran	378450619599004	Facebook	salaj_county_RO	Sălaj County, Romania	3	1	4025	888	10	2
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	salaj_county_RO	Sălaj County, Romania	15	1	3984	1712	9	2
+USR Tineret		360833174410777	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	3927	1964	10	2
+USR Sibiu	Uniunea Salvați România	1028428697211383	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	3803	1901	3	1
+European Free Alliance	European Free Alliance	46708306425	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	3662	1831	18	3
+Csomortányi István	Erdélyi Magyar Néppárt	450693115669004	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	3559	711	5	0
+Iulian Lorincz	Uniunea Salvați România - USR	924354934394338	Facebook	salaj_county_RO	Sălaj County, Romania	10	1	3353	770	11	1
+Aresel		292847028010932	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	2772	1386	8	1
+Consiliul Național PSD	Partidul Social Democrat	428923027871330	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	2658	1329	1	0
+PMP TV	Amerisoft	958364000868431	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	2630	1315	1	0
+Violeta Alexandru	ETIS Design SRL	644108472676492	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	2596	977	3	0
+Siegfried Muresan	ETIS Design	731035500293728	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	2514	1257	5	2
+Marilen Gabriel Pirtea	ETIS Design	446198175563566	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	2369	1184	4	2
+EM360 cu Adi Maniutiu	EM360 cu Adi Maniutiu	201920416986321	Facebook	salaj_county_RO	Sălaj County, Romania	14	1	2319	878	6	0
+Florica Chereches	ETIS Design	425879067570544	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	2219	1109	4	2
+Departamentul pentru Afaceri Interne PSD	Partidul Social Democrat	797044747344438	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	2145	1073	1	0
+Daniel Fenechiu	ETIS Design	125414364282605	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	2083	1041	2	0
+Paralela45	Paralela45	89625862971	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	2060	1030	10	2
+Viorel Badea	ETIS Design	161582543936194	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	2058	1029	2	0
+Cornel Popa	ETIS Design	362437290495506	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	2045	1022	2	0
+Cupşa Ioan	ETIS Design	582397865304291	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	1983	991	4	2
+Adrian Miuțescu	ETIS Design	1992712767649895	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	1924	962	4	2
+PNL Bucuresti	Rus Alexandra	678840505584990	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	1890	945	3	1
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	salaj_county_RO	Sălaj County, Romania	3	1	1881	713	3	0
+Corina Cretu	Corina Cretu	200813406761691	Facebook	salaj_county_RO	Sălaj County, Romania	11	1	1660	450	4	0
+Costel Alexe	ETIS Design	182546041796641	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	1640	820	1	0
+Ion ȘTEFAN	ETIS Design SRL	1653699758248627	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	1626	813	3	1
+Inițiativa România	Inițiativa România	1847959338763696	Facebook	salaj_county_RO	Sălaj County, Romania	6	1	1561	610	1	0
+Dreapta Liberală - DL	Dreapta Liberala	1881461575305499	Facebook	salaj_county_RO	Sălaj County, Romania	4	1	1459	287	4	1
+Dan Vîlceanu	ETIS Design	715786165255092	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	1399	279	2	0
+Ilan Laufer		364446500390294	Facebook	salaj_county_RO	Sălaj County, Romania	4	1	1287	273	0	0
+Victor Ponta		150967671609795	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	1175	587	1	0
+Bogdan Huţucă	ETIS Design	370816919755641	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	1130	226	2	0
+Monica Luisa Macovei	MACOVEI MONICA-LUISA	130380413723811	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	1041	208	2	0
+Ziare Neamț	Media PR Grup	471673660019608	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	997	199	3	1
+Andrei Pop	Andrei Pop	522518014611632	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	958	191	0	0
+Ziar Piatra Neamt	Media PR Grup	183473261723511	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	954	190	0	0
+Gheorghiu Bogdan	ETIS Design	267044410338956	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	947	189	1	0
+USR Olt	ANTON SILVIU-CRISTIAN	247245385651467	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	849	169	1	0
+Peter Costea		407413792695356	Facebook	salaj_county_RO	Sălaj County, Romania	3	1	839	162	3	0
+Naomi Reniuț-Ursoiu	Uniunea Salvați România	708334336169853	Facebook	salaj_county_RO	Sălaj County, Romania	4	1	812	160	1	0
+Europe Direct Regiunea Centru		146911762151935	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	763	152	1	0
+MH TIMES	MINCULEASA CLAUDIU-NICOLAE	559977200816313	Facebook	salaj_county_RO	Sălaj County, Romania	5	1	738	250	0	0
+CLAYTON		122493385103	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	659	131	1	0
+Silvia Dinică	Silvia Dinică	1128229287275038	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	620	124	1	0
+The Trust Word - Romania	The TRUST Word News Group	640011536422545	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	591	118	0	0
+Transindex.ro	Transindex.ro	306375751406	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	453	90	1	0
+Christ4ro News		33424557041	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	437	218	3	0
+MozaiQ	MozaiQ	1156150484398630	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	388	77	0	0
+USR Teleorman	Partidul "Uniunea Salvati Romania"	694605284013356	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	383	76	0	0
+Tractari  Auto Oradea-Intern-International Rga Speed Trans	RAZAILA ADRIAN-COSMIN	116323535162294	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	352	102	3	0
+ETUC		129041250601685	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	296	59	2	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	salaj_county_RO	Sălaj County, Romania	5	1	245	100	1	0
+Europe Thinx		335839580440114	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	243	48	0	0
+Cristina Prună	PRUNA CRISTINA-MADALINA	281341562263123	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	226	42	1	0
+USR Buzău		1140510482748359	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	152	30	0	0
+Un colt de suflet		1446870045551264	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	140	18	1	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	135	67	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	134	27	1	0
+Plictisescu.ro		184028071751540	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	126	63	0	0
+UNPR Sector 6		1499561713619805	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	82	41	0	0
+Gabriela Mirescu		2618888988127707	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	76	38	0	0
+Marinela V. Ardelean		346137638884956	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	73	14	0	0
+USR Bistrița-Năsăud	Stan Calin	1097122383697273	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	72	36	0	0
+EuroJobs Romania		1850976141839208	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	69	34	0	0
+Lazar I. Bogdan		363615250703159	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	65	13	0	0
+Socioblog.ro	ZODIAN ALEXANDRU-SERBAN	815735411826201	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	60	30	0	0
+Cornel Radu Loghin	RADU-LOGHIN CORNEL	429437337859107	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	38	6	0	0
+Florin Bivol		2253449691332190	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	38	7	0	0
+Radu Mihaiu	Mihaiu Radu-Nicolae	689386518104305	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	33	6	0	0
+La Pensie		1092535407579725	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	21	0	0	0
+Stop AAAS Ro		1640996242671731	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	18	0	1	0
+Big News Buzz		125179374733697	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	14	7	0	0
+Calculat si linistit		821298314618173	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	13	0	0	0
+USR Timiș		873737539404529	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	13	0	0	0
+Forum Cogitorium	Zsombor Ferencz	1039582286103020	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	8	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	salaj_county_RO	Sălaj County, Romania	2	1	5	0	0	0
+Eurozine		115579498521257	Facebook	salaj_county_RO	Sălaj County, Romania	1	1	3	0	0	0

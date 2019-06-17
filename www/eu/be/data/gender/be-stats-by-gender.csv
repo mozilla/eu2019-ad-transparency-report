@@ -1,4 +1,4 @@
 gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-f	female	BE	Belgium	556	142	4083698	1359773	44290	5785
-m	male	BE	Belgium	556	139	4736617	1668109	60199	8669
-u	unknown	BE	Belgium	370	124	36874	11772	393	49
+f	female	BE	Belgium	4067	607	83298048	31513146	811553	176653
+m	male	BE	Belgium	3971	597	88614599	33482545	881435	199129
+u	unknown	BE	Belgium	3565	586	783384	283991	7757	1606

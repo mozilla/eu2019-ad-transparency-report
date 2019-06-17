@@ -1,29 +1,79 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	location_code_filter	location_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	9	1	8206	3899	40	4
-Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	10	1	5518	1212	18	0
-Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	3	1	3213	1249	5	0
-SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	3	1	2892	578	8	0
-Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	4	1	2238	479	5	0
-HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	1416	283	2	0
-Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	1177	235	3	0
-Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	1104	220	2	0
-European Parliament	European Parliament	178362315106	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	874	174	1	0
-Stjepan Ribić	HDZ - Hrvatska demokratska zajednica	451335681696047	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	638	319	6	0
-Jozo Radoš	Jozo Radoš	446717938731095	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	5	1	572	166	9	0
-Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	14	1	552	48	35	0
-Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	318	63	0	0
-Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	4	1	312	60	6	0
-Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	296	148	2	0
-Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	262	105	3	0
-Marijana Petir	Marijana Petir	1418903245032313	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	251	125	2	0
-Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	234	91	3	0
-Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	208	104	2	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	3	1	166	80	0	0
-Krešo Beljak	Vlahovic Mario	52929105855	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	69	13	1	0
-European Commission	European Commission	107898832590939	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	44	22	0	0
-Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	39	7	0	0
+HDZ - Hrvatska demokratska zajednica	HDZ - Hrvatska demokratska zajednica	406059206159790	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	50	1	117983	50019	524	106
+SDP Hrvatske	SDP Hrvatske	129634970518	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	16	1	46889	20024	50	2
+Valter Flego	IDS - Istarski Demokratski Sabor	441675022557503	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	19	1	41543	18713	119	25
+European Parliament	European Parliament	178362315106	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	15	1	34119	15834	98	28
+Europski parlament, Ured za informiranje u Republici Hrvatskoj	Europski parlament, Ured za informiranje u Republici Hrvatskoj	508795765833382	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	22	1	33145	14929	74	7
+Mladež HDZ	HDZ - Hrvatska demokratska zajednica	426737060720348	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	19	1	31794	13012	89	11
+Marijana Petir	Marijana Petir	1418903245032313	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	9	1	19825	5546	52	4
+Možemo - politička platforma	Možemo - politička platforma	1064762700374086	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	20	1	17057	6071	83	11
+Slobodna Dalmacija	Slobodna Dalmacija	100267330025110	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	24	1	15263	4507	37	0
+Miro Bulj	MOST nezavisnih lista	1252295741481540	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	8	1	15221	5953	40	6
+MOST nezavisnih lista	MOST nezavisnih lista	388550077899912	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	10	1	14470	5577	55	9
+European Greens	European Greens	141366725876424	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	6	1	12147	5121	36	13
+Joško Klisović	Klisovic Josko	1262594650584725	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	14	1	11837	3180	31	0
+Model European Union Zagreb - MEUZ	Divea Studio	521874817895935	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	5	1	11470	4846	14	0
+Sunčana Glavak	HDZ - Hrvatska demokratska zajednica	482597361772021	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	4	1	9365	3502	52	10
+Karlo Ressler	HDZ - Hrvatska demokratska zajednica	272201060331942	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	8	1	9115	2713	29	2
+European Commission	European Commission	107898832590939	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	22	1	7866	3834	11	3
+Jozo Radoš	Jozo Radoš	446717938731095	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	8	1	6806	1361	18	0
+Stjepan Adanić	HDZ - Hrvatska demokratska zajednica	408695383042330	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	3	1	6584	2806	18	2
+Željana Zovko	HDZ - Hrvatska demokratska zajednica	1203134436474667	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	18	1	5911	1219	44	0
+Stjepan Ribić	HDZ - Hrvatska demokratska zajednica	451335681696047	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	4	1	5204	2138	25	2
+SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	11	1	4734	1726	24	0
+Ruža Tomašić	Tomasic Ruza	1434305366791182	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	20	1	4573	1173	34	0
+Dubravka Suica	HDZ - Hrvatska demokratska zajednica	195096520662445	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	4332	2166	12	1
+HKS - Hrvatska konzervativna stranka	HKS - Hrvatska konzervativna stranka	789855157727222	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	3956	1572	5	0
+Goran Pauk	HDZ - Hrvatska demokratska zajednica	581489628528785	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	3	1	3771	754	7	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	3324	1662	2	0
+Građani za Mislava Kolakušića	Kolakusic Mislav	374159272978399	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	5	1	3000	653	9	0
+Hrvatskadanas	Hrvatskadanas	140693889702485	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	14	1	2959	1206	38	0
+Domagoj Maroević	HDZ - Hrvatska demokratska zajednica	377283356332665	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	4	1	2946	1138	17	3
+Dr. sc. Tomislav Sokol	HDZ - Hrvatska demokratska zajednica	136900153422435	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	3	1	2758	548	6	0
+Nikolina Brnjac	HDZ - Hrvatska demokratska zajednica	287054392229717	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	2631	526	18	3
+Hrvatska narodna stranka - liberalni demokrati (HNS)	Hrvatska narodna stranka - liberalni demokrati (HNS)	139606619434725	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	3	1	2604	520	10	1
+Krešo Beljak	Vlahovic Mario	52929105855	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	2529	984	9	1
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	15	1	2277	981	4	1
+Ružica Vukovac		1657305064553537	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	1837	367	3	0
+BIOM	BIOM	138743669505642	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	5	1	1571	468	7	0
+Marijana Balić	HDZ - Hrvatska demokratska zajednica	1274752085892321	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	1570	314	15	3
+Ivana Nikolić Popović	Hrvatska narodna stranka - liberalni demokrati (HNS)	160505204050427	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	1537	307	3	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	8	1	1434	565	1	0
+Saša Poljanec-Borić	Hrvatska socijalno liberalna stranka	1914254365351413	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	1350	675	5	1
+Davor Škrlec	Zastupnik u Europskom parlamentu Davor Škrlec	1507744276110325	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	1263	252	2	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	1220	610	6	1
+GLAS Građansko-liberalni savez	GLAS Građansko-liberalni savez	231052047413325	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	1115	223	9	1
+Tonino Picula	Tonino Picula	156057951248853	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	1084	216	2	0
+Nova ljevica	Možemo - politička platforma	706769699498076	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	1035	207	2	0
+Hrvatska stranka umirovljenika	Hrvatska stranka umirovljenika	1437793016448632	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	1020	204	2	0
+Zoran Bahtijarević	Vlahovic Mario	2195720960680577	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	737	182	2	0
+Habib Tahiri	Hrvatska narodna stranka - liberalni demokrati (HNS)	750800161983664	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	661	132	1	0
+Sanja Radolović	Radolovic Sanja	508755779649081	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	6	1	488	158	7	0
+Gong	Gong	135611546456409	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	4	1	340	142	3	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	3	1	283	133	0	0
+Diana Topčić-Rosenberg	TOPCIC-ROSENBERG DIANA	1702271996513206	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	3	1	282	111	4	0
+pametno.org	Pametno	144815235686385	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	4	1	233	90	3	0
+Zelena lista		157025101623973	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	231	98	2	0
+HSS Hrvatska	Vlahovic Mario	236043376446622	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	220	110	2	0
+Gordan Maras		451079008266520	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	197	39	3	0
+Rainbow Rose	Rainbow Rose	572653266147067	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	122	61	1	0
+Davor Nađi	Nadi Davor	1640498249359280	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	110	46	1	0
+Informativno Dokumentacijski Centar Banije I Korduna		1902779853072038	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	99	19	1	0
+Željka Markić		210218862695602	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	93	18	1	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	87	17	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	5	1	86	35	0	0
+Greenpeace Hrvatska	Greenpeace Hrvatska	359170097532754	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	3	1	55	0	4	0
+Demokratikus Koalíció	Demokratikus Koalíció	169599166463839	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	47	23	0	0
+Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	24	10	0	0
+Danko Švorinić		1867610616838363	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	21	0	1	0
 European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	20	10	0	0
-Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	2	1	19	5	0	0
 Hrvatske vijesti		286736758747850	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	18	0	1	0
-SNAGA - Stranka narodnog i građanskog aktivizma	SNAGA - stranka narodnog i građanskog aktivizma	309273389409125	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	17	0	1	0
-Dobrev Klára	Demokratikus Koalíció	1880809845328535	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	4	0	0	0
+Europe Thinx		335839580440114	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	15	3	0	0
+CRIF		395919323779707	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	14	7	0	0
+Ne u moje ime		138418753446889	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	11	2	0	0
+Alliance of Conservatives and Reformists in Europe	ACRE 	134931073377586	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	10	2	0	0
+Radnička Fronta		770459529655215	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	10	0	0	0
+Telegram.hr		688325737947866	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	8	0	0	0
+ETUC		129041250601685	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	5	1	0	0
+MN Benito		1273446302821491	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	5	0	0	0
+Justice for Daphne Caruana Galizia		245601565462724	Facebook	virovitica_podravina_county_HR	Virovitica-Podravina County, Croatia	1	1	1	0	0	0

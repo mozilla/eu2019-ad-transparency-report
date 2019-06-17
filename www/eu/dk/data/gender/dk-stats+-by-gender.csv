@@ -1,4 +1,4 @@
 gender_code	gender_label	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-f	female	DK	Denmark	349	118	1527742	359028	16030	3354
-m	male	DK	Denmark	352	117	1711406	391443	18565	3799
-u	unknown	DK	Denmark	292	105	25769	6127	271	56
+f	female	DK	Denmark	3674	422	34553926	11061459	397008	100769
+m	male	DK	Denmark	3708	419	34621477	11119324	403202	102082
+u	unknown	DK	Denmark	3119	408	582224	188099	6889	1738

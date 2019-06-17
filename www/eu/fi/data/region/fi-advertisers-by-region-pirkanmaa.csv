@@ -1,41 +1,134 @@
 advertiser_name	advertiser_disclosure	platform_advertiser_id	platform_name	region_code_filter	region_name_filter	country_code_filter	country_name_filter	ad_count	advertiser_count	high_impressions	low_impressions	high_spend	low_spend
-Miikka-Markus Leskinen europarlamenttiin	Leskinen Miikka-Markus	1964589417153542	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	7797	1559	126	5
-Mauri Pekkarinen	Mauri Pekkarinen	177939666416553	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	4735	947	47	9
-Poliitikko Sami Yli-Rahnasto	Pohjanmaan Kokoomus ry	371635287025743	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	3425	685	6	0
-Tuomas Tikkanen	Tikkanen Juho Tuomas	2139907472900957	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	4	1	3318	589	122	3
-Mia Haglund	Mia Haglund MEPiksi -kampanja	252498358197157	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	5	1	2234	531	29	3
-Antton Rönnholm	Antton Rönnholm	575908612596562	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	6	1	1841	349	21	0
-Petra Schulze Steinen	Schulze-Steinen Petra Elina Marjatta	266912807301110	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	3	1	1170	34	102	0
-Kaisa Penny	Kaisa Penny	259256970891807	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	1106	21	101	0
-European Parliament	European Parliament	178362315106	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	679	339	6	3
-Sirpa Pietikäinen	Sirpa Pietikäinen	140188405326	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	566	143	5	0
-Kristillisdemokraatit	Kristillisdemokraatit	157614802920	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	3	1	333	63	5	0
-Karri Ollila Europarlamenttiin 2019	Karri Ollila	300059733998436	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	194	97	1	0
-Mikkel Näkkäläjärvi	Nakkalajarvi Mikkel Antte Iisakki	617733068345315	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	4	1	135	24	3	0
-Pekka Shemeikka	Nokela Matti Juhani Philip	591986911282315	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	115	23	2	0
-Olli Kotro Euroopan parlamenttiin 2019	Kauko Niko Aleksanteri	2211654885785838	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	3	1	100	17	2	0
-Matilda af Hällström	af Hällström Matilda Linnea Alice	430195364409025	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	91	18	1	0
-Paula Aikio-Tallgren EU-vaaliehdokas	Pohjoisen asian osaajat ry	510346432432044	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	65	13	1	0
-Arto Luukkanen	Riekkovaara Niko Tapani	1527478777519070	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	53	9	1	0
-Äänioikeus.fi		753565071658403	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	39	7	0	0
-VIKES Viestintä ja kehitys -säätiö	Viestintä ja kehitys -säätiö	381290523932	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	36	0	3	0
+Kokoomus	Kokoomus	201285237101	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	42	1	134934	29625	3138	513
+Sosialidemokraatit SDP	Sosialidemokraatit SDP	108945982480217	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	6	1	102173	21049	610	105
+Vasemmistoliitto	Vasemmistoliitto	60390955171	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	107	1	34853	9397	387	60
+Tuomas Tikkanen	Tikkanen Juho Tuomas	2139907472900957	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	13	1	30978	11049	846	148
+Mauri Pekkarinen	Mauri Pekkarinen	177939666416553	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	4	1	25611	11653	255	112
+Petri Sarvamaa	Petri Sarvamaa	164624737027350	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	15	1	22071	6780	1020	167
+Antton Rönnholm	Antton Rönnholm	575908612596562	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	49	1	20793	4589	165	18
+Anna Mäkipää	Mäkipää Anna Marjatta	410045932385582	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	8	1	18744	4144	325	61
+European Greens	European Greens	141366725876424	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	8	1	17250	7318	235	47
+Perussuomalaiset	Perussuomalaiset	181106108341	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	6	1	16810	6667	182	38
+Miapetra Kumpula-Natri	Euroopassa Suomen tähden  / Miapetra Kumpula-Natri	922311201130062	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	9	1	12938	6247	115	4
+Mia Haglund	Mia Haglund MEPiksi -kampanja	252498358197157	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	13	1	12054	3493	135	32
+Vihreät - De Gröna	Vihreät - De Gröna	33722070600	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	16	1	11820	5397	69	22
+Petra Schulze Steinen	Schulze-Steinen Petra Elina Marjatta	266912807301110	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	20	1	11658	1887	401	5
+Tampereen vihreät nuoret - Virnu	Tampereen vihreät nuoret	120164961352498	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	9961	1992	197	0
+Poliitikko Sami Yli-Rahnasto	Pohjanmaan Kokoomus ry	371635287025743	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	9950	1990	99	19
+European Parliament	European Parliament	178362315106	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	16	1	9103	4187	110	26
+Miikka-Markus Leskinen europarlamenttiin	Leskinen Miikka-Markus	1964589417153542	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	3	1	7811	1566	127	5
+Kaisa Penny	Kaisa Penny	259256970891807	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	5	1	5879	1216	109	1
+Fatim Diarra	Fatim Diarra	1357638954294467	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	5	1	5720	2286	108	20
+Pekka Shemeikka	Nokela Matti Juhani Philip	591986911282315	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	11	1	5109	1316	43	7
+Henna Virkkunen	Henna Virkkunen	120537424633927	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	17	1	4966	1829	53	8
+Ville Niinistö	Ville Niinistö	153186884700042	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	4	1	4540	2252	28	13
+Janne Parkkila - Vasemmistoliitto	Janne Parkkilan tukiyhdistys ry	354424931606915	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	11	1	2539	939	31	5
+Sirpa Pietikäinen	Sirpa Pietikäinen	140188405326	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	10	1	2467	576	34	6
+Jouni Kemppainen	Kemppainen Jouni Petteri	387812258475026	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	3	1	2362	1093	16	7
+Satu Jaatinen 216		611696415923639	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	9	1	2322	874	55	9
+Arto Luukkanen	Riekkovaara Niko Tapani	1527478777519070	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	11	1	2295	505	33	6
+Tomi Kontkanen	Finlands svenska socialdemokrater	2211545855568908	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	6	1	2089	812	11	1
+Nils Torvalds	Nils Torvalds	343089085765596	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	12	1	2016	434	39	0
+Teuvo Hakkarainen	Riekkovaara Niko Tapani	198979100169761	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	11	1	2000	423	19	3
+Tiina Heikkinen	Heikkinen Tiina Maria	252243572053482	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	1983	991	49	9
+Matilda af Hällström	af Hällström Matilda Linnea Alice	430195364409025	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	5	1	1915	696	32	8
+Mikko Ohela	Mikko Ohela	201647537374497	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	12	1	1866	398	11	1
+Max Schulman	Svenska folkpartiet i Finland - RKP	2186035071663314	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	1825	365	18	3
+YOU.and.EU	Nordstrom Laura Helena	250361215678222	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	5	1	1571	314	6	0
+Alviina Alametsä	Alametsae Pauliina Viivi Alviina	292611094275509	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	10	1	1516	419	19	1
+Mikkel Näkkäläjärvi	Nakkalajarvi Mikkel Antte Iisakki	617733068345315	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	6	1	1499	387	15	2
+Leena Brandt	Brandt Leena Kaarina	336732893639928	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	3	1	1385	277	8	1
+Kristillisdemokraatit	Kristillisdemokraatit	157614802920	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	5	1	1259	428	11	1
+Satu Taavitsainen	Taavitsainen Satu Johanna	803596373025380	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	1147	574	11	0
+Svenska folkpartiet i Finland - RKP	Svenska folkpartiet i Finland - RKP	191883307265	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	8	1	1107	223	2	0
+Feministinen puolue	Feministinen puolue	246435052396654	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	6	1	1092	234	11	1
+Olli Kotro Euroopan parlamenttiin 2019	Kauko Niko Aleksanteri	2211654885785838	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	3	1	1040	232	10	1
+Eurooppalainen Suomi ry	Eurooppalainen Suomi ry	163903613685550	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	1030	206	5	0
+Jukka Linna	Jukka Linnan tukiyhdistys	2313503042310251	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	6	1	1016	203	15	2
+Suomiduunari	Riekkovaara Niko Tapani	244224963187036	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	965	478	5	0
+Eurooppanuoret (JEF-Finland)	Eurooppanuoret ry	296668661689	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	965	193	1	0
+Allianssi	Allianssi	189362187761641	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	17	1	960	260	15	0
+Karri Ollila Europarlamenttiin 2019	Karri Ollila	300059733998436	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	5	1	936	295	20	2
+Miikka Keränen	Keranen Miikka Markus	126768630726940	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	3	1	876	424	12	4
+Mirja Vehkaperä	Vehkaperä Mirja Tellervo	237130593122439	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	4	1	874	174	4	0
+Kokoomusnuoret	Kokoomusnuoret	28469960111	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	787	157	7	1
+Vasemmistonuoret	Vasemmistonuoret	302480422335	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	656	131	13	0
+Trasek ry	Trasek ry	384673691545854	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	643	128	1	0
+Kimmo Sasi	Sasi Kimmo Kalevi Immeri	311253592006	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	5	1	592	155	13	1
+Aura Salla	Salla Aura Maria	357502994332188	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	6	1	584	140	3	0
+Vihreät nuoret	Vihreät nuoret	362064961211	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	17	1	521	105	18	0
+Matleena Käppi	Matleena Käpin vuoden 2019 vaalien tukiyhdistys	1806983809518838	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	6	1	503	118	5	0
+Elsi Katainen	Katainen Elsi Kaarina	190042298268350	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	499	99	4	0
+Perussuomalaiset Nuoret		133551219988558	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	448	89	4	0
+Simo Grönroos	Gronroos Simo Juhani	445988248775782	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	428	85	4	0
+Niko Eskelinen poliitikko	Eskelinen Niko Olavi	1337176579662419	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	390	78	7	0
+BirdLife Suomi		254403722807	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	373	74	3	0
+Susanna Kisner	Susanna Kisnerin tukiryhmä	1569715913292949	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	8	1	325	101	8	1
+Leena Zittling - Eurovaaliehdokas 2019 - KOK	Miettinen Pasi Olavi	804330503290879	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	311	62	3	0
+Hans Adolf Ehrnrooth	Turvallinen ja vakaa Eurooppa ry	747915358921075	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	308	61	3	0
+Piia Kurki	Piia Kurki	270567833058986	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	7	1	302	112	11	1
+Anna Sirkiä	Anna Sirkiä	115751458577078	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	16	1	293	83	5	0
+Jussi Nurmi	Nurmi Jussi Tapio	1895217903938885	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	3	1	291	133	9	1
+Suomen Lähetysseura	Suomen Lähetysseura	8265674748	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	271	54	0	0
+Greenpeace Suomi	Greenpeace Suomi	9227859351	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	9	1	235	32	10	0
+Minna Karvonen		311176426363089	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	231	102	4	0
+Tero Hannula		350628269116805	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	3	1	201	33	6	0
+Filip Hamro-Drotz	HAMRO-DROTZ DENNIS MIKAEL	2251922594829597	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	4	1	173	34	3	0
+Finnwatch	Finnwatch	127195574005414	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	4	1	170	62	4	0
+Sean Bergenheim	Svenska folkpartiet i Finland - RKP	266603130709392	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	150	75	7	1
+Filip Björklöf	Filip Björklöfs understödsförening	432450826819256	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	12	1	136	27	5	0
+Svensk Ungdom - RKP-nuoret	Svensk Ungdom - RKP-nuoret	172659206933	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	5	1	134	48	2	0
+Petteri Orpo	Kokoomus	154256701288026	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	132	26	1	0
+Kimmo Kautio - Kokoaan Suurempi Suomi	Kautio Kimmo Jaakko Tapio	315479585304528	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	3	1	127	25	2	0
+Henrik Wickström	Wickström 2019	448116415229902	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	5	1	126	21	3	0
+Paula Aikio-Tallgren EU-vaaliehdokas	Pohjoisen asian osaajat ry	510346432432044	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	3	1	121	42	2	0
+VIKES Viestintä ja kehitys -säätiö	Viestintä ja kehitys -säätiö	381290523932	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	121	24	2	0
+Janika Takatalo	Takatalo Janika Emmi Kristiina	1380023342235751	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	3	1	121	24	2	0
+Olli-Pekka Nyberg	NYBERG OLLI-PEKKA	291483185114189	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	4	1	118	23	2	0
+Irja Sokka Poliitikko	Irja Sokka Poliitikko	689010728162410	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	3	1	109	34	1	0
+Silja Keränen	Silja Keräsen tukiryhmä	159315454207327	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	6	1	101	16	3	0
+Yannick Lahti	Lahti Yannick Duncan Olavi	1779172592405294	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	78	15	1	0
+Elsi Ranta	Ranta Elsi Inkeri	544178606104826	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	5	1	77	12	2	0
+Radio Dei	Radio Dei	106745452698752	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	70	14	1	0
+Janne Kaisanlahti	Kaisanlahti Janne Kalervo	309381625805373	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	4	1	68	13	1	0
+European Commission	European Commission	107898832590939	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	21	1	65	32	0	0
+Anna Jungner-Nordgren	Stödföreningen för Anna Jungner-Nordgren	126206450772264	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	8	1	63	9	2	0
+Matti Ylitalo -PerusMatti		186429471476588	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	62	0	6	0
+Sonja Falk	Falk Mika Tapio	164696826881379	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	60	30	3	0
+Ida-Maria Skytte	Skytte Sofia Ida-Maria	1854582881493142	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	60	30	0	0
+Teuvo Hatva - eurovaaliehdokas	Maury Aino Maija	948715928850182	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	52	10	1	0
+Pirkko Vihko		2384976475054673	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	52	10	1	0
+Tommi Aalto		650991871774294	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	51	10	1	0
+Asseri Kinnunen	Kinnunen Henri Asseri	1159967857373678	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	44	8	0	0
+Äänioikeus.fi		753565071658403	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	38	7	0	0
 Tekniikan Maailma	Rainisto Sami Pasi Kalevi	309780042465696	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	34	6	0	0
-Mikko Ohela	Mikko Ohela	201647537374497	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	29	5	0	0
-Perussuomalaiset	Perussuomalaiset	181106108341	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	29	5	0	0
-Filip Hamro-Drotz	HAMRO-DROTZ DENNIS MIKAEL	2251922594829597	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	27	0	2	0
-Matleena Käppi	Matleena Käpin vuoden 2019 vaalien tukiyhdistys	1806983809518838	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	24	4	0	0
-Eurooppalainen Suomi ry	Eurooppalainen Suomi ry	163903613685550	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	21	0	2	0
-Irja Sokka Poliitikko	Irja Sokka Poliitikko	689010728162410	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	15	3	0	0
-Anna Sirkiä	Anna Sirkiä	115751458577078	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	13	2	0	0
-Filip Björklöf	Filip Björklöfs understödsförening	432450826819256	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	4	1	11	0	1	0
-Olli-Pekka Nyberg	NYBERG OLLI-PEKKA	291483185114189	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	9	0	0	0
-Janika Takatalo	Takatalo Janika Emmi Kristiina	1380023342235751	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	6	0	0	0
-Henrik Wickström	Wickström 2019	448116415229902	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	5	0	0	0
-Allianssi	Allianssi	189362187761641	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	5	0	0	0
-Anna Jungner-Nordgren	Stödföreningen för Anna Jungner-Nordgren	126206450772264	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	5	0	0	0
+Yakup Yilmaz		711520618881714	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	32	0	3	0
+Helena Marttila	Uudenmaan Sosialidemokraatit ry	373811376519125	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	26	5	0	0
+Heidi Hautala		116940668479201	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	25	0	2	0
+Jussi Mäkipelto - Eurovaaliehdokas 105 - Liberaalipuolue	Makipel To Jussi Markus	1057558317751103	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	19	0	1	0
+Kaksin - Tvåsamhet	Kaksin - Tvåsamhet	2110443792388818	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	11	1	14	2	0	0
+SLC	SLC r.f.	126812894035597	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	5	1	14	4	0	0
+Frida Sigfrids	Svenska folkpartiet i Finland - RKP	1506788009337272	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	10	2	0	0
+European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	8	0	0	0
+Makuja Järvikylästä		457310120990526	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	6	0	0	0
+Silja Borgarsdóttir Sandelin	Svenska folkpartiet i Finland - RKP	145265965535213	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	3	0	0	0
 Riku Eskelinen	Riku Eskelisen eurovaalien tukiyhdistys Herttoniemen Keskustaseura ry	312837175579728	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	2	0	0	0
-Jussi Mäkipelto - Eurovaaliehdokas 105 - Liberaalipuolue	Makipel To Jussi Markus	1057558317751103	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	1	0	0	0
-Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	3	1	0	0	0	0
-European Commission	European Commission	107898832590939	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	0	0	0	0
-European Committee of the Regions	European Committee of the Regions	527351247377965	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	0	0	0	0
-Miapetra Kumpula-Natri	Euroopassa Suomen tähden  / Miapetra Kumpula-Natri	922311201130062	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	0	0	0	0
+Ramieza Mahdi	Mahdi Ramieza Abdirahman Mohamed	268670670234757	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	1	0	0	0
+Ida Schauman	Schauman Ida Emilia Axelsdotter	1449434138617787	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	0	0	0	0
+Anton Nilsson	Betalt av stödföreningen för Anton Nilsson	290501338278566	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	15	1	0	0	0	0
+Stina Wahlsten	Wahlsten Stina Sofia	247410845719596	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	0	0	0	0
+Socialists and Democrats Group in the European Parliament	Socialists and Democrats Group in the European Parliament	127925800618165	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	0	0	0	0
+Greens/EFA in the European Parliament	Greens/EFA in the European Parliament	150527751674751	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	21	1	0	0	0	0
+نداء الحرب 3: امبراطورية الفولاذ		1896641773933197	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	0	0	0	0
+Party of European Socialists	Party of European Socialists	148097975226385	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	0	0	0	0
+Big News Buzz		125179374733697	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	0	0	0	0
+Europe Thinx		335839580440114	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	0	0	0	0
+ALDE Party – Liberals and Democrats for Europe	ALDE Party – Liberals and Democrats for Europe	262681199589	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	0	0	0	0
+EPP - European People's Party	EPP - European People's Party	48034275355	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	11	1	0	0	0	0
+European Free Alliance	European Free Alliance	46708306425	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	0	0	0	0
+ETUC		129041250601685	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	0	0	0	0
+Vote for a Woman / Stem op een Vrouw		1329572193784367	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	0	0	0	0
+Camilla Gunell till EU 2019	Socialdemokraterna på Åland	360575481205047	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	2	1	0	0	0	0
+EPP Group in the European Parliament	EPP Group in the European Parliament	291699857688	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	0	0	0	0
+Eurozine		115579498521257	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	0	0	0	0
+University of Helsinki	University of Helsinki	200739723082	Facebook	pirkanmaa	Pirkanmaa	FI	Finland	1	1	0	0	0	0
